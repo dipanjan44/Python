@@ -6,10 +6,10 @@ import urllib.request
 
 from bs4 import BeautifulSoup
 
-# Input arguments to the program
+# Input arguments to the program, default values are set as given in the problem statement of task1
 parser = argparse.ArgumentParser (description='Provide the input parameters for the webcrawler')
-parser.add_argument ("--max_depth", default=2, help='Maximum depth allowed for crawling')
-parser.add_argument ("--unique_url_count", default=10, help="Maximum number of unique URLS in a crawl")
+parser.add_argument ("--max_depth", default=6, help='Maximum depth allowed for crawling')
+parser.add_argument ("--unique_url_count", default=1000, help="Maximum number of unique URLS in a crawl")
 parser.add_argument ("--seed", default="https://en.wikipedia.org/wiki/Time_zone",
                      help="the seed URL to start crawling")
 parser.add_argument ("--out_filename", default="crawledList", help="the filename to store the unique URL's crawled")
