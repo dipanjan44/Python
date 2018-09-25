@@ -3,17 +3,19 @@ import re
 import time
 import urllib.parse
 import urllib.request
-import json
-
 
 from bs4 import BeautifulSoup
 
 # Input arguments to the program, default values are set as given in the problem statement of task1
 parser = argparse.ArgumentParser (description='Provide the input parameters for the webcrawler')
-parser.add_argument ("--max_depth", default=6, help='Maximum depth allowed for crawling')
+parser.add_argument ("--max_depth", default=2, help='Maximum depth allowed for crawling')
 parser.add_argument ("--unique_url_count", default=100, help="Maximum number of unique URLS in a crawl")
-parser.add_argument ("--seed", default="https://en.wikipedia.org/wiki/Time_zone",
-                     help="the seed URL to start crawling")
+parser.add_argument ("--seed1", default="https://en.wikipedia.org/wiki/Time_zone",
+                     help="the first seed URL to start crawling")
+parser.add_argument ("--seed2", default="https://en.wikipedia.org/wiki/Electric_car",
+                     help="the second seed URL to start crawling")
+parser.add_argument ("--seed3", default="https://en.wikipedia.org/wiki/Carbon_footprint",
+                     help="the third seed URL to start crawling")
 parser.add_argument ("--out_filename", default="crawledList", help="the filename to store the unique URL's crawled")
 args = parser.parse_args ()
 
@@ -24,11 +26,21 @@ FILE_INDEX = 1
 # dictionary to store the file name and the corresponding URL
 LINK_FILENAME_MAP = {}
 # dictionary to store each unique URL crawled and their depth relative to the seed
-URL_DEPTH_MAP = {}
+URL_DEPTH_MAP_SEED_1 = {}
+URL_DEPTH_MAP_SEED_2 = {}
+URL_DEPTH_MAP_SEED_3 = {}
 
 
 # function which crawls the web following BFS
 def webspider (seed):
+    # Assigning map based on the seed
+    if seed == args.seed1:
+        map = URL_DEPTH_MAP_SEED_1
+    if seed == args.seed2:
+        map = URL_DEPTH_MAP_SEED_2
+    if seed == args.seed3:
+        map = URL_DEPTH_MAP_SEED_3
+
     links_to_crawl = [seed]
     links_crawled = []
     links_at_nextdepth = []
@@ -42,8 +54,8 @@ def webspider (seed):
                 links_crawled.append (current_crawl)
                 # respect politeness policy of the website
                 time.sleep (1);
-        if current_crawl not in URL_DEPTH_MAP:
-            URL_DEPTH_MAP.update ({current_crawl: current_depth})
+        if current_crawl not in map:
+            map.update ({current_crawl: current_depth})
         # if all links at current depth is exhausted go to the next level
         if not links_to_crawl:
             links_to_crawl = links_at_nextdepth
@@ -59,19 +71,6 @@ def update_to_crawl_list (links_at_nextdepth, new_fetched_urls):
             links_at_nextdepth.append (url)
 
 
-# function to download the html content and write them to a file along with the URL
-def write_html_content (current_crawl, html_content):
-    global FILE_INDEX
-    filename = 'file_' + str (FILE_INDEX) + '.txt'
-    file_content = open (filename, 'a+')
-    # storing the URL along with the page content
-    file_content.write (current_crawl + '\n' + html_content.decode ())
-    global LINK_FILENAME_MAP
-    LINK_FILENAME_MAP.update ({filename: current_crawl})
-    FILE_INDEX = FILE_INDEX + 1
-    file_content.close ()
-
-
 # helper function which support the webspider to retrieve urls based on the crawling policy
 def get_all_urls (current_crawl):
     valid_url_list = []
@@ -80,7 +79,6 @@ def get_all_urls (current_crawl):
     response = urllib.request.urlopen (current_crawl)
     html_content = BeautifulSoup (response, "html.parser")
     html_content.prettify ()
-    #write_html_content (current_crawl, html_content.encode ())
     # Get the links that obey the pattern
     body = html_content.find ('div', {'id': 'bodyContent'})
     links = body.find_all ('a', href=pattern)
@@ -101,18 +99,63 @@ def crawled_url_list (links_crawled, outfh):
         outfh.write ("\n")
 
 
+def intermediate_merge (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2):
+    temp_url_map = {}
+    for url, depth in URL_DEPTH_MAP_SEED_1.items ():
+        for link, drop in URL_DEPTH_MAP_SEED_2.items ():
+            if link == url:
+                if drop < depth:
+                    temp_url_map.update ({link: drop})
+                else:
+                    temp_url_map.update ({url: depth})
+            else:
+                if link not in temp_url_map:
+                    temp_url_map.update ({link: drop})
+        if url not in temp_url_map:
+            temp_url_map.update ({url: depth})
+
+    return temp_url_map
+
+
+def merge_into_unique_url (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2, URL_DEPTH_MAP_SEED_3):
+    merged_list = {}
+    half_merged = intermediate_merge (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2)
+
+    print('Printing the processed URL map from the first merge')
+    print(half_merged)
+
+    for url, depth in half_merged.items():
+        for link, drop in URL_DEPTH_MAP_SEED_3.items():
+            if link == url:
+                if drop < depth:
+                    merged_list.update({link: drop})
+                else:
+                    merged_list.update({url: depth})
+            else:
+                if link not in merged_list:
+                    merged_list.update({link: drop})
+        if url not in merged_list:
+            merged_list.update({url: depth})
+
+    return merged_list
+
+
 def main ():
-    outfilename = args.out_filename + ".txt";
-    outfh = open (outfilename, "a+")
-    start = time.time ()
-    links_crawled = webspider (args.seed)
-    end = time.time ()
-    print (end - start)
-    print (links_crawled)
-    crawled_url_list (links_crawled, outfh)
-    outfh.close ()
-    json_file = open("sample.json","w")
-    json_file.write(json.dumps(URL_DEPTH_MAP))
+    webspider(args.seed1)
+    webspider(args.seed2)
+    webspider(args.seed3)
+    merge_list = merge_into_unique_url(URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2, URL_DEPTH_MAP_SEED_3)
+
+    print ("Start printing the urls with their depth" + "\n")
+    print (len(URL_DEPTH_MAP_SEED_1))
+    print ('*******************************' + '\n')
+    print (len(URL_DEPTH_MAP_SEED_2))
+    print ('*******************************' + '\n')
+    print (len(URL_DEPTH_MAP_SEED_3))
+    print ('Printing the merged list based on condition check')
+    print (merge_list)
+    print (len (merge_list))
+    print ("Finished priniting")
 
 if __name__ == main ():
     main ()
