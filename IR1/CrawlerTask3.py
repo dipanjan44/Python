@@ -9,12 +9,12 @@ from bs4 import BeautifulSoup
 
 # Input arguments to the program, default values are set as given in the problem statement of task1
 parser = argparse.ArgumentParser (description='Provide the input parameters for the webcrawler')
-parser.add_argument ("--max_depth", default=3, help='Maximum depth allowed for crawling')
-parser.add_argument ("--unique_url_count", default=50, help="Maximum number of unique URLS in a crawl")
-parser.add_argument ("--seed", default="https://en.wikipedia.org/wiki/Time_zone"
-                                       "",
+parser.add_argument ("--max_depth", default=2, help='Maximum depth allowed for crawling')
+parser.add_argument ("--unique_url_count", default=10, help="Maximum number of unique URLS in a crawl")
+parser.add_argument ("--keyword", default="green", help="The keyword to be searched")
+parser.add_argument ("--seed", default="https://en.wikipedia.org/wiki/Carbon_footprint",
                      help="the seed URL to start crawling")
-parser.add_argument ("--out_filename", default="crawledList_Carbon_footprint",
+parser.add_argument ("--out_filename", default="crawledList_task3",
                      help="the filename to store the unique URL's crawled")
 args = parser.parse_args ()
 
@@ -29,7 +29,7 @@ LINK_FILENAME_MAP = {}
 URL_DEPTH_MAP = {}
 
 # function which crawls the web following BFS
-def webspider (seed):
+def webspider (seed,keyword):
     links_to_crawl = [seed]
     links_crawled = []
     links_crawled_at_currentdepth = []
@@ -38,7 +38,7 @@ def webspider (seed):
     while links_to_crawl and len (links_crawled) < args.unique_url_count and current_depth <= args.max_depth:
         current_crawl = links_to_crawl.pop (0)
         if current_crawl not in links_crawled:
-            new_fetched_urls = get_all_urls (current_crawl)
+            new_fetched_urls = get_all_urls (current_crawl,keyword)
             if new_fetched_urls is not None:
                 update_to_crawl_list (links_at_nextdepth, new_fetched_urls)
                 links_crawled.append (current_crawl)
@@ -57,7 +57,7 @@ def webspider (seed):
 
 
 # helper function which support the webspider to retrieve urls based on the crawling policy
-def get_all_urls (current_crawl):
+def get_all_urls (current_crawl, keyword):
     valid_url_list = []
     pattern = re.compile ('^/wiki/')
     base_url = "https://en.wikipedia.org/wiki"
@@ -65,7 +65,7 @@ def get_all_urls (current_crawl):
     html_content = BeautifulSoup (response, "html.parser")
     html_content.prettify ()
     # capture the url-directs
-    url_redirects=html_content.find_all("a", class_='mw-redirect')
+    url_redirects = html_content.find_all ("a", class_='mw-redirect')
     # skip the reference section
     if len (html_content.find ('ol', class_='references') or ()) > 1:
         html_content.find ('ol', class_='references').decompose ()
@@ -80,7 +80,12 @@ def get_all_urls (current_crawl):
                     url = urllib.parse.urljoin (base_url, link.get ('href'))
                     if "#" in link.get ('href'):
                         url = url[: url.index ('#')]
-                    if url not in valid_url_list:
+                    anchor_text = link.text
+                    link_regex = r'.*' + re.escape (keyword) + r'.*'
+                    anchor_regex = r'.*' + re.escape (keyword) + r'.*'
+                    url_text_match = re.search (link_regex, '"' + str (url) + '"', re.IGNORECASE)
+                    anchor_text_match = re.search (anchor_regex, '"' + anchor_text + '"', re.IGNORECASE)
+                    if url not in valid_url_list and (url_text_match or anchor_text_match):
                         valid_url_list.append (url)
     return valid_url_list
 
@@ -106,12 +111,11 @@ def write_html_content (current_crawl, html_content):
 
 
 def main ():
-    crawled_list=webspider(args.seed)
+    crawled_list=webspider(args.seed,args.keyword)
     print("The number of unique URL fetched is:" +" " +str(len(crawled_list)))
     json_file = open (args.out_filename + ".json", "w")
     json_file.write (json.dumps (URL_DEPTH_MAP))
     json_file.close ()
-
 
 if __name__ == main ():
     main ()
