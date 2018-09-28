@@ -3,20 +3,21 @@ import re
 import time
 import urllib.parse
 import urllib.request
+import json
 
 from bs4 import BeautifulSoup
 
 # Input arguments to the program, default values are set as given in the problem statement of task1
 parser = argparse.ArgumentParser (description='Provide the input parameters for the webcrawler')
-parser.add_argument ("--max_depth", default=2, help='Maximum depth allowed for crawling')
-parser.add_argument ("--unique_url_count", default=100, help="Maximum number of unique URLS in a crawl")
+parser.add_argument ("--max_depth", default=6, help='Maximum depth allowed for crawling')
+parser.add_argument ("--unique_url_count", default=1000, help="Maximum number of unique URLS in a crawl")
 parser.add_argument ("--seed1", default="https://en.wikipedia.org/wiki/Time_zone",
                      help="the first seed URL to start crawling")
 parser.add_argument ("--seed2", default="https://en.wikipedia.org/wiki/Electric_car",
                      help="the second seed URL to start crawling")
 parser.add_argument ("--seed3", default="https://en.wikipedia.org/wiki/Carbon_footprint",
                      help="the third seed URL to start crawling")
-parser.add_argument ("--out_filename", default="crawledList", help="the filename to store the unique URL's crawled")
+parser.add_argument ("--out_filename", default="mergedList.json", help="the filename to store the unique URL's crawled")
 args = parser.parse_args ()
 
 # Global Variables:
@@ -79,16 +80,23 @@ def get_all_urls (current_crawl):
     response = urllib.request.urlopen (current_crawl)
     html_content = BeautifulSoup (response, "html.parser")
     html_content.prettify ()
+    # capture the url-directs
+    url_redirects = html_content.find_all ("a", class_='mw-redirect')
     # Get the links that obey the pattern
     body = html_content.find ('div', {'id': 'bodyContent'})
+    # skip the reference section
+    if len(html_content.find ('ol', class_='references') or ()) > 1:
+        html_content.find ('ol', class_='references').decompose ()
     links = body.find_all ('a', href=pattern)
     for link in links:
-        if ":" not in link.get ('href'):
-            url = urllib.parse.urljoin (base_url, link.get ('href'))
-            if "#" in link.get ('href'):
-                url = url[: url.index ('#')]
-            if url not in valid_url_list:
-                valid_url_list.append (url)
+        if link not in url_redirects:
+            if '/wiki/MainPage' not in link.get('href'):
+                if ":" not in link.get ('href'):
+                    url = urllib.parse.urljoin (base_url, link.get ('href'))
+                    if "#" in link.get ('href'):
+                        url = url[: url.index ('#')]
+                    if url not in valid_url_list:
+                        valid_url_list.append (url)
     return valid_url_list
 
 
@@ -121,41 +129,40 @@ def merge_into_unique_url (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2, URL_DEPTH
     merged_list = {}
     half_merged = intermediate_merge (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2)
 
-    print('Printing the processed URL map from the first merge')
-    print(half_merged)
-
-    for url, depth in half_merged.items():
-        for link, drop in URL_DEPTH_MAP_SEED_3.items():
+    for url, depth in half_merged.items ():
+        for link, drop in URL_DEPTH_MAP_SEED_3.items ():
             if link == url:
                 if drop < depth:
-                    merged_list.update({link: drop})
+                    merged_list.update ({link: drop})
                 else:
-                    merged_list.update({url: depth})
+                    merged_list.update ({url: depth})
             else:
                 if link not in merged_list:
-                    merged_list.update({link: drop})
+                    merged_list.update ({link: drop})
         if url not in merged_list:
-            merged_list.update({url: depth})
+            merged_list.update ({url: depth})
 
     return merged_list
 
 
 def main ():
-    webspider(args.seed1)
-    webspider(args.seed2)
-    webspider(args.seed3)
-    merge_list = merge_into_unique_url(URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2, URL_DEPTH_MAP_SEED_3)
-
-    print ("Start printing the urls with their depth" + "\n")
-    print (len(URL_DEPTH_MAP_SEED_1))
+    webspider (args.seed1)
+    print (' The number of unique URLs from SEED_1 :' + ' ' + str (len (URL_DEPTH_MAP_SEED_1)))
     print ('*******************************' + '\n')
-    print (len(URL_DEPTH_MAP_SEED_2))
+    webspider (args.seed2)
+    print (' The number of unique URLs from SEED_2 :' + ' ' + str (len (URL_DEPTH_MAP_SEED_2)))
     print ('*******************************' + '\n')
-    print (len(URL_DEPTH_MAP_SEED_3))
-    print ('Printing the merged list based on condition check')
-    print (merge_list)
-    print (len (merge_list))
+    webspider (args.seed3)
+    print (' The number of unique URLs from SEED_3 :' + ' ' + str (len (URL_DEPTH_MAP_SEED_3)))
+    print ('*******************************' + '\n')
+    merge_list = merge_into_unique_url (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2, URL_DEPTH_MAP_SEED_3)
+    print ("Finished merging")
+    file_writer = open (args.out_filename, 'w')
+    file_writer.write (json.dumps(merge_list))
+    file_writer.close ()
+    print ('The number of unique URLs from merging :' + ' ' + str (len (merge_list)))
     print ("Finished priniting")
+
 
 if __name__ == main ():
     main ()
