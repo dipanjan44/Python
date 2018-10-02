@@ -1,9 +1,10 @@
 import argparse
+import json
 import re
 import time
 import urllib.parse
 import urllib.request
-import json
+from collections import OrderedDict
 
 from bs4 import BeautifulSoup
 
@@ -21,11 +22,6 @@ parser.add_argument ("--out_filename", default="mergedList.json", help="the file
 args = parser.parse_args ()
 
 # Global Variables:
-
-# variable to store the index of the files starting from 1 till 1000(at most)
-FILE_INDEX = 1
-# dictionary to store the file name and the corresponding URL
-LINK_FILENAME_MAP = {}
 # dictionary to store each unique URL crawled and their depth relative to the seed
 URL_DEPTH_MAP_SEED_1 = {}
 URL_DEPTH_MAP_SEED_2 = {}
@@ -85,12 +81,12 @@ def get_all_urls (current_crawl):
     # Get the links that obey the pattern
     body = html_content.find ('div', {'id': 'bodyContent'})
     # skip the reference section
-    if len(html_content.find ('ol', class_='references') or ()) > 1:
+    if len (html_content.find ('ol', class_='references') or ()) > 1:
         html_content.find ('ol', class_='references').decompose ()
     links = body.find_all ('a', href=pattern)
     for link in links:
         if link not in url_redirects:
-            if '/wiki/MainPage' not in link.get('href'):
+            if '/wiki/MainPage' not in link.get ('href'):
                 if ":" not in link.get ('href'):
                     url = urllib.parse.urljoin (base_url, link.get ('href'))
                     if "#" in link.get ('href'):
@@ -100,15 +96,9 @@ def get_all_urls (current_crawl):
     return valid_url_list
 
 
-# function which generates the file with the final list of unique urls
-def crawled_url_list (links_crawled, outfh):
-    for link in links_crawled:
-        outfh.write (link)
-        outfh.write ("\n")
-
-
+# helper function to merge urls based on depth precedence for seed_1 and seed_2
 def intermediate_merge (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2):
-    temp_url_map = {}
+    temp_url_map = OrderedDict ()
     for url, depth in URL_DEPTH_MAP_SEED_1.items ():
         for link, drop in URL_DEPTH_MAP_SEED_2.items ():
             if link == url:
@@ -125,22 +115,29 @@ def intermediate_merge (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2):
     return temp_url_map
 
 
+# function to merge the 3 unique URL's list into a single unique list of 1000 URLs with corrosponding depth
 def merge_into_unique_url (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2, URL_DEPTH_MAP_SEED_3):
-    merged_list = {}
+    merged_full_list = OrderedDict ()
+    merged_list = []
     half_merged = intermediate_merge (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2)
-
+    count = 1
     for url, depth in half_merged.items ():
         for link, drop in URL_DEPTH_MAP_SEED_3.items ():
             if link == url:
                 if drop < depth:
-                    merged_list.update ({link: drop})
+                    merged_full_list.update ({link: drop})
                 else:
-                    merged_list.update ({url: depth})
+                    merged_full_list.update ({url: depth})
             else:
-                if link not in merged_list:
-                    merged_list.update ({link: drop})
-        if url not in merged_list:
-            merged_list.update ({url: depth})
+                if link not in merged_full_list:
+                    merged_full_list.update ({link: drop})
+        if url not in merged_full_list:
+            merged_full_list.update ({url: depth})
+
+        for k, v in merged_full_list.items ():
+            if count <= 1000:
+                merged_list.append (k + ':' + str (v))
+                count = count + 1
 
     return merged_list
 
@@ -158,10 +155,9 @@ def main ():
     merge_list = merge_into_unique_url (URL_DEPTH_MAP_SEED_1, URL_DEPTH_MAP_SEED_2, URL_DEPTH_MAP_SEED_3)
     print ("Finished merging")
     file_writer = open (args.out_filename, 'w')
-    file_writer.write (json.dumps(merge_list))
+    file_writer.write (json.dumps (merge_list))
     file_writer.close ()
-    print ('The number of unique URLs from merging :' + ' ' + str (len (merge_list)))
-    print ("Finished priniting")
+    print ('The number of unique URLs after merging :' + ' ' + str (len (merge_list)))
 
 
 if __name__ == main ():
