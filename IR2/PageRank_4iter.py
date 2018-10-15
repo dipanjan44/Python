@@ -13,8 +13,14 @@ new_page_rank_map = {}
 page_list = []
 # list of all pages that have no links to other pages
 sink_page_list = []
+# map containing URL's and page ranks in descending order
+url_page_rank_map={}
+# base_url
+base_url="https://en.wikipedia.org/wiki/"
 # damping factor
 d = 0.85
+# variable to extract the input file name
+file_name=""
 
 
 # parses the graph file given to it and calls functions to populate all the dictionaries
@@ -81,29 +87,51 @@ def pagerank_calculation ():
         for page in page_list:
             last_page_rank_map[page] = new_page_rank_map[page]
         iteration = iteration + 1
-        print("The Page rank for the pages in iteration: " +str(iteration) +" are:")
-        sort_page_rank(last_page_rank_map)
 
 
+# sorts and prints pages by their URL and PageRank Score (all pages)
+def sort_page_rank_URL (page_rank_map):
+    count=0
+    file_page_rank = open (str(file_name)+"_SortedPageRank_URL_4iter_d" +str(d) + ".txt", "w+")
+    file_page_rank.write ("******************PageRank******************" + "\n")
+    file_page_rank.write ("The pages as per their URL and scores are : " + "\n")
+    for docId in page_rank_map.keys ():
+        new_key = base_url + str (docId)
+        url_page_rank_map[new_key] = page_rank_map[docId]
+    sorted_url_pagerank = sorted (url_page_rank_map.items (), key=operator.itemgetter (1), reverse=True)
+    while count < len(sorted_url_pagerank):
+        file_page_rank.write (str (sorted_url_pagerank[count]))
+        file_page_rank.write ("\n")
+        count=count+1
+    file_page_rank.close()
 
 # sorts and prints pages by their docID and PageRank Score
-def sort_page_rank (page_rank):
-    sorted_dict = sorted (page_rank.items (), key=operator.itemgetter (1), reverse=True)
+def sort_page_rank_docID (last_page_rank_map):
     count = 0
+    sort_page_rank_URL(last_page_rank_map)
+    sorted_dict = sorted (last_page_rank_map.items (), key=operator.itemgetter (1), reverse=True)
+    file_page_rank = open (str (file_name) + "_SortedPageRank_docID_4iter_d" + str (d) + ".txt", "w+")
+    file_page_rank.write ("******************PageRank******************" + "\n")
+    file_page_rank.write ("The pages as per their docID and scores are : " + "\n")
     while count < len (sorted_dict):
-        print (sorted_dict[count])
+        file_page_rank.write (str (sorted_dict[count]))
+        file_page_rank.write ("\n")
         count = count + 1
+    file_page_rank.close ()
 
 
-# sorts and prints top 5 pages by their docID and inlink counts
+# sorts and prints top 20 pages by their docID and inlink counts
 def sort_in_link (inlink):
     temp_dict = {}
+    file_in_link = open (str(file_name)+"_Sorted_Inlink_4iter_d"+str(d) + ".txt", "w+")
+    file_in_link.write ("*******************InlinkStats*******************" +"\n")
+    file_in_link.write ("The pages sorted in descending order of the Inlink count are :" +"\n")
     for page in inlink.keys ():
         temp_dict[page] = len (inlink.get (page))
     sorted_dict = sorted (temp_dict.items (), key=operator.itemgetter (1), reverse=True)
     count = 0
     while count < 20 and count < len (sorted_dict):
-        print (sorted_dict[count])
+        file_in_link.write (str (sorted_dict[count]) +"\n")
         count += 1
 
 
@@ -140,20 +168,12 @@ def max_out_degree ():
 # main method
 def main ():
     graph = input ('Enter the filename containing the graph: ')
+    global file_name
+    file_name = graph.split (".")[0]
     parse_graph (str (graph))
     pagerank_calculation ()
-    print ("*******************PageRank*******************")
-    print ("The pages as per their PageRank scores are : ")
-    sort_page_rank (new_page_rank_map)
-    print ("*******************InlinkStats*******************")
-    print ("The pages sorted in descending order of the Inlink count are : ")
+    sort_page_rank_docID (new_page_rank_map)
     sort_in_link (inlink_map)
-    print ("*******************GraphStatistics*******************")
-    print ("The total number of pages in the graph with no out-links (sinks) are : " + str (len (sink_page_list)))
-    print (
-        "The total number of pages in the graph with no in-links (sources) are : " + str (count_sources (inlink_map)))
-    print ("The maximum in-degree in the graph is : " + str (max_in_degree ()))
-    print ("The maximum out-degree in the graph is : " + str (max_out_degree ()))
 
 
 if __name__ == "__main__": main ()
