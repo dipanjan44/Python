@@ -1,0 +1,458 @@
+https://en.wikipedia.org/wiki/Season_creep
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Season creep - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Season_creep","wgTitle":"Season creep","wgCurRevisionId":847556154,"wgRevisionId":847556154,"wgArticleId":14856188,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Effects of global warming","Neologisms","Climatology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Season_creep","wgRelevantArticleId":14856188,"wgRequestId":"W9bqVgpAMFgAAAlO@0wAAAAU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7441881","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TakiZakura2012Apr29%28SakuraLooksWaterfall-MiharuFukushimaJapan%29.jpg/1200px-TakiZakura2012Apr29%28SakuraLooksWaterfall-MiharuFukushimaJapan%29.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Season_creep" rel="alternate"/>
+<link href="/w/index.php?title=Season_creep&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Season_creep&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Season_creep" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Season_creep rootpage-Season_creep skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Season creep</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:TakiZakura2012Apr29(SakuraLooksWaterfall-MiharuFukushimaJapan).jpg"><img alt="" class="thumbimage" data-file-height="2448" data-file-width="3264" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/TakiZakura2012Apr29%28SakuraLooksWaterfall-MiharuFukushimaJapan%29.jpg/220px-TakiZakura2012Apr29%28SakuraLooksWaterfall-MiharuFukushimaJapan%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/TakiZakura2012Apr29%28SakuraLooksWaterfall-MiharuFukushimaJapan%29.jpg/330px-TakiZakura2012Apr29%28SakuraLooksWaterfall-MiharuFukushimaJapan%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/TakiZakura2012Apr29%28SakuraLooksWaterfall-MiharuFukushimaJapan%29.jpg/440px-TakiZakura2012Apr29%28SakuraLooksWaterfall-MiharuFukushimaJapan%29.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:TakiZakura2012Apr29(SakuraLooksWaterfall-MiharuFukushimaJapan).jpg" title="Enlarge"></a></div>Cherry blossoms in Japan have been emerging earlier in recent years due to climate change</div></div></div>
+<p>In <a href="/wiki/Phenology" title="Phenology">phenology</a>, <b>season creep</b> refers to observed changes in the timing of the <a href="/wiki/Season" title="Season">seasons</a>,<sup class="reference" id="cite_ref-isbn0-7506-8320-1_1-0"><a href="#cite_note-isbn0-7506-8320-1-1">[1]</a></sup><sup class="reference" id="cite_ref-Macmillan_2-0"><a href="#cite_note-Macmillan-2">[2]</a></sup> such as earlier indications of spring<sup class="reference" id="cite_ref-MED_Magazine_3-0"><a href="#cite_note-MED_Magazine-3">[3]</a></sup> widely observed in <a class="mw-redirect" href="/wiki/Temperate" title="Temperate">temperate</a> areas across the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-Cleland2006_5-0"><a href="#cite_note-Cleland2006-5">[5]</a></sup>
+Phenological records analyzed by climate scientists have shown significant temporal trends in the observed time of seasonal events,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-TIME_7-0"><a href="#cite_note-TIME-7">[7]</a></sup>
+from the end of the 20th century and continuing into the 21st century.<sup class="reference" id="cite_ref-Cleland2006_5-1"><a href="#cite_note-Cleland2006-5">[5]</a></sup><sup class="reference" id="cite_ref-Record-Eagle_8-0"><a href="#cite_note-Record-Eagle-8">[8]</a></sup> In <a href="/wiki/Europe" title="Europe">Europe</a>, season creep has been associated with the arrival of spring moving up by approximately one week in a recent 30-year period.<sup class="reference" id="cite_ref-Suddenly_spring_9-0"><a href="#cite_note-Suddenly_spring-9">[9]</a></sup><sup class="reference" id="cite_ref-BBC_NEWS_10-0"><a href="#cite_note-BBC_NEWS-10">[10]</a></sup>
+Other studies have put the rate of season creep measured by plant phenology in the range of 2–3 days per decade advancement in spring, and 0.3–1.6 days per decade delay in autumn, over the past 30–80 years.<sup class="reference" id="cite_ref-Sherry2007_11-0"><a href="#cite_note-Sherry2007-11">[11]</a></sup>
+</p><p>Observable changes in nature related to season creep include birds laying their eggs earlier and buds appearing on some trees in late winter.<sup class="reference" id="cite_ref-Scotsman.com_12-0"><a href="#cite_note-Scotsman.com-12">[12]</a></sup> In addition to advanced budding, <a href="/wiki/Flowering_plant" title="Flowering plant">flowering</a> trees have been blooming earlier, for example the culturally-important <a class="mw-redirect" href="/wiki/Sakura" title="Sakura">cherry blossoms</a> in <a href="/wiki/Japan" title="Japan">Japan</a>,<sup class="reference" id="cite_ref-Miller-rushing2007_13-0"><a href="#cite_note-Miller-rushing2007-13">[13]</a></sup><sup class="reference" id="cite_ref-Cleland2007_14-0"><a href="#cite_note-Cleland2007-14">[14]</a></sup>
+and <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-isbn0-226-45513-0_16-0"><a href="#cite_note-isbn0-226-45513-0-16">[16]</a></sup><sup class="reference" id="cite_ref-Chung2011_17-0"><a href="#cite_note-Chung2011-17">[17]</a></sup>
+<a href="/wiki/Northern_hardwood_forest" title="Northern hardwood forest">Northern hardwood forests</a>  have been trending toward leafing out sooner, and retaining their green <a href="/wiki/Canopy_(biology)" title="Canopy (biology)">canopies</a> longer.<sup class="reference" id="cite_ref-Richardson2006_18-0"><a href="#cite_note-Richardson2006-18">[18]</a></sup>
+The agricultural <a href="/wiki/Growing_season" title="Growing season">growing season</a> has also expanded by 10–20 days over the last few decades.<sup class="reference" id="cite_ref-Linderholm2006_19-0"><a href="#cite_note-Linderholm2006-19">[19]</a></sup>
+</p><p>The effects of season creep have been noted by non-scientists as well, including gardeners who have advanced their spring planting times,<sup class="reference" id="cite_ref-Philadelphia_Inquirer_20-0"><a href="#cite_note-Philadelphia_Inquirer-20">[20]</a></sup>
+and experimented with plantings of less <a href="/wiki/Hardiness_(plants)" title="Hardiness (plants)">hardy</a> warmer climate varieties of non-native plants.<sup class="reference" id="cite_ref-Knoxville_News_Sentinel_21-0"><a href="#cite_note-Knoxville_News_Sentinel-21">[21]</a></sup> While summer growing seasons are expanding, winters are getting warmer and shorter, resulting in reduced winter ice cover on bodies of water,<sup class="reference" id="cite_ref-Magnuson2000_22-0"><a href="#cite_note-Magnuson2000-22">[22]</a></sup>
+earlier ice-out,<sup class="reference" id="cite_ref-Hodgkins2002_23-0"><a href="#cite_note-Hodgkins2002-23">[23]</a></sup>
+earlier melt water flows,<sup class="reference" id="cite_ref-washingtonpost_24-0"><a href="#cite_note-washingtonpost-24">[24]</a></sup>
+and earlier spring lake level peaks.<sup class="reference" id="cite_ref-New_Scientist_25-0"><a href="#cite_note-New_Scientist-25">[25]</a></sup>
+Some spring events, or "phenophases", have become intermittent or unobservable; for example, bodies of water that once froze regularly most winters now freeze less frequently,<sup class="reference" id="cite_ref-Record-Eagle_8-1"><a href="#cite_note-Record-Eagle-8">[8]</a></sup><sup class="reference" id="cite_ref-NYSDEC_26-0"><a href="#cite_note-NYSDEC-26">[26]</a></sup><sup class="reference" id="cite_ref-Freep_27-0"><a href="#cite_note-Freep-27">[27]</a></sup>
+and formerly <a href="/wiki/Bird_migration" title="Bird migration">migratory birds</a> are now seen year-round in some areas.<sup class="reference" id="cite_ref-Portsmouth_Herald_28-0"><a href="#cite_note-Portsmouth_Herald-28">[28]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Relationship_to_global_warming"><span class="tocnumber">1</span> <span class="toctext">Relationship to global warming</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Other_uses"><span class="tocnumber">4</span> <span class="toctext">Other uses</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Relationship_to_global_warming">Relationship to global warming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Season_creep&amp;action=edit&amp;section=1" title="Edit section: Relationship to global warming">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:American_Robin_(23225302456).jpg"><img alt="" class="thumbimage" data-file-height="2572" data-file-width="4269" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/American_Robin_%2823225302456%29.jpg/220px-American_Robin_%2823225302456%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/American_Robin_%2823225302456%29.jpg/330px-American_Robin_%2823225302456%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/American_Robin_%2823225302456%29.jpg/440px-American_Robin_%2823225302456%29.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:American_Robin_(23225302456).jpg" title="Enlarge"></a></div>The <a class="mw-redirect" href="/wiki/American_Robin" title="American Robin">American Robin</a> has ceased to <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> in some areas</div></div></div>
+<p>The full <a href="/wiki/Effects_of_global_warming" title="Effects of global warming">impact of global warming</a> is forecast to happen in the future, but climate scientists have cited season creep as an easily observable effect of <a href="/wiki/Climate_change" title="Climate change">climate change</a><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> that has already occurred and continues to occur.<sup class="reference" id="cite_ref-Cleland2006_5-2"><a href="#cite_note-Cleland2006-5">[5]</a></sup><sup class="reference" id="cite_ref-Scotsman.com_12-1"><a href="#cite_note-Scotsman.com-12">[12]</a></sup><sup class="reference" id="cite_ref-Linderholm2006_19-1"><a href="#cite_note-Linderholm2006-19">[19]</a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+A large systematic phenological examination of data on 542 plant species in 21 European countries from 1971–2000 showed that 78% of all leafing, flowering, and fruiting records advanced while only 3% were significantly delayed, and these observations were consistent with measurements of observed warming.<sup class="reference" id="cite_ref-BBC_NEWS_10-1"><a href="#cite_note-BBC_NEWS-10">[10]</a></sup><sup class="reference" id="cite_ref-Menzel2006_31-0"><a href="#cite_note-Menzel2006-31">[31]</a></sup>
+Similar changes in the phenology of plants and animals are occurring across marine, freshwater, and terrestrial groups studied, and these changes are also consistent with the expected impact of global warming.<sup class="reference" id="cite_ref-Parmesan2006_32-0"><a href="#cite_note-Parmesan2006-32">[32]</a></sup>
+</p><p>While phenology fairly consistently points to an earlier spring across temperate regions of North America, a recent comprehensive study of the <a href="/wiki/Subarctic" title="Subarctic">subarctic</a> showed greater variability in the timing of green-up, with some areas advancing, and some having no discernible trend over a recent 44-year period.<sup class="reference" id="cite_ref-Delbart2007_33-0"><a href="#cite_note-Delbart2007-33">[33]</a></sup>
+Another 40 year phenological study in <a href="/wiki/China" title="China">China</a> found greater warming over that period in the more northerly sites studied, with sites experiencing cooling mostly in the south, indicating that the temperature variation with latitude is decreasing there.<sup class="reference" id="cite_ref-China_34-0"><a href="#cite_note-China-34">[34]</a></sup>
+This study also confirmed that season creep was <a class="mw-redirect" href="/wiki/Correlated" title="Correlated">correlated</a> with warming, but the effect is <a class="mw-redirect" href="/wiki/Non-linear" title="Non-linear">non-linear</a>—phenophases advanced less with greater warming, and retarded more with greater cooling.<sup class="reference" id="cite_ref-China_34-1"><a href="#cite_note-China-34">[34]</a></sup>
+</p><p>Shorter winters and longer growing seasons may appear to be a benefit to society from <a href="/wiki/Global_warming" title="Global warming">global warming</a>, but the effects of advanced phenophases may also have serious consequences for human populations. Modeling of snowmelt predicted that warming of 3 to 5 °C in the <a href="/wiki/Western_United_States" title="Western United States">Western United States</a> could cause snowmelt-driven runoff to occur as much as two months earlier, with profound effects on <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydroelectricity</a>, land use, agriculture, and water management.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup>
+Since 1980, earlier snowmelt and associated warming has also been associated with an increase in length and severity of the <a href="/wiki/Wildfire" title="Wildfire">wildfire</a> season there.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup>
+</p><p>Season creep may also have adverse effects on plant species as well. Earlier flowering could occur before pollinators such as <a href="/wiki/Honey_bee" title="Honey bee">honey bees</a> become active, which would have negative consequences for <a href="/wiki/Pollination" title="Pollination">pollination</a> and reproduction.<sup class="reference" id="cite_ref-Chung2011_17-1"><a href="#cite_note-Chung2011-17">[17]</a></sup> Shorter and warmer winters may affect other environmental <a href="/wiki/Adaptation" title="Adaptation">adaptations</a> including <a href="/wiki/Cold_hardening" title="Cold hardening">cold hardening</a> of trees, which could result in frost damage during more severe winters.<sup class="reference" id="cite_ref-Chung2011_17-2"><a href="#cite_note-Chung2011-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Season_creep&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Season creep</i> was included in the 9th edition of the <a href="/wiki/Collins_English_Dictionary" title="Collins English Dictionary">Collins English Dictionary</a> published in London June 4, 2007.<sup class="reference" id="cite_ref-Guardian_37-0"><a href="#cite_note-Guardian-37">[37]</a></sup><sup class="reference" id="cite_ref-ABC_News_38-0"><a href="#cite_note-ABC_News-38">[38]</a></sup>
+The term was popularized in the media after the report titled "Season Creep: How Global Warming Is Already Affecting The World Around Us" was published by the <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Environmental_organization" title="Environmental organization">environmental organization</a> <a class="new" href="/w/index.php?title=Clear_the_Air_(United_States)&amp;action=edit&amp;redlink=1" title="Clear the Air (United States) (page does not exist)">Clear the Air</a> on March 21, 2006.<sup class="reference" id="cite_ref-Word_Spy_39-0"><a href="#cite_note-Word_Spy-39">[39]</a></sup>
+In the "Season Creep" report, Jonathan Banks, Policy Director for Clear the Air, introduced the term as follows:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303468">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>While to some, an early arrival of spring may sound good, an imbalance in the ecosystem can wreak havoc. Natural processes like flowers blooming, birds nesting, insects emerging, and ice melting are triggered in large part by temperature. As temperatures increase globally, the delicately balanced system begins to fall into ecological disarray. We call this season creep.<sup class="reference" id="cite_ref-Word_Spy_39-1"><a href="#cite_note-Word_Spy-39">[39]</a></sup>
+</p></blockquote>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Season_creep&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li></ul>
+<h2><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Season_creep&amp;action=edit&amp;section=4" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/season_creep" title="wiktionary:Special:Search/season creep">season creep</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<p>The term "season creep" has been applied in other contexts as well:
+</p>
+<ul><li>In <a href="/wiki/Professional_sports" title="Professional sports">professional sports</a>, <i>season creep</i> refers to lengthening of the playing season, especially the extension of the <a href="/wiki/Major_League_Baseball_schedule" title="Major League Baseball schedule">MLB season</a> to 162 games.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup></li>
+<li>In <a href="/wiki/College_athletics" title="College athletics">college athletics</a>, <i>season creep</i> refers to longer periods athletes spend training in their sport.<sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup></li>
+<li>In <a href="/wiki/Politics_of_the_United_States" title="Politics of the United States">American politics</a>, <i>campaign season creep</i> refers to the need for candidates to start fund raising activities sooner.<sup class="reference" id="cite_ref-Post-Bulletin_42-0"><a href="#cite_note-Post-Bulletin-42">[42]</a></sup></li>
+<li>In <a class="mw-redirect" href="/wiki/Retailing" title="Retailing">retailing</a>,  <i>holiday season creep</i>, also known as <i><a href="/wiki/Christmas_creep" title="Christmas creep">Christmas creep</a></i> refers to the earlier appearance of Christmas-themed merchandising, extending the <a href="/wiki/Christmas_and_holiday_season" title="Christmas and holiday season">holiday shopping season</a>.<sup class="reference" id="cite_ref-Macmillan_2-1"><a href="#cite_note-Macmillan-2">[2]</a></sup><sup class="reference" id="cite_ref-titleChicago_Sun-Times::_Search_43-0"><a href="#cite_note-titleChicago_Sun-Times::_Search-43">[43]</a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Season_creep&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a class="mw-selflink selflink">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20181026170629
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.624 seconds
+Real time usage: 0.709 seconds
+Preprocessor visited node count: 2691/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 178338/2097152 bytes
+Template argument size: 911/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 133900/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.331/10.000 seconds
+Lua memory usage: 4.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  519.207      1 -total
+ 82.38%  427.736      1 Template:Reflist
+ 33.30%  172.917     18 Template:Cite_journal
+ 18.53%   96.216     20 Template:Cite_web
+ 11.65%   60.504      2 Template:Cite_book
+ 10.35%   53.729      1 Template:Global_warming
+  9.65%   50.113      1 Template:Navbox_with_collapsible_groups
+  4.61%   23.949      1 Template:YouTube
+  4.13%   21.457      1 Template:Wiktionary
+  3.79%   19.659      1 Template:Sister_project
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14856188-0!canonical and timestamp 20181026170628 and revision id 847556154
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Season_creep&amp;oldid=847556154">https://en.wikipedia.org/w/index.php?title=Season_creep&amp;oldid=847556154</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Effects_of_global_warming" title="Category:Effects of global warming">Effects of global warming</a></li><li><a href="/wiki/Category:Neologisms" title="Category:Neologisms">Neologisms</a></li><li><a href="/wiki/Category:Climatology" title="Category:Climatology">Climatology</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Season+creep" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Season+creep" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Season_creep" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Season_creep" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Season_creep">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Season_creep&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Season_creep&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Season_creep" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Season_creep" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Season_creep&amp;oldid=847556154" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Season_creep&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7441881" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Season_creep&amp;id=847556154" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Season+creep">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Season+creep&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Season_creep&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7441881#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 June 2018, at 05:40<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Season_creep&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.624","walltime":"0.709","ppvisitednodes":{"value":2691,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":178338,"limit":2097152},"templateargumentsize":{"value":911,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":133900,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  519.207      1 -total"," 82.38%  427.736      1 Template:Reflist"," 33.30%  172.917     18 Template:Cite_journal"," 18.53%   96.216     20 Template:Cite_web"," 11.65%   60.504      2 Template:Cite_book"," 10.35%   53.729      1 Template:Global_warming","  9.65%   50.113      1 Template:Navbox_with_collapsible_groups","  4.61%   23.949      1 Template:YouTube","  4.13%   21.457      1 Template:Wiktionary","  3.79%   19.659      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.331","limit":"10.000"},"limitreport-memusage":{"value":4270840,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20181026170629","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1253"});});</script>
+</body>
+</html>

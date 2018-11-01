@@ -1,0 +1,1188 @@
+https://en.wikipedia.org/wiki/Vapor_pressure
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Vapor pressure - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vapor_pressure","wgTitle":"Vapor pressure","wgCurRevisionId":866372149,"wgRevisionId":866372149,"wgArticleId":40197,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Thermodynamic properties","Engineering thermodynamics","Meteorological concepts","Gases","Pressure"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Vapor_pressure","wgRelevantArticleId":40197,"wgRequestId":"W9eUuApAIDEAAF4CAKMAAABW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2661322","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vapor_pressure.svg/1200px-Vapor_pressure.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vapor_pressure" rel="alternate"/>
+<link href="/w/index.php?title=Vapor_pressure&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Vapor_pressure&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Vapor_pressure" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Vapor_pressure rootpage-Vapor_pressure skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Vapor pressure</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Vapor_pressure.svg"><img alt="" class="thumbimage" data-file-height="1052" data-file-width="744" height="311" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vapor_pressure.svg/220px-Vapor_pressure.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vapor_pressure.svg/330px-Vapor_pressure.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vapor_pressure.svg/440px-Vapor_pressure.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vapor_pressure.svg" title="Enlarge"></a></div>The microscopic process of evaporation and condensation at the liquid surface.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Vapor_pressure_being_used_in_a_cloud_chamber.jpg"><img alt="" class="thumbimage" data-file-height="2560" data-file-width="3840" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Vapor_pressure_being_used_in_a_cloud_chamber.jpg/220px-Vapor_pressure_being_used_in_a_cloud_chamber.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Vapor_pressure_being_used_in_a_cloud_chamber.jpg/330px-Vapor_pressure_being_used_in_a_cloud_chamber.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Vapor_pressure_being_used_in_a_cloud_chamber.jpg/440px-Vapor_pressure_being_used_in_a_cloud_chamber.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vapor_pressure_being_used_in_a_cloud_chamber.jpg" title="Enlarge"></a></div>If vapor pressure exceeds the <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">thermodynamic equilibrium</a> value, <a href="/wiki/Condensation" title="Condensation">condensation</a> occurs in presence of <a href="/wiki/Nucleation" title="Nucleation">nucleation</a> sites. This principle is used in <a href="/wiki/Cloud_chamber" title="Cloud chamber">cloud chambers</a>, where <a class="mw-redirect" href="/wiki/Particles" title="Particles">particles</a> of <a href="/wiki/Radiation" title="Radiation">radiation</a> form <a href="/wiki/Condensation" title="Condensation">condensation</a> tracks when passing through</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:282px;"><div class="PopUpMediaTransform" id="mwe_player_0" style="width:280px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/854px--02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="19.626666666667" data-startoffset="0" data-mwtitle="02.Пиштол_епрувета_со_алкохол.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.480p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="SD VP9 (480P)" data-shorttitle="VP9 480P" data-transcodekey="480p.vp9.webm" data-width="854" data-height="480" data-bandwidth="320504" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.720p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="HD VP9 (720P)" data-shorttitle="VP9 720P" data-transcodekey="720p.vp9.webm" data-width="1280" data-height="720" data-bandwidth="568616" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="1075248" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.1080p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Full HD VP9 (1080P)" data-shorttitle="VP9 1080P" data-transcodekey="1080p.vp9.webm" data-width="1920" data-height="1080" data-bandwidth="1297864" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="2197224" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.1080p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Full HD WebM (1080P)" data-shorttitle="WebM 1080P" data-transcodekey="1080p.webm" data-width="1920" data-height="1080" data-bandwidth="4308640" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Original Ogg file, 1,920 × 1,080 (4.51 Mbps)" data-shorttitle="Ogg source" data-width="1920" data-height="1080" data-bandwidth="4507194" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.120p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Lowest bandwidth VP9 (120P)" data-shorttitle="VP9 120P" data-transcodekey="120p.vp9.webm" data-width="214" data-height="120" data-bandwidth="122632" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="217168" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.180p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Low bandwidth VP9 (180P)" data-shorttitle="VP9 180P" data-transcodekey="180p.vp9.webm" data-width="320" data-height="180" data-bandwidth="144232" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.240p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Small VP9 (240P)" data-shorttitle="VP9 240P" data-transcodekey="240p.vp9.webm" data-width="426" data-height="240" data-bandwidth="164136" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="315832" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.360p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9 (360P)" data-shorttitle="VP9 360P" data-transcodekey="360p.vp9.webm" data-width="640" data-height="360" data-bandwidth="214112" data-framerate="23.976023976024"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="569104" data-framerate="23.976023976024"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:02.Пиштол епрувета со алкохол.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv/280px--02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv.jpg" style="width:280px;height:158px"/><a href="//upload.wikimedia.org/wikipedia/commons/3/34/02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:02.%D0%9F%D0%B8%D1%88%D1%82%D0%BE%D0%BB_%D0%B5%D0%BF%D1%80%D1%83%D0%B2%D0%B5%D1%82%D0%B0_%D1%81%D0%BE_%D0%B0%D0%BB%D0%BA%D0%BE%D1%85%D0%BE%D0%BB.ogv" title="Enlarge"></a></div>The "Pistol Test Tube" experiment. The tube contains <a href="/wiki/Alcohol" title="Alcohol">alcohol</a> and is closed with a piece of cork. By heating the alcohol, the vapors fill in the space, increasing the pressure in the tube to the point of the cork popping out.</div></div></div>
+<p><b>Vapor pressure</b> or <b>equilibrium vapor pressure</b> is defined as the <a href="/wiki/Pressure" title="Pressure">pressure</a> exerted by a <a href="/wiki/Vapor" title="Vapor">vapor</a> in <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">thermodynamic equilibrium</a> with its <a href="/wiki/Condensation" title="Condensation">condensed</a> <a href="/wiki/Phase_(matter)" title="Phase (matter)">phases</a> (solid or liquid) at a given temperature in a <a href="/wiki/Thermodynamic_system#Closed_system" title="Thermodynamic system">closed system</a>. The equilibrium vapor pressure is an indication of a liquid's <a href="/wiki/Evaporation" title="Evaporation">evaporation</a> rate. It relates to the tendency of particles to escape from the liquid (or a solid). A substance with a high vapor pressure at normal temperatures is often referred to as <i><a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">volatile</a></i>. The pressure exhibited by vapor present above a liquid surface is known as vapor pressure. As the temperature of a liquid increases, the kinetic energy of its molecules also increases. As the kinetic energy of the molecules increases, the number of molecules transitioning into a vapor also increases, thereby increasing the vapor pressure.
+</p><p>The vapor pressure of any substance increases non-linearly with temperature according to the <a href="/wiki/Clausius%E2%80%93Clapeyron_relation" title="Clausius–Clapeyron relation">Clausius–Clapeyron relation</a>. The <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">atmospheric pressure</a> <a href="/wiki/Boiling_point" title="Boiling point">boiling point</a> of a liquid (also known as the <a class="mw-redirect" href="/wiki/Normal_boiling_point" title="Normal boiling point">normal boiling point</a>) is the temperature at which the vapor pressure equals the ambient atmospheric pressure.  With any incremental increase in that temperature, the vapor pressure becomes sufficient to overcome <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">atmospheric pressure</a> and lift the liquid to form vapor bubbles inside the bulk of the substance. <a class="mw-redirect" href="/wiki/Liquid_bubble" title="Liquid bubble">Bubble</a> formation deeper in the liquid requires a higher temperature due to the higher fluid pressure, because fluid pressure increases above the atmospheric pressure as the depth increases. More important at shallow depths is the higher temperature required to start bubble formation. The surface tension of the bubble wall leads to an overpressure in the very small, initial bubbles. Thus, thermometer calibration should not rely on the temperature in boiling water.
+</p><p>The vapor pressure that a single component in a mixture contributes to the total pressure in the system is called <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a>. For example, air at sea level, and saturated with water vapor at 20 °C, has partial pressures of about 2.3 kPa of water, 78 kPa of <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, 21 kPa of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> and 0.9 kPa of <a href="/wiki/Argon" title="Argon">argon</a>, totaling 102.2 kPa, making the basis for <a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">standard atmospheric pressure</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Measurement_and_units"><span class="tocnumber">1</span> <span class="toctext">Measurement and units</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Estimating_vapor_pressures_with_Antoine_equation"><span class="tocnumber">2</span> <span class="toctext">Estimating vapor pressures with Antoine equation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Relation_to_boiling_point_of_liquids"><span class="tocnumber">3</span> <span class="toctext">Relation to boiling point of liquids</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Liquid_mixtures"><span class="tocnumber">4</span> <span class="toctext">Liquid mixtures</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Solids"><span class="tocnumber">5</span> <span class="toctext">Solids</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Boiling_point_of_water"><span class="tocnumber">6</span> <span class="toctext">Boiling point of water</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Dühring's_rule"><span class="tocnumber">7</span> <span class="toctext">Dühring's rule</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Examples"><span class="tocnumber">8</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Estimating_vapor_pressure_from_molecular_structure"><span class="tocnumber">9</span> <span class="toctext">Estimating vapor pressure from molecular structure</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Meaning_in_meteorology"><span class="tocnumber">10</span> <span class="toctext">Meaning in meteorology</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Measurement_and_units">Measurement and units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=1" title="Edit section: Measurement and units">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Vapor pressure is measured in the standard units of <a href="/wiki/Pressure" title="Pressure">pressure</a>. The <a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a> (SI) recognizes pressure as a <a href="/wiki/SI_derived_unit" title="SI derived unit">derived unit</a> with the dimension of force per area and designates the <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">pascal</a> (Pa) as its standard unit. One pascal is one <a href="/wiki/Newton_(unit)" title="Newton (unit)">newton</a> per <a class="mw-redirect" href="/wiki/Square_meter" title="Square meter">square meter</a> (N·m<sup>−2</sup> or kg·m<sup>−1</sup>·s<sup>−2</sup>).
+</p><p>Experimental measurement of vapor pressure is a simple procedure for common pressures between 1 and 200 kPa.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Most accurate results are obtained near the boiling point of substances and large errors result for measurements smaller than <span style="white-space:nowrap">1<span style="margin-left:0.25em">kPa</span></span>. Procedures often consist of purifying the test substance, isolating it in a container, evacuating any foreign gas, then measuring the equilibrium pressure of the gaseous phase of the substance in the container at different temperatures. Better accuracy is achieved when care is taken to ensure that the entire substance and its vapor are at the prescribed temperature.  This is often done, as with the use of an <a href="/wiki/Isoteniscope" title="Isoteniscope">isoteniscope</a>, by submerging the containment area in a liquid bath.
+</p><p>Very low vapor pressures of solids can be measured using the <a class="mw-redirect" href="/wiki/Knudsen_effusion_cell" title="Knudsen effusion cell">Knudsen effusion cell</a> method.
+</p><p>In a medical context, vapor pressure is sometimes expressed in other units, specifically <a href="/wiki/Millimeter_of_mercury" title="Millimeter of mercury">millimeters of mercury (mmHg)</a>. This is important for <a class="mw-redirect" href="/wiki/Volatile_anesthetics" title="Volatile anesthetics">volatile anesthetics</a>, most of which are liquids at body temperature, but with a relatively high vapor pressure. Anesthetics with a higher vapor pressure at body temperature will be excreted more quickly, as they are exhaled from the lungs.
+</p>
+<h2><span class="mw-headline" id="Estimating_vapor_pressures_with_Antoine_equation">Estimating vapor pressures with Antoine equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=2" title="Edit section: Estimating vapor pressures with Antoine equation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Antoine_equation" title="Antoine equation">Antoine equation</a><sup class="reference" id="cite_ref-frostburg_2-0"><a href="#cite_note-frostburg-2">[2]</a></sup><sup class="reference" id="cite_ref-Sinnot_3-0"><a href="#cite_note-Sinnot-3">[3]</a></sup> is a mathematical expression  of the relation between the vapor pressure and the temperature of pure liquid or solid substances. The basic form of the equation is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \log P=A-{\frac {B}{C+T}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>log</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>P</mi>
+<mo>=</mo>
+<mi>A</mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>B</mi>
+<mrow>
+<mi>C</mi>
+<mo>+</mo>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \log P=A-{\frac {B}{C+T}}}</annotation>
+</semantics>
+</math></span><img alt="\log P=A-{\frac {B}{C+T}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca47b0c69d95539d284859b4b3988b93af5debdf" style="vertical-align: -2.171ex; width:19.865ex; height:5.509ex;"/></span></dd></dl>
+<p>and it can be transformed into this temperature-explicit form:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T={\frac {B}{A-\log P}}-C}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>B</mi>
+<mrow>
+<mi>A</mi>
+<mo>−<!-- − --></mo>
+<mi>log</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>P</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mi>C</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T={\frac {B}{A-\log P}}-C}</annotation>
+</semantics>
+</math></span><img alt="T={\frac {B}{A-\log P}}-C" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59d76af8f86064360412b5822e3bb9afc5e2cc19" style="vertical-align: -2.505ex; width:19.865ex; height:5.843ex;"/></span></dd></dl>
+<p>where: <span style="vertical-align:+12%;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+</semantics>
+</math></span><img alt="P" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span></span> is the absolute vapor pressure of a substance<br/>
+</p>
+<dl><dd>    <span style="vertical-align:+15%;"><span style="vertical-align:+12%;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;"/></span></span> is the temperature of the substance</span></dd>
+<dd>    <span style="vertical-align:+12%;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+</semantics>
+</math></span><img alt="A" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;"/></span></span>, <span style="vertical-align:+12%;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle B}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>B</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle B}</annotation>
+</semantics>
+</math></span><img alt="B" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47136aad860d145f75f3eed3022df827cee94d7a" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/></span></span> and <span style="vertical-align:+12%;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle C}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+</semantics>
+</math></span><img alt="C" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;"/></span></span> are substance-specific coefficients (i.e., constants or parameters)</dd>
+<dd>    <span style="vertical-align:-30%;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \log }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>log</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \log }</annotation>
+</semantics>
+</math></span><img alt="\log " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/79e4debd0ab1c6ce342d0172a7643733305c37bc" style="vertical-align: -0.671ex; width:2.972ex; height:2.509ex;"/></span> is typically either <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \log _{10}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \log _{10}}</annotation>
+</semantics>
+</math></span><img alt="\log _{10}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e1be2659542850a5a4def5da1ca2bb402fbb4e6" style="vertical-align: -0.838ex; width:4.848ex; height:2.676ex;"/></span> or <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \log _{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \log _{e}}</annotation>
+</semantics>
+</math></span><img alt="\log _{e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e26f8281388ea19ac65fb6d3764c95e8d2546e02" style="vertical-align: -0.838ex; width:3.97ex; height:2.676ex;"/></span></span><sup class="reference" id="cite_ref-Sinnot_3-1"><a href="#cite_note-Sinnot-3">[3]</a></sup></dd></dl>
+<p>A simpler form of the equation with only two coefficients is sometimes used:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \log P=A-{\frac {B}{T}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>log</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>P</mi>
+<mo>=</mo>
+<mi>A</mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>B</mi>
+<mi>T</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \log P=A-{\frac {B}{T}}}</annotation>
+</semantics>
+</math></span><img alt="\log P=A-{\frac {B}{T}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49b5e8763eb754c7b3e03db4ef9b2fad1bb79c4d" style="vertical-align: -1.838ex; width:15.386ex; height:5.176ex;"/></span></dd></dl>
+<p>which can be transformed to:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T={\frac {B}{A-\log P}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>B</mi>
+<mrow>
+<mi>A</mi>
+<mo>−<!-- − --></mo>
+<mi>log</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>P</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T={\frac {B}{A-\log P}}}</annotation>
+</semantics>
+</math></span><img alt="T={\frac {B}{A-\log P}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00a0e5898c1027b11fb4c3e2217a2d1723dd522c" style="vertical-align: -2.505ex; width:15.259ex; height:5.843ex;"/></span></dd></dl>
+<p>Sublimations and vaporizations of the same substance have separate sets of Antoine coefficients, as do components in mixtures.<sup class="reference" id="cite_ref-frostburg_2-1"><a href="#cite_note-frostburg-2">[2]</a></sup> Each parameter set for a specific compound is only applicable over a specified temperature range. Generally, temperature ranges are chosen to maintain the equation's accuracy of a few up to 8–10 percent.  For many volatile substances, several different sets of parameters are available and used for different temperature ranges. The Antoine equation has poor accuracy with any single parameter set when used from a compound's melting point to its critical temperature.  Accuracy is also usually poor when vapor pressure is under 10 Torr because of the limitations of the apparatus used to establish the Antoine parameter values.
+</p><p>The Wagner Equation<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> gives "one of the best"<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> fits to experimental data but is quite complex.  It expresses reduced vapor pressure as a function of reduced temperature.
+</p>
+<h2><span class="mw-headline" id="Relation_to_boiling_point_of_liquids">Relation to boiling point of liquids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=3" title="Edit section: Relation to boiling point of liquids">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Vapor_pressure_chart.svg"><img alt="" class="thumbimage" data-file-height="768" data-file-width="512" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vapor_pressure_chart.svg/220px-Vapor_pressure_chart.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vapor_pressure_chart.svg/330px-Vapor_pressure_chart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vapor_pressure_chart.svg/440px-Vapor_pressure_chart.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vapor_pressure_chart.svg" title="Enlarge"></a></div>A log-lin vapor pressure chart for various liquids</div></div></div>
+<p>As a general trend, vapor pressures of liquids at ambient temperatures increase with decreasing boiling points. This is illustrated in the vapor pressure chart (see right) that shows graphs of the <b>vapor pressures versus temperatures</b> for a variety of liquids.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> At the normal boiling point of a liquid, the vapor pressure is equal to the standard atmospheric pressure defined as 1 atmosphere<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> (760 Torr or 101.325 kPa or 14.69595 PSI).
+</p><p>For example, at any given temperature, <a class="mw-redirect" href="/wiki/Methyl_chloride" title="Methyl chloride">methyl chloride</a> has the highest vapor pressure of any of the liquids in the chart. It also has the lowest normal boiling point (−24.2 °C), which is where the vapor pressure curve of methyl chloride (the blue line) intersects the horizontal pressure line of one atmosphere (<a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">atm</a>) of absolute vapor pressure.
+</p><p>Although the relation between vapor pressure and temperature is non-linear, the chart uses a logarithmic vertical axis to produce slightly curved lines, so one chart can graph many liquids. A nearly straight line is obtained when the logarithm of the vapor pressure is plotted against 1/(T+230)<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> where T is the temperature in degrees Celsius. The vapor pressure of a liquid at its boiling point equals the pressure of its surrounding environment.
+</p>
+<h2><span class="mw-headline" id="Liquid_mixtures">Liquid mixtures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=4" title="Edit section: Liquid mixtures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a> gives an approximation to the vapor pressure of mixtures of liquids.  It states that the activity (pressure or <a href="/wiki/Fugacity" title="Fugacity">fugacity</a>) of a single-phase mixture is equal to the mole-fraction-weighted sum of the components' vapor pressures:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{tot}=\sum _{i}Py_{i}=\sum _{i}P_{i}^{sat}x_{i}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>o</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<mi>P</mi>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msubsup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+<mi>a</mi>
+<mi>t</mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{tot}=\sum _{i}Py_{i}=\sum _{i}P_{i}^{sat}x_{i}\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{tot}=\sum _{i}Py_{i}=\sum _{i}P_{i}^{sat}x_{i}\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/078361ab33675583dc79b0b5be905b4c3223296c" style="vertical-align: -3.005ex; width:27.879ex; height:5.509ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{tot}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>o</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{tot}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{tot}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/510bc9a0f49bc99c6d69c0126f49e74b922455e6" style="vertical-align: -0.671ex; width:3.709ex; height:2.509ex;"/></span> is the mixture's vapor pressure,  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{i}}</annotation>
+</semantics>
+</math></span><img alt="x_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e87000dd6142b81d041896a30fe58f0c3acb2158" style="vertical-align: -0.671ex; width:2.129ex; height:2.009ex;"/></span> is the <a href="/wiki/Mole_fraction" title="Mole fraction">mole fraction</a> of component <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>i</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+</semantics>
+</math></span><img alt="i" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20" style="vertical-align: -0.338ex; width:0.802ex; height:2.176ex;"/></span> in the liquid phase and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle y_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle y_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle y_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67d30d30b6c2dbe4d6f150d699de040937ecc95f" style="vertical-align: -0.671ex; width:1.939ex; height:2.009ex;"/></span> is the <a href="/wiki/Mole_fraction" title="Mole fraction">mole fraction</a> of component <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>i</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+</semantics>
+</math></span><img alt="i" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20" style="vertical-align: -0.338ex; width:0.802ex; height:2.176ex;"/></span> in the vapor phase respectively. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{i}^{sat}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+<mi>a</mi>
+<mi>t</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{i}^{sat}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{i}^{sat}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d60267095075893f8926e1dcf1ef3e0f373185ae" style="vertical-align: -1.005ex; width:4.288ex; height:3.176ex;"/></span> is the vapor pressure of component <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>i</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+</semantics>
+</math></span><img alt="i" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20" style="vertical-align: -0.338ex; width:0.802ex; height:2.176ex;"/></span>. Raoult's law is applicable only to non-electrolytes (uncharged species); it is most appropriate for non-polar molecules with only weak intermolecular attractions (such as <a class="mw-redirect" href="/wiki/London_force" title="London force">London forces</a>).
+</p><p>Systems that have vapor pressures higher than indicated by the above formula are said to have positive deviations.  Such a deviation suggests weaker intermolecular attraction than in the pure components, so that the molecules can be thought of as being "held in" the liquid phase less strongly than in the pure liquid.  An example is the <a href="/wiki/Azeotrope" title="Azeotrope">azeotrope</a> of approximately 95% ethanol and water.  Because the azeotrope's vapor pressure is higher than predicted by Raoult's law, it boils at a temperature below that of either pure component.
+</p><p>There are also systems with negative deviations that have vapor pressures that are lower than expected.  Such a deviation is evidence for stronger intermolecular attraction between the constituents of the mixture than exists in the pure components.  Thus, the molecules are "held in" the liquid more strongly when a second molecule is present.  An example is a mixture of trichloromethane (chloroform) and 2-propanone (acetone), which boils above the boiling point of either pure component.
+</p><p>The negative and positive deviations can be used to determine <a href="/wiki/Thermodynamic_activity" title="Thermodynamic activity">thermodynamic activity</a> coefficients of the components of mixtures.
+</p>
+<h2><span class="mw-headline" id="Solids">Solids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=5" title="Edit section: Solids">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Vapor_Pressure_Curve_of_Liquid_and_Solid_Benzene.png"><img alt="" class="thumbimage" data-file-height="472" data-file-width="534" height="265" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vapor_Pressure_Curve_of_Liquid_and_Solid_Benzene.png/300px-Vapor_Pressure_Curve_of_Liquid_and_Solid_Benzene.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vapor_Pressure_Curve_of_Liquid_and_Solid_Benzene.png/450px-Vapor_Pressure_Curve_of_Liquid_and_Solid_Benzene.png 1.5x, //upload.wikimedia.org/wikipedia/commons/7/7a/Vapor_Pressure_Curve_of_Liquid_and_Solid_Benzene.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Vapor_Pressure_Curve_of_Liquid_and_Solid_Benzene.png" title="Enlarge"></a></div>Vapor pressure of liquid and solid benzene</div></div></div>
+<p>Equilibrium vapor pressure can be defined as the pressure reached when a condensed phase is in equilibrium with its own vapor. In the case of an equilibrium solid, such as a <a href="/wiki/Crystal" title="Crystal">crystal</a>, this can be defined as the pressure when the rate of <a class="mw-redirect" href="/wiki/Sublimation_(physics)" title="Sublimation (physics)">sublimation</a> of a solid matches the rate of deposition of its vapor phase. For most solids this pressure is very low, but some notable exceptions are <a href="/wiki/Naphthalene" title="Naphthalene">naphthalene</a>, <a href="/wiki/Dry_ice" title="Dry ice">dry ice</a> (the vapor pressure of dry ice is 5.73 MPa (831 psi, 56.5 atm) at 20 °C, which causes most sealed containers to rupture), and ice.  All solid materials have a vapor pressure. However, due to their often extremely low values, measurement can be rather difficult. Typical techniques include the use of <a class="mw-redirect" href="/wiki/Thermogravimetry" title="Thermogravimetry">thermogravimetry</a> and <a class="new" href="/w/index.php?title=Gas_transpiration&amp;action=edit&amp;redlink=1" title="Gas transpiration (page does not exist)">gas transpiration</a>.
+</p><p>There are a number of methods for calculating the sublimation pressure (i.e., the vapor pressure) of a solid. One method is to estimate the sublimation pressure from extrapolated liquid vapor pressures (of the supercooled liquid), if the <a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">heat of fusion</a> is known, by using this particular form of the Clausius–Clapeyron relation:<sup class="reference" id="cite_ref-Moller_9-0"><a href="#cite_note-Moller-9">[9]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \ln \,P_{\rm {s}}^{\rm {sub}}=\ln \,P_{\rm {l}}^{\rm {sub}}-{\frac {\Delta _{\rm {fus}}H}{R}}\left({\frac {1}{T_{\rm {sub}}}}-{\frac {1}{T_{\rm {fus}}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ln</mi>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">b</mi>
+</mrow>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mi>ln</mi>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">b</mi>
+</mrow>
+</mrow>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mi>H</mi>
+</mrow>
+<mi>R</mi>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">b</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \ln \,P_{\rm {s}}^{\rm {sub}}=\ln \,P_{\rm {l}}^{\rm {sub}}-{\frac {\Delta _{\rm {fus}}H}{R}}\left({\frac {1}{T_{\rm {sub}}}}-{\frac {1}{T_{\rm {fus}}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \ln \,P_{\rm {s}}^{\rm {sub}}=\ln \,P_{\rm {l}}^{\rm {sub}}-{\frac {\Delta _{\rm {fus}}H}{R}}\left({\frac {1}{T_{\rm {sub}}}}-{\frac {1}{T_{\rm {fus}}}}\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b6e6c6f4ec4f2ffbe2d2a3825128030e86175aad" style="vertical-align: -2.505ex; width:43.817ex; height:6.176ex;"/></span></dd></dl>
+<p>where:
+</p>
+<ul><li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{\rm {s}}^{\rm {sub}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">b</mi>
+</mrow>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{\rm {s}}^{\rm {sub}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{\rm {s}}^{\rm {sub}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8927016e799738c98c0817c62b4e6509c1d3a4d8" style="vertical-align: -0.671ex; width:4.53ex; height:2.843ex;"/></span> is the sublimation pressure of the solid component at the temperature <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{\rm {sub}}&lt;T_{\rm {fus}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">b</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>&lt;</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\rm {sub}}&lt;T_{\rm {fus}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{\rm {sub}}&lt;T_{\rm {fus}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d9d98653fe83718e7fa19f0dc30d43874522d33" style="vertical-align: -0.671ex; width:10.927ex; height:2.509ex;"/></span>.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{\rm {l}}^{\rm {sub}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">b</mi>
+</mrow>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{\rm {l}}^{\rm {sub}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{\rm {l}}^{\rm {sub}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8bf4cc4903f06b573444a00aec41bb13488bf908" style="vertical-align: -1.005ex; width:4.53ex; height:3.176ex;"/></span> is the extrapolated vapor pressure of the liquid component at the temperature <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{\rm {sub}}&lt;T_{\rm {fus}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">b</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>&lt;</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\rm {sub}}&lt;T_{\rm {fus}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{\rm {sub}}&lt;T_{\rm {fus}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d9d98653fe83718e7fa19f0dc30d43874522d33" style="vertical-align: -0.671ex; width:10.927ex; height:2.509ex;"/></span>.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta _{\rm {fus}}H}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mi>H</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta _{\rm {fus}}H}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta _{\rm {fus}}H}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1b2f5398512548427d1a3be91b387a79998019b" style="vertical-align: -0.671ex; width:6.405ex; height:2.509ex;"/></span> is the heat of fusion.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+</semantics>
+</math></span><img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"/></span> is the <a href="/wiki/Gas_constant" title="Gas constant">gas constant</a>.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{\rm {sub}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">b</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\rm {sub}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{\rm {sub}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3aaca567bb0ac93f9e253884cf432ca4b474ff9" style="vertical-align: -0.671ex; width:4.066ex; height:2.509ex;"/></span> is the sublimation temperature.</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{\rm {fus}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\rm {fus}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{\rm {fus}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30d2048df681352b88724414e44c1d131f02b3be" style="vertical-align: -0.671ex; width:3.763ex; height:2.509ex;"/></span> is the melting point temperature.</li></ul>
+<p>This method assumes that the heat of fusion is temperature-independent, ignores additional transition temperatures between different solid phases, and it gives a fair estimation for temperatures not too far from the melting point. It also shows that the sublimation pressure is lower than the extrapolated liquid vapor pressure (Δ<sub>fus</sub><i>H</i> &gt; 0) and the difference grows with increased distance from the melting point.
+</p>
+<h2><span class="mw-headline" id="Boiling_point_of_water">Boiling point of water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=6" title="Edit section: Boiling point of water">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Water_vapor_pressure_graph.jpg"><img alt="" class="thumbimage" data-file-height="476" data-file-width="693" height="151" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Water_vapor_pressure_graph.jpg/220px-Water_vapor_pressure_graph.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Water_vapor_pressure_graph.jpg/330px-Water_vapor_pressure_graph.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Water_vapor_pressure_graph.jpg/440px-Water_vapor_pressure_graph.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Water_vapor_pressure_graph.jpg" title="Enlarge"></a></div>Graph of water vapor pressure versus temperature. At the normal boiling point of 100 °C, it equals the standard atmospheric pressure of 760 <a href="/wiki/Torr" title="Torr">Torr</a> or 101.325 <a class="mw-redirect" href="/wiki/KPa" title="KPa">kPa</a>.</div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Vapor_pressure_of_water" title="Vapor pressure of water">Vapor pressure of water</a></div>
+<p>Like all liquids, water boils when its vapor pressure reaches its surrounding pressure.  In nature, the atmospheric pressure is lower at higher elevations and water boils at a lower temperature.  The boiling temperature of water for atmospheric pressures can be approximated by the <a href="/wiki/Antoine_equation" title="Antoine equation">Antoine equation</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \log _{10}P=8.07131-{\frac {1730.63}{233.426+T_{b}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>P</mi>
+<mo>=</mo>
+<mn>8.07131</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1730.63</mn>
+<mrow>
+<mn>233.426</mn>
+<mo>+</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \log _{10}P=8.07131-{\frac {1730.63}{233.426+T_{b}}}}</annotation>
+</semantics>
+</math></span><img alt="\log _{10}P=8.07131-{\frac {1730.63}{233.426+T_{b}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae487be5e9f2b79e09edf49f50b988febf3e16e9" style="vertical-align: -2.171ex; width:34.134ex; height:5.509ex;"/></span></dd></dl>
+<p>or transformed into this temperature-explicit form:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}={\frac {1730.63}{8.07131-\log _{10}P}}-233.426}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1730.63</mn>
+<mrow>
+<mn>8.07131</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>P</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mn>233.426</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}={\frac {1730.63}{8.07131-\log _{10}P}}-233.426}</annotation>
+</semantics>
+</math></span><img alt="T_{b}={\frac {1730.63}{8.07131-\log _{10}P}}-233.426" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8aafb95446e089cdf2baff7b69763e5d2a89e7d1" style="vertical-align: -2.505ex; width:34.134ex; height:5.843ex;"/></span></dd></dl>
+<p>where the temperature <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}}</annotation>
+</semantics>
+</math></span><img alt="T_{b}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/74c8b2d230dda9ccb7e55c237c918a935037c9d1" style="vertical-align: -0.671ex; width:2.295ex; height:2.509ex;"/></span> is the boiling point in degrees <a href="/wiki/Celsius" title="Celsius">Celsius</a> and the pressure <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{}}</annotation>
+</semantics>
+</math></span><img alt="P_{}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5741bc87883d2712ae702f13298af9a8c3b9cb2" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span> is in <a href="/wiki/Torr" title="Torr">Torr</a>.
+</p>
+<h2><span id="D.C3.BChring.27s_rule"></span><span class="mw-headline" id="Dühring's_rule">Dühring's rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=7" title="Edit section: Dühring's rule">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/D%C3%BChring%27s_rule" title="Dühring's rule">Dühring's rule</a></div>
+<p>Dühring's rule states that a linear relationship exists between the temperatures at which two solutions exert the same vapor pressure.
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=8" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following table is a list of a variety of substances ordered by increasing vapor pressure (in absolute units).
+</p>
+<table class="wikitable sortable" style="text-align:center;">
+<tbody><tr>
+<th>Substance
+</th>
+<th>Vapor Pressure<br/>(SI units)
+</th>
+<th>Vapor Pressure<br/>(Bar)
+</th>
+<th>Vapor Pressure<br/>(mmHg)
+</th>
+<th>Temperature
+</th></tr>
+<tr>
+<td><a href="/wiki/Tungsten" title="Tungsten">Tungsten</a>
+</td>
+<td>100 Pa
+</td>
+<td>0.001
+</td>
+<td>0.75
+</td>
+<td>3203 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethylene_glycol" title="Ethylene glycol">Ethylene glycol</a>
+</td>
+<td>500 Pa
+</td>
+<td>0.005
+</td>
+<td>3.75
+</td>
+<td>20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Xenon_difluoride" title="Xenon difluoride">Xenon difluoride</a>
+</td>
+<td>600 Pa
+</td>
+<td>0.006
+</td>
+<td>4.50
+</td>
+<td>25 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Water" title="Water">Water</a> (H<sub>2</sub>O)
+</td>
+<td>2.3 kPa
+</td>
+<td>0.023
+</td>
+<td>17.5
+</td>
+<td>20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Propanol" title="Propanol">Propanol</a>
+</td>
+<td>2.4 kPa
+</td>
+<td>0.024
+</td>
+<td>18.0
+</td>
+<td>20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Methyl_isobutyl_ketone" title="Methyl isobutyl ketone">Methyl isobutyl ketone</a>
+</td>
+<td>2.66 kPa
+</td>
+<td>0.0266
+</td>
+<td>19.95
+</td>
+<td>25 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a>
+</td>
+<td>5.83 kPa
+</td>
+<td>0.0583
+</td>
+<td>43.7
+</td>
+<td>20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Freon" title="Freon">Freon 113</a>
+</td>
+<td>37.9 kPa
+</td>
+<td>0.379
+</td>
+<td>284
+</td>
+<td>20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Acetaldehyde" title="Acetaldehyde">Acetaldehyde</a>
+</td>
+<td>98.7 kPa
+</td>
+<td>0.987
+</td>
+<td>740
+</td>
+<td>20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Butane" title="Butane">Butane</a>
+</td>
+<td>220 kPa
+</td>
+<td>2.2
+</td>
+<td>1650
+</td>
+<td>20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a>
+</td>
+<td>435.7 kPa
+</td>
+<td>4.357
+</td>
+<td>3268
+</td>
+<td>20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Propane" title="Propane">Propane</a><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</td>
+<td>997.8 kPa
+</td>
+<td>9.978
+</td>
+<td>7584
+</td>
+<td>26.85 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbonyl_sulfide" title="Carbonyl sulfide">Carbonyl sulfide</a>
+</td>
+<td>1.255 MPa
+</td>
+<td>12.55
+</td>
+<td>9412
+</td>
+<td>25 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">Nitrous oxide</a><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</td>
+<td>5.660 MPa
+</td>
+<td>56.60
+</td>
+<td>42453
+</td>
+<td>25 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a>
+</td>
+<td>5.7 MPa
+</td>
+<td>57
+</td>
+<td>42753
+</td>
+<td>20 °C
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Estimating_vapor_pressure_from_molecular_structure">Estimating vapor pressure from molecular structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=9" title="Edit section: Estimating vapor pressure from molecular structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several empirical methods exist to estimate liquid vapor pressure from molecular structure for organic molecules. Some examples are SIMPOL,<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> the method of Moller et al.,<sup class="reference" id="cite_ref-Moller_9-1"><a href="#cite_note-Moller-9">[9]</a></sup> and EVAPORATION.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Meaning_in_meteorology">Meaning in meteorology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=10" title="Edit section: Meaning in meteorology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, the term <i>vapor pressure</i> is used to mean the partial pressure of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> in the atmosphere, even if it is not in equilibrium,<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> and the <i>equilibrium vapor pressure</i> is specified otherwise. Meteorologists also use the term <i>saturation vapor pressure</i> to refer to the equilibrium vapor pressure of water or <a href="/wiki/Brine" title="Brine">brine</a> above a flat surface, to distinguish it from equilibrium vapor pressure, which takes into account the shape and size of water droplets and particulates in the atmosphere.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Vapour_pressure_of_water" title="Vapour pressure of water">Vapour pressure of water</a></li>
+<li><a class="mw-redirect" href="/wiki/Absolute_humidity" title="Absolute humidity">Absolute humidity</a></li>
+<li><a href="/wiki/Lee%E2%80%93Kesler_method" title="Lee–Kesler method">Lee–Kesler method</a></li>
+<li><a href="/wiki/Reid_vapor_pressure" title="Reid vapor pressure">Reid vapor pressure</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity</a></li>
+<li><a href="/wiki/Relative_volatility" title="Relative volatility">Relative volatility</a></li>
+<li><a href="/wiki/Saturation_vapor_density" title="Saturation vapor density">Saturation vapor density</a></li>
+<li><a href="/wiki/Osmotic_coefficient" title="Osmotic coefficient">Osmotic coefficient</a></li>
+<li><a href="/wiki/Triple_point" title="Triple point">Triple point</a></li>
+<li><a href="/wiki/True_vapor_pressure" title="True vapor pressure">True vapor pressure</a></li>
+<li><a href="/wiki/Vapor%E2%80%93liquid_equilibrium" title="Vapor–liquid equilibrium">Vapor–liquid equilibrium</a></li>
+<li><a href="/wiki/Vapor_pressures_of_the_elements_(data_page)" title="Vapor pressures of the elements (data page)">Vapor pressures of the elements (data page)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor_pressure&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.engineersedge.com/fluid_flow/fluid_data.htm" rel="nofollow">Fluid Characteristics Chart</a></li>
+<li><a class="external text" href="http://hyperphysics.phy-astr.gsu.edu/hbase/kinetic/vappre.html#c2" rel="nofollow">Hyperphysics</a></li>
+<li><a class="external text" href="http://www.ilpi.com/msds/ref/vaporpressure.html" rel="nofollow">MSDS Vapor Pressure</a></li>
+<li><a class="external text" href="http://www.envmodels.com/freetools.php?menu=pression" rel="nofollow">Online vapor pressure calculation tool (Requires Registration)</a></li>
+<li><a class="external text" href="http://www.aim.env.uea.ac.uk/aim/ddbst/pcalc_main.php" rel="nofollow">Prediction of Vapor Pressures of Pure Liquid Organic Compounds</a></li></ul>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2661322&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2661322&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q2661322" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4148771-0" rel="nofollow">4148771-0</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00575023" rel="nofollow">00575023</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20181029231316
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.348 seconds
+Real time usage: 0.447 seconds
+Preprocessor visited node count: 916/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21640/2097152 bytes
+Template argument size: 110/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29706/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 3.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  260.442      1 -total
+ 66.49%  173.159      1 Template:Reflist
+ 22.35%   58.201      1 Template:Cite_web
+ 13.25%   34.512      1 Template:Authority_control
+ 11.36%   29.582      1 Template:Citation
+  8.21%   21.383      1 Template:Gaps
+  7.74%   20.152      3 Template:Cite_journal
+  5.39%   14.036      3 Template:Cite_book
+  4.91%   12.794      1 Template:Webarchive
+  3.97%   10.349      1 Template:Further
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40197-0!canonical!math=5 and timestamp 20181029231316 and revision id 866372149
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vapor_pressure&amp;oldid=866372149">https://en.wikipedia.org/w/index.php?title=Vapor_pressure&amp;oldid=866372149</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Thermodynamic_properties" title="Category:Thermodynamic properties">Thermodynamic properties</a></li><li><a href="/wiki/Category:Engineering_thermodynamics" title="Category:Engineering thermodynamics">Engineering thermodynamics</a></li><li><a href="/wiki/Category:Meteorological_concepts" title="Category:Meteorological concepts">Meteorological concepts</a></li><li><a href="/wiki/Category:Gases" title="Category:Gases">Gases</a></li><li><a href="/wiki/Category:Pressure" title="Category:Pressure">Pressure</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vapor+pressure" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Vapor+pressure" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Vapor_pressure" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Vapor_pressure" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Vapor_pressure">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Vapor_pressure&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Vapor_pressure&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Vapor_pressure" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Vapor_pressure" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vapor_pressure&amp;oldid=866372149" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vapor_pressure&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2661322" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vapor_pressure&amp;id=866372149" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vapor+pressure">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Vapor+pressure&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Vapor_pressure&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Dampdruk" hreflang="af" lang="af" title="Dampdruk – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B6%D8%BA%D8%B7_%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1" hreflang="ar" lang="ar" title="ضغط البخار – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Presi%C3%B3n_de_vapor" hreflang="an" lang="an" title="Presión de vapor – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Presi%C3%B3n_de_vapor" hreflang="ast" lang="ast" title="Presión de vapor – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%AA_%E0%A6%9A%E0%A6%BE%E0%A6%AA" hreflang="bn" lang="bn" title="বাষ্প চাপ – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9D%D0%B0%D1%81%D1%8B%D1%87%D0%B0%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D0%B0" hreflang="be" lang="be" title="Насычаная пара – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%BE_%D0%BD%D0%B0%D0%BB%D1%8F%D0%B3%D0%B0%D0%BD%D0%B5" hreflang="bg" lang="bg" title="Парно налягане – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pressi%C3%B3_de_vapor" hreflang="ca" lang="ca" title="Pressió de vapor – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Dampfdruck" hreflang="de" lang="de" title="Dampfdruck – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/K%C3%BCllastunud_auru_r%C3%B5hk" hreflang="et" lang="et" title="Küllastunud auru rõhk – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CF%83%CE%B7_%CE%B1%CF%84%CE%BC%CF%8E%CE%BD" hreflang="el" lang="el" title="Τάση ατμών – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Presi%C3%B3n_de_vapor" hreflang="es" lang="es" title="Presión de vapor – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Vaporpremo" hreflang="eo" lang="eo" title="Vaporpremo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Lurrun-presio" hreflang="eu" lang="eu" title="Lurrun-presio – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B4%D8%A7%D8%B1_%D8%A8%D8%AE%D8%A7%D8%B1" hreflang="fa" lang="fa" title="فشار بخار – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pression_de_vapeur" hreflang="fr" lang="fr" title="Pression de vapeur – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Br%C3%BA_gaile" hreflang="ga" lang="ga" title="Brú gaile – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Presi%C3%B3n_de_vapor" hreflang="gl" lang="gl" title="Presión de vapor – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A6%9D%EA%B8%B0_%EC%95%95%EB%A0%A5" hreflang="ko" lang="ko" title="증기 압력 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%A3%D5%A5%D6%81%D5%A1%D5%AE_%D5%A3%D5%B8%D5%AC%D5%B8%D6%80%D5%B7%D5%AB" hreflang="hy" lang="hy" title="Հագեցած գոլորշի – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%AA_%E0%A4%A6%E0%A4%BE%E0%A4%AC" hreflang="hi" lang="hi" title="वाष्प दाब – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Tekanan_uap" hreflang="id" lang="id" title="Tekanan uap – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Gufu%C3%BEr%C3%BDstingur" hreflang="is" lang="is" title="Gufuþrýstingur – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pressione_di_vapore" hreflang="it" lang="it" title="Pressione di vapore – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9C%D7%97%D7%A5_%D7%90%D7%93%D7%99%D7%9D" hreflang="he" lang="he" title="לחץ אדים – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Penetan_uwab" hreflang="jv" lang="jv" title="Penetan uwab – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Presyon_vap%C3%A8" hreflang="ht" lang="ht" title="Presyon vapè – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Pressio_vaporis" hreflang="la" lang="la" title="Pressio vaporis – Latin">Latina</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/G%C5%91znyom%C3%A1s" hreflang="hu" lang="hu" title="Gőznyomás – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD_%D0%BF%D1%80%D0%B8%D1%82%D0%B8%D1%81%D0%BE%D0%BA" hreflang="mk" lang="mk" title="Парен притисок – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Tekanan_wap" hreflang="ms" lang="ms" title="Tekanan wap – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Dampdruk" hreflang="nl" lang="nl" title="Dampdruk – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%92%B8%E6%B0%97%E5%9C%A7" hreflang="ja" lang="ja" title="蒸気圧 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Damptrykk" hreflang="no" lang="no" title="Damptrykk – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Damptrykk" hreflang="nn" lang="nn" title="Damptrykk – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ci%C5%9Bnienie_pary_nasyconej" hreflang="pl" lang="pl" title="Ciśnienie pary nasyconej – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Press%C3%A3o_de_vapor" hreflang="pt" lang="pt" title="Pressão de vapor – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Presiune_de_vapori" hreflang="ro" lang="ro" title="Presiune de vapori – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%81%D1%8B%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80" hreflang="ru" lang="ru" title="Насыщенный пар – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Vapour_pressur" hreflang="sco" lang="sco" title="Vapour pressur – Scots">Scots</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Parni_tlak" hreflang="sl" lang="sl" title="Parni tlak – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BF%D0%BE%D0%BD_%D0%BF%D0%B0%D1%80%D0%B5" hreflang="sr" lang="sr" title="Напон паре – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Napon_pare" hreflang="sh" lang="sh" title="Napon pare – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/H%C3%B6yrynpaine" hreflang="fi" lang="fi" title="Höyrynpaine – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/%C3%85ngtryck" hreflang="sv" lang="sv" title="Ångtryck – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="ஆவியமுக்கம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%AD" hreflang="th" lang="th" title="ความดันไอ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%81%D0%B8%D1%87%D0%B5%D0%BD%D0%B0_%D0%BF%D0%B0%D1%80%D0%B0" hreflang="uk" lang="uk" title="Насичена пара – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C_%D8%AF%D8%A8%D8%A7%D8%A4" hreflang="ur" lang="ur" title="بخاری دباؤ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C3%81p_su%E1%BA%A5t_h%C6%A1i" hreflang="vi" lang="vi" title="Áp suất hơi – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%92%B8%E6%B0%A3%E5%A3%93" hreflang="zh" lang="zh" title="蒸氣壓 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2661322#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 October 2018, at 23:13<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Vapor_pressure&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.447","ppvisitednodes":{"value":916,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21640,"limit":2097152},"templateargumentsize":{"value":110,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29706,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  260.442      1 -total"," 66.49%  173.159      1 Template:Reflist"," 22.35%   58.201      1 Template:Cite_web"," 13.25%   34.512      1 Template:Authority_control"," 11.36%   29.582      1 Template:Citation","  8.21%   21.383      1 Template:Gaps","  7.74%   20.152      3 Template:Cite_journal","  5.39%   14.036      3 Template:Cite_book","  4.91%   12.794      1 Template:Webarchive","  3.97%   10.349      1 Template:Further"]},"scribunto":{"limitreport-timeusage":{"value":"0.136","limit":"10.000"},"limitreport-memusage":{"value":3752436,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20181029231316","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1328"});});</script>
+</body>
+</html>

@@ -1,0 +1,1107 @@
+https://en.wikipedia.org/wiki/Erbium
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Erbium - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Erbium","wgTitle":"Erbium","wgCurRevisionId":865272702,"wgRevisionId":865272702,"wgArticleId":9478,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Erbium","Chemical elements","Lanthanides","Reducing agents"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Erbium","wgRelevantArticleId":9478,"wgRequestId":"W9bztQpAMFQAAGXBzLwAAABV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1849","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/1/12/Erbium-crop.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Erbium" rel="alternate"/>
+<link href="/w/index.php?title=Erbium&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Erbium&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Erbium" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Erbium rootpage-Erbium skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Erbium</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">chemical element with atomic number 68</div><table class="infobox" style="width:22em"><caption><span style="white-space:nowrap">Erbium,  <sub><span style="font-size:smaller;">68</span></sub>Er</span></caption><tbody><tr><td colspan="2" style="text-align:center">
+<a class="image" href="/wiki/File:Erbium-crop.jpg"><img alt="Erbium-crop.jpg" data-file-height="249" data-file-width="264" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erbium-crop.jpg/170px-Erbium-crop.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erbium-crop.jpg/255px-Erbium-crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/12/Erbium-crop.jpg 2x" width="170"/></a></td></tr><tr><th colspan="2" style="text-align:center;background:#ffbfff">General properties</th></tr><tr><th scope="row">Pronunciation</th><td>
+<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ɜːr/: 'ur' in 'fur'">ɜːr</span><span title="'b' in 'buy'">b</span><span title="/i/: 'y' in 'happy'">i</span><span title="/ə/: 'a' in 'about'">ə</span><span title="'m' in 'my'">m</span></span>/</a></span></span> <wbr/>​<span class="nowrap">(<a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling"><span style="font-size:90%">UR</span>-bee-əm</i></a>)</span></td></tr><tr><th scope="row">Appearance</th><td>
+silvery white</td></tr><tr><th scope="row"><a href="/wiki/Standard_atomic_weight" title="Standard atomic weight">Standard atomic weight</a><style data-mw-deduplicate="TemplateStyles:r865336399">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"> (<i>A</i><sub>r, standard</sub>)</span></th><td>
+<span class="nowrap"><span class="sortkey" style="display:none">7002167259000000000♠</span>167.259(3)</span><sup class="reference" id="cite_ref-CIAAW2016_1-0"><a href="#cite_note-CIAAW2016-1">[1]</a></sup></td></tr><tr><th colspan="2" style="text-align:center;background:#ffbfff">Erbium in the <a href="/wiki/Periodic_table" title="Periodic table">periodic table</a></th></tr><tr><td colspan="2" style="text-align:center">
+<table class="wikitable" style="text-align:center; width:100%; margin:0; border-width:1px; background:#f8f8f8;">
+<tbody><tr>
+<td>
+<table class="wikitable" style="text-align:center; margin:0 auto; background:transparent; border:none;">
+<tbody><tr>
+<td style="border:none; width:5px"><div style="background-color:transparent; margin:0; padding:0; text-align:center; border:none;">
+<table style="empty-cells:hidden; border:none; padding:0; border-spacing:1px; border-collapse:separate; margin:0;">
+<tbody><tr>
+<td style="border:none;padding:0;"><a href="/wiki/Hydrogen" title="Hydrogen"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Hydrogen</span></a>
+</td>
+<td colspan="30" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Helium" title="Helium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Helium</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Lithium" title="Lithium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Lithium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Beryllium" title="Beryllium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Beryllium</span></a>
+</td>
+<td colspan="24" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Boron" title="Boron"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Boron</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Carbon" title="Carbon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Carbon</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Nitrogen" title="Nitrogen"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Nitrogen</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Oxygen" title="Oxygen"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Oxygen</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Fluorine" title="Fluorine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Fluorine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Neon" title="Neon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Neon</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Sodium" title="Sodium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Sodium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Magnesium" title="Magnesium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Magnesium</span></a>
+</td>
+<td colspan="24" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Aluminium" title="Aluminium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Aluminium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Silicon" title="Silicon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Silicon</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Phosphorus" title="Phosphorus"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Phosphorus</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Sulfur" title="Sulfur"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Sulfur</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Chlorine" title="Chlorine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Chlorine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Argon" title="Argon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Argon</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Potassium" title="Potassium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Potassium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Calcium" title="Calcium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Calcium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Scandium" title="Scandium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Scandium</span></a>
+</td>
+<td colspan="14" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Titanium" title="Titanium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Titanium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Vanadium" title="Vanadium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Vanadium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Chromium" title="Chromium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Chromium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Manganese" title="Manganese"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Manganese</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Iron" title="Iron"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Iron</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Cobalt" title="Cobalt"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Cobalt</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Nickel" title="Nickel"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Nickel</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Copper" title="Copper"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Copper</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Zinc" title="Zinc"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Zinc</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Gallium" title="Gallium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Gallium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Germanium" title="Germanium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Germanium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Arsenic" title="Arsenic"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Arsenic</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Selenium" title="Selenium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Selenium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Bromine" title="Bromine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Bromine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Krypton" title="Krypton"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Krypton</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Rubidium" title="Rubidium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Rubidium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Strontium" title="Strontium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Strontium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Yttrium" title="Yttrium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Yttrium</span></a>
+</td>
+<td style="border:none;padding:0;; width:0;">
+</td>
+<td colspan="13" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Zirconium" title="Zirconium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Zirconium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Niobium" title="Niobium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Niobium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Molybdenum" title="Molybdenum"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Molybdenum</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Technetium" title="Technetium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Technetium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Ruthenium" title="Ruthenium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Ruthenium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Rhodium" title="Rhodium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Rhodium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Palladium" title="Palladium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Palladium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Silver" title="Silver"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Silver</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Cadmium" title="Cadmium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Cadmium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Indium" title="Indium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Indium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tin" title="Tin"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Tin</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Antimony" title="Antimony"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Antimony</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tellurium" title="Tellurium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Tellurium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Iodine" title="Iodine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Iodine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Xenon" title="Xenon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Xenon</span></a>
+</td></tr>
+<tr style="border:none;padding:0;">
+<td style="border:none;padding:0;"><a href="/wiki/Caesium" title="Caesium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Caesium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Barium" title="Barium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Barium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Lanthanum" title="Lanthanum"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Lanthanum</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Cerium" title="Cerium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Cerium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Praseodymium" title="Praseodymium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Praseodymium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Neodymium" title="Neodymium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Neodymium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Promethium" title="Promethium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Promethium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Samarium" title="Samarium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Samarium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Europium" title="Europium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Europium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Gadolinium" title="Gadolinium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Gadolinium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Terbium" title="Terbium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Terbium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Dysprosium" title="Dysprosium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Dysprosium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Holmium" title="Holmium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Holmium</span></a>
+</td>
+<td style="border:none;padding:0;"><a class="mw-selflink selflink"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff; border:1px solid black; margin:-1px;">Erbium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Thulium" title="Thulium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Thulium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Ytterbium" title="Ytterbium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Ytterbium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Lutetium" title="Lutetium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Lutetium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Hafnium" title="Hafnium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Hafnium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tantalum" title="Tantalum"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Tantalum</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tungsten" title="Tungsten"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Tungsten</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Rhenium" title="Rhenium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Rhenium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Osmium" title="Osmium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Osmium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Iridium" title="Iridium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Iridium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Platinum" title="Platinum"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Platinum</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Gold" title="Gold"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Gold</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Mercury_(element)" title="Mercury (element)"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Mercury (element)</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Thallium" title="Thallium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Thallium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Lead" title="Lead"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Lead</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Bismuth" title="Bismuth"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Bismuth</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Polonium" title="Polonium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Polonium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Astatine" title="Astatine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Astatine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Radon" title="Radon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Radon</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Francium" title="Francium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Francium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Radium" title="Radium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Radium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Actinium" title="Actinium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Actinium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Thorium" title="Thorium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Thorium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Protactinium" title="Protactinium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Protactinium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Uranium" title="Uranium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Uranium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Neptunium" title="Neptunium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Neptunium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Plutonium" title="Plutonium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Plutonium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Americium" title="Americium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Americium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Curium" title="Curium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Curium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Berkelium" title="Berkelium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Berkelium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Californium" title="Californium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Californium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Einsteinium" title="Einsteinium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Einsteinium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Fermium" title="Fermium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Fermium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Mendelevium" title="Mendelevium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Mendelevium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Nobelium" title="Nobelium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Nobelium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Lawrencium" title="Lawrencium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Lawrencium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Rutherfordium" title="Rutherfordium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Rutherfordium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Dubnium" title="Dubnium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Dubnium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Seaborgium" title="Seaborgium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Seaborgium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Bohrium" title="Bohrium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Bohrium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Hassium" title="Hassium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Hassium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Meitnerium" title="Meitnerium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Meitnerium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Darmstadtium" title="Darmstadtium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Darmstadtium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Roentgenium" title="Roentgenium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Roentgenium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Copernicium" title="Copernicium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Copernicium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Nihonium" title="Nihonium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Nihonium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Flerovium" title="Flerovium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Flerovium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Moscovium" title="Moscovium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Moscovium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Livermorium" title="Livermorium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Livermorium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tennessine" title="Tennessine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Tennessine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Oganesson" title="Oganesson"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Oganesson</span></a>
+</td></tr></tbody></table>
+</div>
+</td>
+<td style="vertical-align:middle; text-align:center; font-size:90%; line-height:100%; width:10px; border:none;">–<br/>↑<br/><strong>Er</strong><br/>↓<br/><a href="/wiki/Fermium" title="Fermium">Fm</a>
+</td></tr>
+<tr>
+<td class="nowrap" colspan="2" style="text-align:center; font-size:90%; line-height:100%; padding-top:0; padding-bottom:1px; border:none;"><a href="/wiki/Holmium" title="Holmium">holmium</a> ← <strong>erbium</strong> → <a href="/wiki/Thulium" title="Thulium">thulium</a>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Atomic_number" title="Atomic number">Atomic number</a> <span style="font-weight:normal;">(<i>Z</i>)</span></span></th><td>
+68</td></tr><tr><th scope="row"><a href="/wiki/Group_(periodic_table)" title="Group (periodic table)">Group</a></th><td>
+<span class="nowrap"><a class="mw-redirect" href="/wiki/Unnumbered_groups_in_the_periodic_table" title="Unnumbered groups in the periodic table">group n/a</a></span></td></tr><tr><th scope="row"><a href="/wiki/Period_(periodic_table)" title="Period (periodic table)">Period</a></th><td>
+<a href="/wiki/Period_(periodic_table)#Period_6" title="Period (periodic table)">period 6</a> </td></tr><tr><th scope="row"><a href="/wiki/Block_(periodic_table)" title="Block (periodic table)">Block</a></th><td>
+<a class="mw-redirect" href="/wiki/F-block" title="F-block">f-block</a> </td></tr><tr><th scope="row"><a href="/wiki/Names_for_sets_of_chemical_elements#Category" title="Names for sets of chemical elements">Element category</a></th><td>
+<span style="display:inline-block; vertical-align:middle; width:6px; height:8px; border:1px solid black; background:#ffbfff" title="color legend: lanthanide"> </span> <a href="/wiki/Lanthanide" title="Lanthanide">lanthanide</a></td></tr><tr><th scope="row"><a href="/wiki/Electron_configuration" title="Electron configuration">Electron configuration</a></th><td>
+[<a href="/wiki/Xenon" title="Xenon">Xe</a>] 4f<sup>12</sup> 6s<sup>2</sup></td></tr><tr><th scope="row"><div style="font-weight:normal;">Electrons per shell</div></th><td>
+2, 8, 18, 30, 8, 2</td></tr><tr><th colspan="2" style="text-align:center;background:#ffbfff">Physical properties</th></tr><tr><th scope="row"><a href="/wiki/Phase_(matter)" title="Phase (matter)">Phase</a> <link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold">at <span title="STP: standard temperature and pressure: 0 °C and 101.325 kPa"><a href="/wiki/Standard_conditions_for_temperature_and_pressure" title="Standard conditions for temperature and pressure">STP</a></span></span></th><td>
+<a href="/wiki/Solid" title="Solid">solid</a></td></tr><tr><th scope="row"><a href="/wiki/Melting_point" title="Melting point">Melting point</a></th><td>
+1802 <a href="/wiki/Kelvin" title="Kelvin">K</a> ​(1529 °C, ​2784 °F) </td></tr><tr><th scope="row"><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a></th><td>
+3141 K ​(2868 °C, ​5194 °F) </td></tr><tr><th scope="row"><a href="/wiki/Density" title="Density">Density</a> <span style="font-weight:normal;">(near <abbr title="room temperature">r.t.</abbr>)</span></th><td>
+9.066 g/cm<sup>3</sup></td></tr><tr><th scope="row"><span style="font-weight:normal;">when liquid (at <abbr title="melting point">m.p.</abbr>)</span></th><td>
+8.86 g/cm<sup>3</sup> </td></tr><tr><th scope="row"><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Heat of fusion</a></th><td>
+19.90 <a class="mw-redirect" href="/wiki/Kilojoule_per_mole" title="Kilojoule per mole">kJ/mol</a> </td></tr><tr><th scope="row"><a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">Heat of vaporization</a></th><td>
+280 kJ/mol </td></tr><tr><th scope="row"><a class="mw-redirect" href="/wiki/Molar_heat_capacity" title="Molar heat capacity">Molar heat capacity</a></th><td>
+28.12 J/(mol·K) </td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/Vapor_pressure" title="Vapor pressure"><b>Vapor pressure</b></a><div style="margin:0 auto;">
+<table cellpadding="0" cellspacing="0" class="wikitable" style="text-align:center; border-collapse:collapse; margin:0; padding:0;">
+<tbody><tr>
+<th><abbr title="Pressure (in Pascal)"><i>P</i></abbr> <span style="font-weight:normal;">(Pa)</span>
+</th>
+<th>1
+</th>
+<th>10
+</th>
+<th>100
+</th>
+<th>1 k
+</th>
+<th>10 k
+</th>
+<th>100 k
+</th></tr>
+<tr>
+<th>at <abbr title="Temperature (in kelvins)"><i>T</i></abbr> <span style="font-weight:normal;">(K)</span>
+</th>
+<td>1504
+</td>
+<td>1663
+</td>
+<td>(1885)
+</td>
+<td>(2163)
+</td>
+<td>(2552)
+</td>
+<td>(3132)
+</td></tr></tbody></table>
+</div></td></tr><tr><th colspan="2" style="text-align:center;background:#ffbfff">Atomic properties</th></tr><tr><th scope="row"><a href="/wiki/Oxidation_state" title="Oxidation state">Oxidation states</a></th><td>
+<b>3</b>, 2, 1 <wbr/>​(a <a href="/wiki/Base_(chemistry)" title="Base (chemistry)">basic</a> oxide)</td></tr><tr><th scope="row"><a href="/wiki/Electronegativity" title="Electronegativity">Electronegativity</a></th><td>
+Pauling scale: 1.24 </td></tr><tr><th scope="row"><a href="/wiki/Ionization_energy" title="Ionization energy">Ionization energies</a></th><td>
+<div class="plainlist"><ul><li>1st: 589.3 kJ/mol </li><li>2nd: 1150 kJ/mol </li><li>3rd: 2194 kJ/mol </li><li> </li></ul></div></td></tr><tr><th scope="row"><a href="/wiki/Atomic_radius" title="Atomic radius">Atomic radius</a></th><td>
+empirical: 176 <a href="/wiki/Picometre" title="Picometre">pm</a> </td></tr><tr><th scope="row"><a href="/wiki/Covalent_radius" title="Covalent radius">Covalent radius</a></th><td>
+189±6 pm </td></tr><tr><td colspan="2" style="text-align:center">
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Erbium_spectrum_visible.png" title="Color lines in a spectral range"><img alt="Color lines in a spectral range" data-file-height="1280" data-file-width="7430" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Erbium_spectrum_visible.png/240px-Erbium_spectrum_visible.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Erbium_spectrum_visible.png/360px-Erbium_spectrum_visible.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Erbium_spectrum_visible.png/480px-Erbium_spectrum_visible.png 2x" width="240"/></a></div></div><strong><a href="/wiki/Spectral_line" title="Spectral line">Spectral lines</a> of erbium</strong></td></tr><tr><th colspan="2" style="text-align:center;background:#ffbfff">Other properties</th></tr><tr><th scope="row"><a href="/wiki/Crystal_structure" title="Crystal structure">Crystal structure</a></th><td>
+ ​<a href="/wiki/Close-packing_of_equal_spheres" title="Close-packing of equal spheres">hexagonal close-packed</a> (hcp)<div style="float:right;"><a class="image" href="/wiki/File:Hexagonal_close_packed.svg" title="Hexagonal close packed crystal structure for erbium"><img alt="Hexagonal close packed crystal structure for erbium" data-file-height="307" data-file-width="311" height="49" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hexagonal_close_packed.svg/50px-Hexagonal_close_packed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hexagonal_close_packed.svg/75px-Hexagonal_close_packed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hexagonal_close_packed.svg/100px-Hexagonal_close_packed.svg.png 2x" width="50"/></a></div></td></tr><tr><th scope="row"><a href="/wiki/Speed_of_sound" title="Speed of sound">Speed of sound</a> <span style="font-weight:normal;">thin rod</span></th><td>
+2830 m/s (at 20 °C) </td></tr><tr><th scope="row"><a class="mw-redirect" href="/wiki/Coefficient_of_thermal_expansion" title="Coefficient of thermal expansion">Thermal expansion</a></th><td>
+poly: 12.2 µm/(m·K) (<abbr title="room temperature">r.t.</abbr>)</td></tr><tr><th scope="row"><a href="/wiki/Thermal_conductivity" title="Thermal conductivity">Thermal conductivity</a></th><td>
+14.5 W/(m·K) </td></tr><tr><th scope="row"><a href="/wiki/Electrical_resistivity_and_conductivity" title="Electrical resistivity and conductivity">Electrical resistivity</a></th><td>
+poly: 0.860 µΩ·m (<abbr title="room temperature">r.t.</abbr>)</td></tr><tr><th scope="row"><a href="/wiki/Magnetism" title="Magnetism">Magnetic ordering</a></th><td>
+<a class="mw-redirect" href="/wiki/Paramagnetic" title="Paramagnetic">paramagnetic</a> at 300 K </td></tr><tr><th scope="row"><a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">Magnetic susceptibility</a></th><td>
++44,300.00·10<sup>−6</sup> cm<sup>3</sup>/mol<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Young%27s_modulus" title="Young's modulus">Young's modulus</a></th><td>
+69.9 GPa </td></tr><tr><th scope="row"><a href="/wiki/Shear_modulus" title="Shear modulus">Shear modulus</a></th><td>
+28.3 GPa </td></tr><tr><th scope="row"><a href="/wiki/Bulk_modulus" title="Bulk modulus">Bulk modulus</a></th><td>
+44.4 GPa </td></tr><tr><th scope="row"><a href="/wiki/Poisson%27s_ratio" title="Poisson's ratio">Poisson ratio</a></th><td>
+0.237 </td></tr><tr><th scope="row"><a href="/wiki/Vickers_hardness_test" title="Vickers hardness test">Vickers hardness</a></th><td>
+430–700 MPa </td></tr><tr><th scope="row"><a class="mw-redirect" href="/wiki/Brinell_hardness_test" title="Brinell hardness test">Brinell hardness</a></th><td>
+600–1070 MPa </td></tr><tr><th scope="row"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></th><td>
+7440-52-0 </td></tr><tr><th colspan="2" style="text-align:center;background:#ffbfff">History</th></tr><tr><th scope="row">Naming</th><td>
+after <a href="/wiki/Ytterby" title="Ytterby">Ytterby</a> (Sweden), where it was mined</td></tr><tr><th scope="row"><a href="/wiki/Timeline_of_chemical_element_discoveries" title="Timeline of chemical element discoveries">Discovery</a></th><td>
+<a href="/wiki/Carl_Gustaf_Mosander" title="Carl Gustaf Mosander">Carl Gustaf Mosander</a><span class="nowrap"> (1843)</span></td></tr><tr><th colspan="2" style="text-align:center;background:#ffbfff">Main <a href="/wiki/Isotopes_of_erbium" title="Isotopes of erbium">isotopes of erbium</a></th></tr><tr><td colspan="2" style="text-align:center">
+<table cellpadding="1" class="wikitable" style="text-align: center; width: 100%; border-collapse: collapse; margin: 0; padding: 0;">
+<tbody><tr>
+<th><a href="/wiki/Isotope" title="Isotope">Iso­tope</a>
+</th>
+<th><a href="/wiki/Natural_abundance" title="Natural abundance">Abun­dance</a>
+</th>
+<th><a href="/wiki/Half-life" title="Half-life">Half-life</a> <link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold">(<i>t</i><sub>1/2</sub>)</span>
+</th>
+<th><a href="/wiki/Radioactive_decay" title="Radioactive decay">Decay mode</a>
+</th>
+<th><a href="/wiki/Decay_product" title="Decay product">Pro­duct</a>
+</th></tr>
+<tr>
+<th style="text-align:right;"><sup>160</sup>Er
+</th>
+<td style="text-align:center;"><a href="/wiki/Synthetic_radioisotope" title="Synthetic radioisotope">syn</a>
+</td>
+<td style="text-align:right;">28.58 h
+</td>
+<td><a href="/wiki/Electron_capture" title="Electron capture">ε</a>
+</td>
+<td style="text-align:right;"><a class="mw-redirect" href="/wiki/Holmium-160" title="Holmium-160"><sup>160</sup>Ho</a>
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>162</sup>Er
+</th>
+<td style="text-align:right">0.139%
+</td>
+<td colspan="3" style="text-align:center;"><a class="mw-redirect" href="/wiki/Stable_isotope" title="Stable isotope">stable</a>
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>164</sup>Er
+</th>
+<td style="text-align:right">1.601%
+</td>
+<td colspan="3" style="text-align:center;">stable
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>165</sup>Er
+</th>
+<td style="text-align:center;">syn
+</td>
+<td style="text-align:right;">10.36 h
+</td>
+<td>ε
+</td>
+<td style="text-align:right;"><a class="mw-redirect" href="/wiki/Holmium-165" title="Holmium-165"><sup>165</sup>Ho</a>
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>166</sup>Er
+</th>
+<td style="text-align:right">33.503%
+</td>
+<td colspan="3" style="text-align:center;">stable
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>167</sup>Er
+</th>
+<td style="text-align:right">22.869%
+</td>
+<td colspan="3" style="text-align:center;">stable
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>168</sup>Er
+</th>
+<td style="text-align:right">26.978%
+</td>
+<td colspan="3" style="text-align:center;">stable
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>169</sup>Er
+</th>
+<td style="text-align:center;">syn
+</td>
+<td style="text-align:right;">9.4 d
+</td>
+<td><a class="mw-redirect" href="/wiki/Beta_emission" title="Beta emission">β<sup>−</sup></a>
+</td>
+<td style="text-align:right;"><a class="mw-redirect" href="/wiki/Thulium-169" title="Thulium-169"><sup>169</sup>Tm</a>
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>170</sup>Er
+</th>
+<td style="text-align:right">14.910%
+</td>
+<td colspan="3" style="text-align:center;">stable
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>171</sup>Er
+</th>
+<td style="text-align:center;">syn
+</td>
+<td style="text-align:right;">7.516 h
+</td>
+<td>β<sup>−</sup>
+</td>
+<td style="text-align:right;"><a class="mw-redirect" href="/wiki/Thulium-171" title="Thulium-171"><sup>171</sup>Tm</a>
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>172</sup>Er
+</th>
+<td style="text-align:center;">syn
+</td>
+<td style="text-align:right;">49.3 h
+</td>
+<td>β<sup>−</sup>
+</td>
+<td style="text-align:right;"><a class="mw-redirect" href="/wiki/Thulium-172" title="Thulium-172"><sup>172</sup>Tm</a>
+</td></tr></tbody></table></td></tr><tr><td class="noprint" colspan="2" style="text-align:center;background:#ffbfff">
+<div class="plainlinks hlist navbar"><ul><li class="nv-view"><a href="/wiki/Template:Infobox_erbium" title="Template:Infobox erbium"><span title="View this template">view</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Infobox_erbium" title="Template talk:Infobox erbium"><span title="Discuss this template">talk</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Infobox_erbium&amp;action=edit"><span title="Edit this template">edit</span></a></li></ul></div> | <a href="/wiki/List_of_data_references_for_chemical_elements" title="List of data references for chemical elements">references</a></td></tr></tbody></table>
+<p><b>Erbium</b> is a <a href="/wiki/Chemical_element" title="Chemical element">chemical element</a> with symbol <b>Er</b> and <a href="/wiki/Atomic_number" title="Atomic number">atomic number</a> 68. A silvery-white solid metal when artificially isolated, natural erbium is always found in chemical combination with other elements. It is a <a href="/wiki/Lanthanide" title="Lanthanide">lanthanide</a>, a <a class="mw-redirect" href="/wiki/Rare_earth_element" title="Rare earth element">rare earth element</a>, originally found in the <a href="/wiki/Gadolinite" title="Gadolinite">gadolinite</a> mine in <a href="/wiki/Ytterby" title="Ytterby">Ytterby</a> in <a href="/wiki/Sweden" title="Sweden">Sweden</a>, from which it got its name.
+</p><p>Erbium's principal uses involve its pink-colored Er<sup>3+</sup> ions, which have optical fluorescent properties particularly useful in certain laser applications. Erbium-doped glasses or crystals can be used as optical amplification media, where Er<sup>3+</sup> ions are optically pumped at around 980 or <span class="nowrap"><span class="sortkey" style="display:none">6994148000000000000♠</span>1480 nm</span> and then radiate light at <span class="nowrap"><span class="sortkey" style="display:none">6994153000000000000♠</span>1530 nm</span> in stimulated emission. This process results in an unusually mechanically simple <a href="/wiki/Laser" title="Laser">laser</a> <a href="/wiki/Optical_amplifier" title="Optical amplifier">optical amplifier</a> for signals transmitted by fiber optics. The <span class="nowrap"><span class="sortkey" style="display:none">6994155000000000000♠</span>1550 nm</span> wavelength is especially important for <a class="mw-redirect" href="/wiki/Optical_communications" title="Optical communications">optical communications</a> because standard single mode <a class="mw-redirect" href="/wiki/Optical_fibers" title="Optical fibers">optical fibers</a> have minimal loss at this particular wavelength.
+</p><p>In addition to optical fiber amplifier-lasers, a large variety of medical applications (i.e. dermatology, dentistry) rely on the erbium ion's <span class="nowrap"><span class="sortkey" style="display:none">6994294000000000000♠</span>2940 nm</span> emission (see <a href="/wiki/Er:YAG_laser" title="Er:YAG laser">Er:YAG laser</a>) when lit at another wavelength, which is highly absorbed in water in tissues, making its effect very superficial. Such shallow tissue deposition of laser energy is helpful in <a href="/wiki/Laser_surgery" title="Laser surgery">laser surgery</a>, and for the efficient production of steam which produces enamel ablation by common types of <a href="/wiki/Dental_laser" title="Dental laser">dental laser</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics"><span class="tocnumber">1</span> <span class="toctext">Characteristics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Physical_properties"><span class="tocnumber">1.1</span> <span class="toctext">Physical properties</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Chemical_properties"><span class="tocnumber">1.2</span> <span class="toctext">Chemical properties</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Isotopes"><span class="tocnumber">1.3</span> <span class="toctext">Isotopes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Occurrence"><span class="tocnumber">3</span> <span class="toctext">Occurrence</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Production"><span class="tocnumber">4</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Applications"><span class="tocnumber">5</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Biological_role"><span class="tocnumber">6</span> <span class="toctext">Biological role</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Toxicity"><span class="tocnumber">6.1</span> <span class="toctext">Toxicity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=1" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Physical_properties">Physical properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=2" title="Edit section: Physical properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Erbium(III)chloride_sunlight.jpg"><img alt="" class="thumbimage" data-file-height="240" data-file-width="280" height="189" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Erbium%28III%29chloride_sunlight.jpg/220px-Erbium%28III%29chloride_sunlight.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/0/0f/Erbium%28III%29chloride_sunlight.jpg 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Erbium(III)chloride_sunlight.jpg" title="Enlarge"></a></div>Erbium(III)chloride in sunlight, showing some pink fluorescence of Er<sup>+3</sup> from natural ultraviolet.</div></div></div>
+<p>A <a href="/wiki/Valence_(chemistry)" title="Valence (chemistry)">trivalent</a> element, pure erbium <a href="/wiki/Metal" title="Metal">metal</a> is malleable (or easily shaped), soft yet stable in air, and does not <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidize</a> as quickly as some other <a class="mw-redirect" href="/wiki/Rare-earth_metals" title="Rare-earth metals">rare-earth metals</a>. Its <a href="/wiki/Salt_(chemistry)" title="Salt (chemistry)">salts</a> are rose-colored, and the element has characteristic sharp <a class="mw-redirect" href="/wiki/Absorption_spectra" title="Absorption spectra">absorption spectra</a> bands in <a class="mw-redirect" href="/wiki/Visible_light" title="Visible light">visible light</a>, <a href="/wiki/Ultraviolet" title="Ultraviolet">ultraviolet</a>, and near <a href="/wiki/Infrared" title="Infrared">infrared</a>. Otherwise it looks much like the other rare earths. Its <a href="/wiki/Sesquioxide" title="Sesquioxide">sesquioxide</a> is called <a class="mw-redirect" href="/wiki/Erbia" title="Erbia">erbia</a>. Erbium's properties are to a degree dictated by the kind and amount of impurities present. Erbium does not play any known biological role, but is thought to be able to stimulate <a href="/wiki/Metabolism" title="Metabolism">metabolism</a>.<sup class="reference" id="cite_ref-emsley_3-0"><a href="#cite_note-emsley-3">[3]</a></sup>
+</p><p>Erbium is <a class="mw-redirect" href="/wiki/Ferromagnetic" title="Ferromagnetic">ferromagnetic</a> below 19 K, <a class="mw-redirect" href="/wiki/Antiferromagnetic" title="Antiferromagnetic">antiferromagnetic</a> between 19 and 80 K and <a class="mw-redirect" href="/wiki/Paramagnetic" title="Paramagnetic">paramagnetic</a> above 80 K.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Erbium can form propeller-shaped atomic clusters Er<sub>3</sub>N, where the distance between the erbium atoms is 0.35 nm. Those clusters can be isolated by encapsulating them into <a href="/wiki/Fullerene" title="Fullerene">fullerene</a> molecules, as confirmed by <a href="/wiki/Transmission_electron_microscopy" title="Transmission electron microscopy">transmission electron microscopy</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Chemical_properties">Chemical properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=3" title="Edit section: Chemical properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Erbium metal tarnishes slowly in air and burns readily to form <a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">erbium(III) oxide</a>:
+</p>
+<dl><dd>4 Er + 3 O<sub>2</sub> → 2 Er<sub>2</sub>O<sub>3</sub></dd></dl>
+<p>Erbium is quite electropositive and reacts slowly with cold water and quite quickly with hot water to form erbium hydroxide:
+</p>
+<dl><dd>2 Er (s) + 6 H<sub>2</sub>O (l) → 2 Er(OH)<sub>3</sub> (aq) + 3 H<sub>2</sub> (g)</dd></dl>
+<p>Erbium metal reacts with all the halogens:
+</p>
+<dl><dd>2 Er (s) + 3 F<sub>2</sub> (g) → 2 ErF<sub>3</sub> (s) [pink]</dd>
+<dd>2 Er (s) + 3 Cl<sub>2</sub> (g) → 2 ErCl<sub>3</sub> (s) [violet]</dd>
+<dd>2 Er (s) + 3 Br<sub>2</sub> (g) → 2 ErBr<sub>3</sub> (s) [violet]</dd>
+<dd>2 Er (s) + 3 I<sub>2</sub> (g) → 2 ErI<sub>3</sub> (s) [violet]</dd></dl>
+<p>Erbium dissolves readily in dilute <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> to form solutions containing hydrated Er(III) ions, which exist as rose red [Er(OH<sub>2</sub>)<sub>9</sub>]<sup>3+</sup> hydration complexes:<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<dl><dd>2 Er (s) + 3 H<sub>2</sub>SO<sub>4</sub> (aq) → 2 Er<sup>3+</sup> (aq) + 3 <span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> (aq) + 3 H<sub>2</sub> (g)</dd></dl>
+<h3><span class="mw-headline" id="Isotopes">Isotopes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=4" title="Edit section: Isotopes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Isotopes_of_erbium" title="Isotopes of erbium">Isotopes of erbium</a></div>
+<p>Naturally occurring erbium is composed of 6 stable <a href="/wiki/Isotope" title="Isotope">isotopes</a>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">162</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">164</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">166</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">167</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">168</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, and <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">170</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> with <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">166</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> being the most abundant (33.503% <a href="/wiki/Natural_abundance" title="Natural abundance">natural abundance</a>). 29 <a class="mw-redirect" href="/wiki/Radioisotope" title="Radioisotope">radioisotopes</a> have been characterized, with the most stable being <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">169</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> with a <a href="/wiki/Half-life" title="Half-life">half-life</a> of <span class="nowrap"><span class="sortkey" style="display:none">7005812160000000000♠</span>9.4 d</span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">172</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> with a half-life of <span class="nowrap"><span class="sortkey" style="display:none">7005177480000000000♠</span>49.3 h</span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">160</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> with a half-life of <span class="nowrap"><span class="sortkey" style="display:none">7005102888000000000♠</span>28.58 h</span>, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">165</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> with a half-life of <span class="nowrap"><span class="sortkey" style="display:none">7004372960000000000♠</span>10.36 h</span>, and <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">171</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> with a half-life of <span class="nowrap"><span class="sortkey" style="display:none">7004270576000000000♠</span>7.516 h</span>. All of the remaining <a class="mw-redirect" href="/wiki/Radioactive" title="Radioactive">radioactive</a> isotopes have half-lives that are less than <span class="nowrap"><span class="sortkey" style="display:none">7004126000000000000♠</span>3.5 h</span>, and the majority of these have half-lives that are less than 4 minutes. This element also has 13 <a class="mw-redirect" href="/wiki/Meta_state" title="Meta state">meta states</a>, with the most stable being <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">167m</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> with a half-life of <span class="nowrap"><span class="sortkey" style="display:none">7000226900000000000♠</span>2.269 s</span>.<sup class="reference" id="cite_ref-NUBASE_7-0"><a href="#cite_note-NUBASE-7">[7]</a></sup>
+</p><p>The isotopes of erbium range in <a class="mw-redirect" href="/wiki/Atomic_weight" title="Atomic weight">atomic weight</a> from <span class="nowrap"><span class="sortkey" style="display:none">7002142966300000000♠</span>142.9663 <a href="/wiki/Unified_atomic_mass_unit" title="Unified atomic mass unit">u</a></span> (<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">143</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>) to <span class="nowrap"><span class="sortkey" style="display:none">7002176954100000000♠</span>176.9541 u</span> (<span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">177</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>). The primary <a class="mw-redirect" href="/wiki/Decay_mode" title="Decay mode">decay mode</a> before the most abundant stable isotope, <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">166</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, is <a href="/wiki/Electron_capture" title="Electron capture">electron capture</a>, and the primary mode after is <a href="/wiki/Beta_decay" title="Beta decay">beta decay</a>. The primary <a href="/wiki/Decay_product" title="Decay product">decay products</a> before <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">166</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>Er<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> are element 67 (<a href="/wiki/Holmium" title="Holmium">holmium</a>) isotopes, and the primary products after are element 69 (<a href="/wiki/Thulium" title="Thulium">thulium</a>) isotopes.<sup class="reference" id="cite_ref-NUBASE_7-1"><a href="#cite_note-NUBASE-7">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=5" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Erbium (for <a href="/wiki/Ytterby" title="Ytterby">Ytterby</a>, a village in <a href="/wiki/Sweden" title="Sweden">Sweden</a>) was <a class="mw-redirect" href="/wiki/Discovery_of_the_chemical_elements" title="Discovery of the chemical elements">discovered</a> by <a href="/wiki/Carl_Gustaf_Mosander" title="Carl Gustaf Mosander">Carl Gustaf Mosander</a> in 1843.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Mosander was working with a sample of what was thought to be the single metal oxide <a class="mw-redirect" href="/wiki/Yttria" title="Yttria">yttria</a>, derived from the mineral <a href="/wiki/Gadolinite" title="Gadolinite">gadolinite</a>. He discovered that the sample contained at least two metal oxides in addition to pure yttria, which he named "<a class="mw-redirect" href="/wiki/Erbia" title="Erbia">erbia</a>" and "<a class="mw-redirect" href="/wiki/Terbia" title="Terbia">terbia</a>" after the village of Ytterby where the gadolinite had been found. Mosander was not certain of the purity of the oxides and later tests confirmed his uncertainty. Not only did the "yttria" contain yttrium, erbium, and terbium; in the ensuing years, chemists, geologists and spectroscopists discovered five additional elements: <a href="/wiki/Ytterbium" title="Ytterbium">ytterbium</a>, <a href="/wiki/Scandium" title="Scandium">scandium</a>, <a href="/wiki/Thulium" title="Thulium">thulium</a>, <a href="/wiki/Holmium" title="Holmium">holmium</a>, and <a href="/wiki/Gadolinium" title="Gadolinium">gadolinium</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>  Erbia and terbia, however, were confused at this time. A spectroscopist mistakenly switched the names of the two elements during spectroscopy.  After 1860, terbia was renamed erbia and after 1877 what had been known as erbia was renamed terbia. Fairly pure Er<sub>2</sub><a href="/wiki/Oxygen" title="Oxygen">O</a><sub>3</sub> was independently isolated in 1905 by <a href="/wiki/Georges_Urbain" title="Georges Urbain">Georges Urbain</a> and <a href="/wiki/Charles_James_(chemist)" title="Charles James (chemist)">Charles James</a>. Reasonably pure erbium metal was not produced until 1934 when <a class="new" href="/w/index.php?title=Wilhelm_Klemm&amp;action=edit&amp;redlink=1" title="Wilhelm Klemm (page does not exist)">Wilhelm Klemm</a> and <a class="new" href="/w/index.php?title=Heinrich_Bommer&amp;action=edit&amp;redlink=1" title="Heinrich Bommer (page does not exist)">Heinrich Bommer</a> reduced the <a href="/wiki/Anhydrous" title="Anhydrous">anhydrous</a> <a href="/wiki/Chloride" title="Chloride">chloride</a> with <a href="/wiki/Potassium" title="Potassium">potassium</a> vapor.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> It was only in the 1990s that the price for Chinese-derived erbium oxide became low enough for erbium to be considered for use as a colorant in art glass.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Occurrence">Occurrence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=6" title="Edit section: Occurrence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:MonaziteUSGOV.jpg"><img alt="" class="thumbimage" data-file-height="270" data-file-width="360" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MonaziteUSGOV.jpg/220px-MonaziteUSGOV.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MonaziteUSGOV.jpg/330px-MonaziteUSGOV.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/8e/MonaziteUSGOV.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MonaziteUSGOV.jpg" title="Enlarge"></a></div>Monazite sand</div></div></div>
+<p>The concentration of erbium in the Earth crust is about 2.8 mg/kg and in the sea water 0.9 ng/L.<sup class="reference" id="cite_ref-patnaik_12-0"><a href="#cite_note-patnaik-12">[12]</a></sup> This concentration is enough to make erbium about 45th in <a href="/wiki/Abundance_of_elements_in_Earth%27s_crust" title="Abundance of elements in Earth's crust">elemental abundance in the Earth's crust</a>.
+</p><p>Like other rare earths, this element is never found as a free element in nature but is found bound in <a href="/wiki/Monazite" title="Monazite">monazite</a> sand ores. It has historically been very difficult and expensive to separate rare earths from each other in their ores but <a class="mw-redirect" href="/wiki/Ion-exchange" title="Ion-exchange">ion-exchange</a> chromatography methods<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> developed in the late 20th century have greatly brought down the cost of production of all rare-earth metals and their <a href="/wiki/Chemical_compound" title="Chemical compound">chemical compounds</a>.
+</p><p>The principal commercial sources of erbium are from the minerals <a href="/wiki/Xenotime" title="Xenotime">xenotime</a> and <a href="/wiki/Euxenite" title="Euxenite">euxenite</a>, and most recently, the ion adsorption clays of southern China; in consequence, China has now become the principal global supplier of this element. In the high-yttrium versions of these ore concentrates, yttrium is about two-thirds of the total by weight, and erbia is about 4–5%. When the concentrate is dissolved in acid, the erbia liberates enough erbium ion to impart a distinct and characteristic pink color to the solution. This color behavior is similar to what Mosander and the other early workers in the lanthanides would have seen in their extracts from the gadolinite minerals of Ytterby.
+</p>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=7" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Crushed minerals are attacked by hydrochloric or <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> that transforms insoluble rare-earth oxides into soluble chlorides or sulfates. The acidic filtrates are partially neutralized with caustic soda (sodium hydroxide) to pH 3–4. <a href="/wiki/Thorium" title="Thorium">Thorium</a> precipitates out of solution as hydroxide and is removed. After that the solution is treated with <a href="/wiki/Ammonium_oxalate" title="Ammonium oxalate">ammonium oxalate</a> to convert rare earths into their insoluble <a href="/wiki/Oxalate" title="Oxalate">oxalates</a>. The oxalates are converted to oxides by annealing. The oxides are dissolved in <a href="/wiki/Nitric_acid" title="Nitric acid">nitric acid</a> that excludes one of the main components, <a href="/wiki/Cerium" title="Cerium">cerium</a>, whose oxide is insoluble in HNO<sub>3</sub>. The solution is treated with <a href="/wiki/Magnesium_nitrate" title="Magnesium nitrate">magnesium nitrate</a> to produce a crystallized mixture of <a href="/wiki/Double_salt" title="Double salt">double salts</a> of rare-earth metals. The salts are separated by <a href="/wiki/Ion_exchange" title="Ion exchange">ion exchange</a>. In this process, rare-earth ions are sorbed onto suitable ion-exchange resin by exchange with hydrogen, ammonium or cupric ions present in the resin. The rare earth ions are then selectively washed out by suitable complexing agent.<sup class="reference" id="cite_ref-patnaik_12-1"><a href="#cite_note-patnaik-12">[12]</a></sup> Erbium metal is obtained from its oxide or salts by heating with <a href="/wiki/Calcium" title="Calcium">calcium</a> at <span class="nowrap"><span class="sortkey" style="display:none">7003172315000000000♠</span>1450 °C</span> under argon atmosphere.<sup class="reference" id="cite_ref-patnaik_12-2"><a href="#cite_note-patnaik-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=8" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Erbium-glass.jpg"><img alt="" class="thumbimage" data-file-height="596" data-file-width="596" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Erbium-glass.jpg/220px-Erbium-glass.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Erbium-glass.jpg/330px-Erbium-glass.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Erbium-glass.jpg/440px-Erbium-glass.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Erbium-glass.jpg" title="Enlarge"></a></div>Erbium-colored glass</div></div></div>
+<p>Erbium's everyday uses are varied. It is commonly used as a <a class="mw-redirect" href="/wiki/Filter_(photography)" title="Filter (photography)">photographic filter</a>, and because of its resilience it is useful as a metallurgical additive. Other uses:
+</p>
+<ul><li>Used in <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear</a> technology in neutron-absorbing <a href="/wiki/Control_rod" title="Control rod">control rods</a>.<sup class="reference" id="cite_ref-emsley_3-1"><a href="#cite_note-emsley-3">[3]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></li>
+<li>When added to <a href="/wiki/Vanadium" title="Vanadium">vanadium</a> as an <a href="/wiki/Alloy" title="Alloy">alloy</a>, erbium lowers hardness and improves workability.<sup class="reference" id="cite_ref-CRC_15-0"><a href="#cite_note-CRC-15">[15]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/Erbium_oxide" title="Erbium oxide">Erbium oxide</a> has a pink color, and is sometimes used as a colorant for <a href="/wiki/Glass" title="Glass">glass</a>, <a href="/wiki/Cubic_zirconia" title="Cubic zirconia">cubic zirconia</a> and <a href="/wiki/Porcelain" title="Porcelain">porcelain</a>. The glass is then often used in <a href="/wiki/Sunglasses" title="Sunglasses">sunglasses</a> and cheap <a class="mw-redirect" href="/wiki/Jewelry" title="Jewelry">jewelry</a>.<sup class="reference" id="cite_ref-CRC_15-1"><a href="#cite_note-CRC-15">[15]</a></sup></li>
+<li>Erbium-doped <a class="mw-redirect" href="/wiki/Optical_fibers" title="Optical fibers">optical silica-glass fibers</a> are the active element in <a class="mw-redirect" href="/wiki/Erbium-doped_fiber_amplifier" title="Erbium-doped fiber amplifier">erbium-doped fiber amplifiers</a> (EDFAs), which are widely used in <a class="mw-redirect" href="/wiki/Optical_communications" title="Optical communications">optical communications</a>.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> The same fibers can be used to create fiber <a class="mw-redirect" href="/wiki/Lasers" title="Lasers">lasers</a>. In order to work efficiently, erbium-doped fiber is usually co-doped with glass modifiers/homogenizers, often aluminum or phosphorus.  These dopants help prevent clustering of Er-ions and transfer the energy more efficiently between the Er ions and the signal. Co-doping of optical fiber with Er and Yb is used in <a class="new" href="/w/index.php?title=High-power_Er/Yb_fiber_lasers&amp;action=edit&amp;redlink=1" title="High-power Er/Yb fiber lasers (page does not exist)">high-power Er/Yb fiber lasers</a>. Erbium can also be used in <a href="/wiki/Erbium-doped_waveguide_amplifier" title="Erbium-doped waveguide amplifier">erbium-doped waveguide amplifiers</a>.<sup class="reference" id="cite_ref-emsley_3-2"><a href="#cite_note-emsley-3">[3]</a></sup></li>
+<li>An erbium-<a href="/wiki/Nickel" title="Nickel">nickel</a> alloy Er<sub>3</sub>Ni has an unusually high specific heat capacity at liquid-helium temperatures and is used in <a class="mw-redirect" href="/wiki/Cryocoolers" title="Cryocoolers">cryocoolers</a>; a mixture of 65% Er<sub>3</sub><a href="/wiki/Cobalt" title="Cobalt">Co</a> and 35% Er<sub>0.9</sub><a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>0.1</sub>Ni by volume improves the specific heat capacity even more.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></li>
+<li>A large variety of medical applications (i.e. dermatology, dentistry) utilize erbium ion's <span class="nowrap"><span class="sortkey" style="display:none">6994294000000000000♠</span>2940 nm</span> emission (see <a href="/wiki/Er:YAG_laser" title="Er:YAG laser">Er:YAG laser</a>), which is highly absorbed in water (<a href="/wiki/Attenuation_coefficient" title="Attenuation coefficient">absorption coefficient</a> about <span class="nowrap"><span class="sortkey" style="display:none">7006120000000000000♠</span>12<span style="margin-left:.25em;">000</span>/cm</span>). Such shallow tissue deposition of laser energy is necessary for laser surgery, and the efficient production of steam for laser enamel ablation in dentistry.</li></ul>
+<h2><span class="mw-headline" id="Biological_role">Biological role</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=9" title="Edit section: Biological role">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Erbium does not have a biological role, but erbium salts can stimulate <a href="/wiki/Metabolism" title="Metabolism">metabolism</a>. Humans consume 1 milligram of erbium a year on average. The highest concentration of erbium in humans is in the <a href="/wiki/Bone" title="Bone">bones</a>, but there is also erbium in the human <a class="mw-redirect" href="/wiki/Kidneys" title="Kidneys">kidneys</a> and <a href="/wiki/Liver" title="Liver">liver</a>.<sup class="reference" id="cite_ref-emsley_3-3"><a href="#cite_note-emsley-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Toxicity">Toxicity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=10" title="Edit section: Toxicity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Erbium is slightly toxic if ingested, but erbium compounds are not toxic.<sup class="reference" id="cite_ref-emsley_3-4"><a href="#cite_note-emsley-3">[3]</a></sup> Metallic erbium in dust form presents a fire and explosion hazard.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Guide to the Elements – Revised Edition</i>, Albert Stwertka (Oxford University Press; 1998), <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-508083-1" title="Special:BookSources/0-19-508083-1">0-19-508083-1</a>.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erbium&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Erbium" title="commons:Erbium">Erbium</a></b></i>.</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/erbium" title="wiktionary:erbium">erbium</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.webelements.com/webelements/elements/text/Er/index.html" rel="nofollow">WebElements.com – Erbium</a> (also used as a reference)</li>
+<li><a class="external text" href="http://education.jlab.org/itselemental/ele068.html" rel="nofollow">It's Elemental – Erbium</a></li></ul>
+<div style="clear:both;"></div>
+<div aria-labelledby="Periodic_table_(Large_cells)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Periodic_table_(32_columns,_compact)" title="Template:Periodic table (32 columns, compact)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Periodic_table_(32_columns,_compact)" title="Template talk:Periodic table (32 columns, compact)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Periodic_table_(32_columns,_compact)&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Periodic_table_(Large_cells)" style="font-size:114%;margin:0 4em"><a href="/wiki/Periodic_table" title="Periodic table">Periodic table</a> <a class="mw-redirect" href="/wiki/Periodic_table_(large_cells)" title="Periodic table (large cells)"><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><small>(Large cells)</small></span></a></div></th></tr><tr><td class="navbox-list navbox-odd wraplinks" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<table aria-describedby="periodic-table-legend" cellpadding="0" style="table-layout:fixed; width:100%;">
+<tbody><tr>
+<td style="line-height:100%;">
+</td>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Alkali_metal" title="Alkali metal">1</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Alkaline_earth_metal" title="Alkaline earth metal">2</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_3_element" title="Group 3 element">3</a>
+</th>
+<td colspan="14">
+</td>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_4_element" title="Group 4 element">4</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_5_element" title="Group 5 element">5</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_6_element" title="Group 6 element">6</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_7_element" title="Group 7 element">7</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_8_element" title="Group 8 element">8</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_9_element" title="Group 9 element">9</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_10_element" title="Group 10 element">10</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_11_element" title="Group 11 element">11</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_12_element" title="Group 12 element">12</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Boron_group" title="Boron group">13</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Carbon_group" title="Carbon group">14</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Pnictogen" title="Pnictogen">15</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Chalcogen" title="Chalcogen">16</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Halogen" title="Halogen">17</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Noble_gas" title="Noble gas">18</a>
+</th></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_1_element" title="Period 1 element">1</a>
+</th>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Hydrogen, 1 (reactive nonmetal)"><a href="/wiki/Hydrogen" title="Hydrogen"><span style="display:block">H</span></a>
+</td>
+<td colspan="30">
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Helium, 2 (noble gas)"><a href="/wiki/Helium" title="Helium"><span style="display:block">He</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_2_element" title="Period 2 element">2</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Lithium, 3 (alkali metal)"><a href="/wiki/Lithium" title="Lithium"><span style="display:block">Li</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Beryllium, 4 (alkaline earth metal)"><a href="/wiki/Beryllium" title="Beryllium"><span style="display:block">Be</span></a>
+</td>
+<td colspan="24">
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Boron, 5 (metalloid)"><a href="/wiki/Boron" title="Boron"><span style="display:block">B</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Carbon, 6 (reactive nonmetal)"><a href="/wiki/Carbon" title="Carbon"><span style="display:block">C</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Nitrogen, 7 (reactive nonmetal)"><a href="/wiki/Nitrogen" title="Nitrogen"><span style="display:block">N</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Oxygen, 8 (reactive nonmetal)"><a href="/wiki/Oxygen" title="Oxygen"><span style="display:block">O</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Fluorine, 9 (reactive nonmetal)"><a href="/wiki/Fluorine" title="Fluorine"><span style="display:block">F</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Neon, 10 (noble gas)"><a href="/wiki/Neon" title="Neon"><span style="display:block">Ne</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_3_element" title="Period 3 element">3</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Sodium, 11 (alkali metal)"><a href="/wiki/Sodium" title="Sodium"><span style="display:block">Na</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Magnesium, 12 (alkaline earth metal)"><a href="/wiki/Magnesium" title="Magnesium"><span style="display:block">Mg</span></a>
+</td>
+<td colspan="24">
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Aluminium, 13 (post-transition metal)"><a href="/wiki/Aluminium" title="Aluminium"><span style="display:block">Al</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Silicon, 14 (metalloid)"><a href="/wiki/Silicon" title="Silicon"><span style="display:block">Si</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Phosphorus, 15 (reactive nonmetal)"><a href="/wiki/Phosphorus" title="Phosphorus"><span style="display:block">P</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Sulfur, 16 (reactive nonmetal)"><a href="/wiki/Sulfur" title="Sulfur"><span style="display:block">S</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Chlorine, 17 (reactive nonmetal)"><a href="/wiki/Chlorine" title="Chlorine"><span style="display:block">Cl</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Argon, 18 (noble gas)"><a href="/wiki/Argon" title="Argon"><span style="display:block">Ar</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_4_element" title="Period 4 element">4</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Potassium, 19 (alkali metal)"><a href="/wiki/Potassium" title="Potassium"><span style="display:block">K</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Calcium, 20 (alkaline earth metal)"><a href="/wiki/Calcium" title="Calcium"><span style="display:block">Ca</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Scandium, 21 (transition metal)"><a href="/wiki/Scandium" title="Scandium"><span style="display:block">Sc</span></a>
+</td>
+<td colspan="14">
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Titanium, 22 (transition metal)"><a href="/wiki/Titanium" title="Titanium"><span style="display:block">Ti</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Vanadium, 23 (transition metal)"><a href="/wiki/Vanadium" title="Vanadium"><span style="display:block">V</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Chromium, 24 (transition metal)"><a href="/wiki/Chromium" title="Chromium"><span style="display:block">Cr</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Manganese, 25 (transition metal)"><a href="/wiki/Manganese" title="Manganese"><span style="display:block">Mn</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Iron, 26 (transition metal)"><a href="/wiki/Iron" title="Iron"><span style="display:block">Fe</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Cobalt, 27 (transition metal)"><a href="/wiki/Cobalt" title="Cobalt"><span style="display:block">Co</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Nickel, 28 (transition metal)"><a href="/wiki/Nickel" title="Nickel"><span style="display:block">Ni</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Copper, 29 (transition metal)"><a href="/wiki/Copper" title="Copper"><span style="display:block">Cu</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Zinc, 30 (post-transition metal)"><a href="/wiki/Zinc" title="Zinc"><span style="display:block">Zn</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Gallium, 31 (post-transition metal)"><a href="/wiki/Gallium" title="Gallium"><span style="display:block">Ga</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Germanium, 32 (metalloid)"><a href="/wiki/Germanium" title="Germanium"><span style="display:block">Ge</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Arsenic, 33 (metalloid)"><a href="/wiki/Arsenic" title="Arsenic"><span style="display:block">As</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Selenium, 34 (reactive nonmetal)"><a href="/wiki/Selenium" title="Selenium"><span style="display:block">Se</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Bromine, 35 (reactive nonmetal)"><a href="/wiki/Bromine" title="Bromine"><span style="display:block">Br</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Krypton, 36 (noble gas)"><a href="/wiki/Krypton" title="Krypton"><span style="display:block">Kr</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_5_element" title="Period 5 element">5</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Rubidium, 37 (alkali metal)"><a href="/wiki/Rubidium" title="Rubidium"><span style="display:block">Rb</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Strontium, 38 (alkaline earth metal)"><a href="/wiki/Strontium" title="Strontium"><span style="display:block">Sr</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Yttrium, 39 (transition metal)"><a href="/wiki/Yttrium" title="Yttrium"><span style="display:block">Y</span></a>
+</td>
+<td colspan="14">
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Zirconium, 40 (transition metal)"><a href="/wiki/Zirconium" title="Zirconium"><span style="display:block">Zr</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Niobium, 41 (transition metal)"><a href="/wiki/Niobium" title="Niobium"><span style="display:block">Nb</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Molybdenum, 42 (transition metal)"><a href="/wiki/Molybdenum" title="Molybdenum"><span style="display:block">Mo</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Technetium, 43 (transition metal)"><a href="/wiki/Technetium" title="Technetium"><span style="display:block">Tc</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Ruthenium, 44 (transition metal)"><a href="/wiki/Ruthenium" title="Ruthenium"><span style="display:block">Ru</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Rhodium, 45 (transition metal)"><a href="/wiki/Rhodium" title="Rhodium"><span style="display:block">Rh</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Palladium, 46 (transition metal)"><a href="/wiki/Palladium" title="Palladium"><span style="display:block">Pd</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Silver, 47 (transition metal)"><a href="/wiki/Silver" title="Silver"><span style="display:block">Ag</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Cadmium, 48 (post-transition metal)"><a href="/wiki/Cadmium" title="Cadmium"><span style="display:block">Cd</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Indium, 49 (post-transition metal)"><a href="/wiki/Indium" title="Indium"><span style="display:block">In</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Tin, 50 (post-transition metal)"><a href="/wiki/Tin" title="Tin"><span style="display:block">Sn</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Antimony, 51 (metalloid)"><a href="/wiki/Antimony" title="Antimony"><span style="display:block">Sb</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Tellurium, 52 (metalloid)"><a href="/wiki/Tellurium" title="Tellurium"><span style="display:block">Te</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Iodine, 53 (reactive nonmetal)"><a href="/wiki/Iodine" title="Iodine"><span style="display:block">I</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Xenon, 54 (noble gas)"><a href="/wiki/Xenon" title="Xenon"><span style="display:block">Xe</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_6_element" title="Period 6 element">6</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Caesium, 55 (alkali metal)"><a href="/wiki/Caesium" title="Caesium"><span style="display:block">Cs</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Barium, 56 (alkaline earth metal)"><a href="/wiki/Barium" title="Barium"><span style="display:block">Ba</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Lanthanum, 57 (lanthanide)"><a href="/wiki/Lanthanum" title="Lanthanum"><span style="display:block">La</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Cerium, 58 (lanthanide)"><a href="/wiki/Cerium" title="Cerium"><span style="display:block">Ce</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Praseodymium, 59 (lanthanide)"><a href="/wiki/Praseodymium" title="Praseodymium"><span style="display:block">Pr</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Neodymium, 60 (lanthanide)"><a href="/wiki/Neodymium" title="Neodymium"><span style="display:block">Nd</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Promethium, 61 (lanthanide)"><a href="/wiki/Promethium" title="Promethium"><span style="display:block">Pm</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Samarium, 62 (lanthanide)"><a href="/wiki/Samarium" title="Samarium"><span style="display:block">Sm</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Europium, 63 (lanthanide)"><a href="/wiki/Europium" title="Europium"><span style="display:block">Eu</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Gadolinium, 64 (lanthanide)"><a href="/wiki/Gadolinium" title="Gadolinium"><span style="display:block">Gd</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Terbium, 65 (lanthanide)"><a href="/wiki/Terbium" title="Terbium"><span style="display:block">Tb</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Dysprosium, 66 (lanthanide)"><a href="/wiki/Dysprosium" title="Dysprosium"><span style="display:block">Dy</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Holmium, 67 (lanthanide)"><a href="/wiki/Holmium" title="Holmium"><span style="display:block">Ho</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:2px solid black; ;" title="Erbium, 68 (lanthanide)"><a class="mw-selflink selflink"><span style="display:block">Er</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Thulium, 69 (lanthanide)"><a href="/wiki/Thulium" title="Thulium"><span style="display:block">Tm</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Ytterbium, 70 (lanthanide)"><a href="/wiki/Ytterbium" title="Ytterbium"><span style="display:block">Yb</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Lutetium, 71 (lanthanide)"><a href="/wiki/Lutetium" title="Lutetium"><span style="display:block">Lu</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Hafnium, 72 (transition metal)"><a href="/wiki/Hafnium" title="Hafnium"><span style="display:block">Hf</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Tantalum, 73 (transition metal)"><a href="/wiki/Tantalum" title="Tantalum"><span style="display:block">Ta</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Tungsten, 74 (transition metal)"><a href="/wiki/Tungsten" title="Tungsten"><span style="display:block">W</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Rhenium, 75 (transition metal)"><a href="/wiki/Rhenium" title="Rhenium"><span style="display:block">Re</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Osmium, 76 (transition metal)"><a href="/wiki/Osmium" title="Osmium"><span style="display:block">Os</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Iridium, 77 (transition metal)"><a href="/wiki/Iridium" title="Iridium"><span style="display:block">Ir</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Platinum, 78 (transition metal)"><a href="/wiki/Platinum" title="Platinum"><span style="display:block">Pt</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Gold, 79 (transition metal)"><a href="/wiki/Gold" title="Gold"><span style="display:block">Au</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Mercury, 80 (post-transition metal)"><a href="/wiki/Mercury_(element)" title="Mercury (element)"><span style="display:block">Hg</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Thallium, 81 (post-transition metal)"><a href="/wiki/Thallium" title="Thallium"><span style="display:block">Tl</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Lead, 82 (post-transition metal)"><a href="/wiki/Lead" title="Lead"><span style="display:block">Pb</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Bismuth, 83 (post-transition metal)"><a href="/wiki/Bismuth" title="Bismuth"><span style="display:block">Bi</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Polonium, 84 (post-transition metal)"><a href="/wiki/Polonium" title="Polonium"><span style="display:block">Po</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Astatine, 85 (metalloid)"><a href="/wiki/Astatine" title="Astatine"><span style="display:block">At</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Radon, 86 (noble gas)"><a href="/wiki/Radon" title="Radon"><span style="display:block">Rn</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_7_element" title="Period 7 element">7</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Francium, 87 (alkali metal)"><a href="/wiki/Francium" title="Francium"><span style="display:block">Fr</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Radium, 88 (alkaline earth metal)"><a href="/wiki/Radium" title="Radium"><span style="display:block">Ra</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Actinium, 89 (actinide)"><a href="/wiki/Actinium" title="Actinium"><span style="display:block">Ac</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Thorium, 90 (actinide)"><a href="/wiki/Thorium" title="Thorium"><span style="display:block">Th</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Protactinium, 91 (actinide)"><a href="/wiki/Protactinium" title="Protactinium"><span style="display:block">Pa</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Uranium, 92 (actinide)"><a href="/wiki/Uranium" title="Uranium"><span style="display:block">U</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Neptunium, 93 (actinide)"><a href="/wiki/Neptunium" title="Neptunium"><span style="display:block">Np</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Plutonium, 94 (actinide)"><a href="/wiki/Plutonium" title="Plutonium"><span style="display:block">Pu</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Americium, 95 (actinide)"><a href="/wiki/Americium" title="Americium"><span style="display:block">Am</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Curium, 96 (actinide)"><a href="/wiki/Curium" title="Curium"><span style="display:block">Cm</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Berkelium, 97 (actinide)"><a href="/wiki/Berkelium" title="Berkelium"><span style="display:block">Bk</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Californium, 98 (actinide)"><a href="/wiki/Californium" title="Californium"><span style="display:block">Cf</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Einsteinium, 99 (actinide)"><a href="/wiki/Einsteinium" title="Einsteinium"><span style="display:block">Es</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Fermium, 100 (actinide)"><a href="/wiki/Fermium" title="Fermium"><span style="display:block">Fm</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Mendelevium, 101 (actinide)"><a href="/wiki/Mendelevium" title="Mendelevium"><span style="display:block">Md</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Nobelium, 102 (actinide)"><a href="/wiki/Nobelium" title="Nobelium"><span style="display:block">No</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Lawrencium, 103 (actinide)"><a href="/wiki/Lawrencium" title="Lawrencium"><span style="display:block">Lr</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Rutherfordium, 104 (transition metal)"><a href="/wiki/Rutherfordium" title="Rutherfordium"><span style="display:block">Rf</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Dubnium, 105 (transition metal)"><a href="/wiki/Dubnium" title="Dubnium"><span style="display:block">Db</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Seaborgium, 106 (transition metal)"><a href="/wiki/Seaborgium" title="Seaborgium"><span style="display:block">Sg</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Bohrium, 107 (transition metal)"><a href="/wiki/Bohrium" title="Bohrium"><span style="display:block">Bh</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Hassium, 108 (transition metal)"><a href="/wiki/Hassium" title="Hassium"><span style="display:block">Hs</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Meitnerium, 109 (unknown chemical properties)"><a href="/wiki/Meitnerium" title="Meitnerium"><span style="display:block">Mt</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Darmstadtium, 110 (unknown chemical properties)"><a href="/wiki/Darmstadtium" title="Darmstadtium"><span style="display:block">Ds</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Roentgenium, 111 (unknown chemical properties)"><a href="/wiki/Roentgenium" title="Roentgenium"><span style="display:block">Rg</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Copernicium, 112 (post-transition metal)"><a href="/wiki/Copernicium" title="Copernicium"><span style="display:block">Cn</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Nihonium, 113 (unknown chemical properties)"><a href="/wiki/Nihonium" title="Nihonium"><span style="display:block">Nh</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Flerovium, 114 (unknown chemical properties)"><a href="/wiki/Flerovium" title="Flerovium"><span style="display:block">Fl</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Moscovium, 115 (unknown chemical properties)"><a href="/wiki/Moscovium" title="Moscovium"><span style="display:block">Mc</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Livermorium, 116 (unknown chemical properties)"><a href="/wiki/Livermorium" title="Livermorium"><span style="display:block">Lv</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Tennessine, 117 (unknown chemical properties)"><a href="/wiki/Tennessine" title="Tennessine"><span style="display:block">Ts</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Oganesson, 118 (unknown chemical properties)"><a href="/wiki/Oganesson" title="Oganesson"><span style="display:block">Og</span></a>
+</td></tr></tbody></table>
+</div></td></tr><tr><td class="navbox-list navbox-even wraplinks" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div id="periodic-table-legend" role="presentation" style="border: 1px solid #a2a9b1; width:100%; line-height:120%; text-align:center; vertical-align:top; font-size:85%; background:#f8f8f8; margin:0; font-size:90%; margin-top:0.5em;"><div style="padding:0.3em;">
+<table style="width:100%; table-layout:fixed; overflow:hidden;">
+<tbody><tr>
+<td style="padding:0 1px; background:#ff6666;"><a href="/wiki/Alkali_metal" title="Alkali metal">Alkali metal</a>
+</td>
+<td style="padding:0 1px; background:#ffdead;"><a href="/wiki/Alkaline_earth_metal" title="Alkaline earth metal">Alkaline earth metal</a>
+</td>
+<td style="padding:0 1px; background:#ffbfff;"><a href="/wiki/Lanthanide" title="Lanthanide">Lan­thanide</a>
+</td>
+<td style="padding:0 1px; background:#ff99cc;"><a href="/wiki/Actinide" title="Actinide">Actinide</a>
+</td>
+<td style="padding:0 1px; background:#ffc0c0;"><a href="/wiki/Transition_metal" title="Transition metal">Transition metal</a>
+</td>
+<td style="padding:0 1px; background:#cccccc;"><a href="/wiki/Post-transition_metal" title="Post-transition metal">Post-​transition metal</a>
+</td>
+<td style="padding:0 1px; background:#cccc99;"><a href="/wiki/Metalloid" title="Metalloid">Metalloid</a>
+</td>
+<td style="padding:0 1px; background:#f0ff8f;"><a class="mw-redirect" href="/wiki/Reactive_nonmetal" title="Reactive nonmetal">Reactive nonmetal</a>
+</td>
+<td style="padding:0 1px; background:#c0ffff;"><a href="/wiki/Noble_gas" title="Noble gas">Noble gas</a>
+</td>
+<td rowspan="1" style="padding:0 1px; background:#e8e8e8;">Unknown<br/>chemical<br/>properties
+</td></tr></tbody></table>
+</div>
+</div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Erbium_compounds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Erbium_compounds" title="Template:Erbium compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Erbium_compounds" title="Template talk:Erbium compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Erbium_compounds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Erbium_compounds" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Erbium</a> compounds</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Erbium(III)_chloride" title="Erbium(III) chloride">ErCl<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium(III)_bromide" title="Erbium(III) bromide">ErBr<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium(III)_iodide" title="Erbium(III) iodide">ErI<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Er<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium_tetraboride" title="Erbium tetraboride">ErB<sub>4</sub></a></li>
+<li><a href="/wiki/Erbium_hexaboride" title="Erbium hexaboride">ErB<sub>6</sub></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1849&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1849&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1849" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4152588-7" rel="nofollow">4152588-7</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="https://id.loc.gov/authorities/subjects/sh85044573" rel="nofollow">sh85044573</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20181027185038
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.364 seconds
+Real time usage: 1.552 seconds
+Preprocessor visited node count: 29224/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 509338/2097152 bytes
+Template argument size: 31422/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 61242/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.534/10.000 seconds
+Lua memory usage: 10.1 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1297.420      1 -total
+ 48.35%  627.309      1 Template:Infobox_erbium
+ 48.04%  623.327      1 Template:Infobox_element
+ 42.78%  555.011      1 Template:Infobox
+ 20.56%  266.707      1 Template:Compact_periodic_table
+ 19.65%  254.914      2 Template:Navbox
+ 16.30%  211.514    118 Template:Element_cell-compact
+ 15.90%  206.344      1 Template:Infobox_element/periodic_table
+ 15.06%  195.358      1 Template:Periodic_table_(32_columns,_micro)
+ 13.20%  171.246      1 Template:Reflist
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9478-0!canonical and timestamp 20181027185036 and revision id 865272702
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Erbium&amp;oldid=865272702">https://en.wikipedia.org/w/index.php?title=Erbium&amp;oldid=865272702</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Erbium" title="Category:Erbium">Erbium</a></li><li><a href="/wiki/Category:Chemical_elements" title="Category:Chemical elements">Chemical elements</a></li><li><a href="/wiki/Category:Lanthanides" title="Category:Lanthanides">Lanthanides</a></li><li><a href="/wiki/Category:Reducing_agents" title="Category:Reducing agents">Reducing agents</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Erbium" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Erbium" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Erbium" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Erbium" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Erbium">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Erbium&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Erbium&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Erbium" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Erbium" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Erbium&amp;oldid=865272702" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Erbium&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1849" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Erbium&amp;id=865272702" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Erbium">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Erbium&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Erbium&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Erbium" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Erbium" hreflang="af" lang="af" title="Erbium – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-am"><a class="interlanguage-link-target" href="https://am.wikipedia.org/wiki/%E1%8A%A2%E1%88%AD%E1%89%A2%E1%8B%A8%E1%88%9D" hreflang="am" lang="am" title="ኢርቢየም – Amharic">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B1%D8%A8%D9%8A%D9%88%D9%85" hreflang="ar" lang="ar" title="إربيوم – Arabic">العربية</a></li><li class="interlanguage-link interwiki-roa-rup"><a class="interlanguage-link-target" href="https://roa-rup.wikipedia.org/wiki/Erbiu" hreflang="rup" lang="rup" title="Erbiu – Aromanian">Armãneashti</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Erbiu" hreflang="ast" lang="ast" title="Erbiu – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Erbium" hreflang="az" lang="az" title="Erbium – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE" hreflang="bn" lang="bn" title="আরবিয়াম – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Erbium" hreflang="nan" lang="nan" title="Erbium – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D1%96%D0%B9" hreflang="be" lang="be" title="Эрбій – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1" hreflang="be-tarask" lang="be-tarask" title="Эрб – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="bh" lang="bh" title="अर्बियम – Bhojpuri">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%95%D1%80%D0%B1%D0%B8%D0%B9" hreflang="bg" lang="bg" title="Ербий – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Erbij" hreflang="bs" lang="bs" title="Erbij – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Erbiom" hreflang="br" lang="br" title="Erbiom – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Erbi" hreflang="ca" lang="ca" title="Erbi – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8" hreflang="cv" lang="cv" title="Эрби – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Erbyo" hreflang="ceb" lang="ceb" title="Erbyo – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Erbium" hreflang="cs" lang="cs" title="Erbium – Czech">Čeština</a></li><li class="interlanguage-link interwiki-co"><a class="interlanguage-link-target" href="https://co.wikipedia.org/wiki/Erbiu" hreflang="co" lang="co" title="Erbiu – Corsican">Corsu</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Erbiwm" hreflang="cy" lang="cy" title="Erbiwm – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Erbium" hreflang="da" lang="da" title="Erbium – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Erbium" hreflang="de" lang="de" title="Erbium – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Erbium" hreflang="et" lang="et" title="Erbium – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%88%CF%81%CE%B2%CE%B9%CE%BF" hreflang="el" lang="el" title="Έρβιο – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Erbio" hreflang="es" lang="es" title="Erbio – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Erbio" hreflang="eo" lang="eo" title="Erbio – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Erbio" hreflang="eu" lang="eu" title="Erbio – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A8%DB%8C%D9%85" hreflang="fa" lang="fa" title="اربیم – Persian">فارسی</a></li><li class="interlanguage-link interwiki-hif"><a class="interlanguage-link-target" href="https://hif.wikipedia.org/wiki/Erbium" hreflang="hif" lang="hif" title="Erbium – Fiji Hindi">Fiji Hindi</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Erbium" hreflang="fr" lang="fr" title="Erbium – French">Français</a></li><li class="interlanguage-link interwiki-fur"><a class="interlanguage-link-target" href="https://fur.wikipedia.org/wiki/Erbi" hreflang="fur" lang="fur" title="Erbi – Friulian">Furlan</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Eirbiam" hreflang="ga" lang="ga" title="Eirbiam – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Erbium" hreflang="gv" lang="gv" title="Erbium – Manx">Gaelg</a></li><li class="interlanguage-link interwiki-gd"><a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Erbium" hreflang="gd" lang="gd" title="Erbium – Scottish Gaelic">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Erbio" hreflang="gl" lang="gl" title="Erbio – Galician">Galego</a></li><li class="interlanguage-link interwiki-gu"><a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%85%E0%AA%B0%E0%AB%8D%E0%AA%AC%E0%AA%BF%E0%AA%AF%E0%AA%AE" hreflang="gu" lang="gu" title="અર્બિયમ – Gujarati">ગુજરાતી</a></li><li class="interlanguage-link interwiki-hak"><a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/Erbium" hreflang="hak" lang="hak" title="Erbium – Hakka Chinese">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-xal"><a class="interlanguage-link-target" href="https://xal.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D1%83%D0%BC" hreflang="xal" lang="xal" title="Эрбиум – Kalmyk">Хальмг</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%96%B4%EB%B8%80" hreflang="ko" lang="ko" title="어븀 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B7%D6%80%D5%A2%D5%AB%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Էրբիում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="hi" lang="hi" title="अर्बियम – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Erbij" hreflang="hr" lang="hr" title="Erbij – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Erbio" hreflang="io" lang="io" title="Erbio – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Erbium" hreflang="id" lang="id" title="Erbium – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Erbium" hreflang="ia" lang="ia" title="Erbium – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Erbio" hreflang="it" lang="it" title="Erbio – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%91%D7%99%D7%95%D7%9D" hreflang="he" lang="he" title="ארביום – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Erbium" hreflang="jv" lang="jv" title="Erbium – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%8E%E0%B2%B0%E0%B3%8D%E0%B2%AC%E0%B2%BF%E0%B2%AF%E0%B2%AE%E0%B3%8D" hreflang="kn" lang="kn" title="ಎರ್ಬಿಯಮ್ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%94%E1%83%A0%E1%83%91%E1%83%98%E1%83%A3%E1%83%9B%E1%83%98" hreflang="ka" lang="ka" title="ერბიუმი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D0%B9" hreflang="kk" lang="kk" title="Эрбий – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-kv"><a class="interlanguage-link-target" href="https://kv.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D0%B9" hreflang="kv" lang="kv" title="Эрбий – Komi">Коми</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D0%B9" hreflang="ky" lang="ky" title="Эрбий – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a class="interlanguage-link-target" href="https://mrj.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D0%B9" hreflang="mrj" lang="mrj" title="Эрбий – Western Mari">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Erbium" hreflang="la" lang="la" title="Erbium – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Erbijs" hreflang="lv" lang="lv" title="Erbijs – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Erbium" hreflang="lb" lang="lb" title="Erbium – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Erbis" hreflang="lt" lang="lt" title="Erbis – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-lij"><a class="interlanguage-link-target" href="https://lij.wikipedia.org/wiki/Erbio" hreflang="lij" lang="lij" title="Erbio – Ligurian">Ligure</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Erbium" hreflang="li" lang="li" title="Erbium – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-olo"><a class="interlanguage-link-target" href="https://olo.wikipedia.org/wiki/Erbii" hreflang="olo" lang="olo" title="Erbii – Livvi-Karelian">Livvinkarjala</a></li><li class="interlanguage-link interwiki-jbo"><a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/jinmrberbi" hreflang="jbo" lang="jbo" title="jinmrberbi – Lojban">La .lojban.</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Erbium" hreflang="hu" lang="hu" title="Erbium – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%95%D1%80%D0%B1%D0%B8%D1%83%D0%BC" hreflang="mk" lang="mk" title="Ербиум – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%8E%E0%B5%BC%E0%B4%AC%E0%B4%BF%E0%B4%AF%E0%B4%82" hreflang="ml" lang="ml" title="എർബിയം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="mr" lang="mr" title="अर्बियम – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Erbium" hreflang="ms" lang="ms" title="Erbium – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/Erbium" hreflang="cdo" lang="cdo" title="Erbium – Min Dong Chinese">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%AC%E1%80%98%E1%80%AE%E1%80%9A%E1%80%99%E1%80%BA" hreflang="my" lang="my" title="အာဘီယမ် – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Erbium" hreflang="nl" lang="nl" title="Erbium – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="ne" lang="ne" title="अर्बियम – Nepali">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="new" lang="new" title="अर्बियम – Newari">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%93%E3%82%A6%E3%83%A0" hreflang="ja" lang="ja" title="エルビウム – Japanese">日本語</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Erbium" hreflang="frr" lang="frr" title="Erbium – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Erbium" hreflang="no" lang="no" title="Erbium – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Erbium" hreflang="nn" lang="nn" title="Erbium – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/%C3%88rbi" hreflang="oc" lang="oc" title="Èrbi – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-or"><a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%8F%E0%AC%B0%E0%AD%8D%E0%AC%AC%E0%AC%BF%E0%AC%85%E0%AC%AE" hreflang="or" lang="or" title="ଏର୍ବିଅମ – Odia">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Erbiy" hreflang="uz" lang="uz" title="Erbiy – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pi"><a class="interlanguage-link-target" href="https://pi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="pi" lang="pi" title="अर्बियम – Pali">पालि</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A8%DB%8C%D9%85" hreflang="pnb" lang="pnb" title="اربیم – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Erbio" hreflang="pms" lang="pms" title="Erbio – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Erb" hreflang="pl" lang="pl" title="Erb – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%89rbio" hreflang="pt" lang="pt" title="Érbio – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Erbiu" hreflang="ro" lang="ro" title="Erbiu – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Erbyu" hreflang="qu" lang="qu" title="Erbyu – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D0%B9" hreflang="ru" lang="ru" title="Эрбий – Russian">Русский</a></li><li class="interlanguage-link interwiki-sah"><a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D1%83%D0%BC" hreflang="sah" lang="sah" title="Эрбиум – Sakha">Саха тыла</a></li><li class="interlanguage-link interwiki-sa"><a class="interlanguage-link-target" href="https://sa.wikipedia.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="sa" lang="sa" title="अर्बियम – Sanskrit">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Erbium" hreflang="sco" lang="sco" title="Erbium – Scots">Scots</a></li><li class="interlanguage-link interwiki-stq"><a class="interlanguage-link-target" href="https://stq.wikipedia.org/wiki/Erbium" hreflang="stq" lang="stq" title="Erbium – Saterland Frisian">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Erbiumi" hreflang="sq" lang="sq" title="Erbiumi – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Erbiu" hreflang="scn" lang="scn" title="Erbiu – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Erbium" hreflang="en-simple" lang="en-simple" title="Erbium – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Erbium" hreflang="sk" lang="sk" title="Erbium – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Erbij" hreflang="sl" lang="sl" title="Erbij – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%8E%D8%B1%D8%A8%DB%8C%DB%86%D9%85" hreflang="ckb" lang="ckb" title="ئێربیۆم – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%95%D1%80%D0%B1%D0%B8%D1%98%D1%83%D0%BC" hreflang="sr" lang="sr" title="Ербијум – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Erbijum" hreflang="sh" lang="sh" title="Erbijum – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Erbium" hreflang="fi" lang="fi" title="Erbium – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Erbium" hreflang="sv" lang="sv" title="Erbium – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Erbiyo" hreflang="tl" lang="tl" title="Erbiyo – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="எர்பியம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%AD%D1%80%D0%B1%D0%B8%D0%B9" hreflang="tt" lang="tt" title="Эрбий – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%87%E0%B0%B0%E0%B1%8D%E0%B0%AC%E0%B0%BF%E0%B0%AF%E0%B0%82" hreflang="te" lang="te" title="ఇర్బియం – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%A1" hreflang="th" lang="th" title="เออร์เบียม – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Erbiyum" hreflang="tr" lang="tr" title="Erbiyum – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D1%80%D0%B1%D1%96%D0%B9" hreflang="uk" lang="uk" title="Ербій – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B9%DB%8C%D8%B1%D8%A8%DB%8C%D8%A6%D9%85" hreflang="ur" lang="ur" title="عیربیئم – Urdu">اردو</a></li><li class="interlanguage-link interwiki-ug"><a class="interlanguage-link-target" href="https://ug.wikipedia.org/wiki/%D8%A6%DB%90%D8%B1%D8%A8%D9%89%D9%8A" hreflang="ug" lang="ug" title="ئېربىي – Uyghur">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-vep"><a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/Erbii" hreflang="vep" lang="vep" title="Erbii – Veps">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Erbi" hreflang="vi" lang="vi" title="Erbi – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E9%89%BA" hreflang="lzh" lang="lzh" title="鉺 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Erbyo" hreflang="war" lang="war" title="Erbyo – Waray">Winaray</a></li><li class="interlanguage-link interwiki-yo"><a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/Erbium" hreflang="yo" lang="yo" title="Erbium – Yoruba">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%89%BA" hreflang="yue" lang="yue" title="鉺 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%93%92" hreflang="zh" lang="zh" title="铒 – Chinese">中文</a></li><li class="interlanguage-link interwiki-kbp"><a class="interlanguage-link-target" href="https://kbp.wikipedia.org/wiki/%C6%90rb%C9%A9y%C9%94m" hreflang="kbp" lang="kbp" title="Ɛrbɩyɔm – Kabiye">Kabɩyɛ</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1849#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 October 2018, at 21:19<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Erbium&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.364","walltime":"1.552","ppvisitednodes":{"value":29224,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":509338,"limit":2097152},"templateargumentsize":{"value":31422,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":61242,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1297.420      1 -total"," 48.35%  627.309      1 Template:Infobox_erbium"," 48.04%  623.327      1 Template:Infobox_element"," 42.78%  555.011      1 Template:Infobox"," 20.56%  266.707      1 Template:Compact_periodic_table"," 19.65%  254.914      2 Template:Navbox"," 16.30%  211.514    118 Template:Element_cell-compact"," 15.90%  206.344      1 Template:Infobox_element/periodic_table"," 15.06%  195.358      1 Template:Periodic_table_(32_columns,_micro)"," 13.20%  171.246      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.534","limit":"10.000"},"limitreport-memusage":{"value":10594998,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20181027185038","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1249"});});</script>
+</body>
+</html>

@@ -1,0 +1,296 @@
+https://en.wikipedia.org/wiki/Climate_change_and_poverty
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Climate change and poverty - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Climate_change_and_poverty","wgTitle":"Climate change and poverty","wgCurRevisionId":865787126,"wgRevisionId":865787126,"wgArticleId":29872326,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2012","Climate change and society","Effects of global warming","Poverty"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Climate_change_and_poverty","wgRelevantArticleId":29872326,"wgRequestId":"W9cmsQpAICIAAKu9YgUAAAAK","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5133464","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Climate_change_and_poverty" rel="alternate"/>
+<link href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Climate_change_and_poverty" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Climate_change_and_poverty rootpage-Climate_change_and_poverty skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Climate change and poverty</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Climate change and poverty</b> link a process and a condition that are interrelated. While <a href="/wiki/Climate_change" title="Climate change">climate change</a> and <a href="/wiki/Global_warming" title="Global warming">global warming</a> affect the <a href="/wiki/Natural_environment" title="Natural environment">natural environment</a>, especially <a href="/wiki/Agriculture" title="Agriculture">agriculture</a>, it also <a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">affects humans</a>. Climate change globally impacts <a href="/wiki/Poverty" title="Poverty">poverty</a>, particularly in low-income communities. 
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Poverty_impacts"><span class="tocnumber">2</span> <span class="toctext">Poverty impacts</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reversing_development"><span class="tocnumber">3</span> <span class="toctext">Reversing development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Agricultural_production_and_food_security"><span class="tocnumber">3.1</span> <span class="toctext">Agricultural production and food security</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Water_insecurity"><span class="tocnumber">3.2</span> <span class="toctext">Water insecurity</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Rising_sea_levels_and_exposure_to_climate_disasters"><span class="tocnumber">3.3</span> <span class="toctext">Rising sea levels and exposure to climate disasters</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ecosystems_and_biodiversity"><span class="tocnumber">3.4</span> <span class="toctext">Ecosystems and biodiversity</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Human_health"><span class="tocnumber">3.5</span> <span class="toctext">Human health</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Security_impacts"><span class="tocnumber">4</span> <span class="toctext">Security impacts</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Infrastructure_impacts"><span class="tocnumber">5</span> <span class="toctext">Infrastructure impacts</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Proposed_policy_solutions"><span class="tocnumber">6</span> <span class="toctext">Proposed policy solutions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Mitigation_efforts"><span class="tocnumber">6.1</span> <span class="toctext">Mitigation efforts</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Adaptation_efforts"><span class="tocnumber">6.2</span> <span class="toctext">Adaptation efforts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Proposed_policy_challenges"><span class="tocnumber">7</span> <span class="toctext">Proposed policy challenges</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Bibliography"><span class="tocnumber">9</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Polar_Bears_Fight_Climate_Poverty_2.jpg"><img alt="" class="thumbimage" data-file-height="3000" data-file-width="1993" height="256" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Polar_Bears_Fight_Climate_Poverty_2.jpg/170px-Polar_Bears_Fight_Climate_Poverty_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Polar_Bears_Fight_Climate_Poverty_2.jpg/255px-Polar_Bears_Fight_Climate_Poverty_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Polar_Bears_Fight_Climate_Poverty_2.jpg/340px-Polar_Bears_Fight_Climate_Poverty_2.jpg 2x" width="170"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Polar_Bears_Fight_Climate_Poverty_2.jpg" title="Enlarge"></a></div>Demonstration against climate poverty (2007)</div></div></div>
+<p>Climate change's adverse effects mostly impact poor and low-income communities around the world. Those in poverty have a higher chance of experiencing the ill-effects climate change due to increased exposure and vulnerability.<sup class="reference" id="cite_ref-Rayner_1-0"><a href="#cite_note-Rayner-1">[1]</a></sup> <a href="/wiki/Vulnerability" title="Vulnerability">Vulnerability</a> represents the degree to which a system is susceptible to, or unable to cope with, adverse effects of <a href="/wiki/Climate_change" title="Climate change">climate change</a> including <a class="mw-redirect" href="/wiki/Climate_variability" title="Climate variability">climate variability</a> and extremes. Also, a lack of capacity available for coping with environmental change is experienced in lower-income communities.<sup class="reference" id="cite_ref-Smit_2-0"><a href="#cite_note-Smit-2">[2]</a></sup> According to the <a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">United Nations Development Programme</a>, <a class="mw-redirect" href="/wiki/Developing_countries" title="Developing countries">developing countries</a> suffer 99% of the casualties attributable to climate change.<sup class="reference" id="cite_ref-Human_Development_Report_3-0"><a href="#cite_note-Human_Development_Report-3">[3]</a></sup>
+</p><p>Climate change raises some <a href="/wiki/Climate_ethics" title="Climate ethics">climate ethics</a> issues, as the least 50 developed countries of the world account for an imbalanced 1% contribution to the worldwide emissions of greenhouse gasses which are theorized to be attributable to global warming.<sup class="reference" id="cite_ref-Human_Development_Report_3-1"><a href="#cite_note-Human_Development_Report-3">[3]</a></sup> The issue of <a href="/wiki/Distributive_justice" title="Distributive justice">distributive justice</a> questions how to fairly share the benefits and burdens of climate change policy options. Many of the policy tools often employed to solve environmental problems, such as <a class="mw-redirect" href="/wiki/Cost-benefit_analysis" title="Cost-benefit analysis">cost-benefit analysis</a>, usually do not adequately deal with these issues because they often ignore questions of just distribution and the effects on <a href="/wiki/Human_rights" title="Human rights">human rights</a>.
+</p>
+<h2><span class="mw-headline" id="Poverty_impacts">Poverty impacts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=2" title="Edit section: Poverty impacts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Cycle_of_poverty" title="Cycle of poverty">cycle of poverty</a> exacerbates the potential negative impacts of climate change. This phenomenon is defined when poor families become trapped in poverty for at least three generations and when they have limited or no access to resources and are disadvantaged in means of breaking the cycle.<sup class="reference" id="cite_ref-Marger_4-0"><a href="#cite_note-Marger-4">[4]</a></sup> While in rich countries, coping with climate change has largely been a matter of adjusting thermostats, dealing with longer, hotter summers, and observing seasonal shifts; for those in poverty, weather-related disasters, a bad harvest, or even a family member falling ill can provide crippling economic shocks.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Besides these economic shocks, the widespread famine, drought, and potential humanistic shocks could affect the entire nation. High levels of poverty and low levels of <a class="mw-redirect" href="/wiki/Human_development_(humanity)" title="Human development (humanity)">human development</a> limit capacity of poor households to manage climate risks. With limited access to formal insurance, low incomes and meagre assets, poor households have to deal with climate-related shocks under highly constrained conditions.<sup class="reference" id="cite_ref-autogenerated2_6-0"><a href="#cite_note-autogenerated2-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reversing_development">Reversing development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=3" title="Edit section: Reversing development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Climate change is globally encompassing and can reverse development in some areas in the following ways.
+</p>
+<h3><span class="mw-headline" id="Agricultural_production_and_food_security">Agricultural production and food security</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=4" title="Edit section: Agricultural production and food security">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There has been considerable research comparing the interrelated processes of <a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">climate change and agriculture</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Climate change will affect rainfall, temperature, and water availability for agriculture in vulnerable areas.<sup class="reference" id="cite_ref-autogenerated2_6-1"><a href="#cite_note-autogenerated2-6">[6]</a></sup> Climate change could affect agriculture in several ways including productivity, agricultural practices, environmental effects, and distribution of rural space.<sup class="reference" id="cite_ref-autogenerated5_8-0"><a href="#cite_note-autogenerated5-8">[8]</a></sup> Additional number affected by malnutrition could rise to 600 million by 2080. Climate change could worsen the prevalence of hunger through direct negative effects on production and indirect impacts on purchasing powers.<sup class="reference" id="cite_ref-autogenerated2_6-2"><a href="#cite_note-autogenerated2-6">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Water_insecurity">Water insecurity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=5" title="Edit section: Water insecurity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Of the 3 billion growth in population projected worldwide by the mid-21st century, the majority will be born in countries already experiencing <a class="mw-redirect" href="/wiki/Water_shortages" title="Water shortages">water shortages</a>.<sup class="reference" id="cite_ref-UNDP_2006_9-0"><a href="#cite_note-UNDP_2006-9">[9]</a></sup> As the overall climate of the earth warms, changes in the nature of global rainfall, evaporation, snow, and runoff flows will be affected.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Safe water sources are essential for survival within a community. Manifestations of the projected <a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">water crisis</a> include inadequate access to safe drinking water for about 884 million people as well as inadequate access to water for sanitation and water disposal for 2.5 billion people.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Rising_sea_levels_and_exposure_to_climate_disasters">Rising sea levels and exposure to climate disasters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=6" title="Edit section: Rising sea levels and exposure to climate disasters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sea levels could rise rapidly with accelerated ice sheet disintegration. Global temperature increases of 3–4 degrees C could result in 330 million people being permanently or temporarily displaced through flooding <sup class="reference" id="cite_ref-autogenerated5_8-1"><a href="#cite_note-autogenerated5-8">[8]</a></sup> Warming seas will also fuel more intense tropical storms.<sup class="reference" id="cite_ref-autogenerated5_8-2"><a href="#cite_note-autogenerated5-8">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ecosystems_and_biodiversity">Ecosystems and biodiversity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=7" title="Edit section: Ecosystems and biodiversity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Climate change is already transforming <a class="mw-redirect" href="/wiki/Ecological_systems" title="Ecological systems">Ecological systems</a>. Around one-half of the world’s coral reef systems have suffered bleaching as a result of warming seas. In addition, the direct human pressures that might be experienced include <a href="/wiki/Overfishing" title="Overfishing">overfishing</a> which could lead to <a href="/wiki/Resource_depletion" title="Resource depletion">resource depletion</a>, nutrient and chemical pollution and poor land use practices such as <a href="/wiki/Deforestation" title="Deforestation">deforestation</a> and <a href="/wiki/Dredging" title="Dredging">dredging</a>. Also, climate change may increase the amount of <a href="/wiki/Arable_land" title="Arable land">arable land</a> in high-latitude regions by reduction of the amount of frozen lands. A 2005 study reports that temperature in Siberia has increased three degree Celsius in average since 1960, which is reportedly more than in other areas of the world.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Human_health">Human health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=8" title="Edit section: Human health">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A direct effect is increase in temperature-related illnesses and deaths related to prolonged heat waves and humidity. Climate change could also change the geographic range of vector-borne, specifically <a href="/wiki/Mosquito-borne_disease" title="Mosquito-borne disease">mosquito-borne disease</a> such as <a href="/wiki/Malaria" title="Malaria">malaria</a> <a href="/wiki/Dengue_fever" title="Dengue fever">dengue fever</a> exposing new populations to the disease.<sup class="reference" id="cite_ref-autogenerated2_6-3"><a href="#cite_note-autogenerated2-6">[6]</a></sup> Because a changing climate affects the essential ingredients of maintaining good health: clean air and water, sufficient food and adequate shelter, the effects could be widespread and pervasive. The report of the WHO Commission on Social Determinants of Health points out that disadvantaged communities are likely to shoulder a disproportionate share of the burden of climate change because of their increased exposure and vulnerability to health threats.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Over 90 percent of malaria and diarrhea deaths are borne by children aged 5 years or younger, mostly in developing countries.<sup class="reference" id="cite_ref-Human_Development_Report_3-2"><a href="#cite_note-Human_Development_Report-3">[3]</a></sup>  Other severely affected population groups include women, the elderly and people living in small island developing states and other coastal regions, mega-cities or mountainous areas.<sup class="reference" id="cite_ref-Human_Development_Report_3-3"><a href="#cite_note-Human_Development_Report-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Security_impacts">Security impacts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=9" title="Edit section: Security impacts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of <a href="/wiki/Human_security" title="Human security">Human security</a> and the effects that climate change may have on it will become increasingly important as the changes become more apparent.<sup class="reference" id="cite_ref-autogenerated6_14-0"><a href="#cite_note-autogenerated6-14">[14]</a></sup> Some effects are already evident and will become very clear in the human and climatic short run (2007–2020). They will increase and others will manifest themselves in the medium term (2021–2050); whilst in the long run (2051–2100), they will all be active and interacting strongly with other major trends.<sup class="reference" id="cite_ref-autogenerated6_14-1"><a href="#cite_note-autogenerated6-14">[14]</a></sup> There is the potential for the end of the petroleum economy for many producing and consuming nations, possible financial and economic crisis, a larger population of humans, and a much more urbanized humanity – far in excess of the 50% now living in small to very large cities.<sup class="reference" id="cite_ref-Simon_2007_15-0"><a href="#cite_note-Simon_2007-15">[15]</a></sup> All these processes will be accompanied by redistribution of population nationally and internationally.<sup class="reference" id="cite_ref-Simon_2007_15-1"><a href="#cite_note-Simon_2007-15">[15]</a></sup> Such redistributions typically have significant gender dimensions; for example, extreme event impacts can lead to male out migration in search of work, culminating in an increase in women-headed households – a group often considered particularly vulnerable.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> Indeed, the effects of climate change on impoverished women and children is crucial in that women and children in particular, have unequal <a href="/wiki/Capability_approach" title="Capability approach">human capabilities</a>.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Infrastructure_impacts">Infrastructure impacts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=10" title="Edit section: Infrastructure impacts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The potential effects of climate change and the security of <a href="/wiki/Infrastructure" title="Infrastructure">infrastructure</a> will have the most direct effect on the poverty cycle. Areas of infrastructure effects will include water systems, housing and settlements, transport networks, utilities, and industry.<sup class="reference" id="cite_ref-autogenerated4_18-0"><a href="#cite_note-autogenerated4-18">[18]</a></sup> Infrastructure designers can contribute in three areas for improving living environment for the poor, in building design, in settlement planning and design as well as in urban planning.<sup class="reference" id="cite_ref-autogenerated4_18-1"><a href="#cite_note-autogenerated4-18">[18]</a></sup> The National Research Council has identified five climate changes of particular importance to infrastructure and factors that should be taken into consideration when designing future structures. These factors include: increases in very hot days and heat waves, increases in Arctic temperatures, rising sea levels, increases in intense precipitation events, and increases in hurricane intensity.<sup class="reference" id="cite_ref-autogenerated1_19-0"><a href="#cite_note-autogenerated1-19">[19]</a></sup> Accordingly, transportation decision makers continually make short- and long-term investment decisions that affect how infrastructure will respond to climate change.<sup class="reference" id="cite_ref-autogenerated1_19-1"><a href="#cite_note-autogenerated1-19">[19]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Proposed_policy_solutions">Proposed policy solutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=11" title="Edit section: Proposed policy solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mitigation_efforts">Mitigation efforts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=12" title="Edit section: Mitigation efforts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Climate change mitigation is the action to decrease the intensity of <a href="/wiki/Radiative_forcing" title="Radiative forcing">radiative forcing</a> in order to reduce the potential effects of global warming. Most often, mitigation efforts involve reductions in the <a class="mw-redirect" href="/wiki/Concentrations" title="Concentrations">concentrations</a> of <a class="mw-redirect" href="/wiki/Greenhouse_gases" title="Greenhouse gases">greenhouse gases</a>, either by reducing their <a class="extiw" href="https://en.wiktionary.org/wiki/source" title="wikt:source">source</a> or by increasing their <a class="mw-redirect" href="/wiki/Sinks" title="Sinks">sinks</a>.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Adaptation_efforts">Adaptation efforts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=13" title="Edit section: Adaptation efforts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-redirect" href="/wiki/Adaptation_to_global_warming" title="Adaptation to global warming">Adaptation to global warming</a> involves actions to tolerate the effects of global warming. Collaborative research from the <a href="/wiki/Institute_of_Development_Studies" title="Institute of Development Studies">Institute of Development Studies</a> draws links between adaptation and poverty to help develop an agenda for pro-poor adaptation that can inform climate-resilient poverty reduction. Adaptation to climate change will be "ineffective and inequitable if it fails to learn and build upon an understanding of the multidimensional and differentiated nature of poverty and vulnerability".<sup class="reference" id="cite_ref-autogenerated3_21-0"><a href="#cite_note-autogenerated3-21">[21]</a></sup> Poorer countries tend to be more seriously affected by climate change, yet have reduced assets and capacities with which to adapt.<sup class="reference" id="cite_ref-autogenerated3_21-1"><a href="#cite_note-autogenerated3-21">[21]</a></sup> This has led to more activities to integrate adaptation within development and poverty reduction programs. The rise of adaptation as a development issue has been influenced by concerns around minimizing threats to progress on poverty reduction, notably the <a href="/wiki/Millennium_Development_Goals" title="Millennium Development Goals">Millennium Development Goals</a>, and by the injustice of impacts that are felt hardest by those who have done least to contribute to the problem, framing adaptation as an equity and <a href="/wiki/Human_rights" title="Human rights">human rights</a> issue.<sup class="reference" id="cite_ref-autogenerated3_21-2"><a href="#cite_note-autogenerated3-21">[21]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Proposed_policy_challenges">Proposed policy challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=14" title="Edit section: Proposed policy challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most difficult policy challenge is related to <a href="/wiki/Distribution_(economics)" title="Distribution (economics)">distribution</a>. While this is a potential catastrophic risk for the entire globe, the short and medium-term distribution of the costs and benefits will be far from uniform.<sup class="reference" id="cite_ref-Human_Development_Report_3-4"><a href="#cite_note-Human_Development_Report-3">[3]</a></sup>  Distribution challenge is made particularly difficult because those who have largely caused the problem – richer nations – are not going to be those who suffer the most in the short term. It is the poorest who did not and still are not contributing significantly to green house gas emissions that are the most vulnerable.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit&amp;section=16" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Delaney and Elizabeth Shrader (2000) "Gender and Post-Disaster Reconstruction: The Case of Hurricane Mitch in Honduras and Nicaragua", LCSPG/LAC Gender Team, The World Bank, Decision Review Draft, page 24 <a class="external free" href="http://www.gdnonline.org/resources/reviewdraft.doc" rel="nofollow">http://www.gdnonline.org/resources/reviewdraft.doc</a></li>
+<li>IPCC. 2001. Impacts, Adaptation and Vulnerability, Contribution of Working Group II of the Intergovernmental Panel on Climate Change to the Third Assessment Report of the IPCC. Online at www.ipcc.ch (Accessed October 23, 2010)</li>
+<li>IPCC. 2007. Intergovernmental Panel on Climate Change Special Report on Emissions Scenarios (Accessed on November 2, 2010).</li>
+<li>IDS Bulletin. Poverty in a Changing Climate IDS Bulletin 39(4):2, September 2008</li>
+<li>Jabeen, Huraera and Fuad H. Mallick. "Urban Poverty, climate change and built environment." The Daily Star. January 24, 2009.</li>
+<li>La Trobe, S. 2002. Climate Change and Poverty. <a class="external free" href="http://www.tearfund.org/webdocs/Website/Campaigning/Policy%20and%20research/Climate%20change%20and%20poverty%20paper.pdf" rel="nofollow">http://www.tearfund.org/webdocs/Website/Campaigning/Policy%20and%20research/Climate%20change%20and%20poverty%20paper.pdf</a> (Accessed October 23, 2010)</li>
+<li>Liotta, Peter. "Climate Change and Human Security: The Use of Scenarios" Paper presented at the annual meeting of the International Studies Association, Town &amp; Country Resort and Convention Center, San Diego, California, USA, Mar 22, 2006. 2009-05-25 &lt;<a class="external autonumber" href="http://www.allacademic.com/meta/p100873_index.html" rel="nofollow">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since December 2012">dead link</span></a></i>]</span></sup>&gt;</li>
+<li>Marger (2008). Examples of these disadvantages working in a circular process would be: economic decline, low personal income, no funds for school, which leads to lack of education. The lack of education results in unemployment and lastly low national productivity. ‘‘Social Inequality: Patterns and Processes.’’ McGraw Hill publishing. 4th edition. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-352815-3" title="Special:BookSources/0-07-352815-3">0-07-352815-3</a></li>
+<li>Molina, M.; Zaelke, D.; Sarmac, K. M.; Andersen, S. O.; Ramanathane, V.; Kaniaruf, D. (2009). "Tipping Elements in Earth Systems Special Feature: Reducing abrupt climate change risk using the Montreal Protocol and other regulatory actions to complement cuts in CO2 emissions". Proceedings of the National Academy of Sciences 106 (49): 20616. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1073%2Fpnas.0902568106" rel="nofollow">10.1073/pnas.0902568106</a>. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19822751" rel="nofollow">19822751</a>. PMC 2791591. <a class="external free" href="http://www.pnas.org/content/early/2009/10/19/0902568106.full.pdf" rel="nofollow">http://www.pnas.org/content/early/2009/10/19/0902568106.full.pdf</a>. edit</li>
+<li>Miller, Kathleen. 1997. Climate Variability, Climate Change and Western Water. Report to the Western Water Policy Review Advisory Commission, NTIS, Springfield, VA. <a class="external free" href="http://www.isse.ucar.edu/water_climate/impacts.html" rel="nofollow">http://www.isse.ucar.edu/water_climate/impacts.html</a> (Accessed on November, 2, 2010).</li>
+<li>O’Leary, Maureen. March 21, 2008. Climate Change on Infrastructure. <a class="external free" href="http://scitizen.com/climate-change/climate-change-on-infrastructure_a-13-1788.html" rel="nofollow">http://scitizen.com/climate-change/climate-change-on-infrastructure_a-13-1788.html</a> (Accessed on November 2, 2010).</li>
+<li>Rayner S., and E.L. Malone. 2001. Climate Change, Poverty, and Intragernerational Equity: The National Level. International Journal of Global Environment Issues. 1:2, 175–202.</li>
+<li>Sample, Ian. "Warming hits ‘tipping point’" The Guardian. August 11, 2005. (Accessed on November 12, 2010).</li>
+<li>Schneider, S.H. et al. (2007). "Assessing key vulnerabilities and the risk from climate change. In: Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [M.L. Parry et al. (eds.)"]. Cambridge University Press, Cambridge, U.K., and New York, N.Y., U.S.A.. pp. 779–810. Retrieved 2009-05-20.</li>
+<li>Simon, David.  (2007), "Cities and Global Environmental Change: Exploring the Links," The Geographical Journal 173, 1 (March): 75–79 &amp; see chapters 3 &amp; 4 of Sir Nicholas Stern et al. (2007) Stern Review on the Economics of Climate Change. London: UK, Department of the Treasury <a class="external free" href="http://www.hm-treasury.gov.uk/independent_reviews/stern_review_economics_climate_change/stern_review_report.cfm" rel="nofollow">http://www.hm-treasury.gov.uk/independent_reviews/stern_review_economics_climate_change/stern_review_report.cfm</a></li>
+<li>Smit, B., I. Burton, R.J.T. Klein, and R. Street. 1999.: The Science of Adaption: A framework for Assessment. Mitigation and Adaption Stretegies for Global Change, 4, 199–213.</li>
+<li>United Nations Development Programme. "Human Development Report 2007/2008: The 21st Century Climate Challenge." United Nations Development Programme, <a class="external free" href="http://hdr.undp.org/en/media/hdr_20072008_en_complete.pdf" rel="nofollow">http://hdr.undp.org/en/media/hdr_20072008_en_complete.pdf</a>  (Accessed October 23, 2010).</li>
+<li>United Nations Development Programme. 1998. "Unequal Human Impacts of Environmental Damage," in Human Development Report 1998. Oxford and New York: Oxford University Press.</li>
+<li>United Nations Development Programme. 2006. "Human Development Report: Beyond Scarcity: Power, Poverty, and the Global Water Crisis." New York: <a href="/wiki/Palgrave_Macmillan" title="Palgrave Macmillan">Palgrave Macmillan</a>, 2006. (pp. 25–199).</li>
+<li>UNICEF. 2007. Climate Change and Children. New York: United Nations Children’s Fund.</li>
+<li>Progress in Drinking-water and Sanitation: special focus on sanitation. WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation. July 17, 2008. p. 25. <a class="external free" href="http://www.unicef.org/media/files/Joint_Monitoring_Report_-_17_July_2008.pdf" rel="nofollow">http://www.unicef.org/media/files/Joint_Monitoring_Report_-_17_July_2008.pdf</a>.</li>
+<li>Updated Numbers: WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation Updated Report. 2008. <a class="external free" href="http://www.unicef.org/media/media_44093.html" rel="nofollow">http://www.unicef.org/media/media_44093.html</a></li>
+<li><a class="external free" href="http://www.ied.ethz.ch/pub/pdf/IED_WP01_Schubert.pdf" rel="nofollow">http://www.ied.ethz.ch/pub/pdf/IED_WP01_Schubert.pdf</a></li>
+<li><a class="external free" href="http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/2010/11/02/000158349_20101102135244/Rendered/PDF/WPS5468.pdf" rel="nofollow">http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/2010/11/02/000158349_20101102135244/Rendered/PDF/WPS5468.pdf</a></li>
+<li>World Health Organization. 2004. The Global Burden Disease: 2004 Update. <a class="external free" href="http://who.int/healthinfo/global_burden_disease/2004_report_update/en/index.htm" rel="nofollow">http://who.int/healthinfo/global_burden_disease/2004_report_update/en/index.htm</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1221
+Cached time: 20181026040715
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.286 seconds
+Preprocessor visited node count: 1092/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11691/2097152 bytes
+Template argument size: 1120/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29605/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 2.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  209.259      1 -total
+ 70.70%  147.940      1 Template:Reflist
+ 45.32%   94.829      4 Template:Cite_journal
+ 15.94%   33.360      1 Template:Dead_link
+ 13.39%   28.022      1 Template:Fix
+ 11.94%   24.987      2 Template:Category_handler
+  8.86%   18.549      2 Template:PMID
+  8.63%   18.050      3 Template:Catalog_lookup_link
+  8.19%   17.135      1 Template:ISBN
+  3.75%    7.851      1 Template:Doi
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29872326-0!canonical and timestamp 20181026040715 and revision id 865787126
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Climate_change_and_poverty&amp;oldid=865787126">https://en.wikipedia.org/w/index.php?title=Climate_change_and_poverty&amp;oldid=865787126</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_change_and_society" title="Category:Climate change and society">Climate change and society</a></li><li><a href="/wiki/Category:Effects_of_global_warming" title="Category:Effects of global warming">Effects of global warming</a></li><li><a href="/wiki/Category:Poverty" title="Category:Poverty">Poverty</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2012" title="Category:Articles with dead external links from December 2012">Articles with dead external links from December 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Climate+change+and+poverty" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Climate+change+and+poverty" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Climate_change_and_poverty" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Climate_change_and_poverty" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Climate_change_and_poverty">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Climate_change_and_poverty&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Climate_change_and_poverty&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Climate_change_and_poverty" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Climate_change_and_poverty" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Climate_change_and_poverty&amp;oldid=865787126" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Climate_change_and_poverty&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5133464" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Climate_change_and_poverty&amp;id=865787126" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Climate+change+and+poverty">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Climate+change+and+poverty&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Climate_change_and_poverty&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5133464#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 October 2018, at 04:07<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Climate_change_and_poverty&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.286","ppvisitednodes":{"value":1092,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11691,"limit":2097152},"templateargumentsize":{"value":1120,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29605,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  209.259      1 -total"," 70.70%  147.940      1 Template:Reflist"," 45.32%   94.829      4 Template:Cite_journal"," 15.94%   33.360      1 Template:Dead_link"," 13.39%   28.022      1 Template:Fix"," 11.94%   24.987      2 Template:Category_handler","  8.86%   18.549      2 Template:PMID","  8.63%   18.050      3 Template:Catalog_lookup_link","  8.19%   17.135      1 Template:ISBN","  3.75%    7.851      1 Template:Doi"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":2452560,"limit":52428800}},"cachereport":{"origin":"mw1221","timestamp":"20181026040715","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1332"});});</script>
+</body>
+</html>

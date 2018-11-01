@@ -1,0 +1,356 @@
+https://en.wikipedia.org/wiki/Atmospheric_thermodynamics
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Atmospheric thermodynamics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Atmospheric_thermodynamics","wgTitle":"Atmospheric thermodynamics","wgCurRevisionId":860646211,"wgRevisionId":860646211,"wgArticleId":5321016,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from September 2008","Atmospheric thermodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Atmospheric_thermodynamics","wgRelevantArticleId":5321016,"wgRequestId":"W9deAApAMFwAABaN9XUAAABW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q584909","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Atmospheric_thermodynamics" rel="alternate"/>
+<link href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Atmospheric_thermodynamics" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Atmospheric_thermodynamics rootpage-Atmospheric_thermodynamics skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Atmospheric thermodynamics</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Atmospheric thermodynamics</b> is the study of <a href="/wiki/Heat" title="Heat">heat</a>-to-work transformations (and their reverse) that take place in the earth's atmosphere and manifest as weather or climate.  Atmospheric thermodynamics use the laws of <a class="mw-redirect" href="/wiki/Classical_thermodynamics" title="Classical thermodynamics">classical thermodynamics</a>,  to describe and explain such phenomena as the properties of moist air, the formation of clouds, atmospheric convection, boundary layer meteorology, and vertical instabilities in the atmosphere. Atmospheric <a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">thermodynamic diagrams</a> are used as tools in the forecasting of storm development.  Atmospheric thermodynamics forms a basis for cloud microphysics and convection <a class="mw-redirect" href="/wiki/Parametrization_(climate)" title="Parametrization (climate)">parameterizations</a> used in numerical weather models and is used in many climate considerations, including convective-equilibrium climate models.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Chronology"><span class="tocnumber">2.1</span> <span class="toctext">Chronology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Hadley_Circulation"><span class="tocnumber">3.1</span> <span class="toctext">Hadley Circulation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Tropical_cyclone_Carnot_cycle"><span class="tocnumber">3.2</span> <span class="toctext">Tropical cyclone Carnot cycle</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Water_vapor_and_global_climate_change"><span class="tocnumber">3.3</span> <span class="toctext">Water vapor and global climate change</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Special_topics"><span class="tocnumber">5</span> <span class="toctext">Special topics</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The atmosphere is an example of a non-equilibrium system.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Atmospheric thermodynamics describes the effect of buoyant forces that cause the rise of less dense (warmer) air, the descent of more dense air, and the transformation of water from liquid to vapor (evaporation) and its condensation. Those dynamics are modified by the <a href="/wiki/Pressure_gradient" title="Pressure gradient">force of the pressure gradient</a> and that motion is modified by the <a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a>.  The tools used include the law of energy conservation, the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a>, specific heat capacities, the assumption of <a href="/wiki/Isentropic_process" title="Isentropic process">isentropic processes</a> (in which <a href="/wiki/Entropy" title="Entropy">entropy</a> is a constant), and moist <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic processes</a> (during which no energy is transferred as heat). Most of tropospheric gases are treated as ideal gases and <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a>, with its ability to change phase from vapor, to liquid, to solid, and back is considered as one of the most important trace components of air.
+</p><p>Advanced topics are <a class="mw-redirect" href="/wiki/Phase_transitions" title="Phase transitions">phase transitions</a> of water, homogeneous and in-homogeneous nucleation, effect of dissolved substances on cloud condensation, role of supersaturation on formation of ice crystals and cloud droplets. Considerations of moist air and cloud theories typically involve various temperatures, such as equivalent potential temperature, wet-bulb and virtual temperatures. Connected areas are energy, momentum, and <a href="/wiki/Mass_transfer" title="Mass transfer">mass transfer</a>, turbulence interaction between air particles in clouds, convection, dynamics of tropical cyclones, and large scale dynamics of the atmosphere.
+</p><p>The major role of atmospheric thermodynamics is expressed in terms of adiabatic and diabatic forces acting on <a class="mw-redirect" href="/wiki/Air_parcel" title="Air parcel">air parcels</a> included in <a href="/wiki/Primitive_equations" title="Primitive equations">primitive equations</a> of air motion either as grid resolved or subgrid parameterizations. These equations form a basis for the numerical weather and climate predictions.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the early 19th century thermodynamicists such as <a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Sadi Carnot</a>, <a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Rudolf Clausius</a>, and <a class="mw-redirect" href="/wiki/%C3%89mile_Clapeyron" title="Émile Clapeyron">Émile Clapeyron</a> developed mathematical models on the dynamics of fluid bodies and vapors related to the combustion and pressure cycles of atmospheric steam engines; one example is the <a class="mw-redirect" href="/wiki/Clausius%E2%80%93Clapeyron_equation" title="Clausius–Clapeyron equation">Clausius–Clapeyron equation</a>.  In 1873, thermodynamicist <a class="mw-redirect" href="/wiki/Willard_Gibbs" title="Willard Gibbs">Willard Gibbs</a> published "Graphical Methods in the Thermodynamics of Fluids."
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Skew-T.gif"><img alt="" class="thumbimage" data-file-height="747" data-file-width="838" height="196" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Skew-T.gif/220px-Skew-T.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Skew-T.gif/330px-Skew-T.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Skew-T.gif/440px-Skew-T.gif 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Skew-T.gif" title="Enlarge"></a></div>Thermodynamic diagram developed in the 19th century is still used to calculate quantities such as convective available potential energy or air stability.</div></div></div>
+<p>These sorts of foundations naturally began to be applied towards the development of theoretical models of atmospheric thermodynamics which drew the attention of the best minds.  Papers on atmospheric thermodynamics appeared in the 1860s that treated such topics as dry and moist <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic processes</a>. In 1884 <a class="mw-redirect" href="/wiki/Heinrich_Rudolf_Hertz" title="Heinrich Rudolf Hertz">Heinrich Hertz</a> devised first atmospheric thermodynamic diagram (<a href="/wiki/Emagram" title="Emagram">emagram</a>).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>  Pseudo-adiabatic process was coined by <a href="/wiki/Wilhelm_von_Bezold" title="Wilhelm von Bezold">von Bezold</a> describing air as it is lifted, expands, cools, and eventually precipitates its water vapor;  in 1888 he published voluminous work entitled "On the thermodynamics of the atmosphere".<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>In 1911 von <a href="/wiki/Alfred_Wegener" title="Alfred Wegener">Alfred Wegener</a> published a book "Thermodynamik der Atmosphäre", Leipzig, J. A. Barth.
+From here the development of atmospheric thermodynamics as a branch of science began to take root. The term "atmospheric thermodynamics", itself, can be traced to <a class="mw-redirect" href="/wiki/Frank_W._Very" title="Frank W. Very">Frank W. Verys</a> 1919 publication:  "The radiant properties of the earth from the standpoint of atmospheric thermodynamics" (Occasional scientific papers of the Westwood Astrophysical Observatory). By the late 1970s various textbooks on the subject began to appear.  Today, atmospheric thermodynamics is an integral part of weather forecasting.
+</p>
+<h3><span class="mw-headline" id="Chronology">Chronology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=3" title="Edit section: Chronology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>1751</b> Charles Le Roy recognized dew point temperature as point of saturation of air</li>
+<li><b>1782</b> <a href="/wiki/Jacques_Charles" title="Jacques Charles">Jacques Charles</a> made hydrogen balloon flight measuring temperature and pressure in Paris</li>
+<li><b>1784</b> Concept of variation of temperature with height was suggested</li>
+<li><b>1801–1803</b> <a href="/wiki/John_Dalton" title="John Dalton">John Dalton</a> developed his laws of pressures of vapours</li>
+<li><b>1804</b> <a href="/wiki/Joseph_Louis_Gay-Lussac" title="Joseph Louis Gay-Lussac">Joseph Louis Gay-Lussac</a> made balloon ascent to study weather</li>
+<li><b>1805</b> Pierre Simon Laplace developed his law of pressure variation with height</li>
+<li><b>1841</b> <a href="/wiki/James_Pollard_Espy" title="James Pollard Espy">James Pollard Espy</a> publishes paper on  convection theory of cyclone energy</li>
+<li><b>1856</b> <a href="/wiki/William_Ferrel" title="William Ferrel">William Ferrel</a> presents dynamics causing <a href="/wiki/Westerlies" title="Westerlies">westerlies</a></li>
+<li><b>1889</b> Hermann von Helmholtz and John William von Bezold used the concept of potential temperature, von Bezold used adiabatic lapse rate and pseudoadiabat</li>
+<li><b>1893</b> Richard Asman constructs first aerological sonde (pressure-temperature-humidity)</li>
+<li><b>1894</b> John Wilhelm von Bezold used concept of equivalent temperature</li>
+<li><b>1926</b> Sir Napier Shaw introduced tephigram</li>
+<li><b>1933</b> Tor Bergeron published paper on "Physics of Clouds and Precipitation" describing precipitation from supercooled (due to condensational growth of ice crystals in presence of water drops)</li>
+<li><b>1946</b> Vincent J. Schaeffer and Irving Langmuir performed the first cloud-seeding experiment</li>
+<li><b>1986</b> K. Emanuel conceptualizes tropical cyclone as Carnot heat engine</li></ul>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=4" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hadley_Circulation">Hadley Circulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=5" title="Edit section: Hadley Circulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Hadley Circulation can be considered as a heat engine.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The Hadley circulation is identified with rising of warm and moist air in the equatorial region with the descent of colder air in the subtropics corresponding to a thermally driven direct circulation, with consequent net production of kinetic energy. The thermodynamic efficiency of the Hadley system, considered as a heat engine, has been relatively constant over the 1979~2010 period, averaging 2.6%. Over the same interval, the power generated by the Hadley regime has risen at an average rate of about 0.54 TW per yr; this reflects an increase in energy input to the system consistent with the observed trend in the tropical sea surface temperatures.
+</p>
+<h3><span class="mw-headline" id="Tropical_cyclone_Carnot_cycle">Tropical cyclone Carnot cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=6" title="Edit section: Tropical cyclone Carnot cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Anvil_convection.jpg"><img alt="" class="thumbimage" data-file-height="405" data-file-width="540" height="225" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Anvil_convection.jpg/300px-Anvil_convection.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Anvil_convection.jpg/450px-Anvil_convection.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e4/Anvil_convection.jpg 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Anvil_convection.jpg" title="Enlarge"></a></div>Air is being moistened as it travels toward convective system. Ascending motion in a deep convective core produces air expansion, cooling, and condensation. Upper level outflow visible as an anvil cloud is eventually descending conserving mass (rysunek – Robert Simmon).</div></div></div>
+<p>The thermodynamic behavior of a hurricane can be modelled as a heat engine <sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> that operates between the heat reservoir of the sea at a temperature of about 300K (27 °C) and the heat sink of the tropopause at a temperature of about 200K (−72 °C) and in the process converts heat energy into mechanical energy of winds. Parcels of air traveling close to the sea surface take up heat and water vapor, the warmed air rises and expands and cools as it does so causes condensation and precipitation. The rising air, and condensation, produces circulatory winds that are propelled by the <a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a>, which whip up waves and increase the amount of warm moist air that powers the cyclone. Both a decreasing temperature in the upper troposphere or an increasing temperature of the atmosphere close to the surface will increase the maximum winds observed in hurricanes. When applied to hurricane dynamics it defines a Carnot heat engine cycle and predicts maximum hurricane intensity.
+</p>
+<h3><span class="mw-headline" id="Water_vapor_and_global_climate_change">Water vapor and global climate change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=7" title="Edit section: Water vapor and global climate change">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Clausius%E2%80%93Clapeyron_relation" title="Clausius–Clapeyron relation">Clausius–Clapeyron relation</a> and <a class="mw-redirect" href="/wiki/August-Roche-Magnus_approximation" title="August-Roche-Magnus approximation">August-Roche-Magnus approximation</a></div>
+<p>The <a href="/wiki/Clausius%E2%80%93Clapeyron_relation" title="Clausius–Clapeyron relation">Clausius–Clapeyron relation</a> shows how the water-holding capacity of the atmosphere increases by about 8% per Celsius increase in <a href="/wiki/Temperature" title="Temperature">temperature</a>. (It does not directly depend on other parameters like the <a href="/wiki/Pressure" title="Pressure">pressure</a> or <a href="/wiki/Density" title="Density">density</a>.) This water-holding capacity, or "<a class="mw-redirect" href="/wiki/Equilibrium_vapor_pressure" title="Equilibrium vapor pressure">equilibrium vapor pressure</a>", can be approximated using the <a class="mw-redirect" href="/wiki/August-Roche-Magnus_formula" title="August-Roche-Magnus formula">August-Roche-Magnus formula</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle e_{s}(T)=6.1094\exp \left({\frac {17.625T}{T+243.04}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>6.1094</mn>
+<mi>exp</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>17.625</mn>
+<mi>T</mi>
+</mrow>
+<mrow>
+<mi>T</mi>
+<mo>+</mo>
+<mn>243.04</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle e_{s}(T)=6.1094\exp \left({\frac {17.625T}{T+243.04}}\right)}</annotation>
+</semantics>
+</math></span><img alt=" e_s(T)= 6.1094 \exp \left( \frac{17.625T}{T+243.04} \right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ba2adef90ce97ae2d32505e1b00f74ef9030b95" style="vertical-align: -2.505ex; width:34.223ex; height:6.176ex;"/></span></dd></dl>
+<p>(where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle e_{s}(T)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle e_{s}(T)}</annotation>
+</semantics>
+</math></span><img alt="e_{s}(T)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/48cf66adc152f0d4d0605e028bc2e0119fcccc8a" style="vertical-align: -0.838ex; width:5.532ex; height:2.843ex;"/></span> is the equilibrium or <a class="mw-redirect" href="/wiki/Saturation_vapor_pressure" title="Saturation vapor pressure">saturation vapor pressure</a> in <a class="mw-redirect" href="/wiki/HPa" title="HPa">hPa</a>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;"/></span> is temperature in degrees Celsius).  This shows that when atmospheric temperature increases (e.g., due to <a class="mw-redirect" href="/wiki/Greenhouse_gases" title="Greenhouse gases">greenhouse gases</a>) the <a class="mw-redirect" href="/wiki/Absolute_humidity" title="Absolute humidity">absolute humidity</a> should also increase <a href="/wiki/Exponential_function" title="Exponential function">exponentially</a> (assuming a constant <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a>). However, this purely thermodynamic argument is subject of considerable debate because <a href="/wiki/Convection" title="Convection">convective processes</a> might cause extensive drying due to increased areas of <a href="/wiki/Subsidence_(atmosphere)" title="Subsidence (atmosphere)">subsidence</a>, <a class="new" href="/w/index.php?title=Efficiency_of_precipitation&amp;action=edit&amp;redlink=1" title="Efficiency of precipitation (page does not exist)">efficiency of precipitation</a> could be influenced by the intensity of convection, and because <a class="mw-redirect" href="/wiki/Cloud_formation" title="Cloud formation">cloud formation</a> is related to relative humidity.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2008)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Atmospheric_temperature" title="Atmospheric temperature">Atmospheric temperature</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical thermodynamics</a></li>
+<li><a href="/wiki/Cloud_physics" title="Cloud physics">Cloud physics</a></li>
+<li><a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">Equilibrium thermodynamics</a></li>
+<li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a></li>
+<li><a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">Non-equilibrium thermodynamics</a></li>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li></ul>
+<h2><span class="mw-headline" id="Special_topics">Special topics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=9" title="Edit section: Special topics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Lorenz, E. N., 1955, Available potential energy and the maintenance of the general circulation, Tellus, 7, 157–167.</li>
+<li>Emanuel, K, 1986, Part I. An air-sea interaction theory for tropical cyclones,  J. Atmos. Sci. 43, 585, (energy cycle of the mature hurricane has been idealized here as Carnot engine that converts heat energy extracted from the ocean to  mechanical energy).</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ol><li><cite class="citation book">Bohren, C.F. &amp; B. Albrecht (1998). <i>Atmospheric Thermodynamics</i>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-509904-4" title="Special:BookSources/0-19-509904-4">0-19-509904-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Atmospheric+Thermodynamics&amp;rft.pub=Oxford+University+Press&amp;rft.date=1998&amp;rft.isbn=0-19-509904-4&amp;rft.au=Bohren%2C+C.F.&amp;rft.au=B.+Albrecht&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+thermodynamics"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li>Curry, J.A. and P.J. Webster, 1999, Thermodynamics of Atmospheres and Oceans. Academic Press, London, 467 pp (textbook for graduates)</li>
+<li>Dufour, L. et, Van Mieghem, J. – Thermodynamique de l'Atmosphère, Institut Royal Meteorologique de Belgique, 1975. 278 pp (theoretical approach). First edition of this book – 1947.</li>
+<li>Emanuel, K.A.(1994): Atmospheric Convection, <i>Oxford University Press</i>. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-506630-8" title="Special:BookSources/0-19-506630-8">0-19-506630-8</a> (thermodynamics of tropical cyclones).</li>
+<li>Iribarne, J.V. and Godson, W.L., Atmospheric thermodynamics, Dordrecht, Boston, Reidel (basic textbook).</li>
+<li>Petty, G.W., <a class="external text" href="https://web.archive.org/web/20090517020307/http://sundogpublishing.com/AtmosThermo/Announcement.html" rel="nofollow">A First Course in Atmospheric Thermodynamics</a>, Sundog Publishing, Madison, Wisconsin,  <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-9729033-2-5" title="Special:BookSources/978-0-9729033-2-5">978-0-9729033-2-5</a> (undergraduate textbook).</li>
+<li><cite class="citation book"><a href="/wiki/Anastasios_Tsonis" title="Anastasios Tsonis">Tsonis Anastasios, A.</a> (2002). <i>An Introduction to Atmospheric Thermodynamics</i>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-79676-8" title="Special:BookSources/0-521-79676-8">0-521-79676-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Atmospheric+Thermodynamics&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2002&amp;rft.isbn=0-521-79676-8&amp;rft.au=Tsonis+Anastasios%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+thermodynamics"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li>von Alfred Wegener, Thermodynamik der Atmosphare, Leipzig, J. A. Barth, 1911, 331pp.</li>
+<li>Wilford Zdunkowski, Thermodynamics of the atmosphere: a course in theoretical meteorology, Cambridge, Cambridge University Press, 2004.</li></ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20181023184525
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.441 seconds
+Preprocessor visited node count: 855/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11575/2097152 bytes
+Template argument size: 1020/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14225/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.127/10.000 seconds
+Lua memory usage: 2.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  260.224      1 -total
+ 51.60%  134.288      1 Template:Reflist
+ 45.02%  117.155      2 Template:Cite_journal
+ 18.73%   48.734      1 Template:Citation_needed
+ 16.93%   44.056      1 Template:Fix
+ 11.83%   30.795      2 Template:ISBN
+ 10.31%   26.822      2 Template:Category_handler
+  8.68%   22.597      1 Template:Main
+  5.54%   14.428      1 Template:Delink
+  5.03%   13.087      2 Template:Catalog_lookup_link
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5321016-0!canonical!math=5 and timestamp 20181023184524 and revision id 860646211
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Atmospheric_thermodynamics&amp;oldid=860646211">https://en.wikipedia.org/w/index.php?title=Atmospheric_thermodynamics&amp;oldid=860646211</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">Atmospheric thermodynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2008" title="Category:Articles with unsourced statements from September 2008">Articles with unsourced statements from September 2008</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Atmospheric+thermodynamics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Atmospheric+thermodynamics" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Atmospheric_thermodynamics" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Atmospheric_thermodynamics" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Atmospheric_thermodynamics">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Atmospheric_thermodynamics" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Atmospheric_thermodynamics" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;oldid=860646211" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Atmospheric_thermodynamics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q584909" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Atmospheric_thermodynamics&amp;id=860646211" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Atmospheric+thermodynamics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Atmospheric+thermodynamics&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Atmospheric_thermodynamics&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%8A%D9%83%D8%A7_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9_%D8%AC%D9%88%D9%8A%D8%A9" hreflang="ar" lang="ar" title="ديناميكا حرارية جوية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Din%C3%A1mica_de_la_atm%C3%B3sfera" hreflang="es" lang="es" title="Dinámica de la atmósfera – Spanish">Español</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B0%97%E7%86%B1%E5%8A%9B%E5%AD%A6" hreflang="ja" lang="ja" title="大気熱力学 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Atmosf%C3%A6risk_termodynamikk" hreflang="no" lang="no" title="Atmosfærisk termodynamikk – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Atmosf%C3%A6risk_termodynamikk" hreflang="nn" lang="nn" title="Atmosfærisk termodynamikk – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Termodynamika_atmosfery" hreflang="pl" lang="pl" title="Termodynamika atmosfery – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B0%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D1%8B" hreflang="ru" lang="ru" title="Термодинамика атмосферы – Russian">Русский</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Atmosferik_termodinamik" hreflang="tr" lang="tr" title="Atmosferik termodinamik – Turkish">Türkçe</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q584909#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 September 2018, at 03:42<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Atmospheric_thermodynamics&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.441","ppvisitednodes":{"value":855,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11575,"limit":2097152},"templateargumentsize":{"value":1020,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14225,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  260.224      1 -total"," 51.60%  134.288      1 Template:Reflist"," 45.02%  117.155      2 Template:Cite_journal"," 18.73%   48.734      1 Template:Citation_needed"," 16.93%   44.056      1 Template:Fix"," 11.83%   30.795      2 Template:ISBN"," 10.31%   26.822      2 Template:Category_handler","  8.68%   22.597      1 Template:Main","  5.54%   14.428      1 Template:Delink","  5.03%   13.087      2 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.127","limit":"10.000"},"limitreport-memusage":{"value":3097720,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20181023184525","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1257"});});</script>
+</body>
+</html>

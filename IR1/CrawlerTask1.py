@@ -4,6 +4,7 @@ import re
 import time
 import urllib.parse
 import urllib.request
+import os
 
 from bs4 import BeautifulSoup
 
@@ -26,6 +27,9 @@ FILE_INDEX = 1
 LINK_FILENAME_MAP = {}
 # dictionary to store each unique URL crawled and their depth relative to the seed
 URL_DEPTH_MAP = {}
+# output directory to store corpus
+OUT_DIR="/Users/dipanjan/PycharmProjects/Python/IR1/corpus"
+
 
 
 # function which crawls the web following BFS
@@ -69,7 +73,7 @@ def get_all_urls (current_crawl):
     # skip the reference section
     if len (html_content.find ('ol', class_='references') or ()) > 1:
         html_content.find ('ol', class_='references').decompose ()
-    # write_html_content (current_crawl, html_content.encode ())
+    write_html_content (current_crawl, html_content.encode ())
     # Get the links that obey the pattern
     body = html_content.find ('div', {'id': 'bodyContent'})
     links = body.find_all ('a', href=pattern)
@@ -95,8 +99,11 @@ def update_to_crawl_list (links_at_nextdepth, new_fetched_urls):
 # function to download the html content and write them to a file along with the URL
 def write_html_content (current_crawl, html_content):
     global FILE_INDEX
-    filename = 'file_' + str (FILE_INDEX) + '.txt'
-    file_content = open (filename, 'a+')
+    extract_url = urllib.parse.urlparse (current_crawl)
+    extract_path = extract_url.path
+    article_id = extract_path.split ("/wiki/")[1]
+    filename = article_id +'.txt'
+    file_content = open (os.path.join(OUT_DIR, filename), 'a+')
     # storing the URL along with the page content
     file_content.write (current_crawl + '\n' + html_content.decode ())
     global LINK_FILENAME_MAP

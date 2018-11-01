@@ -1,0 +1,347 @@
+https://en.wikipedia.org/wiki/ChEMBL
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>ChEMBL - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ChEMBL","wgTitle":"ChEMBL","wgCurRevisionId":851049638,"wgRevisionId":851049638,"wgArticleId":29260274,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Biological databases","Chemical databases","Science and technology in Cambridgeshire","South Cambridgeshire","Wellcome Trust"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ChEMBL","wgRelevantArticleId":29260274,"wgRequestId":"W9br9QpAICEAAItzqFIAAABV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6120337","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/a/a1/Chembl_logo.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/ChEMBL" rel="alternate"/>
+<link href="/w/index.php?title=ChEMBL&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=ChEMBL&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/ChEMBL" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ChEMBL rootpage-ChEMBL skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">ChEMBL</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em;width:"><caption class="summary">ChEMBL</caption><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><a class="image" href="/wiki/File:Chembl_logo.png"><img alt="Chembl logo.png" data-file-height="97" data-file-width="219" height="97" src="//upload.wikimedia.org/wikipedia/commons/a/a1/Chembl_logo.png" width="219"/></a></th></tr><tr><th colspan="2" style="text-align:center;background-color: lavender">Content</th></tr><tr><th scope="row" style="white-space: nowrap">Description</th><td>
+<a href="/wiki/Biological_database" title="Biological database">Biological database</a></td></tr><tr><th scope="row" style="white-space: nowrap">Data types<br/>captured</th><td>
+Molecules with drug-like properties and <a href="/wiki/Biological_activity" title="Biological activity">biological activity</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: lavender">Contact</th></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Research_center" title="Research center">Research center</a></th><td>
+<a href="/wiki/European_Molecular_Biology_Laboratory" title="European Molecular Biology Laboratory">European Molecular Biology Laboratory</a></td></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Laboratory" title="Laboratory">Laboratory</a></th><td>
+<span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/></a></span> <a href="/wiki/European_Bioinformatics_Institute" title="European Bioinformatics Institute">European Bioinformatics Institute</a></td></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Author" title="Author">Authors</a></th><td>
+Andrew Leach, Team Leader 2016-Present; John Overington, Team Leader 2008-2015</td></tr><tr><th scope="row" style="white-space: nowrap">Primary citation</th><td>
+<style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21948594" rel="nofollow">21948594</a></td></tr><tr><th scope="row" style="white-space: nowrap">Release date</th><td>
+2009</td></tr><tr><th colspan="2" style="text-align:center;background-color: lavender">Access</th></tr><tr><th scope="row" style="white-space: nowrap">Website</th><td>
+<a class="external text" href="https://www.ebi.ac.uk/chembldb/" rel="nofollow">ChEMBL</a></td></tr><tr><th scope="row" style="white-space: nowrap">Download URL</th><td>
+<a class="external text" href="https://www.ebi.ac.uk/chembldb/index.php/downloads/" rel="nofollow">Downloads</a></td></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Web_service" title="Web service">Web service</a> URL</th><td>
+<a class="external text" href="https://www.ebi.ac.uk/chembl/ws" rel="nofollow">ChEMBL Webservices</a></td></tr><tr><th scope="row" style="white-space: nowrap"><a class="mw-redirect" href="/wiki/Sparql" title="Sparql">Sparql</a> endpoint</th><td>
+<a class="external text" href="http://www.ebi.ac.uk/rdf/services/chembl/sparql" rel="nofollow">ChEMBL EBI-RDF Platform</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: lavender">Miscellaneous</th></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Software_license" title="Software license">License</a></th><td>
+The ChEMBL data is made available on a <a class="mw-redirect" href="/wiki/Creative_Commons_Attribution-Share_Alike" title="Creative Commons Attribution-Share Alike">Creative Commons Attribution-Share Alike</a> 3.0 Unported Licence</td></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Software_versioning" title="Software versioning">Versioning</a></th><td>
+ChEMBL_22</td></tr></tbody></table>
+<p><b>ChEMBL</b> or <b>ChEMBLdb</b> is a manually curated <a href="/wiki/Chemical_database" title="Chemical database">chemical database</a> of <a href="/wiki/Biological_activity" title="Biological activity">bioactive</a> molecules with drug-like properties.<sup class="reference" id="cite_ref-Gaulton_1-0"><a href="#cite_note-Gaulton-1">[1]</a></sup>
+It is maintained by the <a href="/wiki/European_Bioinformatics_Institute" title="European Bioinformatics Institute">European Bioinformatics Institute</a> (EBI), of the European Molecular Biology Laboratory (<a class="mw-redirect" href="/wiki/EMBL" title="EMBL">EMBL</a>), based at the <a class="mw-redirect" href="/wiki/Wellcome_Trust_Genome_Campus" title="Wellcome Trust Genome Campus">Wellcome Trust Genome Campus</a>, Hinxton, UK.
+</p><p>The database, originally known as StARlite, was developed by a biotechnology company called Inpharmatica Ltd. later acquired by <a href="/wiki/Galapagos_NV" title="Galapagos NV">Galapagos NV</a>. The data was acquired for EMBL in 2008 with an award from The <a href="/wiki/Wellcome_Trust" title="Wellcome Trust">Wellcome Trust</a>, resulting in the creation of the ChEMBL <a href="/wiki/Chemogenomics" title="Chemogenomics">chemogenomics</a> group at EMBL-EBI, led by John Overington.<sup class="reference" id="cite_ref-Bender_2-0"><a href="#cite_note-Bender-2">[2]</a></sup><sup class="reference" id="cite_ref-pmid19194660_3-0"><a href="#cite_note-pmid19194660-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Scope_and_access"><span class="tocnumber">1</span> <span class="toctext">Scope and access</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Associated_resources"><span class="tocnumber">2</span> <span class="toctext">Associated resources</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Scope_and_access">Scope and access</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ChEMBL&amp;action=edit&amp;section=1" title="Edit section: Scope and access">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ChEMBL database contains compound bioactivity data against drug targets. Bioactivity is reported in Ki, Kd, IC50, and EC50.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Data can be filtered and analyzed to develop compound screening libraries for lead identification during drug discovery.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>ChEMBL version 2 (ChEMBL_02) was launched in January 2010, including 2.4 million <a href="/wiki/Bioassay" title="Bioassay">bioassay</a> measurements covering 622,824 compounds, including 24,000 natural products. This was obtained from curating over 34,000 publications across twelve <a href="/wiki/Medicinal_chemistry" title="Medicinal chemistry">medicinal chemistry</a> journals. ChEMBL's coverage of available bioactivity data has grown to become "the most comprehensive ever seen in a public database.".<sup class="reference" id="cite_ref-Bender_2-1"><a href="#cite_note-Bender-2">[2]</a></sup> In October 2010 ChEMBL version 8 (ChEMBL_08) was launched, with over 2.97 million bioassay measurements covering 636,269 compounds.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>ChEMBL_10 saw the addition of the <a href="/wiki/PubChem" title="PubChem">PubChem</a> confirmatory <a class="mw-redirect" href="/wiki/Assays" title="Assays">assays</a>, in order to integrate data that is comparable to the type and class of data contained within ChEMBL.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>ChEMBLdb can be accessed via a web interface or downloaded by <a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">File Transfer Protocol</a>. It is formatted in a manner amenable to computerized <a href="/wiki/Data_mining" title="Data mining">data mining</a>, and attempts to standardize activities between different publications, to enable comparative analysis.<sup class="reference" id="cite_ref-Gaulton_1-1"><a href="#cite_note-Gaulton-1">[1]</a></sup> ChEMBL is also integrated into other large-scale chemistry resources, including <a href="/wiki/PubChem" title="PubChem">PubChem</a> and the <a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a> system of the <a href="/wiki/Royal_Society_of_Chemistry" title="Royal Society of Chemistry">Royal Society of Chemistry</a>.
+</p>
+<h2><span class="mw-headline" id="Associated_resources">Associated resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ChEMBL&amp;action=edit&amp;section=2" title="Edit section: Associated resources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In addition to the database, the ChEMBL group have developed tools and resources for data mining.<sup class="reference" id="cite_ref-Bellis_8-0"><a href="#cite_note-Bellis-8">[8]</a></sup> These include Kinase SARfari, an integrated chemogenomics workbench focussed on <a class="mw-redirect" href="/wiki/Kinases" title="Kinases">kinases</a>. The system incorporates and links sequence, structure, compounds and <a href="/wiki/Screening_(medicine)" title="Screening (medicine)">screening data</a>.
+</p><p>GPCR SARfari is a similar workbench focused on <a class="mw-redirect" href="/wiki/GPCR" title="GPCR">GPCRs</a>, and ChEMBL-Neglected Tropical Diseases (ChEMBL-NTD) is a repository for <a class="mw-redirect" href="/wiki/Open_Access_movement" title="Open Access movement">Open Access</a> primary screening and medicinal chemistry data directed at <a href="/wiki/Endemism" title="Endemism">endemic</a> <a class="mw-redirect" href="/wiki/Tropical_diseases" title="Tropical diseases">tropical diseases</a> of the developing regions of the Africa, Asia, and the Americas. The primary purpose of ChEMBL-NTD is to provide a freely accessible and permanent archive and distribution centre for deposited data.<sup class="reference" id="cite_ref-Bender_2-2"><a href="#cite_note-Bender-2">[2]</a></sup>
+</p><p>July 2012 saw the release of a new <a class="external text" href="https://www.ebi.ac.uk/chembl/malaria/" rel="nofollow">malaria data service</a>, sponsored by the Medicines for Malaria Venture (<a class="external text" href="http://www.mmv.org/" rel="nofollow">MMV</a>), aimed at researchers around the globe. The data in this service includes compounds from the Malaria Box screening set, as well as the other donated malaria data found in ChEMBL-NTD.
+</p><p><a class="external text" href="http://chembl.blogspot.co.uk/2013/10/chembl-virtual-machine-aka-mychembl.html" rel="nofollow">myChEMBL</a>, the ChEMBL virtual machine, was released in October 2013 to allow users to access a complete and free, easy-to-install cheminformatics infrastructure.
+</p><p>In December 2013, the operations of the SureChem patent informatics database were transferred to EMBL-EBI. In a portmanteau, SureChem was renamed SureChEMBL.
+</p><p>2014 saw the introduction of the new resource <a class="external text" href="https://www.ebi.ac.uk/chembl/admesarfari" rel="nofollow">ADME SARfari</a> - a tool for predicting and comparing cross-species ADME targets.<sup class="reference" id="cite_ref-Davies_9-0"><a href="#cite_note-Davies-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ChEMBL&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.ebi.ac.uk/training/online/course/chembl-quick-tour" rel="nofollow">ChEMBL: Quick Tour on EBI Train OnLine</a></li>
+<li><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a></li>
+<li><a href="/wiki/DrugBank" title="DrugBank">DrugBank</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ChEMBL&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ChEMBL&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="590" data-file-width="1050" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/80px-Wikidata-logo.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a> has the property: 
+<ul><li><img alt="Disc Plain blue dark.svg" data-file-height="460" data-file-width="460" height="4" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/4px-Disc_Plain_blue_dark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/6px-Disc_Plain_blue_dark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/8px-Disc_Plain_blue_dark.svg.png 2x" style="vertical-align: middle" width="4"/> <b><i><a class="extiw" href="https://www.wikidata.org/wiki/Property_talk:P592" title="d:Property talk:P592">ChEMBL ID <small>(P592)</small></a></i></b> (see <span class="plainlinks"><a class="external text" href="https://query.wikidata.org/embed.html#SELECT%20%3FWikiData_item_%20%3FWikiData_item_Label%20%3Fvalue%20%3FvalueLabel%20%3FEnglish_WikiPedia_article%20%23Show%20data%20in%20this%20order%0A%7B%0A%09%3FWikiData_item_%20wdt%3AP592%20%3Fvalue%20.%20%23Collecting%20all%20items%20which%20have%20P592%20data%2C%20from%20whole%20WikiData%20item%20pages%0A%09OPTIONAL%20%7B%3FEnglish_WikiPedia_article%20schema%3Aabout%20%3FWikiData_item_%3B%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E%20.%7D%20%23If%20collected%20item%20has%20link%20to%20English%20WikiPedia%2C%20show%20that%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20%20%7D%20%23Show%20label%20in%20this%20language.%20%22en%22%20is%20English.%20%20%20%0A%7D%0ALIMIT%201000">uses</a></span>)</li></ul></td></tr></tbody></table>
+<ul><li><a class="external text" href="https://www.ebi.ac.uk/chembldb" rel="nofollow">ChEMBLdb</a></li>
+<li><a class="external text" href="https://www.ebi.ac.uk/chembl/sarfari/kinasesarfari" rel="nofollow">Kinase SARfari</a></li>
+<li><a class="external text" href="https://www.ebi.ac.uk/chemblntd" rel="nofollow">ChEMBL-Neglected Tropical Disease Archive</a></li>
+<li><a class="external text" href="https://www.ebi.ac.uk/chembl/sarfari/gpcrsarfari" rel="nofollow">GPCR SARfari</a></li>
+<li><a class="external text" href="http://chembl.blogspot.com/search/label/Peptide%20Drugs" rel="nofollow">The ChEMBL-og</a> Open data and drug discovery blog run by the ChEMBL team.</li></ul>
+<div aria-labelledby="Wellcome_Trust" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wellcome_Trust" title="Template:Wellcome Trust"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wellcome_Trust" title="Template talk:Wellcome Trust"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wellcome_Trust&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Wellcome_Trust" style="font-size:114%;margin:0 4em"><a href="/wiki/Wellcome_Trust" title="Wellcome Trust">Wellcome Trust</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Centres and institutes</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:9em;text-align: left;background-color: #eee;">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Francis_Crick_Institute" title="Francis Crick Institute">Francis Crick Institute</a></li>
+<li><a href="/wiki/Gurdon_Institute" title="Gurdon Institute">Gurdon Institute</a></li>
+<li>Sainsbury Wellcome Centre for Neural Circuits and Behaviour</li>
+<li><a href="/wiki/Science_Learning_Centres" title="Science Learning Centres">Science Learning Centres</a></li>
+<li><a href="/wiki/Wellcome_Trust_Centre_for_Cell-Matrix_Research" title="Wellcome Trust Centre for Cell-Matrix Research">WTC for Cell-Matrix Research</a></li>
+<li><a href="/wiki/Wellcome_Trust_Centre_for_Gene_Regulation_and_Expression" title="Wellcome Trust Centre for Gene Regulation and Expression">WTC for Gene Regulation and Expression</a></li>
+<li><a class="mw-redirect" href="/wiki/Wellcome_Trust_Centre_for_Human_Genetics" title="Wellcome Trust Centre for Human Genetics">WTC for Human Genetics</a></li>
+<li>WTC for Mitochondrial Research</li>
+<li>WTC for Molecular Parasitology</li>
+<li><a href="/wiki/Wellcome_Trust_Centre_for_Neuroimaging" title="Wellcome Trust Centre for Neuroimaging">WTC for Neuroimaging</a></li>
+<li><a href="/wiki/Wellcome_Trust_Centre_for_Stem_Cell_Research" title="Wellcome Trust Centre for Stem Cell Research">WTC for Stem Cell Research</a></li>
+<li><a href="/wiki/Wellcome_Sanger_Institute" title="Wellcome Sanger Institute">Wellcome Sanger Institute</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:9em;text-align: left;background-color: #eee;">Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wellcome_Trust_Centre_for_the_History_of_Medicine" title="Wellcome Trust Centre for the History of Medicine">Wellcome Trust Centre for the History of Medicine</a></li>
+<li><a href="/wiki/Wellcome_Research_Laboratories" title="Wellcome Research Laboratories">Wellcome Research Laboratories</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Wellcome.jpg"><img alt="Wellcome.jpg" data-file-height="1536" data-file-width="2048" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wellcome.jpg/180px-Wellcome.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wellcome.jpg/270px-Wellcome.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wellcome.jpg/360px-Wellcome.jpg 2x" width="180"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Projects and facilities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1000_Genomes_Project" title="1000 Genomes Project">1000 Genomes Project</a></li>
+<li><i><a href="/wiki/Big_Picture_(magazine)" title="Big Picture (magazine)">Big Picture</a></i></li>
+<li><a href="/wiki/Cambridge_Biomedical_Campus" title="Cambridge Biomedical Campus">Cambridge Biomedical Campus</a></li>
+<li><a href="/wiki/Cancer_Genome_Project" title="Cancer Genome Project">Cancer Genome Project</a></li>
+<li><a class="mw-selflink selflink">ChEMBL</a></li>
+<li><a href="/wiki/COSMIC_cancer_database" title="COSMIC cancer database">COSMIC cancer database</a></li>
+<li><a href="/wiki/DECIPHER" title="DECIPHER">DECIPHER</a></li>
+<li><a href="/wiki/Diamond_Light_Source" title="Diamond Light Source">Diamond Light Source</a></li>
+<li><i><a href="/wiki/ELife" title="ELife">eLife</a></i></li>
+<li><a class="mw-redirect" href="/wiki/Ensembl" title="Ensembl">Ensembl</a></li>
+<li><a href="/wiki/Farmcare" title="Farmcare">Farmcare</a></li>
+<li><a href="/wiki/Genome_Reference_Consortium" title="Genome Reference Consortium">Genome Reference Consortium</a></li>
+<li><a href="/wiki/Human_Genome_Project" title="Human Genome Project">Human Genome Project</a></li>
+<li><a href="/wiki/Malawi_Liverpool_Wellcome_Trust" title="Malawi Liverpool Wellcome Trust">Malawi Liverpool Wellcome Trust</a></li>
+<li><a href="/wiki/MEROPS" title="MEROPS">MEROPS</a></li>
+<li><a href="/wiki/Pfam" title="Pfam">Pfam</a></li>
+<li><a href="/wiki/Rfam" title="Rfam">Rfam</a></li>
+<li><a href="/wiki/UK_Biobank" title="UK Biobank">UK Biobank</a></li>
+<li><a href="/wiki/Wellcome_Collection" title="Wellcome Collection">Wellcome Collection</a></li>
+<li><a href="/wiki/Wellcome_Genome_Campus" title="Wellcome Genome Campus">Wellcome Genome Campus</a></li>
+<li><a href="/wiki/Wellcome_Library" title="Wellcome Library">Wellcome Library</a></li>
+<li><a href="/wiki/WormBase" title="WormBase">WormBase</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Board of Governors</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tobias_Bonhoeffer" title="Tobias Bonhoeffer">Tobias Bonhoeffer</a></li>
+<li>Alan Brown</li>
+<li><a href="/wiki/Damon_Buffini" title="Damon Buffini">Damon Buffini</a></li>
+<li><a class="extiw" href="https://www.wikidata.org/wiki/Q24716612" title="d:Q24716612">William Burns</a></li>
+<li><a href="/wiki/Kay_Davies" title="Kay Davies">Kay Davies</a></li>
+<li><a class="extiw" href="https://www.wikidata.org/wiki/Q21166726" title="d:Q21166726">Michael Ferguson</a></li>
+<li><a href="/wiki/Bryan_Grenfell" title="Bryan Grenfell">Bryan Grenfell</a></li>
+<li><a href="/wiki/Richard_Hynes" title="Richard Hynes">Richard Hynes</a></li>
+<li><a href="/wiki/Anne_Mandall_Johnson" title="Anne Mandall Johnson">Anne Johnson</a></li>
+<li><a href="/wiki/Eliza_Manningham-Buller" title="Eliza Manningham-Buller">Eliza Manningham-Buller</a></li>
+<li><a class="extiw" href="https://www.wikidata.org/wiki/Q21165217" title="d:Q21165217">Peter Rigby</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Executive Board</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jeremy_Farrar" title="Jeremy Farrar">Jeremy Farrar</a></li>
+<li>Stephen Caddick</li>
+<li>Simon Chaplin</li>
+<li>Tim Livett</li>
+<li>Clare Matterson</li>
+<li>Ted Smith</li>
+<li>Danny Truell</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Former directors</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="extiw" href="https://www.wikidata.org/wiki/Q24716880" title="d:Q24716880">Peter Williams</a> (1965–1991)</li>
+<li><a href="/wiki/Bridget_Ogilvie" title="Bridget Ogilvie">Bridget Ogilvie</a> (1991–1998)</li>
+<li><a href="/wiki/Michael_Dexter" title="Michael Dexter">Michael Dexter</a> (1998–2008)</li>
+<li><a href="/wiki/Mark_Walport" title="Mark Walport">Mark Walport</a> (2003–2013)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Other key people</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/William_Castell" title="William Castell">William Castell</a></li>
+<li><a href="/wiki/Dominic_Cadbury" title="Dominic Cadbury">Dominic Cadbury</a></li>
+<li><a class="mw-redirect" href="/wiki/Harold_Cook_(medical_historian)" title="Harold Cook (medical historian)">Harold Cook</a></li>
+<li><a href="/wiki/Oliver_Franks,_Baron_Franks" title="Oliver Franks, Baron Franks">Oliver Franks</a></li>
+<li><a href="/wiki/Roger_Gibbs" title="Roger Gibbs">Roger Gibbs</a></li>
+<li><a href="/wiki/Henry_Hallett_Dale" title="Henry Hallett Dale">Henry Dale</a></li>
+<li><a href="/wiki/Roy_Porter" title="Roy Porter">Roy Porter</a></li>
+<li><a class="extiw" href="https://www.wikidata.org/wiki/Q24727789" title="d:Q24727789">David Steel</a></li>
+<li><a href="/wiki/David_Ian_Stuart" title="David Ian Stuart">David Stuart</a></li>
+<li><a href="/wiki/John_Sulston" title="John Sulston">John Sulston</a></li>
+<li><a href="/wiki/Henry_Wellcome" title="Henry Wellcome">Henry Wellcome</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align: left;">Awards and fellowships</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Capital Awards</li>
+<li>Collaborative Awards in Science</li>
+<li>Investigator Awards in Science</li>
+<li>Institutional Strategic Support Fund</li>
+<li>Science Strategic Award</li>
+<li>Sir Henry Dale <a href="/wiki/Fellow" title="Fellow">Fellowship</a></li>
+<li>Sir Henry Wellcome <a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">Postdoctoral</a> Fellowship</li>
+<li><a href="/wiki/Wellcome_Book_Prize" title="Wellcome Book Prize">Wellcome Book Prize</a></li>
+<li>Wellcome Image Awards</li>
+<li>Wellcome Trust Centre</li>
+<li><a href="/wiki/Wellcome_Trust_Principal_Research_Fellow" title="Wellcome Trust Principal Research Fellow">Wellcome Trust Principal Research Fellow</a></li>
+<li>Wellcome Trust Senior Research Fellow</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Wellcome_Trust" title="Category:Wellcome Trust">Category</a></b></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20181026165509
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.420 seconds
+Real time usage: 0.514 seconds
+Preprocessor visited node count: 1263/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58318/2097152 bytes
+Template argument size: 3002/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 28444/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.178/10.000 seconds
+Lua memory usage: 4.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  391.627      1 -total
+ 51.83%  202.975      1 Template:Reflist
+ 38.41%  150.442      7 Template:Cite_journal
+ 33.93%  132.886      1 Template:Infobox_biodatabase
+ 30.39%  119.001      1 Template:Infobox
+ 16.35%   64.012      2 Template:If_empty
+ 12.03%   47.106      1 Template:Ifnumber
+ 11.35%   44.441      1 Template:PMID
+ 10.67%   41.776      1 Template:Catalog_lookup_link
+  6.64%   25.987      1 Template:Wellcome_Trust
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29260274-0!canonical and timestamp 20181026165508 and revision id 851049638
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=ChEMBL&amp;oldid=851049638">https://en.wikipedia.org/w/index.php?title=ChEMBL&amp;oldid=851049638</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Biological_databases" title="Category:Biological databases">Biological databases</a></li><li><a href="/wiki/Category:Chemical_databases" title="Category:Chemical databases">Chemical databases</a></li><li><a href="/wiki/Category:Science_and_technology_in_Cambridgeshire" title="Category:Science and technology in Cambridgeshire">Science and technology in Cambridgeshire</a></li><li><a href="/wiki/Category:South_Cambridgeshire" title="Category:South Cambridgeshire">South Cambridgeshire</a></li><li><a href="/wiki/Category:Wellcome_Trust" title="Category:Wellcome Trust">Wellcome Trust</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=ChEMBL" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=ChEMBL" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/ChEMBL" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:ChEMBL" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/ChEMBL">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=ChEMBL&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=ChEMBL&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/ChEMBL" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/ChEMBL" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=ChEMBL&amp;oldid=851049638" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=ChEMBL&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6120337" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=ChEMBL&amp;id=851049638" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=ChEMBL">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=ChEMBL&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=ChEMBL&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AE%D8%AA%D8%A8%D8%B1_%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%A6%D9%8A_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A_%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A" hreflang="ar" lang="ar" title="مختبر علم الأحياء الجزيئي الأوروبي الكيميائي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/ChEMBL" hreflang="ca" lang="ca" title="ChEMBL – Catalan">Català</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/ChEMBL" hreflang="el" lang="el" title="ChEMBL – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/ChEMBL" hreflang="es" lang="es" title="ChEMBL – Spanish">Español</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/ChEMBL" hreflang="gl" lang="gl" title="ChEMBL – Galician">Galego</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AB" hreflang="ja" lang="ja" title="ケンブル – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/ChEMBL" hreflang="pt" lang="pt" title="ChEMBL – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/ChEMBL" hreflang="sco" lang="sco" title="ChEMBL – Scots">Scots</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/ChEMBL" hreflang="sr" lang="sr" title="ChEMBL – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/ChEMBL" hreflang="sh" lang="sh" title="ChEMBL – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/ChEMBL" hreflang="tl" lang="tl" title="ChEMBL – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/ChEMBL" hreflang="uk" lang="uk" title="ChEMBL – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6120337#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 July 2018, at 18:30<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=ChEMBL&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.514","ppvisitednodes":{"value":1263,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58318,"limit":2097152},"templateargumentsize":{"value":3002,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28444,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  391.627      1 -total"," 51.83%  202.975      1 Template:Reflist"," 38.41%  150.442      7 Template:Cite_journal"," 33.93%  132.886      1 Template:Infobox_biodatabase"," 30.39%  119.001      1 Template:Infobox"," 16.35%   64.012      2 Template:If_empty"," 12.03%   47.106      1 Template:Ifnumber"," 11.35%   44.441      1 Template:PMID"," 10.67%   41.776      1 Template:Catalog_lookup_link","  6.64%   25.987      1 Template:Wellcome_Trust"]},"scribunto":{"limitreport-timeusage":{"value":"0.178","limit":"10.000"},"limitreport-memusage":{"value":4687469,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20181026165509","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1331"});});</script>
+</body>
+</html>

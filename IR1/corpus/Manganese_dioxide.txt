@@ -1,0 +1,712 @@
+https://en.wikipedia.org/wiki/Manganese_dioxide
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Manganese dioxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Manganese_dioxide","wgTitle":"Manganese dioxide","wgCurRevisionId":856779752,"wgRevisionId":856779752,"wgArticleId":305225,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles without InChI source","Articles without KEGG source","Articles without UNII source","Articles with changed EBI identifier","ECHA InfoCard ID from Wikidata","Chembox having DSD data","Articles containing unverified chemical infoboxes","All articles with unsourced statements","Articles with unsourced statements from September 2015","Articles with unsourced statements from December 2014","Manganese compounds","Oxide minerals","Oxides","Inorganic pigments"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Manganese_dioxide","wgRelevantArticleId":305225,"wgRequestId":"W9NMrgpAADoAAFnfyiwAAACB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q407674","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/3/35/Manganese%28IV%29_oxide.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Manganese_dioxide" rel="alternate"/>
+<link href="/w/index.php?title=Manganese_dioxide&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Manganese_dioxide&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Manganese_dioxide" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Manganese_dioxide rootpage-Manganese_dioxide skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Manganese dioxide</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left; ;">
+<caption style="text-align:center;">Manganese dioxide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a class="image" href="/wiki/File:Manganese(IV)_oxide.jpg" title="Manganese(IV) oxideMn4O2"><img alt="Manganese(IV) oxideMn4O2" data-file-height="325" data-file-width="452" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manganese%28IV%29_oxide.jpg/220px-Manganese%28IV%29_oxide.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manganese%28IV%29_oxide.jpg/330px-Manganese%28IV%29_oxide.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manganese%28IV%29_oxide.jpg/440px-Manganese%28IV%29_oxide.jpg 2x" width="220"/></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a class="image" href="/wiki/File:Rutile-unit-cell-3D-balls.png"><img alt="Rutile-unit-cell-3D-balls.png" data-file-height="784" data-file-width="1100" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/220px-Rutile-unit-cell-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/330px-Rutile-unit-cell-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/440px-Rutile-unit-cell-3D-balls.png 2x" width="220"/></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC names</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Manganese oxide<br/>Manganese(IV) oxide</div>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;"><a href="/wiki/Pyrolusite" title="Pyrolusite">Pyrolusite</a>, hyperoxide of manganese, black oxide of manganese, manganic oxide</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=1313-13-9" rel="nofollow">1313-13-9</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a class="mw-redirect" href="/wiki/JSmol" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3D%5BMn%5D%3DO" rel="nofollow">Interactive image</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=136511" rel="nofollow">CHEBI:136511</a></span><sup> <img alt="☒" data-file-height="600" data-file-width="525" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" width="7"/><span style="display:none">N</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a class="external text" href="http://www.chemspider.com/Chemical-Structure.14117.html" rel="nofollow">14117</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/ECHA_InfoCard" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.013.821" rel="nofollow">100.013.821</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_Community_number" title="European Community number"><span title="European Community number (chemical identifier)">EC Number</span></a>
+</td>
+<td>215-202-6
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/14801" rel="nofollow">14801</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/RTECS" title="RTECS">RTECS number</a>
+</td>
+<td>OP0350000
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/Mn.2O<sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: NUJOXMJBOLGQSY-UHFFFAOYSA-N<sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">O=[Mn]=O</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td><span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>86.9368 g/mol   
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>Brown-black solid
+</td></tr>
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>5.026 g/cm<sup>3</sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td> 535 °C (995 °F; 808 K) (decomposes)
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>insoluble
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">Magnetic susceptibility</a> (χ)</div>
+</td>
+<td>+2280.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Thermochemistry
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_molar_entropy" title="Standard molar entropy">Std molar<br/>entropy</a> (<i>S</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>53 J·mol<sup>−1</sup>·K<sup>−1</sup><sup class="reference" id="cite_ref-b1_1-0"><a href="#cite_note-b1-1">[1]</a></sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a class="mw-redirect" href="/wiki/Standard_enthalpy_change_of_formation" title="Standard enthalpy change of formation">Std enthalpy of<br/>formation</a> (Δ<sub>f</sub><i>H</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>−520 kJ·mol<sup>−1</sup><sup class="reference" id="cite_ref-b1_1-1"><a href="#cite_note-b1-1">[1]</a></sup>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+<tr>
+<td><a href="/wiki/Safety_data_sheet" title="Safety data sheet">Safety data sheet</a>
+</td>
+<td><a class="external text" href="http://www.inchem.org/documents/icsc/icsc/eics0175.htm" rel="nofollow">ICSC 0175</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Dangerous_Substances_Directive_(67/548/EEC)" title="Dangerous Substances Directive (67/548/EEC)">EU classification</a> (DSD) <span style="background:moccasin; line-height:85%;"><a href="/wiki/CLP_Regulation#Implementation" title="CLP Regulation"><small title="Per CLP Regulation, outdated per 1 June 2017. Replaced by GHS data"><i>(outdated)</i></small></a></span></div>
+</td>
+<td>Harmful (<b>Xn</b>)<br/>Oxidizer (<b>O</b>)
+</td></tr>
+<tr>
+<td><a href="/wiki/List_of_R-phrases" title="List of R-phrases">R-phrases</a> <span style="background:moccasin; line-height:85%;"><a href="/wiki/CLP_Regulation#Implementation" title="CLP Regulation"><small title="Per CLP Regulation, outdated per 1 June 2017. Replaced by GHS data"><i>(outdated)</i></small></a></span>
+</td>
+<td><a class="mw-redirect" href="/wiki/R20/22:_Harmful_by_inhalation_and_if_swallowed" title="R20/22: Harmful by inhalation and if swallowed"><abbr class="abbr" title="R20/22: Harmful by inhalation and if swallowed">R20/22</abbr></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/List_of_S-phrases" title="List of S-phrases">S-phrases</a> <span style="background:moccasin; line-height:85%;"><a href="/wiki/CLP_Regulation#Implementation" title="CLP Regulation"><small title="Per CLP Regulation, outdated per 1 June 2017. Replaced by GHS data"><i>(outdated)</i></small></a></span>
+</td>
+<td><a class="mw-redirect" href="/wiki/(S2):_Keep_out_of_the_reach_of_children" title="(S2): Keep out of the reach of children"><abbr class="abbr" title="(S2): Keep out of the reach of children">(S2)</abbr></a>, <a class="mw-redirect" href="/wiki/S25:_Avoid_contact_with_eyes" title="S25: Avoid contact with eyes"><abbr class="abbr" title="S25: Avoid contact with eyes">S25</abbr></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/NFPA_704" title="NFPA 704">NFPA 704</a>
+</td>
+<td><div style="width:100%; background:transparent;"><div id="container" style="margin:0 auto; width:82px; font-family:sans-serif"><div class="nounderlines" id="on_image_elements" style="background:; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_1_41675025"><area alt="Flammability code 1: Must be pre-heated before ignition can occur. Flash point over 93 °C (200 °F). E.g., canola oil" coords="40,0,60,20,40,40,20,20" href="/wiki/NFPA_704#Red" shape="poly" title="Flammability code 1: Must be pre-heated before ignition can occur. Flash point over 93 °C (200 °F). E.g., canola oil"/><area alt="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine" coords="20,20,40,40,20,60,0,40" href="/wiki/NFPA_704#Blue" shape="poly" title="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine"/><area alt="Reactivity code 2: Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water. E.g., phosphorus" coords="60,20,80,40,60,60,40,40" href="/wiki/NFPA_704#Yellow" shape="poly" title="Reactivity code 2: Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water. E.g., phosphorus"/><area alt="Special hazard OX: Oxidizer. E.g., potassium perchlorate" coords="40,40,60,60,40,80,20,60" href="/wiki/NFPA_704#White" shape="poly" title="Special hazard OX: Oxidizer. E.g., potassium perchlorate"/></map><img alt="NFPA 704 four-colored diamond" data-file-height="600" data-file-width="600" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" usemap="#ImageMap_1_41675025" width="80"/></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+<a href="/wiki/NFPA_704#Red" title="NFPA 704"><span style="color:black;" title="Flammability code 1: Must be pre-heated before ignition can occur. Flash point over 93 °C (200 °F). E.g., canola oil">1</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+<a href="/wiki/NFPA_704#Blue" title="NFPA 704"><span style="color:black;" title="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine">1</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+<a href="/wiki/NFPA_704#Yellow" title="NFPA 704"><span style="color:black;" title="Reactivity code 2: Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water. E.g., phosphorus">2</span></a></div><div style="vertical-align:middle; text-align:center; line-height:80%; position:absolute; top:52px;"><a href="/wiki/NFPA_704#White" title="NFPA 704"><span style="font-size:15px; color:black; width:23px; position:absolute; left:29px;" title="Special hazard OX: Oxidizer. E.g., potassium perchlorate">OX</span></a></div></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flash_point" title="Flash point">Flash point</a>
+</td>
+<td> 535 °C (995 °F; 808 K) 
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Related compounds
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Other <a href="/wiki/Ion" title="Ion">anions</a></div>
+</td>
+<td><a href="/wiki/Manganese_disulfide" title="Manganese disulfide">Manganese disulfide</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Other <a href="/wiki/Ion" title="Ion">cations</a></div>
+</td>
+<td><a class="new" href="/w/index.php?title=Technetium_dioxide&amp;action=edit&amp;redlink=1" title="Technetium dioxide (page does not exist)">Technetium dioxide</a><br/><a class="mw-redirect" href="/wiki/Rhenium_dioxide" title="Rhenium dioxide">Rhenium dioxide</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related <a href="/wiki/Manganese" title="Manganese">manganese</a> <a href="/wiki/Oxide" title="Oxide">oxides</a></div>
+</td>
+<td><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a><br/><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a><br/><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a><br/><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25 °C [77 °F], 100 kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☒" data-file-height="600" data-file-width="525" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/12px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/18px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/24px-X_mark.svg.png 2x" width="12"/><span style="display:none">N</span> <span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=445299286&amp;page2=Manganese+dioxide">verify</a></span> (<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a> <sup><img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span><img alt="☒" data-file-height="600" data-file-width="525" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" width="7"/><span style="display:none">N</span></sup> ?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Manganese(IV) oxide</b> is the <a href="/wiki/Inorganic_compound" title="Inorganic compound">inorganic compound</a> with the <a href="/wiki/Chemical_formula" title="Chemical formula">formula</a> <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>. This blackish or brown solid occurs naturally as the mineral <a href="/wiki/Pyrolusite" title="Pyrolusite">pyrolusite</a>, which is the main ore of <a href="/wiki/Manganese" title="Manganese">manganese</a> and a component of <a href="/wiki/Manganese_nodule" title="Manganese nodule">manganese nodules</a>. The principal use for <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> is for dry-cell <a class="mw-redirect" href="/wiki/Battery_(electricity)" title="Battery (electricity)">batteries</a>, such as the <a href="/wiki/Alkaline_battery" title="Alkaline battery">alkaline battery</a> and the <a class="mw-redirect" href="/wiki/Zinc-carbon_battery" title="Zinc-carbon battery">zinc-carbon battery</a>.<sup class="reference" id="cite_ref-G&amp;E_2-0"><a href="#cite_note-G&amp;E-2">[2]</a></sup> <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> is also used as a <a href="/wiki/Pigment" title="Pigment">pigment</a> and as a precursor to other manganese compounds, such as <span class="chemf nowrap"><a href="/wiki/Potassium_permanganate" title="Potassium permanganate">KMnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></a></span>.  It is used as a <a href="/wiki/Reagent" title="Reagent">reagent</a> in <a href="/wiki/Organic_synthesis" title="Organic synthesis">organic synthesis</a>, for example, for the oxidation of <a class="mw-redirect" href="/wiki/Allylic" title="Allylic">allylic</a> <a href="/wiki/Alcohol" title="Alcohol">alcohols</a>. <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> in the α polymorph can incorporate a variety of atoms (as well as water molecules) in the "tunnels" or "channels" between the manganese oxide octahedra. There is considerable interest in <span class="chemf nowrap">α-MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> as a possible cathode for <a class="mw-redirect" href="/wiki/Lithium_ion_battery" title="Lithium ion battery">lithium ion batteries</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Production"><span class="tocnumber">2</span> <span class="toctext">Production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Chemical_manganese_dioxide"><span class="tocnumber">2.1</span> <span class="toctext">Chemical manganese dioxide</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Electrolytic_manganese_dioxide"><span class="tocnumber">2.2</span> <span class="toctext">Electrolytic manganese dioxide</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Reactions"><span class="tocnumber">3</span> <span class="toctext">Reactions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Reduction"><span class="tocnumber">3.1</span> <span class="toctext">Reduction</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Oxidation"><span class="tocnumber">3.2</span> <span class="toctext">Oxidation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Applications"><span class="tocnumber">4</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Organic_synthesis"><span class="tocnumber">4.1</span> <span class="toctext">Organic synthesis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Hazards"><span class="tocnumber">5</span> <span class="toctext">Hazards</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several <a href="/wiki/Polymorphism_(materials_science)" title="Polymorphism (materials science)">polymorphs</a> of <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> are claimed, as well as a hydrated form. Like many other dioxides, <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> crystallizes in the <a href="/wiki/Rutile" title="Rutile">rutile</a> <a href="/wiki/Crystal_structure" title="Crystal structure">crystal structure</a> (this polymorph is called <span class="chemf nowrap">β-MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>), with three-coordinate oxide and octahedral metal centres.<sup class="reference" id="cite_ref-G&amp;E_2-1"><a href="#cite_note-G&amp;E-2">[2]</a></sup> <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> is characteristically <a class="mw-redirect" href="/wiki/Nonstoichiometric_compound" title="Nonstoichiometric compound">nonstoichiometric</a>, being deficient in oxygen. The complicated <a href="/wiki/Solid-state_chemistry" title="Solid-state chemistry">solid-state chemistry</a> of this material is relevant to the lore of "freshly prepared" <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> in <a href="/wiki/Organic_synthesis" title="Organic synthesis">organic synthesis</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2015)">citation needed</span></a></i>]</sup> The α-polymorph of <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> has a very open structure with "channels" which can accommodate metal atoms such as silver or barium. <span class="chemf nowrap">α-MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> is often called <a href="/wiki/Hollandite" title="Hollandite">Hollandite</a>, after a closely related mineral.
+</p>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=2" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Naturally occurring manganese dioxide contains impurities and a considerable amount of <a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">manganese(III) oxide</a>. Only a limited number of deposits contain the γ modification in purity sufficient for the battery industry.
+</p><p>Production of <a class="mw-redirect" href="/wiki/Battery_(electricity)" title="Battery (electricity)">batteries</a> and <a href="/wiki/Ferrite_(magnet)" title="Ferrite (magnet)">ferrite</a> (two of the primary uses of manganese dioxide) requires high purity manganese dioxide. Batteries require "electrolytic manganese dioxide" while ferrites require "chemical manganese dioxide".<sup class="reference" id="cite_ref-ChiuZMnO2_5-0"><a href="#cite_note-ChiuZMnO2-5">[5]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Chemical_manganese_dioxide">Chemical manganese dioxide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=3" title="Edit section: Chemical manganese dioxide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One method starts with natural manganese dioxide and converts it using <a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">dinitrogen tetroxide</a> and water to a <a href="/wiki/Manganese(II)_nitrate" title="Manganese(II) nitrate">manganese(II) nitrate</a> solution. Evaporation of the water, leaves the crystalline nitrate salt. At temperatures of 400 °C, the salt decomposes, releasing <span class="chemf nowrap">N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> and leaving a residue of purified manganese dioxide.<sup class="reference" id="cite_ref-ChiuZMnO2_5-1"><a href="#cite_note-ChiuZMnO2-5">[5]</a></sup>  These two steps can be summarized as:
+</p>
+<dl><dd><span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  <span class="chemf nowrap">N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>  ⇌   <span class="chemf nowrap">Mn(NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>)<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></dd></dl>
+<p>In another process manganese dioxide is carbothermically reduced to <a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">manganese(II) oxide</a> which is dissolved in <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a>. The filtered solution is treated with <a href="/wiki/Ammonium_carbonate" title="Ammonium carbonate">ammonium carbonate</a> to precipitate <span class="chemf nowrap">MnCO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>. The carbonate is <a class="mw-redirect" href="/wiki/Calcined" title="Calcined">calcined</a> in air to give a mixture of manganese(II) and manganese(IV) oxides. To complete the process, a suspension of this material in sulfuric acid is treated with <a href="/wiki/Sodium_chlorate" title="Sodium chlorate">sodium chlorate</a>. <a href="/wiki/Chloric_acid" title="Chloric acid">Chloric acid</a>, which forms in situ, converts any Mn(III) and Mn(II) oxides to the dioxide, releasing chlorine as a by-product.<sup class="reference" id="cite_ref-ChiuZMnO2_5-2"><a href="#cite_note-ChiuZMnO2-5">[5]</a></sup>
+</p><p>A third process involves <a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">manganese heptoxide</a> and <a class="mw-redirect" href="/wiki/Manganese_monoxide" title="Manganese monoxide">manganese monoxide</a>. The two reagents combine with a 1:3 ratio to form manganese dioxide:
+</p>
+<dl><dd><span class="chemf nowrap">Mn<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span> + 3 MnO → 5 <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></dd></dl>
+<p>Lastly the action of <a href="/wiki/Potassium_permanganate" title="Potassium permanganate">potassium permanganate</a> over <a class="mw-redirect" href="/wiki/Manganese_sulfate" title="Manganese sulfate">manganese sulphate</a> crystals produces the desired oxide.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<dl><dd>2 <span class="chemf nowrap">KMnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + 3 <span class="chemf nowrap">MnSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + 2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span>→ 5 <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + <span class="chemf nowrap">K<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + 2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></dd></dl>
+<h3><span class="mw-headline" id="Electrolytic_manganese_dioxide">Electrolytic manganese dioxide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=4" title="Edit section: Electrolytic manganese dioxide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Electrolytic manganese dioxide (EMD) is used in <a href="/wiki/Zinc%E2%80%93carbon_battery" title="Zinc–carbon battery">zinc–carbon batteries</a> together with <a href="/wiki/Zinc_chloride" title="Zinc chloride">zinc chloride</a> and <a href="/wiki/Ammonium_chloride" title="Ammonium chloride">ammonium chloride</a>. EMD is commonly used in zinc manganese dioxide rechargeable alkaline (Zn RAM) cells also. For these applications, purity is extremely important. EMD is produced in a similar fashion as <a class="mw-redirect" href="/wiki/Copper_extraction_techniques#Electrorefining" title="Copper extraction techniques">electrolytic tough pitch (ETP) copper</a>: The manganese dioxide is dissolved in <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> (sometimes mixed with <a class="mw-redirect" href="/wiki/Manganese_sulfate" title="Manganese sulfate">manganese sulfate</a>) and subjected to a current between two electrodes. The MnO2 dissolves, enters solution as the sulfate, and is deposited on the anode.
+</p>
+<h2><span class="mw-headline" id="Reactions">Reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=5" title="Edit section: Reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The important reactions of <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> are associated with its redox, both oxidation and reduction.
+</p>
+<h3><span class="mw-headline" id="Reduction">Reduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=6" title="Edit section: Reduction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> is the principal  <a href="/wiki/Precursor_(chemistry)" title="Precursor (chemistry)">precursor</a> to <a href="/wiki/Ferromanganese" title="Ferromanganese">ferromanganese</a> and related alloys, which are widely used in the steel industry.  The conversions involve <a class="mw-redirect" href="/wiki/Carbothermal_reduction" title="Carbothermal reduction">carbothermal reduction</a> using <a href="/wiki/Coke_(fuel)" title="Coke (fuel)">coke</a>:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2014)">citation needed</span></a></i>]</sup>
+</p>
+<dl><dd><span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  2 C   →  Mn  +  2 CO</dd></dl>
+<p>The key reactions of <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> in batteries is the one-electron reduction:
+</p>
+<dl><dd><span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  e<sup>−</sup>  +  <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>   →  MnO(OH)</dd></dl>
+<p><span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> <a href="/wiki/Catalysis" title="Catalysis">catalyses</a> several reactions that form <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>.  In a classical laboratory demonstration, heating a mixture of <a href="/wiki/Potassium_chlorate" title="Potassium chlorate">potassium chlorate</a> and manganese dioxide produces oxygen gas.  Manganese dioxide also catalyses the decomposition of <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a> to oxygen and <a class="mw-redirect" href="/wiki/Water_(molecule)" title="Water (molecule)">water</a>:
+</p>
+<dl><dd>2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>   →  2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span>  +  <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></dd></dl>
+<p>Manganese dioxide decomposes above about 530 °C to <a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">manganese(III) oxide</a> and oxygen.  At temperatures close to 1000 °C, the <a class="mw-redirect" href="/wiki/Mixed-valence_compound" title="Mixed-valence compound">mixed-valence compound</a> <span class="chemf nowrap">Mn<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> forms.  Higher temperatures give MnO.
+</p><p>Hot concentrated <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> reduces the <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> to <a href="/wiki/Manganese(II)_sulfate" title="Manganese(II) sulfate">manganese(II) sulfate</a>:<sup class="reference" id="cite_ref-G&amp;E_2-2"><a href="#cite_note-G&amp;E-2">[2]</a></sup>
+</p>
+<dl><dd>2 <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + 2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>   →   2 <span class="chemf nowrap">MnSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>  +  <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span></dd></dl>
+<p>The reaction of <a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">hydrogen chloride</a> with <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> was used by <a href="/wiki/Carl_Wilhelm_Scheele" title="Carl Wilhelm Scheele">Carl Wilhelm Scheele</a> in the original isolation of <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> gas in 1774:
+</p>
+<dl><dd><span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  4 HCl  →   <span class="chemf nowrap">MnCl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  <span class="chemf nowrap">Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span></dd></dl>
+<p>As a source of hydrogen chloride, Scheele treated <a href="/wiki/Sodium_chloride" title="Sodium chloride">sodium chloride</a> with concentrated sulfuric acid.<sup class="reference" id="cite_ref-G&amp;E_2-3"><a href="#cite_note-G&amp;E-2">[2]</a></sup>
+</p>
+<dl><dd><dl><dd><i>E</i><sup><s>o</s></sup> (<span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>(s)  +  4 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>  +  2 e<sup>−</sup>   ⇌   Mn<sup>2+</sup>  +  2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span>) = +1.23 V</dd>
+<dd><i>E</i><sup><s>o</s></sup> (<span class="chemf nowrap">Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>(g) + 2 e<sup>−</sup> ⇌ 2 Cl<sup>−</sup>) = +1.36 V</dd></dl></dd></dl>
+<p>The <a href="/wiki/Standard_electrode_potential" title="Standard electrode potential">standard electrode potentials</a> for the <a class="mw-redirect" href="/wiki/Half_reaction" title="Half reaction">half reactions</a> indicate that the reaction is <a class="mw-redirect" href="/wiki/Endothermic" title="Endothermic">endothermic</a> at pH = 0 (1 M [<span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>]), but it is favoured by the lower <a href="/wiki/PH" title="PH">pH</a> as well as the evolution (and removal) of gaseous chlorine.
+</p><p>This reaction is also a convenient way to remove the manganese dioxide <a class="mw-redirect" href="/wiki/Precipitate" title="Precipitate">precipitate</a> from the <a href="/wiki/Ground_glass_joint" title="Ground glass joint">ground glass joints</a> after running a reaction (i. e., an oxidation with <a href="/wiki/Potassium_permanganate" title="Potassium permanganate">potassium permanganate</a>).
+</p>
+<h3><span class="mw-headline" id="Oxidation">Oxidation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=7" title="Edit section: Oxidation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Heating a mixture of <a href="/wiki/Potassium_hydroxide" title="Potassium hydroxide">KOH</a> and <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> in air gives green <a href="/wiki/Potassium_manganate" title="Potassium manganate">potassium manganate</a>:
+</p>
+<dl><dd>2 <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  4 KOH  +   <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  →  2 <span class="chemf nowrap">K<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>  +   2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span></dd></dl>
+<p>Potassium manganate is the precursor to <a href="/wiki/Potassium_permanganate" title="Potassium permanganate">potassium permanganate</a>, a common oxidant.
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=8" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The predominant application of <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> is as a component of <a href="/wiki/Dry_cell" title="Dry cell">dry cell</a> batteries, so called <a href="/wiki/Leclanch%C3%A9_cell" title="Leclanché cell">Leclanché cell</a>, or <a href="/wiki/Zinc%E2%80%93carbon_battery" title="Zinc–carbon battery">zinc–carbon batteries</a>.  Approximately 500,000 <a href="/wiki/Tonne" title="Tonne">tonnes</a> are consumed for this application annually.<sup class="reference" id="cite_ref-Ullmann_7-0"><a href="#cite_note-Ullmann-7">[7]</a></sup>  Other industrial applications include the use of <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> as an inorganic <a href="/wiki/Pigment" title="Pigment">pigment</a> in <a href="/wiki/Ceramic" title="Ceramic">ceramics</a> and in <a class="mw-redirect" href="/wiki/Glassmaking" title="Glassmaking">glassmaking</a>.
+</p>
+<h3><span class="mw-headline" id="Organic_synthesis">Organic synthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=9" title="Edit section: Organic synthesis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A specialized use of manganese dioxide is as oxidant in <a href="/wiki/Organic_synthesis" title="Organic synthesis">organic synthesis</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> The effectiveness of the reagent depends on the method of preparation, a problem that is typical for other heterogeneous reagents where surface area, among other variables, is a significant factor.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> The mineral <a href="/wiki/Pyrolusite" title="Pyrolusite">pyrolusite</a> makes a poor reagent. Usually, however, the reagent is generated in situ by treatment of an aqueous solution <span class="chemf nowrap">KMnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> with a Mn(II) salt, typically the sulfate.  <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> oxidizes <a class="mw-redirect" href="/wiki/Allylic" title="Allylic">allylic</a> alcohols to the corresponding <a href="/wiki/Aldehyde" title="Aldehyde">aldehydes</a> or <a href="/wiki/Ketone" title="Ketone">ketones</a>:<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<dl><dd><dl><dd>cis-RCH=<span class="chemf nowrap">CHCH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>OH</span>  +  <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  →  cis-RCH=CHCHO  +  <a class="mw-redirect" href="/wiki/MnO" title="MnO">MnO</a>  +  <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span></dd></dl></dd></dl>
+<p>The configuration of the <a href="/wiki/Double_bond" title="Double bond">double bond</a> is conserved in the reaction. The corresponding <a href="/wiki/Acetylenic" title="Acetylenic">acetylenic</a> alcohols are also suitable substrates, although the resulting <a class="mw-redirect" href="/wiki/Propargylic" title="Propargylic">propargylic</a> aldehydes can be quite reactive. <a class="mw-redirect" href="/wiki/Benzylic" title="Benzylic">Benzylic</a> and even unactivated alcohols are also good substrates. 1,2-<a href="/wiki/Diol" title="Diol">Diols</a> are cleaved by <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> to <a class="mw-redirect" href="/wiki/Dialdehyde" title="Dialdehyde">dialdehydes</a> or <a href="/wiki/Diketone" title="Diketone">diketones</a>. Otherwise, the applications of <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> are numerous, being applicable to many kinds of reactions including <a href="/wiki/Amine" title="Amine">amine</a> oxidation, aromatization, <a href="/wiki/Oxidative_coupling" title="Oxidative coupling">oxidative coupling</a>, and <a href="/wiki/Thiol" title="Thiol">thiol</a> oxidation.
+</p>
+<h2><span class="mw-headline" id="Hazards">Hazards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=10" title="Edit section: Hazards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chronic exposures to contaminated air with manganese dioxide particles can cause <a href="/wiki/Manganism" title="Manganism">manganism</a>.  MnO2 is classed as a cumulative neurotoxin according to the MSDS for Manganese Dioxide.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_inorganic_pigments" title="List of inorganic pigments">List of inorganic pigments</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manganese_dioxide&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.mn-consortium.org/" rel="nofollow">REACH Mn Consortium</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20050218190527/http://www.orgsyn.org/orgsyn/chemname.asp?nameID=33430" rel="nofollow">Index of Organic Synthesis procedures utilizing <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a class="external text" href="https://www.organic-chemistry.org/chemicals/oxidations/manganese(IV)oxide.shtm" rel="nofollow">Example Reactions with Mn(IV) oxide</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20060301151751/http://www.npi.gov.au/database/substance-info/profiles/52.html" rel="nofollow">National Pollutant Inventory - Manganese and compounds Fact Sheet</a></li>
+<li><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=14801" rel="nofollow">PubChem summary of <span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a class="external text" href="http://www.inchem.org/documents/icsc/icsc/eics0175.htm" rel="nofollow">International Chemical Safety Card 0175</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20041124065033/http://ceramic-materials.com/cermat/education/139.html" rel="nofollow">Potters Manganese Toxicity by Elke Blodgett</a></li></ul>
+<div aria-labelledby="Manganese_compounds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Manganese_compounds" title="Template:Manganese compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Manganese_compounds" title="Template talk:Manganese compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Manganese_compounds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Manganese_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Manganese" title="Manganese">Manganese</a> compounds</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">MnO</a></li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Mn<sub>3</sub>O<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Manganese(II,IV)_oxide&amp;action=edit&amp;redlink=1" title="Manganese(II,IV) oxide (page does not exist)">Mn<sub>5</sub>O<sub>8</sub></a></li>
+<li><a href="/wiki/Manganese(II)_sulfide" title="Manganese(II) sulfide">MnS</a></li>
+<li><a class="new" href="/w/index.php?title=Manganese(IV)_sulfide&amp;action=edit&amp;redlink=1" title="Manganese(IV) sulfide (page does not exist)">MnS<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(II)_sulfate" title="Manganese(II) sulfate">MnSO<sub>4</sub></a></li>
+<li><a href="/wiki/Manganese_diselenide" title="Manganese diselenide">MnSe<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(II)_selenide" title="Manganese(II) selenide">MnSe</a></li>
+<li><a href="/wiki/Manganese(II)_telluride" title="Manganese(II) telluride">MnTe</a></li>
+<li><a href="/wiki/Manganese(II)_nitrate" title="Manganese(II) nitrate">Mn(NO<sub>3</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(II)_carbonate" title="Manganese(II) carbonate">MnCO<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese(II)_chloride" title="Manganese(II) chloride">MnCl<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Manganese(III)_chloride&amp;action=edit&amp;redlink=1" title="Manganese(III) chloride (page does not exist)">MnCl<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Manganese(IV)_Chloride&amp;action=edit&amp;redlink=1" title="Manganese(IV) Chloride (page does not exist)">MnCl<sub>4</sub></a></li>
+<li><a href="/wiki/Manganese(II)_fluoride" title="Manganese(II) fluoride">MnF<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(II)_bromide" title="Manganese(II) bromide">MnBr<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(II)_iodide" title="Manganese(II) iodide">MnI<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(II)_titanate" title="Manganese(II) titanate">MnTiO<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese(II)_molybdate" title="Manganese(II) molybdate">MnMoO<sub>4</sub></a></li>
+<li><a href="/wiki/Manganese(II)_acetate" title="Manganese(II) acetate">Mn(CH<sub>3</sub>COO)<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Mn<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese(III)_fluoride" title="Manganese(III) fluoride">MnF<sub>3</sub></a></li>
+<li><a href="/wiki/Potassium_dimanganate(III)" title="Potassium dimanganate(III)">K<sub>6</sub>Mn<sub>2</sub>O<sub>6</sub></a></li>
+<li><a class="mw-selflink selflink">MnO<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(II)_hydroxide" title="Manganese(II) hydroxide">Mn(OH)<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Manganese_trioxide&amp;action=edit&amp;redlink=1" title="Manganese trioxide (page does not exist)">MnO<sub>3</sub></a></li>
+<li><a href="/wiki/Potassium_hypomanganate" title="Potassium hypomanganate">K<sub>3</sub>MnO<sub>4</sub></a></li>
+<li><a href="/wiki/Manganese(IV)_fluoride" title="Manganese(IV) fluoride">MnF<sub>4</sub></a></li>
+<li><a href="/wiki/Sodium_manganate" title="Sodium manganate">Na<sub>2</sub>MnO<sub>4</sub></a></li>
+<li><a href="/wiki/Potassium_manganate" title="Potassium manganate">K<sub>2</sub>MnO<sub>4</sub></a></li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Mn<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Sodium_permanganate" title="Sodium permanganate">NaMnO<sub>4</sub></a></li>
+<li><a href="/wiki/Potassium_permanganate" title="Potassium permanganate">KMnO<sub>4</sub></a></li>
+<li><a href="/wiki/Ammonium_permanganate" title="Ammonium permanganate">NH<sub>4</sub>MnO<sub>4</sub></a></li>
+<li><a href="/wiki/Silver_permanganate" title="Silver permanganate">AgMnO<sub>4</sub></a></li>
+<li><a href="/wiki/Calcium_permanganate" title="Calcium permanganate">Ca(MnO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Barium_permanganate" title="Barium permanganate">Ba(MnO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Pentacarbonylhydridomanganese" title="Pentacarbonylhydridomanganese">MnH(CO)<sub>5</sub></a></li>
+<li><a href="/wiki/Dimanganese_decacarbonyl" title="Dimanganese decacarbonyl">Mn<sub>2</sub>(CO)<sub>10</sub></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Oxides" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Hafnium(IV)_oxide" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a class="mw-selflink selflink">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Tin_dioxide" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20181026160737
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.960 seconds
+Real time usage: 1.186 seconds
+Preprocessor visited node count: 16496/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 468861/2097152 bytes
+Template argument size: 53714/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29639/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.357/10.000 seconds
+Lua memory usage: 7.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1005.275      1 -total
+ 53.64%  539.263      1 Template:Chembox
+ 27.66%  278.061      1 Template:Chembox_Identifiers
+ 21.34%  214.546     71 Template:Chem
+ 20.32%  204.246     71 Template:Chem/link
+ 16.63%  167.189    170 Template:Chem/atom
+ 16.59%  166.807      6 Template:Chembox_headerbar
+ 16.24%  163.276      1 Template:Reflist
+ 16.18%  162.606     18 Template:Trim
+  9.44%   94.917      1 Template:Chembox_Properties
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:305225-0!canonical and timestamp 20181026160736 and revision id 856779752
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Manganese_dioxide&amp;oldid=856779752">https://en.wikipedia.org/w/index.php?title=Manganese_dioxide&amp;oldid=856779752</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Manganese_compounds" title="Category:Manganese compounds">Manganese compounds</a></li><li><a href="/wiki/Category:Oxide_minerals" title="Category:Oxide minerals">Oxide minerals</a></li><li><a href="/wiki/Category:Oxides" title="Category:Oxides">Oxides</a></li><li><a href="/wiki/Category:Inorganic_pigments" title="Category:Inorganic pigments">Inorganic pigments</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_without_InChI_source" title="Category:Articles without InChI source">Articles without InChI source</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_without_UNII_source" title="Category:Articles without UNII source">Articles without UNII source</a></li><li><a href="/wiki/Category:Articles_with_changed_EBI_identifier" title="Category:Articles with changed EBI identifier">Articles with changed EBI identifier</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Chembox_having_DSD_data" title="Category:Chembox having DSD data">Chembox having DSD data</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2015" title="Category:Articles with unsourced statements from September 2015">Articles with unsourced statements from September 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2014" title="Category:Articles with unsourced statements from December 2014">Articles with unsourced statements from December 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Manganese+dioxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Manganese+dioxide" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Manganese_dioxide" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Manganese_dioxide" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Manganese_dioxide">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Manganese_dioxide&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Manganese_dioxide&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Manganese_dioxide" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Manganese_dioxide" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Manganese_dioxide&amp;oldid=856779752" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Manganese_dioxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q407674" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Manganese_dioxide&amp;id=856779752" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Manganese+dioxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Manganese+dioxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Manganese_dioxide&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Manganese_dioxide" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Mangaandioksied" hreflang="af" lang="af" title="Mangaandioksied – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D9%85%D9%86%D8%BA%D9%86%D9%8A%D8%B2_%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A" hreflang="ar" lang="ar" title="أكسيد المنغنيز الرباعي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D9%85%D9%86%D9%82%D9%86%D8%B2_%D8%AF%DB%8C%D8%A7%D9%88%DA%A9%D8%B3%DB%8C%D8%AF" hreflang="azb" lang="azb" title="منقنز دیاوکسید – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Mangan(IV)-oksid" hreflang="bs" lang="bs" title="Mangan(IV)-oksid – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/%C3%92xid_de_mangan%C3%A8s(IV)" hreflang="ca" lang="ca" title="Òxid de manganès(IV) – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Oxid_mangani%C4%8Dit%C3%BD" hreflang="cs" lang="cs" title="Oxid manganičitý – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Mangan(IV)-oxid" hreflang="de" lang="de" title="Mangan(IV)-oxid – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%93xido_de_manganeso_(IV)" hreflang="es" lang="es" title="Óxido de manganeso (IV) – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D9%86%DA%AF%D9%86%D8%B2_%D8%AF%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF" hreflang="fa" lang="fa" title="منگنز دی‌اکسید – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Dioxyde_de_mangan%C3%A8se" hreflang="fr" lang="fr" title="Dioxyde de manganèse – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%88%E0%A4%82%E0%A4%97%E0%A4%A8%E0%A4%BF%E0%A4%9C(IV)_%E0%A4%91%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%A1" hreflang="hi" lang="hi" title="मैंगनिज(IV) ऑक्साइड – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Mangan_dioksida" hreflang="id" lang="id" title="Mangan dioksida – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Diossido_di_manganese" hreflang="it" lang="it" title="Diossido di manganese – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Mang%C3%A1n-dioxid" hreflang="hu" lang="hu" title="Mangán-dioxid – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%BE%E0%B4%82%E0%B4%97%E0%B4%A8%E0%B5%80%E0%B4%B8%E0%B5%8D_%E0%B4%A1%E0%B4%AF%E0%B5%8B%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%88%E0%B4%A1%E0%B5%8D" hreflang="ml" lang="ml" title="മാംഗനീസ് ഡയോക്സൈഡ് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Mangaan(IV)oxide" hreflang="nl" lang="nl" title="Mangaan(IV)oxide – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%85%B8%E5%8C%96%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%B3" hreflang="ja" lang="ja" title="二酸化マンガン – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Brunstein" hreflang="no" lang="no" title="Brunstein – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Brunstein" hreflang="nn" lang="nn" title="Brunstein – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Tlenek_manganu(IV)" hreflang="pl" lang="pl" title="Tlenek manganu(IV) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Di%C3%B3xido_de_mangan%C3%AAs" hreflang="pt" lang="pt" title="Dióxido de manganês – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Oxid_de_mangan_(IV)" hreflang="ro" lang="ro" title="Oxid de mangan (IV) – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D0%BC%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%86%D0%B0(IV)" hreflang="ru" lang="ru" title="Оксид марганца(IV) – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Manganese_dioxide" hreflang="en-simple" lang="en-simple" title="Manganese dioxide – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Oxid_mangani%C4%8Dit%C3%BD" hreflang="sk" lang="sk" title="Oxid manganičitý – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Manganov_dioksid" hreflang="sl" lang="sl" title="Manganov dioksid – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Mangan_dioksid" hreflang="sr" lang="sr" title="Mangan dioksid – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Mangan_dioksid" hreflang="sh" lang="sh" title="Mangan dioksid – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Mangaanidioksidi" hreflang="fi" lang="fi" title="Mangaanidioksidi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Mangandioxid" hreflang="sv" lang="sv" title="Mangandioxid – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%A9%E0%AF%80%E0%AE%9A%E0%AF%80%E0%AE%B0%E0%AF%8A%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AF%88%E0%AE%9F%E0%AF%81" hreflang="ta" lang="ta" title="மங்கனீசீரொக்சைடு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%AA%E0%B9%84%E0%B8%94%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%8B%E0%B8%94%E0%B9%8C" hreflang="th" lang="th" title="แมงกานีสไดออกไซด์ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D0%BC%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%86%D1%8E(IV)" hreflang="uk" lang="uk" title="Оксид марганцю(IV) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Mangan_dioxit" hreflang="vi" lang="vi" title="Mangan dioxit – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%B0%A7%E5%8C%96%E9%94%B0" hreflang="zh" lang="zh" title="二氧化锰 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q407674#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 27 August 2018, at 13:47<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Manganese_dioxide&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.960","walltime":"1.186","ppvisitednodes":{"value":16496,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":468861,"limit":2097152},"templateargumentsize":{"value":53714,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29639,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1005.275      1 -total"," 53.64%  539.263      1 Template:Chembox"," 27.66%  278.061      1 Template:Chembox_Identifiers"," 21.34%  214.546     71 Template:Chem"," 20.32%  204.246     71 Template:Chem/link"," 16.63%  167.189    170 Template:Chem/atom"," 16.59%  166.807      6 Template:Chembox_headerbar"," 16.24%  163.276      1 Template:Reflist"," 16.18%  162.606     18 Template:Trim","  9.44%   94.917      1 Template:Chembox_Properties"]},"scribunto":{"limitreport-timeusage":{"value":"0.357","limit":"10.000"},"limitreport-memusage":{"value":7490958,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20181026160737","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1263"});});</script>
+</body>
+</html>

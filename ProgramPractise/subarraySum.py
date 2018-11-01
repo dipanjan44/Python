@@ -20,6 +20,7 @@ def check_subarray (inputList, sum):
         sum_dict[current_sum] = i
 
     if count ==0:
+        
         return ("Subarray not found")
     else:
         return ("No of subarray: " +str(count))

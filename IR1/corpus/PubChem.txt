@@ -1,0 +1,449 @@
+https://en.wikipedia.org/wiki/PubChem
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>PubChem - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"PubChem","wgTitle":"PubChem","wgCurRevisionId":864212610,"wgRevisionId":864212610,"wgArticleId":2863723,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2009","All articles needing additional references","Articles to be expanded from July 2018","All articles to be expanded","Articles using small message boxes","Articles needing cleanup from November 2009","All pages needing cleanup","Cleanup tagged articles without a reason field from November 2009","Wikipedia pages needing cleanup from November 2009","Official website different in Wikidata and Wikipedia","Chemical databases","Biological databases","National Institutes of Health","Public-domain software with source code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"PubChem","wgRelevantArticleId":2863723,"wgRequestId":"W9cY0ApAMFYAADVK4MQAAAAE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q278487","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/PubChem" rel="alternate"/>
+<link href="/w/index.php?title=PubChem&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=PubChem&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/PubChem" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-PubChem rootpage-PubChem skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">PubChem</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=PubChem&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2009)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vevent" style="width:22em;width:"><caption class="summary">PubChem</caption><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><a class="image" href="/wiki/File:Pubchemlogo.png"><img alt="Pubchemlogo.png" data-file-height="49" data-file-width="209" height="49" src="//upload.wikimedia.org/wikipedia/commons/a/a4/Pubchemlogo.png" width="209"/></a></th></tr><tr><th colspan="2" style="text-align:center;background-color: lavender">Content</th></tr><tr><th scope="row" style="white-space: nowrap">Description</th><td>
+PubChem</td></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Organism" title="Organism">Organisms</a></th><td>
+Humans and other animals</td></tr><tr><th colspan="2" style="text-align:center;background-color: lavender">Contact</th></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Research_center" title="Research center">Research center</a></th><td>
+<a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a></td></tr><tr><th scope="row" style="white-space: nowrap">Primary citation</th><td>
+<style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15879180" rel="nofollow">15879180</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: lavender">Access</th></tr><tr><th scope="row" style="white-space: nowrap">Website</th><td>
+<a class="external free" href="https://pubchem.ncbi.nlm.nih.gov/" rel="nofollow">https://pubchem.ncbi.nlm.nih.gov/</a></td></tr><tr><th scope="row" style="white-space: nowrap">Download URL</th><td>
+<a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/pc_fetch/pc_fetch-help.html" rel="nofollow">FTP</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: lavender">Miscellaneous</th></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Software_license" title="Software license">License</a></th><td>
+Public domain</td></tr></tbody></table>
+<p><b>PubChem</b> is a <a href="/wiki/Database" title="Database">database</a> of <a href="/wiki/Chemistry" title="Chemistry">chemical</a> <a href="/wiki/Molecule" title="Molecule">molecules</a> and their activities against biological assays. The system is maintained by the <a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">National Center for Biotechnology Information</a> (NCBI), a component of the <a class="mw-redirect" href="/wiki/National_Library_of_Medicine" title="National Library of Medicine">National Library of Medicine</a>, which is part of the United States <a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a> (NIH). PubChem can be accessed for free through a <a class="mw-redirect" href="/wiki/Web_user_interface" title="Web user interface">web user interface</a>. Millions of compound structures and descriptive datasets can be freely downloaded via <a class="mw-redirect" href="/wiki/FTP" title="FTP">FTP</a>. PubChem contains substance descriptions and small molecules with fewer than 1000 atoms and 1000 bonds. More than 80 database vendors contribute to the growing PubChem database.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Databases"><span class="tocnumber">1</span> <span class="toctext">Databases</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Searching"><span class="tocnumber">2</span> <span class="toctext">Searching</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#ACS's_concerns"><span class="tocnumber">4</span> <span class="toctext">ACS's concerns</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Database_fields"><span class="tocnumber">5</span> <span class="toctext">Database fields</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Databases">Databases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PubChem&amp;action=edit&amp;section=1" title="Edit section: Databases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>PubChem consists of three dynamically growing primary databases. As of 1 November 2017:
+</p>
+<ul><li>Compounds, 93.9 million entries <sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> (up from 54 million entries in Sept 2014), contains pure and characterized chemical compounds.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></li>
+<li>Substances, 236 million entries<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> (up from 163 million entries in Sept 2014<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>), contains also mixtures, <a href="/wiki/Extract" title="Extract">extracts</a>, <a class="mw-redirect" href="/wiki/Complex_(chemistry)" title="Complex (chemistry)">complexes</a> and uncharacterized substances.</li>
+<li>BioAssay, <a class="mw-redirect" href="/wiki/Bioactivity" title="Bioactivity">bioactivity</a> results from 1.25 million<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> (up from 6000 in Sept 2014<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>) <a href="/wiki/High-throughput_screening" title="High-throughput screening">high-throughput screening</a> programs with several million values.</li></ul>
+<h2><span class="mw-headline" id="Searching">Searching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PubChem&amp;action=edit&amp;section=2" title="Edit section: Searching">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Searching the databases is possible for a broad range of properties including chemical structure, name fragments, <a href="/wiki/Chemical_formula" title="Chemical formula">chemical formula</a>, <a href="/wiki/Molecular_mass" title="Molecular mass">molecular weight</a>, <a class="mw-redirect" href="/wiki/XLogP" title="XLogP">XLogP</a>, and <a href="/wiki/Hydrogen_bond" title="Hydrogen bond">hydrogen bond</a> donor and acceptor count.
+</p><p>PubChem contains its own online <a href="/wiki/Molecule_editor" title="Molecule editor">molecule editor</a> with <a class="mw-redirect" href="/wiki/Simplified_molecular_input_line_entry_specification" title="Simplified molecular input line entry specification">SMILES</a>/SMARTS and <a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a> support that allows the import and export of all common <a href="/wiki/Chemical_file_format" title="Chemical file format">chemical file formats</a> to search for structures and fragments.
+</p><p>Each hit provides information about synonyms, chemical properties, chemical structure including SMILES and InChI strings, bioactivity, and links to structurally related compounds and other NCBI databases like <a href="/wiki/PubMed" title="PubMed">PubMed</a>.
+</p><p>In the text search form the database fields can be searched by adding the field name in square brackets to the search term. A numeric range is represented by two numbers separated by a colon. The search terms and field names are case-insensitive. Parentheses and the <a class="mw-redirect" href="/wiki/Logical_operator" title="Logical operator">logical operators</a> AND, OR, and NOT can be used. AND is assumed if no operator is used.
+</p><p>Example (<a class="mw-redirect" href="/wiki/Lipinski%27s_Rule_of_Five" title="Lipinski's Rule of Five">Lipinski's Rule of Five</a>):
+</p>
+<pre>0:500[mw] 0:5[hbdc] 0:10[hbac] -5:5[logp]
+</pre>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PubChem&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg"><img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=PubChem&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(July 2018)</i></small></div></td></tr></tbody></table>
+<p>PubChem was released in 2004.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span id="ACS.27s_concerns"></span><span class="mw-headline" id="ACS's_concerns">ACS's concerns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PubChem&amp;action=edit&amp;section=4" title="Edit section: ACS's concerns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/American_Chemical_Society" title="American Chemical Society">American Chemical Society</a> has raised concerns about the publicly supported PubChem database, since it appears to directly compete with their existing <a href="/wiki/Chemical_Abstracts_Service" title="Chemical Abstracts Service">Chemical Abstracts Service</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> They have a strong interest in the issue since the Chemical Abstracts Service generates a large percentage of the society's revenue. To advocate their position against the PubChem database, ACS has actively lobbied the US Congress.
+</p><p>Soon after PubChem's creation, the <a href="/wiki/American_Chemical_Society" title="American Chemical Society">American Chemical Society</a> lobbied <a class="mw-redirect" href="/wiki/Congress_of_the_United_States" title="Congress of the United States">U.S. Congress</a> to restrict the operation of PubChem, which they asserted competes with their <a href="/wiki/Chemical_Abstracts_Service" title="Chemical Abstracts Service">Chemical Abstracts Service</a>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Database_fields">Database fields</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PubChem&amp;action=edit&amp;section=5" title="Edit section: Database fields">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This section may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.<span class="hide-when-compact"> No <a href="/wiki/Template:Cleanup/doc" title="Template:Cleanup/doc">cleanup reason</a> has been specified. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=PubChem&amp;action=edit">improve this section</a> if you can.</span> <small><i>(November 2009)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table>
+<tbody><tr>
+<td colspan="3"><br/> <b>Identification numbers</b>
+</td></tr>
+<tr>
+<td>•</td>
+<td>Identification number in current database</td>
+<td>[UID]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Substance identification number</td>
+<td>[SID]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Compound identification number</td>
+<td>[CID]
+</td></tr>
+<tr>
+<td>•</td>
+<td>BioAssay identification number</td>
+<td>[BAID], [AID]
+</td></tr>
+<tr>
+<td colspan="3"><br/> <b>General</b>
+</td></tr>
+<tr>
+<td>•</td>
+<td>Any database field</td>
+<td>[ALL]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Comment</td>
+<td>[CMT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Deposition date</td>
+<td>[DDAT], [DEPDAT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Depositor's external ID</td>
+<td>[SRID], [SRCID]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Source name</td>
+<td>[SRC], [SRCNAM], [SRCNAME]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Source release date</td>
+<td>[SRD], [SRDAT], [RLSDAT]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a class="mw-redirect" href="/wiki/Medical_Subject_Heading" title="Medical Subject Heading">Medical Subject Heading</a> (MeSH) term</td>
+<td>[MSHT], [MESHT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>MeSH tree node</td>
+<td>[MSHN], [MESHTN]
+</td></tr>
+<tr>
+<td>•</td>
+<td>MeSH pharmacological actions</td>
+<td>[PHMA], [PHARMA]
+</td></tr>
+<tr>
+<td colspan="3"><br/> <b>Substance properties</b>
+</td></tr>
+<tr>
+<td>•</td>
+<td>Substance synonyms</td>
+<td>[SYNO]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a class="mw-redirect" href="/wiki/IUPAC_name" title="IUPAC name">IUPAC name</a></td>
+<td>[UPAC], [IUPAC]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">International Chemical Identifier</a> (InChI)</td>
+<td>[INCHI]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a href="/wiki/Molecular_mass" title="Molecular mass">Molecular weight</a></td>
+<td>[MW], [MWT], [MOLWT]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a href="/wiki/Chemical_element" title="Chemical element">Chemical elements</a></td>
+<td>[ELMT], [EL]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Non-Hydrogen atoms</td>
+<td>[HAC], [HACNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a href="/wiki/Isotope" title="Isotope">Isotope</a> count</td>
+<td>[IAC], [IACNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Total <a href="/wiki/Formal_charge" title="Formal charge">formal charge</a></td>
+<td>[TFC], [CHG], [CHRG]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a href="/wiki/Chirality_(chemistry)" title="Chirality (chemistry)">Chiral</a> atom count</td>
+<td>[ACC], [ACCNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Defined chiral atom count</td>
+<td>[ACDC], [ACDCNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Undefined chiral atom count</td>
+<td>[ACUC], [ACUCNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a href="/wiki/Hydrogen_bond" title="Hydrogen bond">Hydrogen bond</a> acceptor count</td>
+<td>[HBAC], [HBACNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Hydrogen bond donor count</td>
+<td>[HBDC], [HBDCNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a href="/wiki/Tautomer" title="Tautomer">Tautomer</a> count</td>
+<td>[TC], [TCNT], [TTMC]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Rotatable bond count</td>
+<td>[RBC], [RBCNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td><a class="mw-redirect" href="/wiki/XLogP" title="XLogP">XLogP</a><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></td>
+<td>[XLGP], [LOGP]
+</td></tr>
+<tr>
+<td colspan="3"><br/> <b>Compound properties</b>
+</td></tr>
+<tr>
+<td>•</td>
+<td>Compound synonyms</td>
+<td>[CSYN], [CSYNO]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Component count</td>
+<td>[CC], [CCNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Covalent unit (molecule) count</td>
+<td>[CUC], [CUCNT]
+</td></tr>
+<tr>
+<td>•</td>
+<td>Total bioactivity count</td>
+<td>[TAC]
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PubChem&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Chemical_database" title="Chemical database">Chemical database</a>
+<ul><li>CAS Common Chemistry - run by the American Chemical Society</li>
+<li><a href="/wiki/Comparative_Toxicogenomics_Database" title="Comparative Toxicogenomics Database">Comparative Toxicogenomics Database</a> - run by North Carolina State University</li>
+<li><a href="/wiki/ChEMBL" title="ChEMBL">ChEMBL</a> - run by European Bioinformatics Institute</li>
+<li><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a> - run by UK's  Royal Society of Chemistry</li>
+<li><a href="/wiki/DrugBank" title="DrugBank">DrugBank</a> - run by the University of Alberta</li>
+<li><a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> - run by Swiss based International Union of Pure and Applied Chemistry (IUPAC)</li>
+<li><a href="/wiki/Moltable" title="Moltable">Moltable</a> - run by India's National Chemical Laboratory</li>
+<li>PubChem - run by the National Institute of Health, USA</li>
+<li><a href="/wiki/BindingDB" title="BindingDB">BindingDB</a> - run by the University of California, San Diego</li>
+<li><a href="/wiki/SCRIPDB" title="SCRIPDB">SCRIPDB</a> - run by the University of Toronto, Canada</li>
+<li><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">National Center for Biotechnology Information</a> (NCBI) - run by the National Institute of Health, USA</li>
+<li><a href="/wiki/Entrez" title="Entrez">Entrez</a> - run by the National Institute of Health, USA</li>
+<li><a href="/wiki/GenBank" title="GenBank">GenBank</a> - run by the National Institute of Health, USA</li></ul></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PubChem&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PubChem&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="590" data-file-width="1050" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/80px-Wikidata-logo.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a> has the property: 
+<ul><li><img alt="Disc Plain blue dark.svg" data-file-height="460" data-file-width="460" height="4" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/4px-Disc_Plain_blue_dark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/6px-Disc_Plain_blue_dark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/8px-Disc_Plain_blue_dark.svg.png 2x" style="vertical-align: middle" width="4"/> <b><i><a class="extiw" href="https://www.wikidata.org/wiki/Property_talk:P662" title="d:Property talk:P662">PubChem CID <small>(P662)</small></a></i></b> (see <span class="plainlinks"><a class="external text" href="https://query.wikidata.org/embed.html#SELECT%20%3FWikiData_item_%20%3FWikiData_item_Label%20%3Fvalue%20%3FvalueLabel%20%3FEnglish_WikiPedia_article%20%23Show%20data%20in%20this%20order%0A%7B%0A%09%3FWikiData_item_%20wdt%3AP662%20%3Fvalue%20.%20%23Collecting%20all%20items%20which%20have%20P662%20data%2C%20from%20whole%20WikiData%20item%20pages%0A%09OPTIONAL%20%7B%3FEnglish_WikiPedia_article%20schema%3Aabout%20%3FWikiData_item_%3B%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E%20.%7D%20%23If%20collected%20item%20has%20link%20to%20English%20WikiPedia%2C%20show%20that%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20%20%7D%20%23Show%20label%20in%20this%20language.%20%22en%22%20is%20English.%20%20%20%0A%7D%0ALIMIT%201000">uses</a></span>)</li></ul></td></tr></tbody></table>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov" rel="nofollow">Official website</a></span></span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20181022234616
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.412 seconds
+Preprocessor visited node count: 1449/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43568/2097152 bytes
+Template argument size: 3277/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 30071/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.132/10.000 seconds
+Lua memory usage: 4.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  349.049      1 -total
+ 34.91%  121.857      1 Template:Reflist
+ 27.86%   97.250      1 Template:Infobox_biodatabase
+ 24.28%   84.764      1 Template:Infobox
+ 20.27%   70.759      9 Template:Cite_web
+ 16.61%   57.971      2 Template:If_empty
+ 16.59%   57.912      1 Template:Refimprove
+ 13.21%   46.098      1 Template:Ifnumber
+ 13.15%   45.915      3 Template:Ambox
+ 12.69%   44.281      1 Template:PMID
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2863723-0!canonical and timestamp 20181022234616 and revision id 864212610
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=PubChem&amp;oldid=864212610">https://en.wikipedia.org/w/index.php?title=PubChem&amp;oldid=864212610</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_databases" title="Category:Chemical databases">Chemical databases</a></li><li><a href="/wiki/Category:Biological_databases" title="Category:Biological databases">Biological databases</a></li><li><a href="/wiki/Category:National_Institutes_of_Health" title="Category:National Institutes of Health">National Institutes of Health</a></li><li><a href="/wiki/Category:Public-domain_software_with_source_code" title="Category:Public-domain software with source code">Public-domain software with source code</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2009" title="Category:Articles needing additional references from January 2009">Articles needing additional references from January 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_July_2018" title="Category:Articles to be expanded from July 2018">Articles to be expanded from July 2018</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_November_2009" title="Category:Articles needing cleanup from November 2009">Articles needing cleanup from November 2009</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_without_a_reason_field_from_November_2009" title="Category:Cleanup tagged articles without a reason field from November 2009">Cleanup tagged articles without a reason field from November 2009</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_November_2009" title="Category:Wikipedia pages needing cleanup from November 2009">Wikipedia pages needing cleanup from November 2009</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=PubChem" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=PubChem" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/PubChem" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:PubChem" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/PubChem">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=PubChem&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=PubChem&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/PubChem" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/PubChem" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=PubChem&amp;oldid=864212610" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=PubChem&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q278487" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=PubChem&amp;id=864212610" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=PubChem">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=PubChem&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=PubChem&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A8_%D9%83%D9%8A%D9%85" hreflang="ar" lang="ar" title="بوب كيم – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/PubChem" hreflang="be" lang="be" title="PubChem – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/PubChem" hreflang="be-tarask" lang="be-tarask" title="PubChem – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/PubChem" hreflang="bg" lang="bg" title="PubChem – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/PubChem" hreflang="bs" lang="bs" title="PubChem – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/PubChem" hreflang="ca" lang="ca" title="PubChem – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/PubChem" hreflang="cs" lang="cs" title="PubChem – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/PubChem" hreflang="da" lang="da" title="PubChem – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/PubChem" hreflang="de" lang="de" title="PubChem – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/PubChem" hreflang="et" lang="et" title="PubChem – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/PubChem" hreflang="el" lang="el" title="PubChem – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/PubChem" hreflang="es" lang="es" title="PubChem – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/PubChem" hreflang="eo" lang="eo" title="PubChem – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%A8%E2%80%8C%DA%A9%D9%85" hreflang="fa" lang="fa" title="پاب‌کم – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/PubChem" hreflang="fr" lang="fr" title="PubChem – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/PubChem" hreflang="gl" lang="gl" title="PubChem – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/PubChem" hreflang="ko" lang="ko" title="PubChem – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/PubChem" hreflang="hr" lang="hr" title="PubChem – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/PubChem" hreflang="id" lang="id" title="PubChem – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/PubChem" hreflang="it" lang="it" title="PubChem – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/PubChem" hreflang="he" lang="he" title="PubChem – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/PubChem" hreflang="la" lang="la" title="PubChem – Latin">Latina</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/PubChem" hreflang="hu" lang="hu" title="PubChem – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/PubChem" hreflang="mk" lang="mk" title="PubChem – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/PubChem" hreflang="mg" lang="mg" title="PubChem – Malagasy">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B4%AC%E0%B5%8D%E2%80%8C%E0%B4%95%E0%B5%86%E0%B4%82" hreflang="ml" lang="ml" title="പബ്‌കെം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/PubChem" hreflang="nl" lang="nl" title="PubChem – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/PubChem" hreflang="ja" lang="ja" title="PubChem – Japanese">日本語</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/PubChem" hreflang="frr" lang="frr" title="PubChem – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/PubChem" hreflang="no" lang="no" title="PubChem – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/PubChem" hreflang="pl" lang="pl" title="PubChem – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/PubChem" hreflang="pt" lang="pt" title="PubChem – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/PubChem" hreflang="ro" lang="ro" title="PubChem – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/PubChem" hreflang="ru" lang="ru" title="PubChem – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/PubChem" hreflang="sco" lang="sco" title="PubChem – Scots">Scots</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/PubChem" hreflang="sk" lang="sk" title="PubChem – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/PubChem" hreflang="sl" lang="sl" title="PubChem – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/PubChem" hreflang="sr" lang="sr" title="PubChem – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/PubChem" hreflang="sh" lang="sh" title="PubChem – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/PubChem" hreflang="fi" lang="fi" title="PubChem – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Pubchem" hreflang="sv" lang="sv" title="Pubchem – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/PubChem" hreflang="tl" lang="tl" title="PubChem – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%AA%E0%AF%8D%E0%AE%95%E0%AF%86%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="பப்கெம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9C%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A1" hreflang="th" lang="th" title="ผับเคม – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/PubChem" hreflang="tr" lang="tr" title="PubChem – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/PubChem" hreflang="uk" lang="uk" title="PubChem – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/PubChem" hreflang="zh" lang="zh" title="PubChem – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q278487#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 October 2018, at 20:33<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=PubChem&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.412","ppvisitednodes":{"value":1449,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43568,"limit":2097152},"templateargumentsize":{"value":3277,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30071,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  349.049      1 -total"," 34.91%  121.857      1 Template:Reflist"," 27.86%   97.250      1 Template:Infobox_biodatabase"," 24.28%   84.764      1 Template:Infobox"," 20.27%   70.759      9 Template:Cite_web"," 16.61%   57.971      2 Template:If_empty"," 16.59%   57.912      1 Template:Refimprove"," 13.21%   46.098      1 Template:Ifnumber"," 13.15%   45.915      3 Template:Ambox"," 12.69%   44.281      1 Template:PMID"]},"scribunto":{"limitreport-timeusage":{"value":"0.132","limit":"10.000"},"limitreport-memusage":{"value":4634498,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20181022234616","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1251"});});</script>
+</body>
+</html>

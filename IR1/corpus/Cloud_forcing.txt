@@ -1,0 +1,735 @@
+https://en.wikipedia.org/wiki/Cloud_forcing
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Cloud forcing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cloud_forcing","wgTitle":"Cloud forcing","wgCurRevisionId":853198329,"wgRevisionId":853198329,"wgArticleId":47519,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Climate forcing agents","Cloud and fog physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cloud_forcing","wgRelevantArticleId":47519,"wgRequestId":"W9nkXApAME4AAEjxXAMAAACX","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5135702","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/e/e6/Shortwave_Radiation.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cloud_forcing" rel="alternate"/>
+<link href="/w/index.php?title=Cloud_forcing&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Cloud_forcing&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Cloud_forcing" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cloud_forcing rootpage-Cloud_forcing skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Cloud forcing</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Cloud forcing</b> (sometimes described as <b>cloud radiative forcing</b> or <b>cloud radiative effect</b>) is, in <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, the difference between the <a class="mw-redirect" href="/wiki/Radiation_budget" title="Radiation budget">radiation budget</a> components for average <a href="/wiki/Cloud" title="Cloud">cloud</a> conditions and cloud-free conditions.  Much of the interest in cloud forcing relates to its role as a <a href="/wiki/Feedback" title="Feedback">feedback</a> process in the present period of <a href="/wiki/Global_warming" title="Global warming">global warming</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Shortwave_Radiation.jpg"><img alt="" class="thumbimage" data-file-height="272" data-file-width="325" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Shortwave_Radiation.jpg/220px-Shortwave_Radiation.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/e/e6/Shortwave_Radiation.jpg 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Shortwave_Radiation.jpg" title="Enlarge"></a></div>This image depicts the effects of clouds scattering incoming shortwave radiation from the sun. This tends to result in overall cooling of the Earth during the daytime as well as in general (because the energy loss caused by the cloud cover is more significant than the gain described in the image below).</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Longwave_Radiation.jpg"><img alt="" class="thumbimage" data-file-height="275" data-file-width="325" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Longwave_Radiation.jpg/220px-Longwave_Radiation.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/d/d8/Longwave_Radiation.jpg 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Longwave_Radiation.jpg" title="Enlarge"></a></div>This image depicts the effects of clouds absorbing longwave rays emitted from the Earth, which are then reemitted back to the surface. This tends to result in overall warming of the Earth during the nighttime.</div></div></div>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Measuring_Cloud_Forcing"><span class="tocnumber">1</span> <span class="toctext">Measuring Cloud Forcing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Current_Effects_of_Cloud_Forcing"><span class="tocnumber">2</span> <span class="toctext">Current Effects of Cloud Forcing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Measuring_Cloud_Forcing">Measuring Cloud Forcing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cloud_forcing&amp;action=edit&amp;section=1" title="Edit section: Measuring Cloud Forcing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following equation calculates this change in the radiation budget at the top of the atmosphere <sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta R_{TOA}=R_{Average}-R_{Clear}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+<mi>O</mi>
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+<mi>v</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mi>a</mi>
+<mi>g</mi>
+<mi>e</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+<mi>l</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>r</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta R_{TOA}=R_{Average}-R_{Clear}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta R_{TOA}=R_{Average}-R_{Clear}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c7020bfe7983118e7bd7acabe3eb1d0d32151afe" style="vertical-align: -1.005ex; width:27.586ex; height:2.843ex;"/></span></dd></dl>
+<p>The net cloud radiative effect can be decomposed into its longwave and shortwave components. This is because net radiation is absorbed solar minus the outgoing longwave radiation shown by the following equations
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta R_{TOA}=\Delta Q_{abs}-\Delta OLR}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+<mi>O</mi>
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mi>b</mi>
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>O</mi>
+<mi>L</mi>
+<mi>R</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta R_{TOA}=\Delta Q_{abs}-\Delta OLR}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta R_{TOA}=\Delta Q_{abs}-\Delta OLR}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b00cd9df4ab2964c623505b9e923929ce62986dd" style="vertical-align: -0.671ex; width:26.923ex; height:2.509ex;"/></span></dd></dl>
+<p>The first term on the right is the shortwave cloud effect (<i>Q</i><sub>abs</sub> ) and the second is the longwave effect (OLR).
+</p><p>The shortwave cloud effect is calculated by the following equation
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta Q_{abs}=(S_{o}/4)\cdot (1-\alpha _{cloudy})-(S_{o}/4)\cdot (1-\alpha _{clear})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+<mi>b</mi>
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+<mi>l</mi>
+<mi>o</mi>
+<mi>u</mi>
+<mi>d</mi>
+<mi>y</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+<mi>l</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta Q_{abs}=(S_{o}/4)\cdot (1-\alpha _{cloudy})-(S_{o}/4)\cdot (1-\alpha _{clear})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta Q_{abs}=(S_{o}/4)\cdot (1-\alpha _{cloudy})-(S_{o}/4)\cdot (1-\alpha _{clear})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe4d2d93b07adeeac56814db3d5c6c54623fe6d1" style="vertical-align: -1.005ex; width:52.087ex; height:3.009ex;"/></span></dd></dl>
+<p>Where <i>S</i><sub>o</sub> is the <a href="/wiki/Solar_constant" title="Solar constant">solar constant</a>, <i>∝</i><sub>cloudy</sub> is the <a href="/wiki/Albedo" title="Albedo">albedo</a> with clouds and <i>∝</i><sub>clear</sub> is the albedo on a clear day.
+</p><p>The longwave effect is calculated by the next following equation
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta OLR=\sigma T_{z}^{4}-F_{clear}^{up}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>O</mi>
+<mi>L</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+<mi>l</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>u</mi>
+<mi>p</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta OLR=\sigma T_{z}^{4}-F_{clear}^{up}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta OLR=\sigma T_{z}^{4}-F_{clear}^{up}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ccc1f8368394d74f527069154d8ca71730fb32d" style="vertical-align: -1.005ex; width:22.405ex; height:3.176ex;"/></span></dd></dl>
+<p>Where σ is the <a href="/wiki/Stefan%E2%80%93Boltzmann_constant" title="Stefan–Boltzmann constant">Stefan–Boltzmann constant</a>, T is the temperature at the given height, and F is the upward flux in clear conditions.
+</p><p>Putting all of these pieces together, the final equation becomes
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta R_{TOA}=(S_{o}/4)\cdot ((1-\alpha _{cloudy})-(S_{o}/4)\cdot (1-\alpha _{clear}))-\sigma T_{z}^{4}+F_{clear}^{up}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+<mi>O</mi>
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">(</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+<mi>l</mi>
+<mi>o</mi>
+<mi>u</mi>
+<mi>d</mi>
+<mi>y</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+<mi>l</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+<mi>l</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>u</mi>
+<mi>p</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta R_{TOA}=(S_{o}/4)\cdot ((1-\alpha _{cloudy})-(S_{o}/4)\cdot (1-\alpha _{clear}))-\sigma T_{z}^{4}+F_{clear}^{up}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta R_{TOA}=(S_{o}/4)\cdot ((1-\alpha _{cloudy})-(S_{o}/4)\cdot (1-\alpha _{clear}))-\sigma T_{z}^{4}+F_{clear}^{up}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/913a560a8b7f11ef1030d04e5d726b779087cc1a" style="vertical-align: -1.005ex; width:70.21ex; height:3.176ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Current_Effects_of_Cloud_Forcing">Current Effects of Cloud Forcing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cloud_forcing&amp;action=edit&amp;section=2" title="Edit section: Current Effects of Cloud Forcing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>All <a class="mw-redirect" href="/wiki/Global_climate_model" title="Global climate model">global climate models</a> used for climate change projections include the effects of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> and cloud forcing. The models include the effects of clouds on both incoming (solar) and emitted (terrestrial) radiation.
+</p><p>Clouds increase the global <a href="/wiki/Albedo" title="Albedo">reflection of solar radiation</a> from 15% to 30%, reducing the amount of <a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">solar radiation</a> absorbed by the Earth by about 44 W/m². This cooling is offset somewhat by the <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a> of clouds which reduces the <a href="/wiki/Outgoing_longwave_radiation" title="Outgoing longwave radiation">outgoing longwave radiation</a> by about 31 W/m².  Thus the net cloud forcing of the radiation budget is a loss of about 13 W/m².<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> If the clouds were removed with all else remaining the same, the <a href="/wiki/Earth" title="Earth">Earth</a> would gain this last amount in net radiation and begin to warm up. 
+</p><p>These numbers should not be confused with the usual <a href="/wiki/Radiative_forcing" title="Radiative forcing">radiative forcing</a> concept, which is for the <i>change</i> in forcing related to <a href="/wiki/Climate_change" title="Climate change">climate change</a>.
+</p><p>Without the inclusion of clouds, water vapor alone contributes 36% to 70% of the greenhouse effect on Earth.  When water vapor and clouds are considered together, the contribution is 66% to 85%. The ranges come about because there are two ways to compute the influence of water vapor and clouds: the lower bounds are the reduction in the greenhouse effect if water vapor and clouds are <i>removed</i> from the atmosphere leaving all other greenhouse gases unchanged, while the upper bounds are the greenhouse effect introduced if water vapor and clouds are <i>added</i> to an atmosphere with no other greenhouse gases.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The two values differ because of overlap in the absorption and emission by the various greenhouse gases.  Trapping of the long-wave radiation due to the presence of clouds reduces the radiative forcing of the greenhouse gases compared to the clear-sky forcing. However, the magnitude of the effect due to clouds varies for different greenhouse gases. Relative to clear <a href="/wiki/Sky" title="Sky">skies</a>, clouds reduce the global mean radiative forcing due to <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> by about 15%,<sup class="reference" id="cite_ref-Pinnock_5-0"><a href="#cite_note-Pinnock-5">[5]</a></sup> that due to <a href="/wiki/Methane" title="Methane">CH<sub>4</sub></a> and <a href="/wiki/Nitrous_oxide" title="Nitrous oxide">N<sub>2</sub>O</a> by about 20%,<sup class="reference" id="cite_ref-Pinnock_5-1"><a href="#cite_note-Pinnock-5">[5]</a></sup> and that due to the <a href="/wiki/Halocarbon" title="Halocarbon">halocarbons</a> by up to 30%.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> 
+Clouds remain one of the largest uncertainties in future projections of climate change by global climate models, owing to the physical complexity of cloud processes and the small scale of individual clouds relative to the size of the model computational grid.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cloud_forcing&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/Cloud_formation" title="Cloud formation">Cloud formation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cloud_forcing&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"></div></div>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a class="mw-selflink selflink">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20181026164319
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.336 seconds
+Real time usage: 0.436 seconds
+Preprocessor visited node count: 795/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 86649/2097152 bytes
+Template argument size: 77/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 22064/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.154/10.000 seconds
+Lua memory usage: 2.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  265.081      1 -total
+ 69.93%  185.373      1 Template:Reflist
+ 33.33%   88.355      3 Template:Cite_web
+ 30.02%   79.575      1 Template:Global_warming
+ 28.46%   75.444      1 Template:Navbox_with_collapsible_groups
+ 22.61%   59.936      3 Template:Cite_journal
+ 12.77%   33.844      6 Template:Navbox
+  4.99%   13.215      5 Template:Icon
+  4.11%   10.897      2 Template:Cite_book
+  1.25%    3.324      1 Template:Br
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47519-0!canonical!math=5 and timestamp 20181026164318 and revision id 853198329
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cloud_forcing&amp;oldid=853198329">https://en.wikipedia.org/w/index.php?title=Cloud_forcing&amp;oldid=853198329</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_forcing_agents" title="Category:Climate forcing agents">Climate forcing agents</a></li><li><a href="/wiki/Category:Cloud_and_fog_physics" title="Category:Cloud and fog physics">Cloud and fog physics</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cloud+forcing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Cloud+forcing" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Cloud_forcing" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Cloud_forcing" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Cloud_forcing">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Cloud_forcing&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Cloud_forcing&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Cloud_forcing" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Cloud_forcing" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cloud_forcing&amp;oldid=853198329" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cloud_forcing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5135702" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cloud_forcing&amp;id=853198329" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cloud+forcing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cloud+forcing&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Cloud_forcing&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cloud_forcing" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%82%D9%88%D9%8A%D8%A9_%D8%B3%D8%AD%D8%A7%D8%A8%D9%8A%D8%A9" hreflang="ar" lang="ar" title="تقوية سحابية – Arabic">العربية</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5135702#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 August 2018, at 02:47<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Cloud_forcing&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.336","walltime":"0.436","ppvisitednodes":{"value":795,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":86649,"limit":2097152},"templateargumentsize":{"value":77,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22064,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  265.081      1 -total"," 69.93%  185.373      1 Template:Reflist"," 33.33%   88.355      3 Template:Cite_web"," 30.02%   79.575      1 Template:Global_warming"," 28.46%   75.444      1 Template:Navbox_with_collapsible_groups"," 22.61%   59.936      3 Template:Cite_journal"," 12.77%   33.844      6 Template:Navbox","  4.99%   13.215      5 Template:Icon","  4.11%   10.897      2 Template:Cite_book","  1.25%    3.324      1 Template:Br"]},"scribunto":{"limitreport-timeusage":{"value":"0.154","limit":"10.000"},"limitreport-memusage":{"value":3129031,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20181026164319","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1243"});});</script>
+</body>
+</html>

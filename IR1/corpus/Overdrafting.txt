@@ -1,0 +1,508 @@
+https://en.wikipedia.org/wiki/Overdrafting
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Overdrafting - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Overdrafting","wgTitle":"Overdrafting","wgCurRevisionId":861738205,"wgRevisionId":861738205,"wgArticleId":7383878,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","Aquifers","Environmental impact of agriculture","Environmental issues with water","Water supply","Water and the environment"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Overdrafting","wgRelevantArticleId":7383878,"wgRequestId":"W9QzLApAIDEAAEVIUDoAAABN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7113626","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Overdrafting" rel="alternate"/>
+<link href="/w/index.php?title=Overdrafting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Overdrafting&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Overdrafting" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Overdrafting rootpage-Overdrafting skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Overdrafting</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about groundwater extraction. For financial uses of the term, see <a href="/wiki/Overdraft" title="Overdraft">Overdraft</a>.</div>
+<p><b>Overdrafting</b> is the process of extracting <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> beyond the <a href="/wiki/Dynamic_equilibrium" title="Dynamic equilibrium">equilibrium</a> yield of the <a href="/wiki/Aquifer" title="Aquifer">aquifer</a>.
+</p><p>There are two sets of yields, safe yield and sustainable yield. Safe yield is the amount of water that can be taken out of the ground without there being any undesirable results. Sustainable yield is extraction that takes into account both recharge rate and surface water impacts
+</p><p>There are two types of aquifers. The first is confined aquifers. This is when the aquifer has an overbearing layer called aquitard, which contains materials that does not allow for penetration for groundwater extraction. The second is unconfined aquifers. This is when the aquifer does not have a aquitard over its layer and the groundwater is able to be penetrated for extraction. Extracting groundwater from unconfined aquifers is like borrowing the water, it has to be recharged at a proper amount. If recharge is not done so in proper amounts there can be many impacts. Recharge may happen through artificial recharge and natural recharge..<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>Natural process of recharge is done through percolation of surface water. Artificial process of recharging the aquifer is through means of pumping reclaimed water from wastewater management projects directly into the aquifer. An example is the Orange County Water District in the State of California.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> This organization take waste water, treats it to a proper level, and then systematically pumps it back into the aquifers for artificial recharge.
+</p><p>When groundwater is extracted the water is primarily pulled from the aquifer which creates a cone depression around the well. When drafting of water continues the cone of depression increases in width. The increase in width leads to the negative impacts caused by overdrafting. Impacts include aiding in the drop of water table, land subsidence, and loss of surface water reaching the streams. In extream cases the supply of water to naturally recharge the aquifers is pulled directly from streams and rivers, leading to depletion of water levels in streams and rivers. The depletion of water in rivers and streams has an effect on not only the wildlife, but also humans who might be using the water for other purposes.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>Since every groundwater basin <a href="/wiki/Groundwater_recharge" title="Groundwater recharge">recharges</a> at a different rate depending upon <a href="/wiki/Precipitation" title="Precipitation">precipitation</a>, <a class="mw-redirect" href="/wiki/Vegetative_cover" title="Vegetative cover">vegetative cover</a> and <a href="/wiki/Soil_conservation" title="Soil conservation">soil conservation</a> practises, the quantity of groundwater that can be safely pumped varies greatly among regions of the world and even within provinces.  Some aquifers require a very long time to recharge and thus the process of overdrafting can have consequences of effectively drying up certain sub-surface <a class="mw-redirect" href="/wiki/Water_supplies" title="Water supplies">water supplies</a>. <a href="/wiki/Groundwater-related_subsidence" title="Groundwater-related subsidence">Subsidence</a> occurs when excessive groundwater is extracted from rocks that support more weight when saturated. This can lead to a capacity reduction in the aquifer.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p><a href="/wiki/Groundwater" title="Groundwater">Groundwater</a> is the fresh water that can be found underground; it is also one of the largest sources. Groundwater depletion can be comparable to ¨money in a bank¨,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>  The primary cause of groundwater depletion is pumping or the excessive pulling up of groundwater from underground aquifers.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Around_the_World"><span class="tocnumber">1</span> <span class="toctext">Around the World</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Accelerated_decline_in_subterranean_reservoirs"><span class="tocnumber">2</span> <span class="toctext">Accelerated decline in subterranean reservoirs</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Impacts_on_the_environment"><span class="tocnumber">3</span> <span class="toctext">Impacts on the environment</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Effects_on_climate"><span class="tocnumber">3.1</span> <span class="toctext">Effects on climate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Socio-economic_effects"><span class="tocnumber">4</span> <span class="toctext">Socio-economic effects</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Possible_solutions"><span class="tocnumber">5</span> <span class="toctext">Possible solutions</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Around_the_World">Around the World</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=1" title="Edit section: Around the World">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<caption>Ranking of countries that use groundwater for irrigation.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</caption>
+<tbody><tr>
+<th>Country</th>
+<th>Million <a href="/wiki/Hectare" title="Hectare">hectares</a> (1<span style="margin-left:0.2em">×<span style="margin-left:0.1em">10</span></span><s style="display:none">^</s><sup>6</sup> ha (2.5<span style="margin-left:0.2em">×<span style="margin-left:0.1em">10</span></span><s style="display:none">^</s><sup>6</sup> acres)) irrigated with groundwater
+</th></tr>
+<tr>
+<td>India</td>
+<td>26.5
+</td></tr>
+<tr>
+<td>USA</td>
+<td>10.8
+</td></tr>
+<tr>
+<td>China</td>
+<td>8.8
+</td></tr>
+<tr>
+<td>Pakistan</td>
+<td>4.9
+</td></tr>
+<tr>
+<td>Iran</td>
+<td>3.6
+</td></tr>
+<tr>
+<td>Bangladesh</td>
+<td>2.6
+</td></tr>
+<tr>
+<td>Mexico</td>
+<td>1.7
+</td></tr>
+<tr>
+<td>Saudi Arabia</td>
+<td>1.5
+</td></tr>
+<tr>
+<td>Italy</td>
+<td>0.9
+</td></tr>
+<tr>
+<td>Turkey</td>
+<td>0.7
+</td></tr>
+<tr>
+<td>Syria</td>
+<td>0.6
+</td></tr>
+<tr>
+<td>Brazil</td>
+<td>0.5
+</td></tr></tbody></table>
+<p>The ranking is based on the amount of groundwater each country uses for agriculture. This issue is becoming quite large in the United States (most notably <a href="/wiki/California" title="California">California</a>) but it is also worth noting that it has been a problem in other parts of the world, as was documented in <a href="/wiki/Punjab,_India" title="Punjab, India">Punjab</a>, India in 1987<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Accelerated_decline_in_subterranean_reservoirs">Accelerated decline in subterranean reservoirs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=2" title="Edit section: Accelerated decline in subterranean reservoirs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to a 2013 report by research hydrologist, Leonard F. Konikow,<sup class="reference" id="cite_ref-KonikowUSGCjan2013_8-0"><a href="#cite_note-KonikowUSGCjan2013-8">[8]</a></sup> at the <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a> (USGS), the depletion of the <a href="/wiki/Ogallala_Aquifer" title="Ogallala Aquifer">Ogallala Aquifer</a> between 2001–2008, inclusive, is about 32 percent of the cumulative depletion during the entire 20th century (Konikow 2013:22)."<sup class="reference" id="cite_ref-KonikowUSGCjan2013_8-1"><a href="#cite_note-KonikowUSGCjan2013-8">[8]</a></sup> In the United States, the biggest users of water from aquifers include agricultural <a href="/wiki/Irrigation" title="Irrigation">irrigation</a> and <a class="mw-redirect" href="/wiki/Oil_drilling" title="Oil drilling">oil</a> and <a href="/wiki/Coal_mining" title="Coal mining">coal extraction</a>.<sup class="reference" id="cite_ref-depletion_9-0"><a href="#cite_note-depletion-9">[9]</a></sup>"Cumulative total groundwater depletion in the United States accelerated in the late 1940s and continued at an almost steady linear rate through the end of the century. In addition to widely recognized environmental consequences, groundwater depletion also adversely impacts the long-term sustainability of groundwater supplies to help meet the Nation’s water needs."<sup class="reference" id="cite_ref-KonikowUSGCjan2013_8-2"><a href="#cite_note-KonikowUSGCjan2013-8">[8]</a></sup>
+</p><p>According to another USGS study of withdrawals from 66 major US aquifers, the three greatest uses of water extracted from aquifers were <a href="/wiki/Agriculture" title="Agriculture">agriculture</a> (<a href="/wiki/Irrigation" title="Irrigation">irrigation</a>) (68%), public <a href="/wiki/Water_supply" title="Water supply">water supply</a> (19%), and self-supplied industrial (4%). The remaining about 8% of groundwater withdrawals were for “self-supplied domestic, <a href="/wiki/Aquaculture" title="Aquaculture">aquaculture</a>, <a href="/wiki/Livestock" title="Livestock">livestock</a>, <a href="/wiki/Mining" title="Mining">mining</a>, and <a href="/wiki/Electric_power" title="Electric power">thermoelectric power</a> uses.”<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Impacts_on_the_environment">Impacts on the environment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=3" title="Edit section: Impacts on the environment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a class="mw-redirect" href="/wiki/Environmental_impact" title="Environmental impact">environmental impact</a> of overdrafting includes:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/Land_subsidence" title="Land subsidence">Land subsidence</a> - the collapse of land from lack of support (from the water that is being depleted). The first recorded case of land subsidence was in the 1940s. Land subsidence can be as little as a local land collapsing or as large as an entire region's land being lowerd. The subsidence can lead to infrastructural and ecosystem damage.</li>
+<li>Lowering of the <a href="/wiki/Water_table" title="Water table">water table</a>, which makes water harder to reach streams and rivers.</li>
+<li>Reduction of water volume in streams and lakes because their supply of water is being diminished by surface water recharging the aquifers.
+<ul><li>Animals that depend on streams and lakes for food and water and <a href="/wiki/Habitat" title="Habitat">habitat</a> will be affected</li></ul></li>
+<li>Deteriorating <a href="/wiki/Water_quality" title="Water quality">water quality</a></li>
+<li>The <a class="mw-redirect" href="/wiki/Water_prize" title="Water prize">cost of water</a> to the consumer rises. This is due to the water table lowering so more energy is needed to pump further down, and to cover that pumping companies need more profit.</li>
+<li><a href="/wiki/Crop_yield" title="Crop yield">Crop production decrease</a> from lack of water( 60% of US irrigation relies on groundwater so this is a large loss)</li>
+<li>Groundwater depletion also throws off the <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a>.</li></ul>
+<h3><span class="mw-headline" id="Effects_on_climate">Effects on climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=4" title="Edit section: Effects on climate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aquifer <a href="/wiki/Drawdown_(hydrology)" title="Drawdown (hydrology)">drawdown</a> or overdrafting and the pumping of <a href="/wiki/Fossil_water" title="Fossil water">fossil water</a> may be a contributing factor to sea-level rise.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> By increasing the amount of <a href="/wiki/Moisture" title="Moisture">moisture</a> available to fall as precipitation, severe weather events are more likely to occur. To some extent moisture in the atmosphere accelerates the probability of a <a href="/wiki/Global_warming" title="Global warming">global warming</a> event. The <a href="/wiki/Correlation_coefficient" title="Correlation coefficient">correlation coefficient</a> is not yet scientifically determined.
+</p>
+<h2><span class="mw-headline" id="Socio-economic_effects">Socio-economic effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=5" title="Edit section: Socio-economic effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Scores of countries are overpumping aquifers as they struggle to satisfy their growing water needs, including each of the big three <a href="/wiki/Grain" title="Grain">grain</a> producers— <a href="/wiki/China" title="China">China</a>, <a href="/wiki/India" title="India">India</a>, and the <a href="/wiki/United_States" title="United States">United States</a>. These three, along with a number of other countries where water tables are falling, are home to more than half the world’s people.
+</p><p>Water is intrinsic to <a class="mw-redirect" href="/wiki/Biological_growth" title="Biological growth">biological</a> and <a href="/wiki/Economic_growth" title="Economic growth">economic growth</a>, and overdraft limits its available supply. According to <a href="/wiki/Liebig%27s_law_of_the_minimum" title="Liebig's law of the minimum">Liebig's law of the minimum</a>, growth is therefore impeded. Deeper <a href="/wiki/Water_well" title="Water well">wells</a> must be <a href="/wiki/Well_drilling" title="Well drilling">drilled</a> as the water table drops, which can become expensive. In addition, the <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">energy needed</a> to extract a given volume of water increases with the amount the aquifer has been depleted. The deeper the water is extracted from the worse the quality of the water becomes, which increases the cost of filtration. <a href="/wiki/Saltwater_intrusion" title="Saltwater intrusion">Saltwater intrusion</a> is another consequence of overdrafting, leading to a reduction in <a href="/wiki/Water_quality" title="Water quality">water quality</a>.
+</p>
+<h2><span class="mw-headline" id="Possible_solutions">Possible solutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=6" title="Edit section: Possible solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Artificial <a href="/wiki/Groundwater_recharge" title="Groundwater recharge">recharge</a> <sup class="reference" id="cite_ref-:0_12-0"><a href="#cite_note-:0-12">[12]</a></sup>- Since recharge is the natural replenishment of water, <i>artificial</i> recharge is the artificial or man made replenishment of groundwater. This is the more aesthetically pleasing option though there is a limited amount of water that can be used for replenishing which is a problem.</li>
+<li>Decreased <a class="mw-redirect" href="/wiki/Water_use" title="Water use">water use</a><sup class="reference" id="cite_ref-:0_12-1"><a href="#cite_note-:0-12">[12]</a></sup> - This can be used in combination with the solution above. Consumptive use refers to the water that is naturally taken from the system (Ex; <a href="/wiki/Transpiration" title="Transpiration">transpiration</a> ). So decreasing that use is what needs to happen in areas where recharge alone will not work. It requires such things as switching to less water-intensive crops.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">Groundwater recharge</a></li>
+<li><a href="/wiki/Groundwater-related_subsidence" title="Groundwater-related subsidence">Groundwater-related subsidence</a></li>
+<li><a href="/wiki/Drinking_water" title="Drinking water">Drinking water</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Water crisis</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overdrafting&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.issues.org/19.1/glennon.htm" rel="nofollow">The Perils of Groundwater Pumping</a>, Issues in Science and Technology</li></ul>
+<div aria-labelledby="Water" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Water" title="Template:Water"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Water" title="Template talk:Water"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Water&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Water" style="font-size:114%;margin:0 4em"><a href="/wiki/Water" title="Water">Water</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Overviews</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Outline_of_water" title="Outline of water">Outline</a></li>
+<li><a href="/wiki/Water_(data_page)" title="Water (data page)">Data</a></li>
+<li><a href="/wiki/Water_model" title="Water model">Model</a></li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Properties</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><div class="floatright"><a class="image" href="/wiki/File:Water_drop_001.jpg" title="Water droplet"><img alt="Water droplet" data-file-height="2475" data-file-width="3714" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Water_drop_001.jpg/70px-Water_drop_001.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Water_drop_001.jpg/105px-Water_drop_001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Water_drop_001.jpg/140px-Water_drop_001.jpg 2x" width="70"/></a></div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/State_of_matter" title="State of matter">States</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water" title="Water">Liquid</a></li>
+<li><a href="/wiki/Ice" title="Ice">Ice</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Vapor</a></li>
+<li><a href="/wiki/Steam" title="Steam">Steam</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Forms</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Deuterium-depleted_water" title="Deuterium-depleted water">Deuterium-depleted</a></li>
+<li><a href="/wiki/Semiheavy_water" title="Semiheavy water">Semiheavy</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">Heavy</a></li>
+<li><a href="/wiki/Tritiated_water" title="Tritiated water">Tritiated</a></li>
+<li><a href="/wiki/Hydronium" title="Hydronium">Hydronium</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">On <a href="/wiki/Earth" title="Earth">Earth</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_cycle" title="Water cycle">Cycle</a></li>
+<li><a href="/wiki/Water_distribution_on_Earth" title="Water distribution on Earth">Distribution</a></li>
+<li><a href="/wiki/Hydrosphere" title="Hydrosphere">Hydrosphere</a>
+<ul><li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Hydrobiology" title="Hydrobiology">Hydrobiology</a></li></ul></li>
+<li><a href="/wiki/Origin_of_water_on_Earth" title="Origin of water on Earth">Origin</a></li>
+<li><a href="/wiki/Water_pollution" title="Water pollution">Pollution</a></li>
+<li><a href="/wiki/Water_resources" title="Water resources">Resources</a>
+<ul><li><a href="/wiki/Water_resource_management" title="Water resource management">management</a></li>
+<li><a href="/wiki/Water_resource_policy" title="Water resource policy">policy</a></li></ul></li>
+<li><a href="/wiki/Water_supply" title="Water supply">Supply</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-weight: bold;"><div>
+<ul><li> <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Water" title="Portal:Water">Portal</a></li>
+<li> <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Water" title="Category:Water">Category</a></li>
+<li> <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Water" title="commons:Category:Water">Commons</a></li>
+<li> <img alt="Wiktionary page" data-file-height="350" data-file-width="370" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/16px-Wiktionary-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/24px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/32px-Wiktionary-logo.svg.png 2x" title="Wiktionary page" width="16"/> <a class="extiw" href="https://en.wiktionary.org/wiki/water" title="wikt:water">Wiktionary</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Natural_resources" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Natural_resources" title="Template:Natural resources"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Natural_resources" title="Template talk:Natural resources"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Natural_resources&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Natural_resources" style="font-size:114%;margin:0 4em"><a href="/wiki/Natural_resource" title="Natural resource">Natural resources</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Air</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;"><a href="/wiki/Air_pollution" title="Air pollution">Pollution / quality</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">Ambient standards <span style="font-size:90%;">(USA)</span></a></li>
+<li><a href="/wiki/Air_quality_index" title="Air quality index">Index</a></li>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor</a>
+<ul><li><a href="/wiki/Indoor_air_pollution_in_developing_nations" title="Indoor air pollution in developing nations">developing nations</a></li></ul></li>
+<li><a href="/wiki/Air_quality_law" title="Air quality law">Law</a>
+<ul><li><a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act <span style="font-size:90%;">(USA)</span></a></li></ul></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Emissions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airshed" title="Airshed">Airshed</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Trading</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Deforestation (REDD)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Carson_Fall_Mt_Kinabalu.jpg" title="Carson Falls on Mount Kinabalu, Borneo"><img alt="Carson Falls on Mount Kinabalu, Borneo" data-file-height="3456" data-file-width="2592" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/100px-Carson_Fall_Mt_Kinabalu.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/150px-Carson_Fall_Mt_Kinabalu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/200px-Carson_Fall_Mt_Kinabalu.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Energy" title="Energy">Energy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Energy_law" title="Energy law">Law</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_resources" title="Energy resources">Resources</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuels</a> (<a href="/wiki/Peak_oil" title="Peak oil">peak oil</a>)</li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydro</a>
+<ul><li><a href="/wiki/Tidal_power" title="Tidal power">tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">wave</a></li></ul></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a>
+<ul><li><a href="/wiki/Sunlight" title="Sunlight">sunlight</a></li>
+<li><a href="/wiki/Shade_(shadow)" title="Shade (shadow)">shade</a></li></ul></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Land" title="Land">Land</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arable_land" title="Arable land">Arable</a>
+<ul><li><a href="/wiki/Peak_farmland" title="Peak farmland">peak farmland</a></li></ul></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Degradation</a></li>
+<li><a href="/wiki/Land_law" title="Land law">Law</a>
+<ul><li><a href="/wiki/Property_law" title="Property law">property</a></li></ul></li>
+<li><a href="/wiki/Land_management" title="Land management">Management</a>
+<ul><li><a href="/wiki/Habitat_conservation" title="Habitat conservation">habitat conservation</a></li></ul></li>
+<li><a href="/wiki/Mineral" title="Mineral">Minerals</a>
+<ul><li><a href="/wiki/Mining" title="Mining">mining</a>
+<ul><li><a href="/wiki/Mining_law" title="Mining law">law</a></li>
+<li><a href="/wiki/Sand_mining" title="Sand mining">sand</a></li></ul></li>
+<li><a href="/wiki/Peak_minerals" title="Peak minerals">peak</a></li>
+<li><a href="/wiki/Mineral_rights" title="Mineral rights">rights</a></li></ul></li>
+<li><a href="/wiki/Soil" title="Soil">Soil</a>
+<ul><li><a href="/wiki/Soil_conservation" title="Soil conservation">conservation</a></li>
+<li><a href="/wiki/Soil_fertility" title="Soil fertility">fertility</a></li>
+<li><a href="/wiki/Soil_health" title="Soil health">health</a></li>
+<li><a href="/wiki/Soil_resilience" title="Soil resilience">resilience</a></li></ul></li>
+<li><a href="/wiki/Land_use" title="Land use">Use</a>
+<ul><li><a href="/wiki/Land-use_planning" title="Land-use planning">planning</a></li>
+<li><a href="/wiki/Open_space_reserve" title="Open space reserve">reserve</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Life" title="Life">Life</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Bioprospecting" title="Bioprospecting">Bioprospecting</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a class="mw-redirect" href="/wiki/Bushfood" title="Bushfood">Bushfood</a></li>
+<li><a href="/wiki/Bushmeat" title="Bushmeat">Bushmeat</a></li>
+<li><a href="/wiki/Fishery" title="Fishery">Fisheries</a>
+<ul><li><a href="/wiki/Fisheries_law" title="Fisheries law">law</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">management</a></li></ul></li>
+<li><a href="/wiki/Food" title="Food">Food</a></li>
+<li><a href="/wiki/Forest" title="Forest">Forests</a>
+<ul><li><a href="/wiki/Forest_genetic_resources" title="Forest genetic resources">genetic resources</a></li>
+<li><a href="/wiki/Forestry_law" title="Forestry law">law</a></li>
+<li><a href="/wiki/Forest_management" title="Forest management">management</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Game_(food)" title="Game (food)">Game</a>
+<ul><li><a href="/wiki/Game_law" title="Game law">law</a></li></ul></li>
+<li><a href="/wiki/Gene_bank" title="Gene bank">Gene bank</a></li>
+<li><a href="/wiki/List_of_plants_used_in_herbalism" title="List of plants used in herbalism">Herbalist plants</a></li>
+<li><a href="/wiki/Marine_conservation" title="Marine conservation">Marine conservation</a></li>
+<li><a href="/wiki/Non-timber_forest_product" title="Non-timber forest product">Non-timber forest products</a></li>
+<li><a href="/wiki/Rangeland" title="Rangeland">Rangeland</a></li>
+<li><a href="/wiki/Seed_bank" title="Seed bank">Seed bank</a></li>
+<li><a href="/wiki/Wildlife" title="Wildlife">Wildlife</a>
+<ul><li><a href="/wiki/Wildlife_conservation" title="Wildlife conservation">conservation</a></li>
+<li><a href="/wiki/Wildlife_management" title="Wildlife management">management</a></li></ul></li>
+<li><a href="/wiki/Wood" title="Wood">Wood</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Water" title="Water">Water</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Types / location</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aquifer" title="Aquifer">Aquifer</a>
+<ul><li><a href="/wiki/Aquifer_storage_and_recovery" title="Aquifer storage and recovery">storage and recovery</a></li></ul></li>
+<li><a href="/wiki/Drinking_water" title="Drinking water">Drinking</a></li>
+<li><a href="/wiki/Fresh_water" title="Fresh water">Fresh</a></li>
+<li><a href="/wiki/Groundwater" title="Groundwater">Groundwater</a>
+<ul><li><a href="/wiki/Groundwater_pollution" title="Groundwater pollution">pollution</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">recharge</a></li>
+<li><a href="/wiki/Groundwater_remediation" title="Groundwater remediation">remediation</a></li></ul></li>
+<li><a href="/wiki/Hydrosphere" title="Hydrosphere">Hydrosphere</a></li>
+<li><a href="/wiki/Ice" title="Ice">Ice</a>
+<ul><li><a href="/wiki/Iceberg" title="Iceberg">bergs</a></li>
+<li><a href="/wiki/Glacier" title="Glacier">glacial</a></li>
+<li><a href="/wiki/Polar_ice_cap" title="Polar ice cap">polar</a></li></ul></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a>
+<ul><li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">harvesting</a></li></ul></li>
+<li><a href="/wiki/Stormwater" title="Stormwater">Stormwater</a></li>
+<li><a href="/wiki/Surface_water" title="Surface water">Surface water</a></li>
+<li><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a>
+<ul><li><a href="/wiki/Reclaimed_water" title="Reclaimed water">reclaimed</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Flood" title="Flood">Floods</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_law" title="Water law">Law</a></li>
+<li><a href="/wiki/Leaching_(agriculture)" title="Leaching (agriculture)">Leaching</a></li>
+<li><a href="/wiki/Sanitation" title="Sanitation">Sanitation</a></li>
+<li><a href="/wiki/Water_conflict" title="Water conflict">Conflict</a></li>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Peak_water" title="Peak water">Peak water</a></li>
+<li><a href="/wiki/Water_pollution" title="Water pollution">Pollution</a></li>
+<li><a href="/wiki/Water_privatization" title="Water privatization">Privatization</a></li>
+<li><a href="/wiki/Water_quality" title="Water quality">Quality</a></li>
+<li><a href="/wiki/Water_right" title="Water right">Right</a></li>
+<li><a href="/wiki/Water_resources" title="Water resources">Resources</a>
+<ul><li><a href="/wiki/Water_resource_management" title="Water resource management">management</a></li>
+<li><a href="/wiki/Water_resource_policy" title="Water resource policy">policy</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Commons" title="Commons">Commons</a>
+<ul><li><a href="/wiki/Enclosure" title="Enclosure">enclosure</a></li>
+<li><a href="/wiki/Global_commons" title="Global commons">global</a></li>
+<li><a href="/wiki/Common_land" title="Common land">land</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">tragedy of</a></li></ul></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Economics</a>
+<ul><li><a href="/wiki/Ecological_economics" title="Ecological economics">ecological</a></li>
+<li><a href="/wiki/Land_(economics)" title="Land (economics)">land</a></li></ul></li>
+<li><a href="/wiki/Ecosystem_services" title="Ecosystem services">Ecosystem services</a></li>
+<li><a href="/wiki/Exploitation_of_natural_resources" title="Exploitation of natural resources">Exploitation</a>
+<ul><li><a href="/wiki/Overexploitation" title="Overexploitation">overexploitation</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li></ul></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Management</a>
+<ul><li><a href="/wiki/Adaptive_management" title="Adaptive management">adaptive</a></li></ul></li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a>
+<ul><li><a href="/wiki/Natural_capital_accounting" title="Natural capital accounting">accounting</a></li></ul></li>
+<li><a href="/wiki/Nature_reserve" title="Nature reserve">Nature reserve</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Wilderness" title="Wilderness">Wilderness</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;"><a href="/wiki/Resource" title="Resource">Resource</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Common-pool_resource" title="Common-pool resource">Common-pool</a></li>
+<li><a href="/wiki/Conflict_resource" title="Conflict resource">Conflict <span style="font-size:90%;">(perpetuation)</span></a></li>
+<li><a href="/wiki/Resource_curse" title="Resource curse">Curse</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Depletion</a></li>
+<li><a class="mw-redirect" href="/wiki/Resource_extraction" title="Resource extraction">Extraction</a></li>
+<li><a href="/wiki/Resource_nationalism" title="Resource nationalism">Nationalism</a></li>
+<li><a href="/wiki/Renewable_resource" title="Renewable resource">Renewable</a> / <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">Non-renewable</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portals</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">Agriculture and agronomy</a></li>
+<li><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></li>
+<li><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment</a></li>
+<li><a href="/wiki/Portal:Fishing" title="Portal:Fishing">Fishing</a></li>
+<li><a href="/wiki/Portal:Forestry" title="Portal:Forestry">Forestry</a></li>
+<li><a href="/wiki/Portal:Mining" title="Portal:Mining">Mining</a></li>
+<li><a href="/wiki/Portal:Water" title="Portal:Water">Water</a></li>
+<li><a href="/wiki/Portal:Wetlands" title="Portal:Wetlands">Wetlands</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Natural_resources" title="Category:Natural resources">Category</a>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r865336399">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Category:Natural_resources_agencies" title="Category:Natural resources agencies">agencies</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_law" title="Category:Natural resources law">law</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resource_management" title="Category:Natural resource management">management</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_ministries" title="Category:Natural resources ministries">ministries</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">organizations</a></span></li></ul></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/List_of_colleges_of_natural_resources" title="List of colleges of natural resources">Colleges</a></span></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Natural_resources" title="commons:Category:Natural resources">Natural resources</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20181026162716
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.368 seconds
+Real time usage: 0.450 seconds
+Preprocessor visited node count: 941/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 67675/2097152 bytes
+Template argument size: 459/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31568/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.184/10.000 seconds
+Lua memory usage: 5.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  329.655      1 -total
+ 51.77%  170.671      1 Template:Reflist
+ 23.56%   77.674      4 Template:Cite_book
+ 23.48%   77.414      5 Template:Navbox
+ 16.92%   55.768      6 Template:Cite_web
+ 13.14%   43.317      1 Template:About
+ 10.70%   35.274      1 Template:Natural_resources
+ 10.58%   34.883      1 Template:Convert
+ 10.26%   33.817      1 Template:Water
+  6.60%   21.757      7 Template:Icon
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7383878-0!canonical and timestamp 20181026162716 and revision id 861738205
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Overdrafting&amp;oldid=861738205">https://en.wikipedia.org/w/index.php?title=Overdrafting&amp;oldid=861738205</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Aquifers" title="Category:Aquifers">Aquifers</a></li><li><a href="/wiki/Category:Environmental_impact_of_agriculture" title="Category:Environmental impact of agriculture">Environmental impact of agriculture</a></li><li><a href="/wiki/Category:Environmental_issues_with_water" title="Category:Environmental issues with water">Environmental issues with water</a></li><li><a href="/wiki/Category:Water_supply" title="Category:Water supply">Water supply</a></li><li><a href="/wiki/Category:Water_and_the_environment" title="Category:Water and the environment">Water and the environment</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Overdrafting" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Overdrafting" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Overdrafting" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Overdrafting" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Overdrafting">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Overdrafting&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Overdrafting&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Overdrafting" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Overdrafting" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Overdrafting&amp;oldid=861738205" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Overdrafting&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7113626" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Overdrafting&amp;id=861738205" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Overdrafting">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Overdrafting&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Overdrafting&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%AD%D8%A8_%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D8%AF" hreflang="ar" lang="ar" title="السحب الزائد – Arabic">العربية</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sobreexplotaci%C3%B3n_de_acu%C3%ADferos" hreflang="es" lang="es" title="Sobreexplotación de acuíferos – Spanish">Español</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Verdroging" hreflang="nl" lang="nl" title="Verdroging – Dutch">Nederlands</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7113626#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 September 2018, at 17:21<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Overdrafting&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.450","ppvisitednodes":{"value":941,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67675,"limit":2097152},"templateargumentsize":{"value":459,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31568,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  329.655      1 -total"," 51.77%  170.671      1 Template:Reflist"," 23.56%   77.674      4 Template:Cite_book"," 23.48%   77.414      5 Template:Navbox"," 16.92%   55.768      6 Template:Cite_web"," 13.14%   43.317      1 Template:About"," 10.70%   35.274      1 Template:Natural_resources"," 10.58%   34.883      1 Template:Convert"," 10.26%   33.817      1 Template:Water","  6.60%   21.757      7 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.184","limit":"10.000"},"limitreport-memusage":{"value":6052772,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20181026162716","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1328"});});</script>
+</body>
+</html>

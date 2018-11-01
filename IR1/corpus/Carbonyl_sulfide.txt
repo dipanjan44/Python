@@ -1,0 +1,826 @@
+https://en.wikipedia.org/wiki/Carbonyl_sulfide
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Carbonyl sulfide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carbonyl_sulfide","wgTitle":"Carbonyl sulfide","wgCurRevisionId":853727343,"wgRevisionId":853727343,"wgArticleId":2072019,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2018","Articles without UNII source","ECHA InfoCard ID from Wikidata","Articles containing unverified chemical infoboxes","Articles with unsourced statements from December 2017","Wikipedia articles with GND identifiers","Hazardous air pollutants","Inorganic carbon compounds","Inorganic sulfur compounds","Oxides","Sulfides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carbonyl_sulfide","wgRelevantArticleId":2072019,"wgRequestId":"W9NFEwpAAD4AAJLNoKgAAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q412371","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/f/f9/Carbonyl-sulfide-2D-dimensions.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carbonyl_sulfide" rel="alternate"/>
+<link href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Carbonyl_sulfide" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Carbonyl_sulfide rootpage-Carbonyl_sulfide skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Carbonyl sulfide</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"COS" redirects here. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/COS_(disambiguation)" title="COS (disambiguation)">COS (disambiguation)</a>.</div>
+<table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left; ;">
+<caption style="text-align:center;">Carbonyl sulfide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a class="image" href="/wiki/File:Carbonyl-sulfide-2D-dimensions.png" title="Carbonyl sulfide"><img alt="Carbonyl sulfide" data-file-height="844" data-file-width="1130" height="164" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Carbonyl-sulfide-2D-dimensions.png/220px-Carbonyl-sulfide-2D-dimensions.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Carbonyl-sulfide-2D-dimensions.png/330px-Carbonyl-sulfide-2D-dimensions.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Carbonyl-sulfide-2D-dimensions.png/440px-Carbonyl-sulfide-2D-dimensions.png 2x" width="220"/></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a class="image" href="/wiki/File:Carbonyl-sulfide-3D-vdW.png" title="Space-filling 3D model of carbonyl sulfide"><img alt="Space-filling 3D model of carbonyl sulfide" data-file-height="719" data-file-width="1100" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Carbonyl-sulfide-3D-vdW.png/220px-Carbonyl-sulfide-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Carbonyl-sulfide-3D-vdW.png/330px-Carbonyl-sulfide-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Carbonyl-sulfide-3D-vdW.png/440px-Carbonyl-sulfide-3D-vdW.png 2x" width="220"/></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC names</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Carbon oxide sulfide<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2018)">citation needed</span></a></i>]</sup> <br/> Carbonyl sulfide<sup class="reference" id="cite_ref-redbook_1-0"><a href="#cite_note-redbook-1">[1]</a></sup> <br/> Oxidosulfidocarbon<sup class="reference" id="cite_ref-redbook_1-1"><a href="#cite_note-redbook-1">[1]</a></sup></div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=463-58-1" rel="nofollow">463-58-1</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a class="mw-redirect" href="/wiki/JSmol" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DC%3DS" rel="nofollow">Interactive image</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=16573" rel="nofollow">CHEBI:16573</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a class="external text" href="http://www.chemspider.com/Chemical-Structure.9644.html" rel="nofollow">9644</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/ECHA_InfoCard" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.006.674" rel="nofollow">100.006.674</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_Community_number" title="European Community number"><span title="European Community number (chemical identifier)">EC Number</span></a>
+</td>
+<td>207-340-0
+</td></tr>
+<tr>
+<td><a href="/wiki/KEGG" title="KEGG">KEGG</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.kegg.jp"><a class="external text" href="http://www.kegg.jp/entry/C07331" rel="nofollow">C07331</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/10039" rel="nofollow">10039</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/COS/c2-1-3<sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: JJWKPURADFRFRB-UHFFFAOYSA-N<sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1/COS/c2-1-3</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: JJWKPURADFRFRB-UHFFFAOYAF</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">O=C=S</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td>COS 
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>60.075 g/mol   
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>colorless gas
+</td></tr>
+<tr>
+<td><a href="/wiki/Odor" title="Odor">Odor</a>
+</td>
+<td>sulfide-like
+</td></tr>
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>2.51 g/L
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td> −138.8 °C (−217.8 °F; 134.3 K) 
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td> −50.2 °C (−58.4 °F; 223.0 K) 
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>0.376 g/100 mL (0 °C) <br/> 0.125 g/100 mL (25 °C)
+</td></tr>
+<tr>
+<td><a href="/wiki/Solubility" title="Solubility">Solubility</a>
+</td>
+<td>very soluble in <a href="/wiki/Potassium_hydroxide" title="Potassium hydroxide">KOH</a>, <a href="/wiki/Carbon_disulfide" title="Carbon disulfide">CS<sub>2</sub></a> <br/> soluble in <a href="/wiki/Alcohol" title="Alcohol">alcohol</a>, <a href="/wiki/Toluene" title="Toluene">toluene</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">Magnetic susceptibility</a> (χ)</div>
+</td>
+<td>-32.4·10<sup>−6</sup> cm<sup>3</sup>/mol
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Dipole#Molecular_dipoles" title="Dipole">Dipole moment</a></div>
+</td>
+<td>0.65 D
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Thermochemistry
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Heat_capacity" title="Heat capacity">Heat capacity</a> (<i>C</i>)</div>
+</td>
+<td>41.5 J/mol K
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_molar_entropy" title="Standard molar entropy">Std molar<br/>entropy</a> (<i>S</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>231.5 J/mol K
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a class="mw-redirect" href="/wiki/Standard_enthalpy_change_of_formation" title="Standard enthalpy change of formation">Std enthalpy of<br/>formation</a> (Δ<sub>f</sub><i>H</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>-141.8 kJ/mol
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+<tr>
+<td><a href="/wiki/Safety_data_sheet" title="Safety data sheet">Safety data sheet</a>
+</td>
+<td><a class="external text" href="http://ptcl.chem.ox.ac.uk/MSDS/CA/carbonyl_sulfide.html" rel="nofollow">Carbonyl sulfide MSDS</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/NFPA_704" title="NFPA 704">NFPA 704</a>
+</td>
+<td><div style="width:100%; background:transparent;"><div id="container" style="margin:0 auto; width:82px; font-family:sans-serif"><div class="nounderlines" id="on_image_elements" style="background:; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_1_773311570"><area alt="Flammability code 4: Will rapidly or completely vaporize at normal atmospheric pressure and temperature, or is readily dispersed in air and will burn readily. Flash point below 23 °C (73 °F). E.g., propane" coords="40,0,60,20,40,40,20,20" href="/wiki/NFPA_704#Red" shape="poly" title="Flammability code 4: Will rapidly or completely vaporize at normal atmospheric pressure and temperature, or is readily dispersed in air and will burn readily. Flash point below 23 °C (73 °F). E.g., propane"/><area alt="Health code 3: Short exposure could cause serious temporary or residual injury. E.g., chlorine gas" coords="20,20,40,40,20,60,0,40" href="/wiki/NFPA_704#Blue" shape="poly" title="Health code 3: Short exposure could cause serious temporary or residual injury. E.g., chlorine gas"/><area alt="Reactivity code 1: Normally stable, but can become unstable at elevated temperatures and pressures. E.g., calcium" coords="60,20,80,40,60,60,40,40" href="/wiki/NFPA_704#Yellow" shape="poly" title="Reactivity code 1: Normally stable, but can become unstable at elevated temperatures and pressures. E.g., calcium"/><area alt="Special hazards (white): no code" coords="40,40,60,60,40,80,20,60" href="/wiki/NFPA_704#White" shape="poly" title="Special hazards (white): no code"/></map><img alt="NFPA 704 four-colored diamond" data-file-height="600" data-file-width="600" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" usemap="#ImageMap_1_773311570" width="80"/></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+<a href="/wiki/NFPA_704#Red" title="NFPA 704"><span style="color:black;" title="Flammability code 4: Will rapidly or completely vaporize at normal atmospheric pressure and temperature, or is readily dispersed in air and will burn readily. Flash point below 23 °C (73 °F). E.g., propane">4</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+<a href="/wiki/NFPA_704#Blue" title="NFPA 704"><span style="color:black;" title="Health code 3: Short exposure could cause serious temporary or residual injury. E.g., chlorine gas">3</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+<a href="/wiki/NFPA_704#Yellow" title="NFPA 704"><span style="color:black;" title="Reactivity code 1: Normally stable, but can become unstable at elevated temperatures and pressures. E.g., calcium">1</span></a></div></div></div></div>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Explosive_limit" title="Explosive limit">Explosive limits</a>
+</td>
+<td>12-29%
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Related compounds
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related compounds</div>
+</td>
+<td><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a><br/><a href="/wiki/Carbon_disulfide" title="Carbon disulfide">Carbon disulfide</a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25 °C [77 °F], 100 kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☒" data-file-height="600" data-file-width="525" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/12px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/18px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/24px-X_mark.svg.png 2x" width="12"/><span style="display:none">N</span> <span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=464184821&amp;page2=Carbonyl+sulfide">verify</a></span> (<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a> <sup><img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span><img alt="☒" data-file-height="600" data-file-width="525" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" width="7"/><span style="display:none">N</span></sup> ?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Carbonyl sulfide</b> is the <a href="/wiki/Chemical_compound" title="Chemical compound">chemical compound</a> with the <a href="/wiki/Chemical_formula" title="Chemical formula">linear formula</a> OCS.  Normally written as COS as a chemical formula that does not imply its structure,  it is a colourless flammable <a href="/wiki/Gas" title="Gas">gas</a> with an unpleasant <a href="/wiki/Odor" title="Odor">odor</a><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources in the body of the article. (December 2017)">not verified in body</span></a></i>]</sup>.  It is a linear molecule consisting of a <a class="mw-redirect" href="/wiki/Carbonyl" title="Carbonyl">carbonyl</a> group <a href="/wiki/Double_bond" title="Double bond">double bonded</a> to a sulfur atom.  Carbonyl sulfide can be considered to be intermediate between <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and <a href="/wiki/Carbon_disulfide" title="Carbon disulfide">carbon disulfide</a>, both of which are <a class="mw-redirect" href="/wiki/Valence_isoelectronic" title="Valence isoelectronic">valence isoelectronic</a> with it.
+</p><p>Carbonyl sulfide decomposes in the presence of humidity and bases to <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a>.<sup class="reference" id="cite_ref-hsdb94_2-0"><a href="#cite_note-hsdb94-2">[2]</a></sup><sup class="reference" id="cite_ref-epa94_3-0"><a href="#cite_note-epa94-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>This compound is found to <a href="/wiki/Catalysis" title="Catalysis">catalyze</a> the formation of <a href="/wiki/Peptide" title="Peptide">peptides</a> from <a href="/wiki/Amino_acid" title="Amino acid">amino acids</a>.  This finding is an extension of the <a href="/wiki/Miller%E2%80%93Urey_experiment" title="Miller–Urey experiment">Miller–Urey experiment</a> and it is suggested that carbonyl sulfide played a significant role in the <a class="mw-redirect" href="/wiki/Origin_of_life" title="Origin of life">origin of life</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Occurrence"><span class="tocnumber">1</span> <span class="toctext">Occurrence</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Synthesis"><span class="tocnumber">3</span> <span class="toctext">Synthesis</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Toxicity"><span class="tocnumber">4</span> <span class="toctext">Toxicity</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Occurrence">Occurrence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit&amp;section=1" title="Edit section: Occurrence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carbonyl sulfide is the most abundant sulfur compound naturally present in the atmosphere, at <span class="nowrap"><span class="sortkey" style="display:none">6990500000000000000♠</span>0.5<span style="margin-left:0.3em;margin-right:0.15em;">±</span>0.05 <a class="mw-redirect" href="/wiki/Parts_per_billion" title="Parts per billion">ppb</a></span>, because it is emitted from oceans, <a href="/wiki/Volcano" title="Volcano">volcanoes</a> and <a class="mw-redirect" href="/wiki/Deep_sea_vent" title="Deep sea vent">deep sea vents</a>.  As such, it is a significant compound in the global <a href="/wiki/Sulfur_cycle" title="Sulfur cycle">sulfur cycle</a>.  Measurements on the <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a> <a href="/wiki/Ice_core" title="Ice core">ice cores</a> and from air trapped in snow above glaciers (<a href="/wiki/Firn" title="Firn">firn</a> air) have provided a detailed picture of OCS concentrations from 1640 to the present day and allow an understanding of the relative importance of <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">anthropogenic</a> and non-anthropogenic sources of this gas to the atmosphere.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>  Some carbonyl sulfide that is transported into the <a href="/wiki/Stratosphere" title="Stratosphere">stratospheric</a> sulfate layer is oxidized to sulfuric acid.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Sulfuric acid forms particulate which affects <a class="mw-redirect" href="/wiki/Global_Warming" title="Global Warming">energy balance</a> due to <a class="mw-redirect" href="/wiki/Light_scattering" title="Light scattering">light scattering</a>.<sup class="reference" id="cite_ref-Seinfeld_2006_8-0"><a href="#cite_note-Seinfeld_2006-8">[8]</a></sup> The long atmospheric lifetime of COS makes it the major source of stratospheric sulfate, though <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a> from volcanic activity can be significant too.<sup class="reference" id="cite_ref-Seinfeld_2006_8-1"><a href="#cite_note-Seinfeld_2006-8">[8]</a></sup> Carbonyl sulfide is also removed from the atmosphere by terrestrial vegetation by enzymes associated with the uptake of carbon dioxide during photosynthesis, and by hydrolysis in ocean waters.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>  Loss processes, such as these, limit the persistence (or lifetime) of a molecule of COS in the atmosphere to a few years.
+</p><p>The largest man-made sources of carbonyl sulfide release include its primary use as a chemical intermediate and as a byproduct of  carbon disulfide production; however, it is also released from automobiles and their tire wear.,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> coal-fired power plants, coking ovens, <a href="/wiki/Biomass" title="Biomass">biomass</a> combustion, fish processing, combustion of refuse and plastics, petroleum manufacture, and manufacture of synthetic fibers, starch, and rubber.<sup class="reference" id="cite_ref-hsdb94_2-1"><a href="#cite_note-hsdb94-2">[2]</a></sup>  The average total worldwide release of carbonyl sulfide to the atmosphere has been estimated at about 3 million tons/year, of which less than one third was related to human activity.<sup class="reference" id="cite_ref-hsdb94_2-2"><a href="#cite_note-hsdb94-2">[2]</a></sup> It is also a significant sulfur-containing impurity in <a class="mw-redirect" href="/wiki/Synthesis_gas" title="Synthesis gas">synthesis gas</a>.
+</p><p>Carbonyl sulfide is present in <a class="mw-redirect" href="/wiki/Foodstuff" title="Foodstuff">foodstuffs</a>, such as <a href="/wiki/Cheese" title="Cheese">cheese</a> and prepared <a href="/wiki/Vegetable" title="Vegetable">vegetables</a> of the <a href="/wiki/Cabbage" title="Cabbage">cabbage</a> family. Traces of COS are naturally present in <a href="/wiki/Grain" title="Grain">grains</a> and <a href="/wiki/Seed" title="Seed">seeds</a> in the range of 0.05–0.1 mg·kg<sup>−1</sup>.
+</p><p>Carbonyl sulfide has been observed in the <a href="/wiki/Interstellar_medium" title="Interstellar medium">interstellar medium</a> (see also <a class="mw-redirect" href="/wiki/List_of_molecules_in_interstellar_space" title="List of molecules in interstellar space">List of molecules in interstellar space</a>), in <a class="mw-redirect" href="/wiki/Comet_67P" title="Comet 67P">comet 67P</a><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> and in the <a href="/wiki/Atmosphere_of_Venus" title="Atmosphere of Venus">atmosphere of Venus</a>, where, because of the difficulty of producing COS inorganically, it is considered a possible indicator of life.<sup class="reference" id="cite_ref-Landis2003b_13-0"><a href="#cite_note-Landis2003b-13">[13]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit&amp;section=2" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carbonyl sulfide is used as an intermediate in the production of thiocarbamate herbicides.<sup class="reference" id="cite_ref-epa94_3-1"><a href="#cite_note-epa94-3">[3]</a></sup> Carbonyl sulfide is a potential alternative <a class="mw-redirect" href="/wiki/Fumigant" title="Fumigant">fumigant</a><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> to <a class="mw-redirect" href="/wiki/Methyl_bromide" title="Methyl bromide">methyl bromide</a> and <a href="/wiki/Phosphine" title="Phosphine">phosphine</a>. In some cases, however, residues on the grain result in flavours that are unacceptable to consumers, e.g. barley used for brewing. Carbonyl sulfide is readily converted to the <a href="/wiki/Gaseous_signaling_molecules" title="Gaseous signaling molecules">gaseous signaling molecule</a> <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a> by <a href="/wiki/Carbonic_anhydrase" title="Carbonic anhydrase">carbonic anhydrase</a> enzymes in plants and mammals. Because of this chemistry, the release of carbonyl sulfide from small organic molecules has been identified as a strategy for delivering hydrogen sulfide in different biological contexts.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Synthesis">Synthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit&amp;section=3" title="Edit section: Synthesis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carbonyl sulfide was first described in 1841,<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> but was apparently mischaracterized as a mixture of carbon dioxide and <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a>. <a href="/wiki/Carl_von_Than" title="Carl von Than">Carl von Than</a> first characterized the substance in 1867. It forms when <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> reacts with molten sulfur.  This reaction reverses above <span style="white-space: nowrap">1<span style="margin-left: 0.25em">200</span></span> K (930 °C; <span style="white-space: nowrap">1<span style="margin-left: 0.25em">700</span></span> °F).  A laboratory synthesis entails the reaction <a href="/wiki/Potassium_thiocyanate" title="Potassium thiocyanate">potassium thiocyanate</a> and <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a>. The resulting gas contains significant amounts of byproducts and requires purification.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<dl><dd>KSCN + 2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> →  <span class="chemf nowrap">KHSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + <span class="chemf nowrap">NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + COS</dd></dl>
+<p>Hydrolysis of <a class="mw-redirect" href="/wiki/Isothiocyanates" title="Isothiocyanates">isothiocyanates</a> in <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">hydrochloric acid</a> solution also affords COS.
+</p>
+<h2><span class="mw-headline" id="Toxicity">Toxicity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit&amp;section=4" title="Edit section: Toxicity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of 1994, limited information existed on the acute toxicity of carbonyl sulfide in humans and in animals.<sup class="reference" id="cite_ref-epa94_3-2"><a href="#cite_note-epa94-3">[3]</a></sup>  High concentrations (&gt;1000 ppm) can cause sudden collapse, convulsions, and death from respiratory paralysis.<sup class="reference" id="cite_ref-hsdb94_2-3"><a href="#cite_note-hsdb94-2">[2]</a></sup><sup class="reference" id="cite_ref-epa94_3-3"><a href="#cite_note-epa94-3">[3]</a></sup>  Occasional fatalities have been reported, practically without local irritation or olfactory warning.<sup class="reference" id="cite_ref-epa94_3-4"><a href="#cite_note-epa94-3">[3]</a></sup>  In tests with rats, 50% animals died when exposed to <span class="nowrap"><span class="sortkey" style="display:none">6997140000000000000♠</span>1400 ppm</span> of COS for 90 minutes, or at <span class="nowrap"><span class="sortkey" style="display:none">6997300000000000000♠</span>3000 ppm</span> for 9 minutes.<sup class="reference" id="cite_ref-epa94_3-5"><a href="#cite_note-epa94-3">[3]</a></sup> Limited studies with laboratory animals also suggest that continued inhalation of low concentrations (~50 ppm for up to 12 weeks) does not affect the lungs or the heart.<sup class="reference" id="cite_ref-epa94_3-6"><a href="#cite_note-epa94-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation journal">Beck, M. T.; Kauffman, G. B. (1985). "COS and C<sub>3</sub>S<sub>2</sub>:  The Discovery and Chemistry of Two Important Inorganic Sulfur Compounds". <i><a href="/wiki/Polyhedron_(journal)" title="Polyhedron (journal)">Polyhedron</a></i>. <b>4</b> (5): 775–781. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0277-5387%2800%2987025-4" rel="nofollow">10.1016/S0277-5387(00)87025-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Polyhedron&amp;rft.atitle=COS+and+C%3Csub%3E3%3C%2Fsub%3ES%3Csub%3E2%3C%2Fsub%3E%3A++The+Discovery+and+Chemistry+of+Two+Important+Inorganic+Sulfur+Compounds&amp;rft.volume=4&amp;rft.issue=5&amp;rft.pages=775-781&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1016%2FS0277-5387%2800%2987025-4&amp;rft.au=Beck%2C+M.+T.&amp;rft.au=Kauffman%2C+G.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonyl+sulfide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Svoronos P. D. N.; Bruno T. J. (2002). "Carbonyl sulfide: A review of its chemistry and properties". <i>Industrial &amp; Engineering Chemistry Research</i>. <b>41</b> (22): 5321–5336. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie020365n" rel="nofollow">10.1021/ie020365n</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+%26+Engineering+Chemistry+Research&amp;rft.atitle=Carbonyl+sulfide%3A+A+review+of+its+chemistry+and+properties&amp;rft.volume=41&amp;rft.issue=22&amp;rft.pages=5321-5336&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1021%2Fie020365n&amp;rft.au=Svoronos+P.+D.+N.&amp;rft.au=Bruno+T.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbonyl+sulfide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.scripps.edu/newsandviews/e_20041011/ghadiri.html" rel="nofollow">Carbonyl sulfide and origins of life</a></li>
+<li><a class="external text" href="http://mbao.org/altmet00/86wright.pdf" rel="nofollow">Carbonyl sulfide as a potential fumigant</a></li>
+<li><a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=carbonyl-sulfide1" rel="nofollow">Carbonyl sulfide in the atmosphere</a></li></ul>
+<div aria-labelledby="Inorganic_compounds_of_carbon_and_related_ions" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Inorganic_compounds_of_carbon" title="Template:Inorganic compounds of carbon"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Inorganic_compounds_of_carbon" title="Template talk:Inorganic compounds of carbon"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Inorganic_compounds_of_carbon&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Inorganic_compounds_of_carbon_and_related_ions" style="font-size:114%;margin:0 4em"><a href="/wiki/Compounds_of_carbon" title="Compounds of carbon">Inorganic compounds of</a> <a href="/wiki/Carbon" title="Carbon">carbon</a> and related ions</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Compounds</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tetrabromomethane" title="Tetrabromomethane">CBr<sub>4</sub></a></li>
+<li><a href="/wiki/Carbon_tetrachloride" title="Carbon tetrachloride">CCl<sub>4</sub></a></li>
+<li><a href="/wiki/Carbon_monofluoride" title="Carbon monofluoride">CF</a></li>
+<li><a href="/wiki/Tetrafluoromethane" title="Tetrafluoromethane">CF<sub>4</sub></a></li>
+<li><a href="/wiki/Carbon_tetraiodide" title="Carbon tetraiodide">CI<sub>4</sub></a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">CO<sub>3</sub></a></li>
+<li><a class="mw-selflink selflink">COS</a></li>
+<li><a href="/wiki/Carbon_monosulfide" title="Carbon monosulfide">CS</a></li>
+<li><a href="/wiki/Carbon_disulfide" title="Carbon disulfide">CS<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_diselenide" title="Carbon diselenide">CSe<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">C<sub>3</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_subsulfide" title="Carbon subsulfide">C<sub>3</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Silicon_carbide" title="Silicon carbide">SiC</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Carbon ions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbide" title="Carbide">Carbides</a> [:C≡C:]<sup>2–</sup>, [::C::]<sup>4–</sup>, [:C=C=C:]<sup>4–</sup></li>
+<li><a href="/wiki/Cyanide" title="Cyanide">Cyanides</a> [:C≡N:]<sup>–</sup></li>
+<li><a href="/wiki/Cyanate" title="Cyanate">Cyanates</a> [:O-C≡N:]<sup>–</sup></li>
+<li><a href="/wiki/Thiocyanate" title="Thiocyanate">Thiocyanates</a> [:S-C≡N:]<sup>–</sup></li>
+<li><a href="/wiki/Fulminate" title="Fulminate">Fulminates</a> [:C≡N-O:]<sup>–</sup></li>
+<li><a class="new" href="/w/index.php?title=Thiofulminate&amp;action=edit&amp;redlink=1" title="Thiofulminate (page does not exist)">Thiofulminates</a> [:C≡N-S:]<sup>–</sup></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Oxides and related</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxides</a></li>
+<li><a href="/wiki/Metal_carbonyl" title="Metal carbonyl">Metal carbonyls</a></li>
+<li><a href="/wiki/Carbonic_acid" title="Carbonic acid">Carbonic acid</a></li>
+<li><a href="/wiki/Bicarbonate" title="Bicarbonate">Bicarbonates</a></li>
+<li><a href="/wiki/Carbonate" title="Carbonate">Carbonates</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Molecules_detected_in_outer_space" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Molecules_detected_in_outer_space" title="Template:Molecules detected in outer space"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Molecules_detected_in_outer_space" title="Template talk:Molecules detected in outer space"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Molecules_detected_in_outer_space&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Molecules_detected_in_outer_space" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules" title="List of interstellar and circumstellar molecules">Molecules detected in outer space</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Molecule" title="Molecule">Molecules</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Diatomic_molecule" title="Diatomic molecule">Diatomic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_monochloride" title="Aluminium monochloride">Aluminium monochloride</a></li>
+<li><a href="/wiki/Aluminium_monofluoride" title="Aluminium monofluoride">Aluminium monofluoride</a></li>
+<li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium monoxide</a></li>
+<li><a href="/wiki/Argonium" title="Argonium">Argonium</a></li>
+<li><a href="/wiki/Carbon_monophosphide" title="Carbon monophosphide">Carbon monophosphide</a></li>
+<li><a href="/wiki/Carbon_monosulfide" title="Carbon monosulfide">Carbon monosulfide</a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a></li>
+<li><a href="/wiki/Silicon_carbide" title="Silicon carbide">Carborundum</a></li>
+<li><a href="/wiki/Cyanogen" title="Cyanogen">Cyanogen</a> radical</li>
+<li><a href="/wiki/Diatomic_carbon" title="Diatomic carbon">Diatomic carbon</a></li>
+<li><a class="new" href="/w/index.php?title=Fluoromethylidynium&amp;action=edit&amp;redlink=1" title="Fluoromethylidynium (page does not exist)">Fluoromethylidynium</a></li>
+<li><a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">Hydrogen chloride</a></li>
+<li><a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">Hydrogen fluoride</a></li>
+<li><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a> (molecular)</li>
+<li><a href="/wiki/Hydroxyl_radical" title="Hydroxyl radical">Hydroxyl radical</a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_monohydride_cation&amp;action=edit&amp;redlink=1" title="Magnesium monohydride cation (page does not exist)">Magnesium monohydride cation</a></li>
+<li><a href="/wiki/Methylidyne_radical" title="Methylidyne radical">Methylidyne radical</a></li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a></li>
+<li><a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a> (molecular)</li>
+<li><a class="mw-redirect" href="/wiki/Interstellar_nitrogen_monohydride" title="Interstellar nitrogen monohydride">Nitrogen monohydride</a></li>
+<li><a class="mw-redirect" href="/wiki/Mononitrogen_monosulfide" title="Mononitrogen monosulfide">Nitrogen sulfide</a></li>
+<li><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> (molecular)</li>
+<li><a class="new" href="/w/index.php?title=Phosphorus_monoxide&amp;action=edit&amp;redlink=1" title="Phosphorus monoxide (page does not exist)">Phosphorus monoxide</a></li>
+<li><a href="/wiki/Phosphorus_mononitride" title="Phosphorus mononitride">Phosphorus mononitride</a></li>
+<li><a href="/wiki/Potassium_chloride" title="Potassium chloride">Potassium chloride</a></li>
+<li><a href="/wiki/Silicon_carbide" title="Silicon carbide">Silicon carbide</a></li>
+<li><a href="/wiki/Silicon_nitride#Production" title="Silicon nitride">Silicon mononitride</a></li>
+<li><a href="/wiki/Sulfanyl" title="Sulfanyl">Silicon monoxide</a></li>
+<li><a href="/wiki/Silicon_monosulfide" title="Silicon monosulfide">Silicon monosulfide</a></li>
+<li><a href="/wiki/Sodium_chloride" title="Sodium chloride">Sodium chloride</a></li>
+<li><a href="/wiki/Sodium_iodide" title="Sodium iodide">Sodium iodide</a></li>
+<li><a href="/wiki/Sulfanyl" title="Sulfanyl">Sulfur monohydride</a></li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a></li>
+<li><a href="/wiki/Titanium_oxide" title="Titanium oxide">Titanium oxide</a></li></ul>
+</div></td><td class="navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Nitrous_oxide" title="Nitrous oxide"><img alt="Nitrous-oxide-3D-balls.png" data-file-height="441" data-file-width="1100" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/60px-Nitrous-oxide-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/90px-Nitrous-oxide-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/120px-Nitrous-oxide-3D-balls.png 2x" width="60"/></a> <br/><br/><br/><br/> <a href="/wiki/Ethanol" title="Ethanol"><img alt="Ethanol-3D-balls.png" data-file-height="754" data-file-width="1100" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/60px-Ethanol-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/90px-Ethanol-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/120px-Ethanol-3D-balls.png 2x" width="60"/></a> <br/><br/><br/><br/> <a href="/wiki/Buckminsterfullerene" title="Buckminsterfullerene"><img alt="Buckminsterfullerene-perspective-3D-balls.png" data-file-height="1100" data-file-width="1056" height="63" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/60px-Buckminsterfullerene-perspective-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/90px-Buckminsterfullerene-perspective-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/120px-Buckminsterfullerene-perspective-3D-balls.png 2x" width="60"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Triatomic_molecule" title="Triatomic molecule">Triatomic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_hydroxide" title="Aluminium hydroxide">Aluminium hydroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Aluminium_isocyanide&amp;action=edit&amp;redlink=1" title="Aluminium isocyanide (page does not exist)">Aluminium isocyanide</a></li>
+<li><a href="/wiki/Amino_radical" title="Amino radical">Amino radical</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a class="mw-selflink selflink">Carbonyl sulfide</a></li>
+<li><a class="new" href="/w/index.php?title=CCP_radical&amp;action=edit&amp;redlink=1" title="CCP radical (page does not exist)">CCP radical</a></li>
+<li><a href="/wiki/Halonium_ion" title="Halonium ion">Chloronium</a></li>
+<li><a href="/wiki/Diazenylium" title="Diazenylium">Diazenylium</a></li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a></li>
+<li><a class="new" href="/w/index.php?title=Disilicon_carbide&amp;action=edit&amp;redlink=1" title="Disilicon carbide (page does not exist)">Disilicon carbide</a></li>
+<li><a href="/wiki/Ethynyl_radical" title="Ethynyl radical">Ethynyl radical</a></li>
+<li><a class="new" href="/w/index.php?title=Formyl_radical&amp;action=edit&amp;redlink=1" title="Formyl radical (page does not exist)">Formyl radical</a></li>
+<li><a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">Hydrogen cyanide</a> (HCN)</li>
+<li><a href="/wiki/Hydrogen_isocyanide" title="Hydrogen isocyanide">Hydrogen isocyanide</a> (HNC)</li>
+<li><a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">Hydrogen sulfide</a></li>
+<li><a href="/wiki/Hydroperoxyl" title="Hydroperoxyl">Hydroperoxyl</a></li>
+<li><a class="new" href="/w/index.php?title=Iron_cyanide&amp;action=edit&amp;redlink=1" title="Iron cyanide (page does not exist)">Iron cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Isoformyl&amp;action=edit&amp;redlink=1" title="Isoformyl (page does not exist)">Isoformyl</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_cyanide&amp;action=edit&amp;redlink=1" title="Magnesium cyanide (page does not exist)">Magnesium cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_isocyanide&amp;action=edit&amp;redlink=1" title="Magnesium isocyanide (page does not exist)">Magnesium isocyanide</a></li>
+<li><a href="/wiki/Methylene_(compound)" title="Methylene (compound)">Methylene radical</a></li>
+<li><a href="/wiki/Diazenylium" title="Diazenylium">N<sub>2</sub>H<sup>+</sup></a></li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">Nitrous oxide</a></li>
+<li><a href="/wiki/Nitroxyl" title="Nitroxyl">Nitroxyl</a></li>
+<li><a href="/wiki/Ozone" title="Ozone">Ozone</a></li>
+<li><a href="/wiki/Methylidynephosphane" title="Methylidynephosphane">Phosphaethyne</a></li>
+<li><a href="/wiki/Potassium_cyanide" title="Potassium cyanide">Potassium cyanide</a></li>
+<li><a href="/wiki/Trihydrogen_cation" title="Trihydrogen cation">Protonated molecular hydrogen</a></li>
+<li><a href="/wiki/Sodium_cyanide" title="Sodium cyanide">Sodium cyanide</a></li>
+<li><a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">Sodium hydroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Silicon_carbonitride&amp;action=edit&amp;redlink=1" title="Silicon carbonitride (page does not exist)">Silicon carbonitride</a></li>
+<li><a class="new" href="/w/index.php?title=C-Silicon_dicarbide&amp;action=edit&amp;redlink=1" title="C-Silicon dicarbide (page does not exist)">c-Silicon dicarbide</a></li>
+<li><a class="new" href="/w/index.php?title=SiNC&amp;action=edit&amp;redlink=1" title="SiNC (page does not exist)">SiNC</a></li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a></li>
+<li><a class="new" href="/w/index.php?title=Thioformyl&amp;action=edit&amp;redlink=1" title="Thioformyl (page does not exist)">Thioformyl</a></li>
+<li><a href="/wiki/Thioxoethenylidene" title="Thioxoethenylidene">Thioxoethenylidene</a></li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a></li>
+<li><a href="/wiki/Tricarbon" title="Tricarbon">Tricarbon</a></li>
+<li><a href="/wiki/Water" title="Water">Water</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Four<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetylene" title="Acetylene">Acetylene</a></li>
+<li><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></li>
+<li><a href="/wiki/Isocyanic_acid" title="Isocyanic acid">Cyanic acid</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanoethynyl</a></li>
+<li><a class="new" href="/w/index.php?title=Cyclopropynylidyne&amp;action=edit&amp;redlink=1" title="Cyclopropynylidyne (page does not exist)">Cyclopropynylidyne</a></li>
+<li><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a></li>
+<li><a href="/wiki/Fulminic_acid" title="Fulminic acid">Fulminic acid</a></li>
+<li><a class="new" href="/w/index.php?title=HCCN&amp;action=edit&amp;redlink=1" title="HCCN (page does not exist)">HCCN</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">Hydrogen peroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Hydromagnesium_isocyanide&amp;action=edit&amp;redlink=1" title="Hydromagnesium isocyanide (page does not exist)">Hydromagnesium isocyanide</a></li>
+<li><a href="/wiki/Isocyanic_acid" title="Isocyanic acid">Isocyanic acid</a></li>
+<li><a href="/wiki/Thiocyanic_acid" title="Thiocyanic acid">Isothiocyanic acid</a></li>
+<li><a class="new" href="/w/index.php?title=Ketenyl&amp;action=edit&amp;redlink=1" title="Ketenyl (page does not exist)">Ketenyl</a></li>
+<li><a class="new" href="/w/index.php?title=Methylene_amidogen&amp;action=edit&amp;redlink=1" title="Methylene amidogen (page does not exist)">Methylene amidogen</a></li>
+<li><a href="/wiki/Methyl_radical" title="Methyl radical">Methyl radical</a></li>
+<li><a href="/wiki/Propynylidyne" title="Propynylidyne">Propynylidyne</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">hydrogen cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Silicon_tricarbide&amp;action=edit&amp;redlink=1" title="Silicon tricarbide (page does not exist)">Silicon tricarbide</a></li>
+<li><a href="/wiki/1,3,5-Trithiane" title="1,3,5-Trithiane">Thioformaldehyde</a></li>
+<li><a href="/wiki/Tricarbon_monoxide" title="Tricarbon monoxide">Tricarbon monoxide</a></li>
+<li><a class="mw-redirect" href="/wiki/Tricarbon_sulfide" title="Tricarbon sulfide">Tricarbon sulfide</a></li>
+<li><a href="/wiki/Thiocyanic_acid" title="Thiocyanic acid">Thiocyanic acid</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Five<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ammonium" title="Ammonium">Ammonium</a> ion</li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Butadiynyl</a></li>
+<li><a href="/wiki/Carbodiimide" title="Carbodiimide">Carbodiimide</a></li>
+<li><a href="/wiki/Cyanamide" title="Cyanamide">Cyanamide</a></li>
+<li><a href="/wiki/Cyanoacetylene" title="Cyanoacetylene">Cyanoacetylene</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanoformaldehyde&amp;action=edit&amp;redlink=1" title="Cyanoformaldehyde (page does not exist)">Cyanoformaldehyde</a></li>
+<li><a href="/wiki/Cyanomethyl" title="Cyanomethyl">Cyanomethyl</a></li>
+<li><a href="/wiki/Cyclopropenylidene" title="Cyclopropenylidene">Cyclopropenylidene</a></li>
+<li><a href="/wiki/Formic_acid" title="Formic acid">Formic acid</a></li>
+<li><a class="new" href="/w/index.php?title=Isocyanoacetylene&amp;action=edit&amp;redlink=1" title="Isocyanoacetylene (page does not exist)">Isocyanoacetylene</a></li>
+<li><a href="/wiki/Ketene" title="Ketene">Ketene</a></li>
+<li><a href="/wiki/Methane" title="Methane">Methane</a></li>
+<li><a class="mw-redirect" href="/wiki/Methoxy" title="Methoxy">Methoxy radical</a></li>
+<li><a class="new" href="/w/index.php?title=Methylenimine&amp;action=edit&amp;redlink=1" title="Methylenimine (page does not exist)">Methylenimine</a></li>
+<li><a class="new" href="/w/index.php?title=Propadienylidene&amp;action=edit&amp;redlink=1" title="Propadienylidene (page does not exist)">Propadienylidene</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Formaldehyde" title="Formaldehyde">formaldehyde</a></li>
+<li><a class="new" href="/w/index.php?title=Protonated_formaldehyde&amp;action=edit&amp;redlink=1" title="Protonated formaldehyde (page does not exist)">Protonated formaldehyde</a></li>
+<li><a href="/wiki/Silane" title="Silane">Silane</a></li>
+<li><a href="/wiki/Graphene#Silicon_carbide" title="Graphene">Silicon-carbide cluster</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Six<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetonitrile" title="Acetonitrile">Acetonitrile</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanobutadiynyl_radical&amp;action=edit&amp;redlink=1" title="Cyanobutadiynyl radical (page does not exist)">Cyanobutadiynyl radical</a></li>
+<li><a class="new" href="/w/index.php?title=E-Cyanomethanimine&amp;action=edit&amp;redlink=1" title="E-Cyanomethanimine (page does not exist)">E-Cyanomethanimine</a></li>
+<li><a href="/wiki/Cyclopropenone" title="Cyclopropenone">Cyclopropenone</a></li>
+<li><a href="/wiki/Diacetylene" title="Diacetylene">Diacetylene</a></li>
+<li><a href="/wiki/Ethylene" title="Ethylene">Ethylene</a></li>
+<li><a href="/wiki/Formamide" title="Formamide">Formamide</a></li>
+<li><a class="new" href="/w/index.php?title=HC4N&amp;action=edit&amp;redlink=1" title="HC4N (page does not exist)">HC<sub>4</sub>N</a></li>
+<li><a href="/wiki/Ketenimine" title="Ketenimine">Ketenimine</a></li>
+<li><a href="/wiki/Methanethiol" title="Methanethiol">Methanethiol</a></li>
+<li><a href="/wiki/Methanol" title="Methanol">Methanol</a></li>
+<li><a href="/wiki/Methyl_isocyanide" title="Methyl isocyanide">Methyl isocyanide</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Pentynylidyne</a></li>
+<li><a href="/wiki/Propynal" title="Propynal">Propynal</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Cyanoacetylene" title="Cyanoacetylene">cyanoacetylene</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Seven<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetaldehyde" title="Acetaldehyde">Acetaldehyde</a></li>
+<li><a href="/wiki/Acrylonitrile" title="Acrylonitrile">Acrylonitrile</a>
+<ul><li><a class="mw-redirect" href="/wiki/Vinyl_cyanide" title="Vinyl cyanide">Vinyl cyanide</a></li></ul></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanodiacetylene</a></li>
+<li><a href="/wiki/Ethylene_oxide" title="Ethylene oxide">Ethylene oxide</a></li>
+<li><a href="/wiki/Hexatriynyl_radical" title="Hexatriynyl radical">Hexatriynyl radical</a></li>
+<li><a href="/wiki/Propyne" title="Propyne">Methylacetylene</a></li>
+<li><a href="/wiki/Methylamine" title="Methylamine">Methylamine</a></li>
+<li><a href="/wiki/Methyl_isocyanate" title="Methyl isocyanate">Methyl isocyanate</a></li>
+<li><a href="/wiki/Vinyl_alcohol" title="Vinyl alcohol">Vinyl alcohol</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Eight<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetic_acid" title="Acetic acid">Acetic acid</a></li>
+<li><a href="/wiki/Aminoacetonitrile" title="Aminoacetonitrile">Aminoacetonitrile</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanoallene&amp;action=edit&amp;redlink=1" title="Cyanoallene (page does not exist)">Cyanoallene</a></li>
+<li><a href="/wiki/Ethanimine" title="Ethanimine">Ethanimine</a></li>
+<li><a href="/wiki/Glycolaldehyde" title="Glycolaldehyde">Glycolaldehyde</a></li>
+<li><a class="new" href="/w/index.php?title=Heptatrienyl_radical&amp;action=edit&amp;redlink=1" title="Heptatrienyl radical (page does not exist)">Heptatrienyl radical</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Hexapentaenylidene</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methylcyanoacetylene</a></li>
+<li><a href="/wiki/Methyl_formate" title="Methyl formate">Methyl formate</a></li>
+<li><a href="/wiki/Acrolein" title="Acrolein">Propenal</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Nine<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetamide" title="Acetamide">Acetamide</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanohexatriyne</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanotriacetylene</a></li>
+<li><a href="/wiki/Dimethyl_ether" title="Dimethyl ether">Dimethyl ether</a></li>
+<li><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methyldiacetylene</a></li>
+<li><a href="/wiki/Octatetraynyl_radical" title="Octatetraynyl radical">Octatetraynyl radical</a></li>
+<li><a href="/wiki/Propene" title="Propene">Propene</a></li>
+<li><a href="/wiki/Propionitrile" title="Propionitrile">Propionitrile</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Ten<br/>atoms<br/>or more</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetone" title="Acetone">Acetone</a></li>
+<li><a href="/wiki/Benzene" title="Benzene">Benzene</a></li>
+<li><a href="/wiki/Benzonitrile" title="Benzonitrile">Benzonitrile</a></li>
+<li><a href="/wiki/Buckminsterfullerene" title="Buckminsterfullerene">Buckminsterfullerene</a> (C<sub>60</sub> fullerene, buckyball)</li>
+<li><a href="/wiki/C70_fullerene" title="C70 fullerene">C<sub>70</sub> fullerene</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanodecapentayne</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanopentaacetylene</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanotetra-acetylene</a></li>
+<li><a href="/wiki/Ethylene_glycol" title="Ethylene glycol">Ethylene glycol</a></li>
+<li><a href="/wiki/Ethyl_formate" title="Ethyl formate">Ethyl formate</a></li>
+<li><a href="/wiki/Methyl_acetate" title="Methyl acetate">Methyl acetate</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Methyl-cyano-diacetylene</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methyltriacetylene</a></li>
+<li><a href="/wiki/Propionaldehyde" title="Propionaldehyde">Propanal</a></li>
+<li><a href="/wiki/Butyronitrile" title="Butyronitrile">n-Propyl cyanide</a></li>
+<li><a href="/wiki/Pyrimidine" title="Pyrimidine">Pyrimidine</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Deuterium" title="Deuterium">Deuterated</a><br/>molecules</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></li>
+<li><a href="/wiki/Ammonium" title="Ammonium">Ammonium</a> ion</li>
+<li><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a></li>
+<li><a href="/wiki/Interstellar_formaldehyde#Interstellar_reactions" title="Interstellar formaldehyde">Formyl radical</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">Heavy water</a></li>
+<li><a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">Hydrogen cyanide</a></li>
+<li><a href="/wiki/Hydrogen_deuteride" title="Hydrogen deuteride">Hydrogen deuteride</a></li>
+<li><a href="/wiki/Hydrogen_isocyanide" title="Hydrogen isocyanide">Hydrogen isocyanide</a></li>
+<li><a href="/wiki/Propyne" title="Propyne">Methylacetylene</a></li>
+<li><a class="new" href="/w/index.php?title=N2D%2B&amp;action=edit&amp;redlink=1" title="N2D+ (page does not exist)">N<sub>2</sub>D<sup>+</sup></a></li>
+<li><a href="/wiki/Trihydrogen_cation" title="Trihydrogen cation">Trihydrogen cation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Unconfirmed</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthracene" title="Anthracene">Anthracene</a></li>
+<li><a href="/wiki/Dihydroxyacetone" title="Dihydroxyacetone">Dihydroxyacetone</a></li>
+<li><a href="/wiki/Methoxyethane" title="Methoxyethane">Ethyl methyl ether</a></li>
+<li><a href="/wiki/Glycine" title="Glycine">Glycine</a></li>
+<li><a href="/wiki/Graphene" title="Graphene">Graphene</a></li>
+<li><a class="new" href="/w/index.php?title=H2NCO%2B&amp;action=edit&amp;redlink=1" title="H2NCO+ (page does not exist)">H<sub>2</sub>NCO<sup>+</sup></a></li>
+<li><a href="/wiki/Carbon" title="Carbon">Linear C<sub>5</sub></a></li>
+<li><a href="/wiki/Naphthalene" title="Naphthalene">Naphthalene cation</a></li>
+<li><a href="/wiki/Phosphine" title="Phosphine">Phosphine</a></li>
+<li><a href="/wiki/Pyrene" title="Pyrene">Pyrene</a></li>
+<li><a class="mw-redirect" href="/wiki/Silylidine" title="Silylidine">Silylidine</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#See_also" title="List of interstellar and circumstellar molecules">Related</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abiogenesis" title="Abiogenesis">Abiogenesis</a></li>
+<li><a href="/wiki/Astrobiology" title="Astrobiology">Astrobiology</a></li>
+<li><a href="/wiki/Astrochemistry" title="Astrochemistry">Astrochemistry</a></li>
+<li><a href="/wiki/Atomic_and_molecular_astrophysics" title="Atomic and molecular astrophysics">Atomic and molecular astrophysics</a></li>
+<li><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></li>
+<li><a href="/wiki/Circumstellar_envelope" title="Circumstellar envelope">Circumstellar envelope</a></li>
+<li><a href="/wiki/Cosmic_dust" title="Cosmic dust">Cosmic dust</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic ray</a></li>
+<li><a href="/wiki/Cosmochemistry" title="Cosmochemistry">Cosmochemistry</a></li>
+<li><a class="mw-redirect" href="/wiki/Diffuse_interstellar_band" title="Diffuse interstellar band">Diffuse interstellar band</a></li>
+<li><a href="/wiki/Earliest_known_life_forms" title="Earliest known life forms">Earliest known life forms</a></li>
+<li><a href="/wiki/Extraterrestrial_life" title="Extraterrestrial life">Extraterrestrial life</a></li>
+<li><a href="/wiki/Extraterrestrial_liquid_water" title="Extraterrestrial liquid water">Extraterrestrial liquid water</a></li>
+<li><a href="/wiki/Forbidden_mechanism" title="Forbidden mechanism">Forbidden mechanism</a></li>
+<li><a href="/wiki/Helium_hydride_ion" title="Helium hydride ion">Helium hydride ion</a></li>
+<li><a href="/wiki/Homochirality" title="Homochirality">Homochirality</a></li>
+<li><a href="/wiki/Intergalactic_dust" title="Intergalactic dust">Intergalactic dust</a></li>
+<li><a href="/wiki/Interplanetary_medium" title="Interplanetary medium">Interplanetary medium</a></li>
+<li><a href="/wiki/Interstellar_medium" title="Interstellar medium">Interstellar medium</a></li>
+<li><a href="/wiki/Photodissociation_region" title="Photodissociation region">Photodissociation region</a></li>
+<li><a class="mw-redirect" href="/wiki/Iron%E2%80%93sulfur_world_theory" title="Iron–sulfur world theory">Iron–sulfur world theory</a></li>
+<li><a href="/wiki/Kerogen" title="Kerogen">Kerogen</a></li>
+<li><a href="/wiki/Molecules_in_stars" title="Molecules in stars">Molecules in stars</a></li>
+<li><a href="/wiki/Nexus_for_Exoplanet_System_Science" title="Nexus for Exoplanet System Science">Nexus for Exoplanet System Science</a></li>
+<li><a href="/wiki/Organic_compound" title="Organic compound">Organic compound</a></li>
+<li><a href="/wiki/Outer_space" title="Outer space">Outer space</a></li>
+<li><a href="/wiki/PAH_world_hypothesis" title="PAH world hypothesis">PAH world hypothesis</a></li>
+<li><a href="/wiki/Panspermia" title="Panspermia">Panspermia</a></li>
+<li><a href="/wiki/Polycyclic_aromatic_hydrocarbon" title="Polycyclic aromatic hydrocarbon">Polycyclic aromatic hydrocarbon</a> (PAH)</li>
+<li><a class="mw-redirect" href="/wiki/RNA_world_hypothesis" title="RNA world hypothesis">RNA world hypothesis</a></li>
+<li><a href="/wiki/Spectroscopy" title="Spectroscopy">Spectroscopy</a></li>
+<li><a href="/wiki/Tholin" title="Tholin">Tholin</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight: bold;"><div>
+<ul><li><b><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Astrochemistry" title="Category:Astrochemistry">Category:Astrochemistry</a></b></li>
+<li><b><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Astrobiology" title="Portal:Astrobiology">Portal:Astrobiology</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Sulfur_compounds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sulfur_compounds" title="Template:Sulfur compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Sulfur_compounds&amp;action=edit&amp;redlink=1" title="Template talk:Sulfur compounds (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sulfur_compounds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sulfur_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Sulfur" title="Sulfur">Sulfur</a> compounds</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_sulfide" title="Aluminium sulfide">Al<sub>2</sub>S<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Arsenic(II)_sulfide&amp;action=edit&amp;redlink=1" title="Arsenic(II) sulfide (page does not exist)">As<sub>2</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Arsenic_trisulfide" title="Arsenic trisulfide">As<sub>2</sub>S<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Arsenic(V)_sulfide&amp;action=edit&amp;redlink=1" title="Arsenic(V) sulfide (page does not exist)">As<sub>2</sub>S<sub>5</sub></a></li>
+<li><a href="/wiki/Realgar" title="Realgar">As<sub>4</sub>S<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Gold(III)_sulfide&amp;action=edit&amp;redlink=1" title="Gold(III) sulfide (page does not exist)">Au<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_sulfide" title="Boron sulfide">B<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Barium_sulfide" title="Barium sulfide">BaS</a></li>
+<li><a href="/wiki/Beryllium_sulfide" title="Beryllium sulfide">BeS</a></li>
+<li><a href="/wiki/Bismuth(III)_sulfide" title="Bismuth(III) sulfide">Bi<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Sulfur_dibromide" title="Sulfur dibromide">Br<sub>2</sub>S</a></li>
+<li><a href="/wiki/Disulfur_dibromide" title="Disulfur dibromide">Br<sub>2</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_disulfide" title="Carbon disulfide">CS<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_subsulfide" title="Carbon subsulfide">C<sub>3</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Calcium_sulfide" title="Calcium sulfide">CaS</a></li>
+<li><a href="/wiki/Cadmium_sulfide" title="Cadmium sulfide">CdS</a></li>
+<li><a class="new" href="/w/index.php?title=Cerium(II)_sulfide&amp;action=edit&amp;redlink=1" title="Cerium(II) sulfide (page does not exist)">CeS</a></li>
+<li><a href="/wiki/Sulfur_dichloride" title="Sulfur dichloride">SCl<sub>2</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Sulfur_monochloride" title="Sulfur monochloride">S<sub>2</sub>Cl<sub>2</sub></a></li>
+<li><a href="/wiki/Cobalt_sulfide" title="Cobalt sulfide">CoS</a></li>
+<li><a href="/wiki/Chromium(III)_sulfide" title="Chromium(III) sulfide">Cr<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Copper_monosulfide" title="Copper monosulfide">CuS</a></li>
+<li><a class="new" href="/w/index.php?title=Deuterium_sulfide&amp;action=edit&amp;redlink=1" title="Deuterium sulfide (page does not exist)">D<sub>2</sub>S</a></li>
+<li><a class="new" href="/w/index.php?title=Dysprosium(III)_sulfide&amp;action=edit&amp;redlink=1" title="Dysprosium(III) sulfide (page does not exist)">Dy<sub>2</sub>S<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Erbium_sulfide&amp;action=edit&amp;redlink=1" title="Erbium sulfide (page does not exist)">Er<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Europium(II)_sulfide" title="Europium(II) sulfide">EuS</a></li>
+<li><a href="/wiki/Sulfur_tetrafluoride" title="Sulfur tetrafluoride">SF<sub>4</sub></a></li>
+<li><a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">SF<sub>6</sub></a></li>
+<li><a href="/wiki/Pyrite" title="Pyrite">FeS<sub>2</sub></a></li>
+<li><a href="/wiki/Gallium(II)_sulfide" title="Gallium(II) sulfide">GaS</a></li>
+<li><a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">H<sub>2</sub>S</a></li>
+<li><a class="mw-redirect" href="/wiki/Hafnium(IV)_sulfide" title="Hafnium(IV) sulfide">HfS<sub>2</sub></a></li>
+<li><a href="/wiki/Mercury_sulfide" title="Mercury sulfide">HgS</a></li>
+<li><a class="new" href="/w/index.php?title=Indium(II)_sulfide&amp;action=edit&amp;redlink=1" title="Indium(II) sulfide (page does not exist)">InS</a></li>
+<li><a class="new" href="/w/index.php?title=Sulfur_diiodide&amp;action=edit&amp;redlink=1" title="Sulfur diiodide (page does not exist)">I<sub>2</sub>S</a></li>
+<li><a class="new" href="/w/index.php?title=Lanthanum_monosulfide&amp;action=edit&amp;redlink=1" title="Lanthanum monosulfide (page does not exist)">LaS</a></li>
+<li><a href="/wiki/Lithium_sulfide" title="Lithium sulfide">LiS</a></li>
+<li><a href="/wiki/Magnesium_sulfide" title="Magnesium sulfide">MgS</a></li>
+<li><a href="/wiki/Molybdenum_trisulfide" title="Molybdenum trisulfide">MoS<sub>3</sub></a></li>
+<li><a href="/wiki/Millerite" title="Millerite">NiS</a></li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">SO<sub>2</sub></a></li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">SO<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Phosphorus_heptasulfide&amp;action=edit&amp;redlink=1" title="Phosphorus heptasulfide (page does not exist)">P<sub>4</sub>S<sub>7</sub></a></li>
+<li><a href="/wiki/Lead(II)_sulfide" title="Lead(II) sulfide">PbS</a></li>
+<li><a href="/wiki/Lead(IV)_sulfide" title="Lead(IV) sulfide">PbS<sub>2</sub></a></li>
+<li><a href="/wiki/Platinum(II)_sulfide" title="Platinum(II) sulfide">PtS</a></li>
+<li><a class="mw-redirect" href="/wiki/Rhenium(IV)_sulfide" title="Rhenium(IV) sulfide">ReS<sub>2</sub></a></li>
+<li><a href="/wiki/Strontium_sulfide" title="Strontium sulfide">SrS</a></li>
+<li><a href="/wiki/Thallium(I)_sulfide" title="Thallium(I) sulfide">TlS</a></li>
+<li><a class="new" href="/w/index.php?title=Vanadium_sulfide&amp;action=edit&amp;redlink=1" title="Vanadium sulfide (page does not exist)">SV</a></li>
+<li><a href="/wiki/Selenium_disulfide" title="Selenium disulfide">SeS<sub>2</sub></a></li>
+<li><a href="/wiki/Uranium_disulfide" title="Uranium disulfide">S<sub>2</sub>U</a></li>
+<li><a class="mw-redirect" href="/wiki/Tungsten(IV)_sulfide" title="Tungsten(IV) sulfide">WS<sub>2</sub></a></li>
+<li><a href="/wiki/Antimony_trisulfide" title="Antimony trisulfide">Sb<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Antimony_pentasulfide" title="Antimony pentasulfide">Sb<sub>2</sub>S<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Samarium_sulfide&amp;action=edit&amp;redlink=1" title="Samarium sulfide (page does not exist)">Sm<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Yttrium(III)_sulfide" title="Yttrium(III) sulfide">Y<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Silver_sulfate" title="Silver sulfate">Ag<sub>2</sub>SO<sub>4</sub></a></li>
+<li><a href="/wiki/Thionyl_bromide" title="Thionyl bromide">SOBr<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Carbon_sulfide_telluride&amp;action=edit&amp;redlink=1" title="Carbon sulfide telluride (page does not exist)">CSTe</a></li>
+<li><a href="/wiki/Thiirane" title="Thiirane">C<sub>2</sub>H<sub>4</sub>S</a></li>
+<li><a href="/wiki/Dimethyl_trisulfide" title="Dimethyl trisulfide">C<sub>2</sub>H<sub>6</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Thiophene" title="Thiophene">C<sub>4</sub>H<sub>4</sub>S</a></li>
+<li><a href="/wiki/Calcium_sulfate" title="Calcium sulfate">CaSO<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Dihexadecyl_disulfide&amp;action=edit&amp;redlink=1" title="Dihexadecyl disulfide (page does not exist)">C<sub>32</sub>H<sub>66</sub>S<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Copper(II)_ferrous_sulfide&amp;action=edit&amp;redlink=1" title="Copper(II) ferrous sulfide (page does not exist)">CuFeS<sub>2</sub></a></li>
+<li><a href="/wiki/Sulfuric_acid" title="Sulfuric acid">H<sub>2</sub>SO<sub>4</sub></a></li>
+<li><a href="/wiki/Sulfurous_acid" title="Sulfurous acid">H<sub>2</sub>SO<sub>3</sub></a></li>
+<li><a href="/wiki/Thionyl_fluoride" title="Thionyl fluoride">F<sub>2</sub>OS</a></li>
+<li><a href="/wiki/Sodium_hydrosulfide" title="Sodium hydrosulfide">NaHS</a></li>
+<li><a href="/wiki/Potassium_sulfite" title="Potassium sulfite">K<sub>2</sub>SO<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Antimony_oxide_sulfide&amp;action=edit&amp;redlink=1" title="Antimony oxide sulfide (page does not exist)">O<sub>3</sub>S<sub>3</sub>Sb<sub>4</sub></a></li>
+<li><a href="/wiki/Ytterbium(III)_sulfate" title="Ytterbium(III) sulfate">Yb<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Potassium_alum" title="Potassium alum">AlKO<sub>8</sub>S<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Trichloromethyl_mercaptan&amp;action=edit&amp;redlink=1" title="Trichloromethyl mercaptan (page does not exist)">CHCl<sub>3</sub>S</a></li>
+<li><a href="/wiki/Potassium_thiocyanate" title="Potassium thiocyanate">KSCN</a></li>
+<li><a class="new" href="/w/index.php?title=Cadmium_sulfite&amp;action=edit&amp;redlink=1" title="Cadmium sulfite (page does not exist)">CdSO<sub>3</sub></a></li>
+<li><a href="/wiki/Thiophosphoryl_chloride" title="Thiophosphoryl chloride">PSCl<sub>3</sub></a></li>
+<li><a href="/wiki/Thionyl_chloride" title="Thionyl chloride">SOCl<sub>2</sub></a></li>
+<li><a href="/wiki/Caesium_sulfate" title="Caesium sulfate">Cs<sub>2</sub>O<sub>4</sub>S</a></li>
+<li><a class="new" href="/w/index.php?title=Rhenium(VII)_sulfate&amp;action=edit&amp;redlink=1" title="Rhenium(VII) sulfate (page does not exist)">Re<sub>2</sub>S<sub>7</sub></a></li>
+<li><a href="/wiki/Sodium_sulfide" title="Sodium sulfide">Na<sub>2</sub>S</a></li>
+<li><a href="/wiki/Potassium_sulfide" title="Potassium sulfide">K<sub>2</sub>S</a></li>
+<li><a href="/wiki/Oleum" title="Oleum">H<sub>2</sub>S<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Peroxymonosulfuric_acid" title="Peroxymonosulfuric acid">H<sub>2</sub>SO<sub>5</sub></a></li>
+<li><a href="/wiki/Ammonium_hydrosulfide" title="Ammonium hydrosulfide">NH<sub>5</sub>S</a></li>
+<li><a href="/wiki/Mercury(II)_sulfate" title="Mercury(II) sulfate">HgSO<sub>4</sub></a></li>
+<li><a href="/wiki/Potassium_sulfate" title="Potassium sulfate">K<sub>2</sub>SO<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Radium_sulfate&amp;action=edit&amp;redlink=1" title="Radium sulfate (page does not exist)">RaSO<sub>4</sub></a></li>
+<li><a href="/wiki/Tin(II)_sulfate" title="Tin(II) sulfate">SnSO<sub>4</sub></a></li>
+<li><a href="/wiki/Strontium_sulfate" title="Strontium sulfate">SrSO<sub>4</sub></a></li>
+<li><a href="/wiki/Zirconium(IV)_sulfate" title="Zirconium(IV) sulfate">Zr(SO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Titanium(IV)_sulfate&amp;action=edit&amp;redlink=1" title="Titanium(IV) sulfate (page does not exist)">Ti(SO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Thulium(III)_sulfate&amp;action=edit&amp;redlink=1" title="Thulium(III) sulfate (page does not exist)">Tm<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Sodium_aluminium_sulfate" title="Sodium aluminium sulfate">AlNa(SO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Erbium(III)_sulfate&amp;action=edit&amp;redlink=1" title="Erbium(III) sulfate (page does not exist)">Er<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Europium(III)_sulfate&amp;action=edit&amp;redlink=1" title="Europium(III) sulfate (page does not exist)">Eu<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Thiocyanic_acid" title="Thiocyanic acid">CHNS</a></li>
+<li><a href="/wiki/Cobalt(II)_thiocyanate" title="Cobalt(II) thiocyanate">Co(SCN)<sub>2</sub></a></li>
+<li><a href="/wiki/Methyl_thiocyanate" title="Methyl thiocyanate">C<sub>2</sub>H<sub>3</sub>SN</a></li>
+<li><a class="new" href="/w/index.php?title=Phosphorothioc_triiodide&amp;action=edit&amp;redlink=1" title="Phosphorothioc triiodide (page does not exist)">PSI<sub>3</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Zirconium(IV)_sulfide" title="Zirconium(IV) sulfide">ZrS<sub>2</sub></a></li>
+<li><a href="/wiki/Silicon_monosulfide" title="Silicon monosulfide">SiS</a></li>
+<li><a class="new" href="/w/index.php?title=Carbon_sulfide_selenide&amp;action=edit&amp;redlink=1" title="Carbon sulfide selenide (page does not exist)">CSSe</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formulas</a></b></div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q412371&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q412371&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q412371" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4164527-3" rel="nofollow">4164527-3</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20181026161603
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.216 seconds
+Real time usage: 1.473 seconds
+Preprocessor visited node count: 7645/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 229304/2097152 bytes
+Template argument size: 25838/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 54850/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.507/10.000 seconds
+Lua memory usage: 10.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1210.585      1 -total
+ 54.08%  654.716      1 Template:Chembox
+ 26.93%  326.010      1 Template:Chembox_Identifiers
+ 26.42%  319.845      1 Template:Reflist
+ 17.54%  212.374      6 Template:Chembox_headerbar
+ 17.20%  208.276     20 Template:Trim
+ 15.55%  188.269     14 Template:Cite_journal
+  9.00%  108.933      1 Template:Chembox_Properties
+  8.96%  108.447     10 Template:Main_other
+  7.65%   92.591      1 Template:Chembox_parametercheck
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2072019-0!canonical and timestamp 20181026161602 and revision id 853727343
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carbonyl_sulfide&amp;oldid=853727343">https://en.wikipedia.org/w/index.php?title=Carbonyl_sulfide&amp;oldid=853727343</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hazardous_air_pollutants" title="Category:Hazardous air pollutants">Hazardous air pollutants</a></li><li><a href="/wiki/Category:Inorganic_carbon_compounds" title="Category:Inorganic carbon compounds">Inorganic carbon compounds</a></li><li><a href="/wiki/Category:Inorganic_sulfur_compounds" title="Category:Inorganic sulfur compounds">Inorganic sulfur compounds</a></li><li><a href="/wiki/Category:Oxides" title="Category:Oxides">Oxides</a></li><li><a href="/wiki/Category:Sulfides" title="Category:Sulfides">Sulfides</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2018" title="Category:Articles with unsourced statements from July 2018">Articles with unsourced statements from July 2018</a></li><li><a href="/wiki/Category:Articles_without_UNII_source" title="Category:Articles without UNII source">Articles without UNII source</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2017" title="Category:Articles with unsourced statements from December 2017">Articles with unsourced statements from December 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Carbonyl+sulfide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Carbonyl+sulfide" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Carbonyl_sulfide" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Carbonyl_sulfide" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Carbonyl_sulfide">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Carbonyl_sulfide&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Carbonyl_sulfide&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Carbonyl_sulfide" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Carbonyl_sulfide" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carbonyl_sulfide&amp;oldid=853727343" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carbonyl_sulfide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q412371" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carbonyl_sulfide&amp;id=853727343" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carbonyl+sulfide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Carbonyl+sulfide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Carbonyl_sulfide&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Carbonyl_sulfide" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%DA%A9%D8%B1%D8%A8%D9%88%D9%86%DB%8C%D9%84_%D8%B3%D9%88%D9%84%D9%81%DB%8C%D8%AF" hreflang="azb" lang="azb" title="کربونیل سولفید – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Sulfur_de_carbonil" hreflang="ca" lang="ca" title="Sulfur de carbonil – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Karbonylsulfid" hreflang="cs" lang="cs" title="Karbonylsulfid – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Carbonylsulfid" hreflang="de" lang="de" title="Carbonylsulfid – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sulfuro_de_carbonilo" hreflang="es" lang="es" title="Sulfuro de carbonilo – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%A8%D9%88%D9%86%DB%8C%D9%84_%D8%B3%D9%88%D9%84%D9%81%DB%8C%D8%AF" hreflang="fa" lang="fa" title="کربونیل سولفید – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Oxysulfure_de_carbone" hreflang="fr" lang="fr" title="Oxysulfure de carbone – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%B0%E0%A4%B2_%E0%A4%97%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A5%87%E0%A4%AF" hreflang="hi" lang="hi" title="प्रांगारल गन्धेय – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Solfuro_di_carbonile" hreflang="it" lang="it" title="Solfuro di carbonile – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Karbonil-szulfid" hreflang="hu" lang="hu" title="Karbonil-szulfid – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Carbonylsulfide" hreflang="nl" lang="nl" title="Carbonylsulfide – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%A1%AB%E5%8C%96%E3%82%AB%E3%83%AB%E3%83%9C%E3%83%8B%E3%83%AB" hreflang="ja" lang="ja" title="硫化カルボニル – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Karbonylsulfid" hreflang="no" lang="no" title="Karbonylsulfid – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Siarczek_karbonylu" hreflang="pl" lang="pl" title="Siarczek karbonylu – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sulfeto_de_carbonila" hreflang="pt" lang="pt" title="Sulfeto de carbonila – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Karbonil_sulfid" hreflang="sr" lang="sr" title="Karbonil sulfid – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Karbonil_sulfid" hreflang="sh" lang="sh" title="Karbonil sulfid – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Karbonyylisulfidi" hreflang="fi" lang="fi" title="Karbonyylisulfidi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Karbonylsulfid" hreflang="sv" lang="sv" title="Karbonylsulfid – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AC%E0%B1%8A%E0%B0%A8%E0%B1%88%E0%B0%B2%E0%B1%8D_%E0%B0%B8%E0%B0%B2%E0%B1%8D%E0%B0%AB%E0%B1%88%E0%B0%A1%E0%B1%8D" hreflang="te" lang="te" title="కార్బొనైల్ సల్ఫైడ్ – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%BE%B0%E5%9F%BA%E7%A1%AB" hreflang="zh" lang="zh" title="羰基硫 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q412371#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 6 August 2018, at 16:28<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Carbonyl_sulfide&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.216","walltime":"1.473","ppvisitednodes":{"value":7645,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":229304,"limit":2097152},"templateargumentsize":{"value":25838,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":54850,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1210.585      1 -total"," 54.08%  654.716      1 Template:Chembox"," 26.93%  326.010      1 Template:Chembox_Identifiers"," 26.42%  319.845      1 Template:Reflist"," 17.54%  212.374      6 Template:Chembox_headerbar"," 17.20%  208.276     20 Template:Trim"," 15.55%  188.269     14 Template:Cite_journal","  9.00%  108.933      1 Template:Chembox_Properties","  8.96%  108.447     10 Template:Main_other","  7.65%   92.591      1 Template:Chembox_parametercheck"]},"scribunto":{"limitreport-timeusage":{"value":"0.507","limit":"10.000"},"limitreport-memusage":{"value":10547987,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20181026161603","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1267"});});</script>
+</body>
+</html>

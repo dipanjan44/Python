@@ -1,0 +1,2087 @@
+https://en.wikipedia.org/wiki/Reference_range
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Reference range - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Reference_range","wgTitle":"Reference range","wgCurRevisionId":843663630,"wgRevisionId":843663630,"wgArticleId":231442,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","CS1 maint: Uses authors parameter","Wikipedia articles published in peer-reviewed literature","Wikipedia articles published in WikiJournal of Medicine","Externally peer reviewed articles","Research","Clinical pathology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Reference_range","wgRelevantArticleId":231442,"wgRequestId":"W9SjdApAICkAAFxp1ZoAAACT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1626599","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Reference_range" rel="alternate"/>
+<link href="/w/index.php?title=Reference_range&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Reference_range&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Reference_range" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Reference_range rootpage-Reference_range skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-Journal_Icon.svg"><a href="https://dx.doi.org/10.15347/wjm/2014.003" rel="nofollow" title="This article has been published in the peer-reviewed journal WikiJournal of Medicine (2014). Click to view the published version."><img alt="This article has been published in the peer-reviewed journal WikiJournal of Medicine (2014). Click to view the published version." data-file-height="479" data-file-width="525" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Journal_Icon.svg/20px-Journal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Journal_Icon.svg/30px-Journal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Journal_Icon.svg/40px-Journal_Icon.svg.png 2x" width="20"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Reference range</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size:115%;"><a class="mw-selflink selflink">Reference<br/>ranges</a></th></tr><tr><td style="padding:0 0.1em 0.4em;text-align:left">
+<p>In:
+</p>
+<ul><li><a href="/wiki/Reference_ranges_for_blood_tests" title="Reference ranges for blood tests">Blood</a></li>
+<li><a class="mw-redirect" href="/wiki/Urinalysis#Target_parameters" title="Urinalysis">Urine</a></li>
+<li><a href="/wiki/Cerebrospinal_fluid#Reference_ranges" title="Cerebrospinal fluid">CSF</a></li>
+<li><a href="/wiki/Human_feces#Fecal_markers" title="Human feces">Feces</a></li>
+<li><a href="/wiki/Vital_signs#Variations_by_age" title="Vital signs">Vital signs</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Reference_ranges" title="Template:Reference ranges"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Reference_ranges" title="Template talk:Reference ranges"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Reference_ranges&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>In <a href="/wiki/Health" title="Health">health</a>-related fields, a <b>reference range</b> or <b>reference interval</b> is the <a href="/wiki/Range_(statistics)" title="Range (statistics)">range</a> of values for a <a href="/wiki/Physiology" title="Physiology">physiologic</a> measurement in healthy persons (for example, the amount of <a href="/wiki/Creatinine" title="Creatinine">creatinine</a> in the <a href="/wiki/Blood" title="Blood">blood</a>, or the <a href="/wiki/Blood_gas_tension" title="Blood gas tension">partial pressure of oxygen</a>). It is a basis for comparison (a <a href="/wiki/Frame_of_reference" title="Frame of reference">frame of reference</a>) for a <a href="/wiki/Physician" title="Physician">physician</a> or other <a href="/wiki/Health_professional" title="Health professional">health professional</a> to interpret a set of test results for a particular patient. Some important reference ranges in medicine are <a href="/wiki/Reference_ranges_for_blood_tests" title="Reference ranges for blood tests">reference ranges for blood tests</a> and <a class="mw-redirect" href="/wiki/Urinalysis#Target_parameters" title="Urinalysis">reference ranges for urine tests</a>.
+</p><p>The standard definition of a reference range (usually referred to if not otherwise specified) originates in what is most prevalent in a <a href="/wiki/Reference_group" title="Reference group">reference group</a> taken from the general (i.e. total) population. This is the general reference range. However, there are also <i>optimal health ranges</i> (ranges that appear to have the optimal health impact) and ranges for particular conditions or statuses (such as pregnancy reference ranges for hormone levels).
+</p><p>Values <b>within the reference range</b> (<b>WRR</b>) are those within the <a href="/wiki/Normal_distribution" title="Normal distribution">normal distribution</a> and are thus often described as <b>within normal limits</b> (<b>WNL</b>). The limits of the normal distribution are called the <i>upper reference limit</i> (URL) or <i>upper limit of normal</i> (ULN) and the <i>lower reference limit</i> (LRL) or <i>lower limit of normal</i> (LLN). In <a href="/wiki/Health_care" title="Health care">health care</a>–related publishing, <a href="/wiki/Style_guide" title="Style guide">style sheets</a> sometimes prefer the word <i>reference</i> over the word <i>normal</i> to prevent the nontechnical <a href="/wiki/Word_sense" title="Word sense">senses</a> of <i>normal</i> from being conflated with the statistical sense. Values outside a reference range are not <a class="extiw" href="https://en.wiktionary.org/wiki/in_and_of_itself#Adverb" title="wikt:in and of itself">necessarily</a> pathologic, and they are not necessarily abnormal in any sense other than statistically. Nonetheless, they are indicators of probable pathosis. Sometimes the underlying cause is obvious; in other cases, challenging <a href="/wiki/Differential_diagnosis" title="Differential diagnosis">differential diagnosis</a> is required to determine what is wrong and thus how to treat it.
+</p><p>A <b>cutoff</b> or <b>threshold</b> is a limit used for <a href="/wiki/Binary_classification" title="Binary classification">binary classification</a>, mainly between normal versus pathological (or probably pathological). Establishment methods for cutoffs include using an upper or a lower limit of a reference range.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Standard_definition"><span class="tocnumber">1</span> <span class="toctext">Standard definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Establishment_methods"><span class="tocnumber">1.1</span> <span class="toctext">Establishment methods</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Normal_distribution"><span class="tocnumber">1.1.1</span> <span class="toctext">Normal distribution</span></a>
+<ul>
+<li class="toclevel-4 tocsection-4"><a href="#Confidence_interval_of_limit"><span class="tocnumber">1.1.1.1</span> <span class="toctext">Confidence interval of limit</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-5"><a href="#Log-normal_distribution"><span class="tocnumber">1.1.2</span> <span class="toctext">Log-normal distribution</span></a>
+<ul>
+<li class="toclevel-4 tocsection-6"><a href="#Necessity"><span class="tocnumber">1.1.2.1</span> <span class="toctext">Necessity</span></a></li>
+<li class="toclevel-4 tocsection-7"><a href="#From_logarithmized_sample_values"><span class="tocnumber">1.1.2.2</span> <span class="toctext">From logarithmized sample values</span></a></li>
+<li class="toclevel-4 tocsection-8"><a href="#From_arithmetic_mean_and_variance"><span class="tocnumber">1.1.2.3</span> <span class="toctext">From arithmetic mean and variance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-9"><a href="#Directly_from_percentages_of_interest"><span class="tocnumber">1.1.3</span> <span class="toctext">Directly from percentages of interest</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Bimodal_distribution"><span class="tocnumber">1.1.4</span> <span class="toctext">Bimodal distribution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Interpretation_of_standard_ranges_in_medical_tests"><span class="tocnumber">1.2</span> <span class="toctext">Interpretation of standard ranges in medical tests</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Probability_of_random_variability"><span class="tocnumber">1.2.1</span> <span class="toctext">Probability of random variability</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Example"><span class="tocnumber">1.2.2</span> <span class="toctext">Example</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Optimal_health_range"><span class="tocnumber">2</span> <span class="toctext">Optimal health range</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#One-sided_cut-off_values"><span class="tocnumber">3</span> <span class="toctext">One-sided cut-off values</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#General_drawbacks"><span class="tocnumber">4</span> <span class="toctext">General drawbacks</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Examples"><span class="tocnumber">5</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Standard_definition">Standard definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=1" title="Edit section: Standard definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The standard definition of a reference range for a particular measurement is defined as the interval between which 95% of values of a reference population fall into, in such a way that 2.5% of the time a value will be less than the lower limit of this interval, and 2.5% of the time it will be larger than the upper limit of this interval, whatever the distribution of these values.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>Reference ranges that are given by this definition are sometimes referred as <i>standard ranges</i>.
+</p><p>Regarding the target population, if not otherwise specified, a standard reference range generally denotes the one in healthy individuals, or without any known condition that directly affects the ranges being established. These are likewise established using reference groups from the healthy population, and are sometimes termed <i>normal ranges</i> or <i>normal values</i> (and sometimes "usual" ranges/values). However, using the term <i>normal</i> may not be appropriate as not everyone outside the interval is abnormal, and people who have a particular condition may still fall within this interval.
+</p><p>However, reference ranges may also be established by taking samples from the whole population, with or without diseases and conditions. In some cases, diseased individuals are taken as the population, establishing reference ranges among those having a disease or condition. Preferably, there should be specific reference ranges for each subgroup of the population that has any factor that affects the measurement, such as, for example, specific ranges for each <i>sex</i>, <i>age group</i>, <i>race</i> or any other <a class="mw-redirect" href="/wiki/General_determinant" title="General determinant">general determinant</a>.
+</p>
+<h3><span class="mw-headline" id="Establishment_methods">Establishment methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=2" title="Edit section: Establishment methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Methods for establishing reference ranges are mainly based on assuming a <a href="/wiki/Normal_distribution" title="Normal distribution">normal distribution</a> or a <a href="/wiki/Log-normal_distribution" title="Log-normal distribution">log-normal distribution</a>, or directly from percentages of interest, as detailed respectively in following sections.
+</p>
+<h4><span class="mw-headline" id="Normal_distribution">Normal distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=3" title="Edit section: Normal distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Standard_deviation_diagram.svg"><img alt="" class="thumbimage" data-file-height="200" data-file-width="400" height="175" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Standard_deviation_diagram.svg/350px-Standard_deviation_diagram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Standard_deviation_diagram.svg/525px-Standard_deviation_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Standard_deviation_diagram.svg/700px-Standard_deviation_diagram.svg.png 2x" width="350"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Standard_deviation_diagram.svg" title="Enlarge"></a></div>When assuming a normal distribution, the reference range is obtained by measuring the values in a reference group and taking two standard deviations either side of the mean. This encompasses ~95% of the total population.</div></div></div>
+<p>The 95% interval, is often estimated by assuming a <a href="/wiki/Normal_distribution" title="Normal distribution">normal distribution</a> of the measured parameter, in which case it can be defined as the interval limited by 1.96<sup class="reference" id="cite_ref-MedicalStatistics_2-0"><a href="#cite_note-MedicalStatistics-2">[2]</a></sup> (often rounded up to 2) population <a href="/wiki/Standard_deviation" title="Standard deviation">standard deviations</a> from either side of the population mean (also called the <a href="/wiki/Expected_value" title="Expected value">expected value</a>).
+However, in the real world, neither the population mean nor the population standard deviation are known. They both need to be estimated from a sample, whose size can be designated <i>n</i>. The population standard deviation is estimated by the sample standard deviation and the population mean is estimated by the sample mean (also called mean or <a href="/wiki/Arithmetic_mean" title="Arithmetic mean">arithmetic mean</a>). To account for these estimations, the 95% <a href="/wiki/Prediction_interval" title="Prediction interval">prediction interval</a> (95% PI) is calculated as:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 95\%\ PI=mean\pm t_{0.975,n-1}{\sqrt {\frac {n+1}{n}}}sd,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>95</mn>
+<mi mathvariant="normal">%<!-- % --></mi>
+<mtext> </mtext>
+<mi>P</mi>
+<mi>I</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mo>±<!-- ± --></mo>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0.975</mn>
+<mo>,</mo>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mi>s</mi>
+<mi>d</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 95\%\ PI=mean\pm t_{0.975,n-1}{\sqrt {\frac {n+1}{n}}}sd,}</annotation>
+</semantics>
+</math></span><img alt=" 95\%\ PI = mean\pm t_{0.975,n-1}\sqrt{\frac{n+1}{n}}sd," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31711920d5d38879c35418771a77df83e3fe4fc2" style="vertical-align: -2.338ex; width:39.318ex; height:6.176ex;"/></span>
+</p><p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle t_{0.975,n-1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0.975</mn>
+<mo>,</mo>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle t_{0.975,n-1}}</annotation>
+</semantics>
+</math></span><img alt="t_{0.975,n-1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69fc56dbc6a180ffacdf9b8e98d338aaa731c483" style="vertical-align: -1.005ex; width:8.361ex; height:2.676ex;"/></span> is the 97.5% quantile of a <a href="/wiki/Student%27s_t-distribution" title="Student's t-distribution">Student's t-distribution</a> with n-1 <a href="/wiki/Degrees_of_freedom_(statistics)" title="Degrees of freedom (statistics)">degrees of freedom</a>.
+</p><p>When the sample size is large (n≥30) <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle t_{0.975,n-1}\simeq 2.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0.975</mn>
+<mo>,</mo>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>≃<!-- ≃ --></mo>
+<mn>2.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle t_{0.975,n-1}\simeq 2.}</annotation>
+</semantics>
+</math></span><img alt="t_{0.975,n-1}\simeq 2." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3158d729582b6f87168d22590425be2eafe8f680" style="vertical-align: -1.005ex; width:13.269ex; height:2.843ex;"/></span>
+</p><p>This method is often acceptably accurate if the standard deviation, as compared to the mean, is not very large. A more accurate method is to perform the calculations on logarithmized values, as described in separate section later.
+</p><p>The following example of this (<i>not</i> logarithmized) method is based on values of <a class="mw-redirect" href="/wiki/Fasting_plasma_glucose" title="Fasting plasma glucose">fasting plasma glucose</a> taken from a reference group of 12 subjects:<sup class="reference" id="cite_ref-Keevil1998_3-0"><a href="#cite_note-Keevil1998-3">[3]</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th><a class="mw-redirect" href="/wiki/Fasting_plasma_glucose" title="Fasting plasma glucose">Fasting plasma glucose</a><br/> (FPG) <br/>in mmol/L</th>
+<th>Deviation from<br/> mean <i>m</i></th>
+<th>Squared deviation<br/>from mean <i>m</i>
+</th></tr>
+<tr>
+<td>Subject 1</td>
+<td>5.5</td>
+<td>0.17</td>
+<td>0.029
+</td></tr>
+<tr>
+<td>Subject 2</td>
+<td>5.2</td>
+<td>-0.13</td>
+<td>0.017
+</td></tr>
+<tr>
+<td>Subject 3</td>
+<td>5.2</td>
+<td>-0.13</td>
+<td>0.017
+</td></tr>
+<tr>
+<td>Subject 4</td>
+<td>5.8</td>
+<td>0.47</td>
+<td>0.221
+</td></tr>
+<tr>
+<td>Subject 5</td>
+<td>5.6</td>
+<td>0.27</td>
+<td>0.073
+</td></tr>
+<tr>
+<td>Subject 6</td>
+<td>4.6</td>
+<td>-0.73</td>
+<td>0.533
+</td></tr>
+<tr>
+<td>Subject 7</td>
+<td>5.6</td>
+<td>0.27</td>
+<td>0.073
+</td></tr>
+<tr>
+<td>Subject 8</td>
+<td>5.9</td>
+<td>0.57</td>
+<td>0.325
+</td></tr>
+<tr>
+<td>Subject 9</td>
+<td>4.7</td>
+<td>-0.63</td>
+<td>0.397
+</td></tr>
+<tr>
+<td>Subject 10</td>
+<td>5</td>
+<td>-0.33</td>
+<td>0.109
+</td></tr>
+<tr>
+<td>Subject 11</td>
+<td>5.7</td>
+<td>0.37</td>
+<td>0.137
+</td></tr>
+<tr>
+<td>Subject 12</td>
+<td>5.2</td>
+<td>-0.13</td>
+<td>0.017
+</td></tr>
+<tr>
+<td></td>
+<td><b>Mean = 5.33</b> (<i>m</i>) <br/> n=12</td>
+<td>Mean = 0.00</td>
+<td>Sum/(n-1) = 1.95/11 =0.18 <br/> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {0.18}}=0.42}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>0.18</mn>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mn>0.42</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\sqrt {0.18}}=0.42}</annotation>
+</semantics>
+</math></span><img alt="
+    \sqrt{0.18 } = 0.42 " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ff67414807677799cefc4aedf9b472545ebcf335" style="vertical-align: -0.671ex; width:13.303ex; height:2.843ex;"/></span><br/>= <b>standard deviation (s.d.)</b>
+</td></tr></tbody></table>
+<p>As can be given from, for example, a <a href="/wiki/Student%27s_t-distribution#Table_of_selected_values" title="Student's t-distribution">table of selected values of Student's t-distribution</a>, the 97.5% percentile with (12-1) degrees of freedom corresponds to 
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle t_{0.975,11}=2.20}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0.975</mn>
+<mo>,</mo>
+<mn>11</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>2.20</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle t_{0.975,11}=2.20}</annotation>
+</semantics>
+</math></span><img alt="t_{0.975,11} = 2.20" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a8bbadee90329ce16b52e4d3555ee295c1968737" style="vertical-align: -1.005ex; width:14.151ex; height:2.843ex;"/></span>
+</p><p>Subsequently, the lower and upper limits of the standard reference range are calculated as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Lower~limit=m-t_{0.975,11}\times {\sqrt {\frac {n+1}{n}}}\times s.d.=5.33-2.20\times {\sqrt {\frac {13}{12}}}\times 0.42=4.4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>L</mi>
+<mi>o</mi>
+<mi>w</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0.975</mn>
+<mo>,</mo>
+<mn>11</mn>
+</mrow>
+</msub>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>×<!-- × --></mo>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+<mo>=</mo>
+<mn>5.33</mn>
+<mo>−<!-- − --></mo>
+<mn>2.20</mn>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mn>13</mn>
+<mn>12</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>×<!-- × --></mo>
+<mn>0.42</mn>
+<mo>=</mo>
+<mn>4.4</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Lower~limit=m-t_{0.975,11}\times {\sqrt {\frac {n+1}{n}}}\times s.d.=5.33-2.20\times {\sqrt {\frac {13}{12}}}\times 0.42=4.4}</annotation>
+</semantics>
+</math></span><img alt=" Lower~limit = m - t_{0.975,11} \times\sqrt{\frac{n+1}{n}}\times s.d. = 5.33 - 2.20\times\sqrt{\frac{13}{12}} \times 0.42 = 4.4" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a969b37e2aef928fcea553d01461528ef8e2967c" style="vertical-align: -2.338ex; width:80.708ex; height:6.176ex;"/></span></dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Upper~limit=m+t_{0.975,11}\times {\sqrt {\frac {n+1}{n}}}\times s.d.=5.33+2.20\times {\sqrt {\frac {13}{12}}}\times 0.42=6.3.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mi>p</mi>
+<mi>p</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mo>+</mo>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0.975</mn>
+<mo>,</mo>
+<mn>11</mn>
+</mrow>
+</msub>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>×<!-- × --></mo>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+<mo>=</mo>
+<mn>5.33</mn>
+<mo>+</mo>
+<mn>2.20</mn>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mn>13</mn>
+<mn>12</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>×<!-- × --></mo>
+<mn>0.42</mn>
+<mo>=</mo>
+<mn>6.3.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Upper~limit=m+t_{0.975,11}\times {\sqrt {\frac {n+1}{n}}}\times s.d.=5.33+2.20\times {\sqrt {\frac {13}{12}}}\times 0.42=6.3.}</annotation>
+</semantics>
+</math></span><img alt=" Upper~limit = m + t_{0.975,11} \times\sqrt{\frac{n+1}{n}}\times s.d. = 5.33 + 2.20\times\sqrt{\frac{13}{12}} \times 0.42 = 6.3." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c45c9b00c2328ebc37c203f0c5fb08366e64ed3b" style="vertical-align: -2.338ex; width:81.102ex; height:6.176ex;"/></span></dd></dl>
+<p>Thus, the standard reference range for this example is estimated to be 4.4 to 6.3 mmol/L.
+</p>
+<h5><span class="mw-headline" id="Confidence_interval_of_limit">Confidence interval of limit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=4" title="Edit section: Confidence interval of limit">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>The 90% <i>confidence interval of a standard reference range limit</i> as estimated assuming a normal distribution can be calculated by:<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Lower limit of the confidence interval = percentile limit - 2.81 x <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {SD}{\sqrt {n}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>S</mi>
+<mi>D</mi>
+</mrow>
+<msqrt>
+<mi>n</mi>
+</msqrt>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {SD}{\sqrt {n}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {SD}{\sqrt {n}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17900839db2d613920e6f1ea5029bee4cdba50ce" style="vertical-align: -2.838ex; width:4.26ex; height:6.343ex;"/></span>
+</p><p>Upper limit of the confidence interval = percentile limit + 2.81 x <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {SD}{\sqrt {n}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>S</mi>
+<mi>D</mi>
+</mrow>
+<msqrt>
+<mi>n</mi>
+</msqrt>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {SD}{\sqrt {n}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {SD}{\sqrt {n}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17900839db2d613920e6f1ea5029bee4cdba50ce" style="vertical-align: -2.838ex; width:4.26ex; height:6.343ex;"/></span>
+</p><p>, where SD is the standard deviation, and n is the number of samples.
+</p><p>Taking the example from the previous section, the number of samples is 12 and the standard deviation is 0.42 mmol/L, resulting in:
+</p><p><i>Lower limit of the confidence interval</i> of the <i>Lower limit of the standard reference range</i> = 4.4 - 2.81 x <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {0.42}{\sqrt {12}}}\approx }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>0.42</mn>
+<msqrt>
+<mn>12</mn>
+</msqrt>
+</mfrac>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {0.42}{\sqrt {12}}}\approx }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {0.42}{\sqrt {12}}}\approx }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ec58a6415f646d8d8a1c0f16687220da41017e2" style="vertical-align: -2.838ex; width:7.55ex; height:6.176ex;"/></span> 4.1
+</p><p><i>Upper limit of the confidence interval</i> of the <i>Lower limit of the standard reference range</i> = 4.4 + 2.81 x <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {0.42}{\sqrt {12}}}\approx }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>0.42</mn>
+<msqrt>
+<mn>12</mn>
+</msqrt>
+</mfrac>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {0.42}{\sqrt {12}}}\approx }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {0.42}{\sqrt {12}}}\approx }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ec58a6415f646d8d8a1c0f16687220da41017e2" style="vertical-align: -2.838ex; width:7.55ex; height:6.176ex;"/></span> 4.7
+</p><p>Thus, the lower limit of the reference range can be written as 4.4 (90% CI 4.1-4.7) mmol/L.
+</p><p>Likewise, with similar calculations, the upper limit of the reference range can be written as 6.3 (90% CI 6.0-6.6) mmol/L.
+</p><p>These confidence intervals reflect <a class="mw-redirect" href="/wiki/Random_error" title="Random error">random error</a>, but do not compensate for <a class="mw-redirect" href="/wiki/Systematic_error" title="Systematic error">systematic error</a>, which in this case can arise from, for example, the reference group not having fasted long enough before blood sampling.
+</p><p>As a comparison, actual reference ranges used clinically for fasting plasma glucose are estimated to have a lower limit of approximately 3.8<sup class="reference" id="cite_ref-firstaid_5-0"><a href="#cite_note-firstaid-5">[5]</a></sup> to 4.0,<sup class="reference" id="cite_ref-uppsala_6-0"><a href="#cite_note-uppsala-6">[6]</a></sup> and an upper limit of approximately 6.0<sup class="reference" id="cite_ref-uppsala_6-1"><a href="#cite_note-uppsala-6">[6]</a></sup> to 6.1.<sup class="reference" id="cite_ref-Medline-GTT_7-0"><a href="#cite_note-Medline-GTT-7">[7]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Log-normal_distribution">Log-normal distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=5" title="Edit section: Log-normal distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:PDF-log_normal_distributions.svg"><img alt="" class="thumbimage" data-file-height="390" data-file-width="390" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PDF-log_normal_distributions.svg/220px-PDF-log_normal_distributions.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PDF-log_normal_distributions.svg/330px-PDF-log_normal_distributions.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PDF-log_normal_distributions.svg/440px-PDF-log_normal_distributions.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:PDF-log_normal_distributions.svg" title="Enlarge"></a></div>Some functions of <a class="mw-redirect" href="/wiki/Log_normal_distribution" title="Log normal distribution">log normal distribution</a> (here shown with the measurements non-logarithmized), with the same means - <i>μ</i> (as calculated after logarithmizing) but different standard deviations - <i>σ</i> (after logarithmizing).</div></div></div>
+<p>In reality, biological parameters tend to have a <a href="/wiki/Log-normal_distribution" title="Log-normal distribution">log-normal distribution</a>,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> rather than the arithmetical normal distribution (which is generally referred to as normal distribution without any further specification).
+</p><p>An explanation for this log-normal distribution for biological parameters is: The event where a sample has half the value of the mean or median tends to have almost equal probability to occur as the event where a sample has twice the value of the mean or median. Also, only a log-normal distribution can compensate for the inability of almost all biological parameters to be of <a href="/wiki/Negative_number" title="Negative number">negative numbers</a> (at least when measured on <a href="/wiki/Absolute_scale" title="Absolute scale">absolute scales</a>), with the consequence that there is no definite limit to the size of outliers (extreme values) on the high side, but, on the other hand, they can never be less than zero, resulting in a positive <a href="/wiki/Skewness" title="Skewness">skewness</a>.
+</p><p>As shown in diagram at right, this phenomenon has relatively small effect if the standard deviation (as compared to the mean) is relatively small, as it makes the log-normal distribution appear similar to an arithmetical normal distribution. Thus, the arithmetical normal distribution may be more appropriate to use with small standard deviations for convenience, and the log-normal distribution with large standard deviations.
+</p><p>In a log-normal distribution, the <a href="/wiki/Geometric_standard_deviation" title="Geometric standard deviation">geometric standard deviations</a> and <a href="/wiki/Geometric_mean" title="Geometric mean">geometric mean</a> more accurately estimate the 95% prediction interval than their arithmetic counterparts.
+</p>
+<h5><span class="mw-headline" id="Necessity">Necessity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=6" title="Edit section: Necessity">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>The necessity to establish a reference range by log-normal distribution rather than arithmetic normal distribution can be regarded as depending on how much difference it would make to <i>not</i> do so, which can be described as the  ratio:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Difference~ratio={\frac {|Limit_{log-normal}-Limit_{normal}|}{Limit_{log-normal}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>D</mi>
+<mi>i</mi>
+<mi>f</mi>
+<mi>f</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mi>e</mi>
+<mi>n</mi>
+<mi>c</mi>
+<mi>e</mi>
+<mtext> </mtext>
+<mi>r</mi>
+<mi>a</mi>
+<mi>t</mi>
+<mi>i</mi>
+<mi>o</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>L</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+<mo>−<!-- − --></mo>
+<mi>n</mi>
+<mi>o</mi>
+<mi>r</mi>
+<mi>m</mi>
+<mi>a</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>L</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mi>o</mi>
+<mi>r</mi>
+<mi>m</mi>
+<mi>a</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+<mrow>
+<mi>L</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+<mo>−<!-- − --></mo>
+<mi>n</mi>
+<mi>o</mi>
+<mi>r</mi>
+<mi>m</mi>
+<mi>a</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Difference~ratio={\frac {|Limit_{log-normal}-Limit_{normal}|}{Limit_{log-normal}}},}</annotation>
+</semantics>
+</math></span><img alt="Difference~ratio = \frac{ | Limit_{log-normal} - Limit_{normal} | }{Limit_{log-normal}}, " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/530cd5a3f6147a1754660e28ee276ccd3859a328" style="vertical-align: -2.505ex; width:52.94ex; height:6.343ex;"/></span>
+</p><p>where:
+</p>
+<ul><li><i>Limit<sub>log-normal</sub></i> is the (lower or upper) limit as estimated by assuming log-normal distribution</li>
+<li><i>Limit<sub>normal</sub></i> is the (lower or upper) limit as estimated by assuming arithmetically normal distribution.</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Diagram_of_coefficient_of_variation_versus_deviation_in_reference_ranges_erroneously_not_established_by_log-normal_distribution.png"><img alt="" class="thumbimage" data-file-height="1759" data-file-width="3219" height="191" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Diagram_of_coefficient_of_variation_versus_deviation_in_reference_ranges_erroneously_not_established_by_log-normal_distribution.png/350px-Diagram_of_coefficient_of_variation_versus_deviation_in_reference_ranges_erroneously_not_established_by_log-normal_distribution.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Diagram_of_coefficient_of_variation_versus_deviation_in_reference_ranges_erroneously_not_established_by_log-normal_distribution.png/525px-Diagram_of_coefficient_of_variation_versus_deviation_in_reference_ranges_erroneously_not_established_by_log-normal_distribution.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Diagram_of_coefficient_of_variation_versus_deviation_in_reference_ranges_erroneously_not_established_by_log-normal_distribution.png/700px-Diagram_of_coefficient_of_variation_versus_deviation_in_reference_ranges_erroneously_not_established_by_log-normal_distribution.png 2x" width="350"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Diagram_of_coefficient_of_variation_versus_deviation_in_reference_ranges_erroneously_not_established_by_log-normal_distribution.png" title="Enlarge"></a></div>Coefficient of variation versus deviation in reference ranges established by assuming arithmetic normal distribution when there is actually a log-normal distribution.</div></div></div>
+<p>This difference can be put solely in relation to the <a href="/wiki/Coefficient_of_variation" title="Coefficient of variation">coefficient of variation</a>, as in the diagram at right, where:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Coefficient~of~variation={\frac {s.d.}{m}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>C</mi>
+<mi>o</mi>
+<mi>e</mi>
+<mi>f</mi>
+<mi>f</mi>
+<mi>i</mi>
+<mi>c</mi>
+<mi>i</mi>
+<mi>e</mi>
+<mi>n</mi>
+<mi>t</mi>
+<mtext> </mtext>
+<mi>o</mi>
+<mi>f</mi>
+<mtext> </mtext>
+<mi>v</mi>
+<mi>a</mi>
+<mi>r</mi>
+<mi>i</mi>
+<mi>a</mi>
+<mi>t</mi>
+<mi>i</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+</mrow>
+<mi>m</mi>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Coefficient~of~variation={\frac {s.d.}{m}},}</annotation>
+</semantics>
+</math></span><img alt=" Coefficient~of~variation =  \frac{s.d.}{m}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/747324ebbceee0db3641ba4a58f94ee96363f8cb" style="vertical-align: -1.838ex; width:34.203ex; height:5.343ex;"/></span>
+</p><p>where:
+</p>
+<ul><li><i>s.d.</i> is the arithmetic standard deviation</li>
+<li><i>m</i> is the arithmetic mean</li></ul>
+<p>In practice, it can be regarded as necessary to use the establishment methods of a log-normal distribution if the difference ratio becomes more than 0.1, meaning that a (lower or upper) limit estimated from an assumed arithmetically normal distribution would be more than 10% different from the corresponding limit as estimated from a (more accurate) log-normal distribution. As seen in the diagram, a difference ratio of 0.1 is reached for the lower limit at a coefficient of variation of 0.213 (or 21.3%), and for the upper limit at a coefficient of variation at 0.413 (41.3%). The lower limit is more affected by increasing coefficient of variation, and its "critical" coefficient of variation of 0.213 corresponds to a ratio of (upper limit)/(lower limit) of 2.43, so as a rule of thumb, if the upper limit is more than 2.4 times the lower limit when estimated by assuming arithmetically normal distribution, then it should be considered to do the calculations again by log-normal distribution.
+</p><p>Taking the example from previous section, the arithmetic standard deviation (s.d.) is estimated at 0.42 and the arithmetic mean (m) is estimated at 5.33. Thus the coefficient of variation is 0.079. This is less than both 0.213 and 0.413, and thus both the lower and upper limit of fasting blood glucose can most likely be estimated by assuming arithmetically normal distribution. More specifically, the coefficient of variation of 0.079 corresponds to a difference ratio of 0.01 (1%) for the lower limit and 0.007 (0.7%) for the upper limit.
+</p>
+<h5><span class="mw-headline" id="From_logarithmized_sample_values">From logarithmized sample values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=7" title="Edit section: From logarithmized sample values">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>A method to estimate the reference range for a parameter with log-normal distribution is to logarithmize all the measurements with an arbitrary <a class="mw-redirect" href="/wiki/Base_of_a_logarithm" title="Base of a logarithm">base</a> (for example <a href="/wiki/E_(mathematical_constant)" title="E (mathematical constant)"><i>e</i></a>), derive the mean and standard deviation of these logarithms, determine the logarithms located (for a 95% prediction interval) 1.96 standard deviations below and above that mean, and subsequently <a href="/wiki/Exponentiation" title="Exponentiation">exponentiate</a> using those two logarithms as exponents and using the same base as was used in logarithmizing, with the two resultant values being the lower and upper limit of the 95% prediction interval.
+</p><p>The following example of this method is based on the same values of <a class="mw-redirect" href="/wiki/Fasting_plasma_glucose" title="Fasting plasma glucose">fasting plasma glucose</a> as used in the previous section, using <a href="/wiki/E_(mathematical_constant)" title="E (mathematical constant)"><i>e</i></a> as a <a class="mw-redirect" href="/wiki/Base_of_a_logarithm" title="Base of a logarithm">base</a>:<sup class="reference" id="cite_ref-Keevil1998_3-1"><a href="#cite_note-Keevil1998-3">[3]</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th><a class="mw-redirect" href="/wiki/Fasting_plasma_glucose" title="Fasting plasma glucose">Fasting plasma glucose</a><br/> (FPG) <br/>in mmol/L</th>
+<th>log<sub><a href="/wiki/E_(mathematical_constant)" title="E (mathematical constant)"><i>e</i></a></sub>(FPG)</th>
+<th>log<sub>e</sub>(FPG) deviation from<br/> mean <i>μ<sub>log</sub></i></th>
+<th>Squared deviation<br/>from mean
+</th></tr>
+<tr>
+<td>Subject 1</td>
+<td>5.5</td>
+<td>1.70</td>
+<td>0.029</td>
+<td>0.000841
+</td></tr>
+<tr>
+<td>Subject 2</td>
+<td>5.2</td>
+<td>1.65</td>
+<td>0.021</td>
+<td>0.000441
+</td></tr>
+<tr>
+<td>Subject 3</td>
+<td>5.2</td>
+<td>1.65</td>
+<td>0.021</td>
+<td>0.000441
+</td></tr>
+<tr>
+<td>Subject 4</td>
+<td>5.8</td>
+<td>1.76</td>
+<td>0.089</td>
+<td>0.007921
+</td></tr>
+<tr>
+<td>Subject 5</td>
+<td>5.6</td>
+<td>1.72</td>
+<td>0.049</td>
+<td>0.002401
+</td></tr>
+<tr>
+<td>Subject 6</td>
+<td>4.6</td>
+<td>1.53</td>
+<td>0.141</td>
+<td>0.019881
+</td></tr>
+<tr>
+<td>Subject 7</td>
+<td>5.6</td>
+<td>1.72</td>
+<td>0.049</td>
+<td>0.002401
+</td></tr>
+<tr>
+<td>Subject 8</td>
+<td>5.9</td>
+<td>1.77</td>
+<td>0.099</td>
+<td>0.009801
+</td></tr>
+<tr>
+<td>Subject 9</td>
+<td>4.7</td>
+<td>1.55</td>
+<td>0.121</td>
+<td>0.014641
+</td></tr>
+<tr>
+<td>Subject 10</td>
+<td>5.0</td>
+<td>1.61</td>
+<td>0.061</td>
+<td>0.003721
+</td></tr>
+<tr>
+<td>Subject 11</td>
+<td>5.7</td>
+<td>1.74</td>
+<td>0.069</td>
+<td>0.004761
+</td></tr>
+<tr>
+<td>Subject 12</td>
+<td>5.2</td>
+<td>1.65</td>
+<td>0.021</td>
+<td>0.000441
+</td></tr>
+<tr>
+<td></td>
+<td><b>Mean: 5.33</b> <br/> (<i>m</i>)</td>
+<td><b>Mean: 1.67</b><br/> (<i>μ<sub>log</sub></i>)</td>
+<td></td>
+<td>Sum/(n-1) : 0.068/11 = 0.0062 <br/> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {0.0062}}=0.079}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mn>0.0062</mn>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mn>0.079</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\sqrt {0.0062}}=0.079}</annotation>
+</semantics>
+</math></span><img alt="
+    \sqrt{0.0062} = 0.079" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c8e3c02c0329d8f6984518f541c1bb6dd0b12835" style="vertical-align: -0.671ex; width:16.79ex; height:2.843ex;"/></span><br/>= <b>standard deviation of log<sub>e</sub>(FPG)</b><br/> (<i>σ</i><sub>log</sub>)
+</td></tr></tbody></table>
+<p>Subsequently, the still logarithmized lower limit of the reference range is calculated as:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}Log_{e}(lower~limit)&amp;=\mu _{log}-t_{0.975,n-1}\times {\sqrt {\frac {n+1}{n}}}\times \sigma _{log}\\&amp;=1.67-2.20\times {\sqrt {\frac {13}{12}}}\times 0.079=1.49,\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mi>L</mi>
+<mi>o</mi>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>l</mi>
+<mi>o</mi>
+<mi>w</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0.975</mn>
+<mo>,</mo>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>×<!-- × --></mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1.67</mn>
+<mo>−<!-- − --></mo>
+<mn>2.20</mn>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mn>13</mn>
+<mn>12</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>×<!-- × --></mo>
+<mn>0.079</mn>
+<mo>=</mo>
+<mn>1.49</mn>
+<mo>,</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}Log_{e}(lower~limit)&amp;=\mu _{log}-t_{0.975,n-1}\times {\sqrt {\frac {n+1}{n}}}\times \sigma _{log}\\&amp;=1.67-2.20\times {\sqrt {\frac {13}{12}}}\times 0.079=1.49,\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="\begin{align} Log_e (lower~limit) &amp;= \mu_{log} - t_{0.975,n-1} \times\sqrt{\frac{n+1}{n}} \times \sigma_{log}\\ 
+&amp;= 1.67 - 2.20\times\sqrt{\frac{13}{12}} \times 0.079 = 1.49, \end{align}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a691d84bcd6460431024772384fe6f3b88577869" style="vertical-align: -5.671ex; width:57.304ex; height:12.509ex;"/></span>
+</p><p>and the upper limit of the reference range as:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}Log_{e}(upper~limit)&amp;=\mu _{log}+t_{0.975,n-1}\times {\sqrt {\frac {n+1}{n}}}\times \sigma _{log}\\&amp;=1.67+2.20\times {\sqrt {\frac {13}{12}}}\times 0.079=1.85\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mi>L</mi>
+<mi>o</mi>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>u</mi>
+<mi>p</mi>
+<mi>p</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0.975</mn>
+<mo>,</mo>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>×<!-- × --></mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mn>1.67</mn>
+<mo>+</mo>
+<mn>2.20</mn>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mn>13</mn>
+<mn>12</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>×<!-- × --></mo>
+<mn>0.079</mn>
+<mo>=</mo>
+<mn>1.85</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}Log_{e}(upper~limit)&amp;=\mu _{log}+t_{0.975,n-1}\times {\sqrt {\frac {n+1}{n}}}\times \sigma _{log}\\&amp;=1.67+2.20\times {\sqrt {\frac {13}{12}}}\times 0.079=1.85\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="\begin{align} Log_e (upper~limit) &amp;= \mu_{log} + t_{0.975,n-1} \times\sqrt{\frac{n+1}{n}} \times \sigma_{log}\\ 
+&amp;= 1.67 + 2.20\times\sqrt{\frac{13}{12}} \times 0.079 = 1.85 \end{align}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/135d836d5f9bce2c59f9b67092b94be3626cf39f" style="vertical-align: -5.671ex; width:56.84ex; height:12.509ex;"/></span>
+</p><p>Conversion back to non-logarithmized values are subsequently performed as:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Lower~limit=e^{Log_{e}(lower~limit)}=e^{1.49}=4.4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>L</mi>
+<mi>o</mi>
+<mi>w</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+<mi>o</mi>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>l</mi>
+<mi>o</mi>
+<mi>w</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1.49</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>4.4</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Lower~limit=e^{Log_{e}(lower~limit)}=e^{1.49}=4.4}</annotation>
+</semantics>
+</math></span><img alt=" Lower~limit = e^{Log_e (lower~limit)} = e^{1.49} = 4.4" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1224c82882634e945ae01470ac2a76804cff6f07" style="vertical-align: -0.338ex; width:43.068ex; height:2.843ex;"/></span>
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Upper~limit=e^{Log_{e}(upper~limit)}=e^{1.85}=6.4}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mi>p</mi>
+<mi>p</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+<mi>o</mi>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>u</mi>
+<mi>p</mi>
+<mi>p</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1.85</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>6.4</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Upper~limit=e^{Log_{e}(upper~limit)}=e^{1.85}=6.4}</annotation>
+</semantics>
+</math></span><img alt=" Upper~limit = e^{Log_e (upper~limit)} = e^{1.85} = 6.4" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bfbdc2640d9e85460117c7af7e37ea6ec7e047e2" style="vertical-align: -0.671ex; width:42.945ex; height:3.176ex;"/></span>
+</p><p>Thus, the standard reference range for this example is estimated to be 4.4 to 6.4.
+</p>
+<h5><span class="mw-headline" id="From_arithmetic_mean_and_variance">From arithmetic mean and variance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=8" title="Edit section: From arithmetic mean and variance">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>An alternative method of establishing a reference range with the assumption of log-normal distribution is to use the arithmetic mean and arithmetic value of standard deviation. This is somewhat more tedious to perform, but may be useful for example in cases where a study that establishes a reference range presents only the arithmetic mean and standard deviation, leaving out the source data. If the original assumption of arithmetically normal distribution is shown to be less appropriate than the log-normal one, then, using the arithmetic mean and standard deviation may be the only available parameters to correct the reference range.
+</p><p>By assuming that the <a href="/wiki/Expected_value" title="Expected value">expected value</a> can represent the arithmetic mean in this case, the parameters <i>μ<sub>log</sub></i> and <i>σ<sub>log</sub></i> can be estimated from the arithmetic mean (<i>m</i>) and standard deviation (<i>s.d.</i>) as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu _{log}=\ln(m)-{\frac {1}{2}}\ln \!\left(1+\!\left({\frac {s.d.}{m}}\right)^{2}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>m</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi>ln</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mspace width="negativethinmathspace"></mspace>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+</mrow>
+<mi>m</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu _{log}=\ln(m)-{\frac {1}{2}}\ln \!\left(1+\!\left({\frac {s.d.}{m}}\right)^{2}\right)}</annotation>
+</semantics>
+</math></span><img alt=" \mu_{log} = \ln(m) - \frac12 \ln\!\left(1 + \!\left(\frac{s.d.}{m}\right)^2 \right) " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5cc09c63498b533d630cb133e38699b47e061294" style="vertical-align: -3.171ex; width:36.359ex; height:7.509ex;"/></span></dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sigma _{log}={\sqrt {\ln \!\left(1+\!\left({\frac {s.d.}{m}}\right)^{2}\right)}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mspace width="negativethinmathspace"></mspace>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+</mrow>
+<mi>m</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma _{log}={\sqrt {\ln \!\left(1+\!\left({\frac {s.d.}{m}}\right)^{2}\right)}}}</annotation>
+</semantics>
+</math></span><img alt=" \sigma_{log} = \sqrt{\ln\!\left(1 + \!\left(\frac{s.d.}{m}\right)^2 \right)} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8ed5ef46b50ef0953a8b912fa95634e2a449a82" style="vertical-align: -3.171ex; width:27.724ex; height:8.176ex;"/></span></dd></dl>
+<p>Following the exampled reference group from the previous section:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu _{log}=\ln(5.33)-{\frac {1}{2}}\ln \!\left(1+\!\left({\frac {0.42}{5.33}}\right)^{2}\right)=1.67}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mn>5.33</mn>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi>ln</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mspace width="negativethinmathspace"></mspace>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>0.42</mn>
+<mn>5.33</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>1.67</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu _{log}=\ln(5.33)-{\frac {1}{2}}\ln \!\left(1+\!\left({\frac {0.42}{5.33}}\right)^{2}\right)=1.67}</annotation>
+</semantics>
+</math></span><img alt=" \mu_{log} = \ln(5.33) - \frac12 \ln\!\left(1 + \!\left(\frac{0.42}{5.33}\right)^2 \right) = 1.67" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/657df7948e700f9f51e2817ad6923fb85b2a9471" style="vertical-align: -3.171ex; width:45.833ex; height:7.509ex;"/></span></dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sigma _{log}={\sqrt {\ln \!\left(1+\!\left({\frac {0.42}{5.33}}\right)^{2}\right)}}=0.079}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>o</mi>
+<mi>g</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mspace width="negativethinmathspace"></mspace>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>0.42</mn>
+<mn>5.33</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mn>0.079</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma _{log}={\sqrt {\ln \!\left(1+\!\left({\frac {0.42}{5.33}}\right)^{2}\right)}}=0.079}</annotation>
+</semantics>
+</math></span><img alt=" \sigma_{log} = \sqrt{\ln\!\left(1 + \!\left(\frac{0.42}{5.33}\right)^2 \right)} = 0.079 " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b0f9044d0b89f930b0fb26cd05c050bf35fc96be" style="vertical-align: -3.171ex; width:36.266ex; height:8.176ex;"/></span></dd></dl>
+<p>Subsequently, the logarithmized, and later non-logarithmized, lower and upper limit are calculated just as by logarithmized sample values.
+</p>
+<h4><span class="mw-headline" id="Directly_from_percentages_of_interest">Directly from percentages of interest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=9" title="Edit section: Directly from percentages of interest">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Reference ranges can also be established directly from the 2.5th and 97.5th percentile of the measurements in the reference group. For example, if the reference group consists of 200 people, and counting from the measurement with lowest value to highest, the lower limit of the reference range would correspond to the 5th measurement and the upper limit would correspond to the 195th measurement.
+</p><p>This method can be used even when measurement values do not appear to conform conveniently to any form of normal distribution or other function.
+</p><p>However, the reference range limits as estimated in this way have higher variance, and therefore less reliability, than those estimated by an arithmetic or log-normal distribution (when such is applicable), because the latter ones acquire <a class="mw-redirect" href="/wiki/Statistical_power" title="Statistical power">statistical power</a> from the measurements of the whole reference group rather than just the measurements at the 2.5th and 97.5th percentiles. Still, this variance decreases with increasing size of the reference group, and therefore, this method may be optimal where a large reference group easily can be gathered, and the distribution mode of the measurements is uncertain.
+</p>
+<h4><span class="mw-headline" id="Bimodal_distribution">Bimodal distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=10" title="Edit section: Bimodal distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Bimodal.png"><img alt="" class="thumbimage" data-file-height="184" data-file-width="350" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bimodal.png/300px-Bimodal.png" srcset="//upload.wikimedia.org/wikipedia/commons/e/e2/Bimodal.png 1.5x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Bimodal.png" title="Enlarge"></a></div><a class="mw-redirect" href="/wiki/Bimodal_distribution" title="Bimodal distribution">Bimodal distribution</a></div></div></div>
+<p>In case of a <a class="mw-redirect" href="/wiki/Bimodal_distribution" title="Bimodal distribution">bimodal distribution</a> (seen at right), it is useful to find out why this is the case. Two reference ranges can be established for the two different groups of people, making it possible to assume a normal distribution for each group. This bimodal pattern is commonly seen in tests that differ between men and women, such as <a class="mw-redirect" href="/wiki/Prostate_specific_antigen" title="Prostate specific antigen">prostate specific antigen</a>.
+</p>
+<h3><span class="mw-headline" id="Interpretation_of_standard_ranges_in_medical_tests">Interpretation of standard ranges in medical tests</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=11" title="Edit section: Interpretation of standard ranges in medical tests">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In case of <a href="/wiki/Medical_test" title="Medical test">medical tests</a> whose results are of continuous values, reference ranges can be used in the interpretation of an individual test result. This is primarily used for <a class="mw-redirect" href="/wiki/Diagnostic_test" title="Diagnostic test">diagnostic tests</a> and <a href="/wiki/Screening_(medicine)" title="Screening (medicine)">screening</a> tests, while <a href="/wiki/Monitoring_(medicine)" title="Monitoring (medicine)">monitoring tests</a> may optimally be interpreted from previous tests of the same individual instead.
+</p>
+<h4><span class="mw-headline" id="Probability_of_random_variability">Probability of random variability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=12" title="Edit section: Probability of random variability">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Reference ranges aid in the evaluation of whether a test result's deviation from the mean is a result of random variability or a result of an underlying disease or condition. If the reference group used to establish the reference range can be assumed to be representative of the individual person in a healthy state, then a test result from that individual that turns out to be lower or higher than the reference range can be interpreted as that there is less than 2.5% probability that this would have occurred by random variability in the absence of disease or other condition, which, in turn, is strongly indicative for considering an underlying disease or condition as a cause.
+</p><p>Such further consideration can be performed, for example, by an <a href="/wiki/Differential_diagnosis#Specific_methods" title="Differential diagnosis">epidemiology-based differential diagnostic procedure</a>, where potential candidate conditions are listed that may explain the finding, followed by calculations of how probable they are to have occurred in the first place, in turn followed by a comparison with the probability that the result would have occurred by random variability.
+</p><p>If the establishment of the reference range could have been made assuming a normal distribution, then the probability that the result would be an effect of random variability can be further specified as follows:
+</p><p>The <a href="/wiki/Standard_deviation" title="Standard deviation">standard deviation</a>, if not given already, can be inversely calculated by the fact that the <a href="/wiki/Absolute_value" title="Absolute value">absolute value</a> of the difference between the mean and either the upper or lower limit of the reference range is approximately 2 standard deviations (more accurately 1.96), and thus:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Standard~deviation~(s.d.)\approx {\frac {|(Mean)-(Upper~limit)|}{2}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>S</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>d</mi>
+<mi>a</mi>
+<mi>r</mi>
+<mi>d</mi>
+<mtext> </mtext>
+<mi>d</mi>
+<mi>e</mi>
+<mi>v</mi>
+<mi>i</mi>
+<mi>a</mi>
+<mi>t</mi>
+<mi>i</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mtext> </mtext>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+<mo stretchy="false">)</mo>
+<mo>≈<!-- ≈ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>M</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<mi>U</mi>
+<mi>p</mi>
+<mi>p</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Standard~deviation~(s.d.)\approx {\frac {|(Mean)-(Upper~limit)|}{2}}.}</annotation>
+</semantics>
+</math></span><img alt="Standard~deviation~(s.d.) \approx \frac{ | (Mean) - (Upper~limit) | }{2}. " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5bdd6658618f916ae2cee5929d35fc6488a9bd94" style="vertical-align: -1.838ex; width:57.139ex; height:5.676ex;"/></span></dd></dl>
+<p>The <a href="/wiki/Standard_score" title="Standard score">standard score</a> for the individual's test can subsequently be calculated as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Standard~score~(z)={\frac {|Mean-(individual~measurement)|}{s.d.}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>S</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>d</mi>
+<mi>a</mi>
+<mi>r</mi>
+<mi>d</mi>
+<mtext> </mtext>
+<mi>s</mi>
+<mi>c</mi>
+<mi>o</mi>
+<mi>r</mi>
+<mi>e</mi>
+<mtext> </mtext>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>M</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mi>n</mi>
+<mi>d</mi>
+<mi>i</mi>
+<mi>v</mi>
+<mi>i</mi>
+<mi>d</mi>
+<mi>u</mi>
+<mi>a</mi>
+<mi>l</mi>
+<mtext> </mtext>
+<mi>m</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>s</mi>
+<mi>u</mi>
+<mi>r</mi>
+<mi>e</mi>
+<mi>m</mi>
+<mi>e</mi>
+<mi>n</mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+<mrow>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Standard~score~(z)={\frac {|Mean-(individual~measurement)|}{s.d.}}.}</annotation>
+</semantics>
+</math></span><img alt=" Standard~score~(z) = \frac{ | Mean - (individual~measurement) | }{s.d.}. " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f00144ea53b2281233dfce0261d8a1d857b3021" style="vertical-align: -2.005ex; width:61.223ex; height:5.843ex;"/></span></dd></dl>
+<p>The probability that a value is of a certain distance from the mean can subsequently be calculated from the <a href="/wiki/Standard_score#prediction_intervals" title="Standard score">relation between standard score and prediction intervals</a>. For example, a standard score of 2.58 corresponds to a prediction interval of 99%,<sup class="reference" id="cite_ref-Kirkup2002_9-0"><a href="#cite_note-Kirkup2002-9">[9]</a></sup> corresponding to a probability of 0.5% that a result is at least such far from the mean in the absence of disease.
+</p>
+<h4><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=13" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote navigation-not-searchable" role="note">Method is described in further detail in <a href="/wiki/Differential_diagnosis" title="Differential diagnosis">Differential diagnosis</a></div>
+<p>Let's say, for example, that an individual takes a test that measures the <a class="mw-redirect" href="/wiki/Ionized_calcium" title="Ionized calcium">ionized calcium</a> in the blood, resulting in a value of 1.30 mmol/L, and a reference group that appropriately represents the individual has established a reference range of 1.05 to 1.25 mmol/L. The individual's value is higher than the upper limit of the reference range, and therefore has less than 2.5% probability of being a result of random variability, constituting a strong indication to make a <a href="/wiki/Differential_diagnosis" title="Differential diagnosis">differential diagnosis</a> of possible causative conditions.
+</p><p>In this case, an <a href="/wiki/Differential_diagnosis#Specific_methods" title="Differential diagnosis">epidemiology-based differential diagnostic procedure</a> is used, and its first step is to find candidate conditions that can explain the finding.
+</p><p><a class="mw-redirect" href="/wiki/Hypercalcemia" title="Hypercalcemia">Hypercalcemia</a> (usually defined as a calcium level above the reference range) is mostly caused by either <a href="/wiki/Primary_hyperparathyroidism" title="Primary hyperparathyroidism">primary hyperparathyroidism</a> or malignancy,<sup class="reference" id="cite_ref-Kumar_10-0"><a href="#cite_note-Kumar-10">[10]</a></sup> and therefore, it is reasonable to include these in the differential diagnosis.
+</p><p>Using for example epidemiology and the individual's risk factors, let's say that the probability that the hypercalcemia would have been caused by primary hyperparathyroidism in the first place is estimated to be 0.00125 (or 0.125%), the equivalent probability for cancer is 0.0002, and 0.0005 for other conditions. With a probability given as less than 0.025 of no disease, this corresponds to a probability that the hypercalcemia would have occurred in the first place of up to 0.02695. However, the hypercalcemia <i>has occurred</i> with a probability of 100%, resulting adjusted probabilities of at least 4.6% that primary hyperparathyroidism has caused the hypercalcemia, at least 0.7% for cancer, at least 1.9% for other conditions and up to 92.8% for that there is no disease and the hypercalcemia is caused by random variability.
+</p><p>In this case, further processing benefits from specification of the probability of random variability:
+</p><p>The value is assumed to conform acceptably to a normal distribution, so the mean can be assumed to be 1.15 in the reference group. The <a href="/wiki/Standard_deviation" title="Standard deviation">standard deviation</a>, if not given already, can be inversely calculated by knowing that the <a href="/wiki/Absolute_value" title="Absolute value">absolute value</a> of the difference between the mean and, for example, the upper limit of the reference range, is approximately 2 standard deviations (more accurately 1.96), and thus:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}Standard~deviation~(s.d.)&amp;\approx {\frac {|(Mean)-(Upper~limit)|}{2}}\\&amp;={\frac {|1.15-1.25|}{2}}={\frac {0.1}{2}}=0.05\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mi>S</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>d</mi>
+<mi>a</mi>
+<mi>r</mi>
+<mi>d</mi>
+<mtext> </mtext>
+<mi>d</mi>
+<mi>e</mi>
+<mi>v</mi>
+<mi>i</mi>
+<mi>a</mi>
+<mi>t</mi>
+<mi>i</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mtext> </mtext>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+<mo stretchy="false">)</mo>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>≈<!-- ≈ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>M</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<mi>U</mi>
+<mi>p</mi>
+<mi>p</mi>
+<mi>e</mi>
+<mi>r</mi>
+<mtext> </mtext>
+<mi>l</mi>
+<mi>i</mi>
+<mi>m</mi>
+<mi>i</mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mn>1.15</mn>
+<mo>−<!-- − --></mo>
+<mn>1.25</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>0.1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0.05</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}Standard~deviation~(s.d.)&amp;\approx {\frac {|(Mean)-(Upper~limit)|}{2}}\\&amp;={\frac {|1.15-1.25|}{2}}={\frac {0.1}{2}}=0.05\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="\begin{align} Standard~deviation~(s.d.) &amp;\approx \frac{ | (Mean) - (Upper~limit) | }{2}\\
+&amp;= \frac{ | 1.15 - 1.25 | }{2} = \frac{ 0.1 }{2} = 0.05 \end{align}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/209df610484036959aabaf31cf3d7a57229a2c0d" style="vertical-align: -5.171ex; width:57.87ex; height:11.509ex;"/></span>
+</p><p>The <a href="/wiki/Standard_score" title="Standard score">standard score</a> for the individual's test is subsequently calculated as:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}Standard~score~(z)&amp;={\frac {|Mean-(individual~measurement)|}{s.d.}}\\&amp;={\frac {|1.15-1.30|}{0.05}}={\frac {0.15}{0.05}}=3\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mi>S</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>d</mi>
+<mi>a</mi>
+<mi>r</mi>
+<mi>d</mi>
+<mtext> </mtext>
+<mi>s</mi>
+<mi>c</mi>
+<mi>o</mi>
+<mi>r</mi>
+<mi>e</mi>
+<mtext> </mtext>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>M</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<mi>i</mi>
+<mi>n</mi>
+<mi>d</mi>
+<mi>i</mi>
+<mi>v</mi>
+<mi>i</mi>
+<mi>d</mi>
+<mi>u</mi>
+<mi>a</mi>
+<mi>l</mi>
+<mtext> </mtext>
+<mi>m</mi>
+<mi>e</mi>
+<mi>a</mi>
+<mi>s</mi>
+<mi>u</mi>
+<mi>r</mi>
+<mi>e</mi>
+<mi>m</mi>
+<mi>e</mi>
+<mi>n</mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+<mrow>
+<mi>s</mi>
+<mo>.</mo>
+<mi>d</mi>
+<mo>.</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mn>1.15</mn>
+<mo>−<!-- − --></mo>
+<mn>1.30</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+<mn>0.05</mn>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>0.15</mn>
+<mn>0.05</mn>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>3</mn>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}Standard~score~(z)&amp;={\frac {|Mean-(individual~measurement)|}{s.d.}}\\&amp;={\frac {|1.15-1.30|}{0.05}}={\frac {0.15}{0.05}}=3\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="\begin{align} Standard~score~(z) &amp;= \frac{ | Mean - (individual~measurement) | }{s.d.}\\ 
+&amp;= \frac{ | 1.15 - 1.30 | }{0.05} = \frac{0.15}{0.05} = 3 \end{align}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a8c8203b6a119667b288df42ffef884edc5b8cb8" style="vertical-align: -5.171ex; width:61.328ex; height:11.509ex;"/></span>
+</p><p>The probability that a value is of so much larger value than the mean as having a standard score of 3 corresponds to a probability of approximately 0.14% (given by (100%-99.7%)/2, with 99.7% here being given from the <a class="mw-redirect" href="/wiki/68-95-99.7_rule" title="68-95-99.7 rule">68-95-99.7 rule</a>).
+</p><p>Using the same probabilities that the hypercalcemia would have occurred in the first place by the other canditate conditions, the probability that hypercalcemia would have occurred in the first place is 0.00335, and given the fact that hypercalcemia <i>has occurred</i> gives adjusted probabilities of 37.3%, 6.0%, 14.9% and 41.8%, respectively, for primary hyperparathyroidism, cancer, other conditions and no disease.
+</p>
+<h2><span class="mw-headline" id="Optimal_health_range">Optimal health range</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=14" title="Edit section: Optimal health range">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Optimal (health) range</i> or <i>therapeutic target</i> (not to be confused with <a href="/wiki/Biological_target" title="Biological target">biological target</a>) is a reference range or limit that is based on concentrations or levels that are associated with optimal health or minimal risk of related complications and diseases, rather than the standard range based on normal distribution in the population.
+</p><p>It may be more appropriate to use for e.g. <a href="/wiki/Folate" title="Folate">folate</a>, since approximately 90 percent of North Americans may actually suffer more or less from <a href="/wiki/Folate_deficiency" title="Folate deficiency">folate deficiency</a>,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> but only the 2.5 percent that have the lowest levels will fall below the standard reference range. In this case, the actual folate ranges for optimal health are substantially higher than the standard reference ranges. <a href="/wiki/Vitamin_D" title="Vitamin D">Vitamin D</a> has a similar tendency. In contrast, for e.g. <a href="/wiki/Uric_acid" title="Uric acid">uric acid</a>, having a level not exceeding the standard reference range still does not exclude the risk of getting gout or kidney stones. Furthermore, for most <a href="/wiki/Toxin" title="Toxin">toxins</a>, the standard reference range is generally lower than the level of toxic effect.
+</p><p>A problem with optimal health range is a lack of a standard method of estimating the ranges. The limits may be defined as those where the health risks exceed a certain threshold, but with various risk profiles between different measurements (such as folate and vitamin D), and even different risk aspects for one and the same measurement (such as both <a href="/wiki/Vitamin_A_deficiency" title="Vitamin A deficiency">deficiency</a> and <a href="/wiki/Hypervitaminosis_A" title="Hypervitaminosis A">toxicity of vitamin A</a>) it is difficult to standardize. Subsequently, optimal health ranges, when given by various sources, have an additional <a class="mw-redirect" href="/wiki/Statistical_variability" title="Statistical variability">variability</a> caused by various definitions of the parameter. Also, as with standard reference ranges, there should be specific ranges for different determinants that affects the values, such as sex, age etc. Ideally, there should rather be an estimation of what is the optimal value for every individual, when taking all significant factors of that individual into account - a task that may be hard to achieve by studies, but long clinical experience by a physician may make this method more preferable than using reference ranges.
+<span id="cutoff"></span>
+</p>
+<h2><span class="mw-headline" id="One-sided_cut-off_values">One-sided cut-off values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=15" title="Edit section: One-sided cut-off values">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In many cases, only one side of the range is usually of interest, such as with markers of pathology including <a class="mw-redirect" href="/wiki/Cancer_antigen_19-9" title="Cancer antigen 19-9">cancer antigen 19-9</a>, where it is generally without any clinical significance to have a value below what is usual in the population. Therefore, such targets are often given with only one limit of the reference range given, and, strictly, such values are rather <i>cut-off values</i> or <i>threshold values</i>.
+</p><p>They may represent both standard ranges and optimal health ranges. Also, they may represent an appropriate value to distinguish healthy person from a specific disease, although this gives additional variability by different diseases being distinguished. For example, for <a class="mw-redirect" href="/wiki/NT-proBNP" title="NT-proBNP">NT-proBNP</a>, a lower cut-off value is used in distinguishing healthy babies from those with <a class="mw-redirect" href="/wiki/Acyanotic_heart_disease" title="Acyanotic heart disease">acyanotic heart disease</a>, compared to the cut-off value used in distinguishing healthy babies from those with <a class="mw-redirect" href="/wiki/Congenital_nonspherocytic_anemia" title="Congenital nonspherocytic anemia">congenital nonspherocytic anemia</a>.<sup class="reference" id="cite_ref-Moses2011_12-0"><a href="#cite_note-Moses2011-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="General_drawbacks">General drawbacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=16" title="Edit section: General drawbacks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For standard as well as optimal health ranges, and cut-offs, sources of <a href="/wiki/Accuracy_and_precision" title="Accuracy and precision">inaccuracy and imprecision</a> include:
+</p>
+<ul><li>Instruments and lab techniques used, or how the measurements are interpreted by observers. These may apply both to the instruments etc. used to establish the reference ranges and the instruments, etc. used to acquire the value for the individual to whom these ranges is applied. To compensate, individual laboratories should have their own lab ranges to account for the instruments used in the laboratory.</li>
+<li><a href="/wiki/Risk_factor#General_determinants" title="Risk factor">Determinants</a> such as age, diet, etc. that are not compensated for. Optimally, there should be reference ranges from a reference group that is as similar as possible to each individual they are applied to, but it's practically impossible to compensate for every single determinant, often not even when the reference ranges are established from multiple measurements of the same individual they are applied to, because of <a class="mw-redirect" href="/wiki/Test-retest_reliability" title="Test-retest reliability">test-retest</a> variability.</li></ul>
+<p>Also, reference ranges tend to give the impression of definite thresholds that clearly separate "good" or "bad" values, while in reality there are generally continuously increasing risks with increased distance from usual or optimal values.
+</p><p>With this and uncompensated factors in mind, the ideal interpretation method of a test result would rather consist of a comparison of what would be expected or optimal in the individual when taking all factors and conditions of that individual into account, rather than strictly classifying the values as "good" or "bad" by using reference ranges from other people.
+</p><p>In a recent paper, Rappoport et al.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> described a novel way to redefine reference range from an <a href="/wiki/Electronic_health_record" title="Electronic health record">Electronic health record</a> system. In such a system, a higher population resolution can be achieved (e.g., age, sex, race and ethnicity-specific).
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=17" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Reference_ranges_for_blood_tests" title="Reference ranges for blood tests">Reference ranges for blood tests</a></li>
+<li><a class="mw-redirect" href="/wiki/Reference_ranges_for_urine_tests" title="Reference ranges for urine tests">Reference ranges for urine tests</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Clinical_pathology" title="Clinical pathology">Clinical pathology</a></li>
+<li><a href="/wiki/Joint_Committee_for_Traceability_in_Laboratory_Medicine" title="Joint Committee for Traceability in Laboratory Medicine">Joint Committee for Traceability in Laboratory Medicine</a></li>
+<li><a href="/wiki/Medical_technologist" title="Medical technologist">Medical technologist</a></li>
+<li><a href="/wiki/Reference_ranges_for_blood_tests" title="Reference ranges for blood tests">Reference ranges for blood tests</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p class="mw-empty-elt">
+</p>
+<table class="plainlinks metadata ambox ambox-notice" role="presentation" style="margin: 0 10%; border: 1px solid #aaa; border-left: 10px solid #1e90ff; background: #fbfbfb;"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="https://doi.org/10.15347/wjm/2014.003" rel="nofollow" title="Journal"><img alt="Journal" data-file-height="479" data-file-width="525" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Journal_Icon.svg/48px-Journal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Journal_Icon.svg/72px-Journal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Journal_Icon.svg/96px-Journal_Icon.svg.png 2x" width="48"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">The 2014  version of this article has passed <a href="/wiki/Scholarly_peer_review" title="Scholarly peer review">academic peer review</a> (<i><a class="external text" href="https://en.wikiversity.org/wiki/Talk:WikiJournal_of_Medicine/Establishment_and_clinical_use_of_reference_ranges">here</a></i>), has been published in <i><b>WikiJournal of Medicine</b></i>  and can be cited as: <br/><cite class="citation journal">Häggström M (2014). <a class="external text" href="https://dx.doi.org/10.15347/wjm/2014.003" rel="nofollow">"Establishment and clinical use of reference ranges"</a>. <i>WikiJournal of Medicine</i>. <b>1</b> (1). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.15347%2Fwjm%2F2014.003" rel="nofollow">10.15347/wjm/2014.003</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WikiJournal+of+Medicine&amp;rft.atitle=Establishment+and+clinical+use+of+reference+ranges&amp;rft.volume=1&amp;rft.issue=1&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.15347%2Fwjm%2F2014.003&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.15347%2Fwjm%2F2014.003&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReference+range"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>) </span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> <a href="https://dx.doi.org/10.15347/wjm/2014.003" rel="nofollow"><img alt="open access publication" data-file-height="1000" data-file-width="640" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/10px-Open_Access_logo_PLoS_transparent.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/15px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/20px-Open_Access_logo_PLoS_transparent.svg.png 2x" width="10"/></a></div></td></tr></tbody></table>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reference_range&amp;action=edit&amp;section=20" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The procedures and vocabulary referring to reference intervals: CLSI (Committee for Laboratory Standards Institute) and IFCC (International Federation of Clinical Chemistry) <i>CLSI - Defining, Establishing, and Verifying Reference Intervals in the Laboratory; Approved guideline</i> - Third Edition. Document C28-A3 (<link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56238-682-4" title="Special:BookSources/1-56238-682-4">1-56238-682-4</a>)Wayne, PA, USA, 2008</li>
+<li><a class="external text" href="http://www.biostat.envt.fr/reference-value-advisor/" rel="nofollow">Reference Value Advisor</a> : A free set of Excel macros allowing the determination of reference intervals in accordance with the CLSI procedures. Based on: <cite class="citation journal">Geffré, A.; Concordet, D.; Braun, J. P.; Trumel, C. (2011). "Reference Value Advisor: A new freeware set of macroinstructions to calculate reference intervals with Microsoft Excel". <i>Veterinary Clinical Pathology</i>. <b>40</b> (1): 107–112. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1939-165X.2011.00287.x" rel="nofollow">10.1111/j.1939-165X.2011.00287.x</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21366659" rel="nofollow">21366659</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Veterinary+Clinical+Pathology&amp;rft.atitle=Reference+Value+Advisor%3A+A+new+freeware+set+of+macroinstructions+to+calculate+reference+intervals+with+Microsoft+Excel&amp;rft.volume=40&amp;rft.issue=1&amp;rft.pages=107-112&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1939-165X.2011.00287.x&amp;rft_id=info%3Apmid%2F21366659&amp;rft.aulast=Geffr%C3%A9&amp;rft.aufirst=A.&amp;rft.au=Concordet%2C+D.&amp;rft.au=Braun%2C+J.+P.&amp;rft.au=Trumel%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReference+range"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Common_for_blood_tests_(CPT_82000–84999)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="text-align: center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Clinical_biochemistry_blood_tests" title="Template:Clinical biochemistry blood tests"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Clinical_biochemistry_blood_tests" title="Template talk:Clinical biochemistry blood tests"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Clinical_biochemistry_blood_tests&amp;action=edit"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Common_for_blood_tests_(CPT_82000–84999)" style="font-size:114%;margin:0 4em">Common for <a href="/wiki/Blood_test" title="Blood test">blood tests</a> (<a href="/wiki/Current_Procedural_Terminology" title="Current Procedural Terminology">CPT</a> 82000–84999)</div></th></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Electrolyte" title="Electrolyte">Electrolytes</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Serum_sodium" title="Serum sodium">Sodium</a></li>
+<li><a href="/wiki/Potassium_in_biology" title="Potassium in biology">Potassium</a></li>
+<li><a href="/wiki/Serum_chloride" title="Serum chloride">Chloride</a></li>
+<li><a href="/wiki/Calcium_in_biology" title="Calcium in biology">Calcium</a></li>
+<li><a href="/wiki/Renal_function" title="Renal function">Renal function</a>
+<ul><li><a href="/wiki/Creatinine" title="Creatinine">Creatinine</a></li>
+<li><a href="/wiki/Blood_urea_nitrogen" title="Blood urea nitrogen">Urea</a></li>
+<li><a href="/wiki/BUN-to-creatinine_ratio" title="BUN-to-creatinine ratio">BUN-to-creatinine ratio</a></li></ul></li>
+<li><a href="/wiki/Plasma_osmolality" title="Plasma osmolality">Plasma osmolality</a></li>
+<li><a class="mw-redirect" href="/wiki/Serum_osmolal_gap" title="Serum osmolal gap">Serum osmolal gap</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Acid%E2%80%93base_homeostasis" title="Acid–base homeostasis">Acid-base</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anion_gap" title="Anion gap">Anion gap</a></li>
+<li><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">Arterial blood gas</a></li>
+<li><a href="/wiki/Base_excess" title="Base excess">Base excess</a></li>
+<li><a href="/wiki/Bicarbonate" title="Bicarbonate">Bicarbonate</a></li>
+<li><a href="/wiki/CO2_content" title="CO2 content">CO<sub>2</sub> content</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Iron_tests" title="Iron tests">Iron tests</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ferritin" title="Ferritin">Ferritin</a></li>
+<li><a href="/wiki/Serum_iron" title="Serum iron">Serum iron</a></li>
+<li><a href="/wiki/Transferrin_saturation" title="Transferrin saturation">Transferrin saturation</a></li>
+<li><a href="/wiki/Total_iron-binding_capacity" title="Total iron-binding capacity">Total iron-binding capacity</a></li>
+<li><a href="/wiki/Transferrin" title="Transferrin">Transferrin</a></li>
+<li><a href="/wiki/Transferrin_receptor" title="Transferrin receptor">Transferrin receptor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Endocrine_system" title="Endocrine system">Hormones</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ACTH_stimulation_test" title="ACTH stimulation test">ACTH stimulation test</a></li>
+<li><a href="/wiki/Thyroid_function_tests" title="Thyroid function tests">Thyroid function tests</a>
+<ul><li><a href="/wiki/Thyroid-stimulating_hormone" title="Thyroid-stimulating hormone">Thyroid-stimulating hormone</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blood_lipids" title="Blood lipids">Blood lipids</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a class="mw-redirect" href="/wiki/Cardiovascular_system" title="Cardiovascular system">Cardiovascular</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cardiac_marker" title="Cardiac marker">Cardiac marker</a>
+<ul><li><a class="mw-redirect" href="/wiki/Troponin_test" title="Troponin test">Troponin test</a></li></ul></li>
+<li><a href="/wiki/CPK-MB_test" title="CPK-MB test">CPK-MB test</a></li>
+<li><a href="/wiki/Lactate_dehydrogenase" title="Lactate dehydrogenase">Lactate dehydrogenase</a></li>
+<li><a href="/wiki/Myoglobin" title="Myoglobin">Myoglobin</a></li>
+<li><a href="/wiki/Glycogen_phosphorylase_isoenzyme_BB" title="Glycogen phosphorylase isoenzyme BB">Glycogen phosphorylase isoenzyme BB</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Liver_function_tests" title="Liver function tests">Liver function tests</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Proteins
+<ul><li><a href="/wiki/Human_serum_albumin" title="Human serum albumin">Human serum albumin</a></li>
+<li><a href="/wiki/Serum_total_protein" title="Serum total protein">Serum total protein</a></li></ul></li>
+<li><a href="/wiki/Alkaline_phosphatase" title="Alkaline phosphatase">ALP</a></li>
+<li><i><a href="/wiki/Transaminase" title="Transaminase">transaminases</a></i>
+<ul><li><a href="/wiki/Alanine_transaminase" title="Alanine transaminase">ALT</a></li>
+<li><a href="/wiki/Aspartate_transaminase" title="Aspartate transaminase">AST</a></li>
+<li><a href="/wiki/AST/ALT_ratio" title="AST/ALT ratio">AST/ALT ratio</a></li></ul></li>
+<li><a href="/wiki/Bilirubin" title="Bilirubin">Bilirubin</a>
+<ul><li><a href="/wiki/Bilirubin#Unconjugated" title="Bilirubin">Unconjugated</a></li>
+<li><a href="/wiki/Bilirubin#Conjugated" title="Bilirubin">Conjugated</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Pancreas" title="Pancreas">Pancreas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amylase" title="Amylase">Amylase</a></li>
+<li><a href="/wiki/Lipase" title="Lipase">Lipase</a>
+<ul><li><a class="mw-redirect" href="/wiki/Pancreatic_lipase" title="Pancreatic lipase">Pancreatic lipase</a></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Components_and_results_of_urine_tests_(CPT_81000–81099;_R80–R82,_791)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Urine_tests" title="Template:Urine tests"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Urine_tests" title="Template talk:Urine tests"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Urine_tests&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Components_and_results_of_urine_tests_(CPT_81000–81099;_R80–R82,_791)" style="font-size:114%;margin:0 4em">Components and results of <a class="mw-redirect" href="/wiki/Urinalysis" title="Urinalysis">urine tests</a> (<a href="/wiki/Current_Procedural_Terminology" title="Current Procedural Terminology">CPT</a> 81000–81099; <a href="/wiki/ICD-10_Chapter_XVIII:_Symptoms,_signs_and_abnormal_clinical_and_laboratory_findings#(R80–R82)_On_examination_of_urine,_without_diagnosis" title="ICD-10 Chapter XVIII: Symptoms, signs and abnormal clinical and laboratory findings">R80–R82</a>, <a href="/wiki/List_of_ICD-9_codes_780%E2%80%93799:_symptoms,_signs,_and_ill-defined_conditions#Nonspecific_abnormal_findings_(790–796)" title="List of ICD-9 codes 780–799: symptoms, signs, and ill-defined conditions">791</a>)</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Components</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Human_serum_albumin#Testing_for_albumin_loss_via_the_kidneys" title="Human serum albumin">Albumin</a></li>
+<li><a href="/wiki/Myoglobin" title="Myoglobin">Myoglobin</a></li>
+<li><a href="/wiki/Human_chorionic_gonadotropin" title="Human chorionic gonadotropin">hCG</a></li>
+<li><a href="/wiki/Leukocyte_esterase" title="Leukocyte esterase">Leukocyte esterase</a></li>
+<li><a href="/wiki/Pregnancy_test" title="Pregnancy test">Urine pregnancy test</a></li>
+<li><a href="/wiki/Ketone_bodies" title="Ketone bodies">Ketone bodies</a></li>
+<li><a href="/wiki/Glucose" title="Glucose">Glucose</a></li>
+<li><a href="/wiki/Urobilinogen" title="Urobilinogen">Urobilinogen</a></li>
+<li><a href="/wiki/Bilirubin#Urine_tests" title="Bilirubin">Bilirubin</a></li>
+<li><a href="/wiki/Creatinine#Urine_creatinine_.28UCr.29" title="Creatinine">Creatinine</a></li>
+<li><a href="/wiki/Red_blood_cell" title="Red blood cell">RBC</a></li>
+<li><a href="/wiki/White_blood_cell" title="White blood cell">WBC</a></li>
+<li><a href="/wiki/Urinary_cast" title="Urinary cast">Urinary casts</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Chemical properties</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Urine_specific_gravity" title="Urine specific gravity">Urine specific gravity</a></li>
+<li><a href="/wiki/Urine_osmolality" title="Urine osmolality">Urine osmolality</a></li>
+<li><a href="/wiki/Urine#pH" title="Urine">Urine pH</a></li>
+<li><a href="/wiki/Urine_anion_gap" title="Urine anion gap">Urine anion gap</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Abnormal findings</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Red_blood_cell" title="Red blood cell">Red blood cells</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hematuria" title="Hematuria">Hematuria</a> (<a class="mw-redirect" href="/wiki/Microscopic_hematuria" title="Microscopic hematuria">Microscopic hematuria</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/White_blood_cell" title="White blood cell">White blood cells</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Eosinophiluria" title="Eosinophiluria">Eosinophiluria</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Proteinuria" title="Proteinuria">Proteinuria</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albuminuria" title="Albuminuria">Albuminuria</a>/<a href="/wiki/Microalbuminuria" title="Microalbuminuria">Microalbuminuria</a></li>
+<li><a href="/wiki/Myoglobinuria" title="Myoglobinuria">Myoglobinuria</a></li>
+<li><a href="/wiki/Hemoglobinuria" title="Hemoglobinuria">Hemoglobinuria</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Small_molecule" title="Small molecule">Small molecules</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glycosuria" title="Glycosuria">Glycosuria</a></li>
+<li><a href="/wiki/Ketonuria" title="Ketonuria">Ketonuria</a></li>
+<li><a href="/wiki/Bilirubinuria" title="Bilirubinuria">Bilirubinuria</a></li>
+<li><a href="/wiki/Hyperuricosuria" title="Hyperuricosuria">Hyperuricosuria</a>/<a class="new" href="/w/index.php?title=Hypouricosuria&amp;action=edit&amp;redlink=1" title="Hypouricosuria (page does not exist)">Hypouricosuria</a></li>
+<li><a href="/wiki/Aminoaciduria" title="Aminoaciduria">Aminoaciduria</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pathogen" title="Pathogen">Pathogens</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bacteriuria" title="Bacteriuria">Bacteriuria</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chyluria" title="Chyluria">Chyluria</a></li>
+<li><a href="/wiki/Crystalluria" title="Crystalluria">Crystalluria</a></li>
+<li><a class="mw-redirect" href="/wiki/Osmolality" title="Osmolality">osmolality</a> (<a href="/wiki/Isosthenuria" title="Isosthenuria">Isosthenuria</a>, <a href="/wiki/Hypersthenuria" title="Hypersthenuria">Hypersthenuria</a>)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Medical_tests_on_Cerebrospinal_fluid_(CPT_82000-84999)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:CSF_tests" title="Template:CSF tests"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:CSF_tests" title="Template talk:CSF tests"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CSF_tests&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Medical_tests_on_Cerebrospinal_fluid_(CPT_82000-84999)" style="font-size:114%;margin:0 4em">Medical tests on <a href="/wiki/Cerebrospinal_fluid" title="Cerebrospinal fluid">Cerebrospinal fluid</a> (<a href="/wiki/Current_Procedural_Terminology" title="Current Procedural Terminology">CPT</a> 82000-84999)</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Albumin" title="Albumin">Albumin</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CSF_albumin" title="CSF albumin">CSF albumin</a></li>
+<li><a href="/wiki/CSF/serum_albumin_ratio" title="CSF/serum albumin ratio">CSF/serum albumin ratio</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Glucose" title="Glucose">Glucose</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CSF_glucose" title="CSF glucose">CSF glucose</a></li>
+<li><a href="/wiki/CSF/serum_glucose_ratio" title="CSF/serum glucose ratio">CSF/serum glucose ratio</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baricity" title="Baricity">Baricity</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20181026160921
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.416 seconds
+Real time usage: 0.659 seconds
+Preprocessor visited node count: 1629/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74453/2097152 bytes
+Template argument size: 1553/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37174/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.176/10.000 seconds
+Lua memory usage: 4.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  350.611      1 -total
+ 36.50%  127.969      1 Template:Academic_peer_reviewed
+ 30.72%  107.720      5 Template:Cite_journal
+ 30.36%  106.432      1 Template:Reflist
+ 25.78%   90.403      1 Template:Ambox
+ 12.58%   44.106      7 Template:Cite_book
+  8.21%   28.800      1 Template:ISBN
+  8.13%   28.501      1 Template:Top_icon
+  7.68%   26.922      1 Template:Reference_ranges
+  7.21%   25.276      1 Template:Sidebar
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:231442-0!canonical!math=5 and timestamp 20181026160921 and revision id 843663630
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Reference_range&amp;oldid=843663630">https://en.wikipedia.org/w/index.php?title=Reference_range&amp;oldid=843663630</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_articles_published_in_peer-reviewed_literature" title="Category:Wikipedia articles published in peer-reviewed literature">Wikipedia articles published in peer-reviewed literature</a></li><li><a href="/wiki/Category:Wikipedia_articles_published_in_WikiJournal_of_Medicine" title="Category:Wikipedia articles published in WikiJournal of Medicine">Wikipedia articles published in WikiJournal of Medicine</a></li><li><a href="/wiki/Category:Externally_peer_reviewed_articles" title="Category:Externally peer reviewed articles">Externally peer reviewed articles</a></li><li><a href="/wiki/Category:Research" title="Category:Research">Research</a></li><li><a href="/wiki/Category:Clinical_pathology" title="Category:Clinical pathology">Clinical pathology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Reference+range" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Reference+range" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Reference_range" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Reference_range" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Reference_range">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Reference_range&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Reference_range&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Reference_range" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Reference_range" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Reference_range&amp;oldid=843663630" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Reference_range&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1626599" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Reference_range&amp;id=843663630" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Reference+range">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Reference+range&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Reference_range&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D8%A7%D9%84_%D9%85%D8%B1%D8%AC%D8%B9%D9%8A" hreflang="ar" lang="ar" title="مجال مرجعي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Referenzbereich_(Medizin)" hreflang="de" lang="de" title="Referenzbereich (Medizin) – German">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B1%D9%86%D8%AC_%D9%86%D8%B1%D9%85%D8%A7%D9%84" hreflang="fa" lang="fa" title="رنج نرمال – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Valeurs_de_r%C3%A9f%C3%A9rence_pour_les_principaux_tests_biologiques" hreflang="fr" lang="fr" title="Valeurs de référence pour les principaux tests biologiques – French">Français</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Normaalwaarde" hreflang="nl" lang="nl" title="Normaalwaarde – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Referanseomr%C3%A5de_(medisin)" hreflang="no" lang="no" title="Referanseområde (medisin) – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Referanseomr%C3%A5de" hreflang="nn" lang="nn" title="Referanseområde – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Referensintervall" hreflang="sv" lang="sv" title="Referensintervall – Swedish">Svenska</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1626599#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 May 2018, at 16:37<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Reference_range&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.416","walltime":"0.659","ppvisitednodes":{"value":1629,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74453,"limit":2097152},"templateargumentsize":{"value":1553,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37174,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  350.611      1 -total"," 36.50%  127.969      1 Template:Academic_peer_reviewed"," 30.72%  107.720      5 Template:Cite_journal"," 30.36%  106.432      1 Template:Reflist"," 25.78%   90.403      1 Template:Ambox"," 12.58%   44.106      7 Template:Cite_book","  8.21%   28.800      1 Template:ISBN","  8.13%   28.501      1 Template:Top_icon","  7.68%   26.922      1 Template:Reference_ranges","  7.21%   25.276      1 Template:Sidebar"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":4810038,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20181026160921","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1320"});});</script>
+</body>
+</html>

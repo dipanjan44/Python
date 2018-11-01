@@ -1,0 +1,315 @@
+https://en.wikipedia.org/wiki/Volcanism
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Volcanism - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Volcanism","wgTitle":"Volcanism","wgCurRevisionId":863594633,"wgRevisionId":863594633,"wgArticleId":81256,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Wikipedia articles with GND identifiers","Volcanism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Volcanism","wgRelevantArticleId":81256,"wgRequestId":"W9S9DwpAIC0AAH2F1BAAAACC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q505748","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Plate_tectonics_map.gif/1200px-Plate_tectonics_map.gif" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Volcanism" rel="alternate"/>
+<link href="/w/index.php?title=Volcanism&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Volcanism&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Volcanism" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Volcanism rootpage-Volcanism skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Volcanism</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the process that forms volcanoes and other igneous formations. For the 18th century geological theory, see <a href="/wiki/Plutonism" title="Plutonism">Plutonism</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:312px;"><a class="image" href="/wiki/File:Plate_tectonics_map.gif"><img alt="" class="thumbimage" data-file-height="2285" data-file-width="3380" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Plate_tectonics_map.gif/310px-Plate_tectonics_map.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Plate_tectonics_map.gif/465px-Plate_tectonics_map.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Plate_tectonics_map.gif/620px-Plate_tectonics_map.gif 2x" width="310"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Plate_tectonics_map.gif" title="Enlarge"></a></div><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a> map with volcano locations indicated with red circles</div></div></div>
+<p><b>Volcanism</b> is the phenomenon of eruption of molten rock (<a href="/wiki/Magma" title="Magma">magma</a>) onto the <a href="/wiki/Earth#Surface" title="Earth">surface of the Earth</a> or a solid-surface planet or moon, where <a href="/wiki/Lava" title="Lava">lava</a>, <a class="mw-redirect" href="/wiki/Pyroclastic" title="Pyroclastic">pyroclastics</a> and <a href="/wiki/Volcanic_gas" title="Volcanic gas">volcanic gases</a> erupt through a break in the surface called a vent.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> It includes all phenomena resulting from and causing magma within the <a href="/wiki/Crust_(geology)" title="Crust (geology)">crust</a> or <a href="/wiki/Mantle_(geology)" title="Mantle (geology)">mantle</a> of the body, to rise through the crust and form <a href="/wiki/Volcanic_rock" title="Volcanic rock">volcanic rocks</a> on the surface.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Volcanic_processes"><span class="tocnumber">1</span> <span class="toctext">Volcanic processes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Driving_forces_of_volcanism"><span class="tocnumber">2</span> <span class="toctext">Driving forces of volcanism</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Aspects_of_volcanism"><span class="tocnumber">3</span> <span class="toctext">Aspects of volcanism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Volcanoes"><span class="tocnumber">3.1</span> <span class="toctext">Volcanoes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Intrusions"><span class="tocnumber">3.2</span> <span class="toctext">Intrusions</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Earthquakes"><span class="tocnumber">3.3</span> <span class="toctext">Earthquakes</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Hydrothermal_vents"><span class="tocnumber">3.4</span> <span class="toctext">Hydrothermal vents</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Volcanic_winter"><span class="tocnumber">3.5</span> <span class="toctext">Volcanic winter</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Forming_rocks"><span class="tocnumber">4</span> <span class="toctext">Forming rocks</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Volcanism_on_other_bodies"><span class="tocnumber">5</span> <span class="toctext">Volcanism on other bodies</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Volcanic_processes">Volcanic processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=1" title="Edit section: Volcanic processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:A204,_Hawaii_Volcanoes_National_Park,_USA,_new_lava_flow,_2007.JPG"><img alt="" class="thumbimage" data-file-height="333" data-file-width="500" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/A204%2C_Hawaii_Volcanoes_National_Park%2C_USA%2C_new_lava_flow%2C_2007.JPG/220px-A204%2C_Hawaii_Volcanoes_National_Park%2C_USA%2C_new_lava_flow%2C_2007.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/A204%2C_Hawaii_Volcanoes_National_Park%2C_USA%2C_new_lava_flow%2C_2007.JPG/330px-A204%2C_Hawaii_Volcanoes_National_Park%2C_USA%2C_new_lava_flow%2C_2007.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/A204%2C_Hawaii_Volcanoes_National_Park%2C_USA%2C_new_lava_flow%2C_2007.JPG/440px-A204%2C_Hawaii_Volcanoes_National_Park%2C_USA%2C_new_lava_flow%2C_2007.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:A204,_Hawaii_Volcanoes_National_Park,_USA,_new_lava_flow,_2007.JPG" title="Enlarge"></a></div>Non-viscous lava during an effusive eruption of <a href="/wiki/K%C4%ABlauea" title="Kīlauea">Kīlauea</a></div></div></div>
+<p>Magma from the mantle or lower crust rises through its crust towards the surface. If magma reaches the surface, its behavior depends on the <a href="/wiki/Viscosity" title="Viscosity">viscosity</a> of the <a class="mw-redirect" href="/wiki/Molten" title="Molten">molten</a> constituent <a href="/wiki/Rock_(geology)" title="Rock (geology)">rock</a>. Viscous (thick) magma produces volcanoes characterised by <a href="/wiki/Explosive_eruption" title="Explosive eruption">explosive eruptions</a>, while non-viscous (runny) magma produce volcanoes characterised by <a href="/wiki/Effusive_eruption" title="Effusive eruption">effusive eruptions</a> pouring large amounts of <a href="/wiki/Lava" title="Lava">lava</a> onto the surface.
+</p><p>In some cases, rising magma can cool and solidify without reaching the surface. Instead, the cooled and solidified <a class="mw-redirect" href="/wiki/Igneous" title="Igneous">igneous</a> mass crystallises within the crust to form an igneous <a class="mw-redirect" href="/wiki/Intrusion" title="Intrusion">intrusion</a>. As magma cools the chemicals in the crystals formed are effectively removed from the main mix of the magma (by a process known as <a href="/wiki/Fractional_crystallization_(geology)" title="Fractional crystallization (geology)">fractional crystallization</a>), so the chemical content of the remaining magma evolves as it solidifies slowly. Fresh unevolved magma injections can remobilise more evolved magmas, allowing eruptions from more viscous magmas.
+</p>
+<h2><span class="mw-headline" id="Driving_forces_of_volcanism">Driving forces of volcanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=2" title="Edit section: Driving forces of volcanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:312px;"><a class="image" href="/wiki/File:Tectonic_plate_boundaries.png"><img alt="" class="thumbimage" data-file-height="429" data-file-width="775" height="172" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tectonic_plate_boundaries.png/310px-Tectonic_plate_boundaries.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tectonic_plate_boundaries.png/465px-Tectonic_plate_boundaries.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tectonic_plate_boundaries.png/620px-Tectonic_plate_boundaries.png 2x" width="310"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Tectonic_plate_boundaries.png" title="Enlarge"></a></div>Three types of plate boundary.</div></div></div>
+<p>Movement of molten rock in the mantle, caused by thermal <a href="/wiki/Convection" title="Convection">convection</a> currents, coupled with <a href="/wiki/Isostasy" title="Isostasy">gravitational effects</a> of changes on the earth's surface (<a href="/wiki/Erosion" title="Erosion">erosion</a>, <a class="mw-redirect" href="/wiki/Deposition_(sediment)" title="Deposition (sediment)">deposition</a>, even <a href="/wiki/Asteroid" title="Asteroid">asteroid</a> impact and patterns of <a href="/wiki/Post-glacial_rebound" title="Post-glacial rebound">post-glacial rebound</a>) drive <a href="/wiki/Plate_tectonics" title="Plate tectonics">plate tectonic motion</a> and ultimately volcanism.
+</p>
+<h2><span class="mw-headline" id="Aspects_of_volcanism">Aspects of volcanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=3" title="Edit section: Aspects of volcanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Volcanoes">Volcanoes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=4" title="Edit section: Volcanoes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Volcano" title="Volcano">Volcano</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:312px;"><a class="image" href="/wiki/File:Volcano_scheme.svg"><img alt="" class="thumbimage" data-file-height="1149" data-file-width="1099" height="324" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/310px-Volcano_scheme.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/465px-Volcano_scheme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/620px-Volcano_scheme.svg.png 2x" width="310"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Volcano_scheme.svg" title="Enlarge"></a></div><b>Cross-section through a <a href="/wiki/Stratovolcano" title="Stratovolcano">stratovolcano</a> (vertical scale is exaggerated)</b>: <div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;"><div><ol><li>Large magma chamber</li><li>Bedrock</li><li>Conduit (pipe)</li><li>Base</li><li>Sill</li><li>Dike</li><li>Layers of ash emitted by the volcano</li><li>Flank</li><li>Layers of lava emitted by the volcano</li><li>Throat</li><li>Parasitic cone</li><li>Lava flow</li><li>Vent</li><li>Crater</li><li>Ash cloud</li></ol></div></div></div></div></div>
+<p>Volcanoes are places where magma reaches the earth's surface.
+The type of volcano depends on the location of the eruption and the consistency of the magma.
+</p>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Types_of_volcanic_eruptions" title="Types of volcanic eruptions">Types of volcanic eruptions</a></div>
+<h3><span class="mw-headline" id="Intrusions">Intrusions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=5" title="Edit section: Intrusions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:312px;"><a class="image" href="/wiki/File:Intrusion_types.svg"><img alt="" class="thumbimage" data-file-height="1263" data-file-width="1180" height="332" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Intrusion_types.svg/310px-Intrusion_types.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Intrusion_types.svg/465px-Intrusion_types.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Intrusion_types.svg/620px-Intrusion_types.svg.png 2x" width="310"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Intrusion_types.svg" title="Enlarge"></a></div>Types of Intrusion: <div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;"><div><ol><li><a href="/wiki/Laccolith" title="Laccolith">Laccolith</a></li><li>small <a href="/wiki/Dike_(geology)" title="Dike (geology)">Dike</a></li><li><a href="/wiki/Pluton" title="Pluton">Pluton</a>/<a href="/wiki/Batholith" title="Batholith">Batholith</a></li><li>Dike</li><li><a href="/wiki/Sill_(geology)" title="Sill (geology)">Sill</a></li><li>Pipe/<a class="mw-redirect" href="/wiki/Volcanic_neck" title="Volcanic neck">Volcanic neck</a></li><li><a href="/wiki/Lopolith" title="Lopolith">Lopolith</a></li></ol></div></div></div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Intrusion" title="Intrusion">Intrusion</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Methods_of_pluton_emplacement" title="Methods of pluton emplacement">Methods of pluton emplacement</a></div>
+<p>These are formed where magma pushes between existing rock, intrusions can be in the form of <a href="/wiki/Batholith" title="Batholith">batholiths</a>, <a href="/wiki/Dike_(geology)" title="Dike (geology)">dikes</a>, <a href="/wiki/Sill_(geology)" title="Sill (geology)">sills</a> and <a href="/wiki/Layered_intrusion" title="Layered intrusion">layered intrusions</a>.
+</p>
+<h3><span class="mw-headline" id="Earthquakes">Earthquakes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=6" title="Edit section: Earthquakes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Volcano_tectonic_earthquake" title="Volcano tectonic earthquake">Volcano tectonic earthquake</a></div>
+<p>Earthquakes are generally associated with plate tectonic activity, but some earthquakes are generated as a result of volcanic activity <sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>(though that itself is ultimately driven by the same forces).
+</p>
+<h3><span class="mw-headline" id="Hydrothermal_vents">Hydrothermal vents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=7" title="Edit section: Hydrothermal vents">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Hydrothermal_vents" title="Hydrothermal vents">Hydrothermal vents</a></div>
+<p>These are formed where water interacts with volcanism.<sup class="reference" id="cite_ref-geothermal_3-0"><a href="#cite_note-geothermal-3">[3]</a></sup>
+These include <a class="mw-redirect" href="/wiki/Geysers" title="Geysers">geysers</a>, <a class="mw-redirect" href="/wiki/Fumaroles" title="Fumaroles">fumaroles</a>, <a class="mw-redirect" href="/wiki/Hotsprings" title="Hotsprings">hotsprings</a> and <a href="/wiki/Mudpot" title="Mudpot">mudpots</a>, they are often used as a source of <a href="/wiki/Geothermal_energy" title="Geothermal energy">geothermal energy</a>.<sup class="reference" id="cite_ref-geothermal_3-1"><a href="#cite_note-geothermal-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Volcanic_winter">Volcanic winter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=8" title="Edit section: Volcanic winter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Volcanic_winter" title="Volcanic winter">Volcanic winter</a></div>
+<p>The amount of gas and ash emitted by volcanic eruptions has a significant effect on the Earth's <a href="/wiki/Climate" title="Climate">climate</a>. Large eruptions correlate well with some significant <a href="/wiki/Climate_change#Volcanism" title="Climate change">climate change</a> events.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Forming_rocks">Forming rocks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=9" title="Edit section: Forming rocks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Igneous_rock" title="Igneous rock">Igneous rock</a> and <a href="/wiki/Metamorphic_rock" title="Metamorphic rock">Metamorphic rock</a></div>
+<p>When magma cools it solidifies and forms rocks. The type of rock formed depends on the chemical composition of the magma and how rapidly it cools. Magma that reaches the surface to become lava cools rapidly, resulting in rocks with small crystals such as <a href="/wiki/Basalt" title="Basalt">basalt</a>. Some of this magma may cool extremely rapidly and will form <a href="/wiki/Volcanic_glass" title="Volcanic glass">volcanic glass</a> (rocks without crystals) such as <a href="/wiki/Obsidian" title="Obsidian">obsidian</a>. 
+Magma trapped below ground in thin intrusions cools more slowly than exposed magma and produces rocks with medium-sized crystals. Magma that remains trapped in large quantities below ground cools most slowly resulting in rocks with larger crystals, such as <a href="/wiki/Granite" title="Granite">granite</a> and <a href="/wiki/Gabbro" title="Gabbro">gabbro</a>.
+</p><p>Existing rocks that come into contact with magma may be melted and assimilated into the magma. Other rocks adjacent to the magma may be altered by <a class="mw-redirect" href="/wiki/Contact_metamorphism" title="Contact metamorphism">contact metamorphism</a> or <a href="/wiki/Metasomatism" title="Metasomatism">metasomatism</a> as they are affected by the heat and escaping or externally-circulating <a class="mw-redirect" href="/wiki/Hydrothermal" title="Hydrothermal">hydrothermal</a> fluids.
+</p>
+<h2><span class="mw-headline" id="Volcanism_on_other_bodies">Volcanism on other bodies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=10" title="Edit section: Volcanism on other bodies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Volcanology_of_Io" title="Volcanology of Io">Volcanology of Io</a>, <a href="/wiki/Volcanology_of_Venus" title="Volcanology of Venus">Volcanology of Venus</a>, <a href="/wiki/Volcanology_of_Mars" title="Volcanology of Mars">Volcanology of Mars</a>, and <a href="/wiki/4_Vesta#Geology" title="4 Vesta">Geology of Vesta</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Geology_of_solar_terrestrial_planets" title="Geology of solar terrestrial planets">Geology of solar terrestrial planets</a></div>
+<p>Volcanism is not confined only to Earth, but is thought to be found on any body having a solid crust and fluid mantle. Evidence of volcanism should still be found on any body that has had volcanism at some point in its history. Volcanoes have indeed been clearly observed on other bodies in the <a href="/wiki/Solar_System" title="Solar System">Solar System</a> – on some, such as <a href="/wiki/Mars" title="Mars">Mars</a>, in the shape of mountains that are unmistakably old volcanoes (most notably <a href="/wiki/Olympus_Mons" title="Olympus Mons">Olympus Mons</a>), but on <a href="/wiki/Volcanology_of_Io" title="Volcanology of Io">Io</a> actual ongoing eruptions have been observed. It can be surmised that volcanism exists on planets and moons of this type in other <a href="/wiki/Planetary_system" title="Planetary system">planetary systems</a> as well. In 2014, scientists found 70 lava flows which formed on the Moon in the last 100 million years.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:602px;"><a class="image" href="/wiki/File:Terrestial_Planets_internal_en.jpg"><img alt="" class="thumbimage" data-file-height="900" data-file-width="3373" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Terrestial_Planets_internal_en.jpg/600px-Terrestial_Planets_internal_en.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Terrestial_Planets_internal_en.jpg/900px-Terrestial_Planets_internal_en.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Terrestial_Planets_internal_en.jpg/1200px-Terrestial_Planets_internal_en.jpg 2x" width="600"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Terrestial_Planets_internal_en.jpg" title="Enlarge"></a></div>The internal structure of the inner planets.</div></div></div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Bimodal_volcanism" title="Bimodal volcanism">Bimodal volcanism</a></li>
+<li><a href="/wiki/Continental_drift" title="Continental drift">Continental drift</a></li>
+<li><a href="/wiki/Hotspot_(geology)" title="Hotspot (geology)">Hotspot</a></li>
+<li><a href="/wiki/Volcanic_arc" title="Volcanic arc">Volcanic arc</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volcanism&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Volcanism" title="commons:Category:Volcanism">Volcanism</a></b></i>.</td></tr></tbody></table>
+<ul><li><cite class="citation web"><a class="external text" href="http://www.d.umn.edu/~rmorton/ronshome/Volcanology/VolcanicGlossary.htm" rel="nofollow">"Glossary of Volcanic Terms"</a>. G. J. Hudak, University of Wisconsin Oshkosh, 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Glossary+of+Volcanic+Terms&amp;rft.pub=G.+J.+Hudak%2C+University+of+Wisconsin+Oshkosh%2C+2001&amp;rft_id=http%3A%2F%2Fwww.d.umn.edu%2F~rmorton%2Fronshome%2FVolcanology%2FVolcanicGlossary.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolcanism"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Crumpler, L. S., and Lucas, S. G. (2001). <a class="external text" href="https://web.archive.org/web/20070321022246/http://www.nmnaturalhistory.org/pdf_files/NMvolcanoes.pdf" rel="nofollow">"Volcanoes of New Mexico: An Abbreviated Guide For Non-Specialists"</a> <span class="cs1-format">(PDF)</span>. <i>Volcanology in New Mexico. New Mexico Museum of Natural History and Science Bulletin</i>. <b>18</b>: 5–15. Archived from <a class="external text" href="http://www.nmnaturalhistory.org/pdf_files/NMvolcanoes.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2007-03-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Volcanology+in+New+Mexico.+New+Mexico+Museum+of+Natural+History+and+Science+Bulletin&amp;rft.atitle=Volcanoes+of+New+Mexico%3A+An+Abbreviated+Guide+For+Non-Specialists&amp;rft.volume=18&amp;rft.pages=5-15&amp;rft.date=2001&amp;rft_id=http%3A%2F%2Fwww.nmnaturalhistory.org%2Fpdf_files%2FNMvolcanoes.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolcanism"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Types_of_volcanic_eruptions" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Types_of_volcanic_eruptions" title="Template:Types of volcanic eruptions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Types_of_volcanic_eruptions" title="Template talk:Types of volcanic eruptions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Types_of_volcanic_eruptions&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Types_of_volcanic_eruptions" style="font-size:114%;margin:0 4em"><a href="/wiki/Types_of_volcanic_eruptions" title="Types of volcanic eruptions">Types of volcanic eruptions</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Magma" title="Magma">Magmatic</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hawaiian_eruption" title="Hawaiian eruption">Hawaiian</a></li>
+<li><a href="/wiki/Strombolian_eruption" title="Strombolian eruption">Strombolian</a></li>
+<li><a href="/wiki/Vulcanian_eruption" title="Vulcanian eruption">Vulcanian</a></li>
+<li><a href="/wiki/Pel%C3%A9an_eruption" title="Peléan eruption">Peléan</a></li>
+<li><a href="/wiki/Plinian_eruption" title="Plinian eruption">Plinian</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phreatomagmatic_eruption" title="Phreatomagmatic eruption">Phreatomagmatic</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Surtseyan_eruption" title="Surtseyan eruption">Surtseyan</a></li>
+<li><a href="/wiki/Submarine_eruption" title="Submarine eruption">Submarine</a></li>
+<li><a href="/wiki/Subglacial_eruption" title="Subglacial eruption">Subglacial</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phreatic" title="Phreatic">Phreatic</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Phreatic_eruption" title="Phreatic eruption">Phreatic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other classifications</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effusive_eruption" title="Effusive eruption">Effusive</a></li>
+<li><a href="/wiki/Explosive_eruption" title="Explosive eruption">Explosive</a></li>
+<li><a href="/wiki/Subaerial_eruption" title="Subaerial eruption">Subaerial</a></li>
+<li><a href="/wiki/Lateral_eruption" title="Lateral eruption">Lateral</a></li>
+<li><a href="/wiki/Limnic_eruption" title="Limnic eruption">Limnic</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q505748&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q505748&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q505748" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4064081-4" rel="nofollow">4064081-4</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20181026160627
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.272 seconds
+Real time usage: 0.373 seconds
+Preprocessor visited node count: 870/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29229/2097152 bytes
+Template argument size: 490/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14662/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 3.49 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  291.561      1 -total
+ 32.18%   93.812      1 Template:Reflist
+ 26.32%   76.744      5 Template:Cite_web
+ 15.84%   46.197      1 Template:About
+ 12.44%   36.276      1 Template:Authority_control
+ 10.00%   29.170      1 Template:Commons_category
+  8.75%   25.509      1 Template:Commons
+  8.06%   23.512      1 Template:Sister_project
+  7.10%   20.695      1 Template:Side_box
+  5.68%   16.563      2 Template:Div_col
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:81256-0!canonical and timestamp 20181026160627 and revision id 863594633
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Volcanism&amp;oldid=863594633">https://en.wikipedia.org/w/index.php?title=Volcanism&amp;oldid=863594633</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Volcanism" title="Category:Volcanism">Volcanism</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Volcanism" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Volcanism" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Volcanism" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Volcanism" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Volcanism">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Volcanism&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Volcanism&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Volcanism" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Volcanism" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Volcanism&amp;oldid=863594633" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Volcanism&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q505748" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Volcanism&amp;id=863594633" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Volcanism">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Volcanism&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Volcanism&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Volcanism" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Vulkanismus" hreflang="gsw" lang="gsw" title="Vulkanismus – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%83%D8%A7%D9%86%D9%8A%D8%A9" hreflang="ar" lang="ar" title="بركانية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Vulkanizm" hreflang="az" lang="az" title="Vulkanizm – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D0%B7%D1%8A%D0%BC" hreflang="bg" lang="bg" title="Вулканизъм – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Vulkanismus" hreflang="cs" lang="cs" title="Vulkanismus – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Vulkanismus" hreflang="de" lang="de" title="Vulkanismus – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%97%CF%86%CE%B1%CE%B9%CF%83%CF%84%CE%B5%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B1" hreflang="el" lang="el" title="Ηφαιστειότητα – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Vulkanismo" hreflang="eo" lang="eo" title="Vulkanismo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%D9%81%D8%B4%D8%A7%D9%86%E2%80%8C%D8%AE%DB%8C%D8%B2%DB%8C" hreflang="fa" lang="fa" title="آتشفشان‌خیزی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Volcanisme" hreflang="fr" lang="fr" title="Volcanisme – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Bolc%C3%A1nacht" hreflang="ga" lang="ga" title="Bolcánacht – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%80%D6%80%D5%A1%D5%A2%D5%AD%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Հրաբխականություն – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE" hreflang="hi" lang="hi" title="ज्वालामुखीयता – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Vulkanska_aktivnost" hreflang="hr" lang="hr" title="Vulkanska aktivnost – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Vulcanismo" hreflang="it" lang="it" title="Vulcanismo – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%D7%A2%D7%A9%D7%99%D7%95%D7%AA" hreflang="he" lang="he" title="געשיות – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%A3%E1%83%9A%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%96%E1%83%9B%E1%83%98" hreflang="ka" lang="ka" title="ვულკანიზმი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC" hreflang="kk" lang="kk" title="Вулканизм – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC" hreflang="ky" lang="ky" title="Вулканизм – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Vulcanismus" hreflang="la" lang="la" title="Vulcanismus – Latin">Latina</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Vulkanismus" hreflang="lb" lang="lb" title="Vulkanismus – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/V%C3%B3lkanisme" hreflang="li" lang="li" title="Vólkanisme – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Vulkanizmus" hreflang="hu" lang="hu" title="Vulkanizmus – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Vulkanisme" hreflang="nl" lang="nl" title="Vulkanisme – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Vulkanisme" hreflang="nn" lang="nn" title="Vulkanisme – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Vulkanizm" hreflang="uz" lang="uz" title="Vulkanizm – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Vulkanismus" hreflang="nds" lang="nds" title="Vulkanismus – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wulkanizm" hreflang="pl" lang="pl" title="Wulkanizm – Polish">Polski</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Vulcanism" hreflang="ro" lang="ro" title="Vulcanism – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC" hreflang="ru" lang="ru" title="Вулканизм – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Volcanism" hreflang="en-simple" lang="en-simple" title="Volcanism – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Sope%C4%8Dn%C3%A1_%C4%8Dinnos%C5%A5" hreflang="sk" lang="sk" title="Sopečná činnosť – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D0%BC" hreflang="sr" lang="sr" title="Вулканизам – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Volkanizma" hreflang="tr" lang="tr" title="Volkanizma – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D1%96%D0%B7%D0%BC" hreflang="uk" lang="uk" title="Вулканізм – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%81%AB%E5%B1%B1%E4%BD%9C%E7%94%A8" hreflang="zh" lang="zh" title="火山作用 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q505748#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 October 2018, at 19:35<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Volcanism&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.373","ppvisitednodes":{"value":870,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29229,"limit":2097152},"templateargumentsize":{"value":490,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14662,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  291.561      1 -total"," 32.18%   93.812      1 Template:Reflist"," 26.32%   76.744      5 Template:Cite_web"," 15.84%   46.197      1 Template:About"," 12.44%   36.276      1 Template:Authority_control"," 10.00%   29.170      1 Template:Commons_category","  8.75%   25.509      1 Template:Commons","  8.06%   23.512      1 Template:Sister_project","  7.10%   20.695      1 Template:Side_box","  5.68%   16.563      2 Template:Div_col"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":3656614,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20181026160627","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1324"});});</script>
+</body>
+</html>

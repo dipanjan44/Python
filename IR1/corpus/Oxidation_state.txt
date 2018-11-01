@@ -1,0 +1,866 @@
+https://en.wikipedia.org/wiki/Oxidation_state
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Oxidation state - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Oxidation_state","wgTitle":"Oxidation state","wgCurRevisionId":862630940,"wgRevisionId":862630940,"wgArticleId":38452,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with missing ISBNs","Wikipedia articles needing clarification from April 2018","Chemical properties","Chemical nomenclature","Coordination chemistry","Dimensionless numbers of chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Oxidation_state","wgRelevantArticleId":38452,"wgRequestId":"W9ScUApAME4AALJPzRQAAABH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q484152","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Oxidation_state" rel="alternate"/>
+<link href="/w/index.php?title=Oxidation_state&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Oxidation_state&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Oxidation_state" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Oxidation_state rootpage-Oxidation_state skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Oxidation state</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The <b>oxidation state</b>, sometimes referred to as <b>oxidation number</b>, describes degree of <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidation</a> (loss of <a href="/wiki/Electron" title="Electron">electrons</a>) of an <a href="/wiki/Atom" title="Atom">atom</a> in a <a href="/wiki/Chemical_compound" title="Chemical compound">chemical compound</a>. Conceptually, the oxidation state, which may be positive, negative or zero,  is the hypothetical <a class="mw-redirect" href="/wiki/Electrical_charge" title="Electrical charge">charge</a> that an atom would have if all <a href="/wiki/Chemical_bond" title="Chemical bond">bonds</a> to atoms of different elements were 100% <a class="mw-redirect" href="/wiki/Ionic_bond" title="Ionic bond">ionic</a>, with no <a href="/wiki/Covalent_bond" title="Covalent bond">covalent</a> component. This is never exactly true for real bonds.
+</p><p>The term <i>oxidation</i> was first used by <a href="/wiki/Antoine_Lavoisier" title="Antoine Lavoisier">Antoine Lavoisier</a> to signify reaction of a substance with oxygen. Much later, it was realized that the substance, upon being oxidized, loses electrons, and the meaning was extended to include other <a href="/wiki/Chemical_reaction" title="Chemical reaction">reactions</a> in which electrons are lost, regardless of whether oxygen was involved.
+</p><p>Oxidation states are typically represented by <a href="/wiki/Integer" title="Integer">integers</a> which may be positive, zero, or negative. In some cases, the average oxidation state of an element is a fraction, such as <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">8</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span> for iron in <a href="/wiki/Magnetite" title="Magnetite">magnetite</a> (<span class="chemf nowrap">Fe<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>). The highest known oxidation state is reported to be +9 in the <a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">tetroxoiridium(IX)</a> cation (<span class="chemf nowrap">IrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> It is predicted that even a +10 oxidation state may be achievable by <a href="/wiki/Platinum" title="Platinum">platinum</a> in the tetroxoplatinum(X) cation (<span class="chemf nowrap">PtO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The lowest oxidation state is −4, as for <a href="/wiki/Carbon" title="Carbon">carbon</a> in <a href="/wiki/Methane" title="Methane">methane</a> or for <a href="/wiki/Chromium" title="Chromium">chromium</a><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> in [Cr(CO)<sub>4</sub>]<sup>4−</sup>.
+</p><p>The increase in oxidation state of an atom, through a chemical reaction, is known as an oxidation; a decrease in oxidation state is known as a <a href="/wiki/Redox" title="Redox">reduction</a>. Such reactions involve the formal transfer of electrons: a net gain in electrons being a reduction, and a net loss of electrons being an oxidation. For pure elements, the oxidation state is zero.
+</p><p>The oxidation state of an atom does not represent the "real" charge on that atom, or any other actual atomic property. This is particularly true of high oxidation states, where the <a href="/wiki/Ionization_energy" title="Ionization energy">ionization energy</a> required to produce a multiply positive ion is far greater than the energies available in chemical reactions. Additionally, oxidation states of atoms in a given compound may vary depending on the choice of <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a> scale used in their calculation. Thus, the oxidation state of an atom in a compound is purely a formalism. It is nevertheless important in understanding the nomenclature conventions of inorganic compounds. Also, a number of observations pertaining to chemical reactions may be explained at a basic level in terms of oxidation states.
+</p><p>In inorganic nomenclature, the oxidation state is represented by a <a class="mw-redirect" href="/wiki/Roman_numeral" title="Roman numeral">Roman numeral</a> placed after the element name inside a parenthesis or as a superscript after the element symbol.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#IUPAC_definition_of_oxidation_state"><span class="tocnumber">1</span> <span class="toctext">IUPAC definition of oxidation state</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Oxidation_state"><span class="tocnumber">1.1</span> <span class="toctext">Oxidation state</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Determination_of_oxidation_state"><span class="tocnumber">2</span> <span class="toctext">Determination of oxidation state</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Simple_approach_without_bonding_considerations"><span class="tocnumber">2.1</span> <span class="toctext">Simple approach without bonding considerations</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Algorithm_of_assigning_bonds"><span class="tocnumber">2.2</span> <span class="toctext">Algorithm of assigning bonds</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#The_algorithm's_caveat"><span class="tocnumber">2.2.1</span> <span class="toctext">The algorithm's caveat</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Algorithm_of_summing_bond_orders"><span class="tocnumber">2.3</span> <span class="toctext">Algorithm of summing bond orders</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Applied_to_a_Lewis_structure"><span class="tocnumber">2.3.1</span> <span class="toctext">Applied to a Lewis structure</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Applied_to_bond_graph"><span class="tocnumber">2.3.2</span> <span class="toctext">Applied to bond graph</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Nominal_oxidation_states"><span class="tocnumber">3</span> <span class="toctext">Nominal oxidation states</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Balancing_redox"><span class="tocnumber">4</span> <span class="toctext">Balancing redox</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Ambiguous_oxidation_states"><span class="tocnumber">5</span> <span class="toctext">Ambiguous oxidation states</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Oxidation-state_determination_from_resonance_formulas_is_not_straightforward"><span class="tocnumber">5.1</span> <span class="toctext">Oxidation-state determination from resonance formulas is not straightforward</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#A_physical_measurement_is_needed_to_decide_the_oxidation_state"><span class="tocnumber">5.2</span> <span class="toctext">A physical measurement is needed to decide the oxidation state</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Truly_ambiguous_oxidation_states_occur"><span class="tocnumber">5.3</span> <span class="toctext">Truly ambiguous oxidation states occur</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Elements_with_multiple_oxidation_states"><span class="tocnumber">6</span> <span class="toctext">Elements with multiple oxidation states</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Fractional_oxidation_states"><span class="tocnumber">7</span> <span class="toctext">Fractional oxidation states</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Use_in_nomenclature"><span class="tocnumber">8</span> <span class="toctext">Use in nomenclature</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Oxidation_state_in_metals"><span class="tocnumber">9</span> <span class="toctext">Oxidation state in metals</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#History_of_the_oxidation_state_concept"><span class="tocnumber">10</span> <span class="toctext">History of the oxidation state concept</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Early_days"><span class="tocnumber">10.1</span> <span class="toctext">Early days</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Use_in_nomenclature_2"><span class="tocnumber">10.2</span> <span class="toctext">Use in nomenclature</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Development_towards_the_current_concept"><span class="tocnumber">10.3</span> <span class="toctext">Development towards the current concept</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="IUPAC_definition_of_oxidation_state">IUPAC definition of oxidation state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=1" title="Edit section: IUPAC definition of oxidation state">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Oxidation_state">Oxidation state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=2" title="Edit section: Oxidation state">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A "Comprehensive definition of the term oxidation state (IUPAC Recommendations 2016)" has been published with free access.<sup class="reference" id="cite_ref-10.1515/pac-2015-1204_4-0"><a href="#cite_note-10.1515/pac-2015-1204-4">[4]</a></sup> It is a distillation of an <a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a> technical report "Toward a comprehensive definition of oxidation state" from 2014.<sup class="reference" id="cite_ref-10.1515/pac-2013-0505_5-0"><a href="#cite_note-10.1515/pac-2013-0505-5">[5]</a></sup> The current IUPAC <i><a class="mw-redirect" href="/wiki/Gold_Book" title="Gold Book">Gold Book</a></i> definition of oxidation state<sup class="reference" id="cite_ref-goldbookoxstate_6-0"><a href="#cite_note-goldbookoxstate-6">[6]</a></sup> is:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303468">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p><i>Oxidation state of an atom is the charge of this atom after ionic approximation of its heteronuclear bonds...</i>
+</p></blockquote>
+<p>and the term <i>oxidation number</i> is nearly synonymous.<sup class="reference" id="cite_ref-goldbookoxnumber_7-0"><a href="#cite_note-goldbookoxnumber-7">[7]</a></sup>
+</p><p>The underlying principle is that the ionic signs<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (April 2018)">clarification needed</span></a></i>]</sup> for two atoms that are bonded are deduced from the electron distribution in a <a href="/wiki/Linear_combination_of_atomic_orbitals" title="Linear combination of atomic orbitals">LCAO–MO</a> model. In a bond between two different elements, the bond's electrons are assigned to its main atomic contributor; in a bond between two atoms of the same element, the electrons are divided equally. In practical use, the sign of the ionic approximation follows <a href="/wiki/Electronegativity#Allen_electronegativity" title="Electronegativity">Allen electronegativities</a>:
+</p>
+<table border="0" cellpadding="0" cellspacing="1" style="text-align:center; background:#f8f8f8; border:1px solid #a9a9a9; width:400px; max-width:1300px; margin:0 auto; padding:2px; font-size:80%;">
+<tbody><tr>
+<th colspan="19" style="background:#d8d8d8; padding:2px 4px;"><div class="plainlinks hlist navbar mini" style="float:left; text-align:left"><ul><li class="nv-view"><a href="/wiki/Template:Periodic_table_(electronegativity_by_Allen_scale)" title="Template:Periodic table (electronegativity by Allen scale)"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Periodic_table_(electronegativity_by_Allen_scale)" title="Template talk:Periodic table (electronegativity by Allen scale)"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Periodic_table_(electronegativity_by_Allen_scale)&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div><div style="font-size:114%;margin:0 4em">Electronegativity using the Allen scale</div>
+</th></tr>
+<tr style="background:#e8e8e8">
+<th><a class="mw-redirect" href="/wiki/Periodic_table_group" title="Periodic table group">Group</a> →
+</th>
+<th><a href="/wiki/Alkali_metal" title="Alkali metal">1</a>
+</th>
+<th><a class="mw-redirect" href="/wiki/Alkaline_earth" title="Alkaline earth">2</a>
+</th>
+<th><a href="/wiki/Group_3_element" title="Group 3 element">3</a>
+</th>
+<th><a href="/wiki/Group_4_element" title="Group 4 element">4</a>
+</th>
+<th><a href="/wiki/Group_5_element" title="Group 5 element">5</a>
+</th>
+<th><a href="/wiki/Group_6_element" title="Group 6 element">6</a>
+</th>
+<th><a href="/wiki/Group_7_element" title="Group 7 element">7</a>
+</th>
+<th><a href="/wiki/Group_8_element" title="Group 8 element">8</a>
+</th>
+<th><a href="/wiki/Group_9_element" title="Group 9 element">9</a>
+</th>
+<th><a href="/wiki/Group_10_element" title="Group 10 element">10</a>
+</th>
+<th><a class="mw-redirect" href="/wiki/Coinage_metal" title="Coinage metal">11</a>
+</th>
+<th><a href="/wiki/Group_12_element" title="Group 12 element">12</a>
+</th>
+<th><a href="/wiki/Boron_group" title="Boron group">13</a>
+</th>
+<th><a href="/wiki/Carbon_group" title="Carbon group">14</a>
+</th>
+<th><a href="/wiki/Pnictogen" title="Pnictogen">15</a>
+</th>
+<th><a href="/wiki/Chalcogen" title="Chalcogen">16</a>
+</th>
+<th><a href="/wiki/Halogen" title="Halogen">17</a>
+</th>
+<th><a href="/wiki/Noble_gas" title="Noble gas">18</a>
+</th></tr>
+<tr>
+<td>↓ <a class="mw-redirect" href="/wiki/Periodic_table_period" title="Periodic table period"><b>Period</b></a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Period_1_element" title="Period 1 element">1</a>
+</th>
+<td style="background-color:#dddddd"><a href="/wiki/Hydrogen" title="Hydrogen">H</a><br/>2.300
+</td>
+<td colspan="16">
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Helium" title="Helium">He</a><br/>4.160
+</td></tr>
+<tr>
+<th><a href="/wiki/Period_2_element" title="Period 2 element">2</a>
+</th>
+<td style="background-color:#dddddd"><a href="/wiki/Lithium" title="Lithium">Li</a><br/>0.912
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Beryllium" title="Beryllium">Be</a><br/>1.576
+</td>
+<td colspan="10">
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Boron" title="Boron">B</a><br/>2.051
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Carbon" title="Carbon">C</a><br/>2.544
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Nitrogen" title="Nitrogen">N</a><br/>3.066
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Oxygen" title="Oxygen">O</a><br/>3.610
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Fluorine" title="Fluorine">F</a><br/>4.193
+</td>
+<td style="background-color:#ff0000"><a href="/wiki/Neon" title="Neon">Ne</a><br/>4.787
+</td></tr>
+<tr>
+<th><a href="/wiki/Period_3_element" title="Period 3 element">3</a>
+</th>
+<td style="background-color:#dddddd"><a href="/wiki/Sodium" title="Sodium">Na</a><br/>0.869
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Magnesium" title="Magnesium">Mg</a><br/>1.293
+</td>
+<td colspan="10">
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Aluminium" title="Aluminium">Al</a><br/>1.613
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Silicon" title="Silicon">Si</a><br/>1.916
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Phosphorus" title="Phosphorus">P</a><br/>2.253
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Sulfur" title="Sulfur">S</a><br/>2.589
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Chlorine" title="Chlorine">Cl</a><br/>2.869
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Argon" title="Argon">Ar</a><br/>3.242
+</td></tr>
+<tr>
+<th><a href="/wiki/Period_4_element" title="Period 4 element">4</a>
+</th>
+<td style="background-color:#dddddd"><a href="/wiki/Potassium" title="Potassium">K</a><br/>0.734
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Calcium" title="Calcium">Ca</a><br/>1.034
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Scandium" title="Scandium">Sc</a><br/>1.19
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Titanium" title="Titanium">Ti</a><br/>1.38
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Vanadium" title="Vanadium">V</a><br/>1.53
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Chromium" title="Chromium">Cr</a><br/>1.65
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Manganese" title="Manganese">Mn</a><br/>1.75
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Iron" title="Iron">Fe</a><br/>1.80
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Cobalt" title="Cobalt">Co</a><br/>1.84
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Nickel" title="Nickel">Ni</a><br/>1.88
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Copper" title="Copper">Cu</a><br/>1.85
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Zinc" title="Zinc">Zn</a><br/>1.59
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Gallium" title="Gallium">Ga</a><br/>1.756
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Germanium" title="Germanium">Ge</a><br/>1.994
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Arsenic" title="Arsenic">As</a><br/>2.211
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Selenium" title="Selenium">Se</a><br/>2.424
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Bromine" title="Bromine">Br</a><br/>2.685
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Krypton" title="Krypton">Kr</a><br/>2.966
+</td></tr>
+<tr>
+<th><a href="/wiki/Period_5_element" title="Period 5 element">5</a>
+</th>
+<td style="background-color:#dddddd"><a href="/wiki/Rubidium" title="Rubidium">Rb</a><br/>0.706
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Strontium" title="Strontium">Sr</a><br/>0.963
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Yttrium" title="Yttrium">Y</a><br/>1.12
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Zirconium" title="Zirconium">Zr</a><br/>1.32
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Niobium" title="Niobium">Nb</a><br/>1.41
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Molybdenum" title="Molybdenum">Mo</a><br/>1.47
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Technetium" title="Technetium">Tc</a><br/>1.51
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Ruthenium" title="Ruthenium">Ru</a><br/>1.54
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Rhodium" title="Rhodium">Rh</a><br/>1.56
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Palladium" title="Palladium">Pd</a><br/>1.58
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Silver" title="Silver">Ag</a><br/>1.87
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Cadmium" title="Cadmium">Cd</a><br/>1.52
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Indium" title="Indium">In</a><br/>1.656
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Tin" title="Tin">Sn</a><br/>1.824
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Antimony" title="Antimony">Sb</a><br/>1.984
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Tellurium" title="Tellurium">Te</a><br/>2.158
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Iodine" title="Iodine">I</a><br/>2.359
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Xenon" title="Xenon">Xe</a><br/>2.582
+</td></tr>
+<tr>
+<th><a href="/wiki/Period_6_element" title="Period 6 element">6</a>
+</th>
+<td style="background-color:#ffff00"><a href="/wiki/Caesium" title="Caesium">Cs</a><br/>0.659
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Barium" title="Barium">Ba</a><br/>0.881
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Lutetium" title="Lutetium">Lu</a><br/>1.09
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Hafnium" title="Hafnium">Hf</a><br/>1.16
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Tantalum" title="Tantalum">Ta</a><br/>1.34
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Tungsten" title="Tungsten">W</a><br/>1.47
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Rhenium" title="Rhenium">Re</a><br/>1.60
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Osmium" title="Osmium">Os</a><br/>1.65
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Iridium" title="Iridium">Ir</a><br/>1.68
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Platinum" title="Platinum">Pt</a><br/>1.72
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Gold" title="Gold">Au</a><br/>1.92
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a><br/>1.76
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Thallium" title="Thallium">Tl</a><br/>1.789
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Lead" title="Lead">Pb</a><br/>1.854
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Bismuth" title="Bismuth">Bi</a><br/>2.01
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Polonium" title="Polonium">Po</a><br/>2.19
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Astatine" title="Astatine">At</a><br/>2.39
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Radon" title="Radon">Rn</a><br/>2.60
+</td></tr>
+<tr>
+<th><a href="/wiki/Period_7_element" title="Period 7 element">7</a>
+</th>
+<td style="background-color:#dddddd"><a href="/wiki/Francium" title="Francium">Fr</a><br/>0.67
+</td>
+<td style="background-color:#dddddd"><a href="/wiki/Radium" title="Radium">Ra</a><br/>0.89
+</td></tr>
+<tr>
+<td colspan="19" style="text-align:left">See also: <a href="/wiki/Electronegativities_of_the_elements_(data_page)" title="Electronegativities of the elements (data page)">Electronegativities of the elements (data page)</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Determination_of_oxidation_state">Determination of oxidation state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=3" title="Edit section: Determination of oxidation state">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While introductory levels of chemistry teaching use postulated oxidation states, the IUPAC recommendation<sup class="reference" id="cite_ref-10.1515/pac-2015-1204_4-1"><a href="#cite_note-10.1515/pac-2015-1204-4">[4]</a></sup> and the <i>Gold Book</i> entry<sup class="reference" id="cite_ref-goldbookoxstate_6-1"><a href="#cite_note-goldbookoxstate-6">[6]</a></sup> list <a href="#Algorithm_of_assigning_bonds">two entirely general algorithms for the calculation of the oxidation states</a> of elements in chemical compounds.
+</p>
+<h3><span class="mw-headline" id="Simple_approach_without_bonding_considerations">Simple approach without bonding considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=4" title="Edit section: Simple approach without bonding considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Introductory chemistry uses postulates: the oxidation state for an element in a chemical formula is calculated from the overall charge and postulated oxidation states for all the other atoms.
+</p><p>A simple example is based on two postulates,
+</p>
+<ol><li>OS = +1 for <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a></li>
+<li>OS = −2 for <a href="/wiki/Oxygen" title="Oxygen">oxygen</a></li></ol>
+<p>where OS stands for oxidation state. This approach yields correct oxidation states in oxides and hydroxides of any single element, and in acids such as <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">H<sub>2</sub>SO<sub>4</sub></a> or <a class="mw-redirect" href="/wiki/Dichromic_acid" title="Dichromic acid">H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub></a>. Its coverage can be extended either by a list of exceptions or by assigning priority to the postulates. The latter works for <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a> where the priority of rule 1 leaves both oxygens with oxidation state −1.
+</p><p>Additional postulates and their ranking may expand the range of compounds to fit a textbook’s scope. As an example, one postulatory algorithm from many possible; in a sequence of decreasing priority:
+</p>
+<ol><li>An element in a free form has OS = 0.</li>
+<li>In a compound or ion, the oxidation states' sum equals the total charge of the compound or ion.</li>
+<li><a href="/wiki/Fluorine" title="Fluorine">Fluorine</a> in compounds has OS = −1; this extends to <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> and <a href="/wiki/Bromine" title="Bromine">bromine</a> only when not bonded to a lighter halogen, oxygen or nitrogen.</li>
+<li><a class="mw-redirect" href="/wiki/Group_1_element" title="Group 1 element">Group 1</a> and <a class="mw-redirect" href="/wiki/Group_2_element" title="Group 2 element">group 2</a> metals in compounds have OS = +1 and +2, respectively.</li>
+<li>Hydrogen has OS = +1, but adopts −1 when bonded as a <a href="/wiki/Hydride" title="Hydride">hydride</a> to metals or metalloids.</li>
+<li>Oxygen in compounds has OS = −2.</li></ol>
+<p>This set of postulates covers oxidation states of fluorides, chlorides, bromides, oxides, hydroxides and hydrides of any single element. It covers all <a class="mw-redirect" href="/wiki/Oxoacids" title="Oxoacids">oxoacids</a> of any central atom (and all their fluoro-, chloro- and bromo-relatives), as well as <a href="/wiki/Salt_(chemistry)" title="Salt (chemistry)">salts</a> of such acids with group 1 and 2 metals. It also covers <a href="/wiki/Iodide" title="Iodide">iodides</a>, <a href="/wiki/Sulfide" title="Sulfide">sulfides</a> and similar simple salts of these metals.
+</p>
+<h3><span class="mw-headline" id="Algorithm_of_assigning_bonds">Algorithm of assigning bonds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=5" title="Edit section: Algorithm of assigning bonds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This algorithm is performed on a <a href="/wiki/Lewis_structure" title="Lewis structure">Lewis structure</a> (a formula that shows all <a href="/wiki/Valence_electron" title="Valence electron">valence electrons</a>). Oxidation state equals the charge of an atom after its heteronuclear bonds have been assigned to the more electronegative partner (<a href="#The_algorithm's_caveat">except when that partner is a reversibly bonded Lewis-acid ligand</a>) and homonuclear bonds have been divided equally:
+</p>
+<dl><dd><a class="image" href="/wiki/File:1oxstate.svg"><img alt="1oxstate.svg" data-file-height="88" data-file-width="475" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1oxstate.svg/240px-1oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1oxstate.svg/360px-1oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1oxstate.svg/480px-1oxstate.svg.png 2x" width="240"/></a></dd></dl>
+<p>where "—" is an electron pair, and OS is the oxidation state as a numerical variable.
+</p><p>After the electrons have been assigned according to the vertical red lines on the formula, the total number of valence electrons that now "belong" to each atom are subtracted from the number <i>N</i> of valence electrons of the neutral atom (such as 5 for nitrogen in <a href="/wiki/Pnictogen" title="Pnictogen">group 15</a>) to yield that atom's oxidation state.
+</p><p>This example shows the importance of describing the bonding. Its summary formula, HNO<sub>3</sub>, corresponds to two <a href="/wiki/Structural_isomer" title="Structural isomer">structural isomers</a>; the <a href="/wiki/Peroxynitrous_acid" title="Peroxynitrous acid">peroxynitrous acid</a> in the above figure and the more stable <a href="/wiki/Nitric_acid" title="Nitric acid">nitric acid</a>. With the formula HNO<sub>3</sub>, the <a href="#Simple_approach_without_bonding_considerations">simple approach without bonding considerations</a> yields −2 for all three oxygens and +5 for nitrogen, which is correct for nitric acid. For the peroxynitrous acid, however, the two oxygens in the O–O bond each have OS = −1 and the nitrogen has OS = +3, which requires a structure to understand.
+</p><p><a href="/wiki/Organic_compound" title="Organic compound">Organic compounds</a> are treated in a similar manner; exemplified here on <a href="/wiki/Functional_group" title="Functional group">functional groups</a> occurring in between <a href="/wiki/Methane" title="Methane">CH<sub>4</sub></a> and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a>:
+</p>
+<dl><dd><a class="image" href="/wiki/File:3oxstate.svg"><img alt="3oxstate.svg" data-file-height="138" data-file-width="900" height="77" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/3oxstate.svg/500px-3oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/3oxstate.svg/750px-3oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/3oxstate.svg/1000px-3oxstate.svg.png 2x" width="500"/></a></dd></dl>
+<p>Analogously for <a class="mw-redirect" href="/wiki/Transition-metal" title="Transition-metal">transition-metal</a> compounds; CrO(O<sub>2</sub>)<sub>2</sub> on the left has a total of 36 valence electrons (18 pairs to be distributed), and <a class="mw-redirect" href="/wiki/Hexacarbonylchromium" title="Hexacarbonylchromium">Cr(CO)<sub>6</sub></a> on the right has 66 valence electrons (33 pairs):
+</p>
+<dl><dd><a class="image" href="/wiki/File:2oxstate.svg"><img alt="2oxstate.svg" data-file-height="225" data-file-width="688" height="124" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2oxstate.svg/380px-2oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2oxstate.svg/570px-2oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2oxstate.svg/760px-2oxstate.svg.png 2x" width="380"/></a></dd></dl>
+<p>A key step is drawing the Lewis structure of the molecule (neutral, cationic, anionic): atom symbols are arranged so that pairs of atoms can be joined by single two-electron bonds as in the molecule (a sort of "skeletal" structure), and the remaining valence electrons are distributed such that sp atoms obtain an <a href="/wiki/Octet_rule" title="Octet rule">octet</a> (duet for hydrogen) with priority that increases with electronegativity. In some cases, this leads to alternative formulae that differ in bond orders (the full set of which is called the <a href="/wiki/Resonance_(chemistry)" title="Resonance (chemistry)">resonance formulas</a>). Consider the <a href="/wiki/Sulfate" title="Sulfate">sulfate</a> anion (<span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> with 32 valence electrons; 24 from oxygens, 6 from sulfur, 2 of the anion charge obtained from the implied cation). The <a href="/wiki/Bond_order" title="Bond order">bond orders</a> to the terminal oxygens have no effect on the oxidation state so long as the oxygens have octets. Already the skeletal structure, top left, yields the correct oxidation states, as does the Lewis structure, top right (one of the resonance formulas):
+</p>
+<dl><dd><a class="image" href="/wiki/File:7oxstate.svg"><img alt="7oxstate.svg" data-file-height="475" data-file-width="875" height="244" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/7oxstate.svg/450px-7oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/7oxstate.svg/675px-7oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/7oxstate.svg/900px-7oxstate.svg.png 2x" width="450"/></a></dd></dl>
+<p>The bond-order formula at bottom is closest to the reality of four equivalent oxygens each having a total bond order of 2. That total includes the bond of order <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span> to the implied cation and follows the 8 − <i>N</i> rule<sup class="reference" id="cite_ref-10.1515/pac-2013-0505_5-1"><a href="#cite_note-10.1515/pac-2013-0505-5">[5]</a></sup> requiring that the main-group atom’s bond order equals 8 minus <i>N</i> valence electrons of the neutral atom, enforced with priority that increases with electronegativity.
+</p><p>This algorithm works equally for molecular cations composed of several atoms. An example is the <a href="/wiki/Ammonium" title="Ammonium">ammonium</a> cation of 8 valence electrons (5 from nitrogen, 4 from hydrogens, minus 1 electron for the cation’s positive charge):
+</p>
+<dl><dd><a class="image" href="/wiki/File:5oxstate.svg"><img alt="5oxstate.svg" data-file-height="163" data-file-width="375" height="104" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/5oxstate.svg/240px-5oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/5oxstate.svg/360px-5oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/5oxstate.svg/480px-5oxstate.svg.png 2x" width="240"/></a></dd></dl>
+<p>Drawing Lewis structures with electron pairs as dashes emphasizes the essential equivalence of bond pairs and lone pairs when counting electrons and moving bonds onto atoms. Structures drawn with electron dot pairs are of course identical in every way:
+</p>
+<dl><dd><a class="image" href="/wiki/File:4oxstate.svg"><img alt="4oxstate.svg" data-file-height="75" data-file-width="250" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/4oxstate.svg/200px-4oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/4oxstate.svg/300px-4oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/4oxstate.svg/400px-4oxstate.svg.png 2x" width="200"/></a></dd></dl>
+<h4><span id="The_algorithm.27s_caveat"></span><span class="mw-headline" id="The_algorithm's_caveat">The algorithm's caveat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=6" title="Edit section: The algorithm's caveat">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The algorithm contains a caveat, which concerns rare cases of <a class="mw-redirect" href="/wiki/Transition-metal" title="Transition-metal">transition-metal</a> <a href="/wiki/Coordination_complex" title="Coordination complex">complexes</a> with a type of <a href="/wiki/Ligand" title="Ligand">ligand</a> that is reversibly bonded as a <a class="mw-redirect" href="/wiki/Lewis_acid" title="Lewis acid">Lewis acid</a> (as an acceptor of the electron pair from the transition metal); termed a "Z-type" ligand in Green’s <a href="/wiki/Covalent_bond_classification_method" title="Covalent bond classification method">covalent bond classification method</a>. The caveat originates from the simplifying use of electronegativity instead of the <a href="/wiki/Molecular_orbital" title="Molecular orbital">MO</a>-based electron allegiance to decide the ionic sign.<sup class="reference" id="cite_ref-10.1515/pac-2015-1204_4-2"><a href="#cite_note-10.1515/pac-2015-1204-4">[4]</a></sup> One early example is the O<sub>2</sub>S−RhCl(CO)(<a href="/wiki/Triphenylphosphine" title="Triphenylphosphine">PPh<sub>3</sub></a>)<sub>2</sub> complex<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> with <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">SO<sub>2</sub></a> as the reversibly-bonded acceptor ligand (released upon heating). The Rh−S bond is therefore extrapolated ionic against Allen electronegativities of <a href="/wiki/Rhodium" title="Rhodium">rhodium</a> and sulfur, yielding oxidation state +1 for rhodium:
+</p>
+<dl><dd><a class="image" href="/wiki/File:8oxstate.svg"><img alt="8oxstate.svg" data-file-height="300" data-file-width="875" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/8oxstate.svg/450px-8oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/8oxstate.svg/675px-8oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/8oxstate.svg/900px-8oxstate.svg.png 2x" width="450"/></a></dd></dl>
+<h3><span class="mw-headline" id="Algorithm_of_summing_bond_orders">Algorithm of summing bond orders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=7" title="Edit section: Algorithm of summing bond orders">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This algorithm works on Lewis structures and on bond graphs of extended (non-molecular) solids:
+</p>
+<link href="mw-data:TemplateStyles:r856303468" rel="mw-deduplicated-inline-style"/><blockquote class="templatequote"><p>Oxidation state is obtained by summing the heteronuclear-bond orders at the atom as positive if that atom is the electropositive partner in a particular bond and as negative if not, and the atom’s formal charge (if any) is added to that sum.
+</p></blockquote>
+<h4><span class="mw-headline" id="Applied_to_a_Lewis_structure">Applied to a Lewis structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=8" title="Edit section: Applied to a Lewis structure">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>An example of a Lewis structure with no formal charge,
+</p>
+<dl><dd><a class="image" href="/wiki/File:9oxstate.svg"><img alt="9oxstate.svg" data-file-height="88" data-file-width="481" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/9oxstate.svg/240px-9oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/9oxstate.svg/360px-9oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/9oxstate.svg/480px-9oxstate.svg.png 2x" width="240"/></a></dd></dl>
+<p>illustrates that, in this algorithm, homonuclear bonds are simply ignored (notice the bond orders in blue).
+</p><p>Carbon monoxide exemplifies a Lewis structure with <a class="mw-redirect" href="/wiki/Formal_charges" title="Formal charges">formal charges</a>:
+</p>
+<dl><dd><a class="image" href="/wiki/File:10oxstate.svg"><img alt="10oxstate.svg" data-file-height="125" data-file-width="438" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/10oxstate.svg/240px-10oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/10oxstate.svg/360px-10oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/10oxstate.svg/480px-10oxstate.svg.png 2x" width="240"/></a></dd></dl>
+<p>To obtain the oxidation states, the formal charges are summed with the bond-order value taken positively at the carbon and negatively at the oxygen.
+</p><p>Applied to molecular ions, this algorithm considers the actual location of the formal (ionic) charge, as drawn in the Lewis structure. As an example, summing bond orders in the <a href="/wiki/Ammonium" title="Ammonium">ammonium</a> cation yields −4 at the nitrogen of formal charge +1, with the two numbers adding to the oxidation state of −3:
+</p>
+<dl><dd><a class="image" href="/wiki/File:11oxstate.svg"><img alt="11oxstate.svg" data-file-height="213" data-file-width="438" height="117" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/11oxstate.svg/240px-11oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/11oxstate.svg/360px-11oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/11oxstate.svg/480px-11oxstate.svg.png 2x" width="240"/></a></dd></dl>
+<p>Notice that the sum of oxidation states in the ion equals its charge (as it equals zero for a neutral molecule).
+</p><p>Also in anions, the formal (ionic) charges have to be considered when nonzero. For sulfate this is exemplified with the skeletal or Lewis structures (top), compared with the bond-order formula of all oxygens equivalent and fulfilling the octet and 8 − <i>N</i> rules (bottom):
+</p>
+<dl><dd><a class="image" href="/wiki/File:13oxstate.svg"><img alt="13oxstate.svg" data-file-height="475" data-file-width="875" height="244" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/13oxstate.svg/450px-13oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/13oxstate.svg/675px-13oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/13oxstate.svg/900px-13oxstate.svg.png 2x" width="450"/></a></dd></dl>
+<h4><span class="mw-headline" id="Applied_to_bond_graph">Applied to bond graph</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=9" title="Edit section: Applied to bond graph">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A <a href="/wiki/Bond_graph" title="Bond graph">bond graph</a> in <a href="/wiki/Solid-state_chemistry" title="Solid-state chemistry">solid-state chemistry</a> is a chemical formula of an extended structure, in which direct bonding connectivities are shown. An example is the AuORb<sub>3</sub> <a href="/wiki/Perovskite" title="Perovskite">perovskite</a>, the unit cell of which is drawn on the left and the bond graph (with added numerical values) on the right:
+</p>
+<dl><dd><a class="image" href="/wiki/File:14oxstate.svg"><img alt="14oxstate.svg" data-file-height="238" data-file-width="750" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/14oxstate.svg/360px-14oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/14oxstate.svg/540px-14oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/14oxstate.svg/720px-14oxstate.svg.png 2x" width="360"/></a></dd></dl>
+<p>We see that the oxygen atom bonds to the six nearest <a href="/wiki/Rubidium" title="Rubidium">rubidium</a> cations, each of which has 4 bonds to the <a class="mw-redirect" href="/wiki/Auride" title="Auride">auride</a> anion. The bond graph summarizes these connectivities. The bond orders (also called <a class="mw-redirect" href="/wiki/Bond_valence" title="Bond valence">bond valences</a>) sum up to oxidation states according to the attached sign of the bond’s ionic approximation (there are no formal charges in bond graphs).
+</p><p>Determination of oxidation states from a bond graph can be illustrated on <a href="/wiki/Ilmenite" title="Ilmenite">ilmenite</a>, FeTiO<sub>3</sub>. We may ask whether the mineral contains Fe<sup>2+</sup> and Ti<sup>4+</sup>, or Fe<sup>3+</sup> and Ti<sup>3+</sup>. Its crystal structure has each metal atom bonded to six oxygens and each of the equivalent oxygens to two <a href="/wiki/Iron" title="Iron">irons</a> and two <a href="/wiki/Titanium" title="Titanium">titaniums</a>, as in the bond graph below. Experimental data show that three metal–oxygen bonds in the octahedron are short and three are long (the metals are off-center). The bond orders (valences), obtained from the bond lengths by the <a href="/wiki/Bond_valence_method" title="Bond valence method">bond valence method</a>, sum up to 2.01 at Fe and 3.99 at Ti; which can be rounded off to oxidation states +2 and +4, respectively:
+</p>
+<dl><dd><a class="image" href="/wiki/File:15oxstate.svg"><img alt="15oxstate.svg" data-file-height="200" data-file-width="375" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/15oxstate.svg/200px-15oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/15oxstate.svg/300px-15oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/15oxstate.svg/400px-15oxstate.svg.png 2x" width="200"/></a></dd></dl>
+<h2><span class="mw-headline" id="Nominal_oxidation_states">Nominal oxidation states</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=10" title="Edit section: Nominal oxidation states">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A nominal oxidation state is a general term for two specific purpose-oriented values:
+</p>
+<ul><li><a href="/wiki/Electrochemistry" title="Electrochemistry">Electrochemical</a> oxidation state; it represents a molecule or ion in the <a href="/wiki/Latimer_diagram" title="Latimer diagram">Latimer diagram</a> or <a href="/wiki/Frost_diagram" title="Frost diagram">Frost diagram</a> for its redox-active element. An example is the Latimer diagram for <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> at pH 0 where the electrochemical oxidation state +2 for sulfur puts <a href="/wiki/Thiosulfate" title="Thiosulfate"><span class="chemf nowrap">HS<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></a> between S and <a href="/wiki/Sulfurous_acid" title="Sulfurous acid">H<sub>2</sub>SO<sub>3</sub></a>:</li></ul>
+<dl><dd><dl><dd><a class="image" href="/wiki/File:16oxstate.svg"><img alt="16oxstate.svg" data-file-height="100" data-file-width="975" height="62" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/16oxstate.svg/600px-16oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/16oxstate.svg/900px-16oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/16oxstate.svg/1200px-16oxstate.svg.png 2x" width="600"/></a></dd></dl></dd></dl>
+<ul><li>Systematic oxidation state; it is chosen from close alternatives for pedagogical reasons of descriptive chemistry. An example is the oxidation state of phosphorus in <a href="/wiki/Phosphorous_acid" title="Phosphorous acid">H<sub>3</sub>PO<sub>3</sub></a> (which is in fact the <a class="mw-redirect" href="/wiki/Diprotic" title="Diprotic">diprotic</a> HPO(OH)<sub>2</sub>) taken nominally as +3, while <a href="/wiki/Electronegativity#Allen_electronegativity" title="Electronegativity">Allen electronegativities</a> of <a href="/wiki/Phosphorus" title="Phosphorus">phosphorus</a> and <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> suggest +5 by a narrow margin that makes the two alternatives almost equivalent:</li></ul>
+<dl><dd><a class="image" href="/wiki/File:17oxstate.svg"><img alt="17oxstate.svg" data-file-height="225" data-file-width="775" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/17oxstate.svg/450px-17oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/17oxstate.svg/675px-17oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/17oxstate.svg/900px-17oxstate.svg.png 2x" width="450"/></a></dd></dl>
+<p>Both alternative oxidation states of phosphorus make chemical sense, depending on the chemical property or reaction we wish to emphasize. In contrast, their average (+4) does not.
+</p>
+<h2><span class="mw-headline" id="Balancing_redox">Balancing redox</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=11" title="Edit section: Balancing redox">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Oxidation states can be useful for balancing chemical equations for oxidation–reduction (or <a href="/wiki/Redox" title="Redox">redox</a>) reactions, because the changes in the oxidized atoms have to be balanced by the changes in the reduced atoms. For example, in the reaction of <a href="/wiki/Acetaldehyde" title="Acetaldehyde">acetaldehyde</a> with <a href="/wiki/Tollens%27_reagent" title="Tollens' reagent">Tollens' reagent</a> to form <a href="/wiki/Acetic_acid" title="Acetic acid">acetic acid</a> (shown below), the <a class="mw-redirect" href="/wiki/Carbonyl" title="Carbonyl">carbonyl</a> carbon atom changes its oxidation state from +1 to +3 (loses two electrons). This oxidation is balanced by reducing two Ag<sup>+</sup> cations to Ag<sup>0</sup> (gaining two electrons in total).
+</p>
+<dl><dd><a class="image" href="/wiki/File:Redox_eqn_1.svg"><img alt="Redox eqn 1.svg" data-file-height="64" data-file-width="512" height="75" src="//upload.wikimedia.org/wikipedia/en/thumb/6/65/Redox_eqn_1.svg/600px-Redox_eqn_1.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/65/Redox_eqn_1.svg/900px-Redox_eqn_1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/65/Redox_eqn_1.svg/1200px-Redox_eqn_1.svg.png 2x" width="600"/></a></dd></dl>
+<p>An inorganic example is the Bettendorf reaction using <a class="mw-redirect" href="/wiki/Tin_dichloride" title="Tin dichloride">SnCl<sub>2</sub></a> to prove the presence of <a href="/wiki/Arsenite" title="Arsenite">arsenite</a> ions in a concentrated <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">HCl</a> extract. When arsenic(III) is present, a brown coloration appears forming a dark precipitate of <a href="/wiki/Arsenic" title="Arsenic">arsenic</a>, according to the following simplified reaction:
+</p>
+<dl><dd>2 As<sup>3+</sup> + 3 Sn<sup>2+</sup> → 2 As<sup>0</sup> + 3 Sn<sup>4+</sup></dd></dl>
+<p>Here three <a href="/wiki/Tin" title="Tin">tin</a> atoms are oxidized from oxidation state +2 to +4, yielding six electrons that reduce two arsenic atoms from oxidation state +3 to 0. The simple one-line balancing goes as follows: the two redox couples are written down as they react;
+</p>
+<dl><dd>As<sup>3+</sup> + Sn<sup>2+</sup> ⇌ As<sup>0</sup> + Sn<sup>4+</sup>.</dd></dl>
+<p>One tin is oxidized from oxidation state +2 to +4, a two-electron step, hence 2 is written in front of the two arsenic partners. One arsenic is reduced from +3 to 0, a three-electron step, hence 3 goes in front of the two tin partners. An alternative three-line procedure is to write separately the <a href="/wiki/Half-reaction" title="Half-reaction">half-reactions</a> for oxidation and for reduction, each balanced with electrons, and then to sum them up such that the electrons cross out. In general, these redox balances (the one-line balance or each half-reaction) need to be checked for the ionic and electron charge sums on both sides of the equation being indeed equal. If they are not equal, suitable ions are added to balance the charges and the non-redox elemental balance.
+</p>
+<h2><span class="mw-headline" id="Ambiguous_oxidation_states">Ambiguous oxidation states</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=12" title="Edit section: Ambiguous oxidation states">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Lewis_formula" title="Lewis formula">Lewis formulae</a> are fine rule-based approximations of chemical reality, as indeed are <a href="/wiki/Electronegativity#Allen_electronegativity" title="Electronegativity">Allen electronegativities</a>. Still, oxidation states may seem ambiguous when their determination is not straightforward. Rule-based oxidation states feel ambiguous when only experiment can decide. There are also truly dichotomous values to be decided by mere convenience.
+</p>
+<h3><span class="mw-headline" id="Oxidation-state_determination_from_resonance_formulas_is_not_straightforward">Oxidation-state determination from resonance formulas is not straightforward</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=13" title="Edit section: Oxidation-state determination from resonance formulas is not straightforward">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Seemingly ambiguous oxidation states are obtained on a set of resonance formulas of equal weights for a molecule of heteronuclear bonds where the atom connectivity does not correspond to the number of two-electron bonds dictated by the 8 − <i>N</i> rule. An example is <a href="/wiki/Disulfur_dinitride" title="Disulfur dinitride">S<sub>2</sub>N<sub>2</sub></a> where four resonance formulas featuring one S=N double bond have oxidation states +2 and +4 on the two sulfur atoms, to be averaged to +3 because the two sulfur atoms are equivalent in this square-shaped molecule.
+</p>
+<h3><span class="mw-headline" id="A_physical_measurement_is_needed_to_decide_the_oxidation_state">A physical measurement is needed to decide the oxidation state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=14" title="Edit section: A physical measurement is needed to decide the oxidation state">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>This happens when a <a href="/wiki/Non-innocent_ligand" title="Non-innocent ligand">non-innocent ligand</a> is present, of hidden or unexpected redox properties that could otherwise be assigned to the central atom. An example is the <a href="/wiki/Nickel" title="Nickel">nickel</a> <a class="new" href="/w/index.php?title=Dithiolate&amp;action=edit&amp;redlink=1" title="Dithiolate (page does not exist)">dithiolate</a> complex, <span class="chemf nowrap">Ni(S<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>)<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>.<sup class="reference" id="cite_ref-10.1515/pac-2013-0505_5-2"><a href="#cite_note-10.1515/pac-2013-0505-5">[5]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>1056–1057</span></sup></li>
+<li>When the redox ambiguity of a central atom and ligand yields dichotomous oxidation states of close stability, thermally induced tautomerism may result, as exemplified by <a href="/wiki/Manganese" title="Manganese">manganese</a> <a class="mw-redirect" href="/wiki/Catecholate" title="Catecholate">catecholate</a>, Mn(C<sub>6</sub>H<sub>4</sub>O<sub>2</sub>)<sub>3</sub>.<sup class="reference" id="cite_ref-10.1515/pac-2013-0505_5-3"><a href="#cite_note-10.1515/pac-2013-0505-5">[5]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>1057–1058</span></sup> Assignment of such oxidation states in general requires spectroscopic,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> magnetic or structural data.</li>
+<li>When the bond order has to be ascertained along an isolated tandem of a heteronuclear and a homonuclear bond. An example is <a href="/wiki/Thiosulfate" title="Thiosulfate"><span class="chemf nowrap">S<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></a> with two oxidation-state alternatives (note bond orders in blue and formal charges in green):</li></ul>
+<dl><dd><dl><dd><a class="image" href="/wiki/File:21oxstate.svg"><img alt="21oxstate.svg" data-file-height="225" data-file-width="875" height="129" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/21oxstate.svg/500px-21oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/21oxstate.svg/750px-21oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/21oxstate.svg/1000px-21oxstate.svg.png 2x" width="500"/></a></dd></dl></dd></dl>
+<dl><dd>The S–S distance in <a href="/wiki/Thiosulfate" title="Thiosulfate">thiosulfate</a> is needed to reveal that this bond order is very close to 1, as in the formula on the left.</dd></dl>
+<h3><span class="mw-headline" id="Truly_ambiguous_oxidation_states_occur">Truly ambiguous oxidation states occur</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=15" title="Edit section: Truly ambiguous oxidation states occur">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>When the electronegativity difference between two bonded atoms is very small (as in <a href="/wiki/Phosphorous_acid" title="Phosphorous acid">H<sub>3</sub>PO<sub>3</sub></a> above). Two almost equivalent pairs of oxidation states, open for a choice, are obtained for these atoms.</li>
+<li>When an electronegative <a class="mw-redirect" href="/wiki/P-block" title="P-block">p-block</a> atom forms solely homonuclear bonds, the number of which differs from the number of two-electron bonds suggested by rules. Examples are homonuclear finite chains like <a href="/wiki/Azide" title="Azide"><span class="chemf nowrap">N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></a> (the central nitrogen connects two atoms while three two-electron bonds are required by 8 − <i>N</i> rule) or <a href="/wiki/Triiodide" title="Triiodide"><span class="chemf nowrap">I<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></a> (the central iodine connects two atoms while one two-electron bond fulfills the 8 − <i>N</i> rule). A sensible approach is to distribute the ionic charge over the two outer atoms.<sup class="reference" id="cite_ref-10.1515/pac-2013-0505_5-4"><a href="#cite_note-10.1515/pac-2013-0505-5">[5]</a></sup> Such a placement of charges in a <a href="/wiki/Polysulfide" title="Polysulfide">polysulfide</a> <span class="chemf nowrap">S<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>n</i></sub></span></span> (where all inner sulfurs form two bonds, fulfilling the 8 − <i>N</i> rule) follows already from its Lewis structure.<sup class="reference" id="cite_ref-10.1515/pac-2013-0505_5-5"><a href="#cite_note-10.1515/pac-2013-0505-5">[5]</a></sup></li>
+<li>When the isolated tandem of a heteronuclear and a homonuclear bond leads to a bonding compromise in between two Lewis structures of limiting bond orders. An example here is <a href="/wiki/Nitrous_oxide" title="Nitrous oxide">N<sub>2</sub>O</a>:</li></ul>
+<dl><dd><dl><dd><a class="image" href="/wiki/File:18oxstate.svg"><img alt="18oxstate.svg" data-file-height="113" data-file-width="750" height="63" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/18oxstate.svg/420px-18oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/18oxstate.svg/630px-18oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/18oxstate.svg/840px-18oxstate.svg.png 2x" width="420"/></a></dd></dl></dd></dl>
+<dl><dd>The typically-used oxidation state of nitrogen in N<sub>2</sub>O is +1, which also obtains for both nitrogens by a molecular orbital approach.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> It is worth noting that the formal charges on the right comply with electronegativities, and this implies an added ionic bonding contribution. Indeed, the estimated N−N and N−O bond orders are 2.76 and 1.9, respectively,<sup class="reference" id="cite_ref-10.1515/pac-2013-0505_5-6"><a href="#cite_note-10.1515/pac-2013-0505-5">[5]</a></sup> approaching the formula of integer bond orders that would include the ionic contribution explicitly as a bond (in green):</dd></dl>
+<dl><dd><dl><dd><a class="image" href="/wiki/File:19oxstate.svg"><img alt="19oxstate.svg" data-file-height="88" data-file-width="500" height="49" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/19oxstate.svg/280px-19oxstate.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/19oxstate.svg/420px-19oxstate.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/19oxstate.svg/560px-19oxstate.svg.png 2x" width="280"/></a></dd></dl></dd></dl>
+<dl><dd>Conversely, formal charges against electronegativities in a Lewis structure decrease the bond order of the corresponding bond. An example is <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> with a bond-order estimate of 2.6.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></dd></dl>
+<h2><span class="mw-headline" id="Elements_with_multiple_oxidation_states">Elements with multiple oxidation states</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=16" title="Edit section: Elements with multiple oxidation states">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/List_of_oxidation_states_of_the_elements" title="List of oxidation states of the elements">List of oxidation states of the elements</a></div>
+<p>Most elements have more than one possible oxidation state. For example, carbon has nine possible integer oxidation states from −4 to +4:
+</p>
+<dl><dd><table class="wikitable">
+<caption>Integer oxidation states of carbon
+</caption>
+<tbody><tr>
+<th>Oxidation state</th>
+<th>Example compound
+</th></tr>
+<tr>
+<td>−4</td>
+<td><a href="/wiki/Methane" title="Methane"><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a>
+</td></tr>
+<tr>
+<td>−3</td>
+<td><a href="/wiki/Ethane" title="Ethane"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a>
+</td></tr>
+<tr>
+<td>−2</td>
+<td><a href="/wiki/Ethylene" title="Ethylene"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a>, <a href="/wiki/Chloromethane" title="Chloromethane"><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>Cl</span></a>
+</td></tr>
+<tr>
+<td>−1</td>
+<td><a href="/wiki/Acetylene" title="Acetylene"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a>, <a href="/wiki/Benzene" title="Benzene"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a>, <a href="/wiki/Ethylene_glycol" title="Ethylene glycol"><span class="chemf nowrap">(CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>OH)<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a>
+</td></tr>
+<tr>
+<td>0</td>
+<td><a href="/wiki/Formaldehyde" title="Formaldehyde"><span class="chemf nowrap">HCHO</span></a>, <a href="/wiki/Dichloromethane" title="Dichloromethane"><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a>
+</td></tr>
+<tr>
+<td>+1</td>
+<td><a href="/wiki/Glyoxal" title="Glyoxal"><span class="chemf nowrap">OCHCHO</span></a>, <a href="/wiki/1,1,2,2-Tetrachloroethane" title="1,1,2,2-Tetrachloroethane"><span class="chemf nowrap">CHCl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>CHCl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a>
+</td></tr>
+<tr>
+<td>+2</td>
+<td><a href="/wiki/Formic_acid" title="Formic acid"><span class="chemf nowrap">HCOOH</span></a>, <a href="/wiki/Chloroform" title="Chloroform"><span class="chemf nowrap">CHCl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></a>
+</td></tr>
+<tr>
+<td>+3</td>
+<td><a href="/wiki/Oxalic_acid" title="Oxalic acid"><span class="chemf nowrap">HOOCCOOH</span></a>, <a href="/wiki/Hexachloroethane" title="Hexachloroethane"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span></a>
+</td></tr>
+<tr>
+<td>+4</td>
+<td><a href="/wiki/Carbon_tetrachloride" title="Carbon tetrachloride"><span class="chemf nowrap">CCl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a>, <a href="/wiki/Carbon_dioxide" title="Carbon dioxide"><span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a>
+</td></tr></tbody></table></dd></dl>
+<h2><span class="mw-headline" id="Fractional_oxidation_states">Fractional oxidation states</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=17" title="Edit section: Fractional oxidation states">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fractional oxidation states are often used to represent the average oxidation state of several atoms of the same element in a structure. For example, the formula of <a href="/wiki/Magnetite" title="Magnetite">magnetite</a> is <span class="chemf nowrap">Fe<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>, implying an average oxidation state for iron of +<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">8</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span>.<sup class="reference" id="cite_ref-Petrucci_12-0"><a href="#cite_note-Petrucci-12">[12]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>81–82</span></sup> However, this average value may not be representative if the atoms are not equivalent. In a <span class="chemf nowrap">Fe<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> crystal below 120 K (−153 °C), two-thirds of the cations are <span class="chemf nowrap">Fe<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> and one-third are <span class="chemf nowrap">Fe<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, and the formula may be more specifically represented as FeO·<span class="chemf nowrap">Fe<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>Likewise, <a href="/wiki/Propane" title="Propane">propane</a>, <span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">8</sub></span></span>, has been described as having a carbon oxidation state of −<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">8</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> Again, this is an average value since the structure of the molecule is <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>C−CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>−CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>, with the first and third carbon atoms each having an oxidation state of −3 and the central one −2.
+</p><p>An example with true fractional oxidation states for equivalent atoms is potassium <a href="/wiki/Superoxide" title="Superoxide">superoxide</a>, <span class="chemf nowrap">KO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>. The diatomic superoxide ion <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> has an overall charge of −1, so each of its two equivalent oxygen atoms is assigned an oxidation state of −<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span>. This ion can be described as a <a href="/wiki/Resonance_(chemistry)" title="Resonance (chemistry)">resonance</a> hybrid of two Lewis structures, where each oxygen has oxidation state 0 in one structure and −1 in the other.
+</p><p>For the <a class="mw-redirect" href="/wiki/Cyclopentadienyl_anion" title="Cyclopentadienyl anion">cyclopentadienyl anion</a> <span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span></span>, the oxidation state of C is −1 + −<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span> = −<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">6</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span>. The −1 occurs because each carbon is bonded to one hydrogen atom (a less electronegative element), and the −<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span> because the total ionic charge of −1 is divided among five equivalent carbons. Again this can be described as a resonance hybrid of five equivalent structures, each having four carbons with oxidation state −1 and one with −2.
+</p>
+<dl><dd><table class="wikitable">
+<caption>Examples of fractional oxidation states for carbon
+</caption>
+<tbody><tr>
+<th>Oxidation state</th>
+<th>Example species
+</th></tr>
+<tr>
+<td>−<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">6</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span></td>
+<td><a class="mw-redirect" href="/wiki/Cyclopentadienyl_anion" title="Cyclopentadienyl anion"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span></span></a>
+</td></tr>
+<tr>
+<td>−<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">6</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">7</span></span></td>
+<td><a class="mw-redirect" href="/wiki/Tropylium" title="Tropylium"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span></a>
+</td></tr>
+<tr>
+<td>+<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">3</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span></td>
+<td><a class="mw-redirect" href="/wiki/Squarate_ion" title="Squarate ion"><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a>
+</td></tr></tbody></table></dd></dl>
+<h2><span class="mw-headline" id="Use_in_nomenclature">Use in nomenclature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=18" title="Edit section: Use in nomenclature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The oxidation state in compound naming is placed either as a right superscript to the element symbol in a chemical formula, such as Fe<sup>III</sup>, or in parentheses after the name of the element in chemical names, such as iron(III). For example, <span class="chemf nowrap">Fe<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>(SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>)<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> is named <a href="/wiki/Iron(III)_sulfate" title="Iron(III) sulfate">iron(III) sulfate</a> and its formula can be shown as Fe<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">III</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span><span class="chemf nowrap">(SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>)<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>. This is because a <a class="mw-redirect" href="/wiki/Sulfate_ion" title="Sulfate ion">sulfate ion</a> has a charge of −2, so each iron atom takes a charge of +3. Note that fractional oxidation numbers should not be used in naming.<sup class="reference" id="cite_ref-RedBook2005_15-0"><a href="#cite_note-RedBook2005-15">[15]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>66</span></sup> <a href="/wiki/Minium" title="Minium">Minium</a>, <span class="chemf nowrap">Pb<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>, is represented as lead(II,IV) oxide, showing the actual two oxidation states of the nonequivalent <a class="mw-redirect" href="/wiki/Lead_(metal)" title="Lead (metal)">lead</a> atoms.
+</p>
+<h2><span class="mw-headline" id="Oxidation_state_in_metals">Oxidation state in metals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=19" title="Edit section: Oxidation state in metals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many compounds with <a href="/wiki/Lustre_(mineralogy)" title="Lustre (mineralogy)">luster</a> and <a class="mw-redirect" href="/wiki/Electrical_conductivity" title="Electrical conductivity">electrical conductivity</a> maintain a simple <a class="mw-redirect" href="/wiki/Stoichiometric" title="Stoichiometric">stoichiometric</a> formula; such as the golden <a class="mw-redirect" href="/wiki/Titanium_monoxide" title="Titanium monoxide">TiO</a>, blue-black <a class="mw-redirect" href="/wiki/Ruthenium_dioxide" title="Ruthenium dioxide">RuO<sub>2</sub></a> or coppery <a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">ReO<sub>3</sub></a>, all of obvious oxidation state. Ultimately, however, the assignment of the free metallic electrons to one of the bonded atoms has its limits and leads to unusual oxidation states. Simple examples are the LiPb and Cu<sub>3</sub>Au ordered <a href="/wiki/Alloy" title="Alloy">alloys</a>, the composition and structure of which are largely determined by <a href="/wiki/Atomic_radius" title="Atomic radius">atomic size</a> and <a href="/wiki/Atomic_packing_factor" title="Atomic packing factor">packing factors</a>. Should oxidation state be needed for redox balancing, it is best set to 0 for all atoms of such an alloy.
+</p>
+<h2><span class="mw-headline" id="History_of_the_oxidation_state_concept">History of the oxidation state concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=20" title="Edit section: History of the oxidation state concept">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_days">Early days</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=21" title="Edit section: Early days">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Oxidation itself was first studied by <a href="/wiki/Antoine_Lavoisier" title="Antoine Lavoisier">Antoine Lavoisier</a>, who defined it as the result of reactions with <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> (hence the name).<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> The term has since been generalized to imply a <i>formal</i> loss of electrons. Oxidation states, called <i>oxidation grades</i> by <a href="/wiki/Friedrich_W%C3%B6hler" title="Friedrich Wöhler">Friedrich Wöhler</a> in 1835,<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> were one of the intellectual stepping stones that <a href="/wiki/Dmitri_Mendeleev" title="Dmitri Mendeleev">Dmitri Mendeleev</a> used to derive the <a href="/wiki/Periodic_table" title="Periodic table">periodic table</a>. Jensen<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> gives an overview of the history up to 1938.
+</p>
+<h3><span class="mw-headline" id="Use_in_nomenclature_2">Use in nomenclature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=22" title="Edit section: Use in nomenclature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When it was realized that some metals form two different binary compounds with the same nonmetal, the two compounds were often distinguished by using the ending <i>-ic</i> for the higher metal oxidation state and the ending <i>-ous</i> for the lower. For example, FeCl<sub>3</sub> is <a class="mw-redirect" href="/wiki/Ferric_chloride" title="Ferric chloride">ferric chloride</a> and FeCl<sub>2</sub> is <a class="mw-redirect" href="/wiki/Ferrous_chloride" title="Ferrous chloride">ferrous chloride</a>. This system is not very satisfactory (although sometimes still used) because different metals have different oxidation states which have to be learned: ferric and ferrous are +3 and +2 respectively, but cupric and cuprous are +2 and +1, and stannic and stannous are +4 and +2. Also there was no allowance for metals with more than two oxidation states, such as <a href="/wiki/Vanadium" title="Vanadium">vanadium</a> with oxidation states +2, +3, +4 and +5.<sup class="reference" id="cite_ref-Petrucci_12-1"><a href="#cite_note-Petrucci-12">[12]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>84</span></sup>
+</p><p>This system has been largely replaced by one suggested by <a href="/wiki/Alfred_Stock" title="Alfred Stock">Alfred Stock</a> in 1919<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> and adopted<sup class="reference" id="cite_ref-1940IUPACinorgnom_21-0"><a href="#cite_note-1940IUPACinorgnom-21">[21]</a></sup> by <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> in 1940. Thus, FeCl<sub>2</sub> was written as <a href="/wiki/Iron(II)_chloride" title="Iron(II) chloride">iron(II) chloride</a> rather than ferrous chloride. The roman numeral II at the central atom came to be called the "<a href="/wiki/Stock_nomenclature" title="Stock nomenclature">Stock number</a>" (now an obsolete term), and its value was obtained as a charge at the central atom after removing its ligands along with the <a href="/wiki/Electron_pair" title="Electron pair">electron pairs</a> they shared with it.<sup class="reference" id="cite_ref-RedBook2005_15-1"><a href="#cite_note-RedBook2005-15">[15]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>147</span></sup>
+</p>
+<h3><span class="mw-headline" id="Development_towards_the_current_concept">Development towards the current concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=23" title="Edit section: Development towards the current concept">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The term "oxidation state" in English chemical literature was popularized by <a href="/wiki/Wendell_Mitchell_Latimer" title="Wendell Mitchell Latimer">Wendell Mitchell Latimer</a> in his 1938 book about electrochemical potentials.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> He used it for the value (synonymous with the German term <i>Wertigkeit</i>) previously termed "valence", "polar valence" or "polar number"<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> in English, or "oxidation stage" or indeed<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup><sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> the "state of oxidation". Since 1938, the term "oxidation state" has been connected with <a href="/wiki/Electrochemical_potential" title="Electrochemical potential">electrochemical potentials</a> and electrons exchanged in <a class="mw-redirect" href="/wiki/Redox_couple" title="Redox couple">redox couples</a> participating in redox reactions. By 1948, IUPAC used the 1940 nomenclature rules with the term "oxidation state",<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> instead of the original<sup class="reference" id="cite_ref-1940IUPACinorgnom_21-1"><a href="#cite_note-1940IUPACinorgnom-21">[21]</a></sup> <i>valency</i>. In 1948 <a href="/wiki/Linus_Pauling" title="Linus Pauling">Linus Pauling</a> proposed that oxidation number could be determined by extrapolating bonds to being completely ionic in the direction of <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a>.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> A full acceptance of this suggestion was complicated by the fact that the <a href="/wiki/Electronegativity#Pauling_electronegativity" title="Electronegativity">Pauling electronegativities</a> as such depend on the oxidation state and that they may lead to unusual values of oxidation states for some transition metals. In 1990 IUPAC resorted to a postulatory (rule-based) method to determine the oxidation state.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> This was complemented by the synonymous term oxidation number as a descendant of the Stock number introduced in 1940 into the nomenclature. However, the terminology using "ligands"<sup class="reference" id="cite_ref-RedBook2005_15-2"><a href="#cite_note-RedBook2005-15">[15]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>147</span></sup> gave the impression that oxidation number might be something specific to <a href="/wiki/Coordination_complex" title="Coordination complex">coordination complexes</a>. This situation and the lack of a real single definition generated numerous debates about the meaning of oxidation state, suggestions about methods to obtain it and definitions of it. To resolve the issue, an IUPAC project (2008-040-1-200) was started in 2008 on the "Comprehensive Definition of Oxidation State", and was concluded by two reports<sup class="reference" id="cite_ref-10.1515/pac-2013-0505_5-7"><a href="#cite_note-10.1515/pac-2013-0505-5">[5]</a></sup><sup class="reference" id="cite_ref-10.1515/pac-2015-1204_4-3"><a href="#cite_note-10.1515/pac-2015-1204-4">[4]</a></sup> and by the revised entries "Oxidation State"<sup class="reference" id="cite_ref-goldbookoxstate_6-2"><a href="#cite_note-goldbookoxstate-6">[6]</a></sup> and "Oxidation Number"<sup class="reference" id="cite_ref-goldbookoxnumber_7-1"><a href="#cite_note-goldbookoxnumber-7">[7]</a></sup> in the <a class="mw-redirect" href="/wiki/IUPAC_Gold_Book" title="IUPAC Gold Book">IUPAC Gold Book</a>. The outcomes were a single definition of oxidation state and two algorithms to calculate it in molecular and extended-solid compounds, guided by <a href="/wiki/Electronegativity#Allen_electronegativity" title="Electronegativity">Allen electronegativities</a> that are independent of oxidation state.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=24" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_oxidation_states_of_the_elements" title="List of oxidation states of the elements">List of oxidation states of the elements</a></li>
+<li><a href="/wiki/Electrochemistry" title="Electrochemistry">Electrochemistry</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxidation_state&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<div aria-labelledby="Oxides" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Hafnium(IV)_oxide" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Tin_dioxide" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a class="mw-selflink selflink">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20181026160759
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.796 seconds
+Real time usage: 0.923 seconds
+Preprocessor visited node count: 11354/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 369728/2097152 bytes
+Template argument size: 25205/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 78716/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.320/10.000 seconds
+Lua memory usage: 7.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  681.317      1 -total
+ 44.04%  300.055      1 Template:Reflist
+ 30.88%  210.375     19 Template:Cite_journal
+ 25.54%  173.990     44 Template:Chem
+ 24.43%  166.468     44 Template:Chem/link
+ 20.49%  139.635    156 Template:Chem/atom
+ 11.31%   77.047     71 Template:Su
+  7.75%   52.768      1 Template:Clarify
+  7.35%   50.054      1 Template:Fix-span
+  5.15%   35.101      1 Template:Cvt
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38452-0!canonical and timestamp 20181026160759 and revision id 862630940
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Oxidation_state&amp;oldid=862630940">https://en.wikipedia.org/w/index.php?title=Oxidation_state&amp;oldid=862630940</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_properties" title="Category:Chemical properties">Chemical properties</a></li><li><a href="/wiki/Category:Chemical_nomenclature" title="Category:Chemical nomenclature">Chemical nomenclature</a></li><li><a href="/wiki/Category:Coordination_chemistry" title="Category:Coordination chemistry">Coordination chemistry</a></li><li><a href="/wiki/Category:Dimensionless_numbers_of_chemistry" title="Category:Dimensionless numbers of chemistry">Dimensionless numbers of chemistry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_missing_ISBNs" title="Category:Pages with missing ISBNs">Pages with missing ISBNs</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2018" title="Category:Wikipedia articles needing clarification from April 2018">Wikipedia articles needing clarification from April 2018</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Oxidation+state" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Oxidation+state" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Oxidation_state" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Oxidation_state" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Oxidation_state">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Oxidation_state&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Oxidation_state&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Oxidation_state" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Oxidation_state" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Oxidation_state&amp;oldid=862630940" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Oxidation_state&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q484152" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Oxidation_state&amp;id=862630940" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Oxidation+state">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Oxidation+state&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Oxidation_state&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Oxides" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Oksidasietoestand" hreflang="af" lang="af" title="Oksidasietoestand – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D9%83%D8%B3%D8%AF%D8%A9" hreflang="ar" lang="ar" title="حالة الأكسدة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Numero_d%27oxidaci%C3%B3n" hreflang="an" lang="an" title="Numero d'oxidación – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Est%C3%A1u_d%27oxidaci%C3%B3n" hreflang="ast" lang="ast" title="Estáu d'oxidación – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%A3_%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE" hreflang="bn" lang="bn" title="জারণ অবস্থা – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D1%8C_%D0%B0%D0%BA%D1%96%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="be" lang="be" title="Ступень акіслення – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D1%8C_%D0%B7%D0%B0%D1%82%D0%BB%D1%8F%D0%BD%D0%B5%D0%BD%D1%8C%D0%BD%D1%8F" hreflang="be-tarask" lang="be-tarask" title="Ступень затляненьня – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%B5%D0%BD_%D0%BD%D0%B0_%D0%BE%D0%BA%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="bg" lang="bg" title="Степен на окисление – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Oksidacijsko_stanje" hreflang="bs" lang="bs" title="Oksidacijsko stanje – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Estat_d%27oxidaci%C3%B3" hreflang="ca" lang="ca" title="Estat d'oxidació – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Oxida%C4%8Dn%C3%AD_%C4%8D%C3%ADslo" hreflang="cs" lang="cs" title="Oxidační číslo – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Cyflwr_ocsidiad" hreflang="cy" lang="cy" title="Cyflwr ocsidiad – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Oxidationstrin" hreflang="da" lang="da" title="Oxidationstrin – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Oxidationszahl" hreflang="de" lang="de" title="Oxidationszahl – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Oks%C3%BCdatsiooniaste" hreflang="et" lang="et" title="Oksüdatsiooniaste – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CE%B8%CE%BC%CF%8C%CF%82_%CE%BF%CE%BE%CE%B5%CE%AF%CE%B4%CF%89%CF%83%CE%B7%CF%82" hreflang="el" lang="el" title="Αριθμός οξείδωσης – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Estado_de_oxidaci%C3%B3n" hreflang="es" lang="es" title="Estado de oxidación – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Oksidi%C4%9Da_nombro" hreflang="eo" lang="eo" title="Oksidiĝa nombro – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Oxidazio-egoera" hreflang="eu" lang="eu" title="Oxidazio-egoera – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B9%D8%AF%D8%AF_%D8%A7%DA%A9%D8%B3%D8%A7%DB%8C%D8%B4" hreflang="fa" lang="fa" title="عدد اکسایش – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Nombre_d%27oxydation" hreflang="fr" lang="fr" title="Nombre d'oxydation – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Oksidaasjetast%C3%A2n" hreflang="fy" lang="fy" title="Oksidaasjetastân – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Estado_de_oxidaci%C3%B3n" hreflang="gl" lang="gl" title="Estado de oxidación – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%82%B0%ED%99%94%EC%88%98" hreflang="ko" lang="ko" title="산화수 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%95%D6%84%D5%BD%D5%AB%D5%A4%D5%A1%D6%81%D5%B4%D5%A1%D5%B6_%D5%A1%D5%BD%D5%BF%D5%AB%D5%B3%D5%A1%D5%B6" hreflang="hy" lang="hy" title="Օքսիդացման աստիճան – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%91%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3_%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE" hreflang="hi" lang="hi" title="ऑक्सीकरण संख्या – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Oksidacijski_broj" hreflang="hr" lang="hr" title="Oksidacijski broj – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Bilangan_oksidasi" hreflang="id" lang="id" title="Bilangan oksidasi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-xh"><a class="interlanguage-link-target" href="https://xh.wikipedia.org/wiki/I-oxidation_state" hreflang="xh" lang="xh" title="I-oxidation state – Xhosa">IsiXhosa</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Oxunartala" hreflang="is" lang="is" title="Oxunartala – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Stato_di_ossidazione" hreflang="it" lang="it" title="Stato di ossidazione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%A4%D7%A8_%D7%97%D7%9E%D7%A6%D7%95%D7%9F" hreflang="he" lang="he" title="מספר חמצון – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9F%E1%83%90%E1%83%9C%E1%83%92%E1%83%95%E1%83%98%E1%83%A1_%E1%83%A0%E1%83%98%E1%83%AA%E1%83%AE%E1%83%95%E1%83%98" hreflang="ka" lang="ka" title="ჟანგვის რიცხვი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D1%8B%D2%93%D1%83_%D0%B4%D3%99%D1%80%D0%B5%D0%B6%D0%B5%D1%81%D1%96" hreflang="kk" lang="kk" title="Тотығу дәрежесі – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Degre_oksidasyon" hreflang="ht" lang="ht" title="Degre oksidasyon – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Oksid%C4%93%C5%A1anas_pak%C4%81pe" hreflang="lv" lang="lv" title="Oksidēšanas pakāpe – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Oksidacijos_laipsnis" hreflang="lt" lang="lt" title="Oksidacijos laipsnis – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-jbo"><a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/kijytcini" hreflang="jbo" lang="jbo" title="kijytcini – Lojban">La .lojban.</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Oxid%C3%A1ci%C3%B3s_sz%C3%A1m" hreflang="hu" lang="hu" title="Oxidációs szám – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD_%D0%B1%D1%80%D0%BE%D1%98" hreflang="mk" lang="mk" title="Оксидационен број – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Keadaan_pengoksidaan" hreflang="ms" lang="ms" title="Keadaan pengoksidaan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Oxidatietoestand" hreflang="nl" lang="nl" title="Oxidatietoestand – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%85%B8%E5%8C%96%E6%95%B0" hreflang="ja" lang="ja" title="酸化数 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Oksidasjonstall" hreflang="no" lang="no" title="Oksidasjonstall – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Oksidasjonstal" hreflang="nn" lang="nn" title="Oksidasjonstal – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Oksidlanish_darajasi" hreflang="uz" lang="uz" title="Oksidlanish darajasi – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%86%E0%A8%95%E0%A8%B8%E0%A9%80%E0%A8%95%E0%A8%B0%E0%A8%A8_%E0%A8%B8%E0%A9%B0%E0%A8%96%E0%A8%BF%E0%A8%86" hreflang="pa" lang="pa" title="ਆਕਸੀਕਰਨ ਸੰਖਿਆ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Oxidatschoonstall" hreflang="nds" lang="nds" title="Oxidatschoonstall – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Stopie%C5%84_utlenienia" hreflang="pl" lang="pl" title="Stopień utlenienia – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Estado_de_oxida%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Estado de oxidação – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Num%C4%83r_de_oxidare" hreflang="ro" lang="ro" title="Număr de oxidare – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D1%8C_%D0%BE%D0%BA%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Степень окисления – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Oxidation_state" hreflang="sco" lang="sco" title="Oxidation state – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Oxidation_state" hreflang="en-simple" lang="en-simple" title="Oxidation state – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Oxida%C4%8Dn%C3%A9_%C4%8D%C3%ADslo" hreflang="sk" lang="sk" title="Oxidačné číslo – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Oksidacijsko_stanje" hreflang="sl" lang="sl" title="Oksidacijsko stanje – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%98%D9%85%D8%A7%D8%B1%DB%95%DB%8C_%D8%A6%DB%86%DA%A9%D8%B3%D8%A7%D9%86" hreflang="ckb" lang="ckb" title="ژمارەی ئۆکسان – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BE_%D1%81%D1%82%D0%B0%D1%9A%D0%B5" hreflang="sr" lang="sr" title="Оксидационо стање – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Oksidacioni_broj" hreflang="sh" lang="sh" title="Oksidacioni broj – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Hapetusluku" hreflang="fi" lang="fi" title="Hapetusluku – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Oxidationstal" hreflang="sv" lang="sv" title="Oxidationstal – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%9A%E0%AE%A9%E0%AF%87%E0%AE%B1%E0%AF%8D%E0%AE%B1_%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88" hreflang="ta" lang="ta" title="ஆக்சிசனேற்ற நிலை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B8%99" hreflang="th" lang="th" title="สถานะออกซิเดชัน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Y%C3%BCkseltgenme_seviyesi" hreflang="tr" lang="tr" title="Yükseltgenme seviyesi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%BF%D1%96%D0%BD%D1%8C_%D0%BE%D0%BA%D0%B8%D1%81%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Ступінь окиснення – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%AA%DA%A9%D8%B3%DB%8C%D8%AF%DB%8C_%D8%B9%D8%AF%D8%AF" hreflang="ur" lang="ur" title="تکسیدی عدد – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Tr%E1%BA%A1ng_th%C3%A1i_%C3%B4xy_h%C3%B3a" hreflang="vi" lang="vi" title="Trạng thái ôxy hóa – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E6%B0%A7%E5%8C%96%E6%95%B8" hreflang="lzh" lang="lzh" title="氧化數 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B0%A7%E5%8C%96%E6%95%B8" hreflang="yue" lang="yue" title="氧化數 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B0%A7%E5%8C%96%E6%95%B0" hreflang="zh" lang="zh" title="氧化数 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q484152#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 5 October 2018, at 16:49<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Oxidation_state&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.796","walltime":"0.923","ppvisitednodes":{"value":11354,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":369728,"limit":2097152},"templateargumentsize":{"value":25205,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":78716,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  681.317      1 -total"," 44.04%  300.055      1 Template:Reflist"," 30.88%  210.375     19 Template:Cite_journal"," 25.54%  173.990     44 Template:Chem"," 24.43%  166.468     44 Template:Chem/link"," 20.49%  139.635    156 Template:Chem/atom"," 11.31%   77.047     71 Template:Su","  7.75%   52.768      1 Template:Clarify","  7.35%   50.054      1 Template:Fix-span","  5.15%   35.101      1 Template:Cvt"]},"scribunto":{"limitreport-timeusage":{"value":"0.320","limit":"10.000"},"limitreport-memusage":{"value":8000895,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20181026160759","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1243"});});</script>
+</body>
+</html>

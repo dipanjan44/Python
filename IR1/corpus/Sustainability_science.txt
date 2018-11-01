@@ -1,0 +1,715 @@
+https://en.wikipedia.org/wiki/Sustainability_science
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sustainability science - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sustainability_science","wgTitle":"Sustainability science","wgCurRevisionId":865202556,"wgRevisionId":865202556,"wgArticleId":17945609,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Sustainability","Environmental social science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sustainability_science","wgRelevantArticleId":17945609,"wgRequestId":"W9ti9QpAADoAAIyhQToAAAAV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q442321","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sustainability_science" rel="alternate"/>
+<link href="/w/index.php?title=Sustainability_science&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sustainability_science&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sustainability_science" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sustainability_science rootpage-Sustainability_science skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Sustainability science</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Sustainability science</b> emerged in the 21st century as a new academic discipline.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> This new field of science was officially introduced with a "Birth Statement" at the World Congress "Challenges of a Changing Earth 2001" in Amsterdam organized by the <a href="/wiki/International_Council_for_Science" title="International Council for Science">International Council for Science</a> (ICSU), the International Geosphere-Biosphere Programme (<a class="mw-redirect" href="/wiki/IGBP" title="IGBP">IGBP</a>), the International Human Dimensions Programme on Global Environmental Change<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> and the <a href="/wiki/World_Climate_Research_Programme" title="World Climate Research Programme">World Climate Research Programme</a> (WCRP). 
+The field reflects a desire to give the generalities and broad-based approach of “<a href="/wiki/Sustainability" title="Sustainability">sustainability</a>” a stronger analytic and scientific underpinning as it "brings together scholarship and practice, global and local perspectives from north and south, and disciplines across the natural and social sciences, engineering, and medicine".<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Ecologist <a href="/wiki/William_C._Clark" title="William C. Clark">William C. Clark</a> proposes that it can be usefully thought of as "neither 'basic' nor 'applied' research but as a field defined by the problems it addresses rather than by the disciplines it employs" and that it "serves the need for advancing both knowledge and action by creating a dynamic bridge between the two".<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>The field is focused on examining the interactions between human, environmental, and engineered systems to understand and contribute to solutions for complex challenges that threaten the future of humanity and the integrity of the life support systems of the planet, such as climate change, <a href="/wiki/Biodiversity_loss" title="Biodiversity loss">biodiversity loss</a>, pollution and land and water degradation.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>Sustainability science, like <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> itself, derives some impetus from the concepts of <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> and <a href="/wiki/Environmental_science" title="Environmental science">environmental science</a>.<sup class="reference" id="cite_ref-ensci.iastate.edu_6-0"><a href="#cite_note-ensci.iastate.edu-6">[6]</a></sup> Sustainability science provides a critical framework for sustainability<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> while <a href="/wiki/Sustainability_measurement" title="Sustainability measurement">sustainability measurement</a> provides the evidence-based quantitative data needed to guide <a class="mw-redirect" href="/wiki/Sustainability_governance" title="Sustainability governance">sustainability governance</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Broad_objectives"><span class="tocnumber">2</span> <span class="toctext">Broad objectives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Knowledge_structuring_of_issues"><span class="tocnumber">2.1</span> <span class="toctext">Knowledge structuring of issues</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Coordination_of_data"><span class="tocnumber">2.2</span> <span class="toctext">Coordination of data</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Interdisciplinary_approaches"><span class="tocnumber">2.3</span> <span class="toctext">Interdisciplinary approaches</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Journals"><span class="tocnumber">3</span> <span class="toctext">Journals</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#List_of_sustainability_science_programs"><span class="tocnumber">4</span> <span class="toctext">List of sustainability science programs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Undergraduate_programmes_in_sustainability_science"><span class="tocnumber">4.1</span> <span class="toctext">Undergraduate programmes in sustainability science</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Graduate_degree_programmes_in_sustainability_science"><span class="tocnumber">4.2</span> <span class="toctext">Graduate degree programmes in sustainability science</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Consensual definition of sustainability science is as elusive as the definition of "sustainability" or "sustainable development". In an overview presented on its website in 2008 the Sustainability Science Program at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> described the field in the following way, stressing its <a href="/wiki/Interdisciplinarity" title="Interdisciplinarity">interdisciplinarity</a>:
+</p>
+<blockquote><p>'Sustainability science' is problem-driven, interdisciplinary scholarship that seeks to facilitate the design, implementation, and evaluation of effective interventions that foster shared prosperity and reduced poverty while protecting the environment. It is defined by the problems it addresses rather than the disciplines it employs. It thus draws as needed from multiple disciplines of the natural, social, medical and engineering sciences, from the professions, and from the knowledge of practice.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p></blockquote> <p><a href="/wiki/Susan_Kieffer" title="Susan Kieffer">Susan W. Kieffer</a> and colleagues, in 2003, suggested, more specifically, that sustainability science is: 
+</p><blockquote><p>... the cultivation, integration, and application of knowledge about Earth systems gained especially from the holistic and historical sciences (such as geology, ecology, climatology, oceanography) coordinated with knowledge about human interrelationships gained from the social sciences and humanities, in order to evaluate, mitigate, and minimize the consequences, regionally and worldwide, of human impacts on planetary systems and on societies across the globe and into the future – that is, in order that humans can be knowledgeable Earth stewards.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p></blockquote><p>
+It has been noted that the new paradigm </p><blockquote><p>... must encompass different magnitudes of scales (of time, space, and function), multiple balances (dynamics), multiple actors (interests) and multiple failures (systemic faults).<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p></blockquote>
+<p>Others take a much broader view of sustainability science, emphasizing the need to analyze the root causes of the fundamental unsustainability of the prevailing economic system, such as the emphasis on growth as key to solving political and social problems and advancing society's well-being. In a 2012 article entitled "Sustainability Science Needs to Include Sustainable Consumption," published in Environment: Science and Policy for Sustainable Development, Halina Brown argues that sustainability science must include the study of the sociology of material consumption and the structure of consumerist society, the role of technology in aggravating the unsustainable social practices, as well as in solving the problems they create, the macroeconomic theories that presuppose economic growth as a necessary condition for advancing societal well-being, and others.<sup class="reference" id="cite_ref-Brown_2012_20–25_12-0"><a href="#cite_note-Brown_2012_20–25-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Broad_objectives">Broad objectives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=2" title="Edit section: Broad objectives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The case for making research and development an important component of sustainable development strategies was embraced by many international scientific organizations in the mid-1980s, promoted by the Brundtland Commission's report <i><a href="/wiki/Our_Common_Future" title="Our Common Future">Our Common Future</a></i> in 1987, and noted in the <i><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21</a></i> plan that emerged from the <i><a class="mw-redirect" href="/wiki/United_Nations_Conference_on_Environment_and_Development" title="United Nations Conference on Environment and Development">United Nations Conference on Environment and Development</a></i> in 1992 and further developed at the <i><a class="mw-redirect" href="/wiki/World_Summit_on_Sustainable_Development" title="World Summit on Sustainable Development">World Summit on Sustainable Development</a></i>, held in Johannesburg in 2002.
+</p><p>The topics of the following sub-headings indicate recurring themes that are addressed in the literature of sustainability science.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> In 2010 a compendium of basic papers in this new discipline was published as <i>Readings in Sustainability Science and Technology</i>, edited by <a href="/wiki/Robert_Kates" title="Robert Kates">Robert Kates</a>, with a preface by William Clark.<sup class="reference" id="cite_ref-hks.harvard.edu_14-0"><a href="#cite_note-hks.harvard.edu-14">[14]</a></sup> The 2012 Commentary by Halina Brown extensively expands the scope of that seminal publication.<sup class="reference" id="cite_ref-Brown_2012_20–25_12-1"><a href="#cite_note-Brown_2012_20–25-12">[12]</a></sup> This is work in progress. The 2012 Encyclopedia of Sustainability Science and Technology was created as a collaboration of over 1000 scientists to provide peer-reviewed entries covering sustainability research and policy evaluations of technology.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Knowledge_structuring_of_issues">Knowledge structuring of issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=3" title="Edit section: Knowledge structuring of issues">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Knowledge structuring has been identified as an essential first step in the effort to acquire a comprehensive view of sustainability issues which are both complex and interconnected. This is needed as a response to the requirements of academia, industry and government.
+</p>
+<h3><span class="mw-headline" id="Coordination_of_data">Coordination of data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=4" title="Edit section: Coordination of data">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The key research and data for sustainability are sourced from many scientific disciplines, topics and organisations. A major part of knowledge structuring will entail building up the tools that provide an “overview” of what is known. Sustainability science can construct and coordinate a framework within which the vast amount of data can be easily accessed.
+</p>
+<h3><span class="mw-headline" id="Interdisciplinary_approaches">Interdisciplinary approaches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=5" title="Edit section: Interdisciplinary approaches">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The attempt, by sustainability science, to understand the integrated “whole” of planetary and human systems requires cooperation between scientific, social and economic disciplines, public and private sectors, academia and government. In short it requires a massive global cooperative effort and one major task of sustainability science is to assist integrated cross-disciplinary coordination.
+</p>
+<h2><span class="mw-headline" id="Journals">Journals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=6" title="Edit section: Journals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a class="new" href="/w/index.php?title=Consilience_(journal)&amp;action=edit&amp;redlink=1" title="Consilience (journal) (page does not exist)">Consilience: The Journal of Sustainable Development</a></i>, seminannual journal published since 2009, now "in partnership with <a href="/wiki/Columbia_University_Libraries" title="Columbia University Libraries">Columbia University Libraries</a>".<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></li>
+<li><i><a class="new" href="/w/index.php?title=International_Journal_of_Sustainable_Development_%26_World_Ecology&amp;action=edit&amp;redlink=1" title="International Journal of Sustainable Development &amp; World Ecology (page does not exist)">International Journal of Sustainable Development &amp; World Ecology</a></i>, journal with six issues per year, published since 1994 by <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a>.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></li>
+<li><i>Surveys and Perspectives Integrating Environment &amp; Society (S.A.P.I.EN.S.)</i>, semiannual journal published by <a class="mw-redirect" href="/wiki/Veolia_Environment" title="Veolia Environment">Veolia Environment</a> from 2008-2015.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> A notable essay on <a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">sustainability indicators</a> by Paul-Marie Boulanger appeared in the first issue.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></li>
+<li><i><a class="new" href="/w/index.php?title=Sustainability_Science_(journal)&amp;action=edit&amp;redlink=1" title="Sustainability Science (journal) (page does not exist)">Sustainability Science</a></i>, journal launched by <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a> in June 2006.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></li>
+<li><i><a class="new" href="/w/index.php?title=Sustainability:_Science,_Practice,_Policy&amp;action=edit&amp;redlink=1" title="Sustainability: Science, Practice, Policy (page does not exist)">Sustainability: Science, Practice, Policy</a></i>, an open-access journal for sustainable solutions launched in March 2005. Now published by Taylor &amp; Francis.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup></li>
+<li><i><a class="mw-redirect" href="/wiki/Sustainability:_The_Journal_of_Record" title="Sustainability: The Journal of Record">Sustainability: The Journal of Record</a></i>, bimonthly journal published by <a class="mw-redirect" href="/wiki/Mary_Ann_Liebert,_Inc." title="Mary Ann Liebert, Inc.">Mary Ann Liebert, Inc.</a> beginning in December 2007.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup></li>
+<li>A section dedicated to sustainability science in the multidisciplinary journal <i><a href="/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America" title="Proceedings of the National Academy of Sciences of the United States of America">Proceedings of the National Academy of Sciences</a></i> was launched in 2006.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></li>
+<li><i><a href="/wiki/GAIA_(journal)" title="GAIA (journal)">GAIA: Ecological Perspectives for Science and Society</a> / <a class="extiw" href="https://de.wikipedia.org/wiki/GAIA_(Zeitschrift)" title="de:GAIA (Zeitschrift)">GAIA: Ökologische Perspektiven für Wissenschaft und Gesellschaft</a></i>, a quarterly inter- and transdisciplinary journal for scientists and other interested parties concerned with the causes and analyses of environmental and sustainability problems and their solutions. Launched in 1992 and published by <a class="extiw" href="https://de.wikipedia.org/wiki/oekom_verlag" title="de:oekom verlag">oekom verlag</a> on behalf of GAIA Society – Konstanz, St. Gallen, Zurich.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></li></ul>
+<h2><span class="mw-headline" id="List_of_sustainability_science_programs">List of sustainability science programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=7" title="Edit section: List of sustainability science programs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In recent years, more and more university degree programs have developed formal curricula which address issues of sustainability science and global change:
+</p>
+<dl><dt></dt></dl>
+<h3><span class="mw-headline" id="Undergraduate_programmes_in_sustainability_science">Undergraduate programmes in sustainability science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=8" title="Edit section: Undergraduate programmes in sustainability science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Course
+</th>
+<th>University
+</th>
+<th>Location
+</th>
+<th>Country
+</th>
+<th>Continent
+</th></tr>
+<tr>
+<td>B.A. or B.S. Sustainability
+</td>
+<td><a href="/wiki/Arizona_State_University" title="Arizona State University">Arizona State University</a>
+</td>
+<td><a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix, Arizona</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a>
+</td>
+<td><a href="/wiki/North_America" title="North America">North America</a>
+</td></tr>
+<tr>
+<td>B.S. Sustainability Studies
+</td>
+<td><a href="/wiki/Florida_Institute_of_Technology" title="Florida Institute of Technology">Florida Institute of Technology</a>
+</td>
+<td><a href="/wiki/Melbourne,_Florida" title="Melbourne, Florida">Melbourne, Florida</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a>
+</td>
+<td><a href="/wiki/North_America" title="North America">North America</a>
+</td></tr>
+<tr>
+<td>B.S. or B.S/M.S. Sustainability Science
+</td>
+<td><a href="/wiki/Montclair_State_University" title="Montclair State University">Montclair State University</a>
+</td>
+<td><a href="/wiki/Montclair,_New_Jersey" title="Montclair, New Jersey">Montclair, New Jersey</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a>
+</td>
+<td><a href="/wiki/North_America" title="North America">North America</a>
+</td></tr>
+<tr>
+<td>B.Sc. Environmental Sciences
+</td>
+<td><a href="/wiki/Leuphana_University_of_L%C3%BCneburg" title="Leuphana University of Lüneburg">Leuphana University of Lüneburg</a>
+</td>
+<td><a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg, Lower Saxony</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/> </span><a href="/wiki/Germany" title="Germany">Germany</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>B.Sc. Environmental and Sustainability Studies
+</td>
+<td><a href="/wiki/Leuphana_University_of_L%C3%BCneburg" title="Leuphana University of Lüneburg">Leuphana University of Lüneburg</a>
+</td>
+<td><a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg, Lower Saxony</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/> </span><a href="/wiki/Germany" title="Germany">Germany</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>B.Sc. Sustainability Science
+</td>
+<td><a href="/wiki/Solent_University" title="Solent University">Solent University</a>
+</td>
+<td><a href="/wiki/Southampton" title="Southampton">Southampton, Hampshire</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>M.Sci. Sustainability Science
+</td>
+<td><a href="/wiki/Solent_University" title="Solent University">Solent University</a>
+</td>
+<td><a href="/wiki/Southampton" title="Southampton">Southampton, Hampshire</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>B.Sc. Global Sustainability Science
+</td>
+<td><a href="/wiki/Utrecht_University" title="Utrecht University">Utrecht University</a>
+</td>
+<td><a href="/wiki/Utrecht" title="Utrecht">Utrecht, Utrecht Province</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" width="23"/> </span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Graduate_degree_programmes_in_sustainability_science">Graduate degree programmes in sustainability science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=9" title="Edit section: Graduate degree programmes in sustainability science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Course
+</th>
+<th>University
+</th>
+<th>Location
+</th>
+<th>Country
+</th>
+<th>Continent
+</th></tr>
+<tr>
+<td>M.S. Sustainability: Science and Society
+</td>
+<td><a href="/wiki/Brock_University" title="Brock University">Brock University</a>
+</td>
+<td><a href="/wiki/St._Catharines" title="St. Catharines">St. Catharines, Ontario</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a>
+</td>
+<td><a href="/wiki/North_America" title="North America">North America</a>
+</td></tr>
+<tr>
+<td>M.Sc. Sustainability Science
+</td>
+<td><a href="/wiki/Montclair_State_University" title="Montclair State University">Montclair State University</a>
+</td>
+<td><a href="/wiki/Montclair,_New_Jersey" title="Montclair, New Jersey">Montclair, New Jersey</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a>
+</td>
+<td><a href="/wiki/North_America" title="North America">North America</a>
+</td></tr>
+<tr>
+<td>M.Sc. Sustainability Science
+</td>
+<td><a href="/wiki/Leuphana_University_of_L%C3%BCneburg" title="Leuphana University of Lüneburg">Leuphana University of Lüneburg</a>
+</td>
+<td><a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg, Lower Saxony</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/> </span><a href="/wiki/Germany" title="Germany">Germany</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>M.B.A Sustainability Management
+</td>
+<td><a href="/wiki/Leuphana_University_of_L%C3%BCneburg" title="Leuphana University of Lüneburg">Leuphana University of Lüneburg</a>
+</td>
+<td><a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg, Lower Saxony</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/> </span><a href="/wiki/Germany" title="Germany">Germany</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>M.Phil. Engineering for Sustainable Development
+</td>
+<td><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a>
+</td>
+<td><a href="/wiki/Cambridge" title="Cambridge">Cambridge, Cambridgeshire</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>M.Sc. Sustainability
+</td>
+<td><a href="/wiki/University_of_Southampton" title="University of Southampton">University of Southampton</a>
+</td>
+<td><a href="/wiki/Southampton" title="Southampton">Southampton, Hampshire</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>M.Sc. Environmental Technology
+</td>
+<td><a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a>
+</td>
+<td><a href="/wiki/Kensington" title="Kensington">Kensington, London</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>M.Sc. Sustainability Science and Solutions
+</td>
+<td><a href="/wiki/Lappeenranta_University_of_Technology" title="Lappeenranta University of Technology">Lappeenranta University of Technology</a>
+</td>
+<td><a href="/wiki/Lappeenranta" title="Lappeenranta">Lappeenranta, South Karelia</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="1100" data-file-width="1800" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" width="23"/> </span><a href="/wiki/Finland" title="Finland">Finland</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>M.Sc. Social-Ecological Resilience for Sustainable Development
+</td>
+<td><a href="/wiki/Stockholm_University" title="Stockholm University">Stockholm University</a>
+</td>
+<td><a href="/wiki/Stockholm" title="Stockholm">Stockholm, Stockholm</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="1000" data-file-width="1600" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" width="23"/> </span><a href="/wiki/Sweden" title="Sweden">Sweden</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>PhD Sustainability Science
+</td>
+<td><a href="/wiki/Stockholm_University" title="Stockholm University">Stockholm University</a>
+</td>
+<td><a href="/wiki/Stockholm" title="Stockholm">Stockholm, Stockholm</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="1000" data-file-width="1600" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" width="23"/> </span><a href="/wiki/Sweden" title="Sweden">Sweden</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+<tr>
+<td>Master of Environment and Sustainability
+</td>
+<td><a href="/wiki/Monash_University" title="Monash University">Monash University</a>
+</td>
+<td><a href="/wiki/Melbourne" title="Melbourne">Melbourne, Victoria</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="640" data-file-width="1280" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" width="23"/> </span><a href="/wiki/Australia" title="Australia">Australia</a>
+</td>
+<td><a href="/wiki/Oceania" title="Oceania">Oceania</a>
+</td></tr>
+<tr>
+<td>M.Sc. Sustainability Science and Policy
+</td>
+<td><a href="/wiki/Maastricht_University" title="Maastricht University">Maastricht University</a>
+</td>
+<td><a href="/wiki/Maastricht" title="Maastricht">Maastricht, Limburg</a>
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" width="23"/> </span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>
+</td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a>
+</td></tr>
+</tbody></table>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li></ul></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_sociology" title="Environmental sociology">Environmental sociology</a></li>
+<li><a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Glossary of environmental science</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">List of environmental degrees</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_environmental_organisations" title="List of environmental organisations">List of environmental organisations</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_sustainability_topics" title="List of sustainability topics">List of sustainability topics</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Sustainability studies</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainability_science&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Bernd Kasemir, Jill Jager, Carlo C. Jaeger, and Matthew T. Gardner (eds) (2003). <i>Public participation in sustainability science, a handbook.</i> Cambridge University Press, Cambridge. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-521-52144-4" title="Special:BookSources/978-0-521-52144-4">978-0-521-52144-4</a></li>
+<li>Kajikawa Yuya (2008), "Research core and framework of sustainability science", Sustainability Science, n° 3, pp. 215–239, Springer DOI 10.1007/s11625-008-0053-1</li>
+<li>Kates, Robert W., ed. (2010). <i>Readings in Sustainability Science and Technology</i>. CID Working Paper No. 213. Center for International Development, Harvard University. Cambridge, MA: Harvard University, December 2010. <a class="external text" href="https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/cid-working-paper-no.-213" rel="nofollow">Abstract</a> and <a class="external text" href="https://www.hks.harvard.edu/content/download/69257/1249838/version/1/.../213.pdf" rel="nofollow">PDF file</a> available on the Harvard Kennedy School website</li>
+<li>Jackson, T. (2009), "Prosperity Without Growth: Economics for a Final Planet." London: Earthscan</li>
+<li>Brown, Halina Szejnwald (2012). "Sustainability Science Needs to Include Sustainable Consumption." Environment: Science and Policy for Sustainable Development 54: 20-25</li></ul>
+<div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a class="mw-selflink selflink">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Environmental_science" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Environmental_science" title="Template:Environmental science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Environmental_science" title="Template talk:Environmental science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_science&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Environmental_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Main fields</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a></li>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Geosciences</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Limnology" title="Limnology">Limnology</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Environmental_soil_science" title="Environmental soil science">Soil science</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg"><img alt="The Earth seen from Apollo 17.jpg" data-file-height="3002" data-file-width="3000" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/100px-The_Earth_seen_from_Apollo_17.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/150px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/200px-The_Earth_seen_from_Apollo_17.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related fields</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biology" title="Biology">Biology</a></li>
+<li><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>
+<ul><li><a href="/wiki/Green_chemistry" title="Green chemistry">green</a></li></ul></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a>
+<ul><li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li></ul></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a href="/wiki/Geodesy" title="Geodesy">Geodesy</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a></li>
+<li><a class="mw-selflink selflink">Sustainability science</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource management</a></li>
+<li><a class="mw-redirect" href="/wiki/Pollution_control" title="Pollution control">Pollution control</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Remediation</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Road_ecology" title="Road ecology">Road ecology</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Category</a>
+<ul><li><a href="/wiki/Category:Environmental_scientists" title="Category:Environmental scientists">scientists</a></li></ul></li>
+<li><a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Glossary</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_sciences" title="List of environmental journals">Journals</a></li>
+<li><a href="/wiki/List_of_environmental_research_institutes" title="List of environmental research institutes">Research institutes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20181101201441
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.360 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 2751/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60102/2097152 bytes
+Template argument size: 2848/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 25703/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.138/10.000 seconds
+Lua memory usage: 3.57 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  307.497      1 -total
+ 60.24%  185.228      1 Template:Reflist
+ 37.18%  114.329      2 Template:Cite_journal
+ 13.02%   40.039     20 Template:Flag
+  9.19%   28.245      2 Template:Navbox
+  8.06%   24.776      1 Template:Portal
+  7.60%   23.365      4 Template:Cite_web
+  7.15%   21.994      1 Template:ISBN
+  5.93%   18.225      1 Template:Sustainability
+  5.86%   18.017      1 Template:Webarchive
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17945609-0!canonical and timestamp 20181101201440 and revision id 865202556
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sustainability_science&amp;oldid=865202556">https://en.wikipedia.org/w/index.php?title=Sustainability_science&amp;oldid=865202556</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Sustainability</a></li><li><a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Environmental social science</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sustainability+science" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sustainability+science" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sustainability_science" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sustainability_science" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sustainability_science">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sustainability_science&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sustainability_science&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sustainability_science" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sustainability_science" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sustainability_science&amp;oldid=865202556" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sustainability_science&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q442321" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sustainability_science&amp;id=865202556" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sustainability+science">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sustainability+science&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sustainability_science&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/V%C4%9Bda_udr%C5%BEitelnosti" hreflang="cs" lang="cs" title="Věda udržitelnosti – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Nachhaltigkeitswissenschaft" hreflang="de" lang="de" title="Nachhaltigkeitswissenschaft – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/J%C3%A4tkusuutlikkuse_teadus" hreflang="et" lang="et" title="Jätkusuutlikkuse teadus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B9%E3%83%86%E3%82%A4%E3%83%8A%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E5%AD%A6" hreflang="ja" lang="ja" title="サステイナビリティ学 – Japanese">日本語</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q442321#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 October 2018, at 12:39<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sustainability_science&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.446","ppvisitednodes":{"value":2751,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60102,"limit":2097152},"templateargumentsize":{"value":2848,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25703,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  307.497      1 -total"," 60.24%  185.228      1 Template:Reflist"," 37.18%  114.329      2 Template:Cite_journal"," 13.02%   40.039     20 Template:Flag","  9.19%   28.245      2 Template:Navbox","  8.06%   24.776      1 Template:Portal","  7.60%   23.365      4 Template:Cite_web","  7.15%   21.994      1 Template:ISBN","  5.93%   18.225      1 Template:Sustainability","  5.86%   18.017      1 Template:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.138","limit":"10.000"},"limitreport-memusage":{"value":3738823,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20181101201441","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1263"});});</script>
+</body>
+</html>

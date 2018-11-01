@@ -1,0 +1,755 @@
+https://en.wikipedia.org/wiki/Ecocide
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Ecocide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ecocide","wgTitle":"Ecocide","wgCurRevisionId":866402876,"wgRevisionId":866402876,"wgArticleId":14513725,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with too few wikilinks from June 2018","All articles with too few wikilinks","Articles covered by WikiProject Wikify from June 2018","All articles covered by WikiProject Wikify","All articles with unsourced statements","Articles with unsourced statements from November 2016","Environmental issues","Theories of law","Doomsday scenarios"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ecocide","wgRelevantArticleId":14513725,"wgRequestId":"W9lvZApAME8AAJJzFgkAAABL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q296486","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ecocide" rel="alternate"/>
+<link href="/w/index.php?title=Ecocide&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Ecocide&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Ecocide" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ecocide rootpage-Ecocide skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Ecocide</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Ecocide</b>, or <b>ecocatastrophe</b><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><i>,</i> is the extensive damage to, <a class="mw-redirect" href="/wiki/Ecosystem_destruction" title="Ecosystem destruction">destruction</a> of or <a class="mw-redirect" href="/wiki/Habitat_loss" title="Habitat loss">loss</a> of ecosystem(s) of a given territory, whether by human agency or by other, to such an extent that peaceful enjoyment by the inhabitants of that territory has been or will be severely diminished. 
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Anthropogenic_ecocide"><span class="tocnumber">1</span> <span class="toctext">Anthropogenic ecocide</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ecocide_as_a_proposed_international_crime"><span class="tocnumber">2</span> <span class="toctext">Ecocide as a proposed international crime</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Severity_of_environmental_harm"><span class="tocnumber">2.1</span> <span class="toctext">Severity of environmental harm</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Existing_domestic_ecocide_laws"><span class="tocnumber">4</span> <span class="toctext">Existing domestic ecocide laws</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Georgia_1999"><span class="tocnumber">4.1</span> <span class="toctext">Georgia 1999</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Armenia_2003"><span class="tocnumber">4.2</span> <span class="toctext">Armenia 2003</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Ukraine_2001"><span class="tocnumber">4.3</span> <span class="toctext">Ukraine 2001</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Belarus_1999"><span class="tocnumber">4.4</span> <span class="toctext">Belarus 1999</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Kazakhstan_1997"><span class="tocnumber">4.5</span> <span class="toctext">Kazakhstan 1997</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Kyrgyzstan_1997"><span class="tocnumber">4.6</span> <span class="toctext">Kyrgyzstan 1997</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Republic_of_Moldova_2002"><span class="tocnumber">4.7</span> <span class="toctext">Republic of Moldova 2002</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Russian_Federation_1996"><span class="tocnumber">4.8</span> <span class="toctext">Russian Federation 1996</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Tajikistan_1998"><span class="tocnumber">4.9</span> <span class="toctext">Tajikistan 1998</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Uzbekistan_1994"><span class="tocnumber">4.10</span> <span class="toctext">Uzbekistan 1994</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Vietnam_1990"><span class="tocnumber">4.11</span> <span class="toctext">Vietnam 1990</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Anthropogenic_ecocide">Anthropogenic ecocide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=1" title="Edit section: Anthropogenic ecocide">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term ecocide is more recently used to refer to the destructive <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">impact of humanity on its own natural environment</a>.  As a group of complex organisms we are committing ecocide through <a class="mw-redirect" href="/wiki/Unsustainable" title="Unsustainable">unsustainable</a> <a class="mw-redirect" href="/wiki/Resource_exploitation" title="Resource exploitation">exploitation of the planet's resources</a>. The geological era we are living in, known as the <a href="/wiki/Anthropocene" title="Anthropocene">anthropocene</a>, is so named because the activities of the human species are influencing the Earth's <a href="/wiki/Prehistory" title="Prehistory">natural state</a> in a way never seen before. The most notable example is that of the atmosphere which is being transformed through the <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">emission of gases</a> from <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> use : <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, <a href="/wiki/Methane" title="Methane">methane</a>, <a class="mw-redirect" href="/wiki/Chlorofluorocarbons" title="Chlorofluorocarbons">chlorofluorocarbons</a> etc. The ecocide we are witnessing is a symptom of the disregard and reward for accounting for the damage being caused. U.S. environmental theorist and activist <a class="new" href="/w/index.php?title=Patrick_Hossay&amp;action=edit&amp;redlink=1" title="Patrick Hossay (page does not exist)">Patrick Hossay</a> <sup class="reference" id="cite_ref-Unsustainable:_A_Primer_for_Global_Environmental_and_Social_Justice_2-0"><a href="#cite_note-Unsustainable:_A_Primer_for_Global_Environmental_and_Social_Justice-2">[2]</a></sup> argues that the human species is committing ecocide, via industrial civilization's effects on the global environment. Much of the modern environmental movement stems from this belief as a precept.
+</p>
+<h2><span class="mw-headline" id="Ecocide_as_a_proposed_international_crime">Ecocide as a proposed international crime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=2" title="Edit section: Ecocide as a proposed international crime">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of ecocide as an international <a href="/wiki/Environmental_crime" title="Environmental crime">crime</a> originated in the 1970s.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>In 2010 it was proposed that the <a href="/wiki/Rome_Statute_of_the_International_Criminal_Court" title="Rome Statute of the International Criminal Court">Rome Statute</a> be amended to include the international crime of Ecocide. The proposal was submitted to the <a class="mw-redirect" href="/wiki/United_Nations_International_Law_Commission" title="United Nations International Law Commission">United Nations International Law Commission</a><sup class="reference" id="cite_ref-:3_4-0"><a href="#cite_note-:3-4">[4]</a></sup> who are '<b>‘'</b>mandated to promote the progressive development of international law and its codification’.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The definition proposed includes provisions for both individual and state responsibility and would be a strict liability crime(including both intent and negligence). It would create a duty of care in events of naturally occurring ecocide as well as creating criminal responsibility for human caused ecocide.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Severity_of_environmental_harm">Severity of environmental harm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=3" title="Edit section: Severity of environmental harm">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>To be considered an ecocide under the proposed law, an environmental harm would need to be widespread, long lasting or severe.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> This is the parameter based disjunctive test, as already set out under the 1977 <a href="/wiki/United_Nations_Convention_on_Environmental_Modification" title="United Nations Convention on Environmental Modification">United Nations Convention on Environmental Modification</a>, which specifies the terms ‘widespread’, ‘long-lasting’ or ‘severe’ as: 
+</p>
+<ol><li><i>widespread: encompassing an area on the scale of several hundred square kilometers; and/or</i></li>
+<li><i>long-lasting: lasting for a period of months, or approximately a season; and/or</i></li>
+<li><i>severe: involving serious or significant disruption or harm to human life, natural and economic resources or other assets.</i> <sup class="reference" id="cite_ref-:4_8-0"><a href="#cite_note-:4-8">[8]</a></sup></li></ol>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="620" data-file-width="620" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/40px-Ambox_wikify.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/60px-Ambox_wikify.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/80px-Ambox_wikify.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs more <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">links to other articles</a> to help <a class="mw-redirect" href="/wiki/Wikipedia:BUILD" title="Wikipedia:BUILD">integrate it into the encyclopedia</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ecocide&amp;action=edit">improve this article</a> by adding links <a class="mw-redirect" href="/wiki/Wikipedia:Only_make_links_that_are_relevant_to_the_context" title="Wikipedia:Only make links that are relevant to the context">that are relevant to the context</a> within the existing text.</span> <small><i>(June 2018)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><i>1970</i>
+</p><p>The word was recorded at the Conference on War and National Responsibility in Washington 1970, where <a href="/wiki/Arthur_Galston" title="Arthur Galston">Arthur Galston</a> proposed a new international agreement to ban ecocide.<sup class="reference" id="cite_ref-:0_9-0"><a href="#cite_note-:0-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Galston was a US biologist who identified the defoliant effects of a chemical later developed into Agent Orange. Subsequently a bioethicist, he was the first in 1970 to name massive damage and destruction of ecosystems as an ecocide.<sup class="reference" id="cite_ref-:0_9-1"><a href="#cite_note-:0-9">[9]</a></sup>
+</p><p>In an <i><a href="/wiki/Obiter_dictum" title="Obiter dictum">obiter dictum</a></i> in the 1970 Barcelona Traction case judgement, the International Court of Justice identified a category of international obligations called <i><a href="/wiki/Erga_omnes" title="Erga omnes">erga omnes</a></i>, namely obligations owed by states to the international community as a whole, intended to protect and promote the basic values and common interests of all.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p><i>1972</i>
+</p><p>In 1972 at the United Nations <a class="mw-redirect" href="/wiki/Stockholm_Conference_on_the_Human_Environment" title="Stockholm Conference on the Human Environment">Stockholm Conference on the Human Environment</a> which adopted the <a class="mw-redirect" href="/wiki/Stockholm_Declaration" title="Stockholm Declaration">Stockholm Declaration</a>, <a href="/wiki/Olof_Palme" title="Olof Palme">Olof Palme</a> the Prime Minister of <a href="/wiki/Sweden" title="Sweden">Sweden</a>, in his opening speech spoke explicitly of the <a class="mw-redirect" href="/wiki/Vietnam_war" title="Vietnam war">Vietnam war</a> as an ecocide and it was discussed in the unofficial events running parallel to the official UN Stockholm Conference on Human Environment.<sup class="reference" id="cite_ref-folkrorelser_12-0"><a href="#cite_note-folkrorelser-12">[12]</a></sup> Others, including Indira Gandhi from India and Tang Ke, the leader of the Chinese delegation, also denounced the war in human and environmental terms. They too called for ecocide to be an international crime<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>]</sup>. A Working Group on Crimes Against the Environment was formed at the conference, and a draft Ecocide Convention was submitted into the United Nations in 1973.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>Dai Dong, a branch of the International Fellowship of Reconciliation sponsored a Convention on Ecocidal War which took place in Stockholm, Sweden. The Convention brought together many people including experts Richard A. Falk, expert on the international law of war crimes and Robert Jay Lifton, a psychohistorian. The Convention called for a United Nations Convention on Ecocidal Warfare, which would amongst other matters seek to define and condemn ecocide as an international crime of war. Richard A. Falk drafted an Ecocide Convention in 1973, explicitly stating at the outset to recognise "that man has consciously and unconsciously inflicted irreparable damage to the environment in times of war and peace".<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p><p>Westing's view was that the element of intent did not always apply. "Intent may not only be impossible to establish without admission but, I believe, it is essentially irrelevant."<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p><p><i>1978</i>
+</p><p>Draft Code of Crimes Against the Peace and Security of Mankind discussions commence. At the same time, State responsibility and international crimes are discussed and drafted.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p><p>The ILC 1978 Yearbook's 'Draft articles on State Responsibility and International Crime' included: "an international crime (which) may result, inter alia, from: (d) a serious breach of an international obligation of essential importance for the safeguarding and preservation of the human environment, such as those prohibiting massive pollution of the atmosphere or of the seas."<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> Supporters who spoke out in favour of a crime of ecocide included Romania and the Holy See,<sup class="reference" id="cite_ref-:1_18-0"><a href="#cite_note-:1-18">[18]</a></sup> Austria, Poland, Rwanda, Congo and Oman<sup class="reference" id="cite_ref-:1_18-1"><a href="#cite_note-:1-18">[18]</a></sup>
+</p><p><i>1985</i>
+</p><p>Ecocide as a crime continued to be addressed. The Whitaker Report, commissioned by the <a href="/wiki/Sub-Commission_on_the_Promotion_and_Protection_of_Human_Rights" title="Sub-Commission on the Promotion and Protection of Human Rights">Sub-Commission on the Promotion and Protection of Human Rights</a> on the question of the prevention and punishment of the crime of genocide was prepared by then <a href="/wiki/Special_Rapporteur" title="Special Rapporteur">Special Rapporteur</a>, Benjamin Whitaker.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> The report contained a passage that "some members of the Sub-Commission have, however, proposed that the definition of genocide should be broadened to include cultural genocide or "ethnocide", and also "ecocide": adverse alterations, often irreparable, to the environment - for example through nuclear explosions, chemical weapons, serious pollution and acid rain, or destruction of the rain forest - which threaten the existence of entire populations, whether deliberately or with criminal negligence."<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p><p><i>1987</i>
+</p><p>Discussion of international crimes continued in the International Law Commission, where it was proposed that "the list of international crimes include "ecocide", as a reflection of the need to safeguard and preserve the environment, as well as the first use of nuclear weapons, <a href="/wiki/Colonialism" title="Colonialism">colonialism</a>, <a href="/wiki/Apartheid" title="Apartheid">apartheid</a>, <a class="new" href="/w/index.php?title=Economic_aggression&amp;action=edit&amp;redlink=1" title="Economic aggression (page does not exist)">economic aggression</a> and <a class="new" href="/w/index.php?title=Mercenarism&amp;action=edit&amp;redlink=1" title="Mercenarism (page does not exist)">mercenarism</a>".<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p><p><i>1991</i>
+</p><p>The ILC 'Draft Code of Crimes Against the Peace and Security of Mankind' of 1991 contained 12 crimes.<sup class="reference" id="cite_ref-legal.un.org_22-0"><a href="#cite_note-legal.un.org-22">[22]</a></sup> One of those was 'wilful damage to the environment (Article 26)'.
+</p><p><i>1993</i>
+</p><p>As of 29 March 1993, the Secretary-General had received 23 replies from Member States and one reply from a non-member State. They were: Australia, Austria, Belarus, Belgium, Brazil, Bulgaria, Costa Rica, Ecuador, Greece, Netherlands, the Nordic countries (Denmark, Finland, Iceland, Norway, Sweden), Paraguay, Poland, Senegal, Sudan, Turkey, UK, USA, Uruguay and Switzerland. Many objections were raised, for summarised commentary see the 1993 ILC Yearbook.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> Only
+three countries, the Netherlands, the United Kingdom and the United States of
+America, opposed the inclusion of an environmental crime.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> The issue of adding a high test of intent (‘wilful’) was of concern: Austria commented: "Since perpetrators of this crime are usually acting out of a profit motive, intent should not be a condition for liability to punishment." Belgium and Uruguay also took the position that no element of intent was necessary for the crime of severe damage to the environment (Article 26).<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p><p><i>1996</i>
+</p><p>In 1996, Canadian/Australian lawyer Mark Gray published his proposal for an international crime of ecocide, based on established international environmental and human rights law. He demonstrated that states, and arguably individuals and organisations, causing or permitting harm to the natural environment on a massive scale breach a duty of care owed to humanity in general. He proposed that such breaches, where deliberate, reckless or negligent, be identified as ecocide where they entail serious, and extensive or lasting, <a href="/wiki/Environmental_degradation" title="Environmental degradation">ecological damage</a>; international consequences; and <a href="/wiki/Waste" title="Waste">waste</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</p><p>Meanwhile, in the ILC, ‘wilful and severe damage to the environment’ (Article 26) had been tasked to a working-group: "The Commission further decided that consultations would continue as regards [Article 26] …the Commission decided … to establish a working group that would meet … to examine the possibility of covering in the draft Code the issue of wilful and severe damage to the environment ...  the Commission decided by a vote to refer to the Drafting Committee only the text prepared by the working group for inclusion of wilful and severe damage to the environment as a war crime.
+"<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</p><p><i>1998</i>
+</p><p>The final Draft Code was used as inspiration for the Rome Statute at the United Nations United Nations Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court, which was held in Rome.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> The Rome Statute was the founding document of the International Criminal Court (ICC), to be used when a state is either unwilling or unable to bring their own prosecutions for international crimes.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</p><p>Ecocide was not included in the Rome Statute as a separate crime, but featured in relation to a war-crime.<sup class="reference" id="cite_ref-:2_30-0"><a href="#cite_note-:2-30">[30]</a></sup>  The test for this war crime was narrower than previous proposed tests.  Under the Environmental Modification Convention 1977 (ENMOD) the test for war-time environmental destruction is ‘widespread, long-term <u>or</u> severe’,<sup class="reference" id="cite_ref-:4_8-1"><a href="#cite_note-:4-8">[8]</a></sup> whereas Article 8(2)(b) of the Rome Statute 1998 modified the ENMOD test with the change of one word to ‘widespread, long-term <u>and</u> severe.<sup class="reference" id="cite_ref-:2_30-1"><a href="#cite_note-:2-30">[30]</a></sup>’ Article 8(2)(b) limited environmental harm to circumstances when "Intentionally launching an attack in the knowledge that such attack will cause incidental loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the concrete and direct overall military advantage anticipated."<sup class="reference" id="cite_ref-:2_30-2"><a href="#cite_note-:2-30">[30]</a></sup>
+</p><p><i>2010</i>
+</p><p>The proposal for the crime of Ecocide was submitted to the United Nations by a private party. In March 2010, British "earth lawyer" Polly Higgins submitted to the United Nations an amendment to the Rome Statute, proposing that “ecocide” be legally recognised as the fifth international <a href="/wiki/Crime_against_peace" title="Crime against peace">Crime against peace</a>. The Rome Statute currently acknowledges four crimes against peace: genocide; crimes against humanity; war crimes; and the crime of aggression. Each of these crimes affects human victims. While Higgins’ proposed definition of ecocide attends to inhabitants’ “peaceful enjoyment”, the victim the amendment is primarily promising to protect is not human but environmental.<sup class="reference" id="cite_ref-:3_4-1"><a href="#cite_note-:3-4">[4]</a></sup><sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p><p><i>2011</i>
+</p><p>A mock Ecocide Act was drafted<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> and then tested in the UK Supreme Court via a mock trial<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> by the <a href="/wiki/Hamilton_Group" title="Hamilton Group">Hamilton Group</a>.
+</p><p><i>2012</i>
+</p><p>A concept paper on the Law of Ecocide<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup> was sent out to governments In June 2012 the idea of making ecocide a crime was presented<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> to legislators and judges from around the world at the World Congress on Justice Governance and Law for Environmental Sustainability,<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup><sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup> held in Mangaratiba before the Rio +20 Earth Summit, the United Nations Conference on Sustainable Development. Making ecocide an international crime was voted as one of the top twenty solutions to achieving sustainable development at the <a href="/wiki/World_Youth_Congress" title="World Youth Congress">World Youth Congress</a> in Rio de Janeiro in June 2012.<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup>
+</p><p>In October 2012 a range of experts gathered at the international conference Environmental Crime: Current and Emerging Threats<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup> held in Rome at the UN Food and Agricultural Organization Headquarters hosted by the United Nations Interregional Crime and Justice Research Institute(UNICRI) in cooperation with United Nations Environmental Programme (UNEP) and the Ministry of the Environment (Italy). The conference recognized that environmental crime is an important new form of transnational organized crime in need a greater response. One of the outcomes was that UNEP and UNICRI head up a study into the definition of environmental crime, new environmental crime and give due consideration to the history of making ecocide an international crime once again.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup>
+</p><p><i>2013 - 2014</i>
+</p><p><i>European citizen Initiative for criminalising ecocide</i>
+</p><p>On January 22, 2013, a committee of eleven citizens from nine EU countries officially launched the "European Citizens Initiative "End Ecocide in Europe".<sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup> The European Citizens' Initiative,<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup> or ECI, is a tool created by the Lisbon Treaty to promote participative and direct democracy. The ECI is a way for EU citizens to propose new or suggest amendments to legislation directly to the <a href="/wiki/European_Commission" title="European Commission">European Commission</a> which is the institution proposing new EU laws. This initiative aimed at criminalising ecocide, the extensive damage and destruction of ecosystems, including the denial of market access for products based on ecocide to the EU and investments in activities causing ecocide. Three MEPs, Keith Taylor, Eva Joly, and Jo Leinen, publicly gave the first signatures.<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup>  The initiative did not collect the 1 million signatures needed, but was discussed in the European Parliament.<sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Existing_domestic_ecocide_laws">Existing domestic ecocide laws</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=5" title="Edit section: Existing domestic ecocide laws">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ten countries have codified ecocide as a crime during peacetime. Those countries follow closely the ILC Draft articles definition of "An individual who wilfully causes or orders the causing of widespread, long-term and severe damage to the natural environment shall, on conviction thereof, be sentenced [to...]."<sup class="reference" id="cite_ref-legal.un.org_22-1"><a href="#cite_note-legal.un.org-22">[22]</a></sup> Although there are Laws of Ecocide in place, the effectiveness of these laws depends on a number of factors including the enforcement of the law, an <a class="mw-redirect" href="/wiki/Independent_judiciary" title="Independent judiciary">independent judiciary</a> and respect for the <a href="/wiki/Rule_of_law" title="Rule of law">rule of law</a>. Many of the countries with national laws of ecocide in place are ranked very highly for corruption and low for respect for the rule of law by <a href="/wiki/Transparency_International" title="Transparency International">Transparency International</a>.<sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[45]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Georgia_1999"><a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a> 1999</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=6" title="Edit section: Georgia 1999">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Article 409. Ecocide: "Ecocide, i.e. contamination of atmosphere, land and water resources, mass destruction of flora and fauna or any other action that could have caused ecological disaster - shall be punishable by ..."<sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[46]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Armenia_2003"><a href="/wiki/Armenia" title="Armenia">Armenia</a> 2003</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=7" title="Edit section: Armenia 2003">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Article 394. Ecocide: "Mass destruction of flora or fauna, poisoning the environment, the soils or water resources, as well as implementation of other actions causing an ecological catastrophe, is punished ..."<sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ukraine_2001"><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> 2001</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=8" title="Edit section: Ukraine 2001">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Article 441. Ecocide: "Mass destruction of flora and fauna, poisoning of air or water resources, and also any other actions that may cause an environmental disaster, - shall be punishable by ..."<sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[48]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Belarus_1999"><a href="/wiki/Belarus" title="Belarus">Belarus</a> 1999</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=9" title="Edit section: Belarus 1999">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Art 131. Ecocide: "Deliberate mass destruction of flora and fauna, or poisoning the air or water, or the commission of other intentional acts that could cause an ecological disaster (ecocide), - shall be punished by ..."<sup class="reference" id="cite_ref-49"><a href="#cite_note-49">[49]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Kazakhstan_1997"><a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a> 1997</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=10" title="Edit section: Kazakhstan 1997">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Art 161. Ecocide: "Mass destruction of flora or fauna, poisoning the atmosphere, land or water resources, as well as the commission of other acts which caused or a capable of causation of an ecological catastrophe, - shall be punished by..."<sup class="reference" id="cite_ref-50"><a href="#cite_note-50">[50]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Kyrgyzstan_1997"><a href="/wiki/Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a> 1997</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=11" title="Edit section: Kyrgyzstan 1997">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Art 374. Ecocide: "Massive destruction of the animal or plant kingdoms, contamination of the atmosphere or water resources, and also commission of other actions capable of causing an ecological catastrophe, shall be punishable ..."<sup class="reference" id="cite_ref-51"><a href="#cite_note-51">[51]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Republic_of_Moldova_2002"><a class="mw-redirect" href="/wiki/Republic_of_Moldova" title="Republic of Moldova">Republic of Moldova</a> 2002</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=12" title="Edit section: Republic of Moldova 2002">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Art 136. Ecocide: "Deliberate mass destruction of flora and fauna, poisoning the atmosphere or water resources, and the commission of other acts that may cause or caused an ecological disaster shall be punished ..."<sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[52]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Russian_Federation_1996"><a class="mw-redirect" href="/wiki/Russian_Federation" title="Russian Federation">Russian Federation</a> 1996</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=13" title="Edit section: Russian Federation 1996">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Art 358. Ecocide: "Massive destruction of the animal or plant kingdoms, contamination of the atmosphere or water resources, and also commission of other actions capable of causing an ecological catastrophe, shall be punishable by ..."<sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[53]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Tajikistan_1998"><a href="/wiki/Tajikistan" title="Tajikistan">Tajikistan</a> 1998</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=14" title="Edit section: Tajikistan 1998">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Art 400. Ecocide: "Mass destruction of flora and fauna, poisoning the atmosphere or water resources, as well as commitment of other actions which may cause ecological disasters is punishable ..."<sup class="reference" id="cite_ref-54"><a href="#cite_note-54">[54]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Uzbekistan_1994"><a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a> 1994</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=15" title="Edit section: Uzbekistan 1994">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Art 196. Pollution of Natural Environment: "Pollution or damage of land, water, or atmospheric air, resulted in mass disease incidence of people, death of animals, birds, or fish, or other grave consequences – shall be punished ..."<sup class="reference" id="cite_ref-55"><a href="#cite_note-55">[55]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Vietnam_1990"><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a> 1990</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=16" title="Edit section: Vietnam 1990">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Art 342 Crimes against mankind: "Those who, in peace time or war time, commit acts of ... as well as other acts of genocide or acts of ecocide or destroying the natural environment, shall be sentenced ..."<sup class="reference" id="cite_ref-56"><a href="#cite_note-56">[56]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="icon" class="noviewer thumbborder" data-file-height="4000" data-file-width="6000" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Issoria_lathonia.jpg"><img alt="icon" class="noviewer" data-file-height="445" data-file-width="629" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/32px-Issoria_lathonia.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/48px-Issoria_lathonia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/64px-Issoria_lathonia.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Biology" title="Portal:Biology">Biology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Ecophagy" title="Ecophagy">Ecophagy</a></li>
+<li><a href="/wiki/Ecotage" title="Ecotage">Ecotage</a></li>
+<li><a href="/wiki/Environmental_disaster" title="Environmental disaster">Environmental disaster</a></li>
+<li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">List of environmental issues</a></li>
+<li><a href="/wiki/Operation_Ranch_Hand" title="Operation Ranch Hand">Operation Ranch Hand</a></li>
+<li><a href="/wiki/Scorched_earth" title="Scorched earth">Scorched earth</a></li>
+<li><i><a href="/wiki/WALL-E" title="WALL-E">WALL-E</a></i>, ecocide in fiction</li>
+<li><a class="mw-redirect" href="/wiki/War_on_Drugs#Aerial_herbicide_application" title="War on Drugs">War on Drugs</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=19" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Franz, Broswimmer (2002). <i>Ecocide: A Short History of Mass Extinction of Species</i>. Pluto Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7453-1934-3" title="Special:BookSources/0-7453-1934-3">0-7453-1934-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ecocide%3A+A+Short+History+of+Mass+Extinction+of+Species&amp;rft.pub=Pluto+Press&amp;rft.date=2002&amp;rft.isbn=0-7453-1934-3&amp;rft.aulast=Franz&amp;rft.aufirst=Broswimmer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcocide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Diamond, Jared (2005). <i><a href="/wiki/Collapse:_How_Societies_Choose_to_Fail_or_Succeed" title="Collapse: How Societies Choose to Fail or Succeed">Collapse: How Societies Choose to Fail or Succeed</a></i>. England: Penguin Books. p. 575. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-14-303655-6" title="Special:BookSources/0-14-303655-6">0-14-303655-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Collapse%3A+How+Societies+Choose+to+Fail+or+Succeed&amp;rft.place=England&amp;rft.pages=575&amp;rft.pub=Penguin+Books&amp;rft.date=2005&amp;rft.isbn=0-14-303655-6&amp;rft.aulast=Diamond&amp;rft.aufirst=Jared&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcocide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Cherson, Adam (2009). <i>Ecocide: Humanity's Environmental Demons</i>. Greencore Books. p. 135. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-595-46318-3" title="Special:BookSources/978-0-595-46318-3">978-0-595-46318-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ecocide%3A+Humanity%27s+Environmental+Demons&amp;rft.pages=135&amp;rft.pub=Greencore+Books&amp;rft.date=2009&amp;rft.isbn=978-0-595-46318-3&amp;rft.aulast=Cherson&amp;rft.aufirst=Adam&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcocide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Higgins, Polly (2010). <i>Eradicating Ecocide: Laws and Governance to Prevent the Destruction of our Planet</i>. Shepheard-Walwyn. p. 202. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-85683-275-8" title="Special:BookSources/978-0-85683-275-8">978-0-85683-275-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Eradicating+Ecocide%3A+Laws+and+Governance+to+Prevent+the+Destruction+of+our+Planet&amp;rft.pages=202&amp;rft.pub=Shepheard-Walwyn&amp;rft.date=2010&amp;rft.isbn=978-0-85683-275-8&amp;rft.aulast=Higgins&amp;rft.aufirst=Polly&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcocide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecocide&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Ecocide" title="q:Special:Search/Ecocide">Ecocide</a></b></i></td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.endecocide.eu/" rel="nofollow">Official website of the European citizens' initiative</a></li>
+<li><a class="external text" href="http://www.storyofstuff.org/movies-all/story-of-stuff/" rel="nofollow">The story of stuff</a></li></ul>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a class="mw-selflink selflink">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Global_catastrophic_risks" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_catastrophic_risks" title="Template:Global catastrophic risks"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_catastrophic_risks" title="Template talk:Global catastrophic risks"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_catastrophic_risks&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_catastrophic_risks" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risks</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Future_of_the_Earth&amp;#10;*_Ultimate_fate_of_the_universe">
+<ul><li><a href="/wiki/Future_of_Earth" title="Future of Earth">Future of the Earth</a></li>
+<li><a href="/wiki/Ultimate_fate_of_the_universe" title="Ultimate fate of the universe">Ultimate fate of the universe</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grey_goo" title="Grey goo">Grey goo</a></li>
+<li><a href="/wiki/Kinetic_bombardment" title="Kinetic bombardment">Kinetic bombardment</a></li>
+<li><a href="/wiki/Mutual_assured_destruction" title="Mutual assured destruction">Mutual assured destruction</a>
+<ul><li><a href="/wiki/Dead_Hand" title="Dead Hand">Dead Hand</a></li>
+<li><a href="/wiki/Doomsday_device" title="Doomsday device">Doomsday device</a></li></ul></li>
+<li><a href="/wiki/Synthetic_intelligence" title="Synthetic intelligence">Synthetic intelligence</a> / <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a>
+<ul><li><a href="/wiki/Existential_risk_from_artificial_general_intelligence" title="Existential risk from artificial general intelligence">Existential risk from artificial intelligence</a></li>
+<li><a href="/wiki/AI_takeover" title="AI takeover">AI takeover</a></li></ul></li>
+<li><a href="/wiki/Technological_singularity" title="Technological singularity">Technological singularity</a></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sociological</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li>
+<li><a href="/wiki/New_World_Order_(conspiracy_theory)" title="New World Order (conspiracy theory)">New World Order (conspiracy theory)</a></li>
+<li><a href="/wiki/Nuclear_holocaust" title="Nuclear holocaust">Nuclear holocaust</a>
+<ul><li><a href="/wiki/Nuclear_winter" title="Nuclear winter">winter</a></li>
+<li><a href="/wiki/Nuclear_famine" title="Nuclear famine">famine</a></li>
+<li><a href="/wiki/Cobalt_bomb" title="Cobalt bomb">cobalt</a></li></ul></li>
+<li><a href="/wiki/Societal_collapse" title="Societal collapse">Societal collapse</a></li>
+<li><a href="/wiki/World_War_III" title="World War III">World War III</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ecological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Climate_change" title="Climate change">Climate change</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a>
+<ul><li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li></ul></li>
+<li><a href="/wiki/Global_terrestrial_stilling" title="Global terrestrial stilling">Global terrestrial stilling</a></li>
+<li><a href="/wiki/Ice_age" title="Ice age">Ice age</a></li>
+<li><a class="mw-selflink selflink">Ecocide</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a><br/></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Overpopulation" title="Overpopulation">Overpopulation</a>
+<ul><li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Human overpopulation</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Biological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Extinction" title="Extinction">Extinction</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Extinction_event" title="Extinction event">Extinction event</a></li>
+<li><a href="/wiki/Human_extinction" title="Human extinction">Human extinction</a></li>
+<li><a href="/wiki/Genetic_erosion" title="Genetic erosion">Genetic erosion</a></li>
+<li><a href="/wiki/Genetic_pollution" title="Genetic pollution">Genetic pollution</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dysgenics" title="Dysgenics">Dysgenics</a></li>
+<li><a href="/wiki/Pandemic" title="Pandemic">Pandemic</a>
+<ul><li><a href="/wiki/Biological_agent" title="Biological agent">Biological agent</a></li></ul></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Physical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Big_Crunch" title="Big Crunch">Big Crunch</a></li>
+<li><a href="/wiki/Big_Rip" title="Big Rip">Big Rip</a></li>
+<li><a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">Coronal mass ejection</a></li>
+<li><a href="/wiki/Gamma-ray_burst" title="Gamma-ray burst">Gamma-ray burst</a></li>
+<li><a href="/wiki/Hypercane" title="Hypercane">Hypercane</a></li>
+<li><a href="/wiki/Impact_event" title="Impact event">Impact event</a>
+<ul><li><a href="/wiki/Asteroid_impact_avoidance" title="Asteroid impact avoidance">Asteroid impact avoidance</a></li>
+<li><a href="/wiki/Potentially_hazardous_object" title="Potentially hazardous object">Potentially hazardous object</a></li></ul></li>
+<li><a href="/wiki/Rogue_planet" title="Rogue planet">Rogue planet</a></li>
+<li><a href="/wiki/Solar_flare" title="Solar flare">Solar flare</a></li>
+<li><a href="/wiki/Supervolcano" title="Supervolcano">Supervolcano</a>
+<ul><li><a href="/wiki/Volcanic_winter" title="Volcanic winter">winter</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mythological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Eschatology" title="Eschatology">Eschatology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buddhist_eschatology" title="Buddhist eschatology">Buddhist</a></li>
+<li><a href="/wiki/Hindu_eschatology" title="Hindu eschatology">Hindu</a></li>
+<li><a href="/wiki/Last_Judgment" title="Last Judgment">Last Judgment</a>
+<ul><li><a href="/wiki/Christian_eschatology" title="Christian eschatology">Christian</a>
+<ul><li><a href="/wiki/Book_of_Revelation" title="Book of Revelation">Book of Revelation</a></li></ul></li>
+<li><a href="/wiki/Islamic_eschatology" title="Islamic eschatology">Islamic</a></li>
+<li><a href="/wiki/Jewish_eschatology" title="Jewish eschatology">Jewish</a></li></ul></li>
+<li><a href="/wiki/Ragnar%C3%B6k" title="Ragnarök">Norse</a></li>
+<li><a href="/wiki/Frashokereti" title="Frashokereti">Zoroastrian</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2011_end_times_prediction" title="2011 end times prediction">2011 end times prediction</a></li>
+<li><a href="/wiki/2012_phenomenon" title="2012 phenomenon">2012 phenomenon</a></li>
+<li><a href="/wiki/Apocalypse" title="Apocalypse">Apocalypse</a></li>
+<li><a href="/wiki/Armageddon" title="Armageddon">Armageddon</a></li>
+<li><a href="/wiki/Blood_moon_prophecy" title="Blood moon prophecy">Blood moon prophecy</a></li>
+<li><a href="/wiki/Doomsday_Clock" title="Doomsday Clock">Doomsday Clock</a></li>
+<li><a href="/wiki/End_time" title="End time">End time</a></li>
+<li><a href="/wiki/List_of_dates_predicted_for_apocalyptic_events" title="List of dates predicted for apocalyptic events">List of dates predicted for apocalyptic events</a></li>
+<li><a href="/wiki/Nibiru_cataclysm" title="Nibiru cataclysm">Nibiru cataclysm</a></li>
+<li><a href="/wiki/Rapture" title="Rapture">Rapture</a></li>
+<li><a href="/wiki/Revelation_12_sign_prophecy" title="Revelation 12 sign prophecy">Revelation 12 sign prophecy</a></li>
+<li><a href="/wiki/Third_Temple" title="Third Temple">Third Temple</a></li>
+<li><a href="/wiki/Year_2000_problem" title="Year 2000 problem">Year 2000 problem</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fictional</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alien_invasion" title="Alien invasion">Alien invasion</a></li>
+<li><a href="/wiki/Apocalyptic_and_post-apocalyptic_fiction" title="Apocalyptic and post-apocalyptic fiction">Apocalyptic and post-apocalyptic fiction</a>
+<ul><li><a href="/wiki/List_of_apocalyptic_and_post-apocalyptic_fiction" title="List of apocalyptic and post-apocalyptic fiction">List of apocalyptic and post-apocalyptic fiction</a></li>
+<li><a href="/wiki/List_of_apocalyptic_films" title="List of apocalyptic films">List of apocalyptic films</a></li></ul></li>
+<li><a href="/wiki/Disaster_film" title="Disaster film">Disaster films</a>
+<ul><li><a href="/wiki/List_of_disaster_films" title="List of disaster films">List of disaster films</a></li></ul></li>
+<li><a href="/wiki/List_of_fictional_doomsday_devices" title="List of fictional doomsday devices">List of fictional doomsday devices</a></li>
+<li><a href="/wiki/Zombie_apocalypse" title="Zombie apocalypse">Zombie apocalypse</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> Categories
+<ul><li><a href="/wiki/Category:Apocalypticism" title="Category:Apocalypticism">Apocalypticism</a></li>
+<li><a href="/wiki/Category:Future_problems" title="Category:Future problems">Future problems</a></li>
+<li><a href="/wiki/Category:Hazards" title="Category:Hazards">Hazards</a></li>
+<li><a href="/wiki/Category:Risk_analysis" title="Category:Risk analysis">Risk analysis</a></li>
+<li><a href="/wiki/Category:Doomsday_scenarios" title="Category:Doomsday scenarios">Doomsday scenarios</a></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Human_impact_on_the_environment" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Human_impact_on_the_environment" title="Template:Human impact on the environment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Human_impact_on_the_environment" title="Template talk:Human impact on the environment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Human_impact_on_the_environment&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Human_impact_on_the_environment" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_issue" title="Environmental issue">Environmental issues</a>
+<ul><li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">List of issues</a></li></ul></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Impact assessment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Planetary_boundaries.svg" title="Planetary boundaries"><img alt="Planetary boundaries" data-file-height="1163" data-file-width="1417" height="115" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/140px-Planetary_boundaries.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/210px-Planetary_boundaries.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/280px-Planetary_boundaries.svg.png 2x" width="140"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Causes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">Agriculture</a>
+<ul><li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_meat_production" title="Environmental impact of meat production">meat production</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_cocoa_production" title="Environmental impact of cocoa production">cocoa production</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">palm oil</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">Energy industry</a>
+<ul><li><a href="/wiki/Indirect_land_use_change_impacts_of_biofuels" title="Indirect land use change impacts of biofuels">biofuels</a></li>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_coal_industry" title="Environmental impact of the coal industry">coal</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_nuclear_power" title="Environmental impact of nuclear power">nuclear power</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">oil shale</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">petroleum</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_wind_power" title="Environmental impact of wind power">wind power</a></li></ul></li>
+<li><a href="/wiki/Genetic_pollution" title="Genetic pollution">Genetic pollution</a></li>
+<li><a class="mw-redirect" href="/wiki/Industrialization" title="Industrialization">Industrialization</a></li>
+<li><a href="/wiki/Land_use#Environment" title="Land use">Land use</a></li>
+<li><a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a>
+<ul><li><a href="/wiki/Environmental_impact_of_cleaning_agents" title="Environmental impact of cleaning agents">cleaning agents</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">concrete</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_plastics" title="Environmental impact of plastics">plastics</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_nanotechnology" title="Environmental impact of nanotechnology">nanotechnology</a></li>
+<li><a href="/wiki/Environmental_impact_of_paint" title="Environmental impact of paint">paint</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_pesticides" title="Environmental impact of pesticides">pesticides</a></li>
+<li><a href="/wiki/Environmental_impact_of_pharmaceuticals_and_personal_care_products" title="Environmental impact of pharmaceuticals and personal care products">pharmaceuticals and personal care</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">Mining</a></li>
+<li><a href="/wiki/Overdrafting" title="Overdrafting">Overdrafting</a></li>
+<li><a href="/wiki/Overfishing" title="Overfishing">Overfishing</a></li>
+<li><a href="/wiki/Overgrazing" title="Overgrazing">Overgrazing</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Particulates" title="Particulates">Particulates</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Quarry" title="Quarry">Quarrying</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">Reservoirs</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_tourism" title="Environmental impact of tourism">Tourism</a></li>
+<li><a href="/wiki/Environmental_impact_of_transport" title="Environmental impact of transport">Transport</a>
+<ul><li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">aviation</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_roads" title="Environmental impact of roads">roads</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">shipping</a></li></ul></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>
+<ul><li><a href="/wiki/Urban_sprawl" title="Urban sprawl">urban sprawl</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">war</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Effects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Biodiversity_threats" title="Biodiversity threats">Biodiversity threats</a>
+<ul><li><a href="/wiki/Biodiversity_loss" title="Biodiversity loss">Biodiversity loss</a></li></ul></li>
+<li><a href="/wiki/Climate_change" title="Climate change">Climate change</a>
+<ul><li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li></ul></li>
+<li><a href="/wiki/Environmental_issues_with_coral_reefs" title="Environmental issues with coral reefs">Coral reefs</a></li>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Defaunation" title="Defaunation">Defaunation</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a class="mw-selflink selflink">Ecocide</a></li>
+<li><a href="/wiki/Erosion" title="Erosion">Erosion</a></li>
+<li><a href="/wiki/Environmental_degradation" title="Environmental degradation">Environmental degradation</a></li>
+<li><a class="mw-redirect" href="/wiki/Freshwater_cycle" title="Freshwater cycle">Freshwater cycle</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_impact_on_the_nitrogen_cycle" title="Human impact on the nitrogen cycle">Nitrogen cycle</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_surface_effects_on_climate" title="Land surface effects on climate">Land surface effects on climate</a></li>
+<li><a href="/wiki/Green_belt" title="Green belt">Loss of green belts</a></li>
+<li><a href="/wiki/Phosphorus_cycle#Human_influences" title="Phosphorus cycle">Phosphorus cycle</a></li>
+<li><a href="/wiki/Ocean_acidification#Possible_impacts" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Resource depletion</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_degradation" title="Water degradation">Water degradation</a></li>
+<li><a href="/wiki/Water_scarcity" title="Water scarcity">Water scarcity</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mitigation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Ecological_engineering" title="Ecological engineering">Ecological engineering</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_mitigation" title="Environmental mitigation">Environmental mitigation</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Mitigation_banking" title="Mitigation banking">Mitigation banking</a></li>
+<li><a href="/wiki/Organic_farming" title="Organic farming">Organic farming</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a>
+<ul><li><a href="/wiki/Urban_reforestation" title="Urban reforestation">urban</a></li></ul></li>
+<li><a href="/wiki/Restoration_ecology" title="Restoration ecology">Restoration ecology</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable consumption</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimization</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li> <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Environmental_impact" title="commons:Category:Environmental impact">Commons</a></b></li>
+<li> <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_impact_by_source" title="Category:Environmental impact by source">Category</a></li>
+<li><a href="/wiki/Category:Environmental_impact_by_country" title="Category:Environmental impact by country">by country</a></li>
+<li><a href="/wiki/Category:Environmental_impact_assessment" title="Category:Environmental impact assessment">assessment</a></li>
+<li><a href="/wiki/Category:Environmental_mitigation" title="Category:Environmental mitigation">mitigation</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20181031072450
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.608 seconds
+Real time usage: 0.724 seconds
+Preprocessor visited node count: 2601/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 178416/2097152 bytes
+Template argument size: 894/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 96522/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.272/10.000 seconds
+Lua memory usage: 6.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  514.898      1 -total
+ 54.71%  281.677      1 Template:Reflist
+ 19.95%  102.736     25 Template:Cite_web
+ 16.26%   83.746      1 Template:Cite_journal
+ 12.16%   62.606      1 Template:Underlinked
+ 10.80%   55.613      1 Template:Global_warming
+ 10.05%   51.727      1 Template:Navbox_with_collapsible_groups
+  7.82%   40.266      1 Template:Ambox
+  7.38%   37.992     11 Template:Navbox
+  5.33%   27.442      1 Template:ISBN
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14513725-0!canonical and timestamp 20181031072449 and revision id 866402876
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ecocide&amp;oldid=866402876">https://en.wikipedia.org/w/index.php?title=Ecocide&amp;oldid=866402876</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_issues" title="Category:Environmental issues">Environmental issues</a></li><li><a href="/wiki/Category:Theories_of_law" title="Category:Theories of law">Theories of law</a></li><li><a href="/wiki/Category:Doomsday_scenarios" title="Category:Doomsday scenarios">Doomsday scenarios</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_too_few_wikilinks_from_June_2018" title="Category:Articles with too few wikilinks from June 2018">Articles with too few wikilinks from June 2018</a></li><li><a href="/wiki/Category:All_articles_with_too_few_wikilinks" title="Category:All articles with too few wikilinks">All articles with too few wikilinks</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_June_2018" title="Category:Articles covered by WikiProject Wikify from June 2018">Articles covered by WikiProject Wikify from June 2018</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ecocide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ecocide" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Ecocide" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Ecocide" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Ecocide">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Ecocide&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Ecocide&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Ecocide" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Ecocide" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ecocide&amp;oldid=866402876" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ecocide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q296486" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ecocide&amp;id=866402876" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ecocide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ecocide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Ecocide&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Ecocide" hreflang="en">Wikiquote</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Ekosid" hreflang="az" lang="az" title="Ekosid – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Ecocidi" hreflang="ca" lang="ca" title="Ecocidi – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/%C3%96kozid" hreflang="de" lang="de" title="Ökozid – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ecocidio" hreflang="es" lang="es" title="Ecocidio – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Ekozidio" hreflang="eu" lang="eu" title="Ekozidio – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89cocide" hreflang="fr" lang="fr" title="Écocide – French">Français</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Ekocid" hreflang="hr" lang="hr" title="Ekocid – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%95%D7%A1%D7%99%D7%99%D7%93" hreflang="he" lang="he" title="אקוסייד – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Ekocidas" hreflang="lt" lang="lt" title="Ekocidas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D1%86%D0%B8%D0%B4" hreflang="mk" lang="mk" title="Екоцид – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Ecoc%C3%ADdio" hreflang="pt" lang="pt" title="Ecocídio – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D1%86%D0%B8%D0%B4" hreflang="ru" lang="ru" title="Экоцид – Russian">Русский</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Ekocid" hreflang="sh" lang="sh" title="Ekocid – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D1%86%D0%B8%D0%B4" hreflang="uk" lang="uk" title="Екоцид – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q296486#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 October 2018, at 03:06<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Ecocide&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.608","walltime":"0.724","ppvisitednodes":{"value":2601,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":178416,"limit":2097152},"templateargumentsize":{"value":894,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":96522,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  514.898      1 -total"," 54.71%  281.677      1 Template:Reflist"," 19.95%  102.736     25 Template:Cite_web"," 16.26%   83.746      1 Template:Cite_journal"," 12.16%   62.606      1 Template:Underlinked"," 10.80%   55.613      1 Template:Global_warming"," 10.05%   51.727      1 Template:Navbox_with_collapsible_groups","  7.82%   40.266      1 Template:Ambox","  7.38%   37.992     11 Template:Navbox","  5.33%   27.442      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.272","limit":"10.000"},"limitreport-memusage":{"value":6736061,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20181031072450","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1244"});});</script>
+</body>
+</html>

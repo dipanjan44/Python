@@ -1,0 +1,850 @@
+https://en.wikipedia.org/wiki/Environmental_ethics
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Environmental ethics - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Environmental_ethics","wgTitle":"Environmental ethics","wgCurRevisionId":856199494,"wgRevisionId":856199494,"wgArticleId":171964,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from July 2008","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from May 2014","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Articles containing video clips","Environmental ethics","Relational ethics","Spinoza studies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Environmental_ethics","wgRelevantArticleId":171964,"wgRequestId":"W9cU3gpAMFcAAJUrzooAAADB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q875686","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Environmental_ethics" rel="alternate"/>
+<link href="/w/index.php?title=Environmental_ethics&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Environmental_ethics&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Environmental_ethics" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Environmental_ethics rootpage-Environmental_ethics skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Environmental ethics</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the academic journal, see <a href="/wiki/Environmental_Ethics_(journal)" title="Environmental Ethics (journal)">Environmental Ethics (journal)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(July 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Environmental ethics</b> is the part of <a href="/wiki/Environmental_philosophy" title="Environmental philosophy">environmental philosophy</a> which considers extending the traditional boundaries of ethics from solely including humans to including the non-human world. It exerts influence on a large range of disciplines including <a href="/wiki/Environmental_law" title="Environmental law">environmental law</a>, <a href="/wiki/Environmental_sociology" title="Environmental sociology">environmental sociology</a>, <a href="/wiki/Ecotheology" title="Ecotheology">ecotheology</a>, <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a>, <a href="/wiki/Ecology" title="Ecology">ecology</a> and <a href="/wiki/Integrated_geography" title="Integrated geography">environmental geography</a>.
+</p><p>There are many ethical decisions that human beings make with respect to the environment. For example:
+</p>
+<ul><li>Should humans continue to <a href="/wiki/Clearcutting" title="Clearcutting">clear cut</a> forests for the sake of human consumption?</li>
+<li>Why should humans continue to propagate its species, and life itself? <sup class="reference" id="cite_ref-Bioethics_1-0"><a href="#cite_note-Bioethics-1">[1]</a></sup></li>
+<li>Should humans continue to make <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">gasoline-powered vehicles</a>?</li>
+<li>What environmental obligations do humans need to keep for future generations?<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></li>
+<li>Is it right for humans to  knowingly cause the <a href="/wiki/Extinction" title="Extinction">extinction</a> of a species for the convenience of humanity?</li>
+<li>How should humans best use and conserve the space environment to secure and expand life?<sup class="reference" id="cite_ref-Seeding_Book_4-0"><a href="#cite_note-Seeding_Book-4">[4]</a></sup></li>
+<li>What role can Planetary Boundaries play in reshaping the human-earth relationship?<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></li></ul>
+<p>The academic field of environmental ethics grew up in response to the work of scientists such as <a href="/wiki/Rachel_Carson" title="Rachel Carson">Rachel Carson</a> and events such as the first <a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a> in 1970, when environmentalists started urging philosophers to consider the philosophical aspects of environmental problems. Two papers published in <i>Science</i> had a crucial impact: <a href="/wiki/Lynn_Townsend_White_Jr." title="Lynn Townsend White Jr.">Lynn White</a>'s "The Historical Roots of our Ecologic Crisis" (March 1967)<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> and <a href="/wiki/Garrett_Hardin" title="Garrett Hardin">Garrett Hardin</a>'s "The Tragedy of the Commons" (December 1968).<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Also influential was Garett Hardin's later essay called "Exploring New Ethics for Survival", as well as an essay by <a href="/wiki/Aldo_Leopold" title="Aldo Leopold">Aldo Leopold</a> in his <i><a href="/wiki/A_Sand_County_Almanac" title="A Sand County Almanac">A Sand County Almanac</a></i>, called "The Land Ethic," in which Leopold explicitly claimed that the roots of the ecological crisis were philosophical (1949).<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p>The first international academic journals in this field emerged from North America in the late 1970s and early 1980s – the US-based journal <i><a href="/wiki/Environmental_Ethics_(journal)" title="Environmental Ethics (journal)">Environmental Ethics</a></i> in 1979 and the Canadian-based journal <i><a class="new" href="/w/index.php?title=The_Trumpeter:_Journal_of_Ecosophy&amp;action=edit&amp;redlink=1" title="The Trumpeter: Journal of Ecosophy (page does not exist)">The Trumpeter: Journal of Ecosophy</a></i> in 1983. The first British based journal of this kind, <i><a href="/wiki/Environmental_Values" title="Environmental Values">Environmental Values</a></i>, was launched in 1992.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Marshall's_categories"><span class="tocnumber">1</span> <span class="toctext">Marshall's categories</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Libertarian_extension"><span class="tocnumber">1.1</span> <span class="toctext">Libertarian extension</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Ecologic_extension"><span class="tocnumber">1.2</span> <span class="toctext">Ecologic extension</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Conservation_ethics"><span class="tocnumber">1.3</span> <span class="toctext">Conservation ethics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Humanist_theories"><span class="tocnumber">2</span> <span class="toctext">Humanist theories</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Applied_theology"><span class="tocnumber">3</span> <span class="toctext">Applied theology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Anthropocentrism"><span class="tocnumber">4</span> <span class="toctext">Anthropocentrism</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Status_of_the_field"><span class="tocnumber">5</span> <span class="toctext">Status of the field</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span id="Marshall.27s_categories"></span><span class="mw-headline" id="Marshall's_categories">Marshall's categories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=1" title="Edit section: Marshall's categories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some scholars have tried to categorise the various ways the natural environment is valued. <a href="/wiki/Alan_Marshall_(New_Zealand_author)" title="Alan Marshall (New Zealand author)">Alan Marshall</a> and <a href="/wiki/Michael_A._Smith" title="Michael A. Smith">Michael Smith</a> are two examples of this, as cited by <a href="/wiki/Peter_Vardy_(theologian)" title="Peter Vardy (theologian)">Peter Vardy</a> in "The Puzzle of Ethics".<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> According to Marshall, three general ethical approaches have emerged over the last 40 years: Libertarian Extension, the Ecologic Extension and Conservation Ethics.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Libertarian_extension">Libertarian extension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=2" title="Edit section: Libertarian extension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Marshall’s Libertarian extension echoes a civil liberty approach (i.e. a commitment to extend equal rights to all members of a community). In environmentalism, though, the community is generally thought to consist of non-humans as well as humans.
+</p><p>Andrew Brennan was an advocate of ecologic humanism (eco-humanism), the argument that all ontological entities, animate and in-animate, can be given ethical worth purely on the basis that they exist. The work of <a href="/wiki/Arne_N%C3%A6ss" title="Arne Næss">Arne Næss</a> and his collaborator Sessions also falls under the libertarian extension, although they preferred the term "<a href="/wiki/Deep_ecology" title="Deep ecology">deep ecology</a>". Deep ecology is the argument for the intrinsic value or inherent worth of the environment – the view that it is valuable in itself. Their argument, incidentally, falls under both the libertarian extension and the ecologic extension.
+</p><p><a href="/wiki/Peter_Singer" title="Peter Singer">Peter Singer</a>'s work can be categorized under Marshall's 'libertarian extension'. He reasoned that the "expanding circle of moral worth" should be redrawn to include the rights of non-human animals, and to not do so would be guilty of <a href="/wiki/Speciesism" title="Speciesism">speciesism</a>. Singer found it difficult to accept the argument from intrinsic worth of a-biotic or "non-sentient" (non-conscious) entities, and concluded in his first edition of "Practical Ethics" that they should not be included in the expanding circle of moral worth.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> This approach is essentially then, bio-centric. However, in a later edition of "Practical Ethics" after the work of Næss and Sessions, Singer admits that, although unconvinced by deep ecology, the argument from intrinsic value of non-sentient entities is plausible, but at best problematic. Singer advocated a humanist ethics.
+</p>
+<h3><span class="mw-headline" id="Ecologic_extension">Ecologic extension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=3" title="Edit section: Ecologic extension">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Alan Marshall's category of ecologic extension places emphasis not on
+human rights but on the recognition of the fundamental interdependence 
+of all biological (and some abiological) entities and their essential 
+diversity. Whereas Libertarian Extension can be thought of as flowing 
+from a political reflection of the natural world, ecologic extension is 
+best thought of as a scientific reflection of the natural world. 
+Ecological Extension is roughly the same classification of Smith's 
+eco-holism, and it argues for the intrinsic value inherent in collective
+ecological entities like ecosystems or the global environment as a 
+whole entity. Holmes Rolston, among others, has taken this approach.
+</p><p>This category might include <a href="/wiki/James_Lovelock" title="James Lovelock">James Lovelock</a>'s <a href="/wiki/Gaia_hypothesis" title="Gaia hypothesis">Gaia hypothesis</a>; the theory that the planet earth alters its geo-physiological structure over time in order to ensure the continuation of an equilibrium of evolving organic and inorganic matter. The planet is characterized as a unified, <a href="/wiki/Holism" title="Holism">holistic</a> entity with ethical worth of which the human race is of no particular significance in the long run.
+</p>
+<h3><span class="mw-headline" id="Conservation_ethics">Conservation ethics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=4" title="Edit section: Conservation ethics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Marshall's category of 'conservation ethics' is an extension of use-value into the non-human biological world. It focuses only on the worth of the environment in terms of its utility or usefulness to humans. It contrasts the intrinsic value ideas of 'deep ecology', hence is often referred to as 'shallow ecology', and generally argues for the preservation of the environment on the basis that it has extrinsic value – instrumental to the welfare of human beings. Conservation is therefore a means to an end and purely concerned with mankind and inter-generational considerations. It could be argued that it is this ethic that formed the underlying arguments proposed by Governments at the <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto summit</a> in 1997 and three agreements reached in Rio in 1992.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Humanist_theories">Humanist theories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=5" title="Edit section: Humanist theories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Peter Singer advocated the preservation of "world heritage sites," unspoilt parts of the world that acquire a "scarcity value" as they diminish over time. Their preservation is a bequest for future generations as they have been inherited from human's ancestors and should be passed down to future generations so they can have the opportunity to decide whether to enjoy unspoilt countryside or an entirely urban landscape. A good example of a world heritage site would be the tropical rainforest, a very specialist ecosystem that has taken centuries to evolve. Clearing the rainforest for farmland often fails due to soil conditions, and once disturbed, can take thousands of years to regenerate.
+</p>
+<h2><span class="mw-headline" id="Applied_theology">Applied theology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=6" title="Edit section: Applied theology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:262px;"><div class="PopUpMediaTransform" id="mwe_player_0" style="width:260px;" videopayload='&lt;div class="mediaContainer" style="width:640px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/640px--One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.jpg" controls="" preload="none" autoplay="" style="width:640px;height:360px" class="kskin" data-durationhint="404.835" data-startoffset="0" data-mwtitle="One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="581616" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.360p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9 (360P)" data-shorttitle="VP9 360P" data-transcodekey="360p.vp9.webm" data-width="640" data-height="360" data-bandwidth="718112" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Original WebM file, 640 × 360 (887 kbps)" data-shorttitle="WebM source" data-width="640" data-height="360" data-bandwidth="886579" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.120p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Lowest bandwidth VP9 (120P)" data-shorttitle="VP9 120P" data-transcodekey="120p.vp9.webm" data-width="214" data-height="120" data-bandwidth="198880" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="217792" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.180p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Low bandwidth VP9 (180P)" data-shorttitle="VP9 180P" data-transcodekey="180p.vp9.webm" data-width="320" data-height="180" data-bandwidth="278760" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="340200" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.240p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Small VP9 (240P)" data-shorttitle="VP9 240P" data-transcodekey="240p.vp9.webm" data-width="426" data-height="240" data-bandwidth="398624" data-framerate="25"/&gt;&lt;track src="https://commons.wikimedia.org/w/index.php?title=TimedText:One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.en.srt&amp;amp;action=raw&amp;amp;ctype=text%2Fx-srt" kind="subtitles" type="text/x-srt" srclang="en" label="English (en) subtitles" data-mwtitle="TimedText:One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.en.srt" data-mwprovider="wikimediacommons" data-dir="ltr"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:One Earth one family - Interfaith march in Rome to call for climate action.webm" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm/260px-seek%3D353-One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm.jpg" style="width:260px;height:146px"/><a href="//upload.wikimedia.org/wikipedia/commons/9/92/One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:One_Earth_one_family_-_Interfaith_march_in_Rome_to_call_for_climate_action.webm" title="Enlarge"></a></div>Pope Francis’s environmental encyclical <a href="/wiki/Laudato_si%27" title="Laudato si'">Laudato si'</a> has been welcomed by many environmental organisations of different faiths  - Interfaith march in Rome to call for climate action</div></div></div>
+<p>The Christian world view sees the universe as created by God, and humankind accountable to God for the use of the resources entrusted to humankind. Ultimate values are seen in the light of being valuable to God.  This applies both in breadth of scope -  caring for people (Matthew 25) and environmental issues, e.g. environmental health (Deuteronomy 22.8; 23.12-14) - and dynamic motivation,  the love of Christ controlling (2 Corinthians 5.14f) and dealing with the underlying spiritual disease of sin, which shows itself in selfishness and thoughtlessness. In many countries this relationship of accountability is symbolised at harvest thanksgiving. (B.T. Adeney : Global Ethics in New Dictionary of Christian Ethics and Pastoral Theology 1995 Leicester)
+</p><p>Abrahamic religious scholars have used theology to motivate the public. <a href="/wiki/John_L._O%27Sullivan" title="John L. O'Sullivan">John L. O'Sullivan</a>, who coined the term <a href="/wiki/Manifest_destiny" title="Manifest destiny">Manifest destiny</a>, and other influential people like him used Abrahamic ideologies to encourage action. These religious scholars, columnists and politicians historically have used these ideas and continue to do so to justify the consumptive tendencies of a young America around the time of the <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a>. In order to solidify the understanding that God had intended for humankind to use earths natural resources, environmental writers and religious scholars alike proclaimed that humans are separate from nature, on a higher order.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> Those that may critique this point of view may ask the same question that John Muir asks ironically in a section of his novel <i>A Thousand Mile Walk to the Gulf</i>, <i>why are there so many dangers in the natural world in the form of poisonous plants, animals and natural disasters</i>, The answer is that those creatures are a result of <a href="/wiki/Adam_and_Eve" title="Adam and Eve">Adam and Eve</a>'s sins in the garden of Eden.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>Since the turn of the 20th century, the application of theology in environmentalism diverged into two schools of thought. The first system of understanding holds religion as the basis of environmental stewardship. The second sees the use of theology as a means to rationalize the unmanaged consumptions of natural resources. <a href="/wiki/Lynn_Townsend_White_Jr." title="Lynn Townsend White Jr.">Lynn White</a> and Calvin DeWitt represent each side of this dichotomy.
+</p><p><a href="/wiki/John_Muir" title="John Muir">John Muir</a> personified nature as an inviting place away from the loudness of urban centers. "For Muir and the growing number of Americans who shared his views, Satan's home had become God's Own Temple."<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> The use of Abrahamic religious allusions assisted Muir and the <a href="/wiki/Sierra_Club" title="Sierra Club">Sierra Club</a> to create support for some of the first public nature preserves.
+</p><p>Authors like Terry Tempest Williams as well as John Muir build on the idea that "...God can be found wherever you are, especially outside. Family worship was not just relegated to Sunday in a chapel."<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> References like these assist the general public to make a connection between paintings done at the <a href="/wiki/Hudson_River_School" title="Hudson River School">Hudson River School</a>, <a href="/wiki/Ansel_Adams" title="Ansel Adams">Ansel Adams</a>' photographs, along with other types of media, and their religion or spirituality. Placing intrinsic value upon nature through theology is a fundamental idea of <a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a>.
+</p>
+<h2><span class="mw-headline" id="Anthropocentrism">Anthropocentrism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=7" title="Edit section: Anthropocentrism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Anthropocentrism" title="Anthropocentrism">Anthropocentrism</a></div>
+<p>Anthropocentrism is the position that humans are the most important or critical element in any given situation; that the human race must always be its own primary concern. Detractors of anthropocentrism argue that the Western tradition biases homo sapiens when considering the environmental ethics of a situation and that humans evaluate their environment or other organisms in terms of the utility for them (see <a href="/wiki/Speciesism" title="Speciesism">speciesism</a>). Many argue that all environmental studies should include an assessment of the intrinsic value of non-human beings.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> In fact, based on this very assumption, a philosophical article has explored recently the possibility of humans' willing extinction as a gesture toward other beings.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> The authors refer to the idea as a <a href="/wiki/Thought_experiment" title="Thought experiment">thought experiment</a> that should not be understood as a call for action.
+</p><p><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Baruch Spinoza</a> reasoned that if humans were to look at things objectively, they would discover that everything in the universe has a unique value. Likewise, it is possible that a human-centred or anthropocentric/androcentric ethic is not an accurate depiction of reality, and there is a bigger picture that humans may or may not be able to understand from a human perspective.
+</p><p><a href="/wiki/Peter_Vardy_(theologian)" title="Peter Vardy (theologian)">Peter Vardy</a> distinguished between two types of anthropocentrism.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> A strong anthropocentric ethic argues that humans are at the center of reality and it is right for them to be so. Weak anthropocentrism, however, argues that reality can only be interpreted from a human point of view, thus humans have to be at the centre of reality as they see it.
+</p><p>Another point of view has been developed by Bryan Norton, who has become one of the essential actors of environmental ethics by launching environmental pragmatism, now one of its leading trends. Environmental pragmatism refuses to take a stance in disputes between defenders of anthropocentrist and non-anthropocentrist ethics. Instead, Norton distinguishes between <i>strong anthropocentrism</i> and <i>weak-or-extended-anthropocentrism</i> and argues that the former  must underestimate the diversity of instrumental values humans may derive from the natural world.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p><p>A recent view relates anthropocentrism to the future of life. <a href="/wiki/Biotic_ethics" title="Biotic ethics">Biotic ethics</a> are based on the human identity as part of gene/protein organic life whose effective purpose is self-propagation. This implies a human purpose to secure and propagate life.<sup class="reference" id="cite_ref-Bioethics_1-1"><a href="#cite_note-Bioethics-1">[1]</a></sup><sup class="reference" id="cite_ref-Seeding_Book_4-1"><a href="#cite_note-Seeding_Book-4">[4]</a></sup> Humans are central because only they can secure life beyond the duration of the Sun, possibly for trillions of eons.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> <a href="/wiki/Biotic_ethics" title="Biotic ethics">Biotic ethics</a> values life itself, as embodied in biological structures and processes. Humans are special because they can secure the future of life on cosmological scales. In particular, humans can continue sentient life that enjoys its existence, adding further motivation to propagate life. Humans can secure the future of  life, and this future can give human existence a cosmic purpose.<sup class="reference" id="cite_ref-Bioethics_1-2"><a href="#cite_note-Bioethics-1">[1]</a></sup><sup class="reference" id="cite_ref-Seeding_Book_4-2"><a href="#cite_note-Seeding_Book-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Status_of_the_field">Status of the field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=8" title="Edit section: Status of the field">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Only after 1990 did the field gain institutional recognition at programs such as <a href="/wiki/Colorado_State_University" title="Colorado State University">Colorado State University</a>, the <a href="/wiki/University_of_Montana" title="University of Montana">University of Montana</a>, <a href="/wiki/Bowling_Green_State_University" title="Bowling Green State University">Bowling Green State University</a>, and the <a href="/wiki/University_of_North_Texas" title="University of North Texas">University of North Texas</a>. In 1991, <a href="/wiki/Schumacher_College" title="Schumacher College">Schumacher College</a> of <a href="/wiki/Dartington" title="Dartington">Dartington</a>, England, was founded and now provides an MSc in Holistic Science.
+</p><p>These programs began to offer a master's degree with a specialty in environmental ethics/philosophy. Beginning in 2005 the Department of Philosophy and Religion Studies at the <a href="/wiki/University_of_North_Texas" title="University of North Texas">University of North Texas</a> offered a PhD program with a concentration in environmental ethics/philosophy.
+</p><p>In Germany, the <a href="/wiki/University_of_Greifswald" title="University of Greifswald">University of Greifswald</a> has recently established an international program in Landscape Ecology &amp; Nature Conservation with a strong focus on environmental ethics. In 2009, the <a href="/wiki/Ludwig_Maximilian_University_of_Munich" title="Ludwig Maximilian University of Munich">University of Munich</a> and <a href="/wiki/Deutsches_Museum" title="Deutsches Museum">Deutsches Museum</a> founded the <a href="/wiki/Rachel_Carson_Center_for_Environment_and_Society" title="Rachel Carson Center for Environment and Society">Rachel Carson Center for Environment and Society</a>, an international, interdisciplinary center for research and education in the environmental humanities.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Anarcho-primitivism" title="Anarcho-primitivism">Anarcho-primitivism</a></li>
+<li><a href="/wiki/Biocentrism_(ethics)" title="Biocentrism (ethics)">Biocentrism</a></li>
+<li><a href="/wiki/Bioethics" title="Bioethics">Bioethics</a></li>
+<li><a href="/wiki/Climate_ethics" title="Climate ethics">Climate ethics</a></li>
+<li><a class="mw-redirect" href="/wiki/Conservation_ethic" title="Conservation ethic">Conservation ethic</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Crop_art" title="Crop art">Crop art</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Earth_Economics" title="Earth Economics">Earth Economics</a> (policy think tank)</li>
+<li><a href="/wiki/Ecocentrism" title="Ecocentrism">Ecocentrism</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Ecofeminism</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/EcoQuest" title="EcoQuest">EcoQuest</a> (a series of two educational games)</li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_health_ethics" title="Environmental health ethics">Environmental health ethics</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental movement</a></li>
+<li><a href="/wiki/Environmental_organization" title="Environmental organization">Environmental organization</a></li>
+<li><a href="/wiki/Environmental_racism" title="Environmental racism">Environmental racism</a></li>
+<li><a href="/wiki/Environmental_resource_management" title="Environmental resource management">Environmental resource management</a></li>
+<li><a href="/wiki/Environmental_skepticism" title="Environmental skepticism">Environmental skepticism</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Environmental_virtue_ethics" title="Environmental virtue ethics">Environmental virtue ethics</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Hans_Jonas" title="Hans Jonas">Hans Jonas</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/List_of_environmental_philosophers" title="List of environmental philosophers">List of environmental philosophers</a></li>
+<li><a href="/wiki/Population_control" title="Population control">Population control</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Resource depletion</a></li>
+<li><a href="/wiki/Self-validating_reduction" title="Self-validating reduction">Self-validating reduction</a></li>
+<li><a href="/wiki/Solastalgia" title="Solastalgia">Solastalgia</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Terraforming" title="Terraforming">Terraforming</a></li>
+<li><a href="/wiki/Trail_ethics" title="Trail ethics">Trail ethics</a></li>
+<li><a href="/wiki/Van_Rensselaer_Potter" title="Van Rensselaer Potter">Van Rensselaer Potter</a></li></ul></div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Ip, King-Tak (2009). <i>Environmental Ethics: Intercultural Perspectives</i>. Rodopi. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9789042025950" title="Special:BookSources/9789042025950">9789042025950</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Environmental+Ethics%3A+Intercultural+Perspectives&amp;rft.pub=Rodopi&amp;rft.date=2009&amp;rft.isbn=9789042025950&amp;rft.aulast=Ip&amp;rft.aufirst=King-Tak&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+ethics"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li>Yunt, Jeremy D. 2017. <i>Faithful to Nature: Paul Tillich and the Spiritual Roots of Environmental Ethics</i>. Barred Owl Books.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_ethics&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="800" data-file-width="1000" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Wikiversity has learning resources about <i><b><a class="extiw" href="https://en.wikiversity.org/wiki/Topic:Climate_change" title="v:Topic:Climate change">Topic:Climate change</a></b></i></td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.drze.de/belit-1/search-2/quick-search/recherche.html?set_language=en" rel="nofollow">Bioethics Literature Database</a></li>
+<li><a class="external text" href="http://www.cep.unt.edu/novice.html" rel="nofollow">Brief History of Environmental Ethics</a></li>
+<li><a class="external text" href="http://www.drze.de/belit-1/bioethics-thesaurus?set_language=en&amp;la=en-" rel="nofollow">Thesaurus Ethics in the Life Sciences</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20070214014006/http://www.envirolink.org/newsearch.html?searchfor=ethics&amp;x=0&amp;y=0" rel="nofollow">EnviroLink Library: Environmental Ethics</a> - online resource for environmental ethics information</li>
+<li><a class="external text" href="https://www.envirolink.org/forum/" rel="nofollow">EnviroLink Forum - Environmental Ethics Discussion/Debate</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20090422180756/http://secure.pdcnet.org/pdc/bvdb.nsf/journal?openform&amp;journal=pdc_enviroethics" rel="nofollow"><i>Environmental Ethics</i> online (journal, 1979-present)</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20090727184416/http://www.ethicalarchitecture.co.uk/" rel="nofollow">Sustainable and Ethical Architecture Architectural Firm</a></li>
+<li><a class="external text" href="https://plato.stanford.edu/entries/ethics-environmental/" rel="nofollow">Stanford Encyclopedia of Philosophy</a></li>
+<li><a class="external text" href="http://www.iep.utm.edu/envi-eth/" rel="nofollow">Environmental Ethics</a> entry in the <i><a href="/wiki/Internet_Encyclopedia_of_Philosophy" title="Internet Encyclopedia of Philosophy">Internet Encyclopedia of Philosophy</a></i>.</li>
+<li><a class="external text" href="http://www.cep.unt.edu/" rel="nofollow">Center for Environmental Philosophy</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20101006043712/http://www.phil.unt.edu/" rel="nofollow">UNT Dept of Philosophy</a></li>
+<li><a class="external text" href="http://www.tyndale.ca/seminary/mtsmodular/reading-rooms/ethics/creation" rel="nofollow">Creation Care Reading Room</a>: Extensive online resources for environment and faith (Tyndale Seminary)</li>
+<li><a class="external text" href="https://web.archive.org/web/20100612201702/http://religion-online.org/listbycategory.asp?Cat=45" rel="nofollow">Category List  --- Religion-Online.org</a> "Ecology/Environment"</li>
+<li><a class="external text" href="http://www.rissc.jo/docs/Islam-Christianity-Environment-110616.pdf" rel="nofollow">Islam, Christianity and the Environment</a></li></ul>
+<div aria-labelledby="Ethics" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ethics" title="Template:Ethics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ethics" title="Template talk:Ethics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ethics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Ethics" style="font-size:114%;margin:0 4em"><a href="/wiki/Ethics" title="Ethics">Ethics</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Theories</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Casuistry" title="Casuistry">Casuistry</a></li>
+<li><a href="/wiki/Consequentialism" title="Consequentialism">Consequentialism</a></li>
+<li><a href="/wiki/Deontological_ethics" title="Deontological ethics">Deontology</a>
+<ul><li><a href="/wiki/Kantian_ethics" title="Kantian ethics">Kantian ethics</a></li></ul></li>
+<li><a href="/wiki/Ethics_of_care" title="Ethics of care">Ethics of care</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialist ethics</a></li>
+<li><a href="/wiki/Meta-ethics" title="Meta-ethics">Meta-ethics</a></li>
+<li><a href="/wiki/Moral_particularism" title="Moral particularism">Particularism</a></li>
+<li><a href="/wiki/Pragmatic_ethics" title="Pragmatic ethics">Pragmatic ethics</a></li>
+<li><a href="/wiki/Role_ethics" title="Role ethics">Role ethics</a></li>
+<li><a href="/wiki/Virtue_ethics" title="Virtue ethics">Virtue ethics</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Concepts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autonomy" title="Autonomy">Autonomy</a></li>
+<li><a href="/wiki/Axiology" title="Axiology">Axiology</a></li>
+<li><a href="/wiki/Belief" title="Belief">Belief</a></li>
+<li><a href="/wiki/Conscience" title="Conscience">Conscience</a></li>
+<li><a href="/wiki/Consent" title="Consent">Consent</a></li>
+<li><a href="/wiki/Egalitarianism" title="Egalitarianism">Equality</a></li>
+<li><a href="/wiki/Ethics_of_care" title="Ethics of care">Care</a></li>
+<li><a href="/wiki/Free_will" title="Free will">Free will</a></li>
+<li><a href="/wiki/Good_and_evil" title="Good and evil">Good and evil</a></li>
+<li><a href="/wiki/Happiness" title="Happiness">Happiness</a></li>
+<li><a href="/wiki/Ideal_(ethics)" title="Ideal (ethics)">Ideal</a></li>
+<li><a href="/wiki/Immorality" title="Immorality">Immorality</a></li>
+<li><a href="/wiki/Justice" title="Justice">Justice</a></li>
+<li><a href="/wiki/Morality" title="Morality">Morality</a></li>
+<li><a href="/wiki/Norm_(philosophy)" title="Norm (philosophy)">Norm</a></li>
+<li><a href="/wiki/Political_freedom" title="Political freedom">Freedom</a></li>
+<li><a href="/wiki/Principle" title="Principle">Principles</a></li>
+<li><a href="/wiki/Suffering" title="Suffering">Suffering or Pain</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sympathy" title="Sympathy">Sympathy</a></li>
+<li><a href="/wiki/Trust_(emotion)" title="Trust (emotion)">Trust</a></li>
+<li><a href="/wiki/Value_(ethics)" title="Value (ethics)">Value</a></li>
+<li><a href="/wiki/Virtue" title="Virtue">Virtue</a></li>
+<li><a href="/wiki/World_view" title="World view">World view</a></li>
+<li><a href="/wiki/Wrongdoing" title="Wrongdoing">Wrong</a></li>
+<li><b><a href="/wiki/Index_of_ethics_articles" title="Index of ethics articles">full index...</a></b></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Philosophers</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Laozi" title="Laozi">Laozi</a></li>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Diogenes" title="Diogenes">Diogenes</a></li>
+<li><a class="mw-redirect" href="/wiki/Valluvar" title="Valluvar">Valluvar</a></li>
+<li><a href="/wiki/Cicero" title="Cicero">Cicero</a></li>
+<li><a href="/wiki/Confucius" title="Confucius">Confucius</a></li>
+<li><a href="/wiki/Augustine_of_Hippo" title="Augustine of Hippo">Augustine of Hippo</a></li>
+<li><a href="/wiki/Mencius" title="Mencius">Mencius</a></li>
+<li><a href="/wiki/Mozi" title="Mozi">Mozi</a></li>
+<li><a href="/wiki/Xun_Kuang" title="Xun Kuang">Xunzi</a></li>
+<li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a></li>
+<li><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Baruch Spinoza</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Georg W. F. Hegel</a></li>
+<li><a href="/wiki/Arthur_Schopenhauer" title="Arthur Schopenhauer">Arthur Schopenhauer</a></li>
+<li><a href="/wiki/Jeremy_Bentham" title="Jeremy Bentham">Jeremy Bentham</a></li>
+<li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a></li>
+<li><a href="/wiki/S%C3%B8ren_Kierkegaard" title="Søren Kierkegaard">Søren Kierkegaard</a></li>
+<li><a href="/wiki/Henry_Sidgwick" title="Henry Sidgwick">Henry Sidgwick</a></li>
+<li><a href="/wiki/Friedrich_Nietzsche" title="Friedrich Nietzsche">Friedrich Nietzsche</a></li>
+<li><a href="/wiki/G._E._Moore" title="G. E. Moore">G. E. Moore</a></li>
+<li><a href="/wiki/Karl_Barth" title="Karl Barth">Karl Barth</a></li>
+<li><a href="/wiki/Paul_Tillich" title="Paul Tillich">Paul Tillich</a></li>
+<li><a href="/wiki/Dietrich_Bonhoeffer" title="Dietrich Bonhoeffer">Dietrich Bonhoeffer</a></li>
+<li><a href="/wiki/Philippa_Foot" title="Philippa Foot">Philippa Foot</a></li>
+<li><a href="/wiki/John_Rawls" title="John Rawls">John Rawls</a></li>
+<li><a href="/wiki/John_Dewey" title="John Dewey">John Dewey</a></li>
+<li><a href="/wiki/Bernard_Williams" title="Bernard Williams">Bernard Williams</a></li>
+<li><a href="/wiki/J._L._Mackie" title="J. L. Mackie">J. L. Mackie</a></li>
+<li><a href="/wiki/G._E._M._Anscombe" title="G. E. M. Anscombe">G. E. M. Anscombe</a></li>
+<li><a href="/wiki/William_Frankena" title="William Frankena">William Frankena</a></li>
+<li><a href="/wiki/Alasdair_MacIntyre" title="Alasdair MacIntyre">Alasdair MacIntyre</a></li>
+<li><a href="/wiki/R._M._Hare" title="R. M. Hare">R. M. Hare</a></li>
+<li><a href="/wiki/Peter_Singer" title="Peter Singer">Peter Singer</a></li>
+<li><a href="/wiki/Derek_Parfit" title="Derek Parfit">Derek Parfit</a></li>
+<li><a href="/wiki/Thomas_Nagel" title="Thomas Nagel">Thomas Nagel</a></li>
+<li><a href="/wiki/Robert_Merrihew_Adams" title="Robert Merrihew Adams">Robert Merrihew Adams</a></li>
+<li><a href="/wiki/Charles_Taylor_(philosopher)" title="Charles Taylor (philosopher)">Charles Taylor</a></li>
+<li><a href="/wiki/Joxe_Azurmendi" title="Joxe Azurmendi">Joxe Azurmendi</a></li>
+<li><a href="/wiki/Christine_Korsgaard" title="Christine Korsgaard">Christine Korsgaard</a></li>
+<li><a href="/wiki/Martha_Nussbaum" title="Martha Nussbaum">Martha Nussbaum</a></li>
+<li><b><a href="/wiki/List_of_ethicists" title="List of ethicists">more...</a></b></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Applied_ethics" title="Applied ethics">Applied ethics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bioethics" title="Bioethics">Bioethics</a></li>
+<li><a href="/wiki/Business_ethics" title="Business ethics">Business ethics</a></li>
+<li><a href="/wiki/Discourse_ethics" title="Discourse ethics">Discourse ethics</a></li>
+<li><a href="/wiki/Engineering_ethics" title="Engineering ethics">Engineering ethics</a></li>
+<li><a class="mw-selflink selflink">Environmental ethics</a></li>
+<li><a href="/wiki/Legal_ethics" title="Legal ethics">Legal ethics</a></li>
+<li><a href="/wiki/Media_ethics" title="Media ethics">Media ethics</a></li>
+<li><a href="/wiki/Medical_ethics" title="Medical ethics">Medical ethics</a></li>
+<li><a href="/wiki/Nursing_ethics" title="Nursing ethics">Nursing ethics</a></li>
+<li><a href="/wiki/Professional_ethics" title="Professional ethics">Professional ethics</a></li>
+<li><a href="/wiki/Sexual_ethics" title="Sexual ethics">Sexual ethics</a></li>
+<li><a href="/wiki/Ethics_of_eating_meat" title="Ethics of eating meat">Ethics of eating meat</a></li>
+<li><a href="/wiki/Ethics_of_technology" title="Ethics of technology">Ethics of technology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_ethics" title="Christian ethics">Christian ethics</a></li>
+<li><a href="/wiki/Descriptive_ethics" title="Descriptive ethics">Descriptive ethics</a></li>
+<li><a href="/wiki/Ethics_in_religion" title="Ethics in religion">Ethics in religion</a></li>
+<li><a href="/wiki/Evolutionary_ethics" title="Evolutionary ethics">Evolutionary ethics</a></li>
+<li><a href="/wiki/Feminist_ethics" title="Feminist ethics">Feminist ethics</a></li>
+<li><a href="/wiki/History_of_ethics" title="History of ethics">History of ethics</a></li>
+<li><a href="/wiki/Ideology" title="Ideology">Ideology</a></li>
+<li><a href="/wiki/Islamic_ethics" title="Islamic ethics">Islamic ethics</a></li>
+<li><a href="/wiki/Jewish_ethics" title="Jewish ethics">Jewish ethics</a></li>
+<li><a href="/wiki/Normative_ethics" title="Normative ethics">Normative ethics</a></li>
+<li><a href="/wiki/Philosophy_of_law" title="Philosophy of law">Philosophy of law</a></li>
+<li><a href="/wiki/Political_philosophy" title="Political philosophy">Political philosophy</a></li>
+<li><a href="/wiki/Population_ethics" title="Population ethics">Population ethics</a></li>
+<li><a href="/wiki/Social_philosophy" title="Social philosophy">Social philosophy</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Ethics" title="Portal:Ethics">Portal</a></li>
+<li><a href="/wiki/Category:Ethics" title="Category:Ethics">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Environmental_humanities" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Environmental_humanities" title="Template:Environmental humanities"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Environmental_humanities" title="Template talk:Environmental humanities"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_humanities&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Environmental_humanities" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecological_humanities" title="Ecological humanities">Environmental humanities</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Environmental_art" title="Environmental art">Art</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Crop_art" title="Crop art">Crop art</a></li>
+<li><a href="/wiki/Environmental_art" title="Environmental art">Environmental art</a></li>
+<li><a href="/wiki/Environmental_sculpture" title="Environmental sculpture">Environmental sculpture</a></li>
+<li><a href="/wiki/Land_art" title="Land art">Land art</a></li>
+<li><a href="/wiki/Landscape_painting" title="Landscape painting">Landscape painting</a></li>
+<li><a href="/wiki/Photography" title="Photography">Photography</a>
+<ul><li><a href="/wiki/Conservation_photography" title="Conservation photography">conservation</a></li>
+<li><a href="/wiki/Landscape_photography" title="Landscape photography">landscape</a></li>
+<li><a href="/wiki/Nature_photography" title="Nature photography">nature</a></li>
+<li><a href="/wiki/Wildlife_photography" title="Wildlife photography">wildlife</a></li></ul></li>
+<li><a href="/wiki/Sculpture_trail" title="Sculpture trail">Sculpture trail</a></li>
+<li><a href="/wiki/Site-specific_art" title="Site-specific art">Site-specific art</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Sustainable art</a></li></ul>
+</div></td><td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:CHINTREUIL_-_Le_Boulot_blanc.JPG"><img alt="CHINTREUIL - Le Boulot blanc.JPG" data-file-height="1754" data-file-width="1240" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/CHINTREUIL_-_Le_Boulot_blanc.JPG/100px-CHINTREUIL_-_Le_Boulot_blanc.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/CHINTREUIL_-_Le_Boulot_blanc.JPG/150px-CHINTREUIL_-_Le_Boulot_blanc.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/CHINTREUIL_-_Le_Boulot_blanc.JPG/200px-CHINTREUIL_-_Le_Boulot_blanc.JPG 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Culture" title="Culture">Culture</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cultural_ecology" title="Cultural ecology">Cultural ecology</a></li>
+<li><a href="/wiki/Cultural_landscape" title="Cultural landscape">Cultural landscape</a></li>
+<li><a href="/wiki/Ecolinguistics" title="Ecolinguistics">Ecolinguistics</a></li>
+<li><a href="/wiki/Ecological_anthropology" title="Ecological anthropology">Ecological anthropology</a></li>
+<li><a href="/wiki/Ecosemiotics" title="Ecosemiotics">Ecosemiotics</a></li>
+<li><a href="/wiki/Environmental_anthropology" title="Environmental anthropology">Environmental anthropology</a></li>
+<li><a href="/wiki/Ethnoecology" title="Ethnoecology">Ethnoecology</a></li>
+<li><a href="/wiki/Traditional_ecological_knowledge" title="Traditional ecological knowledge">Traditional ecological knowledge</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Literature" title="Literature">Literature</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ecocomposition" title="Ecocomposition">Ecocomposition</a></li>
+<li><a href="/wiki/Ecocriticism" title="Ecocriticism">Ecocriticism</a></li>
+<li><a href="/wiki/Ecopoetry" title="Ecopoetry">Ecopoetry</a></li>
+<li><a href="/wiki/Geocriticism" title="Geocriticism">Geocriticism</a></li>
+<li><a href="/wiki/Nature_writing" title="Nature writing">Nature writing</a></li>
+<li><a href="/wiki/Outdoor_literature" title="Outdoor literature">Outdoor literature</a></li>
+<li><a href="/wiki/Zoopoetics" title="Zoopoetics">Zoopoetics</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Environmental_philosophy" title="Environmental philosophy">Philosophy</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aesthetics_of_nature" title="Aesthetics of nature">Aesthetics of nature</a></li>
+<li><a href="/wiki/Constructivist_epistemology" title="Constructivist epistemology">Constructivism</a></li>
+<li><a href="/wiki/Cosmology" title="Cosmology">Cosmology</a></li>
+<li><a href="/wiki/Critical_realism_(philosophy_of_the_social_sciences)" title="Critical realism (philosophy of the social sciences)">Critical realism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Ecofeminism" title="Ecofeminism">Ecofeminism</a></li>
+<li><a href="/wiki/Maurice_Merleau-Ponty#Ecophenomenology" title="Maurice Merleau-Ponty">Ecophenomenology</a></li>
+<li><a href="/wiki/Ecosophy" title="Ecosophy">Ecosophy</a></li>
+<li><a class="mw-selflink selflink">Environmental ethics</a></li>
+<li><a href="/wiki/Environmental_justice" title="Environmental justice">Environmental justice</a></li>
+<li><a href="/wiki/Environmental_philosophy" title="Environmental philosophy">Environmental philosophy</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Natural_philosophy" title="Natural philosophy">Natural philosophy</a></li>
+<li><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Philosophy of mind</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></li>
+<li><a class="mw-redirect" href="/wiki/Social_ecology_(theory)" title="Social ecology (theory)">Social ecology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Religion_and_environmentalism" title="Religion and environmentalism">Religion</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ecotheology" title="Ecotheology">Ecotheology</a></li>
+<li><a href="/wiki/Environmental_theology" title="Environmental theology">Environmental theology</a></li>
+<li><a href="/wiki/Religion_and_environmentalism" title="Religion and environmentalism">Religion and environmentalism</a></li>
+<li><a href="/wiki/Spiritual_ecology" title="Spiritual ecology">Spiritual ecology</a></li>
+<li><a href="/wiki/Stewardship_(theology)" title="Stewardship (theology)">Stewardship</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Ecomusicology" title="Ecomusicology">Ecomusicology</a></li>
+<li><a href="/wiki/Environmental_communication" title="Environmental communication">Environmental communication</a></li>
+<li><a href="/wiki/Environmental_education" title="Environmental education">Environmental education</a>
+<ul><li><a href="/wiki/Environmental_adult_education" title="Environmental adult education">adult</a></li>
+<li><a href="/wiki/Arts-based_environmental_education" title="Arts-based environmental education">arts-based</a></li></ul></li>
+<li><a href="/wiki/Environmental_history" title="Environmental history">Environmental history</a></li>
+<li><a href="/wiki/Heritage_interpretation" title="Heritage interpretation">Environmental interpretation</a></li>
+<li><a href="/wiki/Environmental_journalism" title="Environmental journalism">Environmental journalism</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">Environmental law</a></li>
+<li><a href="/wiki/Outdoor_education" title="Outdoor education">Outdoor education</a></li>
+<li><a href="/wiki/Psychogeography" title="Psychogeography">Psychogeography</a></li>
+<li><a href="/wiki/Thematic_interpretation" title="Thematic interpretation">Thematic interpretation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animal_studies" title="Animal studies">Animal studies</a></li>
+<li><a href="/wiki/Bioethics" title="Bioethics">Bioethics</a></li>
+<li><a href="/wiki/Biophilia_hypothesis" title="Biophilia hypothesis">Biophilia hypothesis</a></li>
+<li><a href="/wiki/Do_it_yourself" title="Do it yourself">Do it yourself</a> (<a href="/wiki/DIY_ethic" title="DIY ethic">ethic</a>)</li>
+<li><a href="/wiki/Natural_history" title="Natural history">Natural history</a> (<a href="/wiki/List_of_natural_history_museums" title="List of natural history museums">museums</a>)</li>
+<li><a href="/wiki/Popular_science" title="Popular science">Popular science</a></li>
+<li><a href="/wiki/Property" title="Property">Property theory</a> (<a href="/wiki/Common-pool_resource" title="Common-pool resource">common property</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science, technology and society</a>
+<ul><li><a href="/wiki/Science_studies" title="Science studies">science studies</a></li></ul></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Slow_Food" title="Slow Food">Slow food</a></li>
+<li><a href="/wiki/Spirit_of_place" title="Spirit of place">Spirit of place</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Sustainability studies</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Applied_arts" title="Applied arts">Applied</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arts_and_Crafts_movement" title="Arts and Crafts movement">Arts and Crafts movement</a></li>
+<li><a href="/wiki/Acoustic_ecology" title="Acoustic ecology">Acoustic ecology</a></li>
+<li><a href="/wiki/Biomimetics" title="Biomimetics">Biomimicry</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Ecological_design" title="Ecological design">Ecological design</a></li>
+<li><a href="/wiki/Ecomuseum" title="Ecomuseum">Ecomuseum</a></li>
+<li><a href="/wiki/Educational_trail" title="Educational trail">Educational trail</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a>
+<ul><li><a href="/wiki/Landscape_assessment" title="Landscape assessment">assessment</a></li>
+<li><a href="/wiki/Landscape_planning" title="Landscape planning">planning</a></li></ul></li>
+<li><a href="/wiki/Nature_center" title="Nature center">Nature center</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">New Urbanism</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Sustainable architecture</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Sustainable fashion</a></li>
+<li><a href="/wiki/Themed_walk" title="Themed walk">Themed walk</a></li>
+<li><a href="/wiki/Urban_acupuncture" title="Urban acupuncture">Urban acupuncture</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_humanities" title="Category:Environmental humanities">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Environmental_humanities" title="commons:Category:Environmental humanities">Commons</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_humanities" title="List of environmental journals">Journals</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Environmental_science" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Environmental_science" title="Template:Environmental science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Environmental_science" title="Template talk:Environmental science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_science&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Environmental_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Main fields</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a></li>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Geosciences</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Limnology" title="Limnology">Limnology</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Environmental_soil_science" title="Environmental soil science">Soil science</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg"><img alt="The Earth seen from Apollo 17.jpg" data-file-height="3002" data-file-width="3000" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/100px-The_Earth_seen_from_Apollo_17.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/150px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/200px-The_Earth_seen_from_Apollo_17.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related fields</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biology" title="Biology">Biology</a></li>
+<li><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>
+<ul><li><a href="/wiki/Green_chemistry" title="Green chemistry">green</a></li></ul></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a>
+<ul><li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li></ul></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a href="/wiki/Geodesy" title="Geodesy">Geodesy</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Sustainability science</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource management</a></li>
+<li><a class="mw-redirect" href="/wiki/Pollution_control" title="Pollution control">Pollution control</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Remediation</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Road_ecology" title="Road ecology">Road ecology</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Category</a>
+<ul><li><a href="/wiki/Category:Environmental_scientists" title="Category:Environmental scientists">scientists</a></li></ul></li>
+<li><a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Glossary</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_sciences" title="List of environmental journals">Journals</a></li>
+<li><a href="/wiki/List_of_environmental_research_institutes" title="List of environmental research institutes">Research institutes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Environmental_social_science" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Environmental_social_science" title="Template:Environmental social science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Environmental_social_science" title="Template talk:Environmental social science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_social_science&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Environmental_social_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_social_science" title="Environmental social science">Environmental social science</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fields</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ecological_anthropology" title="Ecological anthropology">Ecological anthropology</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_anthropology" title="Environmental anthropology">Environmental anthropology</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_communication" title="Environmental communication">Environmental communication</a></li>
+<li><a href="/wiki/Environmental_history" title="Environmental history">Environmental history</a></li>
+<li><a href="/wiki/Environmental_politics" title="Environmental politics">Environmental politics</a></li>
+<li><a href="/wiki/Environmental_psychology" title="Environmental psychology">Environmental psychology</a></li>
+<li><a href="/wiki/Environmental_sociology" title="Environmental sociology">Environmental sociology</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Human_geography" title="Human geography">Human geography</a></li>
+<li><a href="/wiki/Political_ecology" title="Political ecology">Political ecology</a></li>
+<li><a href="/wiki/Regional_science" title="Regional science">Regional science</a></li></ul>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" data-file-height="510" data-file-width="800" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/150px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/225px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/300px-Sustainable_development.svg.png 2x" width="150"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Behavioral_geography" title="Behavioral geography">Behavioral geography</a></li>
+<li><a href="/wiki/Community_studies" title="Community studies">Community studies</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li>Design
+<ul><li><a href="/wiki/Ecological_design" title="Ecological design">ecological</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">environmental</a></li></ul></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li>Economics
+<ul><li><a href="/wiki/Energy_economics" title="Energy economics">energy</a></li>
+<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">thermo</a></li></ul></li>
+<li>Environmental
+<ul><li><a href="/wiki/Environmental_education" title="Environmental education">education</a></li>
+<li><a class="mw-selflink selflink">ethics</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">law</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">science</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">studies</a></li></ul></li>
+<li><a href="/wiki/Ethnobiology" title="Ethnobiology">Ethnobiology</a>
+<ul><li><a href="/wiki/Ethnobotany" title="Ethnobotany">botany</a></li>
+<li><a href="/wiki/Ethnoecology" title="Ethnoecology">ecology</a></li>
+<li><a href="/wiki/Ethnozoology" title="Ethnozoology">zoology</a></li></ul></li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Integrated_geography" title="Integrated geography">Integrated geography</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">Rural sociology</a></li>
+<li><a class="mw-redirect" href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science, technology and society</a>
+<ul><li><a href="/wiki/Science_studies" title="Science studies">science studies</a></li></ul></li>
+<li>Sustainability
+<ul><li><a href="/wiki/Sustainability_science" title="Sustainability science">science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">studies</a></li></ul></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li>Urban
+<ul><li><a href="/wiki/Urban_ecology" title="Urban ecology">ecology</a></li>
+<li><a href="/wiki/Urban_geography" title="Urban geography">geography</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">metabolism</a></li>
+<li><a href="/wiki/Urban_studies" title="Urban studies">studies</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applied</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Architecture
+<ul><li><a href="/wiki/Landscape_architecture" title="Landscape architecture">landscape</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable</a></li></ul></li>
+<li><a href="/wiki/Ecopsychology" title="Ecopsychology">Ecopsychology</a></li>
+<li>Engineering
+<ul><li><a href="/wiki/Ecological_engineering" title="Ecological engineering">ecological</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">environmental</a></li></ul></li>
+<li><a href="/wiki/Green_criminology" title="Green criminology">Green criminology</a></li>
+<li>Health
+<ul><li><a href="/wiki/Environmental_health" title="Environmental health">environmental</a></li>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+<li><a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">occupational</a></li>
+<li><a href="/wiki/Public_health" title="Public health">public</a></li></ul></li>
+<li>Management
+<ul><li><a class="mw-redirect" href="/wiki/Environmental_resources_management" title="Environmental resources management">environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">forest</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">natural resource</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">waste</a></li></ul></li>
+<li>Planning
+<ul><li><a href="/wiki/Environmental_planning" title="Environmental planning">environmental</a></li>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">land use</a></li>
+<li><a href="/wiki/Regional_planning" title="Regional planning">regional</a></li>
+<li><a href="/wiki/Spatial_planning" title="Spatial planning">spatial</a></li>
+<li><a href="/wiki/Urban_planning" title="Urban planning">urban</a></li></ul></li>
+<li>Policy
+<ul><li><a href="/wiki/Energy_policy" title="Energy policy">energy</a></li>
+<li><a href="/wiki/Environmental_policy" title="Environmental policy">environmental</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Category</a></li>
+<li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Concepts</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_social_science_journals" title="List of environmental social science journals">Journals</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_environment_research_institutes" title="List of environment research institutes">Research institutes</a></li>
+<li><a href="/wiki/Category:Environmental_social_scientists" title="Category:Environmental social scientists">Scholars</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q875686&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q875686&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q875686" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4078520-8" rel="nofollow">4078520-8</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00918152" rel="nofollow">00918152</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20181026160615
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.460 seconds
+Real time usage: 0.588 seconds
+Preprocessor visited node count: 1601/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 120958/2097152 bytes
+Template argument size: 4687/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31110/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.171/10.000 seconds
+Lua memory usage: 5.04 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  363.657      1 -total
+ 37.22%  135.363      1 Template:Reflist
+ 23.95%   87.094      4 Template:Cite_journal
+ 14.29%   51.977      5 Template:Navbox
+ 13.83%   50.277      1 Template:More_footnotes
+ 10.25%   37.266      1 Template:Ambox
+  7.10%   25.832      1 Template:Authority_control
+  6.58%   23.912      4 Template:Cite_book
+  6.46%   23.485      1 Template:For
+  5.94%   21.597      1 Template:Environmental_humanities
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:171964-0!canonical and timestamp 20181026160614 and revision id 856199494
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Environmental_ethics&amp;oldid=856199494">https://en.wikipedia.org/w/index.php?title=Environmental_ethics&amp;oldid=856199494</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_ethics" title="Category:Environmental ethics">Environmental ethics</a></li><li><a href="/wiki/Category:Relational_ethics" title="Category:Relational ethics">Relational ethics</a></li><li><a href="/wiki/Category:Spinoza_studies" title="Category:Spinoza studies">Spinoza studies</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_July_2008" title="Category:Articles lacking in-text citations from July 2008">Articles lacking in-text citations from July 2008</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2014" title="Category:Articles with unsourced statements from May 2014">Articles with unsourced statements from May 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Environmental+ethics" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Environmental+ethics" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Environmental_ethics" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Environmental_ethics" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Environmental_ethics">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Environmental_ethics&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Environmental_ethics&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Environmental_ethics" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Environmental_ethics" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Environmental_ethics&amp;oldid=856199494" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Environmental_ethics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q875686" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Environmental_ethics&amp;id=856199494" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Environmental+ethics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Environmental+ethics&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Environmental_ethics&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6_%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0" hreflang="bn" lang="bn" title="পরিবেশ নীতিশাস্ত্র – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Environment%C3%A1ln%C3%AD_etika" hreflang="cs" lang="cs" title="Environmentální etika – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Umweltethik" hreflang="de" lang="de" title="Umweltethik – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Keskkonnaeetika" hreflang="et" lang="et" title="Keskkonnaeetika – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CF%81%CE%B9%CE%B2%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%AE_%CE%B7%CE%B8%CE%B9%CE%BA%CE%AE" hreflang="el" lang="el" title="Περιβαλλοντική ηθική – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%89tica_ambiental" hreflang="es" lang="es" title="Ética ambiental – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89thique_de_l%27environnement" hreflang="fr" lang="fr" title="Éthique de l'environnement – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%99%98%EA%B2%BD_%EC%9C%A4%EB%A6%AC%ED%95%99" hreflang="ko" lang="ko" title="환경 윤리학 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B7%D5%AF%D5%B8%D5%AC%D5%B8%D5%A3%D5%AB%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A7%D5%A9%D5%AB%D5%AF%D5%A1" hreflang="hy" lang="hy" title="Էկոլոգիական էթիկա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF_%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF" hreflang="hi" lang="hi" title="पर्यावरणीय नीति – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Umhverfissi%C3%B0fr%C3%A6%C3%B0i" hreflang="is" lang="is" title="Umhverfissiðfræði – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Etica_ambientale" hreflang="it" lang="it" title="Etica ambientale – Italian">Italiano</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%B8%E0%B2%B0%E0%B2%A6_%E0%B2%A8%E0%B3%80%E0%B2%A4%E0%B2%BF%E0%B2%A8%E0%B2%BF%E0%B2%AF%E0%B2%AE%E0%B2%97%E0%B2%B3%E0%B3%81" hreflang="kn" lang="kn" title="ಪರಿಸರದ ನೀತಿನಿಯಮಗಳು – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%D0%BB%D1%8B%D2%9B_%D1%8D%D1%82%D0%B8%D0%BA%D0%B0" hreflang="kk" lang="kk" title="Экологиялық этика – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E5%80%AB%E7%90%86%E5%AD%A6" hreflang="ja" lang="ja" title="環境倫理学 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Milj%C3%B8etikk" hreflang="no" lang="no" title="Miljøetikk – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ekoetyka" hreflang="pl" lang="pl" title="Ekoetyka – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%89tica_ambiental" hreflang="pt" lang="pt" title="Ética ambiental – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%82%D0%B8%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Экологическая этика – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Okoljska_etika" hreflang="sl" lang="sl" title="Okoljska etika – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Ymp%C3%A4rist%C3%B6etiikka" hreflang="fi" lang="fi" title="Ympäristöetiikka – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%87%D0%BD%D0%B0_%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Екологічна етика – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E5%80%AB%E7%90%86" hreflang="yue" lang="yue" title="環境倫理 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E5%80%AB%E7%90%86" hreflang="zh" lang="zh" title="環境倫理 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q875686#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 23 August 2018, at 15:21<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Environmental_ethics&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.588","ppvisitednodes":{"value":1601,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":120958,"limit":2097152},"templateargumentsize":{"value":4687,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31110,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  363.657      1 -total"," 37.22%  135.363      1 Template:Reflist"," 23.95%   87.094      4 Template:Cite_journal"," 14.29%   51.977      5 Template:Navbox"," 13.83%   50.277      1 Template:More_footnotes"," 10.25%   37.266      1 Template:Ambox","  7.10%   25.832      1 Template:Authority_control","  6.58%   23.912      4 Template:Cite_book","  6.46%   23.485      1 Template:For","  5.94%   21.597      1 Template:Environmental_humanities"]},"scribunto":{"limitreport-timeusage":{"value":"0.171","limit":"10.000"},"limitreport-memusage":{"value":5289078,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20181026160615","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1252"});});</script>
+</body>
+</html>

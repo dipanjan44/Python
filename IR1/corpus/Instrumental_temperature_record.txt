@@ -1,0 +1,753 @@
+https://en.wikipedia.org/wiki/Instrumental_temperature_record
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Instrumental temperature record - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Instrumental_temperature_record","wgTitle":"Instrumental temperature record","wgCurRevisionId":858802586,"wgRevisionId":858802586,"wgArticleId":182371,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Pages with URL errors","CS1 maint: Extra text: authors list","Articles with inconsistent citation formats","Webarchive template wayback links","CS1 maint: Uses authors parameter","Articles containing video clips","Climate change science","Climate history","Weather records"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Instrumental_temperature_record","wgRelevantArticleId":182371,"wgRequestId":"W9oa2wpAMF0AACer6lUAAAAG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3773774","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/1200px-Global_Temperature_Anomaly.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Instrumental_temperature_record" rel="alternate"/>
+<link href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Instrumental_temperature_record" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Instrumental_temperature_record rootpage-Instrumental_temperature_record skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Instrumental temperature record</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For temperature changes on other time scales, see <a href="/wiki/Global_temperature_record" title="Global temperature record">Global temperature record</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r856303569">@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:304px;max-width:304px"><div class="tsingle" style="margin:1px;width:302px;max-width:302px"><div class="thumbimage"><a class="image" href="/wiki/File:Global_Temperature_Anomaly.svg"><img alt="" data-file-height="835" data-file-width="951" height="263" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/300px-Global_Temperature_Anomaly.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/450px-Global_Temperature_Anomaly.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/600px-Global_Temperature_Anomaly.svg.png 2x" width="300"/></a></div><div class="thumbcaption" style="clear:left">Global mean surface temperature change from 1880 to 2017, relative to the 1951–1980 mean.  The 1951-1980 mean is 14.2 °C (57.6 °F).<sup class="reference" id="cite_ref-landocean_1-0"><a href="#cite_note-landocean-1">[1]</a></sup> The black line is the global annual mean and the red line is the five-year <a href="/wiki/Local_regression" title="Local regression">lowess smooth</a>. The blue <a href="/wiki/Error_bar" title="Error bar">uncertainty bars</a> show a 95% confidence limit. Source: <a class="external text" href="http://data.giss.nasa.gov/gistemp/" rel="nofollow">NASA GISS</a>.</div></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><div class="PopUpMediaTransform" id="mwe_player_0" style="width:250px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/854px--Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="30.789659863946" data-startoffset="0" data-mwtitle="Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.480p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="SD VP9 (480P)" data-shorttitle="VP9 480P" data-transcodekey="480p.vp9.webm" data-width="854" data-height="480" data-bandwidth="309912" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="551312" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Original Ogg file, 960 × 540 (666 kbps)" data-shorttitle="Ogg source" data-width="960" data-height="540" data-bandwidth="666207" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.120p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Lowest bandwidth VP9 (120P)" data-shorttitle="VP9 120P" data-transcodekey="120p.vp9.webm" data-width="214" data-height="120" data-bandwidth="147744" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="128544" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.180p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Low bandwidth VP9 (180P)" data-shorttitle="VP9 180P" data-transcodekey="180p.vp9.webm" data-width="320" data-height="180" data-bandwidth="170128" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="170920" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.240p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Small VP9 (240P)" data-shorttitle="VP9 240P" data-transcodekey="240p.vp9.webm" data-width="426" data-height="240" data-bandwidth="188064" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.360p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9 (360P)" data-shorttitle="VP9 360P" data-transcodekey="360p.vp9.webm" data-width="640" data-height="360" data-bandwidth="223056" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="300328" data-framerate="30"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:Summer temperatures Northern Hemisphere 1955 to 2011.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv/250px--Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv.jpg" style="width:250px;height:141px"/><a href="//upload.wikimedia.org/wikipedia/commons/e/e3/Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Summer_temperatures_Northern_Hemisphere_1955_to_2011.ogv" title="Enlarge"></a></div>Watch how summer temperatures in the Northern Hemisphere change from 1955 to 2011. "Hot" (orange), "very hot" (red) "extremely hot" (brown) "average" (white), unusually "cold" (light blue), "very cold" (dark blue) and "extremely cold" (purple).</div></div></div>
+<p>The <b>instrumental temperature record</b> provides the <a href="/wiki/Temperature" title="Temperature">temperature</a> of Earth's <a href="/wiki/Climate" title="Climate">climate system</a> from the historical network of <a href="/wiki/In_situ" title="In situ">in situ</a> measurements of surface air temperatures and ocean surface temperatures. Data are collected at thousands of meteorological stations, buoys and ships around the globe. The longest-running temperature record is the <a href="/wiki/Central_England_temperature" title="Central England temperature">Central England temperature</a> data series, which starts in 1659. The longest-running quasi-global record starts in 1850.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> In recent decades more extensive sampling of ocean temperatures at various depths have begun allowing estimates of <a href="/wiki/Ocean_heat_content" title="Ocean heat content">ocean heat content</a> but these do not form part of the global surface temperature datasets.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Total_warming_and_trends"><span class="tocnumber">1</span> <span class="toctext">Total warming and trends</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Warming_in_the_instrumental_temperature_record"><span class="tocnumber">1.1</span> <span class="toctext">Warming in the instrumental temperature record</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Warmest_periods"><span class="tocnumber">2</span> <span class="toctext">Warmest periods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Warmest_years"><span class="tocnumber">2.1</span> <span class="toctext">Warmest years</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Warmest_decades"><span class="tocnumber">2.2</span> <span class="toctext">Warmest decades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Influences_on_global_temperature"><span class="tocnumber">3</span> <span class="toctext">Influences on global temperature</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Absolute_temperatures_v._anomalies"><span class="tocnumber">4</span> <span class="toctext">Absolute temperatures v. anomalies</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Global_record_from_1850"><span class="tocnumber">5</span> <span class="toctext">Global record from 1850</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Robustness_of_evidence"><span class="tocnumber">6</span> <span class="toctext">Robustness of evidence</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Other_reports_and_assessments"><span class="tocnumber">6.1</span> <span class="toctext">Other reports and assessments</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Internal_climate_variability_and_global_warming"><span class="tocnumber">6.1.1</span> <span class="toctext">Internal climate variability and global warming</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Regional_temperature"><span class="tocnumber">7</span> <span class="toctext">Regional temperature</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Satellite_temperature_records"><span class="tocnumber">7.1</span> <span class="toctext">Satellite temperature records</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Evaluation"><span class="tocnumber">8</span> <span class="toctext">Evaluation</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Global_surface_and_ocean_datasets"><span class="tocnumber">9</span> <span class="toctext">Global surface and ocean datasets</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Total_warming_and_trends">Total warming and trends</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=1" title="Edit section: Total warming and trends">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The global average and combined land and ocean surface temperature, show a warming of 0.85 [0.65 to 1.06] °C, in the period 1880 to 2012, based on multiple independently produced datasets.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> This gives a trend of 0.064 ± 0.015 °C per decade over that period. The trend is faster for land than ocean, faster for Arctic regions, and faster since the 1970s than the longer period.
+</p>
+<h3><span class="mw-headline" id="Warming_in_the_instrumental_temperature_record">Warming in the instrumental temperature record</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=2" title="Edit section: Warming in the instrumental temperature record">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most of the observed warming occurred in two periods: around 1900 to around 1940 and around 1970 onwards;<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> the cooling/plateau from 1940 to 1970 has been mostly attributed to <a href="/wiki/Sulfate#Environmental_effects" title="Sulfate">sulphate aerosol</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Some of the temperature variations over this time period may also be due to ocean circulation patterns.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>Attribution of the temperature change to natural or anthropogenic (i.e., <a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">human-induced</a>) factors is an important question: see <a href="/wiki/Global_warming" title="Global warming">global warming</a> and <a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">attribution of recent climate change</a>.
+</p><p>Land air temperatures are rising faster than sea surface temperatures. Over 1979 to 2012 the trend for land was about 0.254 ± 0.050 °C per decade per CruTemp4 or 0.273 ± 0.047 per GHCN while the trend for sea surface temperatures is about 0.072 ± 0.024 °C per decade per HadISST to 0.124 ± 0.030 °C per decade per HadSST3.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p>For 1979 to 2012, the linear warming trend for combined land and sea temperatures has been 0.155 °C [0.122 to 0.188 °C] per decade according to AR5.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p>The IPCC Fourth Assessment Report found that the instrumental temperature record for the past century included urban heat island effects but that these were primarily local, having a negligible influence on global temperature trends (less than 0.006 °C per decade over land and zero over the oceans).<sup class="reference" id="cite_ref-trenberth_summary_of_observations_10-0"><a href="#cite_note-trenberth_summary_of_observations-10">[10]</a></sup>
+</p><p>Uncertainties in the temperature record, e.g., the <a class="mw-redirect" href="/wiki/Urban_heat_island_effect" title="Urban heat island effect">urban heat island effect</a>, are discussed further in a later <a href="/wiki/Instrumental_temperature_record#Robustness_of_evidence" title="Instrumental temperature record">section</a>.
+</p>
+<h2><span class="mw-headline" id="Warmest_periods">Warmest periods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=3" title="Edit section: Warmest periods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Warmest_years">Warmest years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=4" title="Edit section: Warmest years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Enso-global-temp-anomalies.png"><img alt="" class="thumbimage" data-file-height="1033" data-file-width="1422" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Enso-global-temp-anomalies.png/220px-Enso-global-temp-anomalies.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Enso-global-temp-anomalies.png/330px-Enso-global-temp-anomalies.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Enso-global-temp-anomalies.png/440px-Enso-global-temp-anomalies.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Enso-global-temp-anomalies.png" title="Enlarge"></a></div><a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a> graph of global annual temperature anomalies, 1950–2012</div></div></div>
+<p>In January 2017, several scientific agencies around the world, including <a href="/wiki/NASA" title="NASA">NASA</a> and the <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a> in the United States<sup class="reference" id="cite_ref-NASA-NOAA2016_11-0"><a href="#cite_note-NASA-NOAA2016-11">[11]</a></sup><sup class="reference" id="cite_ref-nyt_2017_12-0"><a href="#cite_note-nyt_2017-12">[12]</a></sup> and the <a href="/wiki/Met_Office" title="Met Office">Met Office</a> in the United Kingdom, named 2016 the warmest year recorded.<sup class="reference" id="cite_ref-MetOfficePR_13-0"><a href="#cite_note-MetOfficePR-13">[13]</a></sup><sup class="reference" id="cite_ref-bbc_2017_14-0"><a href="#cite_note-bbc_2017-14">[14]</a></sup>  This marked the third consecutive year reaching a new record temperature, the first time since the current warming trend began in the 1970s that three years in a row were record highs.<sup class="reference" id="cite_ref-nyt_2017_12-1"><a href="#cite_note-nyt_2017-12">[12]</a></sup>  2016's record meant that 16 of the 17 warmest years have occurred since 2000,<sup class="reference" id="cite_ref-nyt_2017_12-2"><a href="#cite_note-nyt_2017-12">[12]</a></sup> 2017 being the third hottest year on record meant that 17 of the last 18 warmest years have occurred since 2000.
+</p><p>While record-breaking years can attract considerable public interest, individual years are less significant than the overall trend. Some climatologists have criticized the attention that the popular press gives to "warmest year" statistics; for example, <a href="/wiki/Gavin_Schmidt" title="Gavin Schmidt">Gavin Schmidt</a> stated "the long-term trends or the expected sequence of records are far more important than whether any single year is a record or not."<sup class="reference" id="cite_ref-Gavin_Schmidt_201501_15-0"><a href="#cite_note-Gavin_Schmidt_201501-15">[15]</a></sup>  Of the 2015 and 2016 records, Schmidt stated that the <a href="/wiki/2014%E2%80%9316_El_Ni%C3%B1o_event" title="2014–16 El Niño event">2014–16 El Niño event</a> was "a factor ... but both 2015 and 2016 would have been records even without it"; he attributed about 90% of the warming in 2016 to <a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">anthropogenic climate change</a>.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>  Consistent with Schmidt's comment, the NASA / NOAA announcement stated that "[g]lobally-averaged temperatures in 2016 were 1.78 degrees Fahrenheit (0.99 degrees Celsius) warmer than the mid-20th century mean" and that the impact of El Niño warming was estimated to have "increased the annual global temperature anomaly for 2016 by 0.2 degrees Fahrenheit (0.12 degrees Celsius)."<sup class="reference" id="cite_ref-NASA-NOAA2016_11-1"><a href="#cite_note-NASA-NOAA2016-11">[11]</a></sup>  Comments from climate scientists reported in <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i> showed strong agreement in attributing the warming primarily to anthropogenic climate change, with some contribution from El Niño warming, though there were differing views on the significance of individual records.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> <a class="new" href="/w/index.php?title=Deke_Arndt&amp;action=edit&amp;redlink=1" title="Deke Arndt (page does not exist)">Deke Arndt</a> leads the monitoring group at NOAA's <a href="/wiki/National_Centers_for_Environmental_Information" title="National Centers for Environmental Information">National Centers for Environmental Information</a> and offered an analogy in a report on <a href="/wiki/NPR" title="NPR">NPR</a>: "The long-term warming is a lot like riding up an escalator over time. The longer you're on the escalator, the higher you go. And the El Niño phenomenon is like jumping up and down while you're on the escalator."<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>  Arndt also stated that the "long-term warming is driven almost entirely by greenhouse gases."<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> <a class="mw-redirect" href="/wiki/Peter_Stott" title="Peter Stott">Peter Stott</a>, acting director of the Met Office, noted the influence of the El Niño event on 2016 temperatures but also stated that "the main contributor to warming over the last 150 years is human influence on climate from increasing greenhouse gases in the atmosphere."<sup class="reference" id="cite_ref-MetOfficePR_13-1"><a href="#cite_note-MetOfficePR-13">[13]</a></sup><sup class="reference" id="cite_ref-bbc_2017_14-1"><a href="#cite_note-bbc_2017-14">[14]</a></sup> <a class="mw-redirect" href="/wiki/Tim_Osborn" title="Tim Osborn">Tim Osborn</a>, Director of Research at the <a href="/wiki/University_of_East_Anglia" title="University of East Anglia">University of East Anglia</a>’s <a href="/wiki/Climatic_Research_Unit" title="Climatic Research Unit">Climatic Research Unit</a>,<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> agreed stating that "[m]ultiple lines of independent evidence confirm that the planet has warmed over the last 150 years: warmer oceans, warmer land, warmer lower atmosphere and melting ice. This long-term trend is the main cause for the record warmth of 2015 and 2016, surpassing all previous years – even ones with strong El Niño events."<sup class="reference" id="cite_ref-MetOfficePR_13-2"><a href="#cite_note-MetOfficePR-13">[13]</a></sup>
+</p><p>Based on the NOAA dataset (note that other datasets produce different rankings<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>), the following table lists the global combined land and ocean annually averaged temperature rank and anomaly for each of the 10 warmest years on record.<sup class="reference" id="cite_ref-NOAA2015_22-0"><a href="#cite_note-NOAA2015-22">[22]</a></sup>
+</p>
+<table class="wikitable sortable" style="margin:auto;">
+<caption><b>Top 10 warmest years (NOAA)</b>
+</caption>
+<caption>(1880–2017)
+</caption>
+<tbody><tr>
+<th>Rank
+</th>
+<th>Year
+</th>
+<th>Anomaly °C
+</th>
+<th>Anomaly °F
+</th></tr>
+<tr align="left">
+<td>1
+</td>
+<td>2016
+</td>
+<td>0.94
+</td>
+<td>1.69
+</td></tr>
+<tr align="left">
+<td>2
+</td>
+<td>2015
+</td>
+<td>0.90
+</td>
+<td>1.62
+</td></tr>
+<tr align="left">
+<td>3
+</td>
+<td>2017
+</td>
+<td>0.84
+</td>
+<td>1.51
+</td></tr>
+<tr align="left">
+<td>4
+</td>
+<td>2014
+</td>
+<td>0.74
+</td>
+<td>1.33
+</td></tr>
+<tr align="left">
+<td>5
+</td>
+<td>2010
+</td>
+<td>0.70
+</td>
+<td>1.26
+</td></tr>
+<tr align="left">
+<td>6
+</td>
+<td>2013
+</td>
+<td>0.66
+</td>
+<td>1.19
+</td></tr>
+<tr align="left">
+<td>7
+</td>
+<td>2005
+</td>
+<td>0.65
+</td>
+<td>1.17
+</td></tr>
+<tr align="left">
+<td>8
+</td>
+<td>2009
+</td>
+<td>0.64
+</td>
+<td>1.15
+</td></tr>
+<tr align="left">
+<td>9
+</td>
+<td>1998
+</td>
+<td>0.63
+</td>
+<td>1.13
+</td></tr>
+<tr align="left">
+<td>10
+</td>
+<td>2012
+</td>
+<td>0.62
+</td>
+<td>1.12
+</td></tr></tbody></table><p>Although the <a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">NCDC</a> temperature record begins in 1880, <a class="mw-redirect" href="/wiki/Temperature_record#Proxies:_tree_rings,_ice_cores:_the_last_2000_years" title="Temperature record">reconstructions of earlier temperatures</a> based on <a href="/wiki/Proxy_(climate)" title="Proxy (climate)">climate proxies</a>, suggest these years may be the warmest for several centuries to millennia, or longer.
+</p><h3><span class="mw-headline" id="Warmest_decades">Warmest decades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=5" title="Edit section: Warmest decades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Global_temperature_change_-_decadal_averages,_1880s-2000s_(NOAA).png"><img alt="Refer to caption and image description" class="thumbimage" data-file-height="2475" data-file-width="3257" height="190" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Global_temperature_change_-_decadal_averages%2C_1880s-2000s_%28NOAA%29.png/250px-Global_temperature_change_-_decadal_averages%2C_1880s-2000s_%28NOAA%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Global_temperature_change_-_decadal_averages%2C_1880s-2000s_%28NOAA%29.png/375px-Global_temperature_change_-_decadal_averages%2C_1880s-2000s_%28NOAA%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Global_temperature_change_-_decadal_averages%2C_1880s-2000s_%28NOAA%29.png/500px-Global_temperature_change_-_decadal_averages%2C_1880s-2000s_%28NOAA%29.png 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Global_temperature_change_-_decadal_averages,_1880s-2000s_(NOAA).png" title="Enlarge"></a></div>Global temperature change — decadal averages, 1880s–2000s (NOAA).<sup class="reference" id="cite_ref-State2009p5_23-0"><a href="#cite_note-State2009p5-23">[23]</a></sup></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:NOAA_Land_Ocean.svg"><img alt="Refer to caption" class="thumbimage" data-file-height="700" data-file-width="1000" height="175" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NOAA_Land_Ocean.svg/250px-NOAA_Land_Ocean.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NOAA_Land_Ocean.svg/375px-NOAA_Land_Ocean.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NOAA_Land_Ocean.svg/500px-NOAA_Land_Ocean.svg.png 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:NOAA_Land_Ocean.svg" title="Enlarge"></a></div>1880–2011 global annual and decadal mean surface temperature change. Data Source: NOAA</div></div></div>
+<p>Numerous cycles have been found to influence annual global mean temperatures. The tropical <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation" title="El Niño-Southern Oscillation">El Niño-La Niña cycle</a> and the <a class="mw-redirect" href="/wiki/Pacific_Decadal_Oscillation" title="Pacific Decadal Oscillation">Pacific Decadal Oscillation</a> are the most well-known of these cycles.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> An examination of the average global temperature changes by decades reveals continuing climate change,<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> and AR5 reports "Each of the last three decades has been successively warmer at the Earth’s surface than any preceding decade since 1850 (see Figure SPM.1). In the Northern Hemisphere, 1983–2012 was likely the warmest 30-year period of the last 1400 years (medium confidence)".<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</p><p>The following chart is from <a class="external text" href="http://data.giss.nasa.gov/gistemp/tabledata/GLB.Ts+dSST.txt" rel="nofollow">NASA data</a> of <a class="external text" href="http://data.giss.nasa.gov/gistemp/" rel="nofollow">combined land-surface air and sea-surface water temperature anomalies</a>.
+</p>
+<table class="wikitable sortable" style="margin:auto;">
+<tbody><tr>
+<th>Years
+</th>
+<th>Temperature anomaly, <a href="/wiki/Celsius" title="Celsius">°C</a> (<a href="/wiki/Fahrenheit" title="Fahrenheit">°F</a>) from 1951–1980 mean
+</th>
+<th>Change from previous decade, <a href="/wiki/Celsius" title="Celsius">°C</a> (<a href="/wiki/Fahrenheit" title="Fahrenheit">°F</a>)
+</th></tr>
+<tr>
+<td>1880–1889
+</td>
+<td><span class="sortkey" style="display:none">3000726000000000000♠</span>−0.274 °C (−0.493 °F)
+</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>1890–1899
+</td>
+<td><span class="sortkey" style="display:none">3000746000000000000♠</span>−0.254 °C (−0.457 °F)
+</td>
+<td><span class="sortkey" style="display:none">6998200000000000000♠</span>+0.020 °C (0.0360 °F)
+</td></tr>
+<tr>
+<td>1900–1909
+</td>
+<td><span class="sortkey" style="display:none">3000741000000000000♠</span>−0.259 °C (−0.466 °F)
+</td>
+<td><span class="sortkey" style="display:none">3002500000000000000♠</span>−0.005 °C (−0.00900 °F)
+</td></tr>
+<tr>
+<td>1910–1919
+</td>
+<td><span class="sortkey" style="display:none">3000724000000000000♠</span>−0.276 °C (−0.497 °F)
+</td>
+<td><span class="sortkey" style="display:none">3001830000000000000♠</span>−0.017 °C (−0.0306 °F)
+</td></tr>
+<tr>
+<td>1920–1929
+</td>
+<td><span class="sortkey" style="display:none">3000825000000000000♠</span>−0.175 °C (−0.315 °F)
+</td>
+<td><span class="sortkey" style="display:none">6999101000000000000♠</span>+0.101 °C (0.182 °F)
+</td></tr>
+<tr>
+<td>1930–1939
+</td>
+<td><span class="sortkey" style="display:none">3001570000000000000♠</span>−0.043 °C (−0.0774 °F)
+</td>
+<td><span class="sortkey" style="display:none">6999132000000000000♠</span>+0.132 °C (0.238 °F)
+</td></tr>
+<tr>
+<td>1940–1949
+</td>
+<td><span class="sortkey" style="display:none">6998350000000000000♠</span>0.035 °C (0.0630 °F)
+</td>
+<td><span class="sortkey" style="display:none">6998780000000000000♠</span>+0.078 °C (0.140 °F)
+</td></tr>
+<tr>
+<td>1950–1959
+</td>
+<td><span class="sortkey" style="display:none">3001800000000000000♠</span>−0.02 °C (−0.0360 °F)
+</td>
+<td><span class="sortkey" style="display:none">3001450000000000000♠</span>−0.055 °C (−0.0990 °F)
+</td></tr>
+<tr>
+<td>1960–1969
+</td>
+<td><span class="sortkey" style="display:none">3001860000000000000♠</span>−0.014 °C (−0.0252 °F)
+</td>
+<td><span class="sortkey" style="display:none">6997600000000000000♠</span>+0.006 °C (0.0108 °F)
+</td></tr>
+<tr>
+<td>1970–1979
+</td>
+<td><span class="sortkey" style="display:none">3002900000000000000♠</span>−0.001 °C (−0.00180 °F)
+</td>
+<td><span class="sortkey" style="display:none">6998130000000000000♠</span>+0.013 °C (0.0234 °F)
+</td></tr>
+<tr>
+<td>1980–1989
+</td>
+<td><span class="sortkey" style="display:none">6999176000000000000♠</span>0.176 °C (0.317 °F)
+</td>
+<td><span class="sortkey" style="display:none">6999177000000000000♠</span>+0.177 °C (0.319 °F)
+</td></tr>
+<tr>
+<td>1990–1999
+</td>
+<td><span class="sortkey" style="display:none">6999313000000000000♠</span>0.313 °C (0.563 °F)
+</td>
+<td><span class="sortkey" style="display:none">6999137000000000000♠</span>+0.137 °C (0.247 °F)
+</td></tr>
+<tr>
+<td>2000–2009
+</td>
+<td><span class="sortkey" style="display:none">6999513000000000000♠</span>0.513 °C (0.923 °F)
+</td>
+<td><span class="sortkey" style="display:none">6999200000000000000♠</span>+0.200 °C (0.360 °F)
+</td></tr>
+<tr>
+<td>2010–2019 (incomplete)
+</td>
+<td><span class="sortkey" style="display:none">6999728000000000000♠</span>0.728 °C (1.31 °F)
+</td>
+<td><span class="sortkey" style="display:none">6999215000000000000♠</span>+0.215 °C (0.387 °F)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Influences_on_global_temperature">Influences on global temperature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=6" title="Edit section: Influences on global temperature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Short_Instrumental_Temperature_Record.png"><img alt="" class="thumbimage" data-file-height="359" data-file-width="510" height="211" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Short_Instrumental_Temperature_Record.png/300px-Short_Instrumental_Temperature_Record.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Short_Instrumental_Temperature_Record.png/450px-Short_Instrumental_Temperature_Record.png 1.5x, //upload.wikimedia.org/wikipedia/commons/a/af/Short_Instrumental_Temperature_Record.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Short_Instrumental_Temperature_Record.png" title="Enlarge"></a></div>Global surface temperature change for the period 1980–2004. The blue line is the monthly average, the black line is the annual average and the red line is the 5-year running average. Data source: <a class="external free" href="http://www.cru.uea.ac.uk/" rel="nofollow">http://www.cru.uea.ac.uk/</a></div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></div>
+<p><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a> trap outgoing radiation warming the atmosphere which in turn warms the land.
+</p><p><a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a> generally tends to increase global temperatures. <a href="/wiki/La_Ni%C3%B1a" title="La Niña">La Niña</a>, on the other hand, usually causes years which are cooler than the short-term average.<sup class="reference" id="cite_ref-NOAA_27-0"><a href="#cite_note-NOAA-27">[27]</a></sup> El Niño is the warm phase of the <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o_Southern_Oscillation" title="El Niño Southern Oscillation">El Niño Southern Oscillation</a> (ENSO) and La Niña the cold phase.
+</p><p><a class="mw-redirect" href="/wiki/Aerosols" title="Aerosols">Aerosols</a> diffuse incoming radiation generally cooling the planet. Volcanoes are the largest source but there are also anthropogenic sources. There are several other effects such as clouds. Some aerosols like carbon black have warming effects.
+</p><p><a href="/wiki/Land_use" title="Land use">Land use</a> change like deforestation can increase greenhouse gases through burning <a href="/wiki/Biomass" title="Biomass">biomass</a>. <a href="/wiki/Albedo" title="Albedo">Albedo</a> can also be changed.
+</p><p><a href="/wiki/Solar_irradiance" title="Solar irradiance">Incoming solar radiation</a> varies very slightly, with the main variation controlled by the approximately 11-year <a href="/wiki/Solar_cycle" title="Solar cycle">solar magnetic activity cycle</a>.
+</p>
+<h2><span class="mw-headline" id="Absolute_temperatures_v._anomalies">Absolute temperatures v. anomalies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=7" title="Edit section: Absolute temperatures v. anomalies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Records of global average surface temperature are usually presented as <a class="extiw" href="https://en.wiktionary.org/wiki/anomaly" title="wikt:anomaly">anomalies</a> rather than as absolute temperatures. A temperature anomaly is measured against a reference value or long-term average.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> For example, if the reference value is 15 °C, and the measured temperature is 17 °C, then the temperature anomaly is +2 °C (i.e., 17 °C −15 °C).
+</p><p>Temperature anomalies are useful for deriving average surface temperatures because they tend to be highly correlated over large distances (of the order of 1000 km).<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> In other words, anomalies are representative of temperature changes over large areas and distances. By comparison, absolute temperatures vary markedly over even short distances.
+</p><p>The Earth's average surface absolute temperature for the 1961–1990 period has been derived by spatial interpolation of average observed near-surface air temperatures from over the land, oceans and sea ice regions, with a best estimate of 14 °C (57.2 °F).<sup class="reference" id="cite_ref-jonesreview_30-0"><a href="#cite_note-jonesreview-30">[30]</a></sup> The estimate is uncertain, but probably lies within 0.5 °C of the true value.<sup class="reference" id="cite_ref-jonesreview_30-1"><a href="#cite_note-jonesreview-30">[30]</a></sup> Given the difference in uncertainties between this absolute value and any annual anomaly, it's not valid to add them together to imply a precise absolute value for a specific year.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Global_record_from_1850">Global record from 1850</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=8" title="Edit section: Global record from 1850">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The period for which reasonably reliable instrumental records of near-surface temperature exist with quasi-global coverage is generally considered to begin around 1850. Earlier records exist, but with sparser coverage and less standardized instrumentation.
+</p><p>The temperature data for the record come from measurements from land stations and ships. On land, temperature sensors are kept in a <a href="/wiki/Stevenson_screen" title="Stevenson screen">Stevenson screen</a> or a <a href="/wiki/MMTS_(meteorology)" title="MMTS (meteorology)">maximum minimum temperature system</a> (MMTS). The sea record consists of surface ships taking sea temperature measurements from engine inlets or buckets. The land and marine records can be compared.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> Land and sea measurement and instrument calibration is the responsibility of <a href="/wiki/World_Meteorological_Organization#Current_member_states" title="World Meteorological Organization">national meteorological services</a>. Standardization of methods is organized through the <a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">World Meteorological Organization</a> (and formerly through its predecessor, the <a href="/wiki/International_Meteorological_Organization" title="International Meteorological Organization">International Meteorological Organization</a>).<sup class="reference" id="cite_ref-GOSGuide_33-0"><a href="#cite_note-GOSGuide-33">[33]</a></sup>
+</p><p>Most meteorological observations are taken for use in weather forecasts. Centers such as <a href="/wiki/European_Centre_for_Medium-Range_Weather_Forecasts" title="European Centre for Medium-Range Weather Forecasts">ECMWF</a> show <a class="external text" href="http://www.ecmwf.int/products/forecasts/d/overview/monitoring/coverage/dcover!ssmi!00!pop!od!oper!w_coverage!latest!obs/" rel="nofollow">instantaneous map of their coverage</a>; or the Hadley Centre show the coverage for the <a class="external text" href="http://www.meto.gov.uk/research/hadleycentre/CR_data/Annual/HadCRUTanm_2000.gif" rel="nofollow">average of the year 2000</a>. Coverage for earlier in the 20th and 19th centuries would be significantly less. While temperature changes vary both in size and direction from one location to another, the numbers from different locations are combined to produce an estimate of a global average change.
+</p>
+<h2><span class="mw-headline" id="Robustness_of_evidence">Robustness of evidence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=9" title="Edit section: Robustness of evidence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is a <a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">scientific consensus that climate is changing</a> and that greenhouse gases emitted by human activities are the primary driver.<sup class="reference" id="cite_ref-joint_statement_on_climate_change_34-0"><a href="#cite_note-joint_statement_on_climate_change-34">[34]</a></sup> The scientific consensus is reflected, for example, by the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a> (IPCC), an international body which summarizes existing science, and the <a href="/wiki/U.S._Global_Change_Research_Program" title="U.S. Global Change Research Program">U.S. Global Change Research Program</a>.<sup class="reference" id="cite_ref-joint_statement_on_climate_change_34-1"><a href="#cite_note-joint_statement_on_climate_change-34">[34]</a></sup>
+</p><p>The methods used to derive the principal estimates of global surface temperature trends — HadCRUT3, NOAA and NASA/GISS — are largely independent.
+</p>
+<h3><span class="mw-headline" id="Other_reports_and_assessments">Other reports and assessments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=10" title="Edit section: Other reports and assessments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Global_warming._Short-term_variations_versus_a_long-term_trend_(NCADAC).png"><img alt="Refer to caption" class="thumbimage" data-file-height="1174" data-file-width="1561" height="263" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Global_warming._Short-term_variations_versus_a_long-term_trend_%28NCADAC%29.png/350px-Global_warming._Short-term_variations_versus_a_long-term_trend_%28NCADAC%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Global_warming._Short-term_variations_versus_a_long-term_trend_%28NCADAC%29.png/525px-Global_warming._Short-term_variations_versus_a_long-term_trend_%28NCADAC%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Global_warming._Short-term_variations_versus_a_long-term_trend_%28NCADAC%29.png/700px-Global_warming._Short-term_variations_versus_a_long-term_trend_%28NCADAC%29.png 2x" width="350"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Global_warming._Short-term_variations_versus_a_long-term_trend_(NCADAC).png" title="Enlarge"></a></div>This graph shows how short-term variations occur in the global temperature record. However, the graph still shows a long-term trend of <a href="/wiki/Global_warming" title="Global warming">global warming</a>. Image source: NCADAC.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup></div></div></div>
+<p>The <a class="mw-redirect" href="/wiki/United_States_National_Academy_of_Sciences" title="United States National Academy of Sciences">U.S. National Academy of Sciences</a>, both in its 2002 report to President George W. Bush, and in later publications, has strongly endorsed evidence of an average global temperature increase in the 20th century.<sup class="reference" id="cite_ref-NA_brief_36-0"><a href="#cite_note-NA_brief-36">[36]</a></sup>
+</p><p>The preliminary results of an assessment carried out by the <a class="mw-redirect" href="/wiki/Berkeley_Earth_Surface_Temperature" title="Berkeley Earth Surface Temperature">Berkeley Earth Surface Temperature</a> group and made public in October 2011, found that over the past 50 years the land surface warmed by 0.911 °C, and their results mirrors those obtained from earlier studies carried out by the NOAA, the <a class="mw-redirect" href="/wiki/Hadley_Centre" title="Hadley Centre">Hadley Centre</a> and <a href="/wiki/NASA" title="NASA">NASA</a>'s GISS.  The study addressed concerns raised by "skeptics"<sup class="reference" id="cite_ref-SciDaily1011_37-0"><a href="#cite_note-SciDaily1011-37">[37]</a></sup><sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup> including urban heat island effect, "poor"<sup class="reference" id="cite_ref-SciDaily1011_37-1"><a href="#cite_note-SciDaily1011-37">[37]</a></sup> station quality, and the "issue of data selection bias"<sup class="reference" id="cite_ref-SciDaily1011_37-2"><a href="#cite_note-SciDaily1011-37">[37]</a></sup> and found that these effects did not bias the results obtained from these earlier studies.<sup class="reference" id="cite_ref-SciDaily1011_37-3"><a href="#cite_note-SciDaily1011-37">[37]</a></sup><sup class="reference" id="cite_ref-Guardian1011_39-0"><a href="#cite_note-Guardian1011-39">[39]</a></sup><sup class="reference" id="cite_ref-bbcBlack_40-0"><a href="#cite_note-bbcBlack-40">[40]</a></sup><sup class="reference" id="cite_ref-Econ1011_41-0"><a href="#cite_note-Econ1011-41">[41]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Internal_climate_variability_and_global_warming">Internal climate variability and global warming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=11" title="Edit section: Internal climate variability and global warming">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Attribution_of_recent_climate_change#Internal_climate_variability_and_global_warming" title="Attribution of recent climate change">Attribution of recent climate change § Internal climate variability and global warming</a></div>
+<p>One of the issues that has been raised in the media is the view that global warming "stopped in 1998".<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup><sup class="reference" id="cite_ref-scott_variability_p1_43-0"><a href="#cite_note-scott_variability_p1-43">[43]</a></sup>
+This view ignores the presence of internal climate variability.<sup class="reference" id="cite_ref-scott_variability_p1_43-1"><a href="#cite_note-scott_variability_p1-43">[43]</a></sup><sup class="reference" id="cite_ref-met_office_internal_variability_44-0"><a href="#cite_note-met_office_internal_variability-44">[44]</a></sup> Internal climate variability is a result of complex interactions between components of the climate system, such as the <a href="/wiki/Coupling_(physics)" title="Coupling (physics)">coupling</a> between the <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">atmosphere</a> and <a href="/wiki/Ocean" title="Ocean">ocean</a>.<sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[45]</a></sup> An example of internal climate variability is the <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o_Southern_Oscillation" title="El Niño Southern Oscillation">El Niño Southern Oscillation</a> (ENSO).<sup class="reference" id="cite_ref-scott_variability_p1_43-2"><a href="#cite_note-scott_variability_p1-43">[43]</a></sup><sup class="reference" id="cite_ref-met_office_internal_variability_44-1"><a href="#cite_note-met_office_internal_variability-44">[44]</a></sup> The <a href="/wiki/1997%E2%80%9398_El_Ni%C3%B1o_event" title="1997–98 El Niño event">El Niño in 1998</a> was particularly strong, possibly one of the strongest of the 20th century.<sup class="reference" id="cite_ref-scott_variability_p1_43-3"><a href="#cite_note-scott_variability_p1-43">[43]</a></sup>
+</p><p>Cooling between 2006 and 2008, for instance, was likely driven by La Niña, the opposite of El Niño conditions.<sup class="reference" id="cite_ref-scott_variability_p3_46-0"><a href="#cite_note-scott_variability_p3-46">[46]</a></sup> The area of cooler-than-average sea surface temperatures that defines La Niña conditions can push global temperatures downward, if the phenomenon is strong enough.<sup class="reference" id="cite_ref-scott_variability_p3_46-1"><a href="#cite_note-scott_variability_p3-46">[46]</a></sup> Even accounting for the presence of internal climate variability, recent years rank among the warmest on record.<sup class="reference" id="cite_ref-scott_variability_p2_47-0"><a href="#cite_note-scott_variability_p2-47">[47]</a></sup> For example, every year of the 2000s was warmer than the 1990 average.<sup class="reference" id="cite_ref-State2009p5_23-1"><a href="#cite_note-State2009p5-23">[23]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Regional_temperature">Regional temperature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=12" title="Edit section: Regional temperature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:NCDC_temperature_trend.png"><img alt="" class="thumbimage" data-file-height="991" data-file-width="2005" height="148" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/NCDC_temperature_trend.png/300px-NCDC_temperature_trend.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/NCDC_temperature_trend.png/450px-NCDC_temperature_trend.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/NCDC_temperature_trend.png/600px-NCDC_temperature_trend.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:NCDC_temperature_trend.png" title="Enlarge"></a></div>1901–2011 global temperature trend</div></div></div>
+<link href="mw-data:TemplateStyles:r856303569" rel="mw-deduplicated-inline-style"/><div class="thumb tmulti tright"><div class="thumbinner" style="width:308px;max-width:308px"><div class="tsingle" style="float:left;margin:1px;width:152px;max-width:152px"><div class="thumbimage"><a class="image" href="/wiki/File:NOAA_Land.svg"><img alt="" data-file-height="700" data-file-width="1000" height="105" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/NOAA_Land.svg/150px-NOAA_Land.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/NOAA_Land.svg/225px-NOAA_Land.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/NOAA_Land.svg/300px-NOAA_Land.svg.png 2x" width="150"/></a></div><div class="thumbcaption" style="clear:left">Global land temperature anomaly, 1880–2012</div></div><div class="tsingle" style="float:left;margin:1px;width:152px;max-width:152px"><div class="thumbimage"><a class="image" href="/wiki/File:NOAA_Ocean.svg"><img alt="" data-file-height="700" data-file-width="1000" height="105" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NOAA_Ocean.svg/150px-NOAA_Ocean.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NOAA_Ocean.svg/225px-NOAA_Ocean.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NOAA_Ocean.svg/300px-NOAA_Ocean.svg.png 2x" width="150"/></a></div><div class="thumbcaption" style="clear:left">Global ocean temperature anomaly, 1880–2012</div></div><div style="clear:left"></div></div></div>
+<p>Temperature trends from 1901 are positive over most of the world's surface except for Atlantic Ocean south of Greenland, the <a href="/wiki/Southeastern_United_States" title="Southeastern United States">southeastern United States</a>, and parts of <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>. Warming is strongest over inland areas in Asia and North America as well as south-eastern Brazil and some areas in the South Atlantic and Indian oceans.
+</p><p>Since 1979 temperature increase is considerably stronger over land while cooling has been observed over some oceanic regions in the Pacific Ocean and Southern Hemisphere; the spatial pattern of ocean temperature trend in those regions is possibly related to the <a class="mw-redirect" href="/wiki/Pacific_Decadal_Oscillation" title="Pacific Decadal Oscillation">Pacific Decadal Oscillation</a> and <a href="/wiki/Antarctic_oscillation" title="Antarctic oscillation">Southern Annular Mode</a>.<sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[48]</a></sup>
+</p><p>Seasonal temperature trends are positive over most of the globe but weak cooling is observed over the mid latitudes of the southern ocean but also over eastern Canada in spring because of strengthening of the <a class="mw-redirect" href="/wiki/North_Atlantic_Oscillation" title="North Atlantic Oscillation">North Atlantic Oscillation</a>. Warming is stronger over northern Europe, China and North America in winter, Europe and Asia interior in spring, Europe and north Africa in summer and northern North America, Greenland and eastern Asia in autumn.
+Enhanced warming over north Eurasia is partly linked to the <a href="/wiki/Arctic_oscillation" title="Arctic oscillation">Northern Annular Mode</a>,<sup class="reference" id="cite_ref-Polyakov_2003_49-0"><a href="#cite_note-Polyakov_2003-49">[49]</a></sup><sup class="reference" id="cite_ref-Liu_2007_50-0"><a href="#cite_note-Liu_2007-50">[50]</a></sup> while in the southern hemisphere the trend toward stronger westerlies over the Southern ocean favoured a cooling over much of Antarctica with the exception of the Antarctic Peninsula where strong westerlies decrease cold air outbreaks from the south.<sup class="reference" id="cite_ref-ThompsonSolomon_51-0"><a href="#cite_note-ThompsonSolomon-51">[51]</a></sup>
+The <a href="/wiki/Antarctic_Peninsula" title="Antarctic Peninsula">Antarctic Peninsula</a> has warmed by 2.5 °C (4.5 °F) in the past five decades at Bellingshausen Station.<sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[52]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Satellite_temperature_records">Satellite temperature records</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=13" title="Edit section: Satellite temperature records">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite temperature measurements</a></div>
+<link href="mw-data:TemplateStyles:r856303569" rel="mw-deduplicated-inline-style"/><div class="thumb tmulti tright"><div class="thumbinner" style="width:304px;max-width:304px"><div class="tsingle" style="margin:1px;width:302px;max-width:302px"><div class="thumbimage"><a class="image" href="/wiki/File:Satellite_Temperatures.png"><img alt="" data-file-height="1590" data-file-width="2400" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Satellite_Temperatures.png/300px-Satellite_Temperatures.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Satellite_Temperatures.png/450px-Satellite_Temperatures.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Satellite_Temperatures.png/600px-Satellite_Temperatures.png 2x" width="300"/></a></div><div class="thumbcaption" style="clear:left">Comparison of ground-based (blue) and satellite-based (red: <a href="/wiki/University_of_Alabama_in_Huntsville" title="University of Alabama in Huntsville">University of Alabama in Huntsville</a>; green: RSS) records of global surface temperature change from 1979–2009. Linear trends plotted since 1982.</div></div></div></div>
+<p>The most recent climate model simulations give a range of results for changes in global-average temperature. Some models show more warming in the troposphere than at the surface, while a slightly smaller number of simulations show the opposite behaviour. There is no fundamental inconsistency among these model results and observations at the global scale.<sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[53]</a></sup>
+</p><p>The satellite records used to show much smaller warming trends for the troposphere which were considered to disagree with model prediction; however, following revisions to the satellite records, the trends are now similar.
+</p><p>The IPCC fifth assessment report concluded "assessment of the large body of studies comparing various long-term radiosonde and MSU products since AR4 is hampered by data set version changes, and inherent data uncertainties. These factors substantially limit the ability to draw robust and consistent inferences from such studies about the true long-term trends or the value of different data products".<sup class="reference" id="cite_ref-54"><a href="#cite_note-54">[54]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Evaluation">Evaluation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=14" title="Edit section: Evaluation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The U.S. <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> Cooperative Observer Program has established minimum standards regarding the instrumentation, siting, and reporting of surface temperature stations.<sup class="reference" id="cite_ref-55"><a href="#cite_note-55">[55]</a></sup> The observing systems available are able to detect year-to-year temperature variations such as those caused by El Niño or volcanic eruptions.<sup class="reference" id="cite_ref-CCSP_56-0"><a href="#cite_note-CCSP-56">[56]</a></sup>
+</p><p>The <a href="/wiki/Urban_heat_island" title="Urban heat island">urban heat island</a> effect is very small, estimated to account for less than <span class="nowrap"><span class="sortkey" style="display:none">7002273152000000000♠</span>0.002 °C</span> of warming per decade since 1900.<sup class="reference" id="cite_ref-57"><a href="#cite_note-57">[57]</a></sup>
+</p><p>Brooks investigated Historical Climate Network (USHCN) sites in Indiana in 2005, and assigned 16% of the sites an ‘excellent’ rating, 59% a ‘good’ rating, 12.5% a ‘fair’ rating, and 12.5% ‘poor’ rating.<sup class="reference" id="cite_ref-58"><a href="#cite_note-58">[58]</a></sup> A 2006 study analyzed 366 U.S. surface stations; results indicate relatively few significant temperature trends, and these are generally evenly divided between warming and cooling trends. 95% of the stations displayed a warming trend after land use/land cover changes took place, and the authors noted "this does not necessarily imply that the changes are the causative factor."<sup class="reference" id="cite_ref-59"><a href="#cite_note-59">[59]</a></sup> Another study that same year documented examples of well and poorly sited monitoring stations in the United States, including ones near buildings, roadways, and air conditioning exhausts.<sup class="reference" id="cite_ref-60"><a href="#cite_note-60">[60]</a></sup>
+</p><p>Another study concluded in 2006, that existing empirical techniques for validating the local and regional consistency of temperature data are adequate to identify and remove biases from station records, and that such corrections allow information about long-term trends to be preserved.<sup class="reference" id="cite_ref-61"><a href="#cite_note-61">[61]</a></sup> A study in 2013 also found that urban bias can be accounted for, and when all available station data is divided into rural and urban, that both temperature sets are broadly consistent.<sup class="reference" id="cite_ref-62"><a href="#cite_note-62">[62]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Global_surface_and_ocean_datasets">Global surface and ocean datasets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=15" title="Edit section: Global surface and ocean datasets">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:GHCN_Temperature_Stations.png"><img alt="" class="thumbimage" data-file-height="595" data-file-width="900" height="198" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/GHCN_Temperature_Stations.png/300px-GHCN_Temperature_Stations.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/GHCN_Temperature_Stations.png/450px-GHCN_Temperature_Stations.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/GHCN_Temperature_Stations.png/600px-GHCN_Temperature_Stations.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:GHCN_Temperature_Stations.png" title="Enlarge"></a></div>Map of the land-based long-term monitoring stations included in the <a href="/wiki/Global_Historical_Climatology_Network" title="Global Historical Climatology Network">Global Historical Climatology Network</a>. Colors indicate the length of the temperature record available at each site.</div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Temperature_measurement" title="Temperature measurement">Temperature measurement</a></div>
+<p><a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a> (NOAA) maintains the <a href="/wiki/Global_Historical_Climatology_Network" title="Global Historical Climatology Network">Global Historical Climatology Network</a> (GHCN-Monthly) data base containing historical temperature, precipitation, and pressure data for thousands of land stations worldwide.<sup class="reference" id="cite_ref-GHCN_63-0"><a href="#cite_note-GHCN-63">[63]</a></sup> Also, NOAA's <a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">National Climatic Data Center</a> (NCDC)<sup class="reference" id="cite_ref-64"><a href="#cite_note-64">[64]</a></sup> of surface temperature measurements maintains a global temperature record since 1880.<sup class="reference" id="cite_ref-NCDC_65-0"><a href="#cite_note-NCDC-65">[65]</a></sup>
+</p><p><a href="/wiki/HadCRUT" title="HadCRUT">HadCRUT</a>, a collaboration between the <a href="/wiki/University_of_East_Anglia" title="University of East Anglia">University of East Anglia</a>'s <a href="/wiki/Climatic_Research_Unit" title="Climatic Research Unit">Climatic Research Unit</a> and the <a href="/wiki/Hadley_Centre_for_Climate_Prediction_and_Research" title="Hadley Centre for Climate Prediction and Research">Hadley Centre for Climate Prediction and Research</a>
+</p><p>NASA's <a href="/wiki/Goddard_Institute_for_Space_Studies" title="Goddard Institute for Space Studies">Goddard Institute for Space Studies</a> maintains <a class="mw-redirect" href="/wiki/GISTEMP" title="GISTEMP">GISTEMP</a>.
+</p><p>More recently the <a class="mw-redirect" href="/wiki/Berkeley_Earth_Surface_Temperature" title="Berkeley Earth Surface Temperature">Berkeley Earth Surface Temperature</a> dataset. These datasets are updated frequently, and are generally in close agreement.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Global_Warming_Map.jpg"><img alt="icon" class="noviewer" data-file-height="596" data-file-width="800" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/32px-Global_Warming_Map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/48px-Global_Warming_Map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/64px-Global_Warming_Map.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Global warming portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/List_of_large-scale_temperature_reconstructions_of_the_last_2,000_years" title="List of large-scale temperature reconstructions of the last 2,000 years">List of large-scale temperature reconstructions of the last 2,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite temperature measurements</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Temperature record of the past 1000 years</a></li></ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://data.giss.nasa.gov/gistemp/" rel="nofollow">GISS Surface Temperature Analysis (GISTEMP)</a></li>
+<li><a class="external text" href="http://www.cru.uea.ac.uk/cru/data/crutem/ge/" rel="nofollow">Google Earth interface for CRUTEM4 land temperature data</a></li>
+<li><a class="external text" href="http://www.surfacetemperatures.org/" rel="nofollow">International Surface Temperature Initiative</a></li></ul>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a class="mw-selflink selflink">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20181031205931
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.900 seconds
+Real time usage: 1.016 seconds
+Preprocessor visited node count: 3384/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 187513/2097152 bytes
+Template argument size: 127/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 154163/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.445/10.000 seconds
+Lua memory usage: 7.97 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  755.210      1 -total
+ 64.27%  485.380      1 Template:Reflist
+ 27.61%  208.546     18 Template:Cite_journal
+  9.32%   70.415     14 Template:Cite_web
+  8.42%   63.592      1 Template:Global_warming
+  8.00%   60.399      1 Template:Navbox_with_collapsible_groups
+  7.87%   59.461     28 Template:Convert
+  6.46%   48.757      3 Template:Multiple_image
+  5.97%   45.105      8 Template:Cite_news
+  4.86%   36.714      1 Template:For
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:182371-0!canonical and timestamp 20181031205930 and revision id 858802586
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Instrumental_temperature_record&amp;oldid=858802586">https://en.wikipedia.org/w/index.php?title=Instrumental_temperature_record&amp;oldid=858802586</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_change_science" title="Category:Climate change science">Climate change science</a></li><li><a href="/wiki/Category:Climate_history" title="Category:Climate history">Climate history</a></li><li><a href="/wiki/Category:Weather_records" title="Category:Weather records">Weather records</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Pages_with_URL_errors" title="Category:Pages with URL errors">Pages with URL errors</a></li><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:Articles_with_inconsistent_citation_formats" title="Category:Articles with inconsistent citation formats">Articles with inconsistent citation formats</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Instrumental+temperature+record" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Instrumental+temperature+record" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Instrumental_temperature_record" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Instrumental_temperature_record" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Instrumental_temperature_record">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Instrumental_temperature_record&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Instrumental_temperature_record&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Instrumental_temperature_record" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Instrumental_temperature_record" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Instrumental_temperature_record&amp;oldid=858802586" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Instrumental_temperature_record&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3773774" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Instrumental_temperature_record&amp;id=858802586" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Instrumental+temperature+record">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Instrumental+temperature+record&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Instrumental_temperature_record&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Registre_instrumental_de_temperatures" hreflang="ca" lang="ca" title="Registre instrumental de temperatures – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Instrument%C3%A1ln%C3%AD_z%C3%A1znamy_teplot" hreflang="cs" lang="cs" title="Instrumentální záznamy teplot – Czech">Čeština</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Registro_instrumental_de_temperaturas" hreflang="es" lang="es" title="Registro instrumental de temperaturas – Spanish">Español</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Instrumentalne_pomiary_temperatury" hreflang="pl" lang="pl" title="Instrumentalne pomiary temperatury – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Registro_instrumental_de_temperaturas" hreflang="pt" lang="pt" title="Registro instrumental de temperaturas – Portuguese">Português</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3773774#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 9 September 2018, at 18:09<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Instrumental_temperature_record&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.900","walltime":"1.016","ppvisitednodes":{"value":3384,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":187513,"limit":2097152},"templateargumentsize":{"value":127,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":154163,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  755.210      1 -total"," 64.27%  485.380      1 Template:Reflist"," 27.61%  208.546     18 Template:Cite_journal","  9.32%   70.415     14 Template:Cite_web","  8.42%   63.592      1 Template:Global_warming","  8.00%   60.399      1 Template:Navbox_with_collapsible_groups","  7.87%   59.461     28 Template:Convert","  6.46%   48.757      3 Template:Multiple_image","  5.97%   45.105      8 Template:Cite_news","  4.86%   36.714      1 Template:For"]},"scribunto":{"limitreport-timeusage":{"value":"0.445","limit":"10.000"},"limitreport-memusage":{"value":8354995,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20181031205931","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1258"});});</script>
+</body>
+</html>

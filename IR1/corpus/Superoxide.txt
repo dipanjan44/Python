@@ -1,0 +1,395 @@
+https://en.wikipedia.org/wiki/Superoxide
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Superoxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Superoxide","wgTitle":"Superoxide","wgCurRevisionId":866464362,"wgRevisionId":866464362,"wgArticleId":92447,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Anions","Oxygen compounds","Oxoanions","Immune system","Superoxides","Free radicals","Reactive oxygen species"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Superoxide","wgRelevantArticleId":92447,"wgRequestId":"W9hmNwpAIC8AAI@piNQAAACV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q413283","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Superoxide.svg/1200px-Superoxide.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Superoxide" rel="alternate"/>
+<link href="/w/index.php?title=Superoxide&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Superoxide&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Superoxide" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Superoxide rootpage-Superoxide skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Superoxide</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Superoxide.svg"><img alt="" class="thumbimage" data-file-height="160" data-file-width="260" height="92" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Superoxide.svg/150px-Superoxide.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Superoxide.svg/225px-Superoxide.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Superoxide.svg/300px-Superoxide.svg.png 2x" width="150"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Superoxide.svg" title="Enlarge"></a></div><a href="/wiki/Lewis_structure" title="Lewis structure">Lewis electron configuration</a> of superoxide. The six outer-shell electrons of each <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> atom are shown in black; one electron pair is shared (middle); the unpaired electron is shown in the upper-left; and the additional electron conferring a negative charge is shown in red.</div></div></div>
+<p>A <b>superoxide</b> is a compound that contains the superoxide <a class="mw-redirect" href="/wiki/Anion" title="Anion">anion</a>, which has the chemical formula <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The systematic name of the anion is <b>dioxide(1−)</b>. The <a href="/wiki/Reactive_oxygen_species" title="Reactive oxygen species">reactive oxygen anion</a> superoxide is particularly important as the product of the one-electron <a href="/wiki/Redox" title="Redox">reduction</a> of <a class="mw-redirect" href="/wiki/Dioxygen" title="Dioxygen">dioxygen</a> O<sub>2</sub>, which occurs widely in nature.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>  Molecular oxygen (dioxygen) is a <a href="/wiki/Diradical" title="Diradical">diradical</a> containing two <a href="/wiki/Unpaired_electron" title="Unpaired electron">unpaired electrons</a>, and superoxide results from the addition of an electron which fills one of the two <a class="mw-redirect" href="/wiki/Degenerate_energy_level" title="Degenerate energy level">degenerate</a> <a href="/wiki/Molecular_orbital" title="Molecular orbital">molecular orbitals</a>, leaving a charged ionic species with a single unpaired electron and a net negative charge of −1.  Both dioxygen and the superoxide anion are <a class="mw-redirect" href="/wiki/Free_radicals" title="Free radicals">free radicals</a> that exhibit <a href="/wiki/Paramagnetism" title="Paramagnetism">paramagnetism</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Derivatives"><span class="tocnumber">1</span> <span class="toctext">Derivatives</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Biology"><span class="tocnumber">2</span> <span class="toctext">Biology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Assay_in_biological_systems"><span class="tocnumber">2.1</span> <span class="toctext">Assay in biological systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Bonding_and_structure"><span class="tocnumber">3</span> <span class="toctext">Bonding and structure</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Derivatives">Derivatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Superoxide&amp;action=edit&amp;section=1" title="Edit section: Derivatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The superoxide anion, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>, and its protonated form, the <a href="/wiki/Hydroperoxyl" title="Hydroperoxyl">hydroperoxyl</a> radical HO<sub>2</sub>, are in <a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">equilibrium</a> in an <a href="/wiki/Aqueous_solution" title="Aqueous solution">aqueous solution</a>:<sup class="reference" id="cite_ref-pka_4-0"><a href="#cite_note-pka-4">[4]</a></sup>
+</p>
+<dl><dd><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + H<sub>2</sub>O ⇌ HO<sub>2</sub> + OH<sup>−</sup></dd></dl>
+<p>Given that the hydroperoxyl radical has a <a class="mw-redirect" href="/wiki/PKa" title="PKa">p<i>K</i><sub>a</sub></a> of around 4.8,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> at neutral pH superoxide predominantly exists in the anionic form.
+</p><p>Superoxides form salts with <a href="/wiki/Alkali_metal" title="Alkali metal">alkali metals</a> and <a href="/wiki/Alkaline_earth_metal" title="Alkaline earth metal">alkaline earth metals</a>.  The salts <a class="new" href="/w/index.php?title=Caesium_superoxide&amp;action=edit&amp;redlink=1" title="Caesium superoxide (page does not exist)">CsO<sub>2</sub></a>, <a class="new" href="/w/index.php?title=Rubidium_superoxide&amp;action=edit&amp;redlink=1" title="Rubidium superoxide (page does not exist)">RbO<sub>2</sub></a>, <a href="/wiki/Potassium_superoxide" title="Potassium superoxide">KO<sub>2</sub></a>, and <a href="/wiki/Sodium_superoxide" title="Sodium superoxide">NaO<sub>2</sub></a> are prepared by the reaction of O<sub>2</sub> with the respective alkali metal.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>The alkali salts of <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> are orange-yellow in color and quite stable, provided they are kept dry. Upon dissolution of these salts in water, however, the dissolved <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> undergoes <a href="/wiki/Disproportionation" title="Disproportionation">disproportionation</a> (dismutation) extremely rapidly (in a pH-dependent manner):<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<dl><dd>4 <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  + 2 H<sub>2</sub>O  →  3 O<sub>2</sub>  +  4 OH<sup>−</sup></dd></dl>
+<p>This reaction (with moisture and carbon dioxide in exhaled air) is the basis of the use of potassium superoxide as an oxygen source in <a href="/wiki/Chemical_oxygen_generator" title="Chemical oxygen generator">chemical oxygen generators</a>, such as those used on the <a class="mw-redirect" href="/wiki/Space_shuttle" title="Space shuttle">space shuttle</a> and on <a href="/wiki/Submarine" title="Submarine">submarines</a>. Superoxides are also used in <a href="/wiki/Firefighter" title="Firefighter">firefighters</a>' <a href="/wiki/Oxygen_tank" title="Oxygen tank">oxygen tanks</a> in order to provide a readily available source of oxygen.
+</p><p>In this process <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> acts as a <a class="mw-redirect" href="/wiki/Acid-base_reaction_theories" title="Acid-base reaction theories">Brønsted base</a>, initially forming the radical <a href="/wiki/Hydroperoxyl" title="Hydroperoxyl">HO<sub>2</sub>·</a>. But the <a class="mw-redirect" href="/wiki/PKa" title="PKa">p<i>K</i><sub>a</sub></a> of its <a href="/wiki/Conjugate_acid" title="Conjugate acid">conjugate acid</a>, <a class="mw-redirect" href="/wiki/Hydrogen_superoxide" title="Hydrogen superoxide">hydrogen superoxide</a> (HO<sub>2</sub>·, also known as "<a href="/wiki/Hydroperoxyl" title="Hydroperoxyl">hydroperoxyl</a>" or "perhydroxy radical"), is 4.88 so that at neutral <a href="/wiki/PH" title="PH">pH</a> 7 all but 0.3% of superoxide is in the anionic form, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>.
+</p><p>Potassium superoxide is soluble in <a href="/wiki/Dimethyl_sulfoxide" title="Dimethyl sulfoxide">dimethyl sulfoxide</a> (facilitated by crown ethers) and is stable as long as protons are not available. Superoxide can also be generated in <a class="mw-redirect" href="/wiki/Aprotic" title="Aprotic">aprotic</a> solvents by <a href="/wiki/Cyclic_voltammetry" title="Cyclic voltammetry">cyclic voltammetry</a>.
+</p><p>Salts also decompose in the solid state, but this process requires heating:
+</p>
+<dl><dd>2 NaO<sub>2</sub>  →  Na<sub>2</sub>O<sub>2</sub>  +  O<sub>2</sub></dd></dl>
+<h2><span class="mw-headline" id="Biology">Biology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Superoxide&amp;action=edit&amp;section=2" title="Edit section: Biology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Superoxide and hydroperoxyl (HO<sub>2</sub>) are discussed interchangeably, although superoxide predominates at physiological pHs.  Both superoxide and hydroperoxyl are classified as <a href="/wiki/Reactive_oxygen_species" title="Reactive oxygen species">reactive oxygen species</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> It is generated by the <a href="/wiki/Immune_system" title="Immune system">immune system</a> to kill invading <a href="/wiki/Microorganism" title="Microorganism">microorganisms</a>. In <a href="/wiki/Phagocyte" title="Phagocyte">phagocytes</a>, superoxide is produced in large quantities by the <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> <a href="/wiki/NADPH_oxidase" title="NADPH oxidase">NADPH oxidase</a> for use in oxygen-dependent killing mechanisms of invading pathogens. Mutations in the gene coding for the NADPH oxidase cause an immunodeficiency syndrome called <a href="/wiki/Chronic_granulomatous_disease" title="Chronic granulomatous disease">chronic granulomatous disease</a>, characterized by extreme susceptibility to infection, especially catalase-positive organisms. In turn, micro-organisms genetically engineered to lack <a href="/wiki/Superoxide_dismutase" title="Superoxide dismutase">superoxide dismutase</a> (SOD) lose <a href="/wiki/Virulence" title="Virulence">virulence</a>. Superoxide is also deleterious when produced as a byproduct of <a class="mw-redirect" href="/wiki/Mitochondria" title="Mitochondria">mitochondrial</a> <a href="/wiki/Cellular_respiration" title="Cellular respiration">respiration</a> (most notably by <a class="mw-redirect" href="/wiki/Complex_I" title="Complex I">Complex I</a> and <a class="mw-redirect" href="/wiki/Complex_III" title="Complex III">Complex III</a>), as well as several other enzymes, for example <a href="/wiki/Xanthine_oxidase" title="Xanthine oxidase">xanthine oxidase</a>.<sup class="reference" id="cite_ref-pmid17640558_10-0"><a href="#cite_note-pmid17640558-10">[10]</a></sup>
+</p><p>Because superoxide is toxic at high concentrations, nearly all organisms living in the presence of oxygen contain superoxide-scavenging enzymes called <a href="/wiki/Superoxide_dismutase" title="Superoxide dismutase">superoxide dismutase</a> (SOD). SOD efficiently catalyzes the <a href="/wiki/Disproportionation" title="Disproportionation">disproportionation</a> of superoxide:
+</p>
+<dl><dd>2 HO<sub>2</sub>  →  O<sub>2</sub>  +  H<sub>2</sub>O<sub>2</sub></dd></dl>
+<p>Other proteins that can be both oxidized and reduced by superoxide (e.g., <a href="/wiki/Hemoglobin#Iron.27s_oxidation_state_in_oxyhemoglobin" title="Hemoglobin">hemoglobin</a>) have weak SOD-like activity. Genetic inactivation ("<a href="/wiki/Gene_knockout" title="Gene knockout">knockout</a>") of SOD produces deleterious <a href="/wiki/Phenotype" title="Phenotype">phenotypes</a> in organisms ranging from bacteria to mice and have provided important clues as to the mechanisms of toxicity of superoxide in vivo.
+</p><p><a href="/wiki/Yeast#Science" title="Yeast">Yeast</a> lacking both mitochondrial and cytosolic SOD grow very poorly in air, but quite well under anaerobic conditions. Absence of cytosolic SOD causes a dramatic increase in mutagenesis and genomic instability. Mice lacking mitochondrial SOD (MnSOD) die around 21 days after birth due to neurodegeneration, cardiomyopathy, and lactic acidosis.<sup class="reference" id="cite_ref-pmid17640558_10-1"><a href="#cite_note-pmid17640558-10">[10]</a></sup> Mice lacking cytosolic SOD (CuZnSOD) are viable but suffer from multiple pathologies, including reduced lifespan, <a href="/wiki/Hepatocellular_carcinoma" title="Hepatocellular carcinoma">liver cancer</a>, <a href="/wiki/Muscle_atrophy" title="Muscle atrophy">muscle atrophy</a>, <a class="mw-redirect" href="/wiki/Cataracts" title="Cataracts">cataracts</a>, thymic involution, haemolytic anemia and a very rapid age-dependent decline in female fertility.<sup class="reference" id="cite_ref-pmid17640558_10-2"><a href="#cite_note-pmid17640558-10">[10]</a></sup>
+</p><p>Superoxide may contribute to the pathogenesis of many diseases (the evidence is particularly strong for <a href="/wiki/Radiation" title="Radiation">radiation</a> poisoning and <a href="/wiki/Hyperoxia" title="Hyperoxia">hyperoxic</a> injury), and perhaps also to <a class="mw-redirect" href="/wiki/Aging" title="Aging">aging</a> via the oxidative damage that it inflicts on cells. While the action of superoxide in the pathogenesis of some conditions is strong (for instance, mice and rats overexpressing CuZnSOD or MnSOD are more resistant to strokes and heart attacks), the role of superoxide in aging must be regarded as unproven for now. In <a href="/wiki/Model_organism" title="Model organism">model organisms</a> (yeast, the fruit fly Drosophila and mice), genetically <a href="/wiki/Gene_knockout" title="Gene knockout">knocking out</a> CuZnSOD shortens lifespan and accelerates certain features of aging (<a class="mw-redirect" href="/wiki/Cataracts" title="Cataracts">cataracts</a>, <a href="/wiki/Muscle_atrophy" title="Muscle atrophy">muscle atrophy</a>, <a href="/wiki/Macular_degeneration" title="Macular degeneration">macular degeneration</a>, <a href="/wiki/Thymic_involution" title="Thymic involution">thymic involution</a>).  But the converse, increasing the levels of CuZnSOD, does not seem (except perhaps in <i><a href="/wiki/Drosophila" title="Drosophila">Drosophila</a></i>), to consistently increase lifespan.<sup class="reference" id="cite_ref-pmid17640558_10-3"><a href="#cite_note-pmid17640558-10">[10]</a></sup> The most widely accepted view is that oxidative damage (resulting from multiple causes, including superoxide) is but one of several factors limiting lifespan.
+</p><p>The binding of O<sub>2</sub> by heme proteins involves formation of Fe(III) superoxide complex.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Assay_in_biological_systems">Assay in biological systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Superoxide&amp;action=edit&amp;section=3" title="Edit section: Assay in biological systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The assay of superoxide generated in biological systems is a difficult task because of its high reactivity and short half-life.<sup class="reference" id="cite_ref-pmid8074285_12-0"><a href="#cite_note-pmid8074285-12">[12]</a></sup> One approach that has been used in quantitative assays converts superoxide to <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a>, which is relatively stable. Hydrogen peroxide is then assayed by a fluorimetric method.<sup class="reference" id="cite_ref-pmid8074285_12-1"><a href="#cite_note-pmid8074285-12">[12]</a></sup> As a free radical, superoxide has a strong <a href="/wiki/Electron_paramagnetic_resonance" title="Electron paramagnetic resonance">EPR</a> signal, and it is possible to detect superoxide directly using this method when its abundance is high enough. For practical purposes, this can be achieved only in vitro under non-physiological conditions, such as high pH (which slows the spontaneous dismutation) with the enzyme <a href="/wiki/Xanthine_oxidase" title="Xanthine oxidase">xanthine oxidase</a>. Researchers have developed a series of tool compounds termed "<a class="mw-redirect" href="/wiki/Spin_trap" title="Spin trap">spin traps</a>"(see <a href="/wiki/Spin_trapping" title="Spin trapping">spin trapping</a>) that can react with superoxide, forming a meta-stable radical (half-life 1–15 minutes), which can be more readily detected by EPR. Superoxide spin trapping was initially carried out with <a class="new" href="/w/index.php?title=DMPO&amp;action=edit&amp;redlink=1" title="DMPO (page does not exist)">DMPO</a>, but, more recently, phosphorus derivatives with improved half-lives, such as <a class="new" href="/w/index.php?title=DEPPMPO&amp;action=edit&amp;redlink=1" title="DEPPMPO (page does not exist)">DEPPMPO</a> and <a class="new" href="/w/index.php?title=DIPPMPO&amp;action=edit&amp;redlink=1" title="DIPPMPO (page does not exist)">DIPPMPO</a>, have become more widely used.
+</p>
+<h2><span class="mw-headline" id="Bonding_and_structure">Bonding and structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Superoxide&amp;action=edit&amp;section=4" title="Edit section: Bonding and structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Superoxides are compounds in which the <a class="mw-redirect" href="/wiki/Oxidation_number" title="Oxidation number">oxidation number</a> of oxygen is −​<span class="frac nowrap"><sup>1</sup>⁄<sub>2</sub></span>. Whereas molecular oxygen (dioxygen) is a <a href="/wiki/Diradical" title="Diradical">diradical</a> containing two <a href="/wiki/Unpaired_electron" title="Unpaired electron">unpaired electrons</a>, the addition of a second electron fills one of its two <a class="mw-redirect" href="/wiki/Degenerate_energy_level" title="Degenerate energy level">degenerate</a> <a href="/wiki/Molecular_orbital" title="Molecular orbital">molecular orbitals</a>, leaving a charged ionic species with single unpaired electron and a net negative charge of −1.  Both dioxygen and the superoxide anion are <a class="mw-redirect" href="/wiki/Free_radicals" title="Free radicals">free radicals</a> that exhibit <a href="/wiki/Paramagnetism" title="Paramagnetism">paramagnetism</a>.  
+</p><p>The derivatives of dioxygen have characteristic O–O distances that correlate with the <a href="/wiki/Bond_order" title="Bond order">order</a> of the O–O bond.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Dioxygen compound</th>
+<th>name</th>
+<th>O–O distance (<a class="mw-redirect" href="/wiki/Angstrom" title="Angstrom">Å</a>)</th>
+<th>O–O bond order
+</th></tr>
+<tr>
+<td><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></td>
+<td><a href="/wiki/Dioxygenyl" title="Dioxygenyl">dioxygenyl</a> cation</td>
+<td>1.12</td>
+<td>2.5
+</td></tr>
+<tr>
+<td>O<sub>2</sub></td>
+<td>di<a href="/wiki/Oxygen" title="Oxygen">oxygen</a></td>
+<td>1.21</td>
+<td>2
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></td>
+<td>superoxide</td>
+<td>1.28</td>
+<td>1.5<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></td>
+<td><a href="/wiki/Peroxide" title="Peroxide">peroxide</a></td>
+<td>1.49</td>
+<td>1
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Superoxide&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a>, O<sub>2</sub></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a>, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a>, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></li>
+<li><a href="/wiki/Oxide" title="Oxide">Oxide</a>, O<sup>2−</sup></li>
+<li><a href="/wiki/Dioxygenyl" title="Dioxygenyl">Dioxygenyl</a>, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></li>
+<li><a href="/wiki/Antimycin_A" title="Antimycin A">Antimycin A</a> – used in fishery management, this compound produces large quantities of this free radical.</li>
+<li><a href="/wiki/Paraquat" title="Paraquat">Paraquat</a> – used as a herbicide, this compound produces large quantities of this free radical.</li>
+<li><a href="/wiki/Xanthine_oxidase" title="Xanthine oxidase">Xanthine oxidase</a> – This form of the enzyme xanthine dehydrogenase produces large amounts of superoxide.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Superoxide&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<div aria-labelledby="Oxygen_compounds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxygen_compounds" title="Template:Oxygen compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxygen_compounds" title="Template talk:Oxygen compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxygen_compounds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Oxygen_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> compounds</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Silver(II)_oxide" title="Silver(II) oxide">AgO</a></li>
+<li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Al<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Americium_dioxide" title="Americium dioxide">AmO<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Americium(III)_oxide&amp;action=edit&amp;redlink=1" title="Americium(III) oxide (page does not exist)">Am<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">As<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">As<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Gold(III)_oxide" title="Gold(III) oxide">Au<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">B<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">BaO</a></li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">BeO</a></li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bi<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Bismuth_tetroxide&amp;action=edit&amp;redlink=1" title="Bismuth tetroxide (page does not exist)">BiO<sub>2</sub></a></li>
+<li><a href="/wiki/Bismuth_pentoxide" title="Bismuth pentoxide">Bi<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Bromine_dioxide" title="Bromine dioxide">BrO<sub>2</sub></a></li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Br<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Dibromine_pentoxide" title="Dibromine pentoxide">Br<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">C<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">CaO</a></li>
+<li><a href="/wiki/Calcium_peroxide" title="Calcium peroxide">CaO<sub>2</sub></a></li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">CdO</a></li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">CeO<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Cerium(III,IV)_oxide&amp;action=edit&amp;redlink=1" title="Cerium(III,IV) oxide (page does not exist)">Ce<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Ce<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">ClO<sub>2</sub></a></li>
+<li><a href="/wiki/Chlorine_monoxide" title="Chlorine monoxide">Cl<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dichlorine_trioxide" title="Dichlorine trioxide">Cl<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_perchlorate" title="Chlorine perchlorate">Cl<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Dichlorine_hexoxide" title="Dichlorine hexoxide">Cl<sub>2</sub>O<sub>6</sub></a></li>
+<li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Cl<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">CoO</a></li>
+<li><a href="/wiki/Cobalt(III)_oxide" title="Cobalt(III) oxide">Co<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Co<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">CrO<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Cr<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Cr<sub>2</sub>O<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Chromic_chromate&amp;action=edit&amp;redlink=1" title="Chromic chromate (page does not exist)">Cr<sub>5</sub>O<sub>12</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Cesium_superoxide&amp;action=edit&amp;redlink=1" title="Cesium superoxide (page does not exist)">CsO<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Cesium_trioxide&amp;action=edit&amp;redlink=1" title="Cesium trioxide (page does not exist)">Cs<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">CuO</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">D<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dy<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Er<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Eu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Oxygen_difluoride" title="Oxygen difluoride"><span class="chemf nowrap">OF<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Dioxygen_difluoride" title="Dioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a class="mw-redirect" href="/wiki/Trioxygen_difluoride" title="Trioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a class="new" href="/w/index.php?title=Fluorine_tetroxide&amp;action=edit&amp;redlink=1" title="Fluorine tetroxide (page does not exist)"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">FeO</a></li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Fe<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Fe<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Ga<sub>2</sub>O</a></li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Ga<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">GeO</a></li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">GeO<sub>2</sub></a></li>
+<li><a href="/wiki/Water" title="Water">H<sub>2</sub>O</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">H<sub>2</sub><sup>18</sup>O</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hafnium_oxide" title="Hafnium oxide">HfO<sub>2</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Mercuric_oxide" title="Mercuric oxide">HgO</a></li>
+<li><a href="/wiki/Mercury(I)_oxide" title="Mercury(I) oxide">Hg<sub>2</sub>O</a></li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Ho<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Iodine_tetroxide&amp;action=edit&amp;redlink=1" title="Iodine tetroxide (page does not exist)">I<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Iodine_pentoxide" title="Iodine pentoxide">I<sub>2</sub>O<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Iodine_hexoxide&amp;action=edit&amp;redlink=1" title="Iodine hexoxide (page does not exist)">I<sub>2</sub>O<sub>6</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Iodine_nonaoxide&amp;action=edit&amp;redlink=1" title="Iodine nonaoxide (page does not exist)">I<sub>4</sub>O<sub>9</sub></a></li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">In<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iridium(IV)_oxide" title="Iridium(IV) oxide">IrO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_superoxide" title="Potassium superoxide">KO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_peroxide" title="Potassium peroxide">K<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">La<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Li<sub>2</sub>O</a></li>
+<li><a href="/wiki/Lithium_peroxide" title="Lithium peroxide">Li<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">MgO</a></li>
+<li><a href="/wiki/Magnesium_peroxide" title="Magnesium peroxide">Mg<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">MnO</a></li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">MnO<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Mn<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Mn<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Molybdenum_dioxide" title="Molybdenum dioxide">MoO<sub>2</sub></a></li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">MoO<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Molybdenum(III)_oxide&amp;action=edit&amp;redlink=1" title="Molybdenum(III) oxide (page does not exist)">Mo<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">NO</a></li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">NO<sub>2</sub></a></li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">N<sub>2</sub>O</a></li>
+<li><a class="mw-redirect" href="/wiki/Nitrogen_trioxide" title="Nitrogen trioxide">N<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Nitrogen_tetroxide" title="Nitrogen tetroxide">N<sub>2</sub>O<sub>4</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Nitrogen_pentoxide" title="Nitrogen pentoxide">N<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Sodium_superoxide" title="Sodium superoxide">NaO<sub>2</sub></a></li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Na<sub>2</sub>O</a></li>
+<li><a href="/wiki/Sodium_peroxide" title="Sodium peroxide">Na<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Niobium_monoxide" title="Niobium monoxide">NbO</a></li>
+<li><a href="/wiki/Niobium_dioxide" title="Niobium dioxide">NbO<sub>2</sub></a></li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Nd<sub>2</sub>O<sub>3</sub></a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formulas</a></b></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20181030140817
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.428 seconds
+Preprocessor visited node count: 3933/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 128875/2097152 bytes
+Template argument size: 7670/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31166/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.140/10.000 seconds
+Lua memory usage: 3.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  316.209      1 -total
+ 57.67%  182.348      1 Template:Reflist
+ 36.70%  116.043      6 Template:Cite_journal
+ 31.10%   98.332     19 Template:Chem
+ 29.10%   92.021     19 Template:Chem/link
+ 24.95%   78.905     59 Template:Chem/atom
+ 13.71%   43.360     22 Template:Su
+  9.13%   28.871      1 Template:Oxygen_compounds
+  8.40%   26.566      1 Template:Navbox
+  4.39%   13.876      2 Template:Cite_book
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:92447-0!canonical and timestamp 20181030140817 and revision id 866464362
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Superoxide&amp;oldid=866464362">https://en.wikipedia.org/w/index.php?title=Superoxide&amp;oldid=866464362</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anions" title="Category:Anions">Anions</a></li><li><a href="/wiki/Category:Oxygen_compounds" title="Category:Oxygen compounds">Oxygen compounds</a></li><li><a href="/wiki/Category:Oxoanions" title="Category:Oxoanions">Oxoanions</a></li><li><a href="/wiki/Category:Immune_system" title="Category:Immune system">Immune system</a></li><li><a href="/wiki/Category:Superoxides" title="Category:Superoxides">Superoxides</a></li><li><a href="/wiki/Category:Free_radicals" title="Category:Free radicals">Free radicals</a></li><li><a href="/wiki/Category:Reactive_oxygen_species" title="Category:Reactive oxygen species">Reactive oxygen species</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Superoxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Superoxide" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Superoxide" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Superoxide" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Superoxide">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Superoxide&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Superoxide&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Superoxide" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Superoxide" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Superoxide&amp;oldid=866464362" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Superoxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q413283" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Superoxide&amp;id=866464362" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Superoxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Superoxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Superoxide&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Superoxides" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%81%D9%88%D9%82_%D8%A3%D9%83%D8%B3%D9%8A%D8%AF" hreflang="ar" lang="ar" title="فوق أكسيد – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Superoksid" hreflang="bs" lang="bs" title="Superoksid – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Super%C3%B2xid" hreflang="ca" lang="ca" title="Superòxid – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Superoxidy" hreflang="cs" lang="cs" title="Superoxidy – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Hyperoxide" hreflang="de" lang="de" title="Hyperoxide – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Super%C3%B3xido" hreflang="es" lang="es" title="Superóxido – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Superoxyde" hreflang="fr" lang="fr" title="Superoxyde – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B4%88%EA%B3%BC%EC%82%B0%ED%99%94%EB%AC%BC" hreflang="ko" lang="ko" title="초과산화물 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Superoksida" hreflang="id" lang="id" title="Superoksida – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Superossido" hreflang="it" lang="it" title="Superossido – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A4%D7%A8%D7%90%D7%95%D7%A7%D7%A1%D7%99%D7%93" hreflang="he" lang="he" title="סופראוקסיד – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Superoksidas" hreflang="lt" lang="lt" title="Superoksidas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Superoksida" hreflang="ms" lang="ms" title="Superoksida – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Superoxide" hreflang="nl" lang="nl" title="Superoxide – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%B6%85%E9%85%B8%E5%8C%96%E7%89%A9" hreflang="ja" lang="ja" title="超酸化物 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ponadtlenki" hreflang="pl" lang="pl" title="Ponadtlenki – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Super%C3%B3xido" hreflang="pt" lang="pt" title="Superóxido – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Superoxid" hreflang="ro" lang="ro" title="Superoxid – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%B4" hreflang="ru" lang="ru" title="Супероксид – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Superoksid" hreflang="sl" lang="sl" title="Superoksid – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%B4" hreflang="sr" lang="sr" title="Супероксид – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Superoksid" hreflang="sh" lang="sh" title="Superoksid – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Superoksidi" hreflang="fi" lang="fi" title="Superoksidi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Superoxid" hreflang="sv" lang="sv" title="Superoxid – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%8B%E0%B8%94%E0%B9%8C" hreflang="th" lang="th" title="ซูเปอร์ออกไซด์ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%80%D0%B0%D0%B4%D0%B8%D0%BA%D0%B0%D0%BB" hreflang="uk" lang="uk" title="Супероксидний радикал – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Superoxit" hreflang="vi" lang="vi" title="Superoxit – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%B6%85%E6%B0%A7%E5%8C%96%E7%89%A9" hreflang="zh" lang="zh" title="超氧化物 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q413283#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 October 2018, at 14:08<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Superoxide&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.428","ppvisitednodes":{"value":3933,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":128875,"limit":2097152},"templateargumentsize":{"value":7670,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31166,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  316.209      1 -total"," 57.67%  182.348      1 Template:Reflist"," 36.70%  116.043      6 Template:Cite_journal"," 31.10%   98.332     19 Template:Chem"," 29.10%   92.021     19 Template:Chem/link"," 24.95%   78.905     59 Template:Chem/atom"," 13.71%   43.360     22 Template:Su","  9.13%   28.871      1 Template:Oxygen_compounds","  8.40%   26.566      1 Template:Navbox","  4.39%   13.876      2 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.140","limit":"10.000"},"limitreport-memusage":{"value":3695824,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20181030140817","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1326"});});</script>
+</body>
+</html>

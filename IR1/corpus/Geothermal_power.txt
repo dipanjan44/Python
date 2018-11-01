@@ -1,0 +1,689 @@
+https://en.wikipedia.org/wiki/Geothermal_power
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Geothermal power - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geothermal_power","wgTitle":"Geothermal power","wgCurRevisionId":863114767,"wgRevisionId":863114767,"wgArticleId":13021878,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from February 2017","Articles with dead external links from July 2018","Articles with permanently dead external links","CS1 maint: Extra text: authors list","Use dmy dates from March 2015","All articles with unsourced statements","Articles with unsourced statements from May 2010","Pages using multiple image with manual scaled images","All articles with failed verification","Articles with failed verification from January 2018","Power station technology","Geothermal energy","Alternative energy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Geothermal_power","wgRelevantArticleId":13021878,"wgRequestId":"W9teugpAADkAAHUHr-0AAAAT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3215493","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/1200px-Krafla_geothermal_power_station_wiki.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Geothermal_power" rel="alternate"/>
+<link href="/w/index.php?title=Geothermal_power&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Geothermal_power&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Geothermal_power" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Geothermal_power rootpage-Geothermal_power skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Geothermal power</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303569">@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:284px;max-width:284px"><div class="tsingle" style="margin:1px;width:282px;max-width:282px"><div class="thumbimage"><a class="image" href="/wiki/File:Krafla_geothermal_power_station_wiki.jpg"><img alt="" data-file-height="1536" data-file-width="2048" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/280px-Krafla_geothermal_power_station_wiki.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/420px-Krafla_geothermal_power_station_wiki.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/560px-Krafla_geothermal_power_station_wiki.jpg 2x" width="280"/></a></div><div class="thumbcaption" style="clear:left"><a class="mw-redirect" href="/wiki/Krafla_Geothermal_Power_Station" title="Krafla Geothermal Power Station">Krafla</a>, a geothermal power station in Iceland</div></div><div class="tsingle" style="margin:1px;width:282px;max-width:282px"><div class="thumbimage"><a class="image" href="/wiki/File:World_map_of_geothermal_power_countries_installed_and_developing.svg"><img alt="" data-file-height="601" data-file-width="1405" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/World_map_of_geothermal_power_countries_installed_and_developing.svg/280px-World_map_of_geothermal_power_countries_installed_and_developing.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/World_map_of_geothermal_power_countries_installed_and_developing.svg/420px-World_map_of_geothermal_power_countries_installed_and_developing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/World_map_of_geothermal_power_countries_installed_and_developing.svg/560px-World_map_of_geothermal_power_countries_installed_and_developing.svg.png 2x" width="280"/></a></div><div class="thumbcaption" style="clear:left">Countries with installed and/or developing geothermal power projects</div></div></div></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:17.5em;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series about</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:El-v-01_ubt.jpeg" title="Wind turbines near Vendsyssel, Denmark (2004)"><img alt="Wind turbines near Vendsyssel, Denmark (2004)" data-file-height="245" data-file-width="588" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/180px-El-v-01_ubt.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/270px-El-v-01_ubt.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/360px-El-v-01_ubt.jpeg 2x" width="180"/></a></td></tr><tr><th style="padding:0.1em;background:#c8ffb8;">
+<a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Energy_storage" title="Energy storage">Energy storage</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green building</a></li>
+<li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Heat pump</a></li>
+<li><a href="/wiki/Low-carbon_power" title="Low-carbon power">Low-carbon power</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#c8ffb8;">
+<a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">Anaerobic digestion</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a class="mw-selflink selflink">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#c8ffb8;">
+<a href="/wiki/Sustainable_transport" title="Sustainable transport">Sustainable transport</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Electric_vehicle" title="Electric vehicle">Electric vehicle</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li>
+<li><a href="/wiki/Green_vehicle" title="Green vehicle">Green vehicle</a></li>
+<li><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid</a></li></ul></td>
+</tr><tr><td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding-top:0;border-top:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;font-size:90%;white-space:nowrap;">
+<div style="height:1.5em;padding-left:0.4em;"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" class="noviewer" data-file-height="510" data-file-width="800" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/16px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png 2x" width="16"/></a> <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></div>
+<div style="padding-left:0.4em;">
+<ul><li><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="Wind-turbine-icon.svg" class="noviewer" data-file-height="128" data-file-width="128" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/16px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/24px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/32px-Wind-turbine-icon.svg.png 2x" width="16"/></a> <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></li>
+<li><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="Aegopodium podagraria1 ies.jpg" class="noviewer" data-file-height="700" data-file-width="800" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/16px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg 2x" width="16"/></a> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li></ul>
+</div></td></tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainable_energy" title="Template:Sustainable energy"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainable_energy" title="Template talk:Sustainable energy"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainable_energy&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Geothermal power</b> is <a href="/wiki/Electricity_generation" title="Electricity generation">power generated</a> by <a href="/wiki/Geothermal_energy" title="Geothermal energy">geothermal energy</a>. Technologies in use include dry steam power stations, flash steam power stations and binary cycle power stations. Geothermal electricity generation is currently used in 24 countries,<sup class="reference" id="cite_ref-gea2010_1-0"><a href="#cite_note-gea2010-1">[1]</a></sup> while <a href="/wiki/Geothermal_heating" title="Geothermal heating">geothermal heating</a> is in use in 70 countries.<sup class="reference" id="cite_ref-IPCC_2-0"><a href="#cite_note-IPCC-2">[2]</a></sup>
+</p><p>As of 2015, worldwide geothermal power capacity amounts to 12.8 <a class="mw-redirect" href="/wiki/Gigawatt" title="Gigawatt">gigawatts</a> (GW), of which 28 percent or 3,548 megawatts are installed in the <a href="/wiki/Geothermal_energy_in_the_United_States" title="Geothermal energy in the United States">United States</a>. International markets grew at an average annual rate of 5 percent over the three years to 2015, and global geothermal power capacity is expected to reach 14.5–17.6 GW by 2020.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Based on current geologic knowledge and technology the GEA publicly discloses, the <a href="/wiki/Geothermal_Energy_Association" title="Geothermal Energy Association">Geothermal Energy Association</a> (GEA) estimates that only 6.9 percent of total global potential has been tapped so far, while the <a class="mw-redirect" href="/wiki/IPCC" title="IPCC">IPCC</a> reported geothermal power potential to be in the range of 35 GW to 2 <a class="mw-redirect" href="/wiki/Terawatt" title="Terawatt">TW</a>.<sup class="reference" id="cite_ref-IPCC_2-1"><a href="#cite_note-IPCC-2">[2]</a></sup> Countries generating more than 15 percent of their electricity from geothermal sources include <a href="/wiki/Geothermal_power_in_El_Salvador" title="Geothermal power in El Salvador">El Salvador</a>, <a href="/wiki/Geothermal_power_in_Kenya" title="Geothermal power in Kenya">Kenya</a>, the <a href="/wiki/Geothermal_power_in_the_Philippines" title="Geothermal power in the Philippines">Philippines</a>, <a href="/wiki/Geothermal_power_in_Iceland" title="Geothermal power in Iceland">Iceland</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a><sup class="reference" id="cite_ref-:0_4-0"><a href="#cite_note-:0-4">[4]</a></sup> and <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a>.
+</p><p>Geothermal power is considered to be a <a href="/wiki/Sustainability" title="Sustainability">sustainable</a>, <a href="/wiki/Renewable_energy" title="Renewable energy">renewable</a> source of energy because the heat extraction is small compared with the <a href="/wiki/Earth%27s_internal_heat_budget" title="Earth's internal heat budget">Earth's heat content</a>.<sup class="reference" id="cite_ref-sustainability_5-0"><a href="#cite_note-sustainability-5">[5]</a></sup> The <a href="/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources" title="Life-cycle greenhouse-gas emissions of energy sources">greenhouse gas emissions</a> of geothermal electric stations are on average 45 grams of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> per kilowatt-hour of electricity, or less than 5 percent of that of conventional coal-fired plants.<sup class="reference" id="cite_ref-IPCC_Annex_II_6-0"><a href="#cite_note-IPCC_Annex_II-6">[6]</a></sup>
+</p><p>As a source of renewable energy for both power and heating, geothermal has the potential to meet 3-5% of global demand by 2050. With economic incentives, it is estimated that by 2100 it will be possible to meet 10% of global demand.<sup class="reference" id="cite_ref-:0_4-1"><a href="#cite_note-:0-4">[4]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_and_development"><span class="tocnumber">1</span> <span class="toctext">History and development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Resources"><span class="tocnumber">2</span> <span class="toctext">Resources</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Power_station_types"><span class="tocnumber">3</span> <span class="toctext">Power station types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Dry_steam_power_stations"><span class="tocnumber">3.1</span> <span class="toctext">Dry steam power stations</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Flash_steam_power_stations"><span class="tocnumber">3.2</span> <span class="toctext">Flash steam power stations</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Binary_cycle_power_stations"><span class="tocnumber">3.3</span> <span class="toctext">Binary cycle power stations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Worldwide_production"><span class="tocnumber">4</span> <span class="toctext">Worldwide production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Utility-grade_stations"><span class="tocnumber">4.1</span> <span class="toctext">Utility-grade stations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Environmental_impact"><span class="tocnumber">5</span> <span class="toctext">Environmental impact</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Economics"><span class="tocnumber">6</span> <span class="toctext">Economics</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History_and_development">History and development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=1" title="Edit section: History and development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the 20th century, demand for electricity led to the consideration of geothermal power as a generating source. <a href="/wiki/Piero_Ginori_Conti" title="Piero Ginori Conti">Prince Piero Ginori Conti</a> tested the first geothermal power generator on 4 July 1904 in <a href="/wiki/Larderello" title="Larderello">Larderello</a>, Italy. It successfully lit four light bulbs.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Later, in 1911, the world's first commercial geothermal power station was built there. Experimental generators were built in <a href="/wiki/Beppu" title="Beppu">Beppu</a>, Japan and <a href="/wiki/The_Geysers" title="The Geysers">the Geysers</a>, California, in the 1920s, but Italy was the world's only industrial producer of geothermal electricity until 1958.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Top_5_Geothermal-Electric_Countries.png"><img alt="" class="thumbimage" data-file-height="1350" data-file-width="2025" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Top_5_Geothermal-Electric_Countries.png/220px-Top_5_Geothermal-Electric_Countries.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Top_5_Geothermal-Electric_Countries.png/330px-Top_5_Geothermal-Electric_Countries.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Top_5_Geothermal-Electric_Countries.png/440px-Top_5_Geothermal-Electric_Countries.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Top_5_Geothermal-Electric_Countries.png" title="Enlarge"></a></div>Trends in the top five geothermal electricity-generating countries, 1980–2012 (US EIA)</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Geothermal_capacity.svg"><img alt="" class="thumbimage" data-file-height="600" data-file-width="1000" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Geothermal_capacity.svg/220px-Geothermal_capacity.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Geothermal_capacity.svg/330px-Geothermal_capacity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Geothermal_capacity.svg/440px-Geothermal_capacity.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Geothermal_capacity.svg" title="Enlarge"></a></div>Global geothermal electric capacity. Upper red line is installed capacity;<sup class="reference" id="cite_ref-Bertani_8-0"><a href="#cite_note-Bertani-8">[8]</a></sup> lower green line is realized production.<sup class="reference" id="cite_ref-IPCC_2-2"><a href="#cite_note-IPCC-2">[2]</a></sup></div></div></div>
+<p>In 1958, New Zealand became the second major industrial producer of geothermal electricity when its <a href="/wiki/Wairakei_Power_Station" title="Wairakei Power Station">Wairakei station</a> was commissioned. Wairakei was the first station to use flash steam technology.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Over the past 60 years, net fluid production has been in excess of 2.5 km<sup>3</sup>. <a href="/wiki/Subsidence" title="Subsidence">Subsidience</a> at Wairakei-Tauhara has been an issue in a number of formal hearings related to environmental consents for expanded development of the system as a source of renewable energy.<sup class="reference" id="cite_ref-:0_4-2"><a href="#cite_note-:0-4">[4]</a></sup>
+</p><p>In 1960, <a class="mw-redirect" href="/wiki/Pacific_Gas_and_Electric" title="Pacific Gas and Electric">Pacific Gas and Electric</a> began operation of the first successful geothermal electric power station in the United States at The Geysers in California.<sup class="reference" id="cite_ref-100years_10-0"><a href="#cite_note-100years-10">[10]</a></sup> The original turbine lasted for more than 30 years and produced 11 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> net power.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>The binary cycle power station was first demonstrated in 1967 in the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> and later introduced to the United States in 1981,<sup class="reference" id="cite_ref-100years_10-1"><a href="#cite_note-100years-10">[10]</a></sup> following the <a href="/wiki/1970s_energy_crisis" title="1970s energy crisis">1970s energy crisis</a> and significant changes in regulatory policies. This technology allows the use of much lower temperature resources than were previously recoverable. In 2006, a binary cycle station in <a href="/wiki/Chena_Hot_Springs,_Alaska" title="Chena Hot Springs, Alaska">Chena Hot Springs, Alaska</a>, came on-line, producing electricity from a record low fluid temperature of 57 °C (135 °F).<sup class="reference" id="cite_ref-Chena_12-0"><a href="#cite_note-Chena-12">[12]</a></sup>
+</p><p>Geothermal electric stations have until recently been built exclusively where high temperature geothermal resources are available near the surface. The development of <a class="mw-redirect" href="/wiki/Binary_cycle_power_plant" title="Binary cycle power plant">binary cycle power plants</a> and improvements in drilling and extraction technology may enable <a class="mw-redirect" href="/wiki/Enhanced_geothermal_systems" title="Enhanced geothermal systems">enhanced geothermal systems</a> over a much greater geographical range.<sup class="reference" id="cite_ref-INEL_13-0"><a href="#cite_note-INEL-13">[13]</a></sup> Demonstration projects are operational in <a class="mw-redirect" href="/wiki/Landau-Pfalz" title="Landau-Pfalz">Landau-Pfalz</a>, Germany, and <a href="/wiki/Soultz-sous-For%C3%AAts" title="Soultz-sous-Forêts">Soultz-sous-Forêts</a>, France, while an earlier effort in <a href="/wiki/Basel" title="Basel">Basel</a>, Switzerland was shut down after it triggered earthquakes. Other demonstration projects are under construction in <a href="/wiki/Geothermal_power_in_Australia" title="Geothermal power in Australia">Australia</a>, the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, and the <a class="mw-redirect" href="/wiki/United_States_of_America" title="United States of America">United States of America</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p><p>The <a href="/wiki/Thermal_efficiency" title="Thermal efficiency">thermal efficiency</a> of geothermal electric stations is low, around 7–10%,<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> because geothermal fluids are at a low temperature compared with steam from boilers. By the laws of <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> this low temperature limits the efficiency of <a class="mw-redirect" href="/wiki/Cycle_efficiency" title="Cycle efficiency">heat engines</a> in extracting useful energy during the generation of electricity. Exhaust heat is wasted, unless it can be used directly and locally, for example in greenhouses, timber mills, and district heating. The efficiency of the system does not affect operational costs as it would for a coal or other fossil fuel plant, but it does factor into the viability of the station. In order to produce more energy than the pumps consume, electricity generation requires high temperature geothermal fields and specialized heat cycles.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>]</sup> Because geothermal power does not rely on variable sources of energy, unlike, for example, wind or solar, its <a href="/wiki/Capacity_factor" title="Capacity factor">capacity factor</a> can be quite large – up to 96% has been demonstrated.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> However the global average <a href="/wiki/Capacity_factor" title="Capacity factor">capacity factor</a> was 74.5% in 2008, according to the <a class="mw-redirect" href="/wiki/IPCC" title="IPCC">IPCC</a>.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Resources">Resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=2" title="Edit section: Resources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:EGS_diagram.svg"><img alt="" class="thumbimage" data-file-height="1052" data-file-width="744" height="311" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/EGS_diagram.svg/220px-EGS_diagram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/EGS_diagram.svg/330px-EGS_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/EGS_diagram.svg/440px-EGS_diagram.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:EGS_diagram.svg" title="Enlarge"></a></div><b>Enhanced geothermal system</b> 1:Reservoir 2:Pump house 3:Heat exchanger 4:Turbine hall 5:Production well 6:Injection well 7:Hot water to district heating 8:Porous sediments 9:Observation well 10:Crystalline bedrock</div></div></div>
+<p>The Earth’s heat content is about <a class="mw-redirect" href="/wiki/1_E31_J" title="1 E31 J">1<span style="margin:0 .15em 0 .25em">×</span>10<sup>19</sup> TJ (2.8<span style="margin:0 .15em 0 .25em">×</span>10<sup>15</sup> TWh)</a>.<sup class="reference" id="cite_ref-IPCC_2-3"><a href="#cite_note-IPCC-2">[2]</a></sup> This heat naturally flows to the surface by conduction at a rate of 44.2 <a class="mw-redirect" href="/wiki/Terawatts" title="Terawatts">TW</a><sup class="reference" id="cite_ref-pollack_et_al_18-0"><a href="#cite_note-pollack_et_al-18">[18]</a></sup> and is replenished by radioactive decay at a rate of 30 TW.<sup class="reference" id="cite_ref-sustainability_5-1"><a href="#cite_note-sustainability-5">[5]</a></sup> These power rates are more than double humanity’s current energy consumption from primary sources, but most of this power is too diffuse (approximately 0.1 W/m<sup>2</sup> on average) to be recoverable. The <a class="mw-redirect" href="/wiki/Earth%27s_crust" title="Earth's crust">Earth's crust</a> effectively acts as a thick insulating blanket which must be pierced by fluid conduits (of <a href="/wiki/Magma" title="Magma">magma</a>, water or other) to release the heat underneath.
+</p><p>Electricity generation requires high-temperature resources that can only come from deep underground. The heat must be carried to the surface by fluid circulation, either through <a class="mw-redirect" href="/wiki/Magma_conduit" title="Magma conduit">magma conduits</a>, <a class="mw-redirect" href="/wiki/Hot_springs" title="Hot springs">hot springs</a>, <a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">hydrothermal circulation</a>, <a href="/wiki/Oil_well" title="Oil well">oil wells</a>, drilled water wells, or a combination of these. This circulation sometimes exists naturally where the crust is thin: magma conduits bring heat close to the surface, and hot springs bring the heat to the surface. If no hot spring is available, a well must be drilled into a hot <a href="/wiki/Aquifer" title="Aquifer">aquifer</a>. Away from tectonic plate boundaries the <a href="/wiki/Geothermal_gradient" title="Geothermal gradient">geothermal gradient</a> is 25–30 °C per kilometre (km) of depth in most of the world, so wells would have to be several kilometres deep to permit electricity generation.<sup class="reference" id="cite_ref-IPCC_2-4"><a href="#cite_note-IPCC-2">[2]</a></sup> The quantity and quality of recoverable resources improves with drilling depth and proximity to tectonic plate boundaries.
+</p><p>In ground that is hot but dry, or where water pressure is inadequate, injected fluid can stimulate production. Developers bore two holes into a candidate site, and fracture the rock between them with explosives or high-pressure water. Then they pump water or liquefied carbon dioxide down one borehole, and it comes up the other borehole as a gas.<sup class="reference" id="cite_ref-INEL_13-1"><a href="#cite_note-INEL-13">[13]</a></sup> This approach is called <a href="/wiki/Hot_dry_rock_geothermal_energy" title="Hot dry rock geothermal energy">hot dry rock geothermal energy</a> in Europe, or <a class="mw-redirect" href="/wiki/Enhanced_geothermal_systems" title="Enhanced geothermal systems">enhanced geothermal systems</a> in North America. Much greater potential may be available from this approach than from conventional tapping of natural aquifers.<sup class="reference" id="cite_ref-INEL_13-2"><a href="#cite_note-INEL-13">[13]</a></sup>
+</p><p>Estimates of the electricity generating potential of geothermal energy vary from 35 to 2000 GW depending on the scale of investments.<sup class="reference" id="cite_ref-IPCC_2-5"><a href="#cite_note-IPCC-2">[2]</a></sup> This does not include non-electric heat recovered by co-generation, geothermal heat pumps and other direct use. A 2006 report by <a class="mw-redirect" href="/wiki/MIT" title="MIT">the Massachusetts Institute of Technology</a> (MIT) that included the potential of enhanced geothermal systems estimated that investing 1 billion US dollars in research and development over 15 years would allow the creation of 100 GW of electrical generating capacity by 2050 in the United States alone.<sup class="reference" id="cite_ref-INEL_13-3"><a href="#cite_note-INEL-13">[13]</a></sup> The MIT report estimated that over 200<span style="margin:0 .15em 0 .25em">×</span>10<sup>9</sup> TJ (200 ZJ; 5.6<span style="margin:0 .15em 0 .25em">×</span>10<sup>7</sup> TWh) would be extractable, with the potential to increase this to over 2,000 ZJ with technology improvements – sufficient to provide all the world's present energy needs for several <a href="/wiki/Millennium" title="Millennium">millennia</a>.<sup class="reference" id="cite_ref-INEL_13-4"><a href="#cite_note-INEL-13">[13]</a></sup>
+</p><p>At present, geothermal wells are rarely more than 3 km (1.9 mi) deep.<sup class="reference" id="cite_ref-IPCC_2-6"><a href="#cite_note-IPCC-2">[2]</a></sup> Upper estimates of geothermal resources assume wells as deep as 10 km (6.2 mi). Drilling near this depth is now possible in the petroleum industry, although it is an expensive process. The deepest research well in the world, the <a class="mw-redirect" href="/wiki/Kola_superdeep_borehole" title="Kola superdeep borehole">Kola superdeep borehole</a> (KSDB-3), is 12.261 km (7.619 mi) deep.<sup class="reference" id="cite_ref-ICDP_KSDB3_19-0"><a href="#cite_note-ICDP_KSDB3-19">[19]</a></sup> This record has recently been imitated by commercial oil wells, such as <a href="/wiki/Exxon" title="Exxon">Exxon</a>'s Z-12 well in the Chayvo field, <a href="/wiki/Sakhalin-I" title="Sakhalin-I">Sakhalin</a>.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+Wells drilled to depths greater than 4 km (2.5 mi) generally incur drilling costs in the tens of millions of dollars.<sup class="reference" id="cite_ref-econ101_21-0"><a href="#cite_note-econ101-21">[21]</a></sup> The technological challenges are to drill wide bores at low cost and to break larger volumes of rock.
+</p><p>Geothermal power is considered to be sustainable because the heat extraction is small compared to the Earth's heat content, but extraction must still be monitored to avoid local depletion.<sup class="reference" id="cite_ref-sustainability_5-2"><a href="#cite_note-sustainability-5">[5]</a></sup> Although geothermal sites are capable of providing heat for many decades, individual wells may cool down or run out of water. The three oldest sites, at Larderello, <a href="/wiki/Wairakei#Geothermal_field" title="Wairakei">Wairakei</a>, and the Geysers have all reduced production from their peaks. It is not clear whether these stations extracted energy faster than it was replenished from greater depths, or whether the aquifers supplying them are being depleted. If production is reduced, and water is reinjected, these wells could theoretically recover their full potential. Such mitigation strategies have already been implemented at some sites. The long-term sustainability of geothermal energy has been demonstrated at the Lardarello field in Italy since 1913, at the Wairakei field in New Zealand since 1958,<sup class="reference" id="cite_ref-Wairakei_22-0"><a href="#cite_note-Wairakei-22">[22]</a></sup> and at The Geysers field in California since 1960.<sup class="reference" id="cite_ref-300years_23-0"><a href="#cite_note-300years-23">[23]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Power_station_types">Power station types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=3" title="Edit section: Power station types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link href="mw-data:TemplateStyles:r856303569" rel="mw-deduplicated-inline-style"/><div class="thumb tmulti tright"><div class="thumbinner" style="width:742px;max-width:742px"><div class="tsingle" style="float:left;margin:1px;width:262px;max-width:262px"><div class="thumbimage" style="height:328px;overflow:hidden"><a class="image" href="/wiki/File:Diagram_VaporDominatedGeothermal_inturperated_version.svg"><img alt="" data-file-height="612" data-file-width="485" height="328" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Diagram_VaporDominatedGeothermal_inturperated_version.svg/260px-Diagram_VaporDominatedGeothermal_inturperated_version.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Diagram_VaporDominatedGeothermal_inturperated_version.svg/390px-Diagram_VaporDominatedGeothermal_inturperated_version.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Diagram_VaporDominatedGeothermal_inturperated_version.svg/520px-Diagram_VaporDominatedGeothermal_inturperated_version.svg.png 2x" width="260"/></a></div></div><div class="tsingle" style="float:left;margin:1px;width:259px;max-width:259px"><div class="thumbimage" style="height:328px;overflow:hidden"><a class="image" href="/wiki/File:Diagram_HotWaterGeothermal_inturperated_version.svg"><img alt="" data-file-height="612" data-file-width="485" height="324" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diagram_HotWaterGeothermal_inturperated_version.svg/257px-Diagram_HotWaterGeothermal_inturperated_version.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diagram_HotWaterGeothermal_inturperated_version.svg/386px-Diagram_HotWaterGeothermal_inturperated_version.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diagram_HotWaterGeothermal_inturperated_version.svg/514px-Diagram_HotWaterGeothermal_inturperated_version.svg.png 2x" width="257"/></a></div></div><div class="tsingle" style="float:left;margin:1px;width:215px;max-width:215px"><div class="thumbimage" style="height:328px;overflow:hidden"><a class="image" href="/wiki/File:Geothermal_Binary_System.svg"><img alt="" data-file-height="500" data-file-width="324" height="329" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Geothermal_Binary_System.svg/213px-Geothermal_Binary_System.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Geothermal_Binary_System.svg/320px-Geothermal_Binary_System.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Geothermal_Binary_System.svg/426px-Geothermal_Binary_System.svg.png 2x" width="213"/></a></div></div><div style="clear:left"></div><div class="thumbcaption" style="clear:left;text-align:center;background-color:transparent">Dry steam (left), flash steam (centre), and binary cycle (right) power stations.</div></div></div>
+<p>Geothermal power stations are similar to other steam turbine <a href="/wiki/Thermal_power_station" title="Thermal power station">thermal power stations</a> in that heat from a fuel source (in geothermal's case, the Earth's core) is used to heat water or another <a href="/wiki/Working_fluids" title="Working fluids">working fluid</a>. The working fluid is then used to turn a turbine of a generator, thereby producing electricity. The fluid is then cooled and returned to the heat source.
+</p>
+<h3><span class="mw-headline" id="Dry_steam_power_stations">Dry steam power stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=4" title="Edit section: Dry steam power stations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dry steam stations are the simplest and oldest design. This type of power station is not found very often, because it requires a resource that produces dry steam, but is the most efficient, with the simplest facilities.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> In these sites, there may be liquid water present in the reservoir, but no water is produced to the surface, only steam. <sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> Dry Steam Power directly uses geothermal steam of 150 °C or greater to turn turbines.<sup class="reference" id="cite_ref-IPCC_2-7"><a href="#cite_note-IPCC-2">[2]</a></sup> As the turbine rotates it powers a generator which then produces electricity and adds to the power field. <sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> Then, the steam is emitted to a condenser. Here the steam turns back into a liquid which then cools the water.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> After the water is cooled it flows down a pipe that conducts the condensate back into deep wells, where it can be reheated and produced again. At <a href="/wiki/The_Geysers" title="The Geysers">The Geysers</a> in California, after the first thirty years of power production, the steam supply had depleted and generation was substantially reduced. To restore some of the former capacity, supplemental water injection was developed during the 1990s and 2000s, including utilization of effluent from nearby municipal sewage treatment facilities.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>
+</p><p><br/>
+</p>
+<h3><span class="mw-headline" id="Flash_steam_power_stations">Flash steam power stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=5" title="Edit section: Flash steam power stations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Flash steam stations pull deep, high-pressure hot water into lower-pressure tanks and use the resulting flashed steam to drive turbines. They require fluid temperatures of at least 180 °C, usually more. This is the most common type of station in operation today. Flash steam plants use geothermal reservoirs of water with temperatures greater than 360 °F (182 °C). The hot water flows up through wells in the ground under its own pressure. As it flows upward, the pressure decreases and some of the hot water boils into steam. The steam is then separated from the water and used to power a turbine/generator. Any leftover water and condensed steam may be injected back into the reservoir, making this a potentially sustainable resource.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Binary_cycle_power_stations">Binary cycle power stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=6" title="Edit section: Binary cycle power stations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Binary_cycle" title="Binary cycle">Binary cycle</a></div>
+<p>Binary cycle power stations are the most recent development, and can accept fluid temperatures as low as 57 °C.<sup class="reference" id="cite_ref-Chena_12-1"><a href="#cite_note-Chena-12">[12]</a></sup> The moderately hot geothermal water is passed by a secondary fluid with a much lower boiling point than water. This causes the secondary fluid to flash vaporize, which then drives the turbines. This is the most common type of geothermal electricity station being constructed today.<sup class="reference" id="cite_ref-EERE1_31-0"><a href="#cite_note-EERE1-31">[31]</a></sup> Both <a class="mw-redirect" href="/wiki/Organic_Rankine" title="Organic Rankine">Organic Rankine</a> and <a href="/wiki/Kalina_cycle" title="Kalina cycle">Kalina cycles</a> are used. The thermal efficiency of this type station is typically about 10–13%.
+</p>
+<h2><span class="mw-headline" id="Worldwide_production">Worldwide production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=7" title="Edit section: Worldwide production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Larderello_001.JPG"><img alt="" class="thumbimage" data-file-height="2448" data-file-width="3748" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Larderello_001.JPG/250px-Larderello_001.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Larderello_001.JPG/375px-Larderello_001.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Larderello_001.JPG/500px-Larderello_001.JPG 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Larderello_001.JPG" title="Enlarge"></a></div><a href="/wiki/Larderello" title="Larderello">Larderello</a> Geothermal Station, in Italy</div></div></div>
+<p>The International Geothermal Association (IGA) has reported that 10,715 <a class="mw-redirect" href="/wiki/Megawatts" title="Megawatts">megawatts</a> (MW) of geothermal power in 24 countries is online, which is expected to generate 67,246 <a class="mw-redirect" href="/wiki/GWh" title="GWh">GWh</a> of electricity in 2010.<sup class="reference" id="cite_ref-gea2010_1-1"><a href="#cite_note-gea2010-1">[1]</a></sup> This represents a 20% increase in geothermal power online capacity since 2005. IGA projected this would grow to 18,500 MW by 2015, due to the large number of projects that were under consideration, often in areas previously assumed to have little exploitable resource.<sup class="reference" id="cite_ref-gea2010_1-2"><a href="#cite_note-gea2010-1">[1]</a></sup>
+</p><p>In 2010, the <a href="/wiki/Geothermal_energy_in_the_United_States" title="Geothermal energy in the United States">United States</a> led the world in geothermal electricity production with 3,086 MW of installed capacity from 77 power stations;<sup class="reference" id="cite_ref-geap7_32-0"><a href="#cite_note-geap7-32">[32]</a></sup> the largest group of geothermal <a class="mw-redirect" href="/wiki/Power_plant" title="Power plant">power plants</a> in the world is located at <a href="/wiki/The_Geysers" title="The Geysers">The Geysers</a>, a geothermal field in <a href="/wiki/California" title="California">California</a>.<sup class="reference" id="cite_ref-Khan_33-0"><a href="#cite_note-Khan-33">[33]</a></sup> The Philippines follows the US as the second highest producer of geothermal power in the world, with 1,904 MW of capacity online; geothermal power makes up approximately 27% of the country's electricity generation.<sup class="reference" id="cite_ref-geap7_32-1"><a href="#cite_note-geap7-32">[32]</a></sup>
+</p><p><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a> said in The Climate Project Asia Pacific Summit that Indonesia could become a super power country in electricity production from geothermal energy.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup> India has announced a plan to develop the country's first geothermal power facility in Chhattisgarh.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup>
+</p><p>Canada is the only major country on the <a class="mw-redirect" href="/wiki/Pacific_Ring_of_Fire" title="Pacific Ring of Fire">Pacific Ring of Fire</a> which has not yet developed geothermal power. The region of greatest potential is the <a class="mw-redirect" href="/wiki/Canadian_Cordillera" title="Canadian Cordillera">Canadian Cordillera</a>, stretching from <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a> to the Yukon, where estimates of generating output have ranged from 1,550 MW to 5,000 MW.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Utility-grade_stations">Utility-grade stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=8" title="Edit section: Utility-grade stations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Puhagan_geothermal_plant.jpg"><img alt="" class="thumbimage" data-file-height="1944" data-file-width="2592" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Puhagan_geothermal_plant.jpg/250px-Puhagan_geothermal_plant.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Puhagan_geothermal_plant.jpg/375px-Puhagan_geothermal_plant.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Puhagan_geothermal_plant.jpg/500px-Puhagan_geothermal_plant.jpg 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Puhagan_geothermal_plant.jpg" title="Enlarge"></a></div>A geothermal power station in <a href="/wiki/Negros_Oriental" title="Negros Oriental">Negros Oriental</a>, <a href="/wiki/Philippines" title="Philippines">Philippines</a>.</div></div></div>
+<p>The largest group of geothermal <a class="mw-redirect" href="/wiki/Power_plant" title="Power plant">power plants</a> in the world is located at <a href="/wiki/The_Geysers" title="The Geysers">The Geysers</a>, a geothermal field in <a href="/wiki/California" title="California">California</a>, <a href="/wiki/Geothermal_energy_in_the_United_States" title="Geothermal energy in the United States">United States</a>.<sup class="reference" id="cite_ref-calpine_37-0"><a href="#cite_note-calpine-37">[37]</a></sup> As of 2004, five countries (<a href="/wiki/Geothermal_power_in_El_Salvador" title="Geothermal power in El Salvador">El Salvador</a>, <a href="/wiki/Geothermal_power_in_Kenya" title="Geothermal power in Kenya">Kenya</a>, <a href="/wiki/Geothermal_power_in_the_Philippines" title="Geothermal power in the Philippines">the Philippines</a>, <a href="/wiki/Geothermal_power_in_Iceland" title="Geothermal power in Iceland">Iceland</a>, and <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a>) generate more than 15% of their electricity from geothermal sources.<sup class="reference" id="cite_ref-IPCC_2-8"><a href="#cite_note-IPCC-2">[2]</a></sup>
+</p><p>Geothermal electricity is generated in the 24 countries listed in the table below. During 2005, contracts were placed for an additional 500 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> of electrical capacity in the United States, while there were also stations under construction in 11 other countries.<sup class="reference" id="cite_ref-INEL_13-5"><a href="#cite_note-INEL-13">[13]</a></sup> Enhanced geothermal systems that are several kilometres in depth are operational in France and Germany and are being developed or evaluated in at least four other countries.
+</p>
+<table class="wikitable sortable" style="font-size:95%; text-align:right;">
+<caption><b>Installed geothermal electric capacity</b>
+</caption>
+<tbody><tr>
+<th width="135">Country
+</th>
+<th>Capacity (MW)<br/>2007<sup class="reference" id="cite_ref-Bertani_8-1"><a href="#cite_note-Bertani-8">[8]</a></sup>
+</th>
+<th>Capacity (MW)<br/>2010<sup class="reference" id="cite_ref-Holm_38-0"><a href="#cite_note-Holm-38">[38]</a></sup>
+</th>
+<th>Capacity (MW)<br/>2013<sup class="reference" id="cite_ref-Matek_39-0"><a href="#cite_note-Matek-39">[39]</a></sup>
+</th>
+<th>Capacity (MW)<br/>2015<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup>
+</th>
+<th data-sort-type="number">Share of national <br/>generation (%)
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_energy_in_the_United_States" title="Geothermal energy in the United States">USA</a></td>
+<td>2687</td>
+<td>3086</td>
+<td>3389</td>
+<td>3450</td>
+<td>0.3
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_the_Philippines" title="Geothermal power in the Philippines">Philippines</a></td>
+<td>1969.7</td>
+<td>1904</td>
+<td>1894</td>
+<td>1870</td>
+<td>27.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Indonesia" title="Geothermal power in Indonesia">Indonesia</a></td>
+<td>992</td>
+<td>1197</td>
+<td>1333</td>
+<td>1340</td>
+<td>3.7
+</td></tr>
+<tr>
+<td align="left"><a class="mw-redirect" href="/wiki/Geothermal_power_in_Mexico" title="Geothermal power in Mexico">Mexico</a></td>
+<td>953</td>
+<td>958</td>
+<td>980</td>
+<td>1017</td>
+<td>3.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_New_Zealand" title="Geothermal power in New Zealand">New Zealand</a></td>
+<td>471.6</td>
+<td>628</td>
+<td>895</td>
+<td>1005</td>
+<td>14.5<sup class="reference" id="cite_ref-NZEnergy2013_41-0"><a href="#cite_note-NZEnergy2013-41">[41]</a></sup>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Italy" title="Geothermal power in Italy">Italy</a></td>
+<td>810.5</td>
+<td>843</td>
+<td>901</td>
+<td>916</td>
+<td>1.5
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Iceland" title="Geothermal power in Iceland">Iceland</a></td>
+<td>421.2</td>
+<td>575</td>
+<td>664</td>
+<td>665</td>
+<td>30.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Kenya" title="Geothermal power in Kenya">Kenya</a></td>
+<td>128.8</td>
+<td>167</td>
+<td>215</td>
+<td>594</td>
+<td>51.0<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Japan" title="Geothermal power in Japan">Japan</a></td>
+<td>535.2</td>
+<td>536</td>
+<td>537</td>
+<td>519</td>
+<td>0.1
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Turkey" title="Geothermal power in Turkey">Turkey</a></td>
+<td>38</td>
+<td>82</td>
+<td>163</td>
+<td>397</td>
+<td>0.3
+</td></tr>
+<tr>
+<td align="left"><a class="mw-redirect" href="/wiki/Geothermal_energy_in_Costa_Rica" title="Geothermal energy in Costa Rica">Costa Rica</a></td>
+<td>162.5</td>
+<td>166</td>
+<td>208</td>
+<td>207</td>
+<td>14.0
+</td></tr>
+<tr>
+<td align="left"><a class="mw-redirect" href="/wiki/Geothermal_energy_in_El_Salvador" title="Geothermal energy in El Salvador">El Salvador</a></td>
+<td>204.4</td>
+<td>204</td>
+<td>204</td>
+<td>204</td>
+<td>25.0<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup><sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Electricity_sector_in_Nicaragua" title="Electricity sector in Nicaragua">Nicaragua</a></td>
+<td>79</td>
+<td>82</td>
+<td>97</td>
+<td>82</td>
+<td>9.9
+</td></tr>
+<tr>
+<td align="left"><a class="new" href="/w/index.php?title=Geothermal_power_in_Papua_New_Guinea&amp;action=edit&amp;redlink=1" title="Geothermal power in Papua New Guinea (page does not exist)">Papua New Guinea</a></td>
+<td>56</td>
+<td>56</td>
+<td>56</td>
+<td>50</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a class="new" href="/w/index.php?title=Geothermal_power_in_Guatemala&amp;action=edit&amp;redlink=1" title="Geothermal power in Guatemala (page does not exist)">Guatemala</a></td>
+<td>53</td>
+<td>52</td>
+<td>42</td>
+<td>52</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Portugal" title="Geothermal power in Portugal">Portugal</a></td>
+<td>23</td>
+<td>29</td>
+<td>28</td>
+<td>29</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Russia" title="Geothermal power in Russia">Russia</a></td>
+<td>79</td>
+<td>79</td>
+<td>82</td>
+<td>82</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_China" title="Geothermal power in China">China</a></td>
+<td>27.8</td>
+<td>24</td>
+<td>27</td>
+<td>27</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Germany" title="Geothermal power in Germany">Germany</a></td>
+<td>8.4</td>
+<td>6.6</td>
+<td>13</td>
+<td>27</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a class="new" href="/w/index.php?title=Geothermal_power_in_France&amp;action=edit&amp;redlink=1" title="Geothermal power in France (page does not exist)">France</a></td>
+<td>14.7</td>
+<td>16</td>
+<td>15</td>
+<td>16</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a class="mw-redirect" href="/wiki/Geothermal_power_in_Ethiopia" title="Geothermal power in Ethiopia">Ethiopia</a></td>
+<td>7.3</td>
+<td>7.3</td>
+<td>8</td>
+<td>7.3</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a class="new" href="/w/index.php?title=Geothermal_power_in_Austria&amp;action=edit&amp;redlink=1" title="Geothermal power in Austria (page does not exist)">Austria</a></td>
+<td>1.1</td>
+<td>1.4</td>
+<td>1</td>
+<td>1.2</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Geothermal_power_in_Australia" title="Geothermal power in Australia">Australia</a></td>
+<td>0.2</td>
+<td>1.1</td>
+<td>1</td>
+<td>1.1</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a class="new" href="/w/index.php?title=Geothermal_power_in_Thailand&amp;action=edit&amp;redlink=1" title="Geothermal power in Thailand (page does not exist)">Thailand</a></td>
+<td>0.3</td>
+<td>0.3</td>
+<td>0.3</td>
+<td>0.3</td>
+<td>
+</td></tr>
+<tr class="sortbottom">
+<th>Total
+</th>
+<th>9,731.9</th>
+<th>10,709.7</th>
+<th>11,765</th>
+<th>12,635.9</th>
+<th>–
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Environmental_impact">Environmental impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=9" title="Edit section: Environmental impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:NesjavellirPowerPlant_edit2.jpg"><img alt="" class="thumbimage" data-file-height="1600" data-file-width="2400" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/220px-NesjavellirPowerPlant_edit2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/330px-NesjavellirPowerPlant_edit2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/440px-NesjavellirPowerPlant_edit2.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:NesjavellirPowerPlant_edit2.jpg" title="Enlarge"></a></div>The 120-<a class="mw-redirect" href="/wiki/MWe" title="MWe">MW<sub>e</sub></a> <a href="/wiki/Nesjavellir_Geothermal_Power_Station" title="Nesjavellir Geothermal Power Station">Nesjavellir</a> power station in southwest Iceland</div></div></div>
+<p>Fluids drawn from the deep earth carry a mixture of gases, notably <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (<span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>), <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a> (<span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>S</span>), <a href="/wiki/Methane" title="Methane">methane</a> (<span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> (<span class="chemf nowrap">NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>) and <a href="/wiki/Radon" title="Radon">radon</a> (<span class="chemf nowrap">Rn</span>). These pollutants contribute to <a href="/wiki/Global_warming" title="Global warming">global warming</a>, <a href="/wiki/Acid_rain" title="Acid rain">acid rain</a>, radiation and noxious smells if released.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (January 2018)">not in citation given</span></a></i>]</sup>
+</p><p>Existing geothermal electric stations, that fall within the <a href="/wiki/Percentile" title="Percentile">50th percentile</a> of all total life cycle emissions studies reviewed by the <a class="mw-redirect" href="/wiki/IPCC" title="IPCC">IPCC</a>, produce on average 45 kg of <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> equivalent emissions per megawatt-hour of generated electricity (kg <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>eq/<a class="mw-redirect" href="/wiki/Megawatt-hour" title="Megawatt-hour">MW·h</a>). For comparison, a coal-fired power plant emits 1,001 kg of <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> per megawatt-hour when not coupled with <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture and storage</a> (CCS).<sup class="reference" id="cite_ref-IPCC_Annex_II_6-1"><a href="#cite_note-IPCC_Annex_II-6">[6]</a></sup>
+</p><p>Stations that experience high levels of acids and volatile chemicals are usually equipped with emission-control systems to reduce the exhaust. Geothermal stations could theoretically inject these gases back into the earth, as a form of carbon capture and storage.
+</p><p>In addition to dissolved gases, hot water from geothermal sources may hold in solution trace amounts of toxic chemicals, such as <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a>, <a href="/wiki/Arsenic" title="Arsenic">arsenic</a>, <a href="/wiki/Boron" title="Boron">boron</a>, <a href="/wiki/Antimony" title="Antimony">antimony</a>, and salt.<sup class="reference" id="cite_ref-toxic_45-0"><a href="#cite_note-toxic-45">[45]</a></sup> These chemicals come out of solution as the water cools, and can cause environmental damage if released. The modern practice of injecting geothermal fluids back into the Earth to stimulate production has the side benefit of reducing this environmental risk.
+</p><p>Station construction can adversely affect land stability. <a href="/wiki/Subsidence" title="Subsidence">Subsidence</a> has occurred in the <a class="mw-redirect" href="/wiki/Wairakei_field" title="Wairakei field">Wairakei field</a> in New Zealand.<sup class="reference" id="cite_ref-utilization_46-0"><a href="#cite_note-utilization-46">[46]</a></sup> <a class="mw-redirect" href="/wiki/Enhanced_geothermal_systems" title="Enhanced geothermal systems">Enhanced geothermal systems</a> can trigger <a href="/wiki/Induced_seismicity" title="Induced seismicity">earthquakes</a> due to water injection. The project in <a href="/wiki/Basel" title="Basel">Basel</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> was suspended because more than 10,000 seismic events measuring up to 3.4 on the <a class="mw-redirect" href="/wiki/Richter_Scale" title="Richter Scale">Richter Scale</a> occurred over the first 6 days of water injection.<sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup> The risk of geothermal drilling leading to <a href="/wiki/Tectonic_uplift" title="Tectonic uplift">uplift</a> has been experienced in <a href="/wiki/Staufen_im_Breisgau" title="Staufen im Breisgau">Staufen im Breisgau</a>.
+</p><p>Geothermal has minimal land and freshwater requirements. Geothermal stations use 404 square meters per <a class="mw-redirect" href="/wiki/Gigawatt-hour" title="Gigawatt-hour">GW·h</a> versus 3,632 and 1,335 square meters for coal facilities and wind farms respectively.<sup class="reference" id="cite_ref-utilization_46-1"><a href="#cite_note-utilization-46">[46]</a></sup> They use 20 litres of freshwater per MW·h versus over 1000 litres per MW·h for nuclear, coal, or oil.<sup class="reference" id="cite_ref-utilization_46-2"><a href="#cite_note-utilization-46">[46]</a></sup>
+</p><p>Geothermal power stations can also disrupt the natural cycles of geysers. For example, the <a href="/wiki/Beowawe,_Nevada" title="Beowawe, Nevada">Beowawe, Nevada</a> geysers, which were uncapped geothermal wells, stopped erupting due to the development of the dual-flash station.
+</p>
+<h2><span class="mw-headline" id="Economics">Economics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=10" title="Edit section: Economics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>See also: <a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a>.</i></dd></dl>
+<p>Geothermal power requires no fuel; it is therefore immune to fuel cost fluctuations. However, <a class="mw-redirect" href="/wiki/Capital_costs" title="Capital costs">capital costs</a> tend to be high. Drilling accounts for over half the costs, and exploration of deep resources entails significant risks. A typical well doublet in Nevada can support 4.5 <a class="mw-redirect" href="/wiki/Megawatts" title="Megawatts">megawatts</a> (MW) of electricity generation and costs about $10 million to drill, with a 20% failure rate.<sup class="reference" id="cite_ref-econ101_21-1"><a href="#cite_note-econ101-21">[21]</a></sup>
+In total, electrical station construction and well drilling costs about 2–5 million € per MW of electrical capacity, while the <a class="mw-redirect" href="/wiki/Levelised_energy_cost" title="Levelised energy cost">levelised energy cost</a> is 0.04–0.10 € per kW·h.<sup class="reference" id="cite_ref-Bertani_8-2"><a href="#cite_note-Bertani-8">[8]</a></sup> Enhanced geothermal systems tend to be on the high side of these ranges, with capital costs above $4 million per MW and levelized costs above $0.054 per kW·h in 2007.<sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[48]</a></sup>
+</p><p>Geothermal power is highly scalable: a small power station can supply a rural village, though initial capital costs can be high.<sup class="reference" id="cite_ref-small_49-0"><a href="#cite_note-small-49">[49]</a></sup>
+</p><p>The most developed geothermal field is the Geysers in California. In 2008, this field supported 15 stations, all owned by <a href="/wiki/Calpine" title="Calpine">Calpine</a>, with a total generating capacity of 725 MW.<sup class="reference" id="cite_ref-calpine_37-1"><a href="#cite_note-calpine-37">[37]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Geothermal_heating" title="Geothermal heating">Geothermal heating</a></li>
+<li><a href="/wiki/Hot_dry_rock_geothermal_energy" title="Hot dry rock geothermal energy">Enhanced geothermal system</a></li>
+<li><a href="/wiki/Iceland_Deep_Drilling_Project" title="Iceland Deep Drilling Project">Iceland Deep Drilling Project</a></li>
+<li><a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">Renewable energy by country</a></li></ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geothermal_power&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.geni.org/globalenergy/library/articles-renewable-energy-transmission/geothermal.shtml" rel="nofollow">Articles on Geothermal Energy</a></li>
+<li><a class="external text" href="http://scholarspace.manoa.hawaii.edu/handle/10125/21320" rel="nofollow">The Geothermal Collection by the University of Hawaii at Manoa</a></li>
+<li><a class="external text" href="https://www.geothermal-library.org/" rel="nofollow">GRC Geothermal Library</a></li></ul>
+<div aria-labelledby="Geothermal_energy" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Geothermal_power" title="Template:Geothermal power"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Geothermal_power" title="Template talk:Geothermal power"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Geothermal_power&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Geothermal_energy" style="font-size:114%;margin:0 4em"><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal energy</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Geothermal_energy" title="Category:Geothermal energy">Category:Geothermal energy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal energy</a></li>
+<li><a class="mw-selflink selflink">Geothermal power</a></li>
+<li><a href="/wiki/Geothermal_heating" title="Geothermal heating">Geothermal heating</a></li>
+<li><a href="/wiki/Geothermal_gradient" title="Geothermal gradient">Geothermal gradient</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:NesjavellirPowerPlant_edit2.jpg"><img alt="NesjavellirPowerPlant edit2.jpg" data-file-height="1600" data-file-width="2400" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/120px-NesjavellirPowerPlant_edit2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/180px-NesjavellirPowerPlant_edit2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/240px-NesjavellirPowerPlant_edit2.jpg 2x" width="120"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Geothermal_energy_by_country" title="Category:Geothermal energy by country">By country</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jermaghbyur_Geothermal_Power_Plant" title="Jermaghbyur Geothermal Power Plant">Armenia</a></li>
+<li><a href="/wiki/Geothermal_power_in_Australia" title="Geothermal power in Australia">Australia</a></li>
+<li><a href="/wiki/Geothermal_power_in_Canada" title="Geothermal power in Canada">Canada</a></li>
+<li><a href="/wiki/Geothermal_power_in_Chile" title="Geothermal power in Chile">Chile</a></li>
+<li><a href="/wiki/Geothermal_power_in_China" title="Geothermal power in China">China</a></li>
+<li><a href="/wiki/Geothermal_power_in_Denmark" title="Geothermal power in Denmark">Denmark</a></li>
+<li><a href="/wiki/Geothermal_power_in_El_Salvador" title="Geothermal power in El Salvador">El Salvador</a></li>
+<li><a class="mw-redirect" href="/wiki/Geothermal_power_in_Ethiopia" title="Geothermal power in Ethiopia">Energy in Ethiopia</a></li>
+<li><a href="/wiki/Geothermal_power_in_Germany" title="Geothermal power in Germany">Germany</a></li>
+<li><a href="/wiki/Geothermal_power_in_Iceland" title="Geothermal power in Iceland">Iceland</a></li>
+<li><a href="/wiki/Geothermal_power_in_Indonesia" title="Geothermal power in Indonesia">Indonesia</a></li>
+<li><a href="/wiki/Geothermal_power_in_Italy" title="Geothermal power in Italy">Italy</a></li>
+<li><a href="/wiki/Geothermal_power_in_Japan" title="Geothermal power in Japan">Japan</a></li>
+<li><a href="/wiki/Geothermal_power_in_Kenya" title="Geothermal power in Kenya">Kenya</a></li>
+<li><a href="/wiki/Geothermal_energy_in_Lebanon" title="Geothermal energy in Lebanon">Lebanon</a></li>
+<li><a href="/wiki/Klaip%C4%97da_Geothermal_Demonstration_Plant" title="Klaipėda Geothermal Demonstration Plant">Lithuania</a></li>
+<li><a href="/wiki/Energy_in_Mexico" title="Energy in Mexico">Mexico</a></li>
+<li><a href="/wiki/Geothermal_power_in_New_Zealand" title="Geothermal power in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Geothermal_power_in_the_Philippines" title="Geothermal power in the Philippines">Philippines</a></li>
+<li><a href="/wiki/Geothermal_power_in_Portugal" title="Geothermal power in Portugal">Portugal</a></li>
+<li><a href="/wiki/Geothermal_power_in_Romania" title="Geothermal power in Romania">Romania</a></li>
+<li><a href="/wiki/Geothermal_power_in_Russia" title="Geothermal power in Russia">Russia</a></li>
+<li><a href="/wiki/Geothermal_power_in_Turkey" title="Geothermal power in Turkey">Turkey</a></li>
+<li><a href="/wiki/Geothermal_power_in_the_United_Kingdom" title="Geothermal power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Geothermal_energy_in_the_United_States" title="Geothermal energy in the United States">United States</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technologies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Geothermal_energy_and_aquaculture" title="Geothermal energy and aquaculture">Aquaculture</a></li>
+<li><a href="/wiki/Geothermal_desalination" title="Geothermal desalination">Desalination</a></li>
+<li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li>
+<li><a href="/wiki/District_heating" title="District heating">District heating</a></li>
+<li><a href="/wiki/Binary_cycle" title="Binary cycle">Binary Cycle</a></li>
+<li><a href="/wiki/Enhanced_geothermal_system" title="Enhanced geothermal system">EGS</a></li>
+<li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li>
+<li><a href="/wiki/Hot_dry_rock_geothermal_energy" title="Hot dry rock geothermal energy">Hot dry rock</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy Concepts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Base_load_power_plant" title="Base load power plant">Baseload power</a></li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Capacity factor</a></li>
+<li><a href="/wiki/Energy_storage" title="Energy storage">Energy storage</a></li>
+<li><a href="/wiki/Energy_subsidies" title="Energy subsidies">Energy subsidies</a></li>
+<li><a class="mw-redirect" href="/wiki/EROEI" title="EROEI">EROEI</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Geothermal_energy" title="Category:Geothermal energy">Category</a></b></li>
+<li><b>Portals:</b> <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Renewable_energy_by_country" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Renewable_energy_by_country" title="Template:Renewable energy by country"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Renewable_energy_by_country" title="Template talk:Renewable energy by country"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Renewable_energy_by_country&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Renewable_energy_by_country" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">Renewable energy by country</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Renewable_energy_in_Africa" title="Renewable energy in Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Renewable_energy_in_Ethiopia" title="Renewable energy in Ethiopia">Ethiopia</a></li>
+<li><a href="/wiki/Renewable_energy_in_Kenya" title="Renewable energy in Kenya">Kenya</a></li>
+<li><a href="/wiki/Renewable_energy_in_Morocco" title="Renewable energy in Morocco">Morocco</a></li>
+<li><a href="/wiki/Renewable_energy_in_Seychelles" title="Renewable energy in Seychelles">Seychelles</a></li>
+<li><a class="mw-redirect" href="/wiki/Renewable_Energy_in_South_Africa" title="Renewable Energy in South Africa">South Africa</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Renewable_energy_in_Asia" title="Renewable energy in Asia">Asia</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Renewable_energy_in_Afghanistan" title="Renewable energy in Afghanistan">Afghanistan</a></li>
+<li><a href="/wiki/Renewable_energy_in_Armenia" title="Renewable energy in Armenia">Armenia</a></li>
+<li><a href="/wiki/Renewable_energy_in_Bangladesh" title="Renewable energy in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Renewable_energy_in_Bhutan" title="Renewable energy in Bhutan">Bhutan</a></li>
+<li><a href="/wiki/Renewable_energy_in_China" title="Renewable energy in China">China</a></li>
+<li><a href="/wiki/Renewable_energy_in_India" title="Renewable energy in India">India</a></li>
+<li><a href="/wiki/Renewable_energy_in_Kazakhstan" title="Renewable energy in Kazakhstan">Kazakhstan</a></li>
+<li><a href="/wiki/Renewable_energy_in_Nepal" title="Renewable energy in Nepal">Nepal</a></li>
+<li><a href="/wiki/Renewable_energy_in_Pakistan" title="Renewable energy in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Renewable_energy_in_Palestine" title="Renewable energy in Palestine">Palestine</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_Philippines" title="Renewable energy in the Philippines">Philippines</a></li>
+<li><a href="/wiki/Renewable_energy_in_Taiwan" title="Renewable energy in Taiwan">Taiwan</a></li>
+<li><a href="/wiki/Renewable_energy_in_Thailand" title="Renewable energy in Thailand">Thailand</a></li>
+<li><a href="/wiki/Renewable_energy_in_Vietnam" title="Renewable energy in Vietnam">Vietnam</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Europe</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;padding-left:0.3em;padding-right:0.3em;font-weight:normal;"><a href="/wiki/Renewable_energy_in_the_European_Union" title="Renewable energy in the European Union">European Union</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Renewable_energy_in_the_Czech_Republic" title="Renewable energy in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Renewable_energy_in_Denmark" title="Renewable energy in Denmark">Denmark</a></li>
+<li><a href="/wiki/Renewable_energy_in_Finland" title="Renewable energy in Finland">Finland</a></li>
+<li><a href="/wiki/Renewable_energy_in_France" title="Renewable energy in France">France</a></li>
+<li><a href="/wiki/Renewable_energy_in_Germany" title="Renewable energy in Germany">Germany</a></li>
+<li><a href="/wiki/Renewable_energy_in_Greece" title="Renewable energy in Greece">Greece</a></li>
+<li><a href="/wiki/Renewable_energy_in_Hungary" title="Renewable energy in Hungary">Hungary</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_Republic_of_Ireland" title="Renewable energy in the Republic of Ireland">Ireland</a></li>
+<li><a href="/wiki/Renewable_energy_in_Italy" title="Renewable energy in Italy">Italy</a></li>
+<li><a href="/wiki/Renewable_energy_in_Lithuania" title="Renewable energy in Lithuania">Lithuania</a></li>
+<li><a href="/wiki/Renewable_energy_in_Luxembourg" title="Renewable energy in Luxembourg">Luxembourg</a></li>
+<li><a class="mw-redirect" href="/wiki/Renewable_energy_in_Malta" title="Renewable energy in Malta">Malta</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_Netherlands" title="Renewable energy in the Netherlands">Netherlands</a></li>
+<li><a class="mw-redirect" href="/wiki/Renewable_energy_in_Poland" title="Renewable energy in Poland">Poland</a></li>
+<li><a href="/wiki/Renewable_energy_in_Portugal" title="Renewable energy in Portugal">Portugal</a></li>
+<li><a href="/wiki/Renewable_energy_in_Spain" title="Renewable energy in Spain">Spain</a></li>
+<li><a class="mw-redirect" href="/wiki/Renewable_energy_in_Sweden" title="Renewable energy in Sweden">Sweden</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_United_Kingdom" title="Renewable energy in the United Kingdom">United Kingdom</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding-left:0.3em;padding-right:0.3em;font-weight:normal;">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Renewable_energy_in_Albania" title="Renewable energy in Albania">Albania</a></li>
+<li><a href="/wiki/Renewable_energy_in_Iceland" title="Renewable energy in Iceland">Iceland</a></li>
+<li><a href="/wiki/Renewable_energy_in_Norway" title="Renewable energy in Norway">Norway</a></li>
+<li><a href="/wiki/Renewable_energy_in_Russia" title="Renewable energy in Russia">Russia</a></li>
+<li><a href="/wiki/Renewable_energy_in_Turkey" title="Renewable energy in Turkey">Turkey</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">North America</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Renewable_energy_in_Canada" title="Renewable energy in Canada">Canada</a></li>
+<li><a href="/wiki/Renewable_energy_in_Costa_Rica" title="Renewable energy in Costa Rica">Costa Rica</a></li>
+<li><a href="/wiki/Renewable_energy_in_Honduras" title="Renewable energy in Honduras">Honduras</a></li>
+<li><a href="/wiki/Renewable_energy_in_Mexico" title="Renewable energy in Mexico">Mexico</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_United_States" title="Renewable energy in the United States">United States</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Oceania</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Renewable_energy_in_Australia" title="Renewable energy in Australia">Australia</a></li>
+<li><a href="/wiki/Renewable_energy_in_New_Zealand" title="Renewable energy in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Renewable_energy_in_Tuvalu" title="Renewable energy in Tuvalu">Tuvalu</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">South America</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Renewable_energy_in_Argentina" title="Renewable energy in Argentina">Argentina</a></li>
+<li><a href="/wiki/Renewable_energy_in_Brazil" title="Renewable energy in Brazil">Brazil</a></li>
+<li><a href="/wiki/Renewable_energy_in_Chile" title="Renewable energy in Chile">Chile</a></li>
+<li><a href="/wiki/Renewable_energy_in_Colombia" title="Renewable energy in Colombia">Colombia</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<dl><dt><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/><a href="/wiki/Category:Renewable_energy_by_country" title="Category:Renewable energy by country">Category</a></dt>
+<dd>Portals:</dd>
+<dd><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></dd>
+<dd><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></dd>
+<dd><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></dd></dl>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20181101200937
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.840 seconds
+Real time usage: 1.332 seconds
+Preprocessor visited node count: 4632/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 184008/2097152 bytes
+Template argument size: 4982/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 119694/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.409/10.000 seconds
+Lua memory usage: 9.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1047.435      1 -total
+ 51.20%  536.331      1 Template:Reflist
+ 23.83%  249.566     23 Template:Citation
+ 21.34%  223.477      3 Template:Navbox
+ 20.15%  211.039      1 Template:Geothermal_power
+ 19.12%  200.223      8 Template:Icon
+ 10.38%  108.722      4 Template:Fix
+  8.57%   89.730      7 Template:Category_handler
+  6.04%   63.307      2 Template:Dead_link
+  5.61%   58.712      4 Template:Fix/category
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13021878-0!canonical and timestamp 20181101200936 and revision id 863114767
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Geothermal_power&amp;oldid=863114767">https://en.wikipedia.org/w/index.php?title=Geothermal_power&amp;oldid=863114767</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Power_station_technology" title="Category:Power station technology">Power station technology</a></li><li><a href="/wiki/Category:Geothermal_energy" title="Category:Geothermal energy">Geothermal energy</a></li><li><a href="/wiki/Category:Alternative_energy" title="Category:Alternative energy">Alternative energy</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_February_2017" title="Category:Articles with dead external links from February 2017">Articles with dead external links from February 2017</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2018" title="Category:Articles with dead external links from July 2018">Articles with dead external links from July 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2015" title="Category:Use dmy dates from March 2015">Use dmy dates from March 2015</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2010" title="Category:Articles with unsourced statements from May 2010">Articles with unsourced statements from May 2010</a></li><li><a href="/wiki/Category:Pages_using_multiple_image_with_manual_scaled_images" title="Category:Pages using multiple image with manual scaled images">Pages using multiple image with manual scaled images</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_January_2018" title="Category:Articles with failed verification from January 2018">Articles with failed verification from January 2018</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Geothermal+power" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Geothermal+power" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Geothermal_power" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Geothermal_power" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Geothermal_power">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Geothermal_power&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Geothermal_power&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Geothermal_power" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Geothermal_power" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Geothermal_power&amp;oldid=863114767" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Geothermal_power&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3215493" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Geothermal_power&amp;id=863114767" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Geothermal+power">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Geothermal+power&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Geothermal_power&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Geothermal_power_plants" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9" hreflang="ar" lang="ar" title="كهرباء حرارية أرضية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Central_xeot%C3%A9rmica" hreflang="ast" lang="ast" title="Central xeotérmica – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Central_geot%C3%A8rmica" hreflang="ca" lang="ca" title="Central geotèrmica – Catalan">Català</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Central_geot%C3%A9rmica" hreflang="es" lang="es" title="Central geotérmica – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Geoterma_centralo" hreflang="eo" lang="eo" title="Geoterma centralo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%D8%B3%DB%8C%D8%AA%D9%87_%D8%B2%D9%85%DB%8C%D9%86%E2%80%8C%DA%AF%D8%B1%D9%85%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="الکتریسیته زمین‌گرمایی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Centrale_g%C3%A9othermique" hreflang="fr" lang="fr" title="Centrale géothermique – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EC%97%B4_%EB%B0%9C%EC%A0%84" hreflang="ko" lang="ko" title="지열 발전 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B5%D6%80%D5%AF%D6%80%D5%A1%D5%BB%D5%A5%D6%80%D5%B4%D5%A1%D5%B5%D5%AB%D5%B6_%D5%A7%D5%AC%D5%A5%D5%AF%D5%BF%D6%80%D5%A1%D5%AF%D5%A1%D5%B5%D5%A1%D5%B6" hreflang="hy" lang="hy" title="Երկրաջերմային էլեկտրակայան – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Geotermalna_elektrana" hreflang="hr" lang="hr" title="Geotermalna elektrana – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Pembangkit_listrik_tenaga_panas_bumi" hreflang="id" lang="id" title="Pembangkit listrik tenaga panas bumi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Jar%C3%B0varmavirkjun" hreflang="is" lang="is" title="Jarðvarmavirkjun – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D0%B4%D1%8B%D2%9B_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%D1%81%D1%8B" hreflang="kk" lang="kk" title="Геотермалдық электр станциясы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AD%E0%B5%97%E0%B4%AE_%E0%B4%A4%E0%B4%BE%E0%B4%AA%E0%B5%8B%E0%B5%BC%E0%B4%9C%E0%B5%8D%E0%B4%9C%E0%B4%82" hreflang="ml" lang="ml" title="ഭൗമ താപോർജ്ജം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%86%B1%E7%99%BA%E9%9B%BB" hreflang="ja" lang="ja" title="地熱発電 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-jam"><a class="interlanguage-link-target" href="https://jam.wikipedia.org/wiki/Jiotoermal_ilekchrixiti" hreflang="jam" lang="jam" title="Jiotoermal ilekchrixiti – Jamaican Creole English">Patois</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Central_geot%C3%A9rmica" hreflang="pt" lang="pt" title="Central geotérmica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Геотермальная электростанция – Russian">Русский</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Elektriciteti_gjeotermik" hreflang="sq" lang="sq" title="Elektriciteti gjeotermik – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%81%E0%AE%B5%E0%AE%BF%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA_%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="புவிவெப்ப மின்சாரம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Jeotermal_elektrik" hreflang="tr" lang="tr" title="Jeotermal elektrik – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Геотермальна електростанція – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%9C%B0%E7%86%B1%E8%83%BD%E7%99%BC%E9%9B%BB" hreflang="yue" lang="yue" title="地熱能發電 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%86%B1%E8%83%BD%E7%99%BC%E9%9B%BB" hreflang="zh" lang="zh" title="地熱能發電 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3215493#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 October 2018, at 20:13<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Geothermal_power&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.840","walltime":"1.332","ppvisitednodes":{"value":4632,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":184008,"limit":2097152},"templateargumentsize":{"value":4982,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":119694,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1047.435      1 -total"," 51.20%  536.331      1 Template:Reflist"," 23.83%  249.566     23 Template:Citation"," 21.34%  223.477      3 Template:Navbox"," 20.15%  211.039      1 Template:Geothermal_power"," 19.12%  200.223      8 Template:Icon"," 10.38%  108.722      4 Template:Fix","  8.57%   89.730      7 Template:Category_handler","  6.04%   63.307      2 Template:Dead_link","  5.61%   58.712      4 Template:Fix/category"]},"scribunto":{"limitreport-timeusage":{"value":"0.409","limit":"10.000"},"limitreport-memusage":{"value":9525771,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20181101200937","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1262"});});</script>
+</body>
+</html>

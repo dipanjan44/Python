@@ -1,0 +1,646 @@
+https://en.wikipedia.org/wiki/Zirconium_dioxide
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Zirconium dioxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zirconium_dioxide","wgTitle":"Zirconium dioxide","wgCurRevisionId":866669694,"wgRevisionId":866669694,"wgArticleId":154750,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","CS1 maint: Extra text: authors list","CS1 maint: Archived copy as title","Articles without InChI source","Chemical pages without ChemSpiderID","Articles without EBI source","Articles without KEGG source","Articles without UNII source","ECHA InfoCard ID from Wikidata","Chembox having GHS data","Articles containing unverified chemical infoboxes","All articles with unsourced statements","Articles with unsourced statements from June 2012","Biomaterials","Ceramic materials","High-k dielectrics","Oxides","Refractory materials","Zirconium compounds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Zirconium_dioxide","wgRelevantArticleId":154750,"wgRequestId":"W9oIGApAIC4AAIjJbg4AAABN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q36200","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/8/8e/ZrO2powder.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Zirconium_dioxide" rel="alternate"/>
+<link href="/w/index.php?title=Zirconium_dioxide&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Zirconium_dioxide&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Zirconium_dioxide" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Zirconium_dioxide rootpage-Zirconium_dioxide skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Zirconium dioxide</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Zirconia" redirects here. For the mineral, see <a href="/wiki/Zircon" title="Zircon">Zircon</a>.</div>
+<table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left; ;">
+<caption style="text-align:center;">Zirconium dioxide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a class="image" href="/wiki/File:ZrO2powder.jpg"><img alt="ZrO2powder.jpg" data-file-height="307" data-file-width="500" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ZrO2powder.jpg/220px-ZrO2powder.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ZrO2powder.jpg/330px-ZrO2powder.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ZrO2powder.jpg/440px-ZrO2powder.jpg 2x" width="220"/></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a class="image" href="/wiki/File:Kristallstruktur_Zirconium(IV)-oxid.png"><img alt="Kristallstruktur Zirconium(IV)-oxid.png" data-file-height="2200" data-file-width="2200" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kristallstruktur_Zirconium%28IV%29-oxid.png/220px-Kristallstruktur_Zirconium%28IV%29-oxid.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kristallstruktur_Zirconium%28IV%29-oxid.png/330px-Kristallstruktur_Zirconium%28IV%29-oxid.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kristallstruktur_Zirconium%28IV%29-oxid.png/440px-Kristallstruktur_Zirconium%28IV%29-oxid.png 2x" width="220"/></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC names</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Zirconium dioxide<br/>Zirconium(IV) oxide</div>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Zirconia<br/><a href="/wiki/Baddeleyite" title="Baddeleyite">Baddeleyite</a></div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=1314-23-4" rel="nofollow">1314-23-4</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/ECHA_InfoCard" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.013.844" rel="nofollow">100.013.844</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_Community_number" title="European Community number"><span title="European Community number (chemical identifier)">EC Number</span></a>
+</td>
+<td>215-227-2
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/62395" rel="nofollow">62395</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/2O.Zr</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: MCMNRKCIXSYSNV-UHFFFAOYSA-N</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td><span class="chemf nowrap">ZrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>123.218 g/mol   
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>white powder
+</td></tr>
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>5.68 g/cm<sup>3</sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td> 2,715 °C (4,919 °F; 2,988 K) 
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td> 4,300 °C (7,770 °F; 4,570 K) 
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>negligible
+</td></tr>
+<tr>
+<td><a href="/wiki/Solubility" title="Solubility">Solubility</a>
+</td>
+<td>soluble in <a href="/wiki/Hydrofluoric_acid" title="Hydrofluoric acid">HF</a>, and hot <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">H<sub>2</sub>SO<sub>4</sub></a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Refractive_index" title="Refractive index">Refractive index</a> (<i>n</i><sub>D</sub>)</div>
+</td>
+<td>2.13
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Thermochemistry
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_molar_entropy" title="Standard molar entropy">Std molar<br/>entropy</a> (<i>S</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>50.3 J K<sup>−1</sup> mol<sup>−1</sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a class="mw-redirect" href="/wiki/Standard_enthalpy_change_of_formation" title="Standard enthalpy change of formation">Std enthalpy of<br/>formation</a> (Δ<sub>f</sub><i>H</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>–1080 kJ/mol
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+<tr>
+<td><a href="/wiki/Safety_data_sheet" title="Safety data sheet">Safety data sheet</a>
+</td>
+<td><a class="external text" href="https://web.archive.org/web/20100617011601/http://services.georgiasouthern.edu/ess/msds/Zirxonium%20(IV)%20Oxide.pdf" rel="nofollow">MSDS</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/GHS_hazard_pictograms" title="GHS hazard pictograms">GHS pictograms</a>
+</td>
+<td><a class="image" href="/wiki/File:GHS-pictogram-exclam.svg" title="The exclamation-mark pictogram in the Globally Harmonized System of Classification and Labelling of Chemicals (GHS)"><img alt="The exclamation-mark pictogram in the Globally Harmonized System of Classification and Labelling of Chemicals (GHS)" data-file-height="724" data-file-width="724" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/50px-GHS-pictogram-exclam.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/75px-GHS-pictogram-exclam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/100px-GHS-pictogram-exclam.svg.png 2x" width="50"/></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals" title="Globally Harmonized System of Classification and Labelling of Chemicals">GHS signal word</a>
+</td>
+<td>Warning
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a class="mw-redirect" href="/wiki/GHS_hazard_statement" title="GHS hazard statement">GHS hazard statements</a></div>
+</td>
+<td><abbr class="abbr" title="Causes skin irritation">H315</abbr>, <abbr class="abbr" title="Causes serious eye irritation">H319</abbr>, <abbr class="abbr" title="May cause respiratory irritation">H335</abbr>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/GHS_precautionary_statements" title="GHS precautionary statements">GHS precautionary statements</a></div>
+</td>
+<td><abbr class="abbr" title="Avoid breathing dust/fume/gas/mist/vapours/spray">P261</abbr>, <abbr class="abbr" title="Wash … thoroughly after handling">P264</abbr>, <abbr class="abbr" title="Use only outdoors or in a well-ventilated area">P271</abbr>, <abbr class="abbr" title="Wear protective gloves/protective clothing/eye protection/face protection">P280</abbr>, <abbr class="abbr" title="IF ON SKIN: Wash with soap and water">P302+352</abbr>, <abbr class="abbr" title="IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing">P304+340</abbr>, <abbr class="abbr" title="IF IN EYES: Rinse continuously with water for several minutes. Remove contact lenses if present and easy to do – continue rinsing">P305+351+338</abbr>, <abbr class="abbr" title="Call a POISON CENTER or doctor/physician if you feel unwell">P312</abbr>, <abbr class="abbr" title="Specific treatment (see … on this label)">P321</abbr>, <abbr class="abbr" title="If skin irritation occurs: Get medical advice/attention">P332+313</abbr>, <abbr class="abbr" title="Get medical advice/attention">P337+313</abbr>, <abbr class="abbr" title="Take off contaminated clothing and wash before reuse">P362</abbr>, <abbr class="abbr" title="Store in a well ventilated place. Keep container tightly closed">P403+233</abbr>, <abbr class="abbr" title="Store locked up">P405</abbr>, <abbr class="abbr" title="Dispose of contents/container to …">P501</abbr>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flash_point" title="Flash point">Flash point</a>
+</td>
+<td>Non-flammable  
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background-color:#f1f1f1;">Lethal dose or concentration (<i>LD</i>, <i>LC</i>):
+</td></tr>
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><i>LD</i><sub>50</sub> (<a href="/wiki/Lethal_dose#LD50" title="Lethal dose">median dose</a>)</div>
+</td>
+<td>&gt; 8.8 g/kg (oral, rat)
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Related compounds
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Other <a href="/wiki/Ion" title="Ion">anions</a></div>
+</td>
+<td><a href="/wiki/Zirconium_disulfide" title="Zirconium disulfide">Zirconium disulfide</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Other <a href="/wiki/Ion" title="Ion">cations</a></div>
+</td>
+<td><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a><br/><a href="/wiki/Hafnium_dioxide" title="Hafnium dioxide">Hafnium dioxide</a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25 °C [77 °F], 100 kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☑" data-file-height="600" data-file-width="600" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/12px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/18px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/24px-Yes_check.svg.png 2x" width="12"/><span style="display:none">Y</span> <span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=454439551&amp;page2=Zirconium+dioxide">verify</a></span> (<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a> <sup><img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span><img alt="☒" data-file-height="600" data-file-width="525" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" width="7"/><span style="display:none">N</span></sup> ?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Zirconium_dioxide_ZrO2_bearing_balls.jpg"><img alt="" class="thumbimage" data-file-height="2000" data-file-width="3000" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zirconium_dioxide_ZrO2_bearing_balls.jpg/220px-Zirconium_dioxide_ZrO2_bearing_balls.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zirconium_dioxide_ZrO2_bearing_balls.jpg/330px-Zirconium_dioxide_ZrO2_bearing_balls.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zirconium_dioxide_ZrO2_bearing_balls.jpg/440px-Zirconium_dioxide_ZrO2_bearing_balls.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Zirconium_dioxide_ZrO2_bearing_balls.jpg" title="Enlarge"></a></div>Bearing balls</div></div></div>
+<p><b>Zirconium dioxide</b> (<span class="chemf nowrap">ZrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>), sometimes known as <b>zirconia</b> (not to be confused with <a href="/wiki/Zircon" title="Zircon">zircon</a>), is a white crystalline <a href="/wiki/Oxide" title="Oxide">oxide</a> of <a href="/wiki/Zirconium" title="Zirconium">zirconium</a>. Its most naturally occurring form, with a <a class="mw-redirect" href="/wiki/Monoclinic" title="Monoclinic">monoclinic</a> crystalline structure, is the <a href="/wiki/Mineral" title="Mineral">mineral</a> <a href="/wiki/Baddeleyite" title="Baddeleyite">baddeleyite</a>. A dopant stabilized cubic structured zirconia, <a href="/wiki/Cubic_zirconia" title="Cubic zirconia">cubic zirconia</a>, is synthesized in various colours for use as a <a href="/wiki/Gemstone" title="Gemstone">gemstone</a> and a <a href="/wiki/Diamond_simulant" title="Diamond simulant">diamond simulant</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Production,_chemical_properties,_occurrence"><span class="tocnumber">1</span> <span class="toctext">Production, chemical properties, occurrence</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Structure"><span class="tocnumber">1.1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Chemical_reactions"><span class="tocnumber">1.2</span> <span class="toctext">Chemical reactions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Engineering_properties"><span class="tocnumber">2</span> <span class="toctext">Engineering properties</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Uses"><span class="tocnumber">3</span> <span class="toctext">Uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Niche_uses"><span class="tocnumber">3.1</span> <span class="toctext">Niche uses</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Diamond_simulant"><span class="tocnumber">3.2</span> <span class="toctext">Diamond simulant</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span id="Production.2C_chemical_properties.2C_occurrence"></span><span class="mw-headline" id="Production,_chemical_properties,_occurrence">Production, chemical properties, occurrence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=1" title="Edit section: Production, chemical properties, occurrence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Zirconia is produced by <a href="/wiki/Calcination" title="Calcination">calcining</a> zirconium compounds, exploiting its high <a href="/wiki/Thermal_stability" title="Thermal stability">thermal stability</a>.<sup class="reference" id="cite_ref-Ullmann_1-0"><a href="#cite_note-Ullmann-1">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=2" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Three phases are known: monoclinic below 1170 °C, tetragonal between 1170 °C and 2370 °C, and cubic above 2370 °C.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>  The trend is for higher symmetry at higher temperatures, as is usually the case. A small percentage of the oxides of calcium or yttrium stabilize in the cubic phase.<sup class="reference" id="cite_ref-Ullmann_1-1"><a href="#cite_note-Ullmann-1">[1]</a></sup>  The very rare mineral tazheranite (Zr,Ti,Ca)O<sub>2</sub> is <a href="/wiki/Cubic_crystal_system" title="Cubic crystal system">cubic</a>.  Unlike TiO<sub>2</sub>, which features six-coordinate Ti in all phases, monoclinic zirconia consists of seven-coordinate zirconium centres.  This difference is attributed to the larger size of Zr atom relative to the Ti atom.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Chemical_reactions">Chemical reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=3" title="Edit section: Chemical reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Zirconia is chemically unreactive.  It is slowly attacked by concentrated <a href="/wiki/Hydrofluoric_acid" title="Hydrofluoric acid">hydrofluoric acid</a> and <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a>.  When heated with carbon, it converts to <a href="/wiki/Zirconium_carbide" title="Zirconium carbide">zirconium carbide</a>.  When heated with carbon in the presence of chlorine, it converts to <a class="mw-redirect" href="/wiki/Zirconium_tetrachloride" title="Zirconium tetrachloride">zirconium tetrachloride</a>.  This conversion is the basis for the purification of zirconium metal and is analogous to the <a href="/wiki/Kroll_process" title="Kroll process">Kroll process</a>.
+</p>
+<h2><span class="mw-headline" id="Engineering_properties">Engineering properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=4" title="Edit section: Engineering properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Zirconium dioxide is one of the most studied <a href="/wiki/Ceramic" title="Ceramic">ceramic</a> materials. ZrO<sub>2</sub> adopts a <a class="mw-redirect" href="/wiki/Monoclinic" title="Monoclinic">monoclinic</a> <a href="/wiki/Crystal_structure" title="Crystal structure">crystal structure</a> at room temperature and transitions to <a class="mw-redirect" href="/wiki/Tetragonal" title="Tetragonal">tetragonal</a> and <a href="/wiki/Cubic_crystal_system" title="Cubic crystal system">cubic</a> at higher temperatures. The change of volume caused by the structure transitions from tetragonal to monoclinic to cubic induces large stresses, causing it to crack upon cooling from high temperatures.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> When the zirconia is <a href="/wiki/Doping_(semiconductor)" title="Doping (semiconductor)">blended with</a> some other oxides, the tetragonal and/or cubic phases are stabilized.  Effective dopants include <a href="/wiki/Magnesium_oxide" title="Magnesium oxide">magnesium oxide</a> (MgO), <a class="mw-redirect" href="/wiki/Yttrium_oxide" title="Yttrium oxide">yttrium oxide</a> (Y<sub>2</sub>O<sub>3</sub>, yttria), <a href="/wiki/Calcium_oxide" title="Calcium oxide">calcium oxide</a> (CaO), and <a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">cerium(III) oxide</a> (Ce<sub>2</sub>O<sub>3</sub>).<sup class="reference" id="cite_ref-evans_5-0"><a href="#cite_note-evans-5">[5]</a></sup>
+</p><p>Zirconia is often more useful in its phase 'stabilized' state. Upon heating, zirconia undergoes disruptive phase changes. By adding small percentages of yttria, these phase changes are eliminated, and the resulting material has superior thermal, mechanical, and electrical properties. In some cases, the tetragonal phase can be <a class="mw-redirect" href="/wiki/Metastable" title="Metastable">metastable</a>. If sufficient quantities of the metastable tetragonal phase is present, then an applied stress, magnified by the <a href="/wiki/Stress_concentration" title="Stress concentration">stress concentration</a> at a crack tip, can cause the tetragonal phase to convert to monoclinic, with the associated volume expansion. This phase transformation can then put the crack into compression, retarding its growth, and enhancing the <a href="/wiki/Fracture_toughness" title="Fracture toughness">fracture toughness</a>. This mechanism is known as transformation toughening, and significantly extends the reliability and lifetime of products made with stabilized zirconia.<sup class="reference" id="cite_ref-evans_5-1"><a href="#cite_note-evans-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>The ZrO<sub>2</sub> <a href="/wiki/Band_gap" title="Band gap">band gap</a> is dependent on the phase (cubic, tetragonal, monoclinic, or amorphous) and preparation methods, with typical estimates from 5–7 eV.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>A special case of zirconia is that of <a href="/wiki/Tetragonal_polycrystalline_zirconia" title="Tetragonal polycrystalline zirconia">tetragonal zirconia polycrystal</a>, or TZP, which is indicative of polycrystalline zirconia composed of only the metastable tetragonal phase.
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=5" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main use of zirconia is in the production of hard ceramics, such as in dentistry (see below),<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> with other uses including as a protective coating on particles of <a href="/wiki/Titanium_dioxide" title="Titanium dioxide">titanium dioxide</a> pigments,<sup class="reference" id="cite_ref-Ullmann_1-2"><a href="#cite_note-Ullmann-1">[1]</a></sup>  as a <a href="/wiki/Refractory" title="Refractory">refractory</a> material, in <a href="/wiki/Thermal_insulation" title="Thermal insulation">insulation</a>, <a href="/wiki/Abrasive" title="Abrasive">abrasives</a> and <a href="/wiki/Vitreous_enamel" title="Vitreous enamel">enamels</a>. Stabilized zirconia is used in <a href="/wiki/Oxygen_sensor" title="Oxygen sensor">oxygen sensors</a> and <a href="/wiki/Fuel_cell" title="Fuel cell">fuel cell</a> membranes because it has the ability to allow <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> <a href="/wiki/Ion" title="Ion">ions</a> to move freely through the crystal structure at high temperatures. This high <a class="mw-redirect" href="/wiki/Ionic_conductivity" title="Ionic conductivity">ionic conductivity</a> (and a low electronic conductivity) makes it one of the most useful <a href="/wiki/Electroceramics" title="Electroceramics">electroceramics</a>.<sup class="reference" id="cite_ref-Ullmann_1-3"><a href="#cite_note-Ullmann-1">[1]</a></sup> Zirconium dioxide is also used as the <a class="mw-redirect" href="/wiki/Solid_electrolyte" title="Solid electrolyte">solid electrolyte</a> in <a href="/wiki/Electrochromic_devices" title="Electrochromic devices">electrochromic devices</a>.
+</p><p>Zirconia is a precursor to the electroceramic <a href="/wiki/Lead_zirconate_titanate" title="Lead zirconate titanate">lead zirconate titanate</a> (<i>PZT</i>), which is a high-K dielectric, which is found in myriad components.
+</p>
+<h3><span class="mw-headline" id="Niche_uses">Niche uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=6" title="Edit section: Niche uses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The very low <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">thermal conductivity</a> of <a href="/wiki/Cubic_zirconia" title="Cubic zirconia">cubic phase of zirconia</a> also has led to its use as a <a href="/wiki/Thermal_barrier_coating" title="Thermal barrier coating">thermal barrier coating</a>, or TBC, in <a href="/wiki/Jet_engine" title="Jet engine">jet</a> and <a href="/wiki/Diesel_engine" title="Diesel engine">diesel engines</a> to allow operation at higher temperatures.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>  Thermodynamically, the higher the operation temperature of an engine, <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">the greater the possible efficiency</a>. Another low thermal conductivity use is a ceramic fiber insulation for crystal growth furnaces, fuel cell stack insulation and infrared heating systems.
+</p><p>This material is also used in dentistry in the manufacture of 1) subframes for the construction of <a href="/wiki/Dental_restoration" title="Dental restoration">dental restorations</a> such as <a href="/wiki/Crown_(dentistry)" title="Crown (dentistry)">crowns</a> and <a href="/wiki/Bridge_(dentistry)" title="Bridge (dentistry)">bridges</a>, which are then veneered with a conventional <a href="/wiki/Feldspar" title="Feldspar">feldspathic</a> <a href="/wiki/Porcelain" title="Porcelain">porcelain</a> for aesthetic reasons, or of 2) strong, extremely durable dental prostheses constructed entirely from monolithic zirconia, with limited but constantly improving aesthetics.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Zirconia stabilized with <a class="mw-redirect" href="/wiki/Yttria" title="Yttria">yttria</a> (yttrium oxide), known as <a href="/wiki/Yttria-stabilized_zirconia" title="Yttria-stabilized zirconia">yttria-stabilized zirconia</a>, can be used as a strong base material in some full ceramic crown restorations.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Zirconia_bridge.jpg"><img alt="" class="thumbimage" data-file-height="1280" data-file-width="1280" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zirconia_bridge.jpg/220px-Zirconia_bridge.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zirconia_bridge.jpg/330px-Zirconia_bridge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zirconia_bridge.jpg/440px-Zirconia_bridge.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Zirconia_bridge.jpg" title="Enlarge"></a></div>High translucent Zirconia bridge layered by porcelain and stained with luster paste</div></div></div>
+<p>Transformation toughened zirconia is used to make ceramic knives. Because of the hardness, ceramic-edged cutlery stays sharp longer than steel edged products.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p><p>Due to its infusibility and brilliant luminosity when <a href="/wiki/Incandescence" title="Incandescence">incandescent</a>, it was used as an ingredient of sticks for <a href="/wiki/Limelight" title="Limelight">limelight</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2012)">citation needed</span></a></i>]</sup>
+</p><p>Zirconia has been proposed to <a href="/wiki/Electrolysis" title="Electrolysis">electrolyze</a> <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> and oxygen from the <a href="/wiki/Atmosphere_of_Mars" title="Atmosphere of Mars">atmosphere of Mars</a> to provide both fuel and oxidizer that could be used as a store of chemical energy for use with surface transportation on Mars.  <a class="mw-redirect" href="/wiki/Carbon_monoxide/oxygen_engine" title="Carbon monoxide/oxygen engine">Carbon monoxide/oxygen engines</a>  have been suggested for early surface transportation use as both carbon monoxide and oxygen can be straightforwardly produced by zirconia electrolysis without requiring use of any of the Martian water resources to obtain hydrogen, which would be needed for the production of methane or any hydrogen-based fuels.<sup class="reference" id="cite_ref-landis2001_13-0"><a href="#cite_note-landis2001-13">[13]</a></sup>
+</p><p>Zirconia is also a potential <a class="mw-redirect" href="/wiki/High-k_dielectric" title="High-k dielectric">high-k dielectric</a> material with potential applications as an insulator in <a href="/wiki/Transistor" title="Transistor">transistors</a>.
+</p><p>Zirconia is also employed in the deposition of <a href="/wiki/Optical_coating" title="Optical coating">optical coatings</a>; it is a high-index material usable from the <a class="mw-redirect" href="/wiki/Near_UV#Subtypes" title="Near UV">near-UV</a> to the <a class="mw-redirect" href="/wiki/Mid-infrared#CIE_division_scheme" title="Mid-infrared">mid-IR</a>, due to its low absorption in this spectral region. In such applications, it is typically deposited by <a href="/wiki/Physical_vapor_deposition" title="Physical vapor deposition">PVD</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p><p>In jewelry making, some watch cases are advertised as being "black zirconium oxide".<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> In 2015 Omega released a fully ZrO<sub>2</sub> watch named "The Dark Side of The Moon" <sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> with ceramic case, bezel, pushers and clasp, advertising it as four times harder than stainless steel and therefore much more resistant to scratches during everyday use.
+</p>
+<h3><span class="mw-headline" id="Diamond_simulant">Diamond simulant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=7" title="Edit section: Diamond simulant">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Cubic_zirconia" title="Cubic zirconia">Cubic zirconia</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:CZ_brilliant.jpg"><img alt="" class="thumbimage" data-file-height="247" data-file-width="298" height="182" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CZ_brilliant.jpg/220px-CZ_brilliant.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/b/bd/CZ_brilliant.jpg 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:CZ_brilliant.jpg" title="Enlarge"></a></div>Brilliant-cut cubic zirconia</div></div></div>
+<p>Single crystals of the cubic phase of zirconia are commonly used as <a href="/wiki/Diamond_simulant" title="Diamond simulant">diamond simulant</a> in <a href="/wiki/Jewellery" title="Jewellery">jewellery</a>. Like diamond, cubic zirconia has a cubic crystal structure and a high <a class="mw-redirect" href="/wiki/Index_of_refraction" title="Index of refraction">index of refraction</a>. Visually discerning a good quality cubic zirconia gem from a diamond is difficult, and most jewellers will have a thermal conductivity tester to identify cubic zirconia by its low <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">thermal conductivity</a> (diamond is a very good thermal conductor). This state of zirconia is commonly called <i>cubic zirconia</i>, <i>CZ</i>, or <i>zircon</i> by <a href="/wiki/Jewellery" title="Jewellery">jewellers</a>, but the last name is not chemically accurate. <a href="/wiki/Zircon" title="Zircon">Zircon</a> is actually the mineral name for naturally occurring <a class="mw-redirect" href="/wiki/Zirconium_silicate" title="Zirconium silicate">zirconium silicate</a> (ZrSiO<sub>4</sub>).
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Quenching" title="Quenching">Quenching</a></li>
+<li><a href="/wiki/Sintering" title="Sintering">Sintering</a></li>
+<li><a href="/wiki/S-type_star" title="S-type star">S-type star</a>, emitting zirconium spectral lines</li>
+<li><a href="/wiki/Yttria-stabilized_zirconia" title="Yttria-stabilized zirconia">Yttria-stabilized zirconia</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Green, D. J.; Hannink, R.; Swain, M. V. (1989). <i>Transformation Toughening of Ceramics</i>. Boca Raton: CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8493-6594-5" title="Special:BookSources/0-8493-6594-5">0-8493-6594-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Transformation+Toughening+of+Ceramics&amp;rft.place=Boca+Raton&amp;rft.pub=CRC+Press&amp;rft.date=1989&amp;rft.isbn=0-8493-6594-5&amp;rft.aulast=Green&amp;rft.aufirst=D.+J.&amp;rft.au=Hannink%2C+R.&amp;rft.au=Swain%2C+M.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZirconium+dioxide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Heuer, A.H.; Hobbs, L.W., eds. (1981). <i>Science and Technology of Zirconia</i>. Advances in Ceramics. <b>3</b>. Columbus, OH: American Ceramic Society. p. 475.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Science+and+Technology+of+Zirconia&amp;rft.place=Columbus%2C+OH&amp;rft.series=Advances+in+Ceramics&amp;rft.pages=475&amp;rft.pub=American+Ceramic+Society&amp;rft.date=1981&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZirconium+dioxide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Claussen, N.; Rühle, M.; Heuer, A.H., eds. (1984). <i>Proc. 2nd Int'l Conf. on Science and Technology of Zirconia</i>. Advances in Ceramics. <b>11</b>. Columbus, OH: American Ceramic Society.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Proc.+2nd+Int%27l+Conf.+on+Science+and+Technology+of+Zirconia&amp;rft.place=Columbus%2C+OH&amp;rft.series=Advances+in+Ceramics&amp;rft.pub=American+Ceramic+Society&amp;rft.date=1984&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZirconium+dioxide"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zirconium_dioxide&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.cdc.gov/niosh/npg/npgd0677.html" rel="nofollow">NIOSH Pocket Guide to Chemical Hazards</a></li></ul>
+<div aria-labelledby="Zirconium_compounds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Zirconium_compounds" title="Template:Zirconium compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Zirconium_compounds" title="Template talk:Zirconium compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Zirconium_compounds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Zirconium_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Zirconium" title="Zirconium">Zirconium</a> compounds</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Zr(II)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zirconium_diboride" title="Zirconium diboride">ZrB<sub>2</sub></a></li>
+<li><a href="/wiki/Zirconium(II)_hydride" title="Zirconium(II) hydride">ZrH<sub>2</sub></a></li>
+<li><a href="/wiki/Zirconium_disilicide" title="Zirconium disilicide">ZrSi<sub>2</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Zr(III)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zirconium_nitride" title="Zirconium nitride">ZrN</a></li>
+<li><a href="/wiki/Zirconium(III)_chloride" title="Zirconium(III) chloride">ZrCl<sub>3</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Zr(IV)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zirconium(IV)_bromide" title="Zirconium(IV) bromide">ZrBr<sub>4</sub></a></li>
+<li><a href="/wiki/Zirconium_carbide" title="Zirconium carbide">ZrC</a></li>
+<li><a href="/wiki/Zirconium(IV)_chloride" title="Zirconium(IV) chloride">ZrCl<sub>4</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Zirconium(IV)_fluoride" title="Zirconium(IV) fluoride">ZrF<sub>4</sub></a></li>
+<li><a href="/wiki/Zirconium(IV)_iodide" title="Zirconium(IV) iodide">ZrI<sub>4</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Zirconium(IV)_nitrate" title="Zirconium(IV) nitrate">Zr(NO<sub>3</sub>)<sub>4</sub></a></li>
+<li><a href="/wiki/Zirconyl_chloride" title="Zirconyl chloride">ZrOCl<sub>2</sub></a></li>
+<li><a href="/wiki/Zirconium(IV)_hydroxide" title="Zirconium(IV) hydroxide">Zr(OH)<sub>4</sub></a></li>
+<li><a class="mw-selflink selflink">ZrO<sub>2</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Zirconium(IV)_sulfide" title="Zirconium(IV) sulfide">ZrS<sub>2</sub></a></li>
+<li><a href="/wiki/Zirconium(IV)_sulfate" title="Zirconium(IV) sulfate">Zr(SO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Zirconium(IV)_silicate" title="Zirconium(IV) silicate">ZrSiO<sub>4</sub></a></li>
+<li><a href="/wiki/Zirconium_tungstate" title="Zirconium tungstate">Zr(WO<sub>4</sub>)<sub>2</sub></a></li></ul></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Organozirconium(IV)" scope="row" style="width:1%">Organozirconium(IV)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Zirconium_acetylacetonate" title="Zirconium acetylacetonate">Zr(acac)<sub>4</sub></a></li>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Oxides" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Hafnium(IV)_oxide" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Tin_dioxide" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a class="mw-selflink selflink">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1314
+Cached time: 20181031195019
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.792 seconds
+Real time usage: 1.006 seconds
+Preprocessor visited node count: 7861/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 177805/2097152 bytes
+Template argument size: 31145/2097152 bytes
+Highest expansion depth: 27/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 44637/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.301/10.000 seconds
+Lua memory usage: 7.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  847.236      1 -total
+ 61.25%  518.893      1 Template:Chembox
+ 28.45%  241.064      1 Template:Chembox_Identifiers
+ 24.23%  205.245      1 Template:Reflist
+ 19.71%  166.955      6 Template:Chembox_headerbar
+ 19.69%  166.791     21 Template:Trim
+ 12.77%  108.216      1 Template:Chembox_Properties
+ 10.20%   86.443     10 Template:Main_other
+  9.66%   81.834      6 Template:Cite_journal
+  9.07%   76.812      1 Template:Chembox_Hazards
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:154750-0!canonical and timestamp 20181031195018 and revision id 866669694
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Zirconium_dioxide&amp;oldid=866669694">https://en.wikipedia.org/w/index.php?title=Zirconium_dioxide&amp;oldid=866669694</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Biomaterials" title="Category:Biomaterials">Biomaterials</a></li><li><a href="/wiki/Category:Ceramic_materials" title="Category:Ceramic materials">Ceramic materials</a></li><li><a href="/wiki/Category:High-k_dielectrics" title="Category:High-k dielectrics">High-k dielectrics</a></li><li><a href="/wiki/Category:Oxides" title="Category:Oxides">Oxides</a></li><li><a href="/wiki/Category:Refractory_materials" title="Category:Refractory materials">Refractory materials</a></li><li><a href="/wiki/Category:Zirconium_compounds" title="Category:Zirconium compounds">Zirconium compounds</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Articles_without_InChI_source" title="Category:Articles without InChI source">Articles without InChI source</a></li><li><a href="/wiki/Category:Chemical_pages_without_ChemSpiderID" title="Category:Chemical pages without ChemSpiderID">Chemical pages without ChemSpiderID</a></li><li><a href="/wiki/Category:Articles_without_EBI_source" title="Category:Articles without EBI source">Articles without EBI source</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_without_UNII_source" title="Category:Articles without UNII source">Articles without UNII source</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Chembox_having_GHS_data" title="Category:Chembox having GHS data">Chembox having GHS data</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2012" title="Category:Articles with unsourced statements from June 2012">Articles with unsourced statements from June 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Zirconium+dioxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Zirconium+dioxide" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Zirconium_dioxide" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Zirconium_dioxide" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Zirconium_dioxide">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Zirconium_dioxide&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Zirconium_dioxide&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Zirconium_dioxide" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Zirconium_dioxide" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Zirconium_dioxide&amp;oldid=866669694" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Zirconium_dioxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q36200" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Zirconium_dioxide&amp;id=866669694" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Zirconium+dioxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Zirconium+dioxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Zirconium_dioxide&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Zirconium_dioxide" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D8%B2%D8%B1%D9%83%D9%88%D9%86%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A" hreflang="ar" lang="ar" title="أكسيد الزركونيوم الرباعي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%AF%DB%8C%D8%A7%D9%88%DA%A9%D8%B3%DB%8C%D8%AF_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%86%DB%8C%D9%88%D9%85" hreflang="azb" lang="azb" title="دیاوکسید زیرکونیوم – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Di%C3%B2xid_de_zirconi" hreflang="ca" lang="ca" title="Diòxid de zirconi – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Oxid_zirkoni%C4%8Dit%C3%BD" hreflang="cs" lang="cs" title="Oxid zirkoničitý – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Zirconium(IV)-oxid" hreflang="de" lang="de" title="Zirconium(IV)-oxid – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Tsirkooniumdioksiid" hreflang="et" lang="et" title="Tsirkooniumdioksiid – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Di%C3%B3xido_de_zirconio" hreflang="es" lang="es" title="Dióxido de zirconio – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%E2%80%8C%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF_%D8%B2%DB%8C%D8%B1%DA%A9%D9%88%D9%86%DB%8C%D9%88%D9%85" hreflang="fa" lang="fa" title="دی‌اکسید زیرکونیوم – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Dioxyde_de_zirconium" hreflang="fr" lang="fr" title="Dioxyde de zirconium – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BF%E0%A4%B0%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE(IV)_%E0%A4%91%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%A1" hreflang="hi" lang="hi" title="जिरकोनियम(IV) ऑक्साइड – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Ossido_di_zirconio" hreflang="it" lang="it" title="Ossido di zirconio – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Cirk%C3%B3nium-dioxid" hreflang="hu" lang="hu" title="Cirkónium-dioxid – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zirkonium(IV)oxide" hreflang="nl" lang="nl" title="Zirkonium(IV)oxide – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AB%E3%82%B3%E3%83%8B%E3%82%A2" hreflang="ja" lang="ja" title="ジルコニア – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Zirkonia" hreflang="nn" lang="nn" title="Zirkonia – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Tlenek_cyrkonu(IV)" hreflang="pl" lang="pl" title="Tlenek cyrkonu(IV) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Di%C3%B3xido_de_zirc%C3%B3nio" hreflang="pt" lang="pt" title="Dióxido de zircónio – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D1%86%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D0%B8%D1%8F(IV)" hreflang="ru" lang="ru" title="Оксид циркония(IV) – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Cirkonijev_dioksid" hreflang="sl" lang="sl" title="Cirkonijev dioksid – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Zirkoniumdioksidi" hreflang="fi" lang="fi" title="Zirkoniumdioksidi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Zirkoniumdioxid" hreflang="sv" lang="sv" title="Zirkoniumdioxid – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%84%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2" hreflang="th" lang="th" title="เซอร์คอเนีย – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Zirkonyum_dioksit" hreflang="tr" lang="tr" title="Zirkonyum dioksit – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D1%86%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D1%96%D1%8E" hreflang="uk" lang="uk" title="Оксид цирконію – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Zirconi_dioxit" hreflang="vi" lang="vi" title="Zirconi dioxit – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E4%BA%8C%E6%B0%A7%E5%8C%96%E9%94%86" hreflang="wuu" lang="wuu" title="二氧化锆 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%B0%A7%E5%8C%96%E9%94%86" hreflang="zh" lang="zh" title="二氧化锆 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q36200#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 31 October 2018, at 19:50<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Zirconium_dioxide&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.792","walltime":"1.006","ppvisitednodes":{"value":7861,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":177805,"limit":2097152},"templateargumentsize":{"value":31145,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":44637,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  847.236      1 -total"," 61.25%  518.893      1 Template:Chembox"," 28.45%  241.064      1 Template:Chembox_Identifiers"," 24.23%  205.245      1 Template:Reflist"," 19.71%  166.955      6 Template:Chembox_headerbar"," 19.69%  166.791     21 Template:Trim"," 12.77%  108.216      1 Template:Chembox_Properties"," 10.20%   86.443     10 Template:Main_other","  9.66%   81.834      6 Template:Cite_journal","  9.07%   76.812      1 Template:Chembox_Hazards"]},"scribunto":{"limitreport-timeusage":{"value":"0.301","limit":"10.000"},"limitreport-memusage":{"value":7366685,"limit":52428800}},"cachereport":{"origin":"mw1314","timestamp":"20181031195019","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

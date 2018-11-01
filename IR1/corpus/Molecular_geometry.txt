@@ -1,0 +1,972 @@
+https://en.wikipedia.org/wiki/Molecular_geometry
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Molecular geometry - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Molecular_geometry","wgTitle":"Molecular geometry","wgCurRevisionId":861492946,"wgRevisionId":861492946,"wgArticleId":996278,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: Archived copy as title","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Molecular geometry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Molecular_geometry","wgRelevantArticleId":996278,"wgRequestId":"W9SbOApAMEkAAD4hStIAAACD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q911331","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Water_molecule_dimensions.svg/1200px-Water_molecule_dimensions.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Molecular_geometry" rel="alternate"/>
+<link href="/w/index.php?title=Molecular_geometry&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Molecular_geometry&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Molecular_geometry" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Molecular_geometry rootpage-Molecular_geometry skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Molecular geometry</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Water_molecule_dimensions.svg"><img alt="" class="thumbimage" data-file-height="388" data-file-width="363" height="214" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Water_molecule_dimensions.svg/200px-Water_molecule_dimensions.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Water_molecule_dimensions.svg/300px-Water_molecule_dimensions.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Water_molecule_dimensions.svg/400px-Water_molecule_dimensions.svg.png 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Water_molecule_dimensions.svg" title="Enlarge"></a></div>Geometry of the <a class="mw-redirect" href="/wiki/Water_(molecule)" title="Water (molecule)">water molecule</a></div></div></div>
+<p><b>Molecular geometry</b> is the <a href="/wiki/Three-dimensional_space" title="Three-dimensional space">three-dimensional</a> arrangement of the <a href="/wiki/Atom" title="Atom">atoms</a> that constitute a <a href="/wiki/Molecule" title="Molecule">molecule</a>. It includes the general shape of the molecule as well as <a href="/wiki/Bond_length" title="Bond length">bond lengths</a>, bond angles, <a class="mw-redirect" href="/wiki/Torsional_angle" title="Torsional angle">torsional angles</a> and any other geometrical parameters that determine the position of each atom.
+</p><p>Molecular geometry influences several properties of a substance including its <a href="/wiki/Reactivity_(chemistry)" title="Reactivity (chemistry)">reactivity</a>, <a href="/wiki/Chemical_polarity" title="Chemical polarity">polarity</a>, <a href="/wiki/Phase_(matter)" title="Phase (matter)">phase of matter</a>, <a href="/wiki/Color" title="Color">color</a>, <a href="/wiki/Magnetism" title="Magnetism">magnetism</a> and <a href="/wiki/Biological_activity" title="Biological activity">biological activity</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-article0_3-0"><a href="#cite_note-article0-3">[3]</a></sup> The angles between bonds that an atom forms depend only weakly on the rest of molecule, i.e. they can be understood as approximately local and hence <a href="/wiki/Transferability_(chemistry)" title="Transferability (chemistry)">transferable properties</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Determination"><span class="tocnumber">1</span> <span class="toctext">Determination</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_influence_of_thermal_excitation"><span class="tocnumber">2</span> <span class="toctext">The influence of thermal excitation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Bonding"><span class="tocnumber">3</span> <span class="toctext">Bonding</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Isomers"><span class="tocnumber">4</span> <span class="toctext">Isomers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Types_of_molecular_structure"><span class="tocnumber">5</span> <span class="toctext">Types of molecular structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#VSEPR_table"><span class="tocnumber">5.1</span> <span class="toctext">VSEPR table</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#3D_representations"><span class="tocnumber">6</span> <span class="toctext">3D representations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Determination">Determination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=1" title="Edit section: Determination">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The molecular geometry can be determined by various <a href="/wiki/Spectroscopy" title="Spectroscopy">spectroscopic methods</a> and <a href="/wiki/Diffraction" title="Diffraction">diffraction</a> methods. <a href="/wiki/Infrared_spectroscopy" title="Infrared spectroscopy">IR</a>, <a href="/wiki/Rotational_spectroscopy" title="Rotational spectroscopy">microwave</a> and <a href="/wiki/Raman_spectroscopy" title="Raman spectroscopy">Raman spectroscopy</a> can give information about the molecule geometry from the details of the vibrational and rotational absorbance detected by these techniques. <a href="/wiki/X-ray_crystallography" title="X-ray crystallography">X-ray crystallography</a>, <a href="/wiki/Neutron_diffraction" title="Neutron diffraction">neutron diffraction</a> and <a href="/wiki/Electron_diffraction" title="Electron diffraction">electron diffraction</a> can give molecular structure for crystalline solids based on the distance between nuclei and concentration of electron density. <a href="/wiki/Gas_electron_diffraction" title="Gas electron diffraction">Gas electron diffraction</a> can be used for small molecules in the gas phase. <a href="/wiki/Nuclear_magnetic_resonance" title="Nuclear magnetic resonance">NMR</a> and <a href="/wiki/F%C3%B6rster_resonance_energy_transfer" title="Förster resonance energy transfer">FRET</a> methods can be used to determine complementary information including relative distances,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+dihedral angles,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+angles, and connectivity.  Molecular geometries are best determined at low temperature because at higher temperatures the molecular structure is averaged over more accessible geometries (see next section). Larger molecules often exist in multiple stable geometries (<a href="/wiki/Conformational_isomerism" title="Conformational isomerism">conformational isomerism</a>) that are close in energy on the <a href="/wiki/Potential_energy_surface" title="Potential energy surface">potential energy surface</a>.  Geometries can also be computed by <a href="/wiki/Ab_initio_quantum_chemistry_methods" title="Ab initio quantum chemistry methods">ab initio quantum chemistry methods</a> to high accuracy.  The molecular geometry can be different as a solid, in solution, and as a gas.
+</p><p>The position of each atom is determined by the nature of the <a href="/wiki/Chemical_bond" title="Chemical bond">chemical bonds</a> by which it is connected to its neighboring atoms. The molecular geometry can be described by the positions of these atoms in space, evoking <a href="/wiki/Bond_length" title="Bond length">bond lengths</a> of two joined atoms, <a class="mw-redirect" href="/wiki/Bond_angle" title="Bond angle">bond angles</a> of three connected atoms, and <a href="/wiki/Torsion_of_a_curve" title="Torsion of a curve">torsion angles</a> (<a href="/wiki/Dihedral_angle" title="Dihedral angle">dihedral angles</a>) of three <a href="/wiki/Path_graph" title="Path graph">consecutive</a> bonds.
+</p>
+<h2><span class="mw-headline" id="The_influence_of_thermal_excitation">The influence of thermal excitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=2" title="Edit section: The influence of thermal excitation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since the motions of the atoms in a molecule are determined by quantum mechanics, one
+must define "motion" in a quantum mechanical way. The overall (external) quantum mechanical motions translation and rotation hardly change the geometry of the molecule. (To some extent rotation influences
+the geometry via <a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis forces</a> and <a href="/wiki/Rotational_spectroscopy" title="Rotational spectroscopy">centrifugal distortion</a>, but this is negligible for the present discussion.)
+In addition to translation and rotation, a third type of motion is <a href="/wiki/Molecular_vibration" title="Molecular vibration">molecular vibration</a>, which corresponds to internal motions of the atoms such as bond stretching and bond angle variation. The molecular vibrations are <a href="/wiki/Quantum_harmonic_oscillator" title="Quantum harmonic oscillator">harmonic</a> (at least to good approximation), and the atoms oscillate about their equilibrium positions, even at the absolute zero of temperature. At absolute zero all atoms are in their vibrational ground state and show <a class="mw-redirect" href="/wiki/Zero_point_energy" title="Zero point energy">zero point quantum mechanical motion</a>, so that the wavefunction of a single vibrational mode is not a sharp peak, but an exponential of finite width (the wavefunction for <i>n</i> = 0 depicted in the article on the <a href="/wiki/Quantum_harmonic_oscillator" title="Quantum harmonic oscillator">quantum harmonic oscillator</a>).  At higher temperatures the vibrational modes may be thermally excited (in a classical interpretation one expresses this by stating that "the molecules will vibrate faster"), but they oscillate still around the recognizable geometry of the molecule.
+</p><p>To get a feeling for the probability that the vibration of molecule may be thermally excited,
+we inspect the <a href="/wiki/Boltzmann_distribution" title="Boltzmann distribution">Boltzmann factor</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta \equiv \exp \left(-{\frac {\Delta E}{kT}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+<mo>≡<!-- ≡ --></mo>
+<mi>exp</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>E</mi>
+</mrow>
+<mrow>
+<mi>k</mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta \equiv \exp \left(-{\frac {\Delta E}{kT}}\right)}</annotation>
+</semantics>
+</math></span><img alt="\beta \equiv \exp \left(-{\frac  {\Delta E}{kT}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d0093e90298345f3fb630a6f1ad3440511de02f6" style="vertical-align: -2.505ex; width:17.76ex; height:6.176ex;"/></span>,
+where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta E}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>E</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta E}</annotation>
+</semantics>
+</math></span><img alt="\Delta E" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/345f0ed5ff6ec6eddc5f908d379f032c52f119c2" style="vertical-align: -0.338ex; width:3.711ex; height:2.176ex;"/></span> is the excitation energy of the vibrational mode, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+</semantics>
+</math></span><img alt="k" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;"/></span> the <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">Boltzmann constant</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;"/></span> the absolute temperature. At 298 K (25 °C), typical values for the Boltzmann factor β are:
+β = 0.089 for ΔE = 500 cm<sup>−1</sup> ; β = 0.008 for ΔE = 1000 cm<sup>−1</sup> ; β = 7×10<sup>−4</sup>  for ΔE = 1500 cm<sup>−1</sup>. (The reciprocal centimeter is an energy unit that is commonly used in <a href="/wiki/Infrared_spectroscopy" title="Infrared spectroscopy">infrared spectroscopy</a>;  1 cm<sup>−1</sup> corresponds to 1.23984×10<sup>−4</sup> eV). When an excitation energy is 500 cm<sup>−1</sup>, then about 8.9 percent of the molecules are thermally excited at room temperature. To put this in perspective: the lowest excitation vibrational energy in water is the bending mode (about 1600 cm<sup>−1</sup>). Thus, at room temperature less than 0.07 percent of all the molecules of a given amount of water will vibrate faster than at absolute zero.
+</p><p>As stated above, rotation hardly influences the molecular geometry. But, as a quantum mechanical motion, it is thermally excited at relatively (as compared to vibration) low temperatures. From a classical point of view it can be stated that at higher temperatures more molecules will rotate faster,
+which implies that they have higher <a href="/wiki/Angular_velocity" title="Angular velocity">angular velocity</a> and <a href="/wiki/Angular_momentum" title="Angular momentum">angular momentum</a>. In quantum mechanical language: more eigenstates of higher angular momentum become <a href="/wiki/Boltzmann_distribution" title="Boltzmann distribution">thermally populated</a> with rising temperatures. Typical rotational excitation energies are on the order of a few cm<sup>−1</sup>. The results of many spectroscopic experiments are broadened because they involve an averaging over rotational states. It is often difficult to extract geometries from spectra at high temperatures, because the number of rotational states probed in the experimental averaging increases with increasing temperature.  Thus, many spectroscopic observations can only be expected to yield reliable molecular geometries at temperatures close to absolute zero, because at higher temperatures too many higher rotational states are thermally populated.
+</p>
+<h2><span class="mw-headline" id="Bonding">Bonding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=3" title="Edit section: Bonding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Molecules, by definition, are most often held together with <a href="/wiki/Covalent_bond" title="Covalent bond">covalent bonds</a> involving single, double, and/or triple bonds, where a "bond" is a <a class="mw-redirect" href="/wiki/Shared_pair" title="Shared pair">shared pair</a> of electrons (the other method of bonding between atoms is called <a href="/wiki/Ionic_bonding" title="Ionic bonding">ionic bonding</a> and involves a positive <a class="mw-redirect" href="/wiki/Cation" title="Cation">cation</a> and a negative <a class="mw-redirect" href="/wiki/Anion" title="Anion">anion</a>).
+</p><p>Molecular geometries can be specified in terms of <b>bond lengths</b>, <b>bond angles</b> and <b>torsional angles</b>. The bond length is defined to be the average distance between the nuclei of two atoms bonded together in any given molecule. A bond angle is the angle formed between three atoms across at least two bonds. For four atoms bonded together in a chain, the <a href="/wiki/Dihedral_angle" title="Dihedral angle">torsional angle</a> is the angle between the plane formed by the first three atoms and the plane formed by the last three atoms.
+</p><p>There exists a mathematical relationship among the bond angles for one central atom and four peripheral atoms (labeled 1 through 4) expressed by the following determinant.  This constraint removes one degree of freedom from the choices of (originally) six free bond angles to leave only five choices of bond angles.  (Note that the angles <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{11}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>11</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{11}}</annotation>
+</semantics>
+</math></span><img alt="\theta _{{11}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1fa2a4093aa2a00386843bd9adcebf6494506406" style="vertical-align: -0.671ex; width:2.967ex; height:2.509ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{22}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>22</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{22}}</annotation>
+</semantics>
+</math></span><img alt="\theta _{{22}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d2ca9f0dc542fa1bdde512b053d855d9b45ed318" style="vertical-align: -0.671ex; width:2.967ex; height:2.509ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{33}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>33</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{33}}</annotation>
+</semantics>
+</math></span><img alt="\theta _{{33}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e4484523502db8758ec95c5894265916539ef77" style="vertical-align: -0.671ex; width:2.967ex; height:2.509ex;"/></span>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{44}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>44</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{44}}</annotation>
+</semantics>
+</math></span><img alt="\theta _{{44}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a63664826bb203548a5ddccdc95a9e3de831997" style="vertical-align: -0.671ex; width:2.967ex; height:2.509ex;"/></span> are always zero and that this relationship can be modified for a different number of peripheral atoms by expanding/contracting the square matrix.)
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0={\begin{vmatrix}\cos \theta _{11}&amp;\cos \theta _{12}&amp;\cos \theta _{13}&amp;\cos \theta _{14}\\\cos \theta _{21}&amp;\cos \theta _{22}&amp;\cos \theta _{23}&amp;\cos \theta _{24}\\\cos \theta _{31}&amp;\cos \theta _{32}&amp;\cos \theta _{33}&amp;\cos \theta _{34}\\\cos \theta _{41}&amp;\cos \theta _{42}&amp;\cos \theta _{43}&amp;\cos \theta _{44}\end{vmatrix}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>|</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>11</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>12</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>13</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>14</mn>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>21</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>22</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>23</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>24</mn>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>31</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>32</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>33</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>34</mn>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>41</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>42</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>43</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>44</mn>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+<mo>|</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0={\begin{vmatrix}\cos \theta _{11}&amp;\cos \theta _{12}&amp;\cos \theta _{13}&amp;\cos \theta _{14}\\\cos \theta _{21}&amp;\cos \theta _{22}&amp;\cos \theta _{23}&amp;\cos \theta _{24}\\\cos \theta _{31}&amp;\cos \theta _{32}&amp;\cos \theta _{33}&amp;\cos \theta _{34}\\\cos \theta _{41}&amp;\cos \theta _{42}&amp;\cos \theta _{43}&amp;\cos \theta _{44}\end{vmatrix}}}</annotation>
+</semantics>
+</math></span><img alt="0={\begin{vmatrix}\cos \theta _{{11}}&amp;\cos \theta _{{12}}&amp;\cos \theta _{{13}}&amp;\cos \theta _{{14}}\\\cos \theta _{{21}}&amp;\cos \theta _{{22}}&amp;\cos \theta _{{23}}&amp;\cos \theta _{{24}}\\\cos \theta _{{31}}&amp;\cos \theta _{{32}}&amp;\cos \theta _{{33}}&amp;\cos \theta _{{34}}\\\cos \theta _{{41}}&amp;\cos \theta _{{42}}&amp;\cos \theta _{{43}}&amp;\cos \theta _{{44}}\end{vmatrix}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/493fa16a26d6f712bb135f22839194e2b06822bf" style="vertical-align: -5.671ex; width:39.133ex; height:12.509ex;"/></span></dd></dl></dd></dl>
+<p>Molecular geometry is determined by the <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanical</a> behavior of the electrons. Using the <a href="/wiki/Valence_bond_theory" title="Valence bond theory">valence bond approximation</a> this can be understood by the type of bonds between the atoms that make up the molecule. When atoms interact to form a <a href="/wiki/Chemical_bond" title="Chemical bond">chemical bond</a>, the atomic orbitals of each atom are said to combine in a process called <a href="/wiki/Orbital_hybridisation" title="Orbital hybridisation">orbital hybridisation</a>.  The two most common types of bonds are <a href="/wiki/Sigma_bond" title="Sigma bond">sigma bonds</a> (usually formed by hybrid orbitals) and <a href="/wiki/Pi_bond" title="Pi bond">pi bonds</a> (formed by unhybridized p orbitals for atoms of <a class="mw-redirect" href="/wiki/Main_group_element" title="Main group element">main group elements</a>).  The geometry can also be understood by <a href="/wiki/Molecular_orbital_theory" title="Molecular orbital theory">molecular orbital theory</a> where the electrons are delocalised.
+</p><p>An understanding of the wavelike behavior of electrons in atoms and molecules is the subject of <a href="/wiki/Quantum_chemistry" title="Quantum chemistry">quantum chemistry</a>.
+</p>
+<h2><span class="mw-headline" id="Isomers">Isomers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=4" title="Edit section: Isomers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Isomer" title="Isomer">Isomers</a> are types of molecules that share a chemical formula but have different geometries, resulting in different properties:
+</p>
+<ul><li>A <b>pure</b> substance is composed of only one type of isomer of a molecule (all have the same geometrical structure).</li>
+<li><a class="mw-redirect" href="/wiki/Structural_isomerism" title="Structural isomerism">Structural isomers</a> have the same chemical formula but different physical arrangements, often forming alternate molecular geometries with very different properties. The atoms are not bonded (connected) together in the same orders.
+<ul><li><a class="mw-redirect" href="/wiki/Functional_isomer" title="Functional isomer">Functional isomers</a> are special kinds of structural isomers, where certain groups of atoms exhibit a special kind of behavior, such as an ether or an alcohol.</li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Stereoisomer" title="Stereoisomer">Stereoisomers</a> may have many similar physicochemical properties (melting point, boiling point) and at the same time very different <a href="/wiki/Biochemistry" title="Biochemistry">biochemical</a> activities. This is because they exhibit a <a href="/wiki/Handedness" title="Handedness">handedness</a> that is commonly found in living systems. One manifestation of this <a href="/wiki/Chirality_(chemistry)" title="Chirality (chemistry)">chirality</a> or handedness is that they have the ability to rotate polarized light in different directions.</li>
+<li><a href="/wiki/Protein_folding" title="Protein folding">Protein folding</a> concerns the complex geometries and different isomers that <a href="/wiki/Protein" title="Protein">proteins</a> can take.</li></ul>
+<h2><span class="mw-headline" id="Types_of_molecular_structure">Types of molecular structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=5" title="Edit section: Types of molecular structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A bond angle is the geometric angle between two adjacent bonds. Some common shapes of simple molecules include:
+</p>
+<ul><li><b><a href="/wiki/Linear_molecular_geometry" title="Linear molecular geometry">Linear</a>:</b> In a linear model, atoms are connected in a straight line. The bond angles are set at 180°. For example, carbon dioxide and <a href="/wiki/Nitric_oxide" title="Nitric oxide">nitric oxide</a> have a linear molecular shape.</li>
+<li><b><a href="/wiki/Trigonal_planar_molecular_geometry" title="Trigonal planar molecular geometry">Trigonal planar</a>:</b> Molecules with the trigonal planar shape are somewhat triangular and in one <a href="/wiki/Plane_(geometry)" title="Plane (geometry)">plane (flat)</a>.  Consequently, the bond angles are set at 120°. For example, <a href="/wiki/Boron_trifluoride" title="Boron trifluoride">boron trifluoride</a>.</li>
+<li><b><a href="/wiki/Bent_molecular_geometry" title="Bent molecular geometry">Angular</a>:</b> Angular molecules (also called <i>bent</i> or <i>V-shaped</i>) have a non-linear shape. For example, water (H<sub>2</sub>O), which has an angle of about 105°. A water molecule has two pairs of bonded electrons and two unshared lone pairs.</li>
+<li><b><a href="/wiki/Tetrahedral_molecular_geometry" title="Tetrahedral molecular geometry">Tetrahedral</a>:</b> <i>Tetra-</i> signifies four, and <i>-hedral</i> relates to a face of a solid, so "<a class="mw-redirect" href="/wiki/Tetrahedral" title="Tetrahedral">tetrahedral</a>" literally means "having four faces".  This shape is found when there are <a href="/wiki/Star_(graph_theory)" title="Star (graph theory)">four bonds all on one central atom</a>, with no extra unshared <a href="/wiki/Electron" title="Electron">electron</a> pairs.  In accordance with the <a class="mw-redirect" href="/wiki/VSEPR" title="VSEPR">VSEPR</a> (valence-shell electron pair repulsion theory), the bond angles between the electron bonds are <a href="/wiki/Inverse_trigonometric_functions" title="Inverse trigonometric functions">arccos</a>(−1/3) = 109.47°. For example, <a href="/wiki/Methane" title="Methane">methane</a> (CH<sub>4</sub>) is a tetrahedral molecule.</li>
+<li><b><a href="/wiki/Octahedral_molecular_geometry" title="Octahedral molecular geometry">Octahedral</a>:</b> <i>Octa-</i> signifies eight, and <i>-hedral</i> relates to a face of a solid, so "<a class="mw-redirect" href="/wiki/Octahedral" title="Octahedral">octahedral</a>" means "having eight faces". The bond angle is 90 degrees. For example, <a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">sulfur hexafluoride</a> (SF<sub>6</sub>) is an octahedral molecule.</li>
+<li><b><a href="/wiki/Trigonal_pyramidal_molecular_geometry" title="Trigonal pyramidal molecular geometry">Trigonal pyramidal</a>:</b> A trigonal pyramidal molecule has a <a href="/wiki/Pyramid_(geometry)" title="Pyramid (geometry)">pyramid-like shape</a> with a triangular base.  Unlike the linear and trigonal planar shapes but similar to the tetrahedral orientation, pyramidal shapes require three dimensions in order to fully separate the electrons.  Here, there are only three pairs of bonded electrons, leaving one unshared lone pair. Lone pair – bond pair repulsions change the bond angle from the tetrahedral angle to a slightly lower value.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> For example, <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> (NH<sub>3</sub>).</li></ul>
+<h3><span class="mw-headline" id="VSEPR_table">VSEPR table</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=6" title="Edit section: VSEPR table">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/VSEPR_theory#AXE_method" title="VSEPR theory">VSEPR theory  § AXE method</a></div>
+<p>The bond angles in the table below are ideal angles from the simple <a href="/wiki/VSEPR_theory" title="VSEPR theory">VSEPR theory</a>, followed by the actual angle for the example given in the following column where this differs. For many cases, such as trigonal pyramidal and bent, the actual angle for the example differs from the ideal angle, and examples differ by different amounts. For example, the angle in H<sub>2</sub>S (92°) differs from the tetrahedral angle by much more than the angle for H<sub>2</sub>O (104.48°) does.
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Atoms bonded to <br/>central atom
+</th>
+<th>Lone pairs
+</th>
+<th>Electron domains <br/>(Steric number)
+</th>
+<th>Shape
+</th>
+<th>Ideal bond angle <br/>(example's bond angle)
+</th>
+<th>Example
+</th>
+<th>Image
+</th></tr>
+<tr>
+<td><center>2</center>
+</td>
+<td><center>0</center>
+</td>
+<td><center>2</center>
+</td>
+<td><a href="/wiki/Linear_molecular_geometry" title="Linear molecular geometry">linear</a>
+</td>
+<td><center>180°</center>
+</td>
+<td><center><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Linear-3D-balls.png"><img alt="Linear-3D-balls.png" data-file-height="508" data-file-width="1100" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Linear-3D-balls.png/50px-Linear-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Linear-3D-balls.png/75px-Linear-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Linear-3D-balls.png/100px-Linear-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>3</center>
+</td>
+<td><center>0</center>
+</td>
+<td><center>3</center>
+</td>
+<td><a href="/wiki/Trigonal_planar_molecular_geometry" title="Trigonal planar molecular geometry">trigonal planar</a>
+</td>
+<td><center>120°</center>
+</td>
+<td><center><a href="/wiki/Boron_trifluoride" title="Boron trifluoride">BF<sub>3</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Trigonal-3D-balls.png"><img alt="Trigonal-3D-balls.png" data-file-height="967" data-file-width="1100" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trigonal-3D-balls.png/50px-Trigonal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trigonal-3D-balls.png/75px-Trigonal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trigonal-3D-balls.png/100px-Trigonal-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>2</center>
+</td>
+<td><center>1</center>
+</td>
+<td><center>3</center>
+</td>
+<td><a href="/wiki/Bent_molecular_geometry" title="Bent molecular geometry">Angular</a>
+</td>
+<td><center>120° (119°) </center>
+</td>
+<td><center><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">SO<sub>2</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Bent-3D-balls.png"><img alt="Bent-3D-balls.png" data-file-height="750" data-file-width="1100" height="34" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bent-3D-balls.png/50px-Bent-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bent-3D-balls.png/75px-Bent-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bent-3D-balls.png/100px-Bent-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>4</center>
+</td>
+<td><center>0</center>
+</td>
+<td><center>4</center>
+</td>
+<td><a href="/wiki/Tetrahedral_molecular_geometry" title="Tetrahedral molecular geometry">tetrahedral</a>
+</td>
+<td><center>109.5°</center>
+</td>
+<td><center><a href="/wiki/Methane" title="Methane">CH<sub>4</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:AX4E0-3D-balls.png"><img alt="AX4E0-3D-balls.png" data-file-height="1100" data-file-width="1092" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/AX4E0-3D-balls.png/50px-AX4E0-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/AX4E0-3D-balls.png/75px-AX4E0-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/AX4E0-3D-balls.png/100px-AX4E0-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>3</center>
+</td>
+<td><center>1</center>
+</td>
+<td><center>4</center>
+</td>
+<td><a href="/wiki/Trigonal_pyramidal_molecular_geometry" title="Trigonal pyramidal molecular geometry">trigonal pyramidal</a>
+</td>
+<td><center>109.5 (107.8°) </center>
+</td>
+<td><center><a href="/wiki/Ammonia" title="Ammonia">NH<sub>3</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Pyramidal-3D-balls.png"><img alt="Pyramidal-3D-balls.png" data-file-height="878" data-file-width="1100" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pyramidal-3D-balls.png/50px-Pyramidal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pyramidal-3D-balls.png/75px-Pyramidal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pyramidal-3D-balls.png/100px-Pyramidal-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>2</center>
+</td>
+<td><center>2</center>
+</td>
+<td><center>4</center>
+</td>
+<td>Angular
+</td>
+<td><center>109.5° (104.48°)<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> </center>
+</td>
+<td><center><a class="mw-redirect" href="/wiki/H2O" title="H2O">H<sub>2</sub>O</a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Bent-3D-balls.png"><img alt="Bent-3D-balls.png" data-file-height="750" data-file-width="1100" height="34" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bent-3D-balls.png/50px-Bent-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bent-3D-balls.png/75px-Bent-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bent-3D-balls.png/100px-Bent-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>5</center>
+</td>
+<td><center>0</center>
+</td>
+<td><center>5</center>
+</td>
+<td><a href="/wiki/Trigonal_bipyramidal_molecular_geometry" title="Trigonal bipyramidal molecular geometry">trigonal bipyramidal</a>
+</td>
+<td><center>90°, 120°, 180°</center>
+</td>
+<td><center><a href="/wiki/Phosphorus_pentachloride" title="Phosphorus pentachloride">PCl<sub>5</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Trigonal-bipyramidal-3D-balls.png"><img alt="Trigonal-bipyramidal-3D-balls.png" data-file-height="1100" data-file-width="968" height="57" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trigonal-bipyramidal-3D-balls.png/50px-Trigonal-bipyramidal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trigonal-bipyramidal-3D-balls.png/75px-Trigonal-bipyramidal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trigonal-bipyramidal-3D-balls.png/100px-Trigonal-bipyramidal-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>4</center>
+</td>
+<td><center>1</center>
+</td>
+<td><center>5</center>
+</td>
+<td><a href="/wiki/Seesaw_molecular_geometry" title="Seesaw molecular geometry">seesaw</a>
+</td>
+<td><center>ax–ax 180° (173.1°), <br/> eq–eq 120° (101.6°), <br/>ax–eq 90° </center>
+</td>
+<td><center><a href="/wiki/Sulfur_tetrafluoride" title="Sulfur tetrafluoride">SF<sub>4</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Seesaw-3D-balls.png"><img alt="Seesaw-3D-balls.png" data-file-height="600" data-file-width="1100" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seesaw-3D-balls.png/50px-Seesaw-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seesaw-3D-balls.png/75px-Seesaw-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seesaw-3D-balls.png/100px-Seesaw-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>3</center>
+</td>
+<td><center>2</center>
+</td>
+<td><center>5</center>
+</td>
+<td><a href="/wiki/T-shaped_molecular_geometry" title="T-shaped molecular geometry">T-shaped</a>
+</td>
+<td><center>90° (87.5°), 180° (175°) </center>
+</td>
+<td><center><a href="/wiki/Chlorine_trifluoride" title="Chlorine trifluoride">ClF<sub>3</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:T-shaped-3D-balls.png"><img alt="T-shaped-3D-balls.png" data-file-height="805" data-file-width="1100" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/T-shaped-3D-balls.png/50px-T-shaped-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/T-shaped-3D-balls.png/75px-T-shaped-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/T-shaped-3D-balls.png/100px-T-shaped-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>2</center>
+</td>
+<td><center>3</center>
+</td>
+<td><center>5</center>
+</td>
+<td>linear
+</td>
+<td><center>180°</center>
+</td>
+<td><center><a href="/wiki/Xenon_difluoride" title="Xenon difluoride">XeF<sub>2</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Linear-3D-balls.png"><img alt="Linear-3D-balls.png" data-file-height="508" data-file-width="1100" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Linear-3D-balls.png/50px-Linear-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Linear-3D-balls.png/75px-Linear-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Linear-3D-balls.png/100px-Linear-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>6</center>
+</td>
+<td><center>0</center>
+</td>
+<td><center>6</center>
+</td>
+<td><a href="/wiki/Octahedral_molecular_geometry" title="Octahedral molecular geometry">octahedral</a>
+</td>
+<td><center>90°, 180°</center>
+</td>
+<td><center><a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">SF<sub>6</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:AX6E0-3D-balls.png"><img alt="AX6E0-3D-balls.png" data-file-height="1100" data-file-width="1035" height="53" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/AX6E0-3D-balls.png/50px-AX6E0-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/AX6E0-3D-balls.png/75px-AX6E0-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/AX6E0-3D-balls.png/100px-AX6E0-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>5</center>
+</td>
+<td><center>1</center>
+</td>
+<td><center>6</center>
+</td>
+<td><a href="/wiki/Square_pyramidal_molecular_geometry" title="Square pyramidal molecular geometry">square pyramidal</a>
+</td>
+<td><center>90° (84.8°) </center>
+</td>
+<td><center><a href="/wiki/Bromine_pentafluoride" title="Bromine pentafluoride">BrF<sub>5</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Square-pyramidal-3D-balls.png"><img alt="Square-pyramidal-3D-balls.png" data-file-height="891" data-file-width="1100" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Square-pyramidal-3D-balls.png/50px-Square-pyramidal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Square-pyramidal-3D-balls.png/75px-Square-pyramidal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Square-pyramidal-3D-balls.png/100px-Square-pyramidal-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>4</center>
+</td>
+<td><center>2</center>
+</td>
+<td><center>6</center>
+</td>
+<td><a href="/wiki/Square_planar_molecular_geometry" title="Square planar molecular geometry">square planar</a>
+</td>
+<td><center>90°, 180°</center>
+</td>
+<td><center><a href="/wiki/Xenon_tetrafluoride" title="Xenon tetrafluoride">XeF<sub>4</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Square-planar-3D-balls.png"><img alt="Square-planar-3D-balls.png" data-file-height="796" data-file-width="1100" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Square-planar-3D-balls.png/50px-Square-planar-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Square-planar-3D-balls.png/75px-Square-planar-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Square-planar-3D-balls.png/100px-Square-planar-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>7</center>
+</td>
+<td><center>0</center>
+</td>
+<td><center>7</center>
+</td>
+<td><a href="/wiki/Pentagonal_bipyramidal_molecular_geometry" title="Pentagonal bipyramidal molecular geometry">pentagonal bipyramidal</a>
+</td>
+<td><center>90°, 72°, 180°</center>
+</td>
+<td><center><a href="/wiki/Iodine_heptafluoride" title="Iodine heptafluoride">IF<sub>7</sub></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Pentagonal-bipyramidal-3D-balls.png"><img alt="Pentagonal-bipyramidal-3D-balls.png" data-file-height="1096" data-file-width="1100" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pentagonal-bipyramidal-3D-balls.png/50px-Pentagonal-bipyramidal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pentagonal-bipyramidal-3D-balls.png/75px-Pentagonal-bipyramidal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pentagonal-bipyramidal-3D-balls.png/100px-Pentagonal-bipyramidal-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>6</center>
+</td>
+<td><center>1</center>
+</td>
+<td><center>7</center>
+</td>
+<td><a href="/wiki/Pentagonal_pyramidal_molecular_geometry" title="Pentagonal pyramidal molecular geometry">pentagonal pyramidal</a>
+</td>
+<td><center>72°, 90°, 144°</center>
+</td>
+<td><center>XeOF<sub>5</sub><sup>−</sup></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Pentagonal-pyramidal-3D-balls.png"><img alt="Pentagonal-pyramidal-3D-balls.png" data-file-height="816" data-file-width="1100" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pentagonal-pyramidal-3D-balls.png/50px-Pentagonal-pyramidal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pentagonal-pyramidal-3D-balls.png/75px-Pentagonal-pyramidal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pentagonal-pyramidal-3D-balls.png/100px-Pentagonal-pyramidal-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>5</center>
+</td>
+<td><center>2</center>
+</td>
+<td><center>7</center>
+</td>
+<td><a href="/wiki/Pentagonal_planar_molecular_geometry" title="Pentagonal planar molecular geometry">pentagonal planar</a>
+</td>
+<td><center>72°, 144°</center>
+</td>
+<td><center><a href="/wiki/Tetramethylammonium_pentafluoroxenate" title="Tetramethylammonium pentafluoroxenate">XeF<sub>5</sub><sup>−</sup></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Pentagonal-planar-3D-balls.png"><img alt="Pentagonal-planar-3D-balls.png" data-file-height="1229" data-file-width="2000" height="31" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pentagonal-planar-3D-balls.png/50px-Pentagonal-planar-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pentagonal-planar-3D-balls.png/75px-Pentagonal-planar-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pentagonal-planar-3D-balls.png/100px-Pentagonal-planar-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>8</center>
+</td>
+<td><center>0</center>
+</td>
+<td><center>8</center>
+</td>
+<td><a href="/wiki/Square_antiprismatic_molecular_geometry" title="Square antiprismatic molecular geometry">square antiprismatic</a>
+</td>
+<td>
+</td>
+<td><center><a href="/wiki/Nitrosonium_octafluoroxenate(VI)" title="Nitrosonium octafluoroxenate(VI)">XeF<sub>8</sub><sup>2−</sup></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:Square-antiprismatic-3D-balls.png"><img alt="Square-antiprismatic-3D-balls.png" data-file-height="1769" data-file-width="2000" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Square-antiprismatic-3D-balls.png/50px-Square-antiprismatic-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Square-antiprismatic-3D-balls.png/75px-Square-antiprismatic-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Square-antiprismatic-3D-balls.png/100px-Square-antiprismatic-3D-balls.png 2x" width="50"/></a></center>
+</td></tr>
+<tr>
+<td><center>9</center>
+</td>
+<td><center>0</center>
+</td>
+<td><center>9</center>
+</td>
+<td><a href="/wiki/Tricapped_trigonal_prismatic_molecular_geometry" title="Tricapped trigonal prismatic molecular geometry">tricapped trigonal prismatic</a>
+</td>
+<td>
+</td>
+<td><center><a href="/wiki/Potassium_nonahydridorhenate" title="Potassium nonahydridorhenate">ReH<sub>9</sub><sup>2−</sup></a></center>
+</td>
+<td><center><a class="image" href="/wiki/File:AX9E0-3D-balls.png"><img alt="AX9E0-3D-balls.png" data-file-height="2000" data-file-width="1865" height="54" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/AX9E0-3D-balls.png/50px-AX9E0-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/AX9E0-3D-balls.png/75px-AX9E0-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/AX9E0-3D-balls.png/100px-AX9E0-3D-balls.png 2x" width="50"/></a></center>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="3D_representations">3D representations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=7" title="Edit section: 3D representations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Line</b> or <b>stick</b> – atomic nuclei are not represented, just the bonds as sticks or lines. As in 2D molecular structures of this type, atoms are implied at each vertex.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Formic-acid-3D-stick.png"><img alt="Formic-acid-3D-stick.png" data-file-height="833" data-file-width="1100" height="83" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Formic-acid-3D-stick.png/110px-Formic-acid-3D-stick.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Formic-acid-3D-stick.png/165px-Formic-acid-3D-stick.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Formic-acid-3D-stick.png/220px-Formic-acid-3D-stick.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:L-aspartic-acid-3D-sticks.png"><img alt="L-aspartic-acid-3D-sticks.png" data-file-height="983" data-file-width="660" height="164" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/L-aspartic-acid-3D-sticks.png/110px-L-aspartic-acid-3D-sticks.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/L-aspartic-acid-3D-sticks.png/165px-L-aspartic-acid-3D-sticks.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/L-aspartic-acid-3D-sticks.png/220px-L-aspartic-acid-3D-sticks.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:ATP-xtal-3D-sticks.png"><img alt="ATP-xtal-3D-sticks.png" data-file-height="1063" data-file-width="1100" height="106" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ATP-xtal-3D-sticks.png/110px-ATP-xtal-3D-sticks.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ATP-xtal-3D-sticks.png/165px-ATP-xtal-3D-sticks.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ATP-xtal-3D-sticks.png/220px-ATP-xtal-3D-sticks.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Endohedral_fullerene.png"><img alt="Endohedral fullerene.png" data-file-height="614" data-file-width="618" height="109" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Endohedral_fullerene.png/110px-Endohedral_fullerene.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Endohedral_fullerene.png/165px-Endohedral_fullerene.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Endohedral_fullerene.png/220px-Endohedral_fullerene.png 2x" width="110"/></a></div></div>
+</td></tr></tbody></table>
+<ul><li><b>Electron density plot</b> – shows the electron density determined either <a href="/wiki/Crystallography" title="Crystallography">crystallographically</a> or using <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a> rather than distinct atoms or bonds.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:NorbornylCation_ElectronDensity.jpg"><img alt="NorbornylCation ElectronDensity.jpg" data-file-height="736" data-file-width="736" height="110" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NorbornylCation_ElectronDensity.jpg/110px-NorbornylCation_ElectronDensity.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NorbornylCation_ElectronDensity.jpg/165px-NorbornylCation_ElectronDensity.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NorbornylCation_ElectronDensity.jpg/220px-NorbornylCation_ElectronDensity.jpg 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:WinsteinYellow.jpg"><img alt="WinsteinYellow.jpg" data-file-height="688" data-file-width="704" height="108" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/WinsteinYellow.jpg/110px-WinsteinYellow.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/WinsteinYellow.jpg/165px-WinsteinYellow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/WinsteinYellow.jpg/220px-WinsteinYellow.jpg 2x" width="110"/></a></div></div>
+</td></tr></tbody></table>
+<ul><li><b>Ball and stick</b> – atomic nuclei are represented by spheres (balls) and the bonds as sticks.</li></ul>
+<dl><dd><table class="wikitable">
+<tbody><tr>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Methanol-3D-balls.png"><img alt="Methanol-3D-balls.png" data-file-height="731" data-file-width="1100" height="73" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Methanol-3D-balls.png/110px-Methanol-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Methanol-3D-balls.png/165px-Methanol-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Methanol-3D-balls.png/220px-Methanol-3D-balls.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Methanol_struktur.png"><img alt="Methanol struktur.png" data-file-height="190" data-file-width="213" height="98" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Methanol_struktur.png/110px-Methanol_struktur.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Methanol_struktur.png/165px-Methanol_struktur.png 1.5x, //upload.wikimedia.org/wikipedia/commons/0/08/Methanol_struktur.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:PropyleneGlycol-stickAndBall.png"><img alt="PropyleneGlycol-stickAndBall.png" data-file-height="1548" data-file-width="2000" height="85" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PropyleneGlycol-stickAndBall.png/110px-PropyleneGlycol-stickAndBall.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PropyleneGlycol-stickAndBall.png/165px-PropyleneGlycol-stickAndBall.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PropyleneGlycol-stickAndBall.png/220px-PropyleneGlycol-stickAndBall.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:3LRI_SolutionStructureAndBackboneDynamicsOfHumanLong_arg3_insulin-Like_Growth_Factor_1_02.png"><img alt="3LRI SolutionStructureAndBackboneDynamicsOfHumanLong arg3 insulin-Like Growth Factor 1 02.png" data-file-height="1673" data-file-width="2400" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/3LRI_SolutionStructureAndBackboneDynamicsOfHumanLong_arg3_insulin-Like_Growth_Factor_1_02.png/170px-3LRI_SolutionStructureAndBackboneDynamicsOfHumanLong_arg3_insulin-Like_Growth_Factor_1_02.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/3LRI_SolutionStructureAndBackboneDynamicsOfHumanLong_arg3_insulin-Like_Growth_Factor_1_02.png/255px-3LRI_SolutionStructureAndBackboneDynamicsOfHumanLong_arg3_insulin-Like_Growth_Factor_1_02.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/3LRI_SolutionStructureAndBackboneDynamicsOfHumanLong_arg3_insulin-Like_Growth_Factor_1_02.png/340px-3LRI_SolutionStructureAndBackboneDynamicsOfHumanLong_arg3_insulin-Like_Growth_Factor_1_02.png 2x" width="170"/></a></div></div>
+</td></tr></tbody></table></dd></dl>
+<ul><li><a class="mw-redirect" href="/wiki/Spacefilling_model" title="Spacefilling model">Spacefilling models</a> or <a class="mw-redirect" href="/wiki/CPK_model" title="CPK model">CPK models</a> (also an <a href="/wiki/CPK_coloring" title="CPK coloring">atomic coloring scheme</a> in representations) – the molecule is represented by overlapping spheres representing the atoms.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Methanol.pdb.png"><img alt="Methanol.pdb.png" data-file-height="512" data-file-width="512" height="110" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Methanol.pdb.png/110px-Methanol.pdb.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Methanol.pdb.png/165px-Methanol.pdb.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Methanol.pdb.png/220px-Methanol.pdb.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Ubiquitin_spheres.png"><img alt="Ubiquitin spheres.png" data-file-height="645" data-file-width="800" height="89" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ubiquitin_spheres.png/110px-Ubiquitin_spheres.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ubiquitin_spheres.png/165px-Ubiquitin_spheres.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ubiquitin_spheres.png/220px-Ubiquitin_spheres.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:P-cresol-spaceFilling.png"><img alt="P-cresol-spaceFilling.png" data-file-height="1548" data-file-width="2000" height="85" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/P-cresol-spaceFilling.png/110px-P-cresol-spaceFilling.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/P-cresol-spaceFilling.png/165px-P-cresol-spaceFilling.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/P-cresol-spaceFilling.png/220px-P-cresol-spaceFilling.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:3GF1_Insulin-Like_Growth_Factor_Nmr_10_01.png"><img alt="3GF1 Insulin-Like Growth Factor Nmr 10 01.png" data-file-height="1673" data-file-width="2400" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/3GF1_Insulin-Like_Growth_Factor_Nmr_10_01.png/170px-3GF1_Insulin-Like_Growth_Factor_Nmr_10_01.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/3GF1_Insulin-Like_Growth_Factor_Nmr_10_01.png/255px-3GF1_Insulin-Like_Growth_Factor_Nmr_10_01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/3GF1_Insulin-Like_Growth_Factor_Nmr_10_01.png/340px-3GF1_Insulin-Like_Growth_Factor_Nmr_10_01.png 2x" width="170"/></a></div></div>
+</td></tr></tbody></table>
+<ul><li><b>Cartoon</b> – a representation used for proteins where loops, beta sheets, alpha helices are represented diagrammatically and no atoms or bonds are represented explicitly just the protein backbone as a smooth pipe.</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Beta-meander1.png"><img alt="Beta-meander1.png" data-file-height="255" data-file-width="393" height="71" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Beta-meander1.png/110px-Beta-meander1.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Beta-meander1.png/165px-Beta-meander1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Beta-meander1.png/220px-Beta-meander1.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:MreB.png"><img alt="MreB.png" data-file-height="670" data-file-width="606" height="122" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/MreB.png/110px-MreB.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/MreB.png/165px-MreB.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/MreB.png/220px-MreB.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Anthrax_toxin_protein_key_motif.svg"><img alt="Anthrax toxin protein key motif.svg" data-file-height="599" data-file-width="626" height="105" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anthrax_toxin_protein_key_motif.svg/110px-Anthrax_toxin_protein_key_motif.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anthrax_toxin_protein_key_motif.svg/165px-Anthrax_toxin_protein_key_motif.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anthrax_toxin_protein_key_motif.svg/220px-Anthrax_toxin_protein_key_motif.svg.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:8tim_TIM_barrel.png"><img alt="8tim TIM barrel.png" data-file-height="808" data-file-width="940" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/8tim_TIM_barrel.png/170px-8tim_TIM_barrel.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/8tim_TIM_barrel.png/255px-8tim_TIM_barrel.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/8tim_TIM_barrel.png/340px-8tim_TIM_barrel.png 2x" width="170"/></a></div></div>
+</td></tr></tbody></table>
+<p>The greater the amount of lone pairs contained in a molecule the smaller the angles between the atoms of that molecule. The <a href="/wiki/VSEPR_theory" title="VSEPR theory">VSEPR theory</a> predicts that lone pairs repel each other, thus pushing the different atoms away from them.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Molecular_geometry" title="commons:Molecular geometry">Molecular geometry</a></b></i>.</td></tr></tbody></table>
+<ul><li><a href="/wiki/Jemmis_mno_rules" title="Jemmis mno rules">Jemmis mno rules</a></li>
+<li><a href="/wiki/Molecular_design_software" title="Molecular design software">Molecular design software</a></li>
+<li><a href="/wiki/Molecular_graphics" title="Molecular graphics">Molecular graphics</a></li>
+<li><a href="/wiki/Molecular_mechanics" title="Molecular mechanics">Molecular mechanics</a></li>
+<li><a href="/wiki/Molecular_modelling" title="Molecular modelling">Molecular modelling</a></li>
+<li><a href="/wiki/Molecule_editor" title="Molecule editor">Molecule editor</a></li>
+<li><a href="/wiki/Polyhedral_skeletal_electron_pair_theory" title="Polyhedral skeletal electron pair theory">Polyhedral skeletal electron pair theory</a></li>
+<li><a href="/wiki/Quantum_chemistry" title="Quantum chemistry">Quantum chemistry</a></li>
+<li><a href="/wiki/Topology_(chemistry)" title="Topology (chemistry)">Topology (chemistry)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_geometry&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://web.archive.org/web/20090925191332/http://www.tutor-pages.com/Chemistry/Molecular_Geometry/Polar_Or_Nonpolar.html" rel="nofollow">Molecular Geometry &amp; Polarity Tutorial</a> 3D visualization of molecules to determine polarity.</li>
+<li><a class="external text" href="http://www.xtal.iqfr.csic.es/Cristalografia/index-en.html" rel="nofollow">Molecular Geometry using Crystals</a> 3D structure visualization of molecules using Crystallography.</li></ul>
+<div aria-labelledby="Molecular_geometry" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:MolecularGeometry" title="Template:MolecularGeometry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:MolecularGeometry" title="Template talk:MolecularGeometry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MolecularGeometry&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Molecular_geometry" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Molecular geometry</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 2</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Linear_molecular_geometry" title="Linear molecular geometry">Linear</a></li>
+<li><a href="/wiki/Bent_molecular_geometry" title="Bent molecular geometry">Bent</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 3</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trigonal_planar_molecular_geometry" title="Trigonal planar molecular geometry">Trigonal planar</a></li>
+<li><a href="/wiki/Trigonal_pyramidal_molecular_geometry" title="Trigonal pyramidal molecular geometry">Trigonal pyramidal</a></li>
+<li><a href="/wiki/T-shaped_molecular_geometry" title="T-shaped molecular geometry">T-shaped</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tetracoordinate" title="Tetracoordinate">Coordination number 4</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tetrahedral_molecular_geometry" title="Tetrahedral molecular geometry">Tetrahedral</a></li>
+<li><a href="/wiki/Square_planar_molecular_geometry" title="Square planar molecular geometry">Square planar</a></li>
+<li><a href="/wiki/Seesaw_molecular_geometry" title="Seesaw molecular geometry">Seesaw</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 5</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trigonal_bipyramidal_molecular_geometry" title="Trigonal bipyramidal molecular geometry">Trigonal bipyramidal</a></li>
+<li><a href="/wiki/Square_pyramidal_molecular_geometry" title="Square pyramidal molecular geometry">Square pyramidal</a></li>
+<li><a href="/wiki/Pentagonal_planar_molecular_geometry" title="Pentagonal planar molecular geometry">Pentagonal planar</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hexacoordinate" title="Hexacoordinate">Coordination number 6</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Octahedral_molecular_geometry" title="Octahedral molecular geometry">Octahedral</a></li>
+<li><a href="/wiki/Trigonal_prismatic_molecular_geometry" title="Trigonal prismatic molecular geometry">Trigonal prismatic</a></li>
+<li><a href="/wiki/Pentagonal_pyramidal_molecular_geometry" title="Pentagonal pyramidal molecular geometry">Pentagonal pyramidal</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 7</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pentagonal_bipyramidal_molecular_geometry" title="Pentagonal bipyramidal molecular geometry">Pentagonal bipyramidal</a></li>
+<li><a href="/wiki/Capped_octahedral_molecular_geometry" title="Capped octahedral molecular geometry">Capped octahedral</a></li>
+<li><a href="/wiki/Capped_trigonal_prismatic_molecular_geometry" title="Capped trigonal prismatic molecular geometry">Capped trigonal prismatic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 8</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Square_antiprismatic_molecular_geometry" title="Square antiprismatic molecular geometry">Square antiprismatic</a></li>
+<li><a href="/wiki/Dodecahedral_molecular_geometry" title="Dodecahedral molecular geometry">Dodecahedral</a></li>
+<li><a href="/wiki/Bicapped_trigonal_prismatic_molecular_geometry" title="Bicapped trigonal prismatic molecular geometry">Bicapped trigonal prismatic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 9</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tricapped_trigonal_prismatic_molecular_geometry" title="Tricapped trigonal prismatic molecular geometry">Tricapped trigonal prismatic</a></li>
+<li><a href="/wiki/Capped_square_antiprismatic_molecular_geometry" title="Capped square antiprismatic molecular geometry">Capped square antiprismatic</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br/>
+</p>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q911331&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q911331&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q911331" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4170383-2" rel="nofollow">4170383-2</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00561036" rel="nofollow">00561036</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20181026161042
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.400 seconds
+Real time usage: 0.535 seconds
+Preprocessor visited node count: 871/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 34541/2097152 bytes
+Template argument size: 224/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19653/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.155/10.000 seconds
+Lua memory usage: 3.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  281.134      1 -total
+ 70.27%  197.561      1 Template:Reflist
+ 30.84%   86.700      2 Template:Citation
+ 29.96%   84.220      1 Template:McMurray
+ 19.11%   53.735      3 Template:Cite_journal
+  9.94%   27.955      1 Template:Authority_control
+  9.53%   26.788      1 Template:Main
+  5.97%   16.786      4 Template:Webarchive
+  5.02%   14.107      1 Template:MolecularGeometry
+  4.56%   12.815      1 Template:Commons
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:996278-0!canonical!math=5 and timestamp 20181026161041 and revision id 861492946
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Molecular_geometry&amp;oldid=861492946">https://en.wikipedia.org/w/index.php?title=Molecular_geometry&amp;oldid=861492946</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Molecular_geometry" title="Category:Molecular geometry">Molecular geometry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Molecular+geometry" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Molecular+geometry" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Molecular_geometry" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Molecular_geometry" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Molecular_geometry">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Molecular_geometry&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Molecular_geometry&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Molecular_geometry" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Molecular_geometry" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Molecular_geometry&amp;oldid=861492946" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Molecular_geometry&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q911331" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Molecular_geometry&amp;id=861492946" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Molecular+geometry">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Molecular+geometry&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Molecular_geometry&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Molecular_geometry" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D9%86%D9%8A%D8%A9_%D8%AC%D8%B2%D9%8A%D8%A6%D9%8A%D8%A9" hreflang="ar" lang="ar" title="بنية جزيئية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Molekularna_geometrija" hreflang="bs" lang="bs" title="Molekularna geometrija – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Geometria_molecular" hreflang="ca" lang="ca" title="Geometria molecular – Catalan">Català</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Geometrig_moleciwlar" hreflang="cy" lang="cy" title="Geometrig moleciwlar – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Molek%C3%BClstruktur" hreflang="de" lang="de" title="Molekülstruktur – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%AE_%CE%B3%CE%B5%CF%89%CE%BC%CE%B5%CF%84%CF%81%CE%AF%CE%B1" hreflang="el" lang="el" title="Μοριακή γεωμετρία – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Geometr%C3%ADa_molecular" hreflang="es" lang="es" title="Geometría molecular – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D9%87_%D9%85%D9%88%D9%84%DA%A9%D9%88%D9%84%DB%8C" hreflang="fa" lang="fa" title="هندسه مولکولی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/G%C3%A9om%C3%A9trie_mol%C3%A9culaire" hreflang="fr" lang="fr" title="Géométrie moléculaire – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A3%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95_%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF" hreflang="hi" lang="hi" title="आण्विक ज्यामिति – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Geometri_molekul" hreflang="id" lang="id" title="Geometri molekul – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%A0%D7%94_%D7%9E%D7%95%D7%9C%D7%A7%D7%95%D7%9C%D7%A8%D7%99" hreflang="he" lang="he" title="מבנה מולקולרי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A4%E0%B4%A8%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%BE_%E0%B4%9C%E0%B5%8D%E0%B4%AF%E0%B5%8B%E0%B4%AE%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B4%BF" hreflang="ml" lang="ml" title="തന്മാത്രാ ജ്യോമെട്രി – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Moleculaire_geometrie" hreflang="nl" lang="nl" title="Moleculaire geometrie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%88%86%E5%AD%90%E6%A7%8B%E9%80%A0" hreflang="ja" lang="ja" title="分子構造 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Molekylgeometri" hreflang="no" lang="no" title="Molekylgeometri – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Geometria_molecular" hreflang="pt" lang="pt" title="Geometria molecular – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Geometrie_molecular%C4%83" hreflang="ro" lang="ro" title="Geometrie moleculară – Romanian">Română</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Molecular_geometry" hreflang="en-simple" lang="en-simple" title="Molecular geometry – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Molekularna_geometrija" hreflang="sl" lang="sl" title="Molekularna geometrija – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%98%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D0%B0" hreflang="sr" lang="sr" title="Геометрија молекула – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Geometrija_molekula" hreflang="sh" lang="sh" title="Geometrija molekula – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Avaruusrakenne" hreflang="fi" lang="fi" title="Avaruusrakenne – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Molekyl%C3%A4r_geometri" hreflang="sv" lang="sv" title="Molekylär geometri – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Molek%C3%BCler_geometri" hreflang="tr" lang="tr" title="Moleküler geometri – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D1%96%D1%8F" hreflang="uk" lang="uk" title="Молекулярна геометрія – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%88%86%E5%AD%90%E7%BB%93%E6%9E%84" hreflang="zh" lang="zh" title="分子结构 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q911331#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 27 September 2018, at 20:35<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Molecular_geometry&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.400","walltime":"0.535","ppvisitednodes":{"value":871,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34541,"limit":2097152},"templateargumentsize":{"value":224,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19653,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  281.134      1 -total"," 70.27%  197.561      1 Template:Reflist"," 30.84%   86.700      2 Template:Citation"," 29.96%   84.220      1 Template:McMurray"," 19.11%   53.735      3 Template:Cite_journal","  9.94%   27.955      1 Template:Authority_control","  9.53%   26.788      1 Template:Main","  5.97%   16.786      4 Template:Webarchive","  5.02%   14.107      1 Template:MolecularGeometry","  4.56%   12.815      1 Template:Commons"]},"scribunto":{"limitreport-timeusage":{"value":"0.155","limit":"10.000"},"limitreport-memusage":{"value":3972899,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20181026161042","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1238"});});</script>
+</body>
+</html>

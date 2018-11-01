@@ -1,0 +1,940 @@
+https://en.wikipedia.org/wiki/Population_ecology
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Population ecology - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Population_ecology","wgTitle":"Population ecology","wgCurRevisionId":866722664,"wgRevisionId":866722664,"wgArticleId":1156819,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Population ecology","Applied statistics","Population","Subfields of ecology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Population_ecology","wgRelevantArticleId":1156819,"wgRequestId":"W9p19gpAIDEAAFi1PIEAAAAL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1049866","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/UN_DESA_continent_population_1950_to_2100.svg/1200px-UN_DESA_continent_population_1950_to_2100.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Population_ecology" rel="alternate"/>
+<link href="/w/index.php?title=Population_ecology&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Population_ecology&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Population_ecology" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Population_ecology rootpage-Population_ecology skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Population ecology</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Study of the dynamics of species populations and how these populations interact with the environment</div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:UN_DESA_continent_population_1950_to_2100.svg"><img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/UN_DESA_continent_population_1950_to_2100.svg/300px-UN_DESA_continent_population_1950_to_2100.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/UN_DESA_continent_population_1950_to_2100.svg/450px-UN_DESA_continent_population_1950_to_2100.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/UN_DESA_continent_population_1950_to_2100.svg/600px-UN_DESA_continent_population_1950_to_2100.svg.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:UN_DESA_continent_population_1950_to_2100.svg" title="Enlarge"></a></div><a class="mw-redirect" href="/wiki/Human_population_growth" title="Human population growth">The human population is growing</a> at a logistic rate and has been affecting the populations of other species in return.  <a href="/wiki/Pollution" title="Pollution">Chemical pollution</a>, <a href="/wiki/Deforestation" title="Deforestation">deforestation</a>, and population is a very big problem.<a href="/wiki/Irrigation" title="Irrigation">irrigation</a> are examples of means by which humans may influence the population ecology of other species. As the human population increases, its effect on the populations of other species may also increase.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Phanerozoic_Biodiversity.svg"><img alt="" class="thumbimage" data-file-height="464" data-file-width="784" height="178" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Phanerozoic_Biodiversity.svg/300px-Phanerozoic_Biodiversity.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Phanerozoic_Biodiversity.svg/450px-Phanerozoic_Biodiversity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Phanerozoic_Biodiversity.svg/600px-Phanerozoic_Biodiversity.svg.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Phanerozoic_Biodiversity.svg" title="Enlarge"></a></div>Populations cannot grow indefinitely. Population ecology involves studying factors that affect population growth and survival. <a class="mw-redirect" href="/wiki/Mass_extinctions" title="Mass extinctions">Mass extinctions</a> are examples of factors that have radically reduced populations' sizes and populations' <a href="/wiki/Survivability" title="Survivability">survivability</a>. The survivability of populations is critical to maintaining high levels of <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> on Earth.</div></div></div> <p><b>Population ecology</b>  is a sub-field of <a href="/wiki/Ecology" title="Ecology">ecology</a> that deals with the dynamics of <a href="/wiki/Species" title="Species">species</a> <a href="/wiki/Population" title="Population">populations</a> and how these populations interact with the <a href="/wiki/Natural_environment" title="Natural environment">environment</a>.<sup class="reference" id="cite_ref-Odum1959_1-0"><a href="#cite_note-Odum1959-1">[1]</a></sup> It is the study of how the <a href="/wiki/Population_size" title="Population size">population sizes</a> of species change over time and space. The term population ecology is often used interchangeably with <a href="/wiki/Population_biology" title="Population biology">population biology</a> or <a href="/wiki/Population_dynamics" title="Population dynamics">population dynamics</a>. 
+</p><p>The development of population ecology owes much to <a href="/wiki/Demography" title="Demography">demography</a> and <a href="/wiki/Actuary" title="Actuary">actuarial</a> <a href="/wiki/Life_table" title="Life table">life tables</a>. Population ecology is important in <a href="/wiki/Conservation_biology" title="Conservation biology">conservation biology</a>, especially in the development of <a href="/wiki/Population_viability_analysis" title="Population viability analysis">population viability analysis</a> (PVA) which makes it possible to predict the long-term probability of a species persisting in a given habitat patch. Although population ecology is a subfield of <a href="/wiki/Biology" title="Biology">biology</a>, it provides interesting problems for <a href="/wiki/Mathematics" title="Mathematics">mathematicians</a> and <a href="/wiki/Statistics" title="Statistics">statisticians</a> who work in <a href="/wiki/Population_dynamics" title="Population dynamics">population dynamics</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Fundamentals"><span class="tocnumber">1</span> <span class="toctext">Fundamentals</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geometric_populations"><span class="tocnumber">2</span> <span class="toctext">Geometric populations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Doubling_time_of_geometric_populations"><span class="tocnumber">2.1</span> <span class="toctext">Doubling time of geometric populations</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Half-life_of_geometric_populations"><span class="tocnumber">2.2</span> <span class="toctext">Half-life of geometric populations</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Geometric_(R)_and_finite_(λ)_growth_constants"><span class="tocnumber">2.3</span> <span class="toctext">Geometric (R) and finite (λ) growth constants</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Geometric_(R)_growth_constant"><span class="tocnumber">2.3.1</span> <span class="toctext">Geometric (R) growth constant</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Finite_(λ)_growth_constant"><span class="tocnumber">2.3.2</span> <span class="toctext">Finite (λ) growth constant</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Mathematical_relationship_between_geometric_and_exponential_populations"><span class="tocnumber">2.4</span> <span class="toctext">Mathematical relationship between geometric and exponential populations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#r/K_selection"><span class="tocnumber">3</span> <span class="toctext">r/K selection</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Metapopulation"><span class="tocnumber">4</span> <span class="toctext">Metapopulation</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#History"><span class="tocnumber">5</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Journals"><span class="tocnumber">6</span> <span class="toctext">Journals</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Fundamentals">Fundamentals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=1" title="Edit section: Fundamentals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>Terms used to describe natural groups of individuals in ecological studies<sup class="reference" id="cite_ref-Wells95_2-0"><a href="#cite_note-Wells95-2">[2]</a></sup>
+</caption>
+<tbody><tr>
+<th width="120">Term
+</th>
+<th>Definition
+</th></tr>
+<tr valign="top">
+<td><b>Species population</b></td>
+<td>All individuals of a species.
+</td></tr>
+<tr valign="top">
+<td><b>Metapopulation</b></td>
+<td>A set of spatially disjunct populations, among which there is some immigration.
+</td></tr>
+<tr valign="top">
+<td><b>Population</b></td>
+<td>A group of conspecific individuals that is demographically, genetically, or spatially disjunct from other groups of individuals.
+</td></tr>
+<tr valign="top">
+<td><b>Aggregation</b></td>
+<td>A spatially clustered group of individuals.
+</td></tr>
+<tr valign="top">
+<td><b>Deme</b></td>
+<td>A group of individuals more genetically similar to each other than to other individuals, usually with some degree of spatial isolation as well.
+</td></tr>
+<tr valign="top">
+<td><b>Local population</b></td>
+<td>A group of individuals within an investigator-delimited area smaller than the geographic range of the species and often within a population (as defined above). A local population could be a disjunct population as well.
+</td></tr>
+<tr valign="top">
+<td><b>Subpopulation</b></td>
+<td>An arbitrary spatially delimited subset of individuals from within a population (as defined above).
+</td></tr></tbody></table>
+<p>The most fundamental law of population ecology is <a class="mw-redirect" href="/wiki/Thomas_Malthus" title="Thomas Malthus">Thomas Malthus</a>' exponential law of population growth.<sup class="reference" id="cite_ref-Turchin01_3-0"><a href="#cite_note-Turchin01-3">[3]</a></sup>
+</p>
+<blockquote>
+<p><i>A population will grow (or decline) exponentially as long as the environment experienced by all individuals in the population remains constant.</i><sup class="reference" id="cite_ref-Turchin01_3-1"><a href="#cite_note-Turchin01-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>18</span></sup>
+</p>
+</blockquote>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg"><img alt="" class="thumbimage" data-file-height="4944" data-file-width="4045" height="269" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg/220px-Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg/330px-Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg/440px-Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg" title="Enlarge"></a></div><a href="/wiki/Thomas_Robert_Malthus" title="Thomas Robert Malthus">Thomas Robert Malthus</a></div></div></div>
+<p>This principle in population ecology provides the basis for formulating predictive theories and tests that follow:
+</p><p>Simplified population models usually start with four key variables (four <b>demographic processes</b>) including death, birth, immigration, and emigration. Mathematical models used to calculate changes in population demographics and evolution hold the assumption (or <a href="/wiki/Null_hypothesis" title="Null hypothesis">null hypothesis</a>) of no external influence. Models can be more mathematically complex where "...several competing hypotheses are simultaneously confronted with the data."<sup class="reference" id="cite_ref-Johnson04_4-0"><a href="#cite_note-Johnson04-4">[4]</a></sup> For example, in a closed system where immigration and emigration does not take place, the rate of change in the number of individuals in a population can be described as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {dN}{dT}}=B-D=bN-dN=(b-d)N=rN,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>N</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>B</mi>
+<mo>−<!-- − --></mo>
+<mi>D</mi>
+<mo>=</mo>
+<mi>b</mi>
+<mi>N</mi>
+<mo>−<!-- − --></mo>
+<mi>d</mi>
+<mi>N</mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>b</mi>
+<mo>−<!-- − --></mo>
+<mi>d</mi>
+<mo stretchy="false">)</mo>
+<mi>N</mi>
+<mo>=</mo>
+<mi>r</mi>
+<mi>N</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {dN}{dT}}=B-D=bN-dN=(b-d)N=rN,}</annotation>
+</semantics>
+</math></span><img alt="{\frac {dN}{dT}}=B-D=bN-dN=(b-d)N=rN," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da018b86b1269f068e7f8a1bea4bc2f7426c1695" style="vertical-align: -2.005ex; width:44.905ex; height:5.509ex;"/></span></dd></dl>
+<p>where <i>N</i> is the total number of individuals in the population, <i>B</i> is the <b>raw</b> number of births, <i>D</i> is the <b>raw</b> number of deaths, <i>b</i> and <i>d</i> are the <b>per capita</b> rates of birth and death respectively, and <i>r</i> is the <b>per capita</b> average number of surviving offspring each individual has. This formula can be read as the rate of change in the population (<i>dN/dT</i>) is equal to births minus deaths (B - D).<sup class="reference" id="cite_ref-Turchin01_3-2"><a href="#cite_note-Turchin01-3">[3]</a></sup><sup class="reference" id="cite_ref-Vandermeer03_5-0"><a href="#cite_note-Vandermeer03-5">[5]</a></sup>
+</p><p>Using these techniques, Malthus' population principle of growth was later transformed into a mathematical model known as the <a href="/wiki/Logistic_function#In_ecology:_modeling_population_growth" title="Logistic function">logistic equation</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {dN}{dT}}=aN\left(1-{\frac {N}{K}}\right),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>N</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>a</mi>
+<mi>N</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>N</mi>
+<mi>K</mi>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {dN}{dT}}=aN\left(1-{\frac {N}{K}}\right),}</annotation>
+</semantics>
+</math></span><img alt="{\frac {dN}{dT}}=aN\left(1-{\frac {N}{K}}\right)," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cdaf79a5613b24deb767469adff70d8f5fe287b3" style="vertical-align: -2.505ex; width:22.255ex; height:6.176ex;"/></span></dd></dl>
+<p>where <i>N</i> is the biomass density, <i>a</i> is the maximum per-capita rate of change, and <i>K</i> is the <a href="/wiki/Carrying_capacity" title="Carrying capacity">carrying capacity</a> of the population. The formula can be read as follows: the rate of change in the population (<i>dN/dT</i>) is equal to growth (<i>aN</i>) that is limited by carrying capacity <i>(1-N/K)</i>. From these basic mathematical principles the discipline of population ecology expands into a field of investigation that queries the <a class="mw-redirect" href="/wiki/Demographics" title="Demographics">demographics</a> of real populations and tests these results against the statistical models. The field of population ecology often uses data on life history and matrix algebra to develop projection matrices on fecundity and survivorship. This information is used for managing wildlife stocks and setting harvest quotas <sup class="reference" id="cite_ref-Vandermeer03_5-1"><a href="#cite_note-Vandermeer03-5">[5]</a></sup><sup class="reference" id="cite_ref-Berryman92_6-0"><a href="#cite_note-Berryman92-6">[6]</a></sup>
+</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Geometric_populations">Geometric populations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=2" title="Edit section: Geometric populations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Operophtera.brumata.6961.jpg"><img alt="" class="thumbimage" data-file-height="1333" data-file-width="2000" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Operophtera.brumata.6961.jpg/220px-Operophtera.brumata.6961.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Operophtera.brumata.6961.jpg/330px-Operophtera.brumata.6961.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Operophtera.brumata.6961.jpg/440px-Operophtera.brumata.6961.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Operophtera.brumata.6961.jpg" title="Enlarge"></a></div><i>Operophtera brumata</i> (Winter moth) populations are geometric.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></div></div></div>
+<p>The population model below can be manipulated to mathematically infer certain properties of <a class="mw-redirect" href="/wiki/Geometric" title="Geometric">geometric</a> populations. A population with a size that increases geometrically is a population where generations of reproduction do <b>not</b> overlap.<sup class="reference" id="cite_ref-afrc.uamont.edu_8-0"><a href="#cite_note-afrc.uamont.edu-8">[8]</a></sup> In each generation there is an <a href="/wiki/Effective_population_size" title="Effective population size">effective population size</a> denoted as <big>N<sub>e</sub></big> which constitutes the number of individuals in the population that are able to reproduce <i>and</i> will reproduce in any reproductive generation in concern.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> In the population model below it is assumed that <big>N</big> is the effective population size.<sup class="reference" id="cite_ref-afrc.uamont.edu_8-1"><a href="#cite_note-afrc.uamont.edu-8">[8]</a></sup>
+</p><p><b>Assumption 01</b>: <big>N<sub>e</sub></big> <big>=</big> <big>N</big>
+</p><p><big><b>N<sub>t+1</sub> = N<sub>t</sub> + B<sub>t</sub> + I<sub>t</sub> - D<sub>t</sub>  - E<sub>t</sub></b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>N<sub>t+1</sub></b></td>
+<td>Population size in the generation after generation <sub><b>t</b></sub>. This may be the current generation or the next (upcoming) generation depending on the situation in which the population model is used.
+</td></tr>
+<tr>
+<td><b>N<sub>t</sub></b></td>
+<td>Population size in generation <sub><b>t</b></sub>.
+</td></tr>
+<tr>
+<td><b>B<sub>t</sub></b></td>
+<td>Sum (Σ) of births in the population between generations <b><sub>t</sub></b> and <b><sub>t+1</sub></b>. Also known as <b>raw</b> birth rate.
+</td></tr>
+<tr>
+<td><b>I<sub>t</sub></b></td>
+<td>Sum (Σ) of <a class="mw-redirect" href="/wiki/Immigrants" title="Immigrants">immigrants</a> moving into the population between generations <b><sub>t</sub></b> and <b><sub>t+1</sub></b>. Also known as <b>raw</b> <a href="/wiki/Immigration" title="Immigration">immigration</a> rate.
+</td></tr>
+<tr>
+<td><b>D<sub>t</sub></b></td>
+<td>Sum (Σ) of deaths in the population between generations <b><sub>t</sub></b> and <b><sub>t+1</sub></b>. Also known as <b>raw</b> death rate.
+</td></tr>
+<tr>
+<td><b>E<sub>t</sub></b></td>
+<td>Sum (Σ) of <a class="mw-redirect" href="/wiki/Emigrants" title="Emigrants">emigrants</a> moving out of the population between generations <b><sub>t</sub></b> and <b><sub>t+1</sub></b>. Also known as <b>raw</b> <a href="/wiki/Emigration" title="Emigration">emigration</a> rate.
+</td></tr>
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:The_general_difference_between_populations_that_grow_exponentially_and_geometrically.png"><img alt="" class="thumbimage" data-file-height="1402" data-file-width="1616" height="347" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_general_difference_between_populations_that_grow_exponentially_and_geometrically.png/400px-The_general_difference_between_populations_that_grow_exponentially_and_geometrically.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_general_difference_between_populations_that_grow_exponentially_and_geometrically.png/600px-The_general_difference_between_populations_that_grow_exponentially_and_geometrically.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_general_difference_between_populations_that_grow_exponentially_and_geometrically.png/800px-The_general_difference_between_populations_that_grow_exponentially_and_geometrically.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:The_general_difference_between_populations_that_grow_exponentially_and_geometrically.png" title="Enlarge"></a></div><b>The general difference between populations that grow exponentially and geometrically.</b>  Geometric populations grow in reproductive generations between intervals of <a href="/wiki/Abstinence" title="Abstinence">abstinence</a> from reproduction. Exponential populations grow without designated periods for reproduction. Reproduction is a <a class="mw-redirect" href="/wiki/Continuity_(mathematics)" title="Continuity (mathematics)">continuous</a> process and generations of reproduction overlap. This graph illustrates two hypothetical populations - one population growing periodically (and therefore geometrically) and the other population growing continuously (and therefore exponentially). The populations in the graph have a doubling time of 1 year. The populations in the graph are hypothetical. In reality, the doubling times differ between populations.</div></div></div>
+<p><b>Assumption 02</b>: There is no migration to or from the population (<big>N</big>)
+</p><p><big><b>I<sub>t</sub>  = E<sub>t</sub> = 0</b></big>
+</p><p><big><b>N<sub>t+1</sub> = N<sub>t</sub> + B<sub>t</sub> - D<sub>t</sub></b></big>
+</p><p>The <b>raw</b> birth and death rates are related to the <b>per capita</b> birth and death rates:
+</p><p><big><b>B<sub>t</sub> = b<sub>t</sub> × N<sub>t</sub></b></big>
+</p><p><big><b>D<sub>t</sub> = d<sub>t</sub> × N<sub>t</sub></b></big>
+</p><p><big><b>b<sub>t</sub> = B<sub>t</sub> / N<sub>t</sub></b></big>
+</p><p><big><b>d<sub>t</sub> = D<sub>t</sub> / N<sub>t</sub></b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>b<sub>t</sub></b></td>
+<td><b>Per capita</b> birth rate.
+</td></tr>
+<tr>
+<td><b>d<sub>t</sub></b></td>
+<td><b>Per capita</b> death rate.
+</td></tr>
+</tbody></table>
+<p>Therefore:
+</p><p><big><b>N<sub>t+1</sub> = N<sub>t</sub> + (b<sub>t</sub> × N<sub>t</sub>) - (d<sub>t</sub> × N<sub>t</sub>)</b></big>
+</p><p><b>Assumption 03</b>: <b>b<sub>t</sub></b> and <b>d<sub>t</sub></b> are constant (i.e. they don't change each generation).
+</p><p><big><b>N<sub>t+1</sub> = N<sub>t</sub> + (bN<sub>t</sub>) - (dN<sub>t</sub>)</b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>b</b></td>
+<td>Constant <b>per capita</b> birth rate.
+</td></tr>
+<tr>
+<td><b>d</b></td>
+<td>Constant <b>per capita</b> death rate.
+</td></tr>
+</tbody></table>
+<p>Take the term <b>N<sub>t</sub></b> out of the brackets.
+</p><p><big><b>N<sub>t+1</sub> = N<sub>t</sub> + (b - d)N<sub>t</sub></b></big>
+</p><p><big><b>b - d = R</b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>R</b></td>
+<td>Geometric rate of increase.
+</td></tr>
+</tbody></table>
+<p><big><b>N<sub>t+1</sub> = N<sub>t</sub> + RN<sub>t</sub></b></big>
+</p><p><big><b>N<sub>t+1</sub> = (N<sub>t</sub> + RN<sub>t</sub>)</b></big>
+</p><p>Take the term <b>N<sub>t</sub></b> out of the brackets again.
+</p><p><big><b>N<sub>t+1</sub> = (1 + R)N<sub>t</sub></b></big>
+</p><p><big><b>1 + R = λ</b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>λ</b></td>
+<td><a href="/wiki/Infinity" title="Infinity">Finite</a> rate of increase.
+</td></tr>
+</tbody></table>
+<p><big><b>N<sub>t+1</sub> = λN<sub>t</sub></b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>At <sub><b>t+1</b></sub></td>
+<td><big><b>N<sub>t+1</sub> = λN<sub>t</sub></b></big>
+</td></tr>
+<tr>
+<td>At <sub><b>t+2</b></sub></td>
+<td><big><b>N<sub>t+2</sub> = λN<sub>t+1</sub> = λλN<sub>t</sub> = λ<sup>2</sup>N<sub>t</sub></b></big>
+</td></tr>
+<tr>
+<td>At <sub><b>t+3</b></sub></td>
+<td><big><b>N<sub>t+3</sub> = λN<sub>t+2</sub> = λλN<sub>t+1</sub> = λλλN<sub>t</sub> = λ<sup>3</sup>N<sub>t</sub></b></big>
+</td></tr>
+<tr>
+<td>At <sub><b>t+4</b></sub></td>
+<td><big><b>N<sub>t+4</sub> = λN<sub>t+3</sub> = λλN<sub>t+2</sub> = λλλN<sub>t+1</sub> = λλλλN<sub>t</sub> = λ<sup>4</sup>N<sub>t</sub></b></big>
+</td></tr>
+<tr>
+<td>At <sub><b>t+5</b></sub></td>
+<td><big><b>N<sub>t+5</sub> = λN<sub>t+4</sub> = λλN<sub>t+3</sub> = λλλN<sub>t+2</sub> = λλλλN<sub>t+1</sub> = λλλλλN<sub>t</sub> = λ<sup>5</sup>N<sub>t</sub></b></big>
+</td></tr></tbody></table>
+<p>Therefore:
+</p><p><big><b>N<sub>t+1</sub> = λ<sup>t</sup>N<sub>t</sub></b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>λ<sup>t</sup></b></td>
+<td><a href="/wiki/Infinity" title="Infinity">Finite</a> rate of increase raised to the power of the number of generations (e.g. for <b><sub>t+2</sub></b> [two generations] → <b>λ<sup>2</sup></b> , for <b><sub>t+1</sub></b> [one generation] → <b>λ<sup>1</sup> = λ</b>, and for <b><sub>t</sub></b> [before any generations - at time zero] → <b>λ<sup>0</sup> = 1</b>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Doubling_time_of_geometric_populations">Doubling time of geometric populations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=3" title="Edit section: Doubling time of geometric populations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:G._stearothermophilus_has_a_shorter_doubling_time_(td)_than_E._coli_and_N._meningitidis.png"><img alt="" class="thumbimage" data-file-height="963" data-file-width="2075" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/G._stearothermophilus_has_a_shorter_doubling_time_%28td%29_than_E._coli_and_N._meningitidis.png/400px-G._stearothermophilus_has_a_shorter_doubling_time_%28td%29_than_E._coli_and_N._meningitidis.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/G._stearothermophilus_has_a_shorter_doubling_time_%28td%29_than_E._coli_and_N._meningitidis.png/600px-G._stearothermophilus_has_a_shorter_doubling_time_%28td%29_than_E._coli_and_N._meningitidis.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/G._stearothermophilus_has_a_shorter_doubling_time_%28td%29_than_E._coli_and_N._meningitidis.png/800px-G._stearothermophilus_has_a_shorter_doubling_time_%28td%29_than_E._coli_and_N._meningitidis.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:G._stearothermophilus_has_a_shorter_doubling_time_(td)_than_E._coli_and_N._meningitidis.png" title="Enlarge"></a></div><b><i>G. stearothermophilus</i> has a shorter doubling time (td) than <i>E. coli</i> and <i>N. meningitidis</i>.</b> Growth rates of 2 <a href="/wiki/Bacteria" title="Bacteria">bacterial</a> species will differ by unexpected orders of magnitude if the doubling times of the 2 species differ by even as little as 10 minutes. In <a href="/wiki/Eukaryote" title="Eukaryote">eukaryotes</a> such as animals, fungi, plants, and protists, doubling times are much longer than in bacteria. This reduces the growth rates of eukaryotes in comparison to Bacteria. <i><a class="mw-redirect" href="/wiki/Bacillus_stearothermophilus" title="Bacillus stearothermophilus">G. stearothermophilus</a></i>, <i><a href="/wiki/Escherichia_coli" title="Escherichia coli">E. coli</a></i>, and <i><a href="/wiki/Neisseria_meningitidis" title="Neisseria meningitidis">N. meningitidis</a></i> have 20 minute,<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> 30 minute,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> and 40 minute<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> doubling times under optimal conditions respectively. If bacterial populations could grow indefinitely (which they do not) then the number of bacteria in each species would approach infinity (<b>∞</b>). However, the percentage of <i>G. stearothermophilus</i> bacteria out of all the bacteria would approach <b>100%</b> whilst the percentage of <i>E. coli</i> and <i>N. meningitidis</i> combined out of all the bacteria would approach <b>0%</b>. This graph is a <a href="/wiki/Simulation" title="Simulation">simulation</a> of this hypothetical scenario. In reality, bacterial populations do not grow indefinitely in size and the 3 species require different optimal conditions to bring their doubling times to minima.  <table> <tbody><tr> <th>Time in minutes</th> <th>% that is <i>G. stearothermophilus</i> </th></tr> <tr> <td>30</td> <td>44.4% </td></tr> <tr> <td>60</td> <td>53.3% </td></tr> <tr> <td>90</td> <td>64.9% </td></tr> <tr> <td>120</td> <td>72.7% </td></tr> <tr> <td>→∞</td> <td>100% </td></tr></tbody></table> <table> <tbody><tr> <th>Time in minutes</th> <th>% that is <i>E. coli</i> </th></tr> <tr> <td>30</td> <td>29.6% </td></tr> <tr> <td>60</td> <td>26.7% </td></tr> <tr> <td>90</td> <td>21.6% </td></tr> <tr> <td>120</td> <td>18.2% </td></tr> <tr> <td>→∞</td> <td>0.00% </td></tr></tbody></table> <table> <tbody><tr> <th>Time in minutes</th> <th>% that is <i>N. meningitidis</i> </th></tr> <tr> <td>30</td> <td>25.9% </td></tr> <tr> <td>60</td> <td>20.0% </td></tr> <tr> <td>90</td> <td>13.5% </td></tr> <tr> <td>120</td> <td>9.10% </td></tr> <tr> <td>→∞</td> <td>0.00% </td></tr></tbody></table> <small><i>Disclaimer: Bacterial populations are exponential (or, more correctly, <a href="/wiki/Logistic_function" title="Logistic function">logistic</a>) instead of geometric. Nevertheless, doubling times are applicable to both types of populations.</i></small></div></div></div>
+<p>The <a href="/wiki/Doubling_time" title="Doubling time">doubling time</a> of a population is the time required for the population to grow to twice its size.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> We can calculate the <a href="/wiki/Doubling_time" title="Doubling time">doubling time</a> of a geometric population using the equation: <big><b>N<sub>t+1</sub> = λ<sup>t</sup>N<sub>t</sub></b></big> by exploiting our knowledge of the fact that the population (<big>N</big>) is twice its size (<big>2N</big>) after the doubling time.<sup class="reference" id="cite_ref-afrc.uamont.edu_8-2"><a href="#cite_note-afrc.uamont.edu-8">[8]</a></sup>
+</p><p><big><b>2N<sub>t<sub>d</sub></sub> = λ<sup>t<sub>d</sub></sup> × N<sub>t</sub></b>
+<b></b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>t<sub>d</sub></b></td>
+<td>Doubling time.
+</td></tr>
+</tbody></table>
+<p><big><b>λ<sup>t<sub>d</sub></sup> = 2N<sub>t<sub>d</sub></sub> /  N<sub>t</sub></b></big>
+</p><p><b><big>λ<sup>t<sub>d</sub></sup> = 2</big></b>
+</p><p>The doubling time can be found by taking logarithms. For instance:
+</p><p><big><b>t<sub>d</sub> × log<sub>2</sub>(λ) = log<sub>2</sub>(2)</b></big>
+</p><p><big><b>log<sub>2</sub>(2) = 1</b></big>
+</p><p><big><b>t<sub>d</sub> × log<sub>2</sub>(λ) = 1</b></big>
+</p><p><b><big>t<sub>d</sub> = 1 / log<sub>2</sub>(λ)</big></b>
+</p><p>Or:
+</p><p><big><b>t<sub>d</sub> × ln(λ) = ln(2)</b></big>
+</p><p><b><big>t<sub>d</sub> = ln(2) / ln(λ)</big></b>
+</p><p><b><big>t<sub>d</sub> = 0.693... / ln(λ)</big></b>
+</p><p>Therefore:
+</p><p><b><big>t<sub>d</sub> = 1 / log<sub>2</sub>(λ) = 0.693... / ln(λ) </big></b>
+</p>
+<h3><span class="mw-headline" id="Half-life_of_geometric_populations">Half-life of geometric populations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=4" title="Edit section: Half-life of geometric populations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Half-life" title="Half-life">half-life</a> of a population is the time taken for the population to decline to half its size. We can calculate the half-life of a geometric population using the equation: <big><b>N<sub>t+1</sub> = λ<sup>t</sup>N<sub>t</sub></b></big> by exploiting our knowledge of the fact that the population (<big>N</big>) is half its size (<big>0.5N</big>) after a half-life.<sup class="reference" id="cite_ref-afrc.uamont.edu_8-3"><a href="#cite_note-afrc.uamont.edu-8">[8]</a></sup>
+</p><p><big><b>0.5N<sub>t<sub>1/2</sub></sub> = λ<sup>t<sub>1/2</sub></sup> × N<sub>t</sub></b>
+<b></b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>t<sub>1/2</sub></b></td>
+<td>Half-life.
+</td></tr>
+</tbody></table>
+<p><big><b>λ<sup>t<sub>1/2</sub></sup> = 0.5N<sub>t<sub>1/2</sub></sub> /  N<sub>t</sub></b></big>
+</p><p><b><big>λ<sup>t<sub>1/2</sub></sup> = 0.5</big></b>
+</p><p>The half-life can be calculated by taking logarithms (see above).
+</p><p><b><big>t<sub>1/2</sub> = 1 / log<sub>0.5</sub>(λ) = ln(0.5) / ln(λ) </big></b>
+</p>
+<h3><span id="Geometric_.28R.29_and_finite_.28.CE.BB.29_growth_constants"></span><span class="mw-headline" id="Geometric_(R)_and_finite_(λ)_growth_constants">Geometric (R) and finite (λ) growth constants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=5" title="Edit section: Geometric (R) and finite (λ) growth constants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Geometric_.28R.29_growth_constant"></span><span class="mw-headline" id="Geometric_(R)_growth_constant">Geometric (R) growth constant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=6" title="Edit section: Geometric (R) growth constant">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><b><big>R = b - d</big></b>
+</p><p><big><b>N<sub>t+1</sub> = N<sub>t</sub> + RN<sub>t</sub></b></big>
+</p><p><b><big>N<sub>t+1</sub> - N<sub>t</sub> = RN<sub>t</sub></big></b>
+</p><p><b><big>N<sub>t+1</sub> - N<sub>t</sub> = ΔN</big></b>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>ΔN</b></td>
+<td>Change in population size between two generations (between generation <b><sub>t+1</sub></b> and <b><sub>t</sub></b>).
+</td></tr>
+</tbody></table>
+<p><b><big>ΔN = RN<sub>t</sub></big></b>
+</p><p><b><big>ΔN/N<sub>t</sub> = R</big></b>
+</p>
+<h4><span id="Finite_.28.CE.BB.29_growth_constant"></span><span class="mw-headline" id="Finite_(λ)_growth_constant">Finite (λ) growth constant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=7" title="Edit section: Finite (λ) growth constant">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><big><b>1 + R = λ</b></big>
+</p><p><big><b>N<sub>t+1</sub> = λN<sub>t</sub></b></big>
+</p><p><big><b>λ = N<sub>t+1</sub> / N<sub>t</sub></b></big>
+</p>
+<h3><span class="mw-headline" id="Mathematical_relationship_between_geometric_and_exponential_populations">Mathematical relationship between geometric and exponential populations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=8" title="Edit section: Mathematical relationship between geometric and exponential populations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In geometric populations, <big>R</big> and <big>λ</big> represent growth constants (see <a href="/wiki/Population_ecology#Geometric_populations" title="Population ecology">2</a> and <a href="/wiki/Population_ecology#Geometric_.28R.29_and_finite_.28.CE.BB.29_growth_constants" title="Population ecology">2.3</a>). In <a href="/wiki/Exponential_growth" title="Exponential growth">exponential</a> populations however, the <a href="/wiki/Population_dynamics#Intrinsic_rate_of_increase" title="Population dynamics">intrinsic growth rate</a>, also known as <a href="/wiki/Population_dynamics#Intrinsic_rate_of_increase" title="Population dynamics">intrinsic rate of increase</a> (<big>r</big>) is the relevant growth constant. Since generations of reproduction in a geometric population do not overlap (e.g. reproduce once a year) but do in an exponential population, geometric and exponential populations are usually considered to be mutually exclusive.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> However, geometric constants and exponential constants share the mathematical relationship below.<sup class="reference" id="cite_ref-afrc.uamont.edu_8-4"><a href="#cite_note-afrc.uamont.edu-8">[8]</a></sup>
+</p><p>The growth equation for exponential populations is
+</p><p><big><b>N<sub>t</sub> = N<sub>0</sub>e<sup>rt</sup></b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>e</b></td>
+<td><a class="mw-redirect" href="/wiki/Euler%27s_number" title="Euler's number">Euler's number</a> - A <a class="mw-redirect" href="/wiki/Universal_constant" title="Universal constant">universal constant</a> often applicable in exponential equations.
+</td></tr>
+<tr>
+<td><b>r</b></td>
+<td><a href="/wiki/Population_dynamics#Intrinsic_rate_of_increase" title="Population dynamics">intrinsic growth rate</a> - also known as <a href="/wiki/Population_dynamics#Intrinsic_rate_of_increase" title="Population dynamics">intrinsic rate of increase</a>.
+</td></tr>
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Leonhard_Euler_2.jpg"><img alt="" class="thumbimage" data-file-height="767" data-file-width="614" height="275" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/220px-Leonhard_Euler_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/330px-Leonhard_Euler_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/440px-Leonhard_Euler_2.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Leonhard_Euler_2.jpg" title="Enlarge"></a></div><a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Leonhard Euler</a> was the mathematician who established the universal constant 2.71828... also known as <a class="mw-redirect" href="/wiki/Euler%27s_number" title="Euler's number">Euler's number</a> or <b>e</b>.</div></div></div>
+<p><b>Assumption:</b> <big>N<sub>t</sub></big> <i>(of a geometric population)</i> <big>=</big> <big>N<sub>t</sub></big> <i>(of an exponential population)</i>.
+</p><p>Therefore:
+</p><p><b><big>N<sub>0</sub>e<sup>rt</sup> = N<sub>0</sub>λ<sup>t</sup></big></b>
+</p><p><big><b>N<sub>0</sub></b></big> cancels on both sides.
+</p><p><b><big>N<sub>0</sub>e<sup>rt</sup> / N<sub>0</sub> = λ<sup>t</sup></big></b>
+</p><p><b><big>e<sup>rt</sup> = λ<sup>t</sup></big></b>
+</p><p>Take the <a href="/wiki/Natural_logarithm" title="Natural logarithm">natural logarithms</a> of the equation. Using natural logarithms instead of base 10 or base 2 logarithms simplifies the final equation as ln(e) = 1.
+</p><p><big><b>rt × ln(e) = t × ln(λ)</b></big>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Term</th>
+<th>Definition
+</th></tr>
+<tr>
+<td><b>ln</b></td>
+<td><a href="/wiki/Natural_logarithm" title="Natural logarithm">natural logarithm</a> - in other words <b>ln(y) = log<sub>e</sub>(y)</b> <b>= x =</b> the power (<b>x</b>) that <b>e</b> needs to be raised to (<b>e<sup>x</sup></b>) to give the answer <b>y</b>.
+<p>In this case, <b>e<sup>1</sup> = e therefore ln(e) = 1</b>.
+</p>
+</td></tr>
+</tbody></table>
+<p><big><b>rt × 1 = t × ln(λ)</b></big>
+</p><p><big><b>rt = t × ln(λ)</b></big>
+</p><p><big><b>t</b></big> cancels on both sides.
+</p><p><big><b>rt / t = ln(λ)</b></big>
+</p><p>The results:
+</p><p><big><b>r = ln(λ)</b></big>
+</p><p>and
+</p><p><big><b>e<sup>r</sup> = λ</b></big>
+</p>
+<h2><span id="r.2FK_selection"></span><span class="mw-headline" id="r/K_selection">r/K selection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=9" title="Edit section: r/K selection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/R/K_selection" title="R/K selection">r/K selection</a></div>
+<div class="quotebox pullquote floatright" style="width:25%; ;"><style data-mw-deduplicate="TemplateStyles:r856303512">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-quote left-aligned" style="">At its most elementary level, interspecific competition involves two species utilizing a similar <a href="/wiki/Resource_(biology)" title="Resource (biology)">resource</a>. It rapidly gets more complicated, but stripping the phenomenon of all its complications, this is the basic principle: two consumers consuming the same resource.<sup class="reference" id="cite_ref-Vandermeer03_5-2"><a href="#cite_note-Vandermeer03-5">[5]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>222</span></sup></div>
+</div>
+<p>An important concept in population ecology is the <a class="mw-redirect" href="/wiki/R/K_selection" title="R/K selection">r/K selection</a> theory. The first variable is <i>r</i> (the intrinsic rate of natural increase in population size, density independent) and the second variable is <i>K</i> (the carrying capacity of a population, density dependent).<sup class="reference" id="cite_ref-Begon06_15-0"><a href="#cite_note-Begon06-15">[15]</a></sup>
+An <i>r</i>-selected species (e.g., many kinds of insects, such as aphids<sup class="reference" id="cite_ref-Whitman78_16-0"><a href="#cite_note-Whitman78-16">[16]</a></sup>) is one that has high rates of fecundity, low levels of parental investment in the young, and high rates of mortality before individuals reach maturity. Evolution favors productivity in r-selected species. In contrast, a <i>K</i>-selected species (such as humans) has low rates of fecundity, high levels of parental investment in the young, and low rates of mortality as individuals mature. Evolution in <i>K</i>-selected species favors efficiency in the conversion of more <a href="/wiki/Resource_(biology)" title="Resource (biology)">resources</a> into fewer offspring.<sup class="reference" id="cite_ref-MacArthur67_17-0"><a href="#cite_note-MacArthur67-17">[17]</a></sup><sup class="reference" id="cite_ref-Pianka72_18-0"><a href="#cite_note-Pianka72-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Metapopulation">Metapopulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=10" title="Edit section: Metapopulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></div><p>
+Populations are also studied and conceptualized through the "<a href="/wiki/Metapopulation" title="Metapopulation">metapopulation</a>" concept. The metapopulation concept was introduced in 1969:<sup class="reference" id="cite_ref-Levins69_19-0"><a href="#cite_note-Levins69-19">[19]</a></sup></p><blockquote><p> "as a population of populations which go extinct locally and recolonize."<sup class="reference" id="cite_ref-Levins70_20-0"><a href="#cite_note-Levins70-20">[20]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>105</span></sup></p></blockquote><p> Metapopulation ecology is a simplified model of the landscape into patches of varying levels of quality.<sup class="reference" id="cite_ref-Hanski98_21-0"><a href="#cite_note-Hanski98-21">[21]</a></sup> Patches are either occupied or they are not. Migrants moving among the patches are structured into metapopulations either as sources or sinks. Source patches are productive sites that generate a seasonal supply of migrants to other patch locations. Sink patches are unproductive sites that only receive migrants. In metapopulation terminology there are emigrants (individuals that leave a patch) and immigrants (individuals that move into a patch). Metapopulation models examine patch dynamics over time to answer questions about spatial and demographic ecology. An important concept in metapopulation ecology is the rescue effect, where small patches of lower quality (i.e., sinks) are maintained by a seasonal influx of new immigrants. Metapopulation structure evolves from year to year, where some patches are sinks, such as dry years, and become sources when conditions are more favorable. Ecologists utilize a mixture of computer models and field studies to explain metapopulation structure.<sup class="reference" id="cite_ref-Hanski04_22-0"><a href="#cite_note-Hanski04-22">[22]</a></sup>
+</p><h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=11" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The older term, autecology (from Greek: αὐτο, <i>auto</i>, "self"; οίκος, oikos, "household"; and λόγος, logos, "knowledge"), refers to roughly the same field of study as population ecology. It derives from the division of ecology into autecology—the study of individual species in relation to the environment—and <a class="mw-redirect" href="/wiki/Community_ecology" title="Community ecology">synecology</a>—the study of groups of organisms in relation to the environment—or community ecology. Odum (1959, p. 8) considered that synecology should be divided into population ecology, community ecology, and ecosystem ecology, defining autecology as essentially "species ecology."<sup class="reference" id="cite_ref-Odum1959_1-1"><a href="#cite_note-Odum1959-1">[1]</a></sup> However, for some time biologists have recognized that the more significant level of organization of a species is a population, because at this level the species gene pool is most coherent. In fact, Odum regarded "autecology" as no longer a "present tendency" in ecology (i.e., an archaic term), although included "species ecology"—studies emphasizing <a href="/wiki/Biological_life_cycle" title="Biological life cycle">life history</a> and behavior as adaptations to the environment of individual organisms or species—as one of four subdivisions of ecology.
+</p>
+<h2><span class="mw-headline" id="Journals">Journals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=12" title="Edit section: Journals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first journal publication of the Society of Population Ecology, titled <i>Population Ecology</i> (originally called <i>Researches on Population Ecology</i>) was released in 1952.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>
+</p><p>Scientific articles on population ecology can also be found in the <i><a href="/wiki/Journal_of_Animal_Ecology" title="Journal of Animal Ecology">Journal of Animal Ecology</a></i>, <i><a href="/wiki/Oikos_(journal)" title="Oikos (journal)">Oikos</a></i> and other journals.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin columns references-column-count references-column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul><li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a class="mw-redirect" href="/wiki/Density-dependent_inhibition" title="Density-dependent inhibition">Density-dependent inhibition</a></li>
+<li><a href="/wiki/Irruptive_growth" title="Irruptive growth">Irruptive growth</a></li>
+<li><a href="/wiki/Lists_of_organisms_by_population" title="Lists of organisms by population">Lists of organisms by population</a></li>
+<li><a class="mw-redirect" href="/wiki/Overpopulation_(biology)" title="Overpopulation (biology)">Overpopulation</a></li>
+<li><a class="mw-redirect" href="/wiki/Overpopulation_in_companion_animals" title="Overpopulation in companion animals">Overpopulation in companion animals</a></li>
+<li><a href="/wiki/Overshoot_(population)" title="Overshoot (population)">Overshoot (population)</a></li>
+<li><a href="/wiki/Population_density" title="Population density">Population density</a></li>
+<li><a class="mw-redirect" href="/wiki/Population_distribution" title="Population distribution">Population distribution</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_dynamics_of_fisheries" title="Population dynamics of fisheries">Population dynamics of fisheries</a></li>
+<li><a href="/wiki/Population_genetics" title="Population genetics">Population genetics</a></li>
+<li><a href="/wiki/Population_growth" title="Population growth">Population growth</a></li>
+<li><a href="/wiki/Theoretical_ecology" title="Theoretical ecology">Theoretical ecology</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=15" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Kareiva, Peter (1989). "Renewing the Dialogue between Theory and Experiments in Population Ecology".  In Roughgarden J., R.M. May and S. A. Levin. <i>Perspectives in ecological theory</i>. New Jersey: Princeton University Press. p. 394 p.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Renewing+the+Dialogue+between+Theory+and+Experiments+in+Population+Ecology&amp;rft.btitle=Perspectives+in+ecological+theory&amp;rft.place=New+Jersey&amp;rft.pages=394+p&amp;rft.pub=Princeton+University+Press&amp;rft.date=1989&amp;rft.aulast=Kareiva&amp;rft.aufirst=Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+ecology"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book"><a href="/wiki/Eugene_Odum" title="Eugene Odum">Odum, Eugene P.</a> (1959). <i>Fundamentals of Ecology</i> (Second ed.). Philadelphia and London: W. B. Saunders Co. p. 546 p. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780721669410" title="Special:BookSources/9780721669410">9780721669410</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/554879" rel="nofollow">554879</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Ecology&amp;rft.place=Philadelphia+and+London&amp;rft.pages=546+p&amp;rft.edition=Second&amp;rft.pub=W.+B.+Saunders+Co.&amp;rft.date=1959&amp;rft_id=info%3Aoclcnum%2F554879&amp;rft.isbn=9780721669410&amp;rft.aulast=Odum&amp;rft.aufirst=Eugene+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+ecology"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Smith, Frederick E. (1952). "Experimental methods in population dynamics: a critique". <i>Ecology</i>. Ecology, Vol. 33, No. 4. <b>33</b> (4): 441–450. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2307%2F1931519" rel="nofollow">10.2307/1931519</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/1931519" rel="nofollow">1931519</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ecology&amp;rft.atitle=Experimental+methods+in+population+dynamics%3A+a+critique&amp;rft.volume=33&amp;rft.issue=4&amp;rft.pages=441-450&amp;rft.date=1952&amp;rft_id=info%3Adoi%2F10.2307%2F1931519&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1931519&amp;rft.aulast=Smith&amp;rft.aufirst=Frederick+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+ecology"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="http://www.afrc.uamont.edu/whited/Geometric%20and%20exponential%20population%20models.pdf" rel="nofollow">"Geometric and Exponential Population Models"</a> <span class="cs1-format">(PDF)</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Geometric+and+Exponential+Population+Models&amp;rft_id=http%3A%2F%2Fwww.afrc.uamont.edu%2Fwhited%2FGeometric%2520and%2520exponential%2520population%2520models.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+ecology"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_ecology&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://atlas.aaas.org/" rel="nofollow">AAAS Atlas of Population and Environment</a></li></ul>
+<div aria-labelledby="Ecology:_Modelling_ecosystems:_Trophic_components" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Ecology:_Modelling_ecosystems:_Trophic_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: <a href="/wiki/Trophic_level" title="Trophic level">Trophic</a> components</div></th></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abiotic_component" title="Abiotic component">Abiotic component</a></li>
+<li><a href="/wiki/Abiotic_stress" title="Abiotic stress">Abiotic stress</a></li>
+<li><a href="/wiki/Behavioral_ecology" title="Behavioral ecology">Behaviour</a></li>
+<li><a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">Biogeochemical cycle</a></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass</a></li>
+<li><a href="/wiki/Biotic_component" title="Biotic component">Biotic component</a></li>
+<li><a href="/wiki/Biotic_stress" title="Biotic stress">Biotic stress</a></li>
+<li><a href="/wiki/Carrying_capacity" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Competition_(biology)" title="Competition (biology)">Competition</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Ecosystem_ecology" title="Ecosystem ecology">Ecosystem ecology</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Keystone_species" title="Keystone species">Keystone species</a></li>
+<li><a href="/wiki/List_of_feeding_behaviours" title="List of feeding behaviours">List of feeding behaviours</a></li>
+<li><a href="/wiki/Metabolic_theory_of_ecology" title="Metabolic theory of ecology">Metabolic theory of ecology</a></li>
+<li><a href="/wiki/Productivity_(ecology)" title="Productivity (ecology)">Productivity</a></li>
+<li><a href="/wiki/Resource_(biology)" title="Resource (biology)">Resource</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Primary_producers" title="Primary producers">Producers</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autotroph" title="Autotroph">Autotrophs</a></li>
+<li><a href="/wiki/Chemosynthesis" title="Chemosynthesis">Chemosynthesis</a></li>
+<li><a href="/wiki/Chemotroph" title="Chemotroph">Chemotrophs</a></li>
+<li><a href="/wiki/Foundation_species" title="Foundation species">Foundation species</a></li>
+<li><a href="/wiki/Mixotroph" title="Mixotroph">Mixotrophs</a></li>
+<li><a href="/wiki/Myco-heterotrophy" title="Myco-heterotrophy">Myco-heterotrophy</a></li>
+<li><a href="/wiki/Mycotroph" title="Mycotroph">Mycotroph</a></li>
+<li><a href="/wiki/Organotroph" title="Organotroph">Organotrophs</a></li>
+<li><a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotrophs</a></li>
+<li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></li>
+<li><a href="/wiki/Photosynthetic_efficiency" title="Photosynthetic efficiency">Photosynthetic efficiency</a></li>
+<li><a href="/wiki/Phototroph" title="Phototroph">Phototrophs</a></li>
+<li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li>
+<li><a href="/wiki/Primary_production" title="Primary production">Primary production</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a class="mw-redirect" href="/wiki/Consumers_(food_chain)" title="Consumers (food chain)">Consumers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apex_predator" title="Apex predator">Apex predator</a></li>
+<li><a href="/wiki/Bacterivore" title="Bacterivore">Bacterivore</a></li>
+<li><a href="/wiki/Carnivore" title="Carnivore">Carnivores</a></li>
+<li><a class="mw-redirect" href="/wiki/Chemoorganotroph" title="Chemoorganotroph">Chemoorganotroph</a></li>
+<li><a href="/wiki/Foraging" title="Foraging">Foraging</a></li>
+<li><a href="/wiki/Generalist_and_specialist_species" title="Generalist and specialist species">Generalist and specialist species</a></li>
+<li><a href="/wiki/Intraguild_predation" title="Intraguild predation">Intraguild predation</a></li>
+<li><a href="/wiki/Herbivore" title="Herbivore">Herbivores</a></li>
+<li><a href="/wiki/Heterotroph" title="Heterotroph">Heterotroph</a></li>
+<li><a href="/wiki/Heterotrophic_nutrition" title="Heterotrophic nutrition">Heterotrophic nutrition</a></li>
+<li><a href="/wiki/Insectivore" title="Insectivore">Insectivore</a></li>
+<li><a href="/wiki/Mesopredator" title="Mesopredator">Mesopredators</a></li>
+<li><a href="/wiki/Mesopredator_release_hypothesis" title="Mesopredator release hypothesis">Mesopredator release hypothesis</a></li>
+<li><a href="/wiki/Omnivore" title="Omnivore">Omnivores</a></li>
+<li><a href="/wiki/Optimal_foraging_theory" title="Optimal foraging theory">Optimal foraging theory</a></li>
+<li><a href="/wiki/Planktivore" title="Planktivore">Planktivore</a></li>
+<li><a href="/wiki/Predation" title="Predation">Predation</a></li>
+<li><a href="/wiki/Prey_switching" title="Prey switching">Prey switching</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Decomposer" title="Decomposer">Decomposers</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Chemoorganoheterotrophy" title="Chemoorganoheterotrophy">Chemoorganoheterotrophy</a></li>
+<li><a href="/wiki/Decomposition" title="Decomposition">Decomposition</a></li>
+<li><a href="/wiki/Detritivore" title="Detritivore">Detritivores</a></li>
+<li><a href="/wiki/Detritus" title="Detritus">Detritus</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Microorganism#Habitats_and_ecology" title="Microorganism">Microorganisms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Archaea" title="Archaea">Archaea</a></li>
+<li><a href="/wiki/Bacteriophage" title="Bacteriophage">Bacteriophage</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_microbiology" title="Environmental microbiology">Environmental microbiology</a></li>
+<li><a href="/wiki/Lithoautotroph" title="Lithoautotroph">Lithoautotroph</a></li>
+<li><a href="/wiki/Lithotroph" title="Lithotroph">Lithotrophy</a></li>
+<li><a href="/wiki/Microbial_cooperation" title="Microbial cooperation">Microbial cooperation</a></li>
+<li><a href="/wiki/Microbial_ecology" title="Microbial ecology">Microbial ecology</a></li>
+<li><a href="/wiki/Microbial_food_web" title="Microbial food web">Microbial food web</a></li>
+<li><a href="/wiki/Microbial_intelligence" title="Microbial intelligence">Microbial intelligence</a></li>
+<li><a href="/wiki/Microbial_loop" title="Microbial loop">Microbial loop</a></li>
+<li><a href="/wiki/Microbial_mat" title="Microbial mat">Microbial mat</a></li>
+<li><a href="/wiki/Microbial_metabolism" title="Microbial metabolism">Microbial metabolism</a></li>
+<li><a href="/wiki/Phage_ecology" title="Phage ecology">Phage ecology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Food_web" title="Food web">Food webs</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biomagnification" title="Biomagnification">Biomagnification</a></li>
+<li><a href="/wiki/Ecological_efficiency" title="Ecological efficiency">Ecological efficiency</a></li>
+<li><a href="/wiki/Ecological_pyramid" title="Ecological pyramid">Ecological pyramid</a></li>
+<li><a href="/wiki/Energy_flow_(ecology)" title="Energy flow (ecology)">Energy flow</a></li>
+<li><a href="/wiki/Food_chain" title="Food chain">Food chain</a></li>
+<li><a href="/wiki/Trophic_level" title="Trophic level">Trophic level</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Example webs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Hydrothermal_vent#Biological_communities" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Intertidal_ecology" title="Intertidal ecology">Intertidal</a></li>
+<li><a href="/wiki/Kelp_forest#Trophic_ecology" title="Kelp forest">Kelp forests</a></li>
+<li><a href="/wiki/Lake_ecosystem#Trophic_relationships" title="Lake ecosystem">Lakes</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Pacific_Subtropical_Gyre" title="North Pacific Subtropical Gyre">North Pacific Subtropical Gyre</a></li>
+<li><a href="/wiki/River_ecosystem#Trophic_relationships" title="River ecosystem">Rivers</a></li>
+<li><a href="/wiki/Ecology_of_the_San_Francisco_Estuary#Food_web" title="Ecology of the San Francisco Estuary">San Francisco Estuary</a></li>
+<li><a href="/wiki/Soil_food_web" title="Soil food web">Soil</a></li>
+<li><a href="/wiki/Tide_pool" title="Tide pool">Tide pool</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Processes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ascendency" title="Ascendency">Ascendency</a></li>
+<li><a href="/wiki/Bioaccumulation" title="Bioaccumulation">Bioaccumulation</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a></li>
+<li><a href="/wiki/Climax_community" title="Climax community">Climax community</a></li>
+<li><a href="/wiki/Competitive_exclusion_principle" title="Competitive exclusion principle">Competitive exclusion principle</a></li>
+<li><a class="mw-redirect" href="/wiki/Consumer-resource_systems" title="Consumer-resource systems">Consumer-resource systems</a></li>
+<li><a href="/wiki/Copiotroph" title="Copiotroph">Copiotrophs</a></li>
+<li><a href="/wiki/Dominance_(ecology)" title="Dominance (ecology)">Dominance</a></li>
+<li><a href="/wiki/Ecological_network" title="Ecological network">Ecological network</a></li>
+<li><a href="/wiki/Ecological_succession" title="Ecological succession">Ecological succession</a></li>
+<li><a href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a></li>
+<li><a href="/wiki/F-ratio" title="F-ratio">f-ratio</a></li>
+<li><a href="/wiki/Feed_conversion_ratio" title="Feed conversion ratio">Feed conversion ratio</a></li>
+<li><a href="/wiki/Feeding_frenzy" title="Feeding frenzy">Feeding frenzy</a></li>
+<li><a href="/wiki/Mesotrophic_soil" title="Mesotrophic soil">Mesotrophic soil</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+<li><a href="/wiki/Oligotroph" title="Oligotroph">Oligotroph</a></li>
+<li><a href="/wiki/Paradox_of_the_plankton" title="Paradox of the plankton">Paradox of the plankton</a></li>
+<li><a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascade</a></li>
+<li><a href="/wiki/Trophic_mutualism" title="Trophic mutualism">Trophic mutualism</a></li>
+<li><a href="/wiki/Trophic_state_index" title="Trophic state index">Trophic state index</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Defense,<br/>counter</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+<li><a class="mw-redirect" href="/wiki/Antipredator_adaptation" title="Antipredator adaptation">Antipredator adaptations</a></li>
+<li><a href="/wiki/Camouflage" title="Camouflage">Camouflage</a></li>
+<li><a href="/wiki/Deimatic_behaviour" title="Deimatic behaviour">Deimatic behaviour</a></li>
+<li><a href="/wiki/Herbivore_adaptations_to_plant_defense" title="Herbivore adaptations to plant defense">Herbivore adaptations to plant defense</a></li>
+<li><a href="/wiki/Mimicry" title="Mimicry">Mimicry</a></li>
+<li><a href="/wiki/Plant_defense_against_herbivory" title="Plant defense against herbivory">Plant defense against herbivory</a></li>
+<li><a href="/wiki/Shoaling_and_schooling#Predator_avoidance" title="Shoaling and schooling">Predator avoidance in schooling fish</a></li></ul>
+</div></td></tr></tbody></table></div><div aria-labelledby="Ecology:_Modelling_ecosystems:_Other_components" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Ecology:_Modelling_ecosystems:_Other_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: Other components</div></th></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a class="mw-selflink selflink">Population<br/>ecology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abundance_(ecology)" title="Abundance (ecology)">Abundance</a></li>
+<li><a href="/wiki/Allee_effect" title="Allee effect">Allee effect</a></li>
+<li><a href="/wiki/Depensation" title="Depensation">Depensation</a></li>
+<li><a href="/wiki/Ecological_yield" title="Ecological yield">Ecological yield</a></li>
+<li><a href="/wiki/Effective_population_size" title="Effective population size">Effective population size</a></li>
+<li><a href="/wiki/Intraspecific_competition" title="Intraspecific competition">Intraspecific competition</a></li>
+<li><a href="/wiki/Logistic_function" title="Logistic function">Logistic function</a></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></li>
+<li><a class="mw-redirect" href="/wiki/Overpopulation_in_wild_animals" title="Overpopulation in wild animals">Overpopulation in wild animals</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Population_cycle" title="Population cycle">Population cycle</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a class="mw-redirect" href="/wiki/Population_modeling" title="Population modeling">Population modeling</a></li>
+<li><a href="/wiki/Population_size" title="Population size">Population size</a></li>
+<li><a href="/wiki/Lotka%E2%80%93Volterra_equations" title="Lotka–Volterra equations">Predator–prey (Lotka–Volterra) equations</a></li>
+<li><a href="/wiki/Recruitment_(biology)" title="Recruitment (biology)">Recruitment</a></li>
+<li><a class="mw-redirect" href="/wiki/Resilience_(ecology)" title="Resilience (ecology)">Resilience</a></li>
+<li><a href="/wiki/Small_population_size" title="Small population size">Small population size</a></li>
+<li><a href="/wiki/Ecological_stability" title="Ecological stability">Stability</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Species</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Density_dependence" title="Density dependence">Density-dependent inhibition</a></li>
+<li><a href="/wiki/Ecological_effects_of_biodiversity" title="Ecological effects of biodiversity">Ecological effects of biodiversity</a></li>
+<li><a href="/wiki/Ecological_extinction" title="Ecological extinction">Ecological extinction</a></li>
+<li><a class="mw-redirect" href="/wiki/Endemic_species" title="Endemic species">Endemic species</a></li>
+<li><a href="/wiki/Flagship_species" title="Flagship species">Flagship species</a></li>
+<li><a class="mw-redirect" href="/wiki/Gradient_analysis" title="Gradient analysis">Gradient analysis</a></li>
+<li><a class="mw-redirect" href="/wiki/Indicator_species" title="Indicator species">Indicator species</a></li>
+<li><a href="/wiki/Introduced_species" title="Introduced species">Introduced species</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+<li><a href="/wiki/Latitudinal_gradients_in_species_diversity" title="Latitudinal gradients in species diversity">Latitudinal gradients in species diversity</a></li>
+<li><a href="/wiki/Minimum_viable_population" title="Minimum viable population">Minimum viable population</a></li>
+<li><a href="/wiki/Unified_neutral_theory_of_biodiversity" title="Unified neutral theory of biodiversity">Neutral theory</a></li>
+<li><a href="/wiki/Occupancy%E2%80%93abundance_relationship" title="Occupancy–abundance relationship">Occupancy–abundance relationship</a></li>
+<li><a href="/wiki/Population_viability_analysis" title="Population viability analysis">Population viability analysis</a></li>
+<li><a href="/wiki/Priority_effect" title="Priority effect">Priority effect</a></li>
+<li><a href="/wiki/Rapoport%27s_rule" title="Rapoport's rule">Rapoport's rule</a></li>
+<li><a href="/wiki/Relative_abundance_distribution" title="Relative abundance distribution">Relative abundance distribution</a></li>
+<li><a href="/wiki/Relative_species_abundance" title="Relative species abundance">Relative species abundance</a></li>
+<li><a href="/wiki/Species_diversity" title="Species diversity">Species diversity</a></li>
+<li><a href="/wiki/Species_homogeneity" title="Species homogeneity">Species homogeneity</a></li>
+<li><a href="/wiki/Species_richness" title="Species richness">Species richness</a></li>
+<li><a href="/wiki/Species_distribution" title="Species distribution">Species distribution</a></li>
+<li><a class="mw-redirect" href="/wiki/Species-area_curve" title="Species-area curve">Species-area curve</a></li>
+<li><a href="/wiki/Umbrella_species" title="Umbrella species">Umbrella species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Species<br/>interaction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antibiosis" title="Antibiosis">Antibiosis</a></li>
+<li><a href="/wiki/Biological_interaction" title="Biological interaction">Biological interaction</a></li>
+<li><a href="/wiki/Commensalism" title="Commensalism">Commensalism</a></li>
+<li><a class="mw-redirect" href="/wiki/Community_ecology" title="Community ecology">Community ecology</a></li>
+<li><a href="/wiki/Ecological_facilitation" title="Ecological facilitation">Ecological facilitation</a></li>
+<li><a href="/wiki/Interspecific_competition" title="Interspecific competition">Interspecific competition</a></li>
+<li><a href="/wiki/Mutualism_(biology)" title="Mutualism (biology)">Mutualism</a></li>
+<li><a href="/wiki/Parasitism" title="Parasitism">Parasitism</a></li>
+<li><a href="/wiki/Storage_effect" title="Storage effect">Storage effect</a></li>
+<li><a href="/wiki/Symbiosis" title="Symbiosis">Symbiosis</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Spatial_ecology" title="Spatial ecology">Spatial<br/>ecology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Cross-boundary_subsidy" title="Cross-boundary subsidy">Cross-boundary subsidy</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecocline" title="Ecocline">Ecocline</a></li>
+<li><a href="/wiki/Ecotone" title="Ecotone">Ecotone</a></li>
+<li><a href="/wiki/Ecotype" title="Ecotype">Ecotype</a></li>
+<li><a href="/wiki/Disturbance_(ecology)" title="Disturbance (ecology)">Disturbance</a></li>
+<li><a href="/wiki/Edge_effects" title="Edge effects">Edge effects</a></li>
+<li><a href="/wiki/Foster%27s_rule" title="Foster's rule">Foster's rule</a></li>
+<li><a href="/wiki/Habitat_fragmentation" title="Habitat fragmentation">Habitat fragmentation</a></li>
+<li><a href="/wiki/Ideal_free_distribution" title="Ideal free distribution">Ideal free distribution</a></li>
+<li><a class="mw-redirect" href="/wiki/Intermediate_Disturbance_Hypothesis" title="Intermediate Disturbance Hypothesis">Intermediate Disturbance Hypothesis</a></li>
+<li><a class="mw-redirect" href="/wiki/Island_biogeography" title="Island biogeography">Island biogeography</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Landscape_epidemiology" title="Landscape epidemiology">Landscape epidemiology</a></li>
+<li><a href="/wiki/Landscape_limnology" title="Landscape limnology">Landscape limnology</a></li>
+<li><a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></li>
+<li><a href="/wiki/Patch_dynamics" title="Patch dynamics">Patch dynamics</a></li>
+<li><a href="/wiki/R/K_selection_theory" title="R/K selection theory">r/K selection theory</a></li>
+<li><a href="/wiki/Resource_selection_function" title="Resource selection function">Resource selection function</a></li>
+<li><a href="/wiki/Source%E2%80%93sink_dynamics" title="Source–sink dynamics">Source–sink dynamics</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Ecological_niche" title="Ecological niche">Niche</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ecological_niche" title="Ecological niche">Ecological niche</a></li>
+<li><a href="/wiki/Ecological_trap" title="Ecological trap">Ecological trap</a></li>
+<li><a href="/wiki/Ecosystem_engineer" title="Ecosystem engineer">Ecosystem engineer</a></li>
+<li><a href="/wiki/Environmental_niche_modelling" title="Environmental niche modelling">Environmental niche modelling</a></li>
+<li><a href="/wiki/Guild_(ecology)" title="Guild (ecology)">Guild</a></li>
+<li><a href="/wiki/Habitat" title="Habitat">Habitat</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li>
+<li><a href="/wiki/Limiting_similarity" title="Limiting similarity">Limiting similarity</a></li>
+<li><a href="/wiki/Niche_apportionment_models" title="Niche apportionment models">Niche apportionment models</a></li>
+<li><a href="/wiki/Niche_construction" title="Niche construction">Niche construction</a></li>
+<li><a href="/wiki/Niche_differentiation" title="Niche differentiation">Niche differentiation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Non-trophic_networks" title="Non-trophic networks">Other<br/>networks</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Assembly_rules" title="Assembly rules">Assembly rules</a></li>
+<li><a href="/wiki/Bateman%27s_principle" title="Bateman's principle">Bateman's principle</a></li>
+<li><a href="/wiki/Bioluminescence" title="Bioluminescence">Bioluminescence</a></li>
+<li><a href="/wiki/Ecological_collapse" title="Ecological collapse">Ecological collapse</a></li>
+<li><a href="/wiki/Ecological_debt" title="Ecological debt">Ecological debt</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecological_deficit" title="Ecological deficit">Ecological deficit</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecological_energetics" title="Ecological energetics">Ecological energetics</a></li>
+<li><a href="/wiki/Ecological_indicator" title="Ecological indicator">Ecological indicator</a></li>
+<li><a href="/wiki/Ecological_threshold" title="Ecological threshold">Ecological threshold</a></li>
+<li><a href="/wiki/Ecosystem_diversity" title="Ecosystem diversity">Ecosystem diversity</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Extinction_debt" title="Extinction debt">Extinction debt</a></li>
+<li><a href="/wiki/Kleiber%27s_law" title="Kleiber's law">Kleiber's law</a></li>
+<li><a href="/wiki/Liebig%27s_law_of_the_minimum" title="Liebig's law of the minimum">Liebig's law of the minimum</a></li>
+<li><a href="/wiki/Marginal_value_theorem" title="Marginal value theorem">Marginal value theorem</a></li>
+<li><a href="/wiki/Thorson%27s_rule" title="Thorson's rule">Thorson's rule</a></li>
+<li><a href="/wiki/Xerosere" title="Xerosere">Xerosere</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allometry" title="Allometry">Allometry</a></li>
+<li><a href="/wiki/Alternative_stable_state" title="Alternative stable state">Alternative stable state</a></li>
+<li><a href="/wiki/Balance_of_nature" title="Balance of nature">Balance of nature</a></li>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Cline_(biology)" title="Cline (biology)">Ecocline</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ecological_forecasting" title="Ecological forecasting">Ecological forecasting</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li><a href="/wiki/Ecological_stoichiometry" title="Ecological stoichiometry">Ecological stoichiometry</a></li>
+<li><a href="/wiki/Ecopath" title="Ecopath">Ecopath</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecosystem_based_fisheries" title="Ecosystem based fisheries">Ecosystem based fisheries</a></li>
+<li><a href="/wiki/Endolith" title="Endolith">Endolith</a></li>
+<li><a href="/wiki/Evolutionary_ecology" title="Evolutionary ecology">Evolutionary ecology</a></li>
+<li><a href="/wiki/Functional_ecology" title="Functional ecology">Functional ecology</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Macroecology" title="Macroecology">Macroecology</a></li>
+<li><a href="/wiki/Microecosystem" title="Microecosystem">Microecosystem</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Theoretical_ecology" title="Theoretical ecology">Theoretical ecology</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a class="mw-redirect" href="/wiki/List_of_ecology_topics" title="List of ecology topics">List of ecology topics</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1301
+Cached time: 20181101034131
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.756 seconds
+Real time usage: 0.898 seconds
+Preprocessor visited node count: 1710/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 86588/2097152 bytes
+Template argument size: 861/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 72395/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.331/10.000 seconds
+Lua memory usage: 4.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  591.026      1 -total
+ 59.68%  352.713      1 Template:Reflist
+ 26.28%  155.332      7 Template:Cite_book
+ 24.10%  142.444     13 Template:Cite_journal
+  8.96%   52.962      1 Template:Short_description
+  8.55%   50.540      1 Template:Pagetype
+  8.51%   50.309      1 Template:Quote_box
+  7.22%   42.662      7 Template:Cite_web
+  6.06%   35.798      1 Template:Modelling_ecosystems
+  5.40%   31.886      2 Template:Navbox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1156819-0!canonical!math=5 and timestamp 20181101034131 and revision id 866722664
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Population_ecology&amp;oldid=866722664">https://en.wikipedia.org/w/index.php?title=Population_ecology&amp;oldid=866722664</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Population_ecology" title="Category:Population ecology">Population ecology</a></li><li><a href="/wiki/Category:Applied_statistics" title="Category:Applied statistics">Applied statistics</a></li><li><a href="/wiki/Category:Population" title="Category:Population">Population</a></li><li><a href="/wiki/Category:Subfields_of_ecology" title="Category:Subfields of ecology">Subfields of ecology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Population+ecology" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Population+ecology" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Population_ecology" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Population_ecology" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Population_ecology">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Population_ecology&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Population_ecology&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Population_ecology" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Population_ecology" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Population_ecology&amp;oldid=866722664" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Population_ecology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1049866" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Population_ecology&amp;id=866722664" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Population+ecology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Population+ecology&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Population_ecology&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Population_ecology" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Population_ecology" hreflang="en">Wikiquote</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9_%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D8%B9%D9%8A" hreflang="ar" lang="ar" title="علم البيئة التجمعي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%94%D1%8D%D0%BC%D1%8D%D0%BA%D0%B0%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="be" lang="be" title="Дэмэкалогія – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Populacijska_ekologija" hreflang="bs" lang="bs" title="Populacijska ekologija – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Populations%C3%B6kologie" hreflang="de" lang="de" title="Populationsökologie – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Dem%C3%B6koloogia" hreflang="et" lang="et" title="Demökoloogia – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ecolog%C3%ADa_de_poblaciones" hreflang="es" lang="es" title="Ecología de poblaciones – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Populaciekologio" hreflang="eo" lang="eo" title="Populaciekologio – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D9%85%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%AC%D9%85%D8%B9%DB%8C%D8%AA%DB%8C" hreflang="fa" lang="fa" title="بوم‌شناسی جمعیتی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/D%C3%A9m%C3%A9cologie" hreflang="fr" lang="fr" title="Démécologie – French">Français</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B4%D5%A5%D5%B4%D5%A7%D5%AF%D5%B8%D5%AC%D5%B8%D5%A3%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Դեմէկոլոգիա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Ekologi_populasi" hreflang="id" lang="id" title="Ekologi populasi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Ecologia_della_popolazione" hreflang="it" lang="it" title="Ecologia della popolazione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D1%83%D1%82%D0%BE%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Аутоэкология – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Демэкология – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%80%8B%E4%BD%93%E7%BE%A4%E7%94%9F%E6%85%8B%E5%AD%A6" hreflang="ja" lang="ja" title="個体群生態学 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Populasjons%C3%B8kologi" hreflang="no" lang="no" title="Populasjonsøkologi – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ekologia_populacyjna" hreflang="pl" lang="pl" title="Ekologia populacyjna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Ecologia_de_popula%C3%A7%C3%B5es" hreflang="pt" lang="pt" title="Ecologia de populações – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Демэкология – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Ekologija_populacije" hreflang="sl" lang="sl" title="Ekologija populacije – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Populaatioekologia" hreflang="fi" lang="fi" title="Populaatioekologia – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="uk" lang="uk" title="Демекологія – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Sinh_th%C3%A1i_h%E1%BB%8Dc_qu%E1%BA%A7n_th%E1%BB%83" hreflang="vi" lang="vi" title="Sinh thái học quần thể – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A7%8D%E7%BE%A4%E7%94%9F%E6%80%81%E5%AD%A6" hreflang="zh" lang="zh" title="种群生态学 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1049866#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 November 2018, at 03:41<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Population_ecology&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.756","walltime":"0.898","ppvisitednodes":{"value":1710,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":86588,"limit":2097152},"templateargumentsize":{"value":861,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":72395,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  591.026      1 -total"," 59.68%  352.713      1 Template:Reflist"," 26.28%  155.332      7 Template:Cite_book"," 24.10%  142.444     13 Template:Cite_journal","  8.96%   52.962      1 Template:Short_description","  8.55%   50.540      1 Template:Pagetype","  8.51%   50.309      1 Template:Quote_box","  7.22%   42.662      7 Template:Cite_web","  6.06%   35.798      1 Template:Modelling_ecosystems","  5.40%   31.886      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.331","limit":"10.000"},"limitreport-memusage":{"value":5218019,"limit":52428800}},"cachereport":{"origin":"mw1301","timestamp":"20181101034131","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1328"});});</script>
+</body>
+</html>

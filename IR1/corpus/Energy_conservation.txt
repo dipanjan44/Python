@@ -1,0 +1,602 @@
+https://en.wikipedia.org/wiki/Energy_conservation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Energy conservation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Energy_conservation","wgTitle":"Energy conservation","wgCurRevisionId":866090512,"wgRevisionId":866090512,"wgArticleId":478933,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Webarchive template wayback links","CS1 Dutch-language sources (nl)","CS1 maint: Archived copy as title","Use dmy dates from October 2017","Wikipedia articles with GND identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Energy conservation","Energy efficiency","Energy policy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Energy_conservation","wgRelevantArticleId":478933,"wgRequestId":"W9tdCQpAAEAAAFbpDbkAAABO","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q380170","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/1/13/El-v-01_ubt.jpeg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Energy_conservation" rel="alternate"/>
+<link href="/w/index.php?title=Energy_conservation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Energy_conservation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Energy_conservation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Energy_conservation rootpage-Energy_conservation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Energy conservation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Energy conservation</b> is the effort made to reduce the <a href="/wiki/Energy_consumption" title="Energy consumption">consumption of energy</a> by using less of an energy service. This can be achieved either by <a href="/wiki/Efficient_energy_use" title="Efficient energy use">using energy more efficiently</a> (using less energy for a constant service) or by reducing the amount of service used (for example, by driving less). Energy conservation is a part of the concept of <a href="/wiki/Eco-sufficiency" title="Eco-sufficiency">eco-sufficiency</a>. Energy conservation reduces the need for energy services and can result in increased <a href="/wiki/Natural_environment" title="Natural environment">environmental</a> quality, <a href="/wiki/National_security" title="National security">national security</a>, <a class="mw-redirect" href="/wiki/Personal_security" title="Personal security">personal financial security</a> and higher savings.<sup class="reference" id="cite_ref-zehner-2011_1-0"><a href="#cite_note-zehner-2011-1">[1]</a></sup>
+It is at the top of the sustainable <a href="/wiki/Energy_hierarchy" title="Energy hierarchy">energy hierarchy</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+It also lowers energy costs by preventing future <a href="/wiki/Resource_depletion" title="Resource depletion">resource depletion</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>Energy can be conserved by reducing wastage and losses, improving efficiency through technological upgrades and improved operation and maintenance. On a global level energy use can also be reduced by the stabilisation of <a href="/wiki/Population_growth" title="Population growth">population growth</a>.
+</p><p>Energy can only be transformed from one form to other, such as heat energy to motive power in cars, or kinetic energy of water flow to electricity in hydroelectric power plants. However machines are required to transform energy from one form to other. The wear and friction of the components of these machine while running cause loss of quadrillions of BTU and $500 billions in industries only in USA. It is possible to minimize these losses by adopting green engineering practices to improve life cycle of the components.(Ref.R.Chattopadhyay:Green Tribology, Green Surface Engineering and Global Warming', ASM International,USA, 2014. Also  3 books by same author published earlier on wear, surface engineering and global warming.)        
+
+</p>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:17.5em;"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series about</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:El-v-01_ubt.jpeg" title="Wind turbines near Vendsyssel, Denmark (2004)"><img alt="Wind turbines near Vendsyssel, Denmark (2004)" data-file-height="245" data-file-width="588" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/180px-El-v-01_ubt.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/270px-El-v-01_ubt.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/El-v-01_ubt.jpeg/360px-El-v-01_ubt.jpeg 2x" width="180"/></a></td></tr><tr><th style="padding:0.1em;background:#c8ffb8;">
+<a class="mw-selflink selflink">Energy conservation</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Energy_storage" title="Energy storage">Energy storage</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green building</a></li>
+<li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Heat pump</a></li>
+<li><a href="/wiki/Low-carbon_power" title="Low-carbon power">Low-carbon power</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#c8ffb8;">
+<a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">Anaerobic digestion</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#c8ffb8;">
+<a href="/wiki/Sustainable_transport" title="Sustainable transport">Sustainable transport</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Electric_vehicle" title="Electric vehicle">Electric vehicle</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li>
+<li><a href="/wiki/Green_vehicle" title="Green vehicle">Green vehicle</a></li>
+<li><a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">Plug-in hybrid</a></li></ul></td>
+</tr><tr><td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding-top:0;border-top:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;font-size:90%;white-space:nowrap;">
+<div style="height:1.5em;padding-left:0.4em;"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" class="noviewer" data-file-height="510" data-file-width="800" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/16px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png 2x" width="16"/></a> <a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></div>
+<div style="padding-left:0.4em;">
+<ul><li><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="Wind-turbine-icon.svg" class="noviewer" data-file-height="128" data-file-width="128" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/16px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/24px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/32px-Wind-turbine-icon.svg.png 2x" width="16"/></a> <a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></li>
+<li><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="Aegopodium podagraria1 ies.jpg" class="noviewer" data-file-height="700" data-file-width="800" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/16px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg 2x" width="16"/></a> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li></ul>
+</div></td></tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainable_energy" title="Template:Sustainable energy"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainable_energy" title="Template talk:Sustainable energy"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainable_energy&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Energy_tax"><span class="tocnumber">1</span> <span class="toctext">Energy tax</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Building_design"><span class="tocnumber">2</span> <span class="toctext">Building design</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Transportation"><span class="tocnumber">3</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Consumer_products"><span class="tocnumber">4</span> <span class="toctext">Consumer products</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Energy_conservation_by_country"><span class="tocnumber">5</span> <span class="toctext">Energy conservation by country</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Asia"><span class="tocnumber">5.1</span> <span class="toctext">Asia</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#European_Union"><span class="tocnumber">5.2</span> <span class="toctext">European Union</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#India"><span class="tocnumber">5.3</span> <span class="toctext">India</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Japan"><span class="tocnumber">5.4</span> <span class="toctext">Japan</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Lebanon"><span class="tocnumber">5.5</span> <span class="toctext">Lebanon</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Nepal"><span class="tocnumber">5.6</span> <span class="toctext">Nepal</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#New_Zealand"><span class="tocnumber">5.7</span> <span class="toctext">New Zealand</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Nigeria"><span class="tocnumber">5.8</span> <span class="toctext">Nigeria</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Sri_Lanka"><span class="tocnumber">5.9</span> <span class="toctext">Sri Lanka</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Turkey"><span class="tocnumber">5.10</span> <span class="toctext">Turkey</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#United_States"><span class="tocnumber">5.11</span> <span class="toctext">United States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Energy_tax">Energy tax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=1" title="Edit section: Energy tax">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some countries employ <a href="/wiki/Energy_tax" title="Energy tax">energy</a> or <a class="mw-redirect" href="/wiki/Carbon_taxes" title="Carbon taxes">carbon taxes</a> to motivate energy users to reduce their consumption. Carbon taxes can force consumption to shift to nuclear power and other energy sources that carry different sets of environmental side effects and limitations. On the other hand, taxes on all energy consumption can reduce energy use across the board while reducing a broader array of environmental consequences arising from energy production. The state of California employs a tiered energy tax whereby every consumer receives a baseline energy allowance that carries a low tax. As usage increases above that baseline, the tax increases drastically. Such programs aim to protect poorer households while creating a larger tax burden for high energy consumers.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Building_design">Building design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=2" title="Edit section: Building design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:102px;"><a class="image" href="/wiki/File:Light_switch_with_passive_infrared_sensor.jpg"><img alt="" class="thumbimage" data-file-height="3001" data-file-width="2251" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Light_switch_with_passive_infrared_sensor.jpg/100px-Light_switch_with_passive_infrared_sensor.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Light_switch_with_passive_infrared_sensor.jpg/150px-Light_switch_with_passive_infrared_sensor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Light_switch_with_passive_infrared_sensor.jpg/200px-Light_switch_with_passive_infrared_sensor.jpg 2x" width="100"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Light_switch_with_passive_infrared_sensor.jpg" title="Enlarge"></a></div><a href="/wiki/Occupancy_sensor" title="Occupancy sensor">Occupancy sensors</a> can conserve energy by turning off appliances in unoccupied rooms.<sup class="reference" id="cite_ref-calif_5-0"><a href="#cite_note-calif-5">[5]</a></sup></div></div></div>
+<p>One of the primary ways to improve energy conservation in buildings is to perform an <a href="/wiki/Energy_audit" title="Energy audit">energy audit</a>. An energy audit is an <a href="/wiki/Inspection" title="Inspection">inspection</a> and analysis of energy use and flows for energy conservation in a building, process or system with an eye toward reducing energy input without negatively affecting output. This is normally accomplished by trained professionals and can be part of some of the national programs discussed above. Recent development of <a href="/wiki/Smartphone" title="Smartphone">smartphone</a> apps enables homeowners to complete relatively sophisticated energy audits themselves.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Building technologies and smart meters can allow energy users, both commercial and residential, to visualize the impact their energy use can have in their workplace or homes. Advanced real-time energy metering can help people save energy by their actions.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Illust_passive_solar_d1.gif"><img alt="" class="thumbimage" data-file-height="216" data-file-width="319" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Illust_passive_solar_d1.gif/220px-Illust_passive_solar_d1.gif" srcset="//upload.wikimedia.org/wikipedia/commons/4/49/Illust_passive_solar_d1.gif 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Illust_passive_solar_d1.gif" title="Enlarge"></a></div>Elements of passive solar design, shown in a direct gain application</div></div></div>
+<p>In <a href="/wiki/Passive_solar_building_design" title="Passive solar building design">passive solar building design</a>, windows, walls, and floors are made to collect, store, and distribute <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a> in the form of heat in the winter and reject solar heat in the summer. This is called passive solar design or climatic design because, unlike active <a class="mw-redirect" href="/wiki/Solar_heating" title="Solar heating">solar heating</a> systems, it does not involve the use of mechanical and electrical devices.
+</p><p>The key to designing a passive solar building is to best take advantage of the local <a href="/wiki/Climate" title="Climate">climate</a>. Elements to be considered include window placement and glazing type, <a href="/wiki/Thermal_insulation" title="Thermal insulation">thermal insulation</a>, <a href="/wiki/Thermal_mass" title="Thermal mass">thermal mass</a>, and shading. Passive solar design techniques can be applied most easily to new buildings, but existing buildings can be retrofitted.
+</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=3" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Carfree_city" title="Carfree city">Carfree_city</a></div>
+<p>In the United States, suburban infrastructure evolved during an age of relatively easy access to fossil fuels, which has led to transportation-dependent systems of living. Zoning reforms that allow greater <a href="/wiki/Urban_density" title="Urban density">urban density</a> as well as designs for walking and bicycling can greatly reduce energy consumed for transportation. The use of telecommuting by major corporations is a significant opportunity to conserve energy, as many Americans now work in service jobs that enable them to work from home instead of commuting to work each day.
+</p>
+<h2><span class="mw-headline" id="Consumer_products">Consumer products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=4" title="Edit section: Consumer products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Assorted_LED_Lamps.jpg"><img alt="" class="thumbimage" data-file-height="1425" data-file-width="2043" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Assorted_LED_Lamps.jpg/220px-Assorted_LED_Lamps.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Assorted_LED_Lamps.jpg/330px-Assorted_LED_Lamps.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Assorted_LED_Lamps.jpg/440px-Assorted_LED_Lamps.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Assorted_LED_Lamps.jpg" title="Enlarge"></a></div>An assortment of energy-efficient semiconductor (LED) lamps for commercial and residential lighting use. LED lamps use at least 75% less energy, and last 25 times longer, than traditional incandescent light bulbs.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></div></div></div>
+<p>Consumers are often poorly informed of the savings of energy efficient products.  A prominent example of this is the energy savings that can be made by replacing an <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">incandescent light bulb</a> with a more modern alternative.  When purchasing light bulbs, many consumers opt for cheap incandescent bulbs, failing to take into account their higher energy costs and lower lifespans when compared to modern <a href="/wiki/Compact_fluorescent_lamp" title="Compact fluorescent lamp">compact fluorescent</a> and <a href="/wiki/LED_lamp" title="LED lamp">LED bulbs</a>.  Although these energy-efficient alternatives have a higher upfront cost, their long lifespan and low energy use can save consumers a considerable amount of money.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> The price of LED bulbs has also been steadily decreasing in the past five years due to improvements in semiconductor technology.  Many LED bulbs on the market qualify for utility rebates that further reduce the price of purchase to the consumer.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Estimates by the U.S. Department of Energy state that widespread adoption of LED lighting over the next 20 years could result in about $265 billion worth of savings in United States energy costs.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>The research one must put into conserving energy is often too time consuming and costly for the average consumer when there are cheaper products and technology available using today's fossil fuels.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> Some governments and NGOs are attempting to reduce this complexity with <a href="/wiki/Ecolabel" title="Ecolabel">ecolabels</a> that make differences in energy efficiency easy to research while shopping.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>To provide the kind of information and support people need to invest money, time and effort in energy conservation, it is important to understand and link to people's topical concerns.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> For instance, some retailers argue that bright <a href="/wiki/Lighting" title="Lighting">lighting</a> stimulates purchasing. However, health studies have demonstrated that headache, <a class="mw-redirect" href="/wiki/Stress_(medicine)" title="Stress (medicine)">stress</a>, <a href="/wiki/Blood_pressure" title="Blood pressure">blood pressure</a>, fatigue and worker error all generally increase with the common <a class="mw-redirect" href="/wiki/Over-illumination" title="Over-illumination">over-illumination</a> present in many workplace and retail settings.<sup class="reference" id="cite_ref-Davis_15-0"><a href="#cite_note-Davis-15">[15]</a></sup><sup class="reference" id="cite_ref-Bain_16-0"><a href="#cite_note-Bain-16">[16]</a></sup> It has been shown that natural <a href="/wiki/Daylighting" title="Daylighting">daylighting</a> increases productivity levels of workers, while reducing energy consumption.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p><p>In warm climates where air conditioning is used, any household device that gives off heat will result in a larger load on the cooling system. Items such as stoves, dish washers, clothes dryers, hot water and incandescent lighting all add heat to the home. Low-power or insulated versions of these devices give off less heat for the air conditioning to remove. The air conditioning system can also improve in efficiency by using a heat sink that is cooler than the standard air heat exchanger, such as geothermal or water.
+</p><p>In cold climates, heating air and water is a major demand on household energy use. Significant energy reductions are possible by using different technologies. <a href="/wiki/Heat_pump" title="Heat pump">Heat pumps</a> are a more efficient alternative to electrical resistance heaters for warming air or water. A variety of efficient <a href="/wiki/Clothes_dryer" title="Clothes dryer">clothes dryers</a> are available, and the <a href="/wiki/Clothes_line" title="Clothes line">clothes lines</a> requires no energy- only time. Natural-gas <a href="/wiki/Condensing_boiler" title="Condensing boiler">condensing boilers</a> and hot-air furnaces increase efficiency over standard hot-flue models. New construction implementing <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchangers</a> can capture heat from waste water or exhaust air in bathrooms, laundry and kitchens.
+</p><p>In both warm and cold climate extremes, airtight thermal <a href="/wiki/Building_insulation" title="Building insulation">insulated construction</a> is the largest factor determining the efficiency of a home. Insulation is added to minimize the flow of heat to or from the home, but can be labor-intensive to retrofit to an existing home.
+</p>
+<h2><span class="mw-headline" id="Energy_conservation_by_country">Energy conservation by country</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=5" title="Edit section: Energy conservation by country">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Asia">Asia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=6" title="Edit section: Asia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite the vital role energy efficiency is expected to play in cost-effectively cutting energy demand, only a small part of its economic potential is exploited in the Asia. Governments have implemented a range of subsidies such as cash grants, cheap credit, tax exemptions, and co-financing with public-sector funds to encourage a range of energy-efficiency initiatives across several sectors. Governments in the Asia-Pacific region have implemented a range of information provision and labeling programs for buildings, appliances, and the transportation and industrial
+sectors. Information programs can simply provide data, such as fuel-economy labels, or actively seek to encourage behavioral changes, such as Japan's <a href="/wiki/Cool_Biz_campaign" title="Cool Biz campaign">Cool Biz campaign</a> that encourages setting air conditioners at 28-degrees Celsius and allowing employees to dress casually in the summer.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p>
+<h3><span class="mw-headline" id="European_Union">European Union</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=7" title="Edit section: European Union">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the end of 2006, the <a href="/wiki/European_Union" title="European Union">European Union</a> (EU) pledged to cut its annual consumption of primary energy by 20% by 2020.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> The 'European Union Energy Efficiency Action Plan' is long-awaited. Directive 2012/27/EU is on energy efficiency.<sup class="reference" id="cite_ref-directive-2012-27-eu_21-0"><a href="#cite_note-directive-2012-27-eu-21">[21]</a></sup>
+</p><p>As part of the EU's SAVE Programme,<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> aimed at promoting energy efficiency and encouraging energy-saving behavior, the <a href="/wiki/Boiler" title="Boiler">Boiler</a> Efficiency Directive<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> specifies minimum levels of efficiency for boilers utilizing liquid or gaseous fuels.
+</p>
+<h3><span class="mw-headline" id="India">India</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=8" title="Edit section: India">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Petroleum_Conservation_Research_Association" title="Petroleum Conservation Research Association">Petroleum Conservation Research Association</a> (PCRA) is an Indian governmental body created in 1978 that engages in promoting energy efficiency and conservation in every walk of life. In the recent past PCRA has done mass-media campaigns in television, radio, and print media. An impact-assessment survey by a third party revealed that due to these larger campaigns by PCRA, the public's overall awareness level has gone up leading to saving of fossil fuels worth crores of rupees, besides reducing pollution.
+</p><p>The <a href="/wiki/Bureau_of_Energy_Efficiency" title="Bureau of Energy Efficiency">Bureau of Energy Efficiency</a> is an Indian government organization created in 2001 that is responsible for promoting energy efficiency and conservation.
+</p>
+<h3><span class="mw-headline" id="Japan">Japan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=9" title="Edit section: Japan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:03-05-JPN153.jpg"><img alt="" class="thumbimage" data-file-height="1280" data-file-width="960" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/03-05-JPN153.jpg/170px-03-05-JPN153.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/03-05-JPN153.jpg/255px-03-05-JPN153.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/03-05-JPN153.jpg/340px-03-05-JPN153.jpg 2x" width="170"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:03-05-JPN153.jpg" title="Enlarge"></a></div><b>Advertising with high energy in Shinjuku, Japan.</b></div></div></div>
+<p>Since the <a href="/wiki/1973_oil_crisis" title="1973 oil crisis">1973 oil crisis</a>, energy conservation has been an issue in Japan. All oil-based fuel is imported, so domestic <a href="/wiki/Sustainable_energy" title="Sustainable energy">sustainable energy</a> is being developed.
+</p><p>The Energy Conservation Center<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> promotes energy efficiency in every aspect of Japan. Public entities are implementing the efficient use of energy for industries and research. It includes projects such as the Top Runner Program.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> In this project, new appliances are regularly tested on efficiency, and the most efficient ones are made the standard.
+</p>
+<h3><span class="mw-headline" id="Lebanon">Lebanon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=10" title="Edit section: Lebanon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Lebanon and since 2002 <a class="mw-redirect" href="/wiki/The_Lebanese_Center_for_Energy_Conservation" title="The Lebanese Center for Energy Conservation">The Lebanese Center for Energy Conservation (LCEC)</a> has been promoting the development of efficient and rational uses of energy and the use of renewable energy at the consumer level. It was created as a project financed by the International Environment Facility (GEF) and the Ministry of Energy Water (MEW) under the management of the United Nations Development Programme (UNDP) and gradually established itself as an independent technical national center although it continues to be supported by the United Nations Development Programme (UNDP) as indicated in the Memorandum of Understanding (MoU) signed between MEW and UNDP on 18 June 2007.
+</p>
+<h3><span class="mw-headline" id="Nepal">Nepal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=11" title="Edit section: Nepal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Until recently, <a href="/wiki/Nepal" title="Nepal">Nepal</a> has been focusing on the exploitation of its huge water resources to produce hydro power. Demand side management and energy conservation was not in the focus of government action. In 2009, bilateral Development Cooperation between Nepal and the Federal Republic of Germany, has agreed upon the joint implementation of "Nepal Energy Efficiency Programme". The lead executing agencies for the implementation are the Water and Energy Commission Secretariat (WECS). The aim of the programme is the promotion of energy efficiency in policy making, in rural and urban households as well as in the industry.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+Due to the lack of a government organization that promotes energy efficiency in the country, the <a class="mw-redirect" href="/wiki/Federation_of_Nepalese_Chambers_of_Commerce_and_Industry_(FNCCI)" title="Federation of Nepalese Chambers of Commerce and Industry (FNCCI)">Federation of Nepalese Chambers of Commerce and Industry (FNCCI)</a> has established the Energy Efficiency Centre under his roof to promote energy conservation in the private sector. The Energy Efficiency Centre is a non-profit initiative that is offering energy auditing services to the industries. The Centre is also supported by Nepal Energy Efficiency Programme of <a href="/wiki/Deutsche_Gesellschaft_f%C3%BCr_Internationale_Zusammenarbeit" title="Deutsche Gesellschaft für Internationale Zusammenarbeit">Deutsche Gesellschaft für Internationale Zusammenarbeit</a>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+A study conducted in 2012 found out that Nepalese industries could save 160,000 Megawatt hours of electricity and 8,000 Terajoule of thermal energy (like diesel, furnace oil and coal) every year. These savings are equivalent to annual energy cost cut of up to 6.4 Billion Nepalese Rupees.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+As a result of Nepal Economic Forum 2014,<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> an economic reform agenda in the priority sectors was declared focusing on energy conservation among others. In the energy reform agenda the government of Nepal gave the commitment to introduce incentive packages in the budget of the fiscal year 2015/16 for industries that practices energy efficiency or use efficient technologies (incl. cogeneration).<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p>
+<h3><span class="mw-headline" id="New_Zealand">New Zealand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=12" title="Edit section: New Zealand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> the <a href="/wiki/Energy_Efficiency_and_Conservation_Authority" title="Energy Efficiency and Conservation Authority">Energy Efficiency and Conservation Authority</a> is the Government Agency responsible for promoting energy efficiency and conservation.  The <i><b>Energy Management Association of New Zealand</b></i> is a membership based organization representing the New Zealand energy services sector, providing training and accreditation services with the aim of ensuring energy management services are credible and dependable.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Nigeria">Nigeria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=13" title="Edit section: Nigeria">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Nigeria, the Lagos State Government is encouraging Lagosians to imbibe an energy conservation culture. The Lagos State Electricity Board (LSEB)<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> is spearheading an initiative tagged "Conserve Energy, Save Money" under the Ministry of Energy and Mineral Resources. The initiative is designed to sensitize Lagosians around the theme of energy conservation by connecting with and influencing their behavior through do-it-yourself tips<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup> and exciting interaction with prominent personalities. In September 2013, <a href="/wiki/Babatunde_Fashola" title="Babatunde Fashola">Governor Babatunde Raji Fashola</a> of Lagos State and rapper Jude 'MI'  Abaga (campaign ambassador)(<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup>) participated in the Governor's first ever Google+ Hangout<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup> on the topic of energy conservation.
+</p><p>In addition to the hangout, during the month of October (the official energy conservation month in the state), LSEB hosted experience centers in malls around Lagos State where members of the public were encouraged to calculate their current household energy consumption and discover ways to save money using the 1st-ever consumer-focused energy app in sub-saharan Africa.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup> To get Lagosians started on energy conservation, Solar Lamps and Phillips Energy-saving bulbs were also given out at each experience center.
+Pictures from the experience centers: (part of Lagos state government energy initiatives)
+</p>
+<h3><span class="mw-headline" id="Sri_Lanka">Sri Lanka</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=14" title="Edit section: Sri Lanka">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sri Lanka currently consumes <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuels</a>, <a href="/wiki/Hydroelectricity" title="Hydroelectricity">hydro power</a>, <a href="/wiki/Wind_power" title="Wind power">wind power</a>, <a href="/wiki/Solar_power" title="Solar power">solar power</a> and <a href="/wiki/Energy_crop" title="Energy crop">dendro power</a> for their day to day power generation. The <a href="/wiki/Sri_Lanka_Sustainable_Energy_Authority" title="Sri Lanka Sustainable Energy Authority">Sri Lanka Sustainable Energy Authority</a> is playing a major role regarding energy management and energy conservation. Today, most of the industries are requested to reduce their energy consumption by using renewable energy sources and optimizing their energy usage.
+</p>
+<h3><span class="mw-headline" id="Turkey">Turkey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=15" title="Edit section: Turkey">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Turkey" title="Turkey">Turkey</a> aims to decrease by at least 20% the amount of energy consumed per GDP of Turkey by the year 2023 (energy intensity).<sup class="reference" id="cite_ref-TR1_38-0"><a href="#cite_note-TR1-38">[38]</a></sup>
+</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=16" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Energy_conservation_in_the_United_States" title="Energy conservation in the United States">Energy conservation in the United States</a></div>
+<p><a class="image" href="/wiki/File:USEnFlow02-quads.gif"><img alt="USEnFlow02-quads.gif" data-file-height="560" data-file-width="700" height="560" src="//upload.wikimedia.org/wikipedia/commons/4/4e/USEnFlow02-quads.gif" width="700"/></a>
+The United States is currently the second largest single consumer of energy, following China. The <a class="mw-redirect" href="/wiki/U.S._Department_of_Energy" title="U.S. Department of Energy">U.S. Department of Energy</a> categorizes national energy use in four broad sectors: transportation, residential, commercial, and industrial.<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup>
+</p><p>Energy usage in transportation and residential sectors, about half of U.S. energy consumption, is largely controlled by individual consumers. Commercial and industrial energy expenditures are determined by businesses entities and other facility managers. National energy policy has a significant effect on energy usage across all four sectors.
+</p><p>Another aspect of energy conversation is using Leadership in Energy and Environmental Design. (LEED) This program is not mandatory, it is voluntary. This program has many categories, Energy and Atmosphere Prerequisite, applies to energy conservation. This section focuses on energy performance, renewable energy, energy performance, and many more. This program is designed to promote energy efficiency and be a green building, which is part of conservation. As mention above “energy conservation are efforts made to reduce the consumption of energy.” 
+<br/>
+<cite class="citation book"><a href="/wiki/U.S._Green_Building_Council" title="U.S. Green Building Council">U.S. Green Building Council</a> (2013). <i>LEED Reference Guide for Building Design and Construction</i> (v4 ed.). U.S. Green Building Council. p. 318-466. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1932444181" title="Special:BookSources/1932444181">1932444181</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=LEED+Reference+Guide+for+Building+Design+and+Construction&amp;rft.pages=318-466&amp;rft.edition=v4&amp;rft.pub=U.S.+Green+Building+Council&amp;rft.date=2013&amp;rft.isbn=1932444181&amp;rft.au=U.S.+Green+Building+Council&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conservation"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style>
+<br/>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul><li><a class="mw-redirect" href="/wiki/Annual_fuel_use_efficiency" title="Annual fuel use efficiency">Annual fuel use efficiency</a></li>
+<li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_conservation_law" title="Energy conservation law">Energy conservation law</a></li>
+<li><a href="/wiki/Energy_crisis" title="Energy crisis">Energy crisis</a></li>
+<li><a href="/wiki/Energy_monitoring_and_targeting" title="Energy monitoring and targeting">Energy monitoring and targeting</a></li>
+<li><a href="/wiki/Energy_recovery" title="Energy recovery">Energy recovery</a></li>
+<li><a class="mw-redirect" href="/wiki/EU_Energy_Efficiency_Directive_2012/27/EU" title="EU Energy Efficiency Directive 2012/27/EU">EU Energy Efficiency Directive 2012/27/EU</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Green computing</a></li>
+<li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li>
+<li><a class="mw-redirect" href="/wiki/High-temperature_insulation_wool" title="High-temperature insulation wool">High-temperature insulation wool</a></li>
+<li><a href="/wiki/Jevons_paradox" title="Jevons paradox">Jevons paradox</a></li>
+<li><a href="/wiki/Khazzoom%E2%80%93Brookes_postulate" title="Khazzoom–Brookes postulate">Khazzoom–Brookes postulate</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/List_of_low-energy_building_techniques" title="List of low-energy building techniques">List of low-energy building techniques</a></li>
+<li><a href="/wiki/Low_Carbon_Communities" title="Low Carbon Communities">Low Carbon Communities</a></li>
+<li><a href="/wiki/Marine_fuel_management" title="Marine fuel management">Marine fuel management</a></li>
+<li><a href="/wiki/Minimum_energy_performance_standard" title="Minimum energy performance standard">Minimum energy performance standard</a></li>
+<li><a href="/wiki/One_Watt_Initiative" title="One Watt Initiative">One Watt Initiative</a></li>
+<li><a href="/wiki/Overconsumption" title="Overconsumption">Overconsumption</a></li>
+<li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li>
+<li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li>
+<li><a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a></li>
+<li><a href="/wiki/Superinsulation" title="Superinsulation">Superinsulation</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+<li><a class="new" href="/w/index.php?title=Universal_Metering_Interface&amp;action=edit&amp;redlink=1" title="Universal Metering Interface (page does not exist)">Universal Metering Interface</a> (UMI)</li>
+<li><a href="/wiki/Window_film" title="Window film">Window film</a></li>
+<li><a href="/wiki/Zero-energy_building" title="Zero-energy building">Zero-energy building</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=19" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>GA Mansoori, N Enayati, LB Agyarko (2016), <a class="external text" href="http://www.worldscientific.com/worldscibooks/10.1142/9699" rel="nofollow">Energy: Sources, Utilization, Legislation, Sustainability, Illinois as Model State</a>, World Sci. Pub. Co., <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-981-4704-00-7" title="Special:BookSources/978-981-4704-00-7">978-981-4704-00-7</a></li>
+<li>Alexeew, Johannes; Carolin Anders and Hina Zia (2015): <a class="external text" href="http://www.adelphi.de/en/publications/dok/43509.php?pid=1971" rel="nofollow">Energy-efficient buildings – a business case for India? An analysis of incremental costs for four building projects of the Energy-Efficient Homes Programme</a>. Berlin/New Delhi: adelphi/TERI</li>
+<li>Gary Steffy, <i>Architectural Lighting Design</i>, John Wiley and Sons (2001) <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-38638-3" title="Special:BookSources/0-471-38638-3">0-471-38638-3</a></li>
+<li>Lumina Technologies, <i>Analysis of energy consumption in a San Francisco Bay Area research office complex</i>, for (confidential) owner, Santa Rosa, Ca. 17 May 1996</li>
+<li><cite class="citation web">Robb, Drew (2 June 2007). <a class="external text" href="https://web.archive.org/web/20081225225228/http://www.gcn.com/print/26_13/44402-1.html" rel="nofollow">"GSA paves way for IT-based buildings – Government Computer News"</a>. Gcn.com. Archived from <a class="external text" href="http://www.gcn.com/print/26_13/44402-1.html" rel="nofollow">the original</a> on 25 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GSA+paves+way+for+IT-based+buildings+%E2%80%93+Government+Computer+News&amp;rft.pub=Gcn.com&amp;rft.date=2007-06-02&amp;rft.aulast=Robb&amp;rft.aufirst=Drew&amp;rft_id=http%3A%2F%2Fwww.gcn.com%2Fprint%2F26_13%2F44402-1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+conservation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_conservation&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="400" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a class="extiw" href="https://en.wikibooks.org/wiki/How_to_reduce_home_energy_usage" title="wikibooks:How to reduce home energy usage">How to reduce home energy usage</a></b></i></td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.bigee.net/" rel="nofollow">bigEE – Your guide to energy efficiency in buildings</a></li>
+<li><a class="external text" href="http://www.energysavingtrust.org.uk/" rel="nofollow">Energy saving advice and grants for UK consumers</a></li>
+<li><a class="external text" href="http://www.energysavers.gov/" rel="nofollow">Energy efficiency and renewable energy</a> at the <a class="mw-redirect" href="/wiki/U.S._Department_of_Energy" title="U.S. Department of Energy">U.S. Department of Energy</a></li>
+<li><a class="external text" href="http://www.energystar.gov/index.cfm?c=business.bus_index" rel="nofollow">EnergyStar</a> – for commercial buildings and plants</li>
+<li><a class="external text" href="https://web.archive.org/web/20120425090738/http://www.atlantic-times.com/archive_detail.php?recordID=1075" rel="nofollow">Ulrich Hottelet: Want to Save the Earth? Pick a Clothesline</a>, Atlantic Times, November 2007</li>
+<li><a class="external text" href="http://www.adb.org/features/12-things-know-2012-energy-efficiency" rel="nofollow">Energy Efficiency in Asia and the Pacific</a> Asian Development Bank</li></ul>
+<div aria-labelledby="Energy" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Footer_energy" title="Template:Footer energy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Footer_energy" title="Template talk:Footer energy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Footer_energy&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Energy" style="font-size:114%;margin:0 4em"><a href="/wiki/Energy" title="Energy">Energy</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fundamental concepts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Outline_of_energy" title="Outline of energy">Outline of energy</a></li>
+<li><a href="/wiki/Energy" title="Energy">Energy</a>
+<ul><li><a href="/wiki/Units_of_energy" title="Units of energy">Units</a></li></ul></li>
+<li><a href="/wiki/Conservation_of_energy" title="Conservation of energy">Conservation of energy</a></li>
+<li><a href="/wiki/Energetics" title="Energetics">Energetics</a></li>
+<li><a href="/wiki/Energy_transformation" title="Energy transformation">Energy transformation</a></li>
+<li><a href="/wiki/Energy_condition" title="Energy condition">Energy condition</a></li>
+<li><a href="/wiki/Energy_transition" title="Energy transition">Energy transition</a></li>
+<li><a href="/wiki/Energy_level" title="Energy level">Energy level</a></li>
+<li><a href="/wiki/Energy_system" title="Energy system">Energy system</a></li>
+<li><a href="/wiki/Mass" title="Mass">Mass</a>
+<ul><li><a href="/wiki/Negative_mass" title="Negative mass">Negative mass</a></li>
+<li><a href="/wiki/Mass%E2%80%93energy_equivalence" title="Mass–energy equivalence">Mass–energy equivalence</a></li></ul></li>
+<li><a href="/wiki/Power_(physics)" title="Power (physics)">Power</a></li>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a>
+<ul><li><a href="/wiki/Quantum_thermodynamics" title="Quantum thermodynamics">Quantum thermodynamics</a></li>
+<li><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws of thermodynamics</a></li>
+<li><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Thermodynamic system</a></li>
+<li><a href="/wiki/Thermodynamic_state" title="Thermodynamic state">Thermodynamic state</a></li>
+<li><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Thermodynamic potential</a></li>
+<li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Thermodynamic free energy</a></li>
+<li><a href="/wiki/Irreversible_process" title="Irreversible process">Irreversible process</a></li>
+<li><a href="/wiki/Thermal_reservoir" title="Thermal reservoir">Thermal reservoir</a></li>
+<li><a href="/wiki/Heat_transfer" title="Heat transfer">Heat transfer</a></li>
+<li><a href="/wiki/Heat_capacity" title="Heat capacity">Heat capacity</a></li>
+<li><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume (thermodynamics)</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Thermodynamic equilibrium</a></li>
+<li><a href="/wiki/Thermal_equilibrium" title="Thermal equilibrium">Thermal equilibrium</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Isolated_system" title="Isolated system">Isolated system</a></li>
+<li><a href="/wiki/Entropy" title="Entropy">Entropy</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li>
+<li><a href="/wiki/Entropic_force" title="Entropic force">Entropic force</a></li>
+<li><a href="/wiki/Negentropy" title="Negentropy">Negentropy</a></li>
+<li><a href="/wiki/Work_(physics)" title="Work (physics)">Work</a></li>
+<li><a href="/wiki/Exergy" title="Exergy">Exergy</a></li>
+<li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Types</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinetic_energy" title="Kinetic energy">Kinetic</a></li>
+<li><a href="/wiki/Internal_energy" title="Internal energy">Internal</a></li>
+<li><a href="/wiki/Thermal_energy" title="Thermal energy">Thermal</a></li>
+<li><a href="/wiki/Potential_energy" title="Potential energy">Potential</a></li>
+<li><a href="/wiki/Gravitational_energy" title="Gravitational energy">Gravitational</a></li>
+<li><a href="/wiki/Elastic_energy" title="Elastic energy">Elastic</a></li>
+<li><a class="mw-redirect" href="/wiki/Electrical_potential_energy" title="Electrical potential energy">Electrical potential energy</a></li>
+<li><a href="/wiki/Mechanical_energy" title="Mechanical energy">Mechanical</a></li>
+<li><a href="/wiki/Interatomic_potential" title="Interatomic potential">Interatomic potential</a></li>
+<li><a href="/wiki/Electrical_energy" title="Electrical energy">Electrical</a></li>
+<li><a href="/wiki/Magnetic_energy" title="Magnetic energy">Magnetic</a></li>
+<li><a href="/wiki/Ionization_energy" title="Ionization energy">Ionization</a></li>
+<li><a href="/wiki/Radiant_energy" title="Radiant energy">Radiant</a></li>
+<li><a href="/wiki/Binding_energy" title="Binding energy">Binding</a></li>
+<li><a href="/wiki/Nuclear_binding_energy" title="Nuclear binding energy">Nuclear binding energy</a></li>
+<li><a href="/wiki/Gravitational_binding_energy" title="Gravitational binding energy">Gravitational binding energy</a></li>
+<li><a class="mw-redirect" href="/wiki/Chromodynamic_energy" title="Chromodynamic energy">Chromodynamic</a></li>
+<li><a href="/wiki/Dark_energy" title="Dark energy">Dark</a></li>
+<li><a href="/wiki/Quintessence_(physics)" title="Quintessence (physics)">Quintessence</a></li>
+<li><a href="/wiki/Phantom_energy" title="Phantom energy">Phantom</a></li>
+<li><a href="/wiki/Negative_energy" title="Negative energy">Negative</a></li>
+<li><a href="/wiki/Chemical_energy" title="Chemical energy">Chemical</a></li>
+<li><a class="mw-redirect" href="/wiki/Rest_energy" title="Rest energy">Rest</a></li>
+<li><a href="/wiki/Sound_energy" title="Sound energy">Sound energy</a></li>
+<li><a href="/wiki/Surface_energy" title="Surface energy">Surface energy</a></li>
+<li><a href="/wiki/Mechanical_wave" title="Mechanical wave">Mechanical wave</a></li>
+<li><a class="mw-redirect" href="/wiki/Sound_wave" title="Sound wave">Sound wave</a></li>
+<li><a href="/wiki/Vacuum_energy" title="Vacuum energy">Vacuum energy</a></li>
+<li><a href="/wiki/Zero-point_energy" title="Zero-point energy">Zero-point energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Energy_carrier" title="Energy carrier">Energy carriers</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Radiation" title="Radiation">Radiation</a></li>
+<li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li>
+<li><a href="/wiki/Fuel" title="Fuel">Fuel</a>
+<ul><li><a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a></li></ul></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a>
+<ul><li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li></ul></li>
+<li><a href="/wiki/Work_(physics)" title="Work (physics)">Work</a></li>
+<li><a href="/wiki/Electricity" title="Electricity">Electricity</a></li>
+<li><a class="mw-redirect" href="/wiki/Battery_(electricity)" title="Battery (electricity)">Battery</a></li>
+<li><a href="/wiki/Capacitor" title="Capacitor">Capacitor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Primary_energy" title="Primary energy">Primary energy</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a>
+<ul><li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li></ul></li>
+<li><a href="/wiki/Gravitational_energy" title="Gravitational energy">Gravitational energy</a></li>
+<li><a href="/wiki/Nuclear_fuel" title="Nuclear fuel">Nuclear fuel</a>
+<ul><li><a href="/wiki/Natural_uranium" title="Natural uranium">Natural uranium</a></li></ul></li>
+<li><a href="/wiki/Radiant_energy" title="Radiant energy">Radiant energy</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a></li>
+<li><a class="mw-redirect" href="/wiki/Wind_energy" title="Wind energy">Wind</a></li>
+<li><a href="/wiki/Bioenergy" title="Bioenergy">Bioenergy</a></li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Energy_system" title="Energy system">Energy system</a><br/>components</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Energy_engineering" title="Energy engineering">Energy engineering</a></li>
+<li><a href="/wiki/Oil_refinery" title="Oil refinery">Oil refinery</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_power_station" title="Fossil-fuel power station">Fossil-fuel power station</a>
+<ul><li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Integrated_gasification_combined_cycle" title="Integrated gasification combined cycle">Integrated gasification combined cycle</a></li></ul></li>
+<li><a href="/wiki/Electric_power" title="Electric power">Electric power</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a>
+<ul><li><a href="/wiki/Nuclear_power_plant" title="Nuclear power plant">Nuclear power plant</a></li>
+<li><a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">Radioisotope thermoelectric generator</a></li></ul></li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a>
+<ul><li><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></li>
+<li><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">Concentrated solar power</a></li></ul></li>
+<li><a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">Solar thermal energy</a>
+<ul><li><a href="/wiki/Solar_power_tower" title="Solar power tower">Solar power tower</a></li>
+<li><a href="/wiki/Solar_furnace" title="Solar furnace">Solar furnace</a></li></ul></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind power</a>
+<ul><li><a href="/wiki/Wind_farm" title="Wind farm">Wind farm</a></li>
+<li><a href="/wiki/High-altitude_wind_power" title="High-altitude wind power">High-altitude wind power</a></li></ul></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal power</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a>
+<ul><li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Wave_farm" title="Wave farm">Wave farm</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li></ul></li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Use and<br/><a href="/wiki/Energy_supply" title="Energy supply">supply</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Energy_consumption" title="Energy consumption">Energy consumption</a></li>
+<li><a href="/wiki/Energy_storage" title="Energy storage">Energy storage</a></li>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a></li>
+<li><a href="/wiki/Energy_security" title="Energy security">Energy security</a></li>
+<li><a class="mw-selflink selflink">Energy conservation</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a>
+<ul><li><a href="/wiki/Energy_efficiency_in_transport" title="Energy efficiency in transport">Transport</a></li>
+<li><a href="/wiki/Energy_efficiency_in_agriculture" title="Energy efficiency in agriculture">Agriculture</a></li></ul></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></li>
+<li><a href="/wiki/Energy_policy" title="Energy policy">Energy policy</a>
+<ul><li><a href="/wiki/Energy_development" title="Energy development">Energy development</a></li></ul></li>
+<li><a href="/wiki/Worldwide_energy_supply" title="Worldwide energy supply">Worldwide energy supply</a></li>
+<li><a href="/wiki/Energy_in_South_America" title="Energy in South America">South America</a></li>
+<li><a href="/wiki/Energy_in_the_United_States" title="Energy in the United States">USA</a></li>
+<li><a href="/wiki/Energy_in_Mexico" title="Energy in Mexico">Mexico</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_in_Canada" title="Energy in Canada">Canada</a></li>
+<li><a href="/wiki/Energy_in_Europe" title="Energy in Europe">Europe</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_in_Asia" title="Energy in Asia">Asia</a></li>
+<li><a href="/wiki/Energy_in_Africa" title="Energy in Africa">Africa</a></li>
+<li><a href="/wiki/Energy_in_Australia" title="Energy in Australia">Australia</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Misc.</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Jevons%27s_paradox" title="Jevons's paradox">Jevons's paradox</a></li>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Environmental_science" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Environmental_science" title="Template:Environmental science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Environmental_science" title="Template talk:Environmental science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_science&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Environmental_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Main fields</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a></li>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Geosciences</a></li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a></li>
+<li><a href="/wiki/Limnology" title="Limnology">Limnology</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Environmental_soil_science" title="Environmental soil science">Soil science</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:The_Earth_seen_from_Apollo_17.jpg"><img alt="The Earth seen from Apollo 17.jpg" data-file-height="3002" data-file-width="3000" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/100px-The_Earth_seen_from_Apollo_17.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/150px-The_Earth_seen_from_Apollo_17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/200px-The_Earth_seen_from_Apollo_17.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related fields</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biology" title="Biology">Biology</a></li>
+<li><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>
+<ul><li><a href="/wiki/Green_chemistry" title="Green chemistry">green</a></li></ul></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a>
+<ul><li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li></ul></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">Environmental studies</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a href="/wiki/Geodesy" title="Geodesy">Geodesy</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Sustainability science</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Energy conservation</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource management</a></li>
+<li><a class="mw-redirect" href="/wiki/Pollution_control" title="Pollution control">Pollution control</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Remediation</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Road_ecology" title="Road ecology">Road ecology</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">Water purification</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_science" title="Category:Environmental science">Category</a>
+<ul><li><a href="/wiki/Category:Environmental_scientists" title="Category:Environmental scientists">scientists</a></li></ul></li>
+<li><a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Glossary</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_journals#Environmental_sciences" title="List of environmental journals">Journals</a></li>
+<li><a href="/wiki/List_of_environmental_research_institutes" title="List of environmental research institutes">Research institutes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q380170&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q380170&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q380170" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4014700-9" rel="nofollow">4014700-9</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a class="external text" href="https://catalog.archives.gov/id/10639180" rel="nofollow">10639180</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00999320" rel="nofollow">00999320</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="Crystal energy.svg" data-file-height="124" data-file-width="130" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/22px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/34px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 2x" width="22"/></a></span><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" data-file-height="510" data-file-width="800" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" width="24"/></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="Wind-turbine-icon.svg" data-file-height="128" data-file-width="128" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/21px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/32px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 2x" width="21"/></a></span><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20181101200510
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.572 seconds
+Real time usage: 0.706 seconds
+Preprocessor visited node count: 2379/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 95577/2097152 bytes
+Template argument size: 1387/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 79139/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.259/10.000 seconds
+Lua memory usage: 5.51 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  512.213      1 -total
+ 41.38%  211.969      1 Template:Reflist
+ 17.27%   88.454     20 Template:Cite_web
+ 13.68%   70.090      3 Template:Cite_book
+  8.45%   43.303      3 Template:Cite_journal
+  7.20%   36.864      1 Template:Sustainable_energy
+  6.70%   34.314      1 Template:Sidebar
+  6.56%   33.601      1 Template:Authority_control
+  6.18%   31.674      1 Template:Use_dmy_dates
+  6.11%   31.279      2 Template:ISBN
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:478933-0!canonical and timestamp 20181101200509 and revision id 866090512
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_conservation&amp;oldid=866090512">https://en.wikipedia.org/w/index.php?title=Energy_conservation&amp;oldid=866090512</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_conservation" title="Category:Energy conservation">Energy conservation</a></li><li><a href="/wiki/Category:Energy_efficiency" title="Category:Energy efficiency">Energy efficiency</a></li><li><a href="/wiki/Category:Energy_policy" title="Category:Energy policy">Energy policy</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_Dutch-language_sources_(nl)" title="Category:CS1 Dutch-language sources (nl)">CS1 Dutch-language sources (nl)</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2017" title="Category:Use dmy dates from October 2017">Use dmy dates from October 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Energy+conservation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Energy+conservation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Energy_conservation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Energy_conservation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Energy_conservation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Energy_conservation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Energy_conservation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Energy_conservation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Energy_conservation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Energy_conservation&amp;oldid=866090512" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Energy_conservation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q380170" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Energy_conservation&amp;id=866090512" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Energy+conservation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Energy+conservation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Energy_conservation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Energy_efficiency" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Energiebewaring" hreflang="af" lang="af" title="Energiebewaring – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%81%D8%B8_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9" hreflang="ar" lang="ar" title="حفظ الطاقة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/%C5%A0et%C5%99en%C3%AD_energi%C3%AD" hreflang="cs" lang="cs" title="Šetření energií – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Energieeinsparung" hreflang="de" lang="de" title="Energieeinsparung – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Energias%C3%A4%C3%A4st" hreflang="et" lang="et" title="Energiasääst – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%95%CE%BE%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CF%8C%CE%BC%CE%B7%CF%83%CE%B7_%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CF%82" hreflang="el" lang="el" title="Εξοικονόμηση ενέργειας – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Eficiencia_energ%C3%A9tica" hreflang="es" lang="es" title="Eficiencia energética – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Energia_eraginkortasun" hreflang="eu" lang="eu" title="Energia eraginkortasun – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C_%D8%A7%D9%86%D8%B1%DA%98%DB%8C" hreflang="fa" lang="fa" title="نگهداری انرژی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89conomies_d%27%C3%A9nergie" hreflang="fr" lang="fr" title="Économies d'énergie – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Eficiencia_enerx%C3%A9tica" hreflang="gl" lang="gl" title="Eficiencia enerxética – Galician">Galego</a></li><li class="interlanguage-link interwiki-gu"><a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%8A%E0%AA%B0%E0%AB%8D%E0%AA%9C%E0%AA%BE_%E0%AA%AC%E0%AA%9A%E0%AA%A4" hreflang="gu" lang="gu" title="ઊર્જા બચત – Gujarati">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%84%88%EC%A7%80_%EC%A0%88%EC%95%BD" hreflang="ko" lang="ko" title="에너지 절약 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE_%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3" hreflang="hi" lang="hi" title="ऊर्जा संरक्षण – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Penghematan_energi" hreflang="id" lang="id" title="Penghematan energi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Orkusparna%C3%B0ur" hreflang="is" lang="is" title="Orkusparnaður – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Risparmio_energetico" hreflang="it" lang="it" title="Risparmio energetico – Italian">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Energijos_taupymas" hreflang="lt" lang="lt" title="Energijos taupymas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Energiebesparing" hreflang="nl" lang="nl" title="Energiebesparing – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%9C%81%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC" hreflang="ja" lang="ja" title="省エネルギー – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Oszcz%C4%99dno%C5%9B%C4%87_energii" hreflang="pl" lang="pl" title="Oszczędność energii – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D1%81%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Энергосбережение – Russian">Русский</a></li><li class="interlanguage-link interwiki-sa"><a class="interlanguage-link-target" href="https://sa.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B5%E0%A5%88%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B6%E0%A4%AC%E0%A5%8D%E0%A4%A6%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A4%BF%E0%A4%83/V" hreflang="sa" lang="sa" title="विकिपीडिया:वैज्ञानिक-शब्दावलिः/V – Sanskrit">संस्कृतम्</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B6%BD%E0%B7%81%E0%B6%9A%E0%B7%8A%E0%B6%AD%E0%B7%92_%E0%B7%83%E0%B6%82%E0%B6%BB%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B7%82%E0%B6%AB%E0%B6%BA" hreflang="si" lang="si" title="බලශක්ති සංරක්‍ෂණය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Energy_conservation" hreflang="en-simple" lang="en-simple" title="Energy conservation – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Energians%C3%A4%C3%A4st%C3%B6" hreflang="fi" lang="fi" title="Energiansäästö – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Energieffektivisering" hreflang="sv" lang="sv" title="Energieffektivisering – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B2%E0%AF%8D_%E0%AE%9A%E0%AF%87%E0%AE%AE%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" hreflang="ta" lang="ta" title="ஆற்றல் சேமிப்பு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Enerji_tasarrufu" hreflang="tr" lang="tr" title="Enerji tasarrufu – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%B7%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Енергозбереження – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/B%E1%BA%A3o_t%E1%BB%93n_n%C4%83ng_l%C6%B0%E1%BB%A3ng" hreflang="vi" lang="vi" title="Bảo tồn năng lượng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%AF%80%E7%B4%84%E8%83%BD%E6%BA%90" hreflang="zh" lang="zh" title="節約能源 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q380170#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 28 October 2018, at 05:26<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Energy_conservation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.572","walltime":"0.706","ppvisitednodes":{"value":2379,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":95577,"limit":2097152},"templateargumentsize":{"value":1387,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":79139,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  512.213      1 -total"," 41.38%  211.969      1 Template:Reflist"," 17.27%   88.454     20 Template:Cite_web"," 13.68%   70.090      3 Template:Cite_book","  8.45%   43.303      3 Template:Cite_journal","  7.20%   36.864      1 Template:Sustainable_energy","  6.70%   34.314      1 Template:Sidebar","  6.56%   33.601      1 Template:Authority_control","  6.18%   31.674      1 Template:Use_dmy_dates","  6.11%   31.279      2 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.259","limit":"10.000"},"limitreport-memusage":{"value":5777236,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20181101200510","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1269"});});</script>
+</body>
+</html>

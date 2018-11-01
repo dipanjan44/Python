@@ -1,0 +1,871 @@
+https://en.wikipedia.org/wiki/Albedo
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Albedo - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Albedo","wgTitle":"Albedo","wgCurRevisionId":860770279,"wgRevisionId":860770279,"wgArticleId":39,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses editors parameter","CS1 maint: Explicit use of et al.","Use dmy dates from June 2013","Articles containing Latin-language text","All articles with unsourced statements","Articles with unsourced statements from November 2013","Articles with unsourced statements from January 2018","Articles with unsourced statements from December 2017","Pages using div col with small parameter","Climate forcing","Climatology","Electromagnetic radiation","Land surface effects on climate","Radiometry","Scattering, absorption and radiative transfer (optics)","Radiation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Albedo","wgRelevantArticleId":39,"wgRequestId":"W9XYeApAAEQAAHN3@zoAAAAM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q101038","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Albedo-e_hg.svg/1200px-Albedo-e_hg.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Albedo" rel="alternate"/>
+<link href="/w/index.php?title=Albedo&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Albedo&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Albedo" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Albedo rootpage-Albedo skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Albedo</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Albedo_(disambiguation)" title="Albedo (disambiguation)">Albedo (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:292px;"><a class="image" href="/wiki/File:Albedo-e_hg.svg"><img alt="" class="thumbimage" data-file-height="2220" data-file-width="1588" height="405" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Albedo-e_hg.svg/290px-Albedo-e_hg.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Albedo-e_hg.svg/435px-Albedo-e_hg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Albedo-e_hg.svg/580px-Albedo-e_hg.svg.png 2x" width="290"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Albedo-e_hg.svg" title="Enlarge"></a></div>The percentage of <a href="/wiki/Diffuse_reflection" title="Diffuse reflection">diffusely reflected</a> <a href="/wiki/Sunlight" title="Sunlight">sunlight</a> relative to various surface conditions</div></div></div>
+<p><b>Albedo</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/æ/: 'a' in 'bad'">æ</span><span title="'l' in 'lie'">l</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'b' in 'buy'">b</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="'d' in 'dye'">d</span><span title="/oʊ/: 'o' in 'code'">oʊ</span></span>/</a></span></span>) (<a class="mw-redirect" href="/wiki/Latin_language" title="Latin language">Latin</a>: <i lang="la">albedo</i>, meaning "whiteness") is the measure of the <a href="/wiki/Diffuse_reflection" title="Diffuse reflection">diffuse reflection</a> of <a href="/wiki/Sunlight" title="Sunlight">solar radiation</a> out of the total <a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">solar radiation</a> received by an <a class="mw-redirect" href="/wiki/Astronomical_body" title="Astronomical body">astronomical body</a> (e.g. a <a href="/wiki/Planet" title="Planet">planet</a> like <a href="/wiki/Earth" title="Earth">Earth</a>). It is <a class="mw-redirect" href="/wiki/Dimensionless_number" title="Dimensionless number">dimensionless</a> and measured on a scale from 0 (corresponding to a <a href="/wiki/Black_body" title="Black body">black body</a> that absorbs all incident radiation) to 1 (corresponding to a body that reflects all incident radiation).
+</p><p>Surface albedo is defined as the ratio of irradiance reflected to the irradiance received by a surface. The proportion reflected is not only determined by properties of the surface itself, but also by the spectral and angular distribution of solar radiation reaching the Earth's surface.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> These factors vary with atmospheric composition, geographic location and time (see <a href="/wiki/Position_of_the_Sun" title="Position of the Sun">position of the Sun</a>). While bi-hemispherical <a href="/wiki/Reflectance" title="Reflectance">reflectance</a> is calculated for a single angle of incidence (i.e., for a given position of the Sun), albedo is the directional integration of reflectance over all solar angles in a given period. The temporal resolution may range from seconds (as obtained from flux measurements) to daily, monthly, or annual averages.
+</p><p>Unless given for a specific wavelength (spectral albedo), albedo refers to the entire spectrum of solar radiation.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Due to measurement constraints, it is often given for the spectrum in which most solar energy reaches the surface (between 0.3 and 3 μm). This spectrum includes <a href="/wiki/Visible_spectrum" title="Visible spectrum">visible light</a> (0.39–0.7 μm), which explains why surfaces with a low albedo appear dark (e.g., trees absorb most radiation), whereas surfaces with a high albedo appear bright (e.g., snow reflects most radiation).
+</p><p>Albedo is an important concept in <a href="/wiki/Climatology" title="Climatology">climatology</a>, <a href="/wiki/Astronomy" title="Astronomy">astronomy</a>, and environmental management (e.g., as part of the <a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">Leadership in Energy and Environmental Design</a> (LEED) program for sustainable rating of buildings). The average albedo of the Earth from the upper atmosphere, its <i>planetary albedo</i>, is 30–35% because of <a href="/wiki/Cloud_cover" title="Cloud cover">cloud cover</a>, but widely varies locally across the surface because of different geological and environmental features.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>The term albedo was introduced into optics by <a href="/wiki/Johann_Heinrich_Lambert" title="Johann Heinrich Lambert">Johann Heinrich Lambert</a> in his 1760 work <i><a href="/wiki/Photometria" title="Photometria">Photometria</a></i>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Terrestrial_albedo"><span class="tocnumber">1</span> <span class="toctext">Terrestrial albedo</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#White-sky_and_black-sky_albedo"><span class="tocnumber">1.1</span> <span class="toctext">White-sky and black-sky albedo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Astronomical_albedo"><span class="tocnumber">2</span> <span class="toctext">Astronomical albedo</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Examples_of_terrestrial_albedo_effects"><span class="tocnumber">3</span> <span class="toctext">Examples of terrestrial albedo effects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Illumination"><span class="tocnumber">3.1</span> <span class="toctext">Illumination</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Insolation_effects"><span class="tocnumber">3.2</span> <span class="toctext">Insolation effects</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Climate_and_weather"><span class="tocnumber">3.3</span> <span class="toctext">Climate and weather</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Albedo–temperature_feedback"><span class="tocnumber">3.4</span> <span class="toctext">Albedo–temperature feedback</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Snow"><span class="tocnumber">3.5</span> <span class="toctext">Snow</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Small-scale_effects"><span class="tocnumber">3.6</span> <span class="toctext">Small-scale effects</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Solar_photovoltaic_effects"><span class="tocnumber">3.7</span> <span class="toctext">Solar photovoltaic effects</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Trees"><span class="tocnumber">3.8</span> <span class="toctext">Trees</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Water"><span class="tocnumber">3.9</span> <span class="toctext">Water</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Clouds"><span class="tocnumber">3.10</span> <span class="toctext">Clouds</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Aerosol_effects"><span class="tocnumber">3.11</span> <span class="toctext">Aerosol effects</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Black_carbon"><span class="tocnumber">3.12</span> <span class="toctext">Black carbon</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Human_activities"><span class="tocnumber">3.13</span> <span class="toctext">Human activities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Other_types_of_albedo"><span class="tocnumber">4</span> <span class="toctext">Other types of albedo</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Terrestrial_albedo">Terrestrial albedo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=1" title="Edit section: Terrestrial albedo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="float:right; margin:10px">
+<caption>Sample albedos
+</caption>
+<tbody><tr>
+<th>Surface
+</th>
+<th>Typical<br/>albedo
+</th></tr>
+<tr>
+<td>Fresh asphalt</td>
+<td>0.04<sup class="reference" id="cite_ref-heat_island_4-0"><a href="#cite_note-heat_island-4">[4]</a></sup>
+</td></tr>
+<tr>
+<td>Open ocean
+</td>
+<td>0.06<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</td></tr>
+<tr>
+<td>Worn asphalt</td>
+<td>0.12<sup class="reference" id="cite_ref-heat_island_4-1"><a href="#cite_note-heat_island-4">[4]</a></sup>
+</td></tr>
+<tr>
+<td>Conifer forest<br/>(Summer)</td>
+<td>0.08,<sup class="reference" id="cite_ref-Betts_1_6-0"><a href="#cite_note-Betts_1-6">[6]</a></sup> 0.09 to 0.15<sup class="reference" id="cite_ref-mmutrees_7-0"><a href="#cite_note-mmutrees-7">[7]</a></sup>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Deciduous_trees" title="Deciduous trees">Deciduous trees</a></td>
+<td>0.15 to 0.18<sup class="reference" id="cite_ref-mmutrees_7-1"><a href="#cite_note-mmutrees-7">[7]</a></sup>
+</td></tr>
+<tr>
+<td>Bare soil</td>
+<td>0.17<sup class="reference" id="cite_ref-markvart_8-0"><a href="#cite_note-markvart-8">[8]</a></sup>
+</td></tr>
+<tr>
+<td>Green grass</td>
+<td>0.25<sup class="reference" id="cite_ref-markvart_8-1"><a href="#cite_note-markvart-8">[8]</a></sup>
+</td></tr>
+<tr>
+<td>Desert sand</td>
+<td>0.40<sup class="reference" id="cite_ref-Tetzlaff_9-0"><a href="#cite_note-Tetzlaff-9">[9]</a></sup>
+</td></tr>
+<tr>
+<td>New concrete</td>
+<td>0.55<sup class="reference" id="cite_ref-markvart_8-2"><a href="#cite_note-markvart-8">[8]</a></sup>
+</td></tr>
+<tr>
+<td>Ocean ice</td>
+<td>0.5–0.7<sup class="reference" id="cite_ref-markvart_8-3"><a href="#cite_note-markvart-8">[8]</a></sup>
+</td></tr>
+<tr>
+<td>Fresh snow</td>
+<td>0.80–0.90<sup class="reference" id="cite_ref-markvart_8-4"><a href="#cite_note-markvart-8">[8]</a></sup>
+</td></tr></tbody></table>
+<p>Any albedo in visible light falls within a range of about 0.9 for fresh snow to about 0.04 for charcoal, one of the darkest substances. Deeply shadowed cavities can achieve an effective albedo approaching the zero of a <a href="/wiki/Black_body" title="Black body">black body</a>. When seen from a distance, the ocean surface has a low albedo, as do most forests, whereas desert areas have some of the highest albedos among landforms. Most land areas are in an albedo range of 0.1 to 0.4.<sup class="reference" id="cite_ref-PhysicsWorld_10-0"><a href="#cite_note-PhysicsWorld-10">[10]</a></sup> The average albedo of <a href="/wiki/Earth" title="Earth">Earth</a> is about 0.3.<sup class="reference" id="cite_ref-Goode_11-0"><a href="#cite_note-Goode-11">[11]</a></sup> This is far higher than for the ocean primarily because of the contribution of clouds.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Ceres_2003_2004_clear_sky_total_sky_albedo.png"><img alt="" class="thumbimage" data-file-height="2740" data-file-width="2075" height="291" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ceres_2003_2004_clear_sky_total_sky_albedo.png/220px-Ceres_2003_2004_clear_sky_total_sky_albedo.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ceres_2003_2004_clear_sky_total_sky_albedo.png/330px-Ceres_2003_2004_clear_sky_total_sky_albedo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ceres_2003_2004_clear_sky_total_sky_albedo.png/440px-Ceres_2003_2004_clear_sky_total_sky_albedo.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Ceres_2003_2004_clear_sky_total_sky_albedo.png" title="Enlarge"></a></div>2003–2004 mean annual clear-sky and total-sky albedo</div></div></div>
+<p>Earth's surface albedo is regularly estimated via <a href="/wiki/Earth_observation" title="Earth observation">Earth observation</a> satellite sensors such as <a href="/wiki/NASA" title="NASA">NASA</a>'s <a class="mw-redirect" href="/wiki/MODIS" title="MODIS">MODIS</a> instruments on board the <a href="/wiki/Terra_(satellite)" title="Terra (satellite)">Terra</a> and <a href="/wiki/Aqua_(satellite)" title="Aqua (satellite)">Aqua</a> satellites, and the CERES instrument on the <a href="/wiki/Suomi_NPP" title="Suomi NPP">Suomi NPP</a> and <a href="/wiki/Joint_Polar_Satellite_System" title="Joint Polar Satellite System">JPSS</a>. As the amount of reflected radiation is only measured for a single direction by satellite, not all directions, a mathematical model is used to translate a sample set of satellite reflectance measurements into estimates of <a href="/wiki/Directional-hemispherical_reflectance" title="Directional-hemispherical reflectance">directional-hemispherical reflectance</a> and bi-hemispherical reflectance (e.g.,<sup class="reference" id="cite_ref-NASA_12-0"><a href="#cite_note-NASA-12">[12]</a></sup>). These calculations are based on the <a href="/wiki/Bidirectional_reflectance_distribution_function" title="Bidirectional reflectance distribution function">bidirectional reflectance distribution function (BRDF)</a>, which describes how the reflectance of a given surface depends on the view angle of the observer and the solar angle. BDRF can facilitate translations of observations of reflectance into albedo.
+</p><p>Earth's average surface temperature due to its albedo and the <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a> is currently about 15 °C. If Earth were frozen entirely (and hence be more reflective), the average temperature of the planet would drop below −40 °C.<sup class="reference" id="cite_ref-washington_13-0"><a href="#cite_note-washington-13">[13]</a></sup> If only the continental land masses became covered by glaciers, the mean temperature of the planet would drop to about 0 °C.<sup class="reference" id="cite_ref-clim-past_14-0"><a href="#cite_note-clim-past-14">[14]</a></sup> In contrast, if the entire Earth was covered by water — a so-called aquaplanet — the average temperature on the planet would rise to almost 27 °C.<sup class="reference" id="cite_ref-Smith_Robin_15-0"><a href="#cite_note-Smith_Robin-15">[15]</a></sup>
+</p>
+<h3><span class="mw-headline" id="White-sky_and_black-sky_albedo">White-sky and black-sky albedo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=2" title="Edit section: White-sky and black-sky albedo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For land surfaces, it has been shown that the albedo at a particular <a href="/wiki/Solar_zenith_angle" title="Solar zenith angle">solar zenith angle</a> <i>θ</i><sub><i>i</i></sub> can be approximated by the proportionate sum of two terms: the directional-hemispherical reflectance at that solar zenith angle, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {{\bar {\alpha }}(\theta _{i})}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {{\bar {\alpha }}(\theta _{i})}}</annotation>
+</semantics>
+</math></span><img alt="{{\bar {\alpha }}(\theta _{i})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d21d2965b6b0594054d53e34fcd5c624c7f47cc7" style="vertical-align: -0.838ex; width:5.187ex; height:2.843ex;"/></span>, and the bi-hemispherical reflectance, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\bar {\bar {\alpha }}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {\bar {\alpha }}}}</annotation>
+</semantics>
+</math></span><img alt="{\bar {\bar {\alpha }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2a19826b7107e707aead3e838e72304d5f90277" style="vertical-align: -0.338ex; width:1.488ex; height:2.343ex;"/></span>, with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {D-1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {D-1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {D-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/817f95a3e83a1566c3c57a5d47171d7dc3e2d421" style="vertical-align: -0.505ex; width:5.927ex; height:2.343ex;"/></span> being the proportion of direct radiation from a given solar angle, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {D}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {D}}</annotation>
+</semantics>
+</math></span><img alt="{D}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b48bdc67a19ddefb0aa409e442e815517a87e7b" style="vertical-align: -0.338ex; width:1.924ex; height:2.176ex;"/></span> being the proportion of diffuse illumination.
+</p><p>Hence, the actual albedo <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\alpha }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\alpha }}</annotation>
+</semantics>
+</math></span><img alt="{\alpha }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6289622b3b197c568f6e73e678814e9cb4c8a81b" style="vertical-align: -0.338ex; width:1.488ex; height:1.676ex;"/></span> (also called blue-sky albedo) can then be given as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\alpha }=(1-D){\bar {\alpha }}(\theta _{i})+D{\bar {\bar {\alpha }}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>D</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>D</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\alpha }=(1-D){\bar {\alpha }}(\theta _{i})+D{\bar {\bar {\alpha }}}.}</annotation>
+</semantics>
+</math></span><img alt="{\alpha }=(1-D){\bar {\alpha }}(\theta _{i})+D{\bar {\bar {\alpha }}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4dbfd858e53f7cc5c3e41c0e9692b3fd3c4bb212" style="vertical-align: -0.838ex; width:24.409ex; height:2.843ex;"/></span></dd></dl>
+<p><a href="/wiki/Directional-hemispherical_reflectance" title="Directional-hemispherical reflectance">Directional-hemispherical reflectance</a> is sometimes referred to as black-sky albedo and <a href="/wiki/Bi-hemispherical_reflectance" title="Bi-hemispherical reflectance">bi-hemispherical reflectance</a> as white-sky albedo. These terms are important because they allow the albedo to be calculated for any given illumination conditions from a knowledge of the intrinsic properties of the surface.<sup class="reference" id="cite_ref-BlueskyAlbedo_16-0"><a href="#cite_note-BlueskyAlbedo-16">[16]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Astronomical_albedo">Astronomical albedo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=3" title="Edit section: Astronomical albedo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The albedos of <a href="/wiki/Planet" title="Planet">planets</a>, <a href="/wiki/Natural_satellite" title="Natural satellite">satellites</a> and <a href="/wiki/Minor_planet" title="Minor planet">minor planets</a> such as <a href="/wiki/Asteroid" title="Asteroid">asteroids</a> can be used to infer much about their properties. The study of albedos, their dependence on wavelength, lighting angle ("phase angle"), and variation in time comprises a major part of the astronomical field of <a href="/wiki/Photometry_(astronomy)" title="Photometry (astronomy)">photometry</a>. For small and far objects that cannot be resolved by telescopes, much of what we know comes from the study of their albedos. For example, the absolute albedo can indicate the surface ice content of outer <a href="/wiki/Solar_System" title="Solar System">Solar System</a> objects, the variation of albedo with phase angle gives information about <a href="/wiki/Regolith" title="Regolith">regolith</a> properties, whereas unusually high radar albedo is indicative of high metal content in <a href="/wiki/Asteroid" title="Asteroid">asteroids</a>.
+</p><p><a href="/wiki/Enceladus" title="Enceladus">Enceladus</a>, a moon of Saturn, has one of the highest known albedos of any body in the Solar System, with 99% of EM radiation reflected. Another notable high-albedo body is <a href="/wiki/Eris_(dwarf_planet)" title="Eris (dwarf planet)">Eris</a>, with an albedo of 0.96.<sup class="reference" id="cite_ref-sicardy_17-0"><a href="#cite_note-sicardy-17">[17]</a></sup> Many small objects in the outer Solar System<sup class="reference" id="cite_ref-tnoalbedo_18-0"><a href="#cite_note-tnoalbedo-18">[18]</a></sup> and <a href="/wiki/Asteroid_belt" title="Asteroid belt">asteroid belt</a> have low albedos down to about 0.05.<sup class="reference" id="cite_ref-astalbedo_19-0"><a href="#cite_note-astalbedo-19">[19]</a></sup> A typical <a href="/wiki/Comet_nucleus" title="Comet nucleus">comet nucleus</a> has an albedo of 0.04.<sup class="reference" id="cite_ref-dark_20-0"><a href="#cite_note-dark-20">[20]</a></sup> Such a dark surface is thought to be indicative of a primitive and heavily <a href="/wiki/Space_weathering" title="Space weathering">space weathered</a> surface containing some <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a>.
+</p><p>The overall albedo of the <a href="/wiki/Moon" title="Moon">Moon</a> is measured to be around 0.136,<sup class="reference" id="cite_ref-CERESmoon_21-0"><a href="#cite_note-CERESmoon-21">[21]</a></sup> but it is strongly directional and non-Lambertian, displaying also a strong <a class="mw-redirect" href="/wiki/Opposition_effect" title="Opposition effect">opposition effect</a>.<sup class="reference" id="cite_ref-medkeff_22-0"><a href="#cite_note-medkeff-22">[22]</a></sup> Although such reflectance properties are different from those of any terrestrial terrains, they are typical of the <a href="/wiki/Regolith" title="Regolith">regolith</a> surfaces of airless Solar System bodies.
+</p><p>Two common albedos that are used in astronomy are the (V-band) <a href="/wiki/Geometric_albedo" title="Geometric albedo">geometric albedo</a> (measuring brightness when illumination comes from directly behind the observer) and the <a href="/wiki/Bond_albedo" title="Bond albedo">Bond albedo</a> (measuring total proportion of electromagnetic energy reflected). Their values can differ significantly, which is a common source of confusion.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Planet
+</th>
+<th>Geometric
+</th>
+<th>Bond
+</th></tr>
+<tr>
+<td>Mercury
+</td>
+<td>0.142 <sup class="reference" id="cite_ref-Mallama_et_al_23-0"><a href="#cite_note-Mallama_et_al-23">[23]</a></sup>
+</td>
+<td>0.088 <sup class="reference" id="cite_ref-Mallama_24-0"><a href="#cite_note-Mallama-24">[24]</a></sup>
+</td></tr>
+<tr>
+<td>Venus
+</td>
+<td>0.689 <sup class="reference" id="cite_ref-Mallama_et_al_23-1"><a href="#cite_note-Mallama_et_al-23">[23]</a></sup>
+</td>
+<td>0.76  <sup class="reference" id="cite_ref-Haus_et_al_25-0"><a href="#cite_note-Haus_et_al-25">[25]</a></sup>
+</td></tr>
+<tr>
+<td>Earth
+</td>
+<td>0.434 <sup class="reference" id="cite_ref-Mallama_et_al_23-2"><a href="#cite_note-Mallama_et_al-23">[23]</a></sup>
+</td>
+<td>0.306 <sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</td></tr>
+<tr>
+<td>Mars
+</td>
+<td>0.170 <sup class="reference" id="cite_ref-Mallama_et_al_23-3"><a href="#cite_note-Mallama_et_al-23">[23]</a></sup>
+</td>
+<td>0.25 <sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</td></tr>
+<tr>
+<td>Jupiter
+</td>
+<td>0.538 <sup class="reference" id="cite_ref-Mallama_et_al_23-4"><a href="#cite_note-Mallama_et_al-23">[23]</a></sup>
+</td>
+<td>0.503 <sup class="reference" id="cite_ref-Li_et_al_28-0"><a href="#cite_note-Li_et_al-28">[28]</a></sup>
+</td></tr>
+<tr>
+<td>Saturn
+</td>
+<td>0.499 <sup class="reference" id="cite_ref-Mallama_et_al_23-5"><a href="#cite_note-Mallama_et_al-23">[23]</a></sup>
+</td>
+<td>0.342 <sup class="reference" id="cite_ref-Hanel_et_al_29-0"><a href="#cite_note-Hanel_et_al-29">[29]</a></sup>
+</td></tr>
+<tr>
+<td>Uranus
+</td>
+<td>0.488 <sup class="reference" id="cite_ref-Mallama_et_al_23-6"><a href="#cite_note-Mallama_et_al-23">[23]</a></sup>
+</td>
+<td>0.300 <sup class="reference" id="cite_ref-Pearl_et_al_Uranus_30-0"><a href="#cite_note-Pearl_et_al_Uranus-30">[30]</a></sup>
+</td></tr>
+<tr>
+<td>Neptune
+</td>
+<td>0.442 <sup class="reference" id="cite_ref-Mallama_et_al_23-7"><a href="#cite_note-Mallama_et_al-23">[23]</a></sup>
+</td>
+<td>0.290 <sup class="reference" id="cite_ref-Pearl_et_al_Neptune_31-0"><a href="#cite_note-Pearl_et_al_Neptune-31">[31]</a></sup>
+</td></tr></tbody></table>
+<p>In detailed studies, the directional reflectance properties of astronomical bodies are often expressed in terms of the five <a href="/wiki/Hapke_parameters" title="Hapke parameters">Hapke parameters</a> which semi-empirically describe the variation of albedo with <a href="/wiki/Phase_angle_(astronomy)" title="Phase angle (astronomy)">phase angle</a>, including a characterization of the opposition effect of <a href="/wiki/Regolith" title="Regolith">regolith</a> surfaces.
+</p><p>The correlation between astronomical (geometric) albedo, <a href="/wiki/Absolute_magnitude#Absolute_magnitude_for_planets_(H)" title="Absolute magnitude">absolute magnitude</a> and diameter is:<sup class="reference" id="cite_ref-bruton_32-0"><a href="#cite_note-bruton-32">[32]</a></sup>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A=\left({\frac {1329\times 10^{-H/5}}{D}}\right)^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>1329</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>D</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A=\left({\frac {1329\times 10^{-H/5}}{D}}\right)^{2}}</annotation>
+</semantics>
+</math></span><img alt="A=\left({\frac {1329\times 10^{-H/5}}{D}}\right)^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c447af3bc2bcc163e737232735e4c3e90c8a69d5" style="vertical-align: -3.171ex; width:24.842ex; height:8.009ex;"/></span>,
+</p><p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+</semantics>
+</math></span><img alt="A" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;"/></span> is the astronomical albedo, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle D}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>D</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle D}</annotation>
+</semantics>
+</math></span><img alt="D" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f34a0c600395e5d4345287e21fb26efd386990e6" style="vertical-align: -0.338ex; width:1.924ex; height:2.176ex;"/></span> is the diameter in kilometers, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H}</annotation>
+</semantics>
+</math></span><img alt="H" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75a9edddcca2f782014371f75dca39d7e13a9c1b" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> is the absolute magnitude.
+</p>
+<h2><span class="mw-headline" id="Examples_of_terrestrial_albedo_effects">Examples of terrestrial albedo effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=4" title="Edit section: Examples of terrestrial albedo effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Illumination">Illumination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=5" title="Edit section: Illumination">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Albedo is not directly dependent on illumination because changing the amount of incoming light proportionally changes the amount of reflected light, except in circumstances where a change in illumination induces a change in the Earth's surface at that location (e.g. through albedo-temperature feedback). That said, albedo and illumination both vary by latitude. Albedo is highest near the poles and lowest in the subtropics, with a local maximum in the tropics.<sup class="reference" id="cite_ref-Winston_33-0"><a href="#cite_note-Winston-33">[33]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Insolation_effects">Insolation effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=6" title="Edit section: Insolation effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The intensity of albedo temperature effects depend on the amount of albedo and the level of local <a class="mw-redirect" href="/wiki/Insolation" title="Insolation">insolation</a> (solar irradiance); high albedo areas in the <a href="/wiki/Arctic" title="Arctic">arctic</a> and <a href="/wiki/Antarctic" title="Antarctic">antarctic</a> regions are cold due to low insolation, where areas such as the <a class="mw-redirect" href="/wiki/Sahara_Desert" title="Sahara Desert">Sahara Desert</a>, which also have a relatively high albedo, will be hotter due to high insolation.  <a class="mw-redirect" href="/wiki/Tropical" title="Tropical">Tropical</a> and <a class="mw-redirect" href="/wiki/Sub-tropical" title="Sub-tropical">sub-tropical</a> <a href="/wiki/Rainforest" title="Rainforest">rainforest</a> areas have low albedo, and are much hotter than their <a href="/wiki/Temperate_forest" title="Temperate forest">temperate forest</a> counterparts, which have lower insolation. Because insolation plays such a big role in the heating and cooling effects of albedo, high insolation areas like the tropics will tend to show a more pronounced fluctuation in local temperature when local albedo changes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2013)">citation needed</span></a></i>]</sup>
+</p><p>Arctic regions notably release more heat back into space than what they absorb, effectively cooling the <a href="/wiki/Earth" title="Earth">Earth</a>. This has been a concern since arctic ice and <a href="/wiki/Snow" title="Snow">snow</a> has been melting at higher rates due to higher temperatures, creating regions in the arctic that are notably darker (being water or ground which is darker color) and reflects less heat back into space. This <a class="mw-redirect" href="/wiki/Ice-albedo_feedback" title="Ice-albedo feedback">feedback loop</a> results in a reduced albedo effect.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Climate_and_weather">Climate and weather</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=7" title="Edit section: Climate and weather">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Albedo affects <a href="/wiki/Climate" title="Climate">climate</a> by determining how much <a href="/wiki/Radiation" title="Radiation">radiation</a> a planet absorbs.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> The uneven heating of Earth from albedo variations between land, ice, or ocean surfaces can drive <a href="/wiki/Weather" title="Weather">weather</a>.
+</p>
+<h3><span id="Albedo.E2.80.93temperature_feedback"></span><span class="mw-headline" id="Albedo–temperature_feedback">Albedo–temperature feedback</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=8" title="Edit section: Albedo–temperature feedback">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When an area's albedo changes due to snowfall, a snow–temperature <a href="/wiki/Feedback" title="Feedback">feedback</a> results. A layer of snowfall increases local albedo, reflecting away sunlight, leading to local cooling. In principle, if no outside temperature change affects this area (e.g., a warm <a href="/wiki/Air_mass" title="Air mass">air mass</a>), the raised albedo and lower temperature would maintain the current snow and invite further snowfall, deepening the snow–temperature feedback. However, because local <a href="/wiki/Weather" title="Weather">weather</a> is dynamic due to the change of <a href="/wiki/Season" title="Season">seasons</a>, eventually warm air masses and a more direct angle of sunlight (higher <a class="mw-redirect" href="/wiki/Insolation" title="Insolation">insolation</a>) cause melting. When the melted area reveals surfaces with lower albedo, such as grass or soil, the effect is reversed: the darkening surface lowers albedo, increasing local temperatures, which induces more melting and thus reducing the albedo further, resulting in still more heating.
+</p>
+<h3><span class="mw-headline" id="Snow">Snow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=9" title="Edit section: Snow">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Snow albedo is highly variable, ranging from as high as 0.9 for freshly fallen snow, to about 0.4 for melting snow, and as low as 0.2 for dirty snow.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup> Over <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a> snow albedo averages a little more than 0.8. If a marginally snow-covered area warms, snow tends to melt, lowering the albedo, and hence leading to more snowmelt because more radiation is being absorbed by the snowpack (the ice–albedo <a href="/wiki/Positive_feedback" title="Positive feedback">positive feedback</a>).
+</p><p>Just as fresh snow has a higher albedo than does dirty snow, the albedo of snow-covered sea ice is far higher than that of sea water. Sea water absorbs more solar radiation than would the same surface covered with reflective snow. When sea ice melts, either due to a rise in sea temperature or in response to increased solar radiation from above, the snow-covered surface is reduced, and more surface of sea water is exposed, so the rate of energy absorption increases. The extra absorbed energy heats the sea water, which in turn increases the rate at which sea ice melts. As with the preceding example of snowmelt, the process of melting of sea ice is thus another example of a positive feedback.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup> Both positive feedback loops have long been recognized as important to the modern theory of <a href="/wiki/Global_warming" title="Global warming">Global warming</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2018)">citation needed</span></a></i>]</sup>
+</p><p><a href="/wiki/Cryoconite" title="Cryoconite">Cryoconite</a>, powdery windblown <a href="/wiki/Dust" title="Dust">dust</a> containing soot, sometimes reduces albedo on glaciers and ice sheets.<sup class="reference" id="cite_ref-Nat._Geo_38-0"><a href="#cite_note-Nat._Geo-38">[38]</a></sup>
+</p><p>The dynamical nature of albedo in response to positive feedback, together with the effects of small errors in the measurement of albedo, can lead to large errors in energy estimates. Because of this, in order to reduce the error of energy estimates, it is important to measure the albedo of snow-covered areas through remote sensing techniques rather than applying a single value for albedo over broad regions.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2018)">citation needed</span></a></i>]</sup>
+</p>
+<h3><span class="mw-headline" id="Small-scale_effects">Small-scale effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=10" title="Edit section: Small-scale effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Albedo works on a smaller scale, too. In sunlight, dark clothes absorb more heat and light-coloured clothes reflect it better, thus allowing some control over body temperature by exploiting the albedo effect of the colour of external clothing.<sup class="reference" id="cite_ref-ranknfile-ue_39-0"><a href="#cite_note-ranknfile-ue-39">[39]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Solar_photovoltaic_effects">Solar photovoltaic effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=11" title="Edit section: Solar photovoltaic effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Albedo can affect the <a href="/wiki/Electrical_energy" title="Electrical energy">electrical energy</a> output of solar <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">photovoltaic devices</a>. For example, the effects of a spectrally responsive albedo are illustrated by the differences between the spectrally weighted albedo of solar photovoltaic technology based on hydrogenated amorphous silicon (a-Si:H) and crystalline silicon (c-Si)-based compared to traditional spectral-integrated albedo predictions. Research showed impacts of over 10%.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup> More recently, the analysis was extended to the effects of spectral bias due to the specular reflectivity of 22 commonly occurring surface materials (both human-made and natural) and analyzes the albedo effects on the performance of seven photovoltaic materials covering three common photovoltaic system topologies: industrial (solar farms), commercial flat rooftops and residential pitched-roof applications.<sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Trees">Trees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=12" title="Edit section: Trees">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because forests generally have a low albedo, (the majority of the ultraviolet and <a href="/wiki/Visible_spectrum" title="Visible spectrum">visible spectrum</a> is absorbed through <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a>), some scientists have suggested that greater heat absorption by trees could offset some of the carbon benefits of afforestation (or offset the negative climate impacts of <a href="/wiki/Deforestation" title="Deforestation">deforestation</a>). In the case of evergreen forests with seasonal snow cover albedo reduction may be great enough for deforestation to cause a net cooling effect.<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup> Trees also impact climate in extremely complicated ways through <a href="/wiki/Evapotranspiration" title="Evapotranspiration">evapotranspiration</a>. The water vapor causes cooling on the land surface, causes heating where it condenses, acts a strong greenhouse gas, and can increase albedo when it condenses into clouds<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup> Scientists generally treat evapotranspiration as a net cooling impact, and the net climate impact of albedo and evapotranspiration changes from deforestation depends greatly on local climate <sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup>
+</p><p>In seasonally snow-covered zones, winter albedos of treeless areas are 10% to 50% higher than nearby forested areas because snow does not cover the trees as readily. <a class="mw-redirect" href="/wiki/Deciduous_trees" title="Deciduous trees">Deciduous trees</a> have an albedo value of about 0.15 to 0.18 whereas <a class="mw-redirect" href="/wiki/Coniferous_trees" title="Coniferous trees">coniferous trees</a> have a value of about 0.09 to 0.15.<sup class="reference" id="cite_ref-mmutrees_7-2"><a href="#cite_note-mmutrees-7">[7]</a></sup>
+</p><p>Studies by the <a class="mw-redirect" href="/wiki/Hadley_Centre" title="Hadley Centre">Hadley Centre</a> have investigated the relative (generally warming) effect of albedo change and (cooling) effect of <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">carbon sequestration</a> on planting forests. They found that new forests in tropical and midlatitude areas tended to cool; new forests in high latitudes (e.g., Siberia) were neutral or perhaps warming.<sup class="reference" id="cite_ref-Betts_45-0"><a href="#cite_note-Betts-45">[45]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Water">Water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=13" title="Edit section: Water">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:292px;"><a class="image" href="/wiki/File:Water_reflectivity.jpg"><img alt="" class="thumbimage" data-file-height="720" data-file-width="960" height="218" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7f/Water_reflectivity.jpg/290px-Water_reflectivity.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7f/Water_reflectivity.jpg/435px-Water_reflectivity.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7f/Water_reflectivity.jpg/580px-Water_reflectivity.jpg 2x" width="290"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Water_reflectivity.jpg" title="Enlarge"></a></div>Reflectivity of smooth water at 20 °C (refractive index=1.333)</div></div></div>
+<p>Water reflects light very differently from typical terrestrial materials. The reflectivity of a water surface is calculated using the <a href="/wiki/Fresnel_equations" title="Fresnel equations">Fresnel equations</a> (see graph).
+</p><p>At the scale of the wavelength of light even wavy water is always smooth so the light is reflected in a locally <a href="/wiki/Specular_reflection" title="Specular reflection">specular manner</a> (not <a href="/wiki/Diffuse_reflection" title="Diffuse reflection">diffusely</a>). The glint of light off water is a commonplace effect of this. At small <a href="/wiki/Angle_of_incidence_(optics)" title="Angle of incidence (optics)">angles of incident</a> light, <a href="/wiki/Waviness" title="Waviness">waviness</a> results in reduced reflectivity because of the steepness of the reflectivity-vs.-incident-angle curve and a locally increased average incident angle.<sup class="reference" id="cite_ref-Fresnel_46-0"><a href="#cite_note-Fresnel-46">[46]</a></sup>
+</p><p>Although the reflectivity of water is very low at low and medium angles of incident light, it becomes very high at high angles of incident light such as those that occur on the illuminated side of Earth near the <a href="/wiki/Terminator_(solar)" title="Terminator (solar)">terminator</a> (early morning, late afternoon, and near the poles). However, as mentioned above, waviness causes an appreciable reduction. Because light specularly reflected from water does not usually reach the viewer, water is usually considered to have a very low albedo in spite of its high reflectivity at high angles of incident light.
+</p><p>Note that white caps on waves look white (and have high albedo) because the water is foamed up, so there are many superimposed bubble surfaces which reflect, adding up their reflectivities. Fresh 'black' ice exhibits Fresnel reflection.
+Snow on top of this sea ice increases the albedo to 0.9.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2017)">citation needed</span></a></i>]</sup>
+</p>
+<h3><span class="mw-headline" id="Clouds">Clouds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=14" title="Edit section: Clouds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Cloud_albedo" title="Cloud albedo">Cloud albedo</a> has substantial influence over atmospheric temperatures. Different types of clouds exhibit different reflectivity, theoretically ranging in albedo from a minimum of near 0 to a maximum approaching 0.8. "On any given day, about half of Earth is covered by clouds, which reflect more sunlight than land and water. Clouds keep Earth cool by reflecting sunlight, but they can also serve as blankets to trap warmth."<sup class="reference" id="cite_ref-livescience_47-0"><a href="#cite_note-livescience-47">[47]</a></sup>
+</p><p>Albedo and climate in some areas are affected by artificial clouds, such as those created by the <a href="/wiki/Contrail" title="Contrail">contrails</a> of heavy commercial airliner traffic.<sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[48]</a></sup> A study following the burning of the Kuwaiti oil fields during Iraqi occupation showed that temperatures under the burning oil fires were as much as 10 °C colder than temperatures several miles away under clear skies.<sup class="reference" id="cite_ref-harvard_49-0"><a href="#cite_note-harvard-49">[49]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Aerosol_effects">Aerosol effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=15" title="Edit section: Aerosol effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-redirect" href="/wiki/Aerosols" title="Aerosols">Aerosols</a> (very fine particles/droplets in the atmosphere) have both direct and indirect effects on Earth's radiative balance. The direct (albedo) effect is generally to cool the planet; the indirect effect (the particles act as <a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">cloud condensation nuclei</a> and thereby change cloud properties) is less certain.<sup class="reference" id="cite_ref-girda_50-0"><a href="#cite_note-girda-50">[50]</a></sup> As per <sup class="reference" id="cite_ref-DOMINICK_51-0"><a href="#cite_note-DOMINICK-51">[51]</a></sup> the effects are:
+</p>
+<blockquote>
+<ul><li><i>Aerosol direct effect.</i> Aerosols directly scatter and absorb radiation. The scattering of radiation causes atmospheric cooling, whereas absorption can cause atmospheric warming.</li>
+<li><i>Aerosol indirect effect.</i> Aerosols modify the properties of clouds through a subset of the aerosol population called <a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">cloud condensation nuclei</a>. Increased nuclei concentrations lead to increased cloud droplet number concentrations, which in turn leads to increased cloud albedo, increased light scattering and radiative cooling (<i>first indirect effect</i>), but also leads to reduced precipitation efficiency and increased lifetime of the cloud (<i>second indirect effect</i>).</li></ul>
+</blockquote>
+<h3><span class="mw-headline" id="Black_carbon">Black carbon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=16" title="Edit section: Black carbon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another albedo-related effect on the climate is from <a href="/wiki/Black_carbon" title="Black carbon">black carbon</a> particles. The size of this effect is difficult to quantify: the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a> estimates that the global mean radiative forcing for black carbon aerosols from fossil fuels is +0.2 W m<sup>−2</sup>, with a range +0.1 to +0.4 W m<sup>−2</sup>.<sup class="reference" id="cite_ref-girda_1_52-0"><a href="#cite_note-girda_1-52">[52]</a></sup> Black carbon is a bigger cause of the melting of the polar ice cap in the Arctic than carbon dioxide due to its effect on the albedo.<sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[53]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Human_activities">Human activities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=17" title="Edit section: Human activities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Human activities (e.g., deforestation, farming, and urbanization) change the albedo of various areas around the globe. However, quantification of this effect on the global scale is difficult.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2013)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Other_types_of_albedo">Other types of albedo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=18" title="Edit section: Other types of albedo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Single-scattering_albedo" title="Single-scattering albedo">Single-scattering albedo</a> is used to define scattering of electromagnetic waves on small particles. It depends on properties of the material (<a href="/wiki/Refractive_index" title="Refractive index">refractive index</a>); the size of the particle or particles; and the wavelength of the incoming radiation.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em; font-size:90%;">
+<ul><li><a class="mw-redirect" href="/wiki/Cool_roof" title="Cool roof">Cool roof</a></li>
+<li><a href="/wiki/Daisyworld" title="Daisyworld">Daisyworld</a></li>
+<li><a href="/wiki/Emissivity" title="Emissivity">Emissivity</a></li>
+<li><a class="mw-redirect" href="/wiki/Exitance" title="Exitance">Exitance</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Irradiance" title="Irradiance">Irradiance</a></li>
+<li><a href="/wiki/Kirchhoff%27s_law_of_thermal_radiation" title="Kirchhoff's law of thermal radiation">Kirchhoff's law of thermal radiation</a></li>
+<li><a href="/wiki/Opposition_surge" title="Opposition surge">Opposition surge</a></li>
+<li><a href="/wiki/Polar_see-saw" title="Polar see-saw">Polar see-saw</a></li>
+<li><a href="/wiki/Solar_radiation_management" title="Solar radiation management">Solar radiation management</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Albedo&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/albedo" title="wiktionary:Special:Search/albedo">albedo</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<ul><li><a class="external text" href="https://web.archive.org/web/20110907193602/http://www.albedo-project.org/" rel="nofollow">Official Website of Albedo Project</a></li>
+<li><a class="external text" href="http://www-c4.ucsd.edu/gap/" rel="nofollow">Global Albedo Project (Center for Clouds, Chemistry, and Climate)</a></li>
+<li><a class="external text" href="http://www.eoearth.org/article/Albedo" rel="nofollow">Albedo – Encyclopedia of Earth</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20060505132944/http://www-modis.bu.edu/brdf/product.html" rel="nofollow">NASA MODIS BRDF/albedo product site</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20081125082044/http://www.eumetsat.int/Home/Main/Access_to_Data/Meteosat_Meteorological_Products/Product_List/SP_1125489019643?l=en" rel="nofollow">Surface albedo derived from Meteosat observations</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080523151225/http://jeff.medkeff.com/astro/lunar/obs_tech/albedo.htm" rel="nofollow">A discussion of Lunar albedos</a></li>
+<li><a class="external text" href="http://www.tvu.com/metalreflectivityLR.jpg" rel="nofollow">reflectivity of metals (chart)</a></li></ul>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20181026163659
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.876 seconds
+Real time usage: 1.053 seconds
+Preprocessor visited node count: 3678/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 174607/2097152 bytes
+Template argument size: 3415/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 140547/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.516/10.000 seconds
+Lua memory usage: 19.29 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  826.076      1 -total
+ 49.50%  408.890      1 Template:Reflist
+ 22.82%  188.534     23 Template:Cite_journal
+ 17.58%  145.201      1 Template:Lang-la
+ 15.48%  127.882     20 Template:Cite_web
+  7.01%   57.933      1 Template:Global_warming
+  6.73%   55.567      5 Template:Citation_needed
+  6.63%   54.763      1 Template:Navbox_with_collapsible_groups
+  5.99%   49.491      5 Template:Fix
+  4.71%   38.913      1 Template:IPAc-en
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39-0!canonical!math=5 and timestamp 20181026163658 and revision id 860770279
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Albedo&amp;oldid=860770279">https://en.wikipedia.org/w/index.php?title=Albedo&amp;oldid=860770279</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_forcing" title="Category:Climate forcing">Climate forcing</a></li><li><a href="/wiki/Category:Climatology" title="Category:Climatology">Climatology</a></li><li><a href="/wiki/Category:Electromagnetic_radiation" title="Category:Electromagnetic radiation">Electromagnetic radiation</a></li><li><a href="/wiki/Category:Land_surface_effects_on_climate" title="Category:Land surface effects on climate">Land surface effects on climate</a></li><li><a href="/wiki/Category:Radiometry" title="Category:Radiometry">Radiometry</a></li><li><a href="/wiki/Category:Scattering,_absorption_and_radiative_transfer_(optics)" title="Category:Scattering, absorption and radiative transfer (optics)">Scattering, absorption and radiative transfer (optics)</a></li><li><a href="/wiki/Category:Radiation" title="Category:Radiation">Radiation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">Use dmy dates from June 2013</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2013" title="Category:Articles with unsourced statements from November 2013">Articles with unsourced statements from November 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2018" title="Category:Articles with unsourced statements from January 2018">Articles with unsourced statements from January 2018</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2017" title="Category:Articles with unsourced statements from December 2017">Articles with unsourced statements from December 2017</a></li><li><a href="/wiki/Category:Pages_using_div_col_with_small_parameter" title="Category:Pages using div col with small parameter">Pages using div col with small parameter</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Albedo" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Albedo" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Albedo" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Albedo" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Albedo">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Albedo&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Albedo&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Albedo" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Albedo" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Albedo&amp;oldid=860770279" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Albedo&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q101038" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Albedo&amp;id=860770279" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Albedo">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Albedo&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Albedo&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Albedo" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Albedo" hreflang="af" lang="af" title="Albedo – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Albedo" hreflang="gsw" lang="gsw" title="Albedo – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%88%D8%B6%D8%A7%D8%A1%D8%A9" hreflang="ar" lang="ar" title="وضاءة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Albedo" hreflang="an" lang="an" title="Albedo – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Albedu" hreflang="ast" lang="ast" title="Albedu – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Albedo" hreflang="az" lang="az" title="Albedo – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AB%E0%A6%B2%E0%A6%A8_%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%A4" hreflang="bn" lang="bn" title="প্রতিফলন অনুপাত – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%B0" hreflang="be" lang="be" title="Альбеда – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="bg" lang="bg" title="Албедо – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Albedo" hreflang="bs" lang="bs" title="Albedo – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Albedo" hreflang="ca" lang="ca" title="Albedo – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Albedo" hreflang="cs" lang="cs" title="Albedo – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Albedo" hreflang="cy" lang="cy" title="Albedo – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Albedo" hreflang="da" lang="da" title="Albedo – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Albedo" hreflang="de" lang="de" title="Albedo – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Albeedo" hreflang="et" lang="et" title="Albeedo – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CF%85%CE%BA%CE%B1%CF%8D%CE%B3%CE%B5%CE%B9%CE%B1" hreflang="el" lang="el" title="Λευκαύγεια – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Albedo" hreflang="es" lang="es" title="Albedo – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Albedo" hreflang="eo" lang="eo" title="Albedo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Albedo" hreflang="eu" lang="eu" title="Albedo – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="سپیدایی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Alb%C3%A9do" hreflang="fr" lang="fr" title="Albédo – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Ailb%C3%A9ideacht" hreflang="ga" lang="ga" title="Ailbéideacht – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Albedo" hreflang="gl" lang="gl" title="Albedo – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B0%98%EC%82%AC%EC%9C%A8" hreflang="ko" lang="ko" title="반사율 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%AC%D5%A2%D5%A5%D5%A4%D5%B8" hreflang="hy" lang="hy" title="Ալբեդո – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%A4" hreflang="hi" lang="hi" title="प्रकाशानुपात – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Albedo" hreflang="hr" lang="hr" title="Albedo – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Albedo" hreflang="id" lang="id" title="Albedo – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Albedo" hreflang="it" lang="it" title="Albedo – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%91%D7%93%D7%95" hreflang="he" lang="he" title="אלבדו – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%86%E0%B2%B2%E0%B3%8D%E0%B2%AC%E0%B3%86%E0%B2%A1%E0%B3%8A" hreflang="kn" lang="kn" title="ಆಲ್ಬೆಡೊ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%91%E1%83%94%E1%83%93%E1%83%9D" hreflang="ka" lang="ka" title="ალბედო – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="kk" lang="kk" title="Альбедо – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Albedo" hreflang="ht" lang="ht" title="Albedo – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="ky" lang="ky" title="Альбедо – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Albedo" hreflang="la" lang="la" title="Albedo – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Albedo" hreflang="lv" lang="lv" title="Albedo – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Albedo" hreflang="lb" lang="lb" title="Albedo – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Albedas" hreflang="lt" lang="lt" title="Albedas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Albed%C3%B3" hreflang="hu" lang="hu" title="Albedó – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="mk" lang="mk" title="Албедо – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B5%BD%E0%B4%AC%E0%B4%BF%E0%B4%A1%E0%B5%8B" hreflang="ml" lang="ml" title="അൽബിഡോ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Albedo" hreflang="ms" lang="ms" title="Albedo – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Albedo" hreflang="nl" lang="nl" title="Albedo – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%99%E3%83%89" hreflang="ja" lang="ja" title="アルベド – Japanese">日本語</a></li><li class="interlanguage-link interwiki-ce"><a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="ce" lang="ce" title="Альбедо – Chechen">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Albedo" hreflang="no" lang="no" title="Albedo – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Albedo" hreflang="nn" lang="nn" title="Albedo – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Albedo" hreflang="oc" lang="oc" title="Albedo – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Albedo" hreflang="uz" lang="uz" title="Albedo – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Albedo" hreflang="nds" lang="nds" title="Albedo – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Albedo" hreflang="pl" lang="pl" title="Albedo – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Albedo" hreflang="pt" lang="pt" title="Albedo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Albedo" hreflang="ro" lang="ro" title="Albedo – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="ru" lang="ru" title="Альбедо – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Albedo" hreflang="sco" lang="sco" title="Albedo – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Albedoja" hreflang="sq" lang="sq" title="Albedoja – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Albedo" hreflang="en-simple" lang="en-simple" title="Albedo – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Albedo" hreflang="sk" lang="sk" title="Albedo – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Albedo" hreflang="sl" lang="sl" title="Albedo – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="sr" lang="sr" title="Албедо – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Albedo" hreflang="sh" lang="sh" title="Albedo – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Albedo" hreflang="su" lang="su" title="Albedo – Sundanese">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Albedo" hreflang="fi" lang="fi" title="Albedo – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Albedo" hreflang="sv" lang="sv" title="Albedo – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%86%E0%AE%A3%E0%AF%8D_%E0%AE%8E%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%A4%E0%AE%B1%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="வெண் எகிர்சிதறல் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="tt" lang="tt" title="Альбедо – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%99" hreflang="th" lang="th" title="อัตราส่วนสะท้อน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Yans%C4%B1tabilirlik" hreflang="tr" lang="tr" title="Yansıtabilirlik – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%BE" hreflang="uk" lang="uk" title="Альбедо – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Su%E1%BA%A5t_ph%E1%BA%A3n_chi%E1%BA%BFu" hreflang="vi" lang="vi" title="Suất phản chiếu – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%8F%8D%E7%85%A7%E7%8E%87" hreflang="yue" lang="yue" title="反照率 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8F%8D%E7%85%A7%E7%8E%87" hreflang="zh" lang="zh" title="反照率 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q101038#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 September 2018, at 23:11<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Albedo&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.876","walltime":"1.053","ppvisitednodes":{"value":3678,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":174607,"limit":2097152},"templateargumentsize":{"value":3415,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":140547,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  826.076      1 -total"," 49.50%  408.890      1 Template:Reflist"," 22.82%  188.534     23 Template:Cite_journal"," 17.58%  145.201      1 Template:Lang-la"," 15.48%  127.882     20 Template:Cite_web","  7.01%   57.933      1 Template:Global_warming","  6.73%   55.567      5 Template:Citation_needed","  6.63%   54.763      1 Template:Navbox_with_collapsible_groups","  5.99%   49.491      5 Template:Fix","  4.71%   38.913      1 Template:IPAc-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.516","limit":"10.000"},"limitreport-memusage":{"value":20223854,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20181026163659","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1273"});});</script>
+</body>
+</html>
