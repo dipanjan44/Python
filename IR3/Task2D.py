@@ -87,11 +87,8 @@ def positional_unigram (tokens, filename):
 #         current_file.write ("\n")
 #     current_file.close ()
 
-<<<<<<< HEAD
+
 def write_to_single_postional_unigram_file ():
-=======
-def write_to_single_file ():
->>>>>>> ad00621b07fe5d5d9a711bc5ad4059c4aa1ce362
     folder = os.path.join (positional_unigram_Location, "Positional_Unigram_gaps.txt")
     current_file_write = open (folder, "a+")
     for token in corpus_unique_token_set:
@@ -107,11 +104,8 @@ def write_to_single_file ():
 # Main Function
 def main ():
     generate_positional_unigram (corpus_location)
-<<<<<<< HEAD
     write_to_single_postional_unigram_file ()
-=======
-    write_to_single_file ()
->>>>>>> ad00621b07fe5d5d9a711bc5ad4059c4aa1ce362
+
 
 
 if __name__ == "__main__":
