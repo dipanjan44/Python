@@ -1,0 +1,984 @@
+https://en.wikipedia.org/wiki/Reclaimed_water
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Reclaimed water - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Reclaimed_water","wgTitle":"Reclaimed water","wgCurRevisionId":864166274,"wgRevisionId":864166274,"wgArticleId":1018367,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with URL errors","Webarchive template wayback links","Articles with short description","All articles with unsourced statements","Articles with unsourced statements from March 2017","Articles with unsourced statements from February 2007","Articles with medical app sidebar","Water conservation","Water supply","Irrigation","Water and the environment","Water treatment","Sanitation","Sustainable technologies","Sustainable agriculture","Recycling by material","Reuse","Hydrology and urban planning"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Reclaimed_water","wgRelevantArticleId":1018367,"wgRequestId":"W9tdJwpAMFUAAJDWnlwAAACI","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3267830","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/2e/Reclaimed_Water_Jars.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Reclaimed_water" rel="alternate"/>
+<link href="/w/index.php?title=Reclaimed_water&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Reclaimed_water&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Reclaimed_water" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Reclaimed_water rootpage-Reclaimed_water skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Reclaimed water</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Converting wastewater into water that can be reused for other purposes</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Reclaimed_Water_Jars.jpg"><img alt="" class="thumbimage" data-file-height="404" data-file-width="640" height="139" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Reclaimed_Water_Jars.jpg/220px-Reclaimed_Water_Jars.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Reclaimed_Water_Jars.jpg/330px-Reclaimed_Water_Jars.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Reclaimed_Water_Jars.jpg/440px-Reclaimed_Water_Jars.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Reclaimed_Water_Jars.jpg" title="Enlarge"></a></div>Sequence of reclamation from left: raw sewage, plant effluent, and finally reclaimed water (after several treatment steps)</div></div></div>
+<p><b>Reclaimed</b> or <b>recycled water</b> (also called <b>wastewater reuse</b> or <b>water reclamation</b>) is the process of converting <a href="/wiki/Wastewater" title="Wastewater">wastewater</a> into water that can be <a href="/wiki/Reuse" title="Reuse">reused</a> for other purposes. Reuse may include <a href="/wiki/Irrigation" title="Irrigation">irrigation</a> of gardens and agricultural fields or replenishing <a href="/wiki/Surface_water" title="Surface water">surface water</a> and <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> (i.e., <a href="/wiki/Groundwater_recharge" title="Groundwater recharge">groundwater recharge</a>). Reused water may also be directed toward fulfilling certain needs in residences (e.g. <a href="/wiki/Flush_toilet" title="Flush toilet">toilet flushing</a>), businesses, and industry, and could even be treated to reach <a href="/wiki/Drinking_water" title="Drinking water">drinking water</a> standards. This last option is called either "direct potable reuse" or "indirect potable" reuse, depending on the approach used. Colloquially, the term "toilet to tap" also refers to potable reuse.<sup class="reference" id="cite_ref-PotableReuseMembraneReview_1-0"><a href="#cite_note-PotableReuseMembraneReview-1">[1]</a></sup>
+</p><p>Reclaiming water for reuse applications instead of using <a href="/wiki/Fresh_water" title="Fresh water">freshwater</a> supplies can be a water-saving measure. When used water is eventually discharged back into natural water sources, it can still have benefits to <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a>, improving streamflow, nourishing plant life and recharging <a href="/wiki/Aquifer" title="Aquifer">aquifers</a>, as part of the natural <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>Wastewater reuse is a long-established practice used for irrigation, especially in <a href="/wiki/Arid" title="Arid">arid</a> countries. Reusing wastewater as part of sustainable <a class="mw-redirect" href="/wiki/Water_management" title="Water management">water management</a> allows water to remain as an alternative water source for human activities. This can reduce <a href="/wiki/Water_scarcity" title="Water scarcity">scarcity</a> and alleviate pressures on groundwater and other natural water bodies.<sup class="reference" id="cite_ref-Andersson_3-0"><a href="#cite_note-Andersson-3">[3]</a></sup>
+</p>
+<div class="toclimit-3"><div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types_and_applications"><span class="tocnumber">2</span> <span class="toctext">Types and applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#De_facto_wastewater_reuse_(unplanned_potable_reuse)"><span class="tocnumber">2.1</span> <span class="toctext">De facto wastewater reuse (unplanned potable reuse)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Urban_reuse"><span class="tocnumber">2.2</span> <span class="toctext">Urban reuse</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Agricultural_reuse"><span class="tocnumber">2.3</span> <span class="toctext">Agricultural reuse</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Environmental_reuse"><span class="tocnumber">2.4</span> <span class="toctext">Environmental reuse</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Industrial_reuse"><span class="tocnumber">2.5</span> <span class="toctext">Industrial reuse</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Planned_potable_reuse"><span class="tocnumber">2.6</span> <span class="toctext">Planned potable reuse</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Indirect_potable_reuse"><span class="tocnumber">2.6.1</span> <span class="toctext">Indirect potable reuse</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Direct_potable_reuse"><span class="tocnumber">2.6.2</span> <span class="toctext">Direct potable reuse</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Indirect_Potable_Reuse_(IPR)"><span class="tocnumber">2.6.3</span> <span class="toctext">Indirect Potable Reuse (IPR)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Reuse_in_space"><span class="tocnumber">2.7</span> <span class="toctext">Reuse in space</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Benefits"><span class="tocnumber">3</span> <span class="toctext">Benefits</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Design_considerations"><span class="tocnumber">4</span> <span class="toctext">Design considerations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Distribution"><span class="tocnumber">4.1</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Treatment_processes"><span class="tocnumber">4.2</span> <span class="toctext">Treatment processes</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Alternative_options"><span class="tocnumber">4.3</span> <span class="toctext">Alternative options</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Costs"><span class="tocnumber">4.4</span> <span class="toctext">Costs</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Barriers_to_implementation"><span class="tocnumber">4.5</span> <span class="toctext">Barriers to implementation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Health_aspects"><span class="tocnumber">5</span> <span class="toctext">Health aspects</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Environmental_aspects"><span class="tocnumber">6</span> <span class="toctext">Environmental aspects</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#History"><span class="tocnumber">7</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#U.S."><span class="tocnumber">7.1</span> <span class="toctext">U.S.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Guidelines_and_regulations"><span class="tocnumber">8</span> <span class="toctext">Guidelines and regulations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#International_organisations"><span class="tocnumber">8.1</span> <span class="toctext">International organisations</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#European_Union"><span class="tocnumber">8.2</span> <span class="toctext">European Union</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#U.S._2"><span class="tocnumber">8.3</span> <span class="toctext">U.S.</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Other_countries"><span class="tocnumber">8.4</span> <span class="toctext">Other countries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Examples"><span class="tocnumber">9</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="#Australia"><span class="tocnumber">9.1</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Israel"><span class="tocnumber">9.2</span> <span class="toctext">Israel</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Namibia"><span class="tocnumber">9.3</span> <span class="toctext">Namibia</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Singapore"><span class="tocnumber">9.4</span> <span class="toctext">Singapore</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#South_Africa"><span class="tocnumber">9.5</span> <span class="toctext">South Africa</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#U.S._3"><span class="tocnumber">9.6</span> <span class="toctext">U.S.</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-37"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Effluent_storage_tank_from_where_treated_effluent_is_pumped_away_for_irrigation_(3232428204).jpg"><img alt="" class="thumbimage" data-file-height="2112" data-file-width="2816" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Effluent_storage_tank_from_where_treated_effluent_is_pumped_away_for_irrigation_%283232428204%29.jpg/220px-Effluent_storage_tank_from_where_treated_effluent_is_pumped_away_for_irrigation_%283232428204%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Effluent_storage_tank_from_where_treated_effluent_is_pumped_away_for_irrigation_%283232428204%29.jpg/330px-Effluent_storage_tank_from_where_treated_effluent_is_pumped_away_for_irrigation_%283232428204%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Effluent_storage_tank_from_where_treated_effluent_is_pumped_away_for_irrigation_%283232428204%29.jpg/440px-Effluent_storage_tank_from_where_treated_effluent_is_pumped_away_for_irrigation_%283232428204%29.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Effluent_storage_tank_from_where_treated_effluent_is_pumped_away_for_irrigation_(3232428204).jpg" title="Enlarge"></a></div><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a> water is pumped from this tank which stores effluent received from a <a href="/wiki/Constructed_wetland" title="Constructed wetland">constructed wetland</a> in Haran-Al-Awamied, Syria.</div></div></div>
+<p>Achieving more <a href="/wiki/Sustainable_sanitation" title="Sustainable sanitation">sustainable sanitation</a> and wastewater management  will require emphasis on actions linked to resource management, such as wastewater reuse or <a class="mw-redirect" href="/wiki/Excreta_reuse" title="Excreta reuse">excreta reuse</a> that will keep valuable resources available for productive uses.<sup class="reference" id="cite_ref-Andersson_3-1"><a href="#cite_note-Andersson-3">[3]</a></sup> This in turn supports human wellbeing and broader <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>.
+</p><p>Simply stated, reclaimed water is water that is used more than one time before it passes back into the natural water cycle. Advances in wastewater treatment technology allow communities to reuse water for many different purposes. The water is treated differently depending upon the source and use of the water and how it gets delivered.
+</p><p>Cycled repeatedly through the planetary hydrosphere, all water on Earth is recycled water, but the terms "recycled water" or "reclaimed water" typically mean wastewater sent from a home or business through a <a href="/wiki/Sewerage" title="Sewerage">sewer system</a> to a <a class="mw-redirect" href="/wiki/Wastewater_treatment_plant" title="Wastewater treatment plant">wastewater treatment plant</a>, where it is treated to a level consistent with its intended use.
+</p><p>The <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> has recognized the following principal driving forces for wastewater reuse:<sup class="reference" id="cite_ref-WHO2006_4-0"><a href="#cite_note-WHO2006-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<ol><li>increasing <a href="/wiki/Water_scarcity" title="Water scarcity">water scarcity</a> and stress,</li>
+<li>increasing populations and related <a href="/wiki/Food_security" title="Food security">food security</a> issues,</li>
+<li>increasing environmental pollution from improper wastewater disposal, and</li>
+<li>increasing recognition of the resource value of <a href="/wiki/Wastewater" title="Wastewater">wastewater</a>, <a href="/wiki/Human_waste" title="Human waste">excreta</a> and <a href="/wiki/Greywater" title="Greywater">greywater</a>.</li></ol>
+<p>Water recycling and reuse is of increasing importance, not only in arid regions but also in cities and contaminated environments.<sup class="reference" id="cite_ref-:0_6-0"><a href="#cite_note-:0-6">[6]</a></sup>
+</p><p>Already, the groundwater <a class="mw-redirect" href="/wiki/Aquifers" title="Aquifers">aquifers</a> that are used by over half of the world population are being over-drafted.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Reuse will continue to increase as the world’s population becomes increasingly urbanized and concentrated near coastlines, where local <a class="mw-redirect" href="/wiki/Freshwater" title="Freshwater">freshwater</a> supplies are limited or are available only with large <a href="/wiki/Capital_expenditure" title="Capital expenditure">capital expenditure</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-:1_9-0"><a href="#cite_note-:1-9">[9]</a></sup> Large quantities of freshwater can be saved by wastewater reuse and recycling, reducing <a class="mw-redirect" href="/wiki/Environmental_pollution" title="Environmental pollution">environmental pollution</a> and improving <a href="/wiki/Carbon_footprint" title="Carbon footprint">carbon footprint</a>.<sup class="reference" id="cite_ref-:0_6-1"><a href="#cite_note-:0-6">[6]</a></sup> Reuse can be an alternative <a href="/wiki/Water_supply" title="Water supply">water supply</a> option.
+</p>
+<h2><span class="mw-headline" id="Types_and_applications">Types and applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=2" title="Edit section: Types and applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most of the uses of water reclamation are non potable uses such as washing cars, flushing toilets, cooling water for power plants, concrete mixing, artificial lakes, irrigation for golf courses and public parks, and for hydraulic fracturing. Where applicable, systems run a dual piping system to keep the recycled water separate from the potable water.
+</p><p>The main reclaimed water applications in the world are shown below:<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-:3_12-0"><a href="#cite_note-:3-12">[12]</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Categories of use</th>
+<th>Uses
+</th></tr>
+<tr>
+<td>Urban uses</td>
+<td>Irrigation of <a class="mw-redirect" href="/wiki/Public_parks" title="Public parks">public parks</a>, sporting facilities, private gardens, <a href="/wiki/Shoulder_(road)" title="Shoulder (road)">roadsides</a>; Street cleaning; Fire protection systems; Vehicle washing; Toilet flushing; Air conditioners; Dust control.
+</td></tr>
+<tr>
+<td>Agricultural uses</td>
+<td>Food crops not commercially processed; Food crops commercially processed; Pasture for milking animals; Fodder; Fibre; Seed crops; Ornamental flowers; Orchards; Hydroponic culture; <a href="/wiki/Aquaculture" title="Aquaculture">Aquaculture</a>; <a class="mw-redirect" href="/wiki/Greenhouses" title="Greenhouses">Greenhouses</a>; <a href="/wiki/Viticulture" title="Viticulture">Viticulture</a>.
+</td></tr>
+<tr>
+<td>Industrial uses</td>
+<td>Processing water; <a class="mw-redirect" href="/wiki/Cooling_water" title="Cooling water">Cooling water</a>; Recirculating <a class="mw-redirect" href="/wiki/Cooling_towers" title="Cooling towers">cooling towers</a>; <a href="/wiki/Washdown" title="Washdown">Washdown</a> water; Washing aggregate; Making <a href="/wiki/Concrete" title="Concrete">concrete</a>; <a href="/wiki/Soil_compaction" title="Soil compaction">Soil compaction</a>; <a class="mw-redirect" href="/wiki/Dust_control" title="Dust control">Dust control</a>.
+</td></tr>
+<tr>
+<td>Recreational uses</td>
+<td><a href="/wiki/Golf_course" title="Golf course">Golf course</a> irrigation; <a class="mw-redirect" href="/wiki/Recreational" title="Recreational">Recreational</a> impoundments with/without public access (e.g. fishing, boating, bathing); Aesthetic impoundments without public access; <a href="/wiki/Snowmaking" title="Snowmaking">Snowmaking</a>.
+</td></tr>
+<tr>
+<td>Environmental uses</td>
+<td><a class="mw-redirect" href="/wiki/Aquifer_recharge" title="Aquifer recharge">Aquifer recharge</a>; <a class="mw-redirect" href="/wiki/Wetlands" title="Wetlands">Wetlands</a>; <a class="mw-redirect" href="/wiki/Marshes" title="Marshes">Marshes</a>; Stream augmentation; <a class="mw-redirect" href="/wiki/Wildlife_habitat" title="Wildlife habitat">Wildlife habitat</a>; <a href="/wiki/Silviculture" title="Silviculture">Silviculture</a>.
+</td></tr>
+<tr>
+<td>Potable uses</td>
+<td>Aquifer recharge for <a href="/wiki/Drinking_water" title="Drinking water">drinking water</a> use; Augmentation of surface drinking water supplies; Treatment until drinking water quality.
+</td></tr></tbody></table>
+<h3><span id="De_facto_wastewater_reuse_.28unplanned_potable_reuse.29"></span><span class="mw-headline" id="De_facto_wastewater_reuse_(unplanned_potable_reuse)">De facto wastewater reuse (unplanned potable reuse)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=3" title="Edit section: De facto wastewater reuse (unplanned potable reuse)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>De facto, unacknowledged or unplanned potable reuse refers to a situation where reuse of treated wastewater is, in fact, practiced but is not officially recognized.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> For example, a <a class="mw-redirect" href="/wiki/Wastewater_treatment_plant" title="Wastewater treatment plant">wastewater treatment plant</a> from one city may be discharging <a class="mw-redirect" href="/wiki/Effluents" title="Effluents">effluents</a> to a <a href="/wiki/River" title="River">river</a> which is used as a drinking water supply for another city downstream.
+</p><p>Unplanned Indirect Potable Use<sup class="reference" id="cite_ref-unplanned-ipu_14-0"><a href="#cite_note-unplanned-ipu-14">[14]</a></sup> has existed for a long time. Large towns on the <a href="/wiki/River_Thames" title="River Thames">River Thames</a> upstream of <a href="/wiki/London" title="London">London</a> (<a href="/wiki/Oxford" title="Oxford">Oxford</a>, <a href="/wiki/Reading,_Berkshire" title="Reading, Berkshire">Reading</a>, <a href="/wiki/Swindon" title="Swindon">Swindon</a>, <a href="/wiki/Bracknell" title="Bracknell">Bracknell</a>) discharge their treated sewage ("non-potable water") into the Thames, which supplies water to London downstream. In the United States, the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a> serves as both the destination of sewage treatment plant effluent and the source of potable water.
+</p>
+<h3><span class="mw-headline" id="Urban_reuse">Urban reuse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=4" title="Edit section: Urban reuse">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Unrestricted: The use of reclaimed water for <a class="mw-redirect" href="/wiki/Non_potable" title="Non potable">non-potable</a> applications in municipal settings, where public access is not restricted.</li>
+<li>Restricted: The use of reclaimed water for non-potable applications in municipal settings, where public access is controlled or restricted by physical or institutional barriers, such as fencing, advisory signage, or temporal access restriction.<sup class="reference" id="cite_ref-:4_15-0"><a href="#cite_note-:4-15">[15]</a></sup></li></ul>
+<h3><span class="mw-headline" id="Agricultural_reuse">Agricultural reuse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=5" title="Edit section: Agricultural reuse">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Reuse_of_excreta" title="Reuse of excreta">Reuse of excreta</a></div>
+<p>There are benefits of using recycled water for irrigation, including the lower cost compared to some other sources and consistency of supply regardless of season, climatic conditions and associated water restrictions. When reclaimed water is used for irrigation in agriculture, the nutrient (nitrogen and phosphorus) content of the treated wastewater has the benefit of acting as a <a href="/wiki/Fertilizer" title="Fertilizer">fertilizer</a>.<sup class="reference" id="cite_ref-Otoo_16-0"><a href="#cite_note-Otoo-16">[16]</a></sup> This can make the <a href="/wiki/Reuse_of_excreta" title="Reuse of excreta">reuse of excreta</a> contained in sewage attractive.<sup class="reference" id="cite_ref-WHO2006_4-1"><a href="#cite_note-WHO2006-4">[4]</a></sup>
+</p><p>The irrigation water can be used in different ways on different crops:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/Food_crops" title="Food crops">Food crops</a> to be eaten raw: crops which are intended for human consumption to be eaten raw or unprocessed.</li>
+<li><a class="mw-redirect" href="/wiki/Processed_food" title="Processed food">Processed food</a> crops: crops which are intended for human consumption not to be eaten raw but after treatment process (i.e. cooked, industrially processed).</li>
+<li>Non-food crops: crops which are not intended for human consumption (e.g. pastures, forage, fiber, ornamental, seed, forest and turf crops).<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></li></ul>
+<p>In developing countries, <a href="/wiki/Agriculture" title="Agriculture">agriculture</a> is increasingly using untreated wastewater for irrigation - often in an unsafe manner. Cities provide lucrative markets for fresh produce, so are attractive to farmers. However, because agriculture has to compete for increasingly scarce <a href="/wiki/Water_resources" title="Water resources">water resources</a> with industry and municipal users, there is often no alternative for farmers but to use <a href="/wiki/Water_pollution" title="Water pollution">water polluted</a> with urban waste directly to water their crops.
+</p><p>There can be significant health hazards related to using untreated  wastewater in agriculture. Wastewater from cities can contain a mixture of chemical and biological pollutants. In low-income countries, there are often high levels of pathogens from excreta. In <a class="mw-redirect" href="/wiki/Emerging_countries" title="Emerging countries">emerging nations</a>, where industrial development is outpacing environmental regulation, there are increasing risks from inorganic and organic chemicals. The <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a>, in collaboration with the Food and Agriculture Organization of the United Nations (FAO) and the United Nations Environmental Program (UNEP), has developed guidelines for safe use of wastewater in 2006.<sup class="reference" id="cite_ref-WHO2006_4-2"><a href="#cite_note-WHO2006-4">[4]</a></sup> These guidelines advocate a ‘multiple-barrier’ approach  wastewater use, for example by encouraging farmers to adopt various risk-reducing behaviours. These include ceasing irrigation a few days before harvesting to allow pathogens to die off in the sunlight, applying water carefully so it does not contaminate leaves likely to be eaten raw, cleaning vegetables with disinfectant or allowing fecal sludge used in farming to dry before being used as a human manure.<sup class="reference" id="cite_ref-Otoo_16-1"><a href="#cite_note-Otoo-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Environmental_reuse">Environmental reuse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=6" title="Edit section: Environmental reuse">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The use of reclaimed water to create, enhance, sustain, or augment water bodies including <a href="/wiki/Wetland" title="Wetland">wetlands</a>, aquatic habitats, or stream flow is called "environmental reuse".<sup class="reference" id="cite_ref-:4_15-1"><a href="#cite_note-:4-15">[15]</a></sup> For example, <a href="/wiki/Constructed_wetland" title="Constructed wetland">constructed wetlands</a> fed by wastewater provide both <a href="/wiki/Wastewater_treatment" title="Wastewater treatment">wastewater treatment</a> and <a href="/wiki/Habitat" title="Habitat">habitats</a> for flora and fauna.
+</p>
+<h3><span class="mw-headline" id="Industrial_reuse">Industrial reuse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=7" title="Edit section: Industrial reuse">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The use of reclaimed water to recharge aquifers that are not used as a potable water source.<sup class="reference" id="cite_ref-:4_15-2"><a href="#cite_note-:4-15">[15]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Planned_potable_reuse">Planned potable reuse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=8" title="Edit section: Planned potable reuse">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Planned potable reuse is publicly acknowledged as an intentional project to recycle water for drinking water. There are two ways in which potable water can be delivered for reuse - "Indirect Potable Reuse" (IPR) and "Direct Potable Reuse". Both these forms of reuse are described below, and commonly involve a more formal public process and public consultation program than is the case with de facto or unacknowledged reuse. In ‘indirect’ potable reuse applications, the reclaimed wastewater is used directly or mixed with other sources.<sup class="reference" id="cite_ref-:4_15-3"><a href="#cite_note-:4-15">[15]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p><p>Direct potable reuse is also called "toilet to tap".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2017)">citation needed</span></a></i>]</sup>
+</p><p>Some water agencies reuse highly treated effluent from municipal wastewater or resource recovery plants as a reliable, drought proof source of drinking water. By using advanced purification processes, they produce water that meets all applicable drinking water standards.  System reliability and frequent monitoring and testing are imperative to them meeting stringent controls.<sup class="reference" id="cite_ref-PotableReuseMembraneReview_1-1"><a href="#cite_note-PotableReuseMembraneReview-1">[1]</a></sup>
+</p><p>The water needs of a community, water sources, public health regulations, costs, and the types of water infrastructure in place, such as distribution systems, man-made reservoirs, or natural groundwater basins, determine if and how reclaimed water can be part of the drinking water supply. Some communities reuse water to replenish groundwater basins. Others put it into surface water reservoirs. In these instances the reclaimed water is blended with other water supplies and/or sits in storage for a certain amount of time before it is drawn out and gets treated again at a water treatment or distribution system.  In some communities, the reused water is put directly into pipelines that go to a water treatment plant or distribution system.
+</p><p>Modern technologies such as <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">reverse osmosis</a> and ultraviolet disinfection are commonly used when reclaimed water will be mixed with the drinking water supply.<sup class="reference" id="cite_ref-PotableReuseMembraneReview_1-2"><a href="#cite_note-PotableReuseMembraneReview-1">[1]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Indirect_potable_reuse">Indirect potable reuse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=9" title="Edit section: Indirect potable reuse">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Indirect potable reuse (IPR) means the water is delivered to the consumer indirectly.  After it is purified, the reused water blends with other supplies and/or sits a while in some sort of storage, man-made or natural, before it gets delivered to a pipeline that leads to a water treatment plant or distribution system. That storage could be a <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> basin or a surface water reservoir.
+</p><p>Some municipalities are using and others are investigating Indirect Potable Reuse (IPR) of reclaimed water. For example, reclaimed water may be pumped into (subsurface recharge) or percolated down to (surface recharge) groundwater aquifers, pumped out, treated again, and finally used as drinking water. This technique may also be referred to as <i>groundwater recharging</i>. This includes slow processes of further multiple purification steps via the layers of earth/sand (absorption) and microflora in the soil (biodegradation).
+</p><p>IPR or even unplanned potable use of reclaimed wastewater is used in many countries, where the latter is discharged into groundwater to hold back <a class="mw-redirect" href="/wiki/Saline_intrusion" title="Saline intrusion">saline intrusion</a> in coastal aquifers. IPR has generally included some type of environmental buffer, but conditions in certain areas have created an urgent need for more direct alternatives.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Direct_potable_reuse">Direct potable reuse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=10" title="Edit section: Direct potable reuse">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Direct potable reuse means the reused water is put directly into pipelines that go to a water treatment plant or distribution system.  Direct potable reuse may occur with or without “engineered storage” such as underground or above ground tanks.<sup class="reference" id="cite_ref-:4_15-4"><a href="#cite_note-:4-15">[15]</a></sup>
+</p><p>In a Direct Potable Reuse (DPR) scheme, water is put directly into pipelines that go to a water treatment plant or distribution system.  Direct potable reuse may occur with or without “engineered storage” such as underground or above ground tanks. In other words, DPR is the introduction of reclaimed water derived from urban wastewater after extensive treatment and monitoring to assure that strict water quality requirements are met at all times, directly into a municipal water supply system.
+</p>
+<h4><span id="Indirect_Potable_Reuse_.28IPR.29"></span><span class="mw-headline" id="Indirect_Potable_Reuse_(IPR)">Indirect Potable Reuse (IPR)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=11" title="Edit section: Indirect Potable Reuse (IPR)">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>IPR occurs through the augmentation of drinking water supplies with urban wastewater treated to a level suitable for IPR followed by an environmental buffer (e.g. rivers, dams, aquifers, etc.) that precedes drinking water treatment. In this case, urban wastewater passes through a series of treatment steps that encompasses <a class="mw-redirect" href="/wiki/Membrane_filtration" title="Membrane filtration">membrane filtration</a> and separation processes (e.g. MF, UF and RO), followed by an advanced chemical oxidation process (e.g. UV, UV+H<sub>2</sub>O<sub>2</sub>, ozone).<sup class="reference" id="cite_ref-:4_15-5"><a href="#cite_note-:4-15">[15]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Reuse_in_space">Reuse in space</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=12" title="Edit section: Reuse in space">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wastewater reclamation can be especially important in relation to <a href="/wiki/Human_spaceflight" title="Human spaceflight">human spaceflight</a>.  In 1998, <a href="/wiki/NASA" title="NASA">NASA</a> announced it had built a human waste reclamation <a href="/wiki/Bioreactor" title="Bioreactor">bioreactor</a> designed for use in the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> and a manned <a href="/wiki/Mars" title="Mars">Mars</a> mission. Human <a href="/wiki/Urine" title="Urine">urine</a> and <a href="/wiki/Feces" title="Feces">feces</a> are input into one end of the reactor and pure <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, pure <a href="/wiki/Water" title="Water">water</a>, and <a href="/wiki/Compost" title="Compost">compost</a> (<a class="mw-redirect" href="/wiki/Humanure" title="Humanure">humanure</a>) are output from the other end. The soil could be used for growing <a href="/wiki/Vegetable" title="Vegetable">vegetables</a>, and the <a href="/wiki/Bioreactor" title="Bioreactor">bioreactor</a> also produces <a href="/wiki/Electricity" title="Electricity">electricity</a>.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p><p>Aboard the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a>, <a class="mw-redirect" href="/wiki/Astronauts" title="Astronauts">astronauts</a> have been able to drink recycled urine due to the introduction of the <a class="mw-redirect" href="/wiki/ECLSS" title="ECLSS">ECLSS</a> system.  The system costs $250 million and has been working since May 2009. The system recycles wastewater and urine back into potable water used for drinking, food preparation, and oxygen generation.  This cuts back on the need for resupplying the space station so often.<sup class="reference" id="cite_ref-space_22-0"><a href="#cite_note-space-22">[22]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Benefits">Benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=13" title="Edit section: Benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Water/wastewater reuse, as an alternative water source, can provide significant economic, social and environmental benefits, which are key motivators for implementing such reuse programmes. Specifically, in agriculture, irrigation with wastewater may contribute to improve production yields, reduce the ecological footprint and promote socioeconomic benefits.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> These benefits include:<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup><sup class="reference" id="cite_ref-:4_15-6"><a href="#cite_note-:4-15">[15]</a></sup>
+</p>
+<ul><li>Increased <a href="/wiki/Water_resources" title="Water resources">water availability</a></li>
+<li><a href="/wiki/Drinking_water" title="Drinking water">Drinking water</a> substitution - keep drinking water for drinking and reclaimed water for non-drinking use (i.e. industry, cleaning, irrigation, domestic uses, toilet flushing, etc.)</li>
+<li>Reduced over-abstraction of surface and groundwater</li>
+<li>Reduced energy consumption associated with production, treatment, and distribution of water compared to using deep groundwater resources, water importation or desalination</li>
+<li>Reduced nutrient loads to receiving waters (i.e. rivers, canals and other surface <a href="/wiki/Water_resources" title="Water resources">water resources</a>)</li>
+<li>Reduced manufacturing costs of using high quality reclaimed water</li>
+<li>Increased agricultural production (i.e. crop yields)</li>
+<li>Reduced application of fertilizers (i.e. conservation of nutrients, reducing the need for artificial fertilizer (e.g. soil nutrition by the nutrients existing in the treated effluents))</li>
+<li>Enhanced environmental protection by restoration of streams, <a class="mw-redirect" href="/wiki/Wetlands" title="Wetlands">wetlands</a> and ponds</li>
+<li>Increased employment and local economy (e.g. tourism, agriculture).</li></ul>
+<h2><span class="mw-headline" id="Design_considerations">Design considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=14" title="Edit section: Design considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=15" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Nonpotable_water_pipeline_in_Mountain_View.gk.jpg"><img alt="" class="thumbimage" data-file-height="4032" data-file-width="3024" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nonpotable_water_pipeline_in_Mountain_View.gk.jpg/220px-Nonpotable_water_pipeline_in_Mountain_View.gk.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nonpotable_water_pipeline_in_Mountain_View.gk.jpg/330px-Nonpotable_water_pipeline_in_Mountain_View.gk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nonpotable_water_pipeline_in_Mountain_View.gk.jpg/440px-Nonpotable_water_pipeline_in_Mountain_View.gk.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Nonpotable_water_pipeline_in_Mountain_View.gk.jpg" title="Enlarge"></a></div>A lavender-colored pipeline carrying nonpotable water in a dual piping system in Mountain View, California, U.S.</div></div></div>
+<p>Nonpotable reclaimed water is often distributed with a <a href="/wiki/Dual_piping" title="Dual piping">dual piping</a> network that keeps reclaimed water pipes completely separate from potable water pipes.
+</p><p>In many cities using reclaimed water, it is now in such demand that consumers are only allowed to use it on assigned days. Some cities that previously offered unlimited reclaimed water at a flat rate are now beginning to charge citizens by the amount they use.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2007)">citation needed</span></a></i>]</sup>
+</p>
+<h3><span class="mw-headline" id="Treatment_processes">Treatment processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=16" title="Edit section: Treatment processes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></div>
+<p>For many types of reuse applications wastewater must pass through numerous <a href="/wiki/Sewage_treatment" title="Sewage treatment">sewage treatment</a> process steps before it can be used. Steps might include screening, primary settling, biological treatment, tertiary treatment (for example reverse osmosis), and disinfection.
+</p><p>There are several technologies used to treat wastewater for reuse. A combination of these technologies can meet strict treatment standards and make sure that the processed water is hygienically safe, meaning free from bacteria and viruses. The following are some of the typical technologies: <a class="mw-redirect" href="/wiki/Ozonation" title="Ozonation">Ozonation</a>, <a href="/wiki/Ultrafiltration" title="Ultrafiltration">ultrafiltration</a>, <a href="/wiki/Aerobic_treatment_system" title="Aerobic treatment system">aerobic treatment</a> (<a href="/wiki/Membrane_bioreactor" title="Membrane bioreactor">membrane bioreactor</a>), <a href="/wiki/Forward_osmosis" title="Forward osmosis">forward osmosis</a>, <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">reverse osmosis</a>, <a href="/wiki/Advanced_oxidation_process" title="Advanced oxidation process">advanced oxidation</a>.<sup class="reference" id="cite_ref-PotableReuseMembraneReview_1-3"><a href="#cite_note-PotableReuseMembraneReview-1">[1]</a></sup>
+</p><p>Wastewater is generally treated to only <a href="/wiki/Secondary_treatment" title="Secondary treatment">secondary level treatment</a> when used for irrigation.
+</p><p>A pump station distributes reclaimed water to users around the city. This may include golf courses, agricultural uses, cooling towers, or in land fills.
+</p>
+<h3><span class="mw-headline" id="Alternative_options">Alternative options</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=17" title="Edit section: Alternative options">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rather than treating wastewater for reuse purposes, other options can achieve similar effects of <a href="/wiki/Fresh_water" title="Fresh water">freshwater</a> savings: 
+</p>
+<ul><li><a href="/wiki/Greywater" title="Greywater">Greywater</a> reuse systems - at a household level, treated or untreated greywater may be used for <a href="/wiki/Flush_toilet" title="Flush toilet">flush toilets</a> or to water the garden.</li>
+<li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">Rainwater harvesting</a> and <a href="/wiki/Stormwater_harvesting" title="Stormwater harvesting">stormwater recovery</a>- Urban design systems which incorporate rainwater harvesting and reduce runoff are known as <a class="mw-redirect" href="/wiki/Water_Sensitive_Urban_Design" title="Water Sensitive Urban Design">Water Sensitive Urban Design</a> (WSUD) in Australia, <a class="mw-redirect" href="/wiki/Low-impact_development_(Canada/US)" title="Low-impact development (Canada/US)">Low Impact Development</a> (LID) in the United States and <a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Sustainable urban drainage systems</a> (SUDS) in the United Kingdom.</li>
+<li>Seawater <a href="/wiki/Desalination" title="Desalination">desalination</a> - an energy-intensive process where salt and other minerals are removed from seawater to produce potable water for drinking and irrigation, typically through <a class="mw-redirect" href="/wiki/Membrane_filtration" title="Membrane filtration">membrane filtration</a> (<a class="mw-redirect" href="/wiki/Reverse-osmosis" title="Reverse-osmosis">reverse-osmosis</a>), and <a class="mw-redirect" href="/wiki/Steam-distillation" title="Steam-distillation">steam-distillation</a>.</li></ul>
+<h3><span class="mw-headline" id="Costs">Costs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=18" title="Edit section: Costs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The cost of reclaimed water exceeds that of <a class="mw-redirect" href="/wiki/Potable_water" title="Potable water">potable water</a> in many regions of the world, where a <a href="/wiki/Fresh_water" title="Fresh water">fresh water</a> supply is plentiful. However, reclaimed water is usually sold to citizens at a cheaper rate to encourage its use. As fresh water supplies become limited from distribution costs, increased population demands, or climate change reducing sources, the cost ratios will evolve also. The evaluation of reclaimed water needs to consider the entire water supply system, as it may bring important value of flexibility into the overall system <sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p><p>Reclaimed water systems usually require a <a href="/wiki/Dual_piping" title="Dual piping">dual piping</a> network, often with additional <a href="/wiki/Water_tower" title="Water tower">storage tanks</a>, which adds to the costs of the system.
+</p>
+<h3><span class="mw-headline" id="Barriers_to_implementation">Barriers to implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=19" title="Edit section: Barriers to implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Full-scale implementation and operation of water reuse schemes still face regulatory, economic, social and institutional challenges.<sup class="reference" id="cite_ref-:5_26-0"><a href="#cite_note-:5-26">[26]</a></sup></li>
+<li>Economic viability of water reuse schemes.<sup class="reference" id="cite_ref-:5_26-1"><a href="#cite_note-:5-26">[26]</a></sup></li>
+<li>Costs of water quality monitoring and identification of contaminants.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> Difficulties in contaminant identification may include the separation of inorganic and <a href="/wiki/Persistent_organic_pollutant" title="Persistent organic pollutant">organic pollutants</a>, <a href="/wiki/Microorganism" title="Microorganism">microorganisms</a>, <a href="/wiki/Colloid" title="Colloid">Colloids</a>, and others. <sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></li>
+<li>Full cost recovery from water reuse schemes - lack of financial water pricing systems comparable to already subsidized conventional treatment plants.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup></li></ul>
+<h2><span class="mw-headline" id="Health_aspects">Health aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=20" title="Edit section: Health aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reclaimed water is considered safe when appropriately used. Reclaimed water planned for use in recharging aquifers or augmenting surface water receives adequate and reliable treatment before mixing with naturally occurring water and undergoing natural restoration processes. Some of this water eventually becomes part of drinking water supplies.
+</p><p>A water quality study published in 2009 compared the water quality differences of reclaimed/recycled water, surface water, and groundwater.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>  Results indicate that reclaimed water, surface water, and groundwater are more similar than dissimilar with regard to constituents. The researchers tested for 244 representative constituents typically found in water. When detected, most constituents were in the parts per billion and parts per trillion range. DEET (a bug repellant), and caffeine were found in all water types and virtually in all samples. Triclosan (in anti-bacterial soap &amp; toothpaste) was found in all water types, but detected in higher levels (parts per trillion) in reclaimed water than in surface or groundwater. Very few hormones/steroids were detected in samples, and when detected were at very low levels. Haloacetic acids (a disinfection by-product) were found in all types of samples, even groundwater. The largest difference between reclaimed water and the other waters appears to be that reclaimed water has been disinfected and thus has disinfection by-products (due to chlorine use).
+</p><p>A 2005 study titled "Irrigation of Parks, Playgrounds, and Schoolyards with Reclaimed Water" found that there had been no incidences of illness or disease from either microbial pathogens or chemicals, and the risks of using reclaimed water for irrigation are not measurably different from irrigation using potable water.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p><p>A 2012 study conducted by the <a class="mw-redirect" href="/wiki/National_Research_Council_(United_States)" title="National Research Council (United States)">National Research Council</a> in the United States of America found that the risk of exposure to certain microbial and chemical contaminants from drinking reclaimed water does not appear to be any higher than the risk experienced in at least some current drinking water treatment systems, and may be orders of magnitude lower.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> This report recommends adjustments to the federal regulatory framework that could enhance public health protection for both planned and unplanned (or de facto) reuse and increase public confidence in water reuse.
+</p><p>Many humans associate a feeling of <a href="/wiki/Disgust" title="Disgust">disgust</a> with reclaimed water and 13% of a survey group said they would not even sip it.<sup class="reference" id="cite_ref-Kean_33-0"><a href="#cite_note-Kean-33">[33]</a></sup>
+Nonetheless, the main health risk for potable use of reclaimed water is the potential for pharmaceutical and other household chemicals or their derivatives (<a href="/wiki/Environmental_persistent_pharmaceutical_pollutant" title="Environmental persistent pharmaceutical pollutant">Environmental persistent pharmaceutical pollutants</a>) to persist in this water.<sup class="reference" id="cite_ref-Owens_34-0"><a href="#cite_note-Owens-34">[34]</a></sup> This would be less of a concern if <a class="mw-redirect" href="/wiki/Human_excreta" title="Human excreta">human excreta</a> was kept out of <a href="/wiki/Sewage" title="Sewage">sewage</a> by using <a href="/wiki/Dry_toilet" title="Dry toilet">dry toilets</a> or systems that treat <a href="/wiki/Blackwater_(waste)" title="Blackwater (waste)">blackwater</a> separately from <a href="/wiki/Greywater" title="Greywater">greywater</a>.
+</p><p>To address these concerns about the source water, reclaimed water providers use multi-barrier treatment processes and constant monitoring to ensure that reclaimed water is safe and treated properly for the intended end use.
+</p>
+<h2><span class="mw-headline" id="Environmental_aspects">Environmental aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=21" title="Edit section: Environmental aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is debate about possible health and environmental effects. To address these concerns, A Risk Assessment Study of potential health risks of recycled water and comparisons to conventional Pharmaceuticals and Personal Care Product (PPCP) exposures was conducted by the <a href="/wiki/WateReuse" title="WateReuse">WateReuse Research Foundation</a>. For each of four scenarios in which people come into contact with recycled water used for irrigation - children on the playground, golfers, and landscape, and agricultural workers - the findings from the study indicate that it could take anywhere from a few years to millions of years of exposure to nonpotable recycled water to reach the same exposure to PPCPs that we get in a single day through routine activities.
+</p><p>Using reclaimed water for non-potable uses saves potable water for drinking, since less potable water will be used for non-potable uses.<sup class="reference" id="cite_ref-EPA_35-0"><a href="#cite_note-EPA-35">[35]</a></sup>
+</p><p>It sometimes contains higher levels of nutrients such as <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, <a href="/wiki/Phosphorus" title="Phosphorus">phosphorus</a> and <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> which may somewhat help <a href="/wiki/Fertilizer" title="Fertilizer">fertilize</a> garden and agricultural plants when used for irrigation.
+</p><p>The usage of water reclamation decreases the pollution sent to sensitive environments.  It can also enhance <a href="/wiki/Wetland" title="Wetland">wetlands</a>, which benefits the wildlife depending on that <a class="mw-redirect" href="/wiki/Eco-system" title="Eco-system">eco-system</a>. It also helps to stop the chances of drought as recycling of water reduces the use of fresh water supply from underground sources.  For instance, The San Jose/Santa Clara Water Pollution Control Plant instituted a water recycling program to protect the <a href="/wiki/San_Francisco_Bay" title="San Francisco Bay">San Francisco Bay</a> area's natural salt water marshes.<sup class="reference" id="cite_ref-EPA_35-1"><a href="#cite_note-EPA-35">[35]</a></sup>
+</p><p>The main potential risks that are associated with reclaimed wastewater reuse for irrigation purposes, when the treatment is not adequate are the following:<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup><sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup>
+</p>
+<ol><li><a href="/wiki/Contamination" title="Contamination">contamination</a> of the food chain with microcontaminants, <a class="mw-redirect" href="/wiki/Pathogens" title="Pathogens">pathogens</a> (i.e. <a href="/wiki/Bacteria" title="Bacteria">bacteria</a>, <a class="mw-redirect" href="/wiki/Viruses" title="Viruses">viruses</a>, <a href="/wiki/Protozoa" title="Protozoa">protozoa</a>, <a class="mw-redirect" href="/wiki/Helminths" title="Helminths">helminths</a>), or <a class="mw-redirect" href="/wiki/Antibiotic_resistance" title="Antibiotic resistance">antibiotic resistance</a> determinants;</li>
+<li>soil <a href="/wiki/Soil_salinity" title="Soil salinity">salinization</a> and accumulation of various unknown constituents that might adversely affect agricultural production;</li>
+<li>distribution of the indigenous soil <a class="mw-redirect" href="/wiki/Microbial_communities" title="Microbial communities">microbial communities</a>;</li>
+<li>alteration of the <a class="mw-redirect" href="/wiki/Physicochemical" title="Physicochemical">physicochemical</a> and <a class="mw-redirect" href="/wiki/Microbiological" title="Microbiological">microbiological</a> properties of the soil and contribution to the accumulation of chemical/biological <a class="mw-redirect" href="/wiki/Contaminants" title="Contaminants">contaminants</a> (e.g. <a href="/wiki/Heavy_metals" title="Heavy metals">heavy metals</a>, chemicals (i.e. <a href="/wiki/Boron" title="Boron">boron</a>, <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, <a href="/wiki/Phosphorus" title="Phosphorus">phosphorus</a>, <a href="/wiki/Chloride" title="Chloride">chloride</a>, <a href="/wiki/Sodium" title="Sodium">sodium</a>, <a class="mw-redirect" href="/wiki/Pesticides" title="Pesticides">pesticides</a>/<a class="mw-redirect" href="/wiki/Herbicides" title="Herbicides">herbicides</a>), natural chemicals (i.e. <a class="mw-redirect" href="/wiki/Hormones" title="Hormones">hormones</a>), contaminants of emerging concern (CECs) (i.e. <a class="mw-redirect" href="/wiki/Pharmaceuticals" title="Pharmaceuticals">pharmaceuticals</a> and their <a class="mw-redirect" href="/wiki/Metabolites" title="Metabolites">metabolites</a>, <a class="mw-redirect" href="/wiki/Personal_care_products" title="Personal care products">personal care products</a>, <a href="/wiki/Household_chemicals" title="Household chemicals">household chemicals</a> and <a href="/wiki/Food_additive" title="Food additive">food additives</a> and their transformation products), etc.) in it and subsequent uptake by plants and crops;</li>
+<li>excessive growth of <a href="/wiki/Algae" title="Algae">algae</a> and vegetation in canals carrying wastewater (i.e. <a href="/wiki/Eutrophication" title="Eutrophication">eutrophication</a>);</li>
+<li>groundwater quality degradation by the various reclaimed water contaminants, migrating and accumulating in the soil and aquifers.</li></ol>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=22" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/History_of_water_supply_and_sanitation" title="History of water supply and sanitation">History of water supply and sanitation</a> and <a href="/wiki/Ecological_sanitation#History" title="Ecological sanitation">Ecological sanitation § History</a></div>
+<p>Wastewater reuse (planned or unplanned)  is an ancient practice, which has been applied since the dawn of human history and is closely connected to the development of sanitation provision.<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup>
+</p>
+<h3><span class="mw-headline" id="U.S.">U.S.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=23" title="Edit section: U.S.">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the U.S., the <a href="/wiki/Clean_Water_Act" title="Clean Water Act">Clean Water Act</a> of 1972 mandated elimination of the discharge of untreated waste from municipal and industrial sources to make water safe for fishing and recreation. The US federal government provided billions of dollars in grants for building sewage treatment plants around the country. Modern treatment plants, usually using <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidation</a> and/or <a href="/wiki/Water_chlorination" title="Water chlorination">chlorination</a> in addition to primary and secondary treatment, were required to meet certain standards.<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup>
+</p><p><a class="mw-redirect" href="/wiki/Los_Angeles_County" title="Los Angeles County">Los Angeles County</a>'s sanitation districts started providing treated wastewater for landscape irrigation in parks and golf courses in 1929.  The first reclaimed water facility in <a href="/wiki/California" title="California">California</a> was built at <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>'s <a href="/wiki/Golden_Gate_Park" title="Golden Gate Park">Golden Gate Park</a> in 1932.  The Water Replenishment District of Southern California was the first groundwater agency to obtain permitted use of recycled water for groundwater recharge in 1962.
+</p><p><a href="/wiki/Orange_County,_California" title="Orange County, California">Orange County</a> is located in Southern California, USA, and houses a classic example in indirect potable reuse.<sup class="reference" id="cite_ref-:7_40-0"><a href="#cite_note-:7-40">[40]</a></sup> A large-scale artificial groundwater recharge scheme exists in the area, providing a much-needed freshwater barrier to intruding seawater.<sup class="reference" id="cite_ref-:8_41-0"><a href="#cite_note-:8-41">[41]</a></sup> Part of the injected water consists of recycled water, starting as of 1976 with Water Factory 21, which used RO and high lime to clean the water (production capacity of 19,000 m<sup>3</sup> per day).<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup> This plant was decommissioned in 2004 and has since made place for a new project with a higher capacity (265,000 m<sup>3</sup> per day with an ultimate capacity of 492,000 m<sup>3</sup> per day), under the name of Groundwater Replenishment System.<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Guidelines_and_regulations">Guidelines and regulations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=24" title="Edit section: Guidelines and regulations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="International_organisations">International organisations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=25" title="Edit section: International organisations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> (WHO): “Guidelines for the safe use of wastewater, excreta and greywater” (2006).<sup class="reference" id="cite_ref-WHO2006_4-3"><a href="#cite_note-WHO2006-4">[4]</a></sup></li>
+<li><a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">United Nations Environment Programme</a> (UNEP): “Guidelines for municipal wastewater reuse in the Mediterranean region” (2005).</li>
+<li>United Nations Water Decade Programme on Capacity Development (UNW-DPC): Proceedings on the UNWater project “Safe use of wastewater in agriculture” (2013).</li></ul>
+<h3><span class="mw-headline" id="European_Union">European Union</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=26" title="Edit section: European Union">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The health and environmental safety conditions under which wastewater may be reused are not specifically regulated at the <a href="/wiki/European_Union" title="European Union">European Union</a> (EU) level. There are no guidelines or regulations at EU level on water quality for water reuse purposes. In the <a class="mw-redirect" href="/wiki/Water_Framework_Directive" title="Water Framework Directive">Water Framework Directive</a>, reuse of water is mentioned as one of the possible measures to achieve the Directive’s quality goals, however this remains a relatively vague recommendation rather than a requirement: Part B of Annex VI refers to reuse as one of the “supplementary measures which Member States within each river basin district may choose to adopt as part of the programme of measures required under Article 11(4)”.<sup class="reference" id="cite_ref-:6_44-0"><a href="#cite_note-:6-44">[44]</a></sup>
+</p><p>Besides that, Article 12 of the <a href="/wiki/Urban_Waste_Water_Treatment_Directive" title="Urban Waste Water Treatment Directive">Urban Wastewater Treatment Directive</a> concerning the reuse of treated wastewater states that “treated wastewater shall be reused whenever appropriate”, is not specific enough to promote water reuse and it leaves too much room for interpretation as to what can be considered as an “appropriate” situation to reuse treated wastewater.
+</p><p>Despite the lack of common water reuse criteria at the EU level, several Member States (MS) have issued their own legislative frameworks, regulations, or guidelines for different water reuse applications (e.g. Cyprus, France, Greece, Italy, and Spain).
+</p><p>However, after an evaluation carried out by the <a href="/wiki/European_Commission" title="European Commission">European Commission</a> (EC) on the water reuse standards of several member states it was concluded that they differ in their approach. There are important divergences among the different standards regarding the permitted uses, the parameters to be monitored, and the limit values allowed. This lack of harmonization among water reuse standards might create some trade barriers for agricultural goods irrigated with reclaimed water. Once on the common market, the level of safety in the producing member states may be not considered as sufficient by the importing countries.<sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[45]</a></sup> The most representative standards on wastewater reuse from European member states are the following:<sup class="reference" id="cite_ref-:6_44-1"><a href="#cite_note-:6-44">[44]</a></sup>
+</p>
+<ul><li>Cyprus: Law 106 (I) 2002 Water and Soil pollution control and associated regulations (KDP 772/2003, KDP 269/2005) (Issuing Institutions: Ministry of Agriculture, Natural resources and Environment, Water Development Department).</li>
+<li>France: Jorf num.0153, 4 July 2014. Order of 2014, related to the use of water from treated urban wastewater for irrigation of crops and green areas (Issuing Institutions: Ministry of Public Health, Ministry of Agriculture, Food and Fisheries, Ministry of Ecology, Energy and Sustainability).</li>
+<li>Greece: CMD No 145116. Measures, limits and procedures for reuse of treated wastewater (Issuing Institutions: Ministry of Environment, Energy and Climate Change).</li>
+<li>Italy: DM 185/2003. Technical measures for reuse of wastewater (Issuing Institutions: Ministry of Environment, Ministry of Agriculture, Ministry of Public Health).</li>
+<li>Portugal: NP 4434 2005. Reuse of reclaimed urban water for irrigation (Issuing Institutions: Portuguese Institute for Quality).</li>
+<li>Spain: RD 1620/2007. The legal framework for the reuse of treated wastewater (Issuing Institutions: Ministry of Environment, Ministry of Agriculture, Food and Fisheries, Ministry of Health).</li></ul>
+<h3><span class="mw-headline" id="U.S._2">U.S.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=27" title="Edit section: U.S.">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Reclaimed water is not regulated by the <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">Environmental Protection Agency</a> (EPA), but the EPA has developed water reuse guidelines that were most recently updated in 2012.<sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[46]</a></sup><sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup> The EPA Guidelines for Water Reuse represents the international standard for best practices in water reuse. The document was developed under a Cooperative Research and Development Agreement between the U.S. Environmental Protection Agency (EPA), the U.S. Agency for International Development (USAID), and the global consultancy CDM Smith. The Guidelines provide a framework for states to develop regulations that incorporate the best practices and address local requirements.
+</p>
+<h3><span class="mw-headline" id="Other_countries">Other countries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=28" title="Edit section: Other countries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Canada: “Canadian guidelines for domestic reclaimed water for use in toilet and urinal flushing” (2010).</li>
+<li>China: China National Reclaimed Water Quality Standard; China National Standard GB/T 18920-2002, GB/T 19923-2005, GB/T 18921-2002, GB 20922-2007 and GB/T 19772-2005.</li>
+<li>Israel: Ministry of Health regulation (2005).</li>
+<li>Japan: National Institute for Land and Infrastructure Management: Report of the Microbial Water Quality Project on Treated Sewage and Reclaimed Wastewater (2008).</li>
+<li>Jordan: Jordanian technical base n. 893/2006 Jordan water reuse management Plan (policy).</li>
+<li>Mexico: Mexican Standard NOM-001-ECOL-1996 governing wastewater reuse in Agriculture.</li>
+<li>South Africa Policies: The latest revision of the Water Services Act of 1997 relating to grey-water and treated effluent (Department of Water Affairs and Forestry, 2001).</li>
+<li>Tunisia: Standard for the use of treated wastewater in agriculture (NT 106-109 of 1989) and list of crops that can be irrigated with treated wastewater (Ministry of Agriculture, 1994).</li>
+<li>USA National: United States Environmental Protection Agency (USEPA) “Guidelines for water reuse” (2012).</li>
+<li>Australia National level Guidelines: Government of Australia (the Natural Resource Management Ministerial Council, the Environment Protection and Heritage Council, and the Australian Health Ministers Conference (NRMMC-EPHC-AHMC)): Guidelines for water recycling: managing health and environmental risks” Phase 1, 2006.<sup class="reference" id="cite_ref-:6_44-2"><a href="#cite_note-:6-44">[44]</a></sup></li></ul>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=29" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=30" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Water_supply_and_sanitation_in_Australia" title="Water supply and sanitation in Australia">Water supply and sanitation in Australia</a></div>
+<p>When there are droughts in <a href="/wiki/Australia" title="Australia">Australia</a> interest in reclaimed effluent options increases. Brisbane has been seen as a leader in this trend, and other cities and towns will review the <a class="mw-redirect" href="/wiki/Western_Corridor_Recycled_Water_Project" title="Western Corridor Recycled Water Project">Western Corridor Recycled Water Project</a> once completed.<sup class="reference" id="cite_ref-ReferenceA_48-0"><a href="#cite_note-ReferenceA-48">[48]</a></sup><sup class="reference" id="cite_ref-:0_6-2"><a href="#cite_note-:0-6">[6]</a></sup>
+</p><p>While there are currently no full-scale direct potable reuse schemes operating in Australia, the <a href="/wiki/Australian_Antarctic_Division" title="Australian Antarctic Division">Australian Antarctic Division</a> is investigating the option of installing a potable reuse scheme at its Davis research base in <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a>. To enhance the quality of the marine discharge from the Davis <a class="mw-redirect" href="/wiki/Wastewater_Treatment_Plant" title="Wastewater Treatment Plant">WWTP</a>, a number of different, proven technologies have been selected to be used in the future, such as <a class="mw-redirect" href="/wiki/Ozonation" title="Ozonation">ozonation</a>, UV <a class="mw-redirect" href="/wiki/Disinfection" title="Disinfection">disinfection</a>, <a href="/wiki/Chlorine" title="Chlorine">chlorine</a>, as well as UF, activated carbon filtration and RO.<sup class="reference" id="cite_ref-:0_6-3"><a href="#cite_note-:0-6">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Israel">Israel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=31" title="Edit section: Israel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Water_supply_and_sanitation_in_Israel" title="Water supply and sanitation in Israel">Water supply and sanitation in Israel</a></div>
+<p>As of 2010, Israel leads the world in the proportion of water it recycles.<sup class="reference" id="cite_ref-49"><a href="#cite_note-49">[49]</a></sup> Israel treats 80% of its sewage (400 billion liters a year), and 100% of the sewage from the Tel Aviv metropolitan area is treated and reused as irrigation water for agriculture and public works. As of today, all the reclaimed sewage water in Israel is used for agricultural and land improvement purposes.
+</p>
+<h3><span class="mw-headline" id="Namibia">Namibia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=32" title="Edit section: Namibia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Water_supply_and_sanitation_in_Namibia" title="Water supply and sanitation in Namibia">Water supply and sanitation in Namibia</a></div>
+<p>An example of direct potable reuse is the case of <a href="/wiki/Windhoek" title="Windhoek">Windhoek</a> (Namibia, New Goreangab Water Reclamation Plant (NGWRP)), where treated wastewater has been blended with drinking water for more than 40 years. It is based on the multiple treatment barriers concept (i.e. pre-ozonation, enhanced <a href="/wiki/Coagulation" title="Coagulation">coagulation</a>/dissolved air flotation/rapid sand filtration, and subsequent <a href="/wiki/Ozone" title="Ozone">ozone</a>, biological activated carbon/granular <a href="/wiki/Activated_carbon" title="Activated carbon">activated carbon</a>, <a href="/wiki/Ultrafiltration" title="Ultrafiltration">ultrafiltration</a> (UF), chlorination) to reduce associated risks and improve the water quality.<sup class="reference" id="cite_ref-ReferenceA_48-1"><a href="#cite_note-ReferenceA-48">[48]</a></sup> The reclaimed wastewater nowadays represent about 14% of the city’s drinking water production.<sup class="reference" id="cite_ref-:2_50-0"><a href="#cite_note-:2-50">[50]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Singapore">Singapore</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=33" title="Edit section: Singapore">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Water_supply_and_sanitation_in_Singapore" title="Water supply and sanitation in Singapore">Water supply and sanitation in Singapore</a></div>
+<p>In Singapore reclaimed water is called <a href="/wiki/NEWater" title="NEWater">NEWater</a> and is bottled directly from an advanced water purification facility for educational and celebratory purposes. Though most of the reused water is used for high-tech industry in Singapore, a small amount is returned to reservoirs for drinking water.
+</p><p>At the end of 2002, the programme - successfully branded as NEWater - had garnered a 98 percent acceptance rate, with 82% of respondents indicating that they would drink the reused water directly, another 16% only when mixed with reservoir water.<sup class="reference" id="cite_ref-51"><a href="#cite_note-51">[51]</a></sup> The produced NEWater after stabilization (addition of alkaline chemicals) is in compliance with the WHO requirements and can be piped off to its wide range of applications (e.g. reuse in industry, discharge to a drinking water reservoir).<sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[52]</a></sup> <a href="/wiki/NEWater" title="NEWater">NEWater</a> now makes up around 30% of Singapore’s total use, by 2060 Singapore’s National Water Agency plans to triple the current NEWater capacity as to meet 50% of Singapore’s future water demand.<sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[53]</a></sup>
+</p>
+<h3><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=34" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Water_supply_and_sanitation_in_South_Africa" title="Water supply and sanitation in South Africa">Water supply and sanitation in South Africa</a></div>
+<p>In South Africa, the main driver for wastewater reuse is drought conditions.<sup class="reference" id="cite_ref-:0_6-4"><a href="#cite_note-:0-6">[6]</a></sup>
+</p><p>For example, in <a href="/wiki/Beaufort_West" title="Beaufort West">Beaufort West</a>, South Africa’s a direct wastewater reclamation plant (WRP) for the production of drinking water was constructed in the end of 2010, as a result of acute <a href="/wiki/Water_scarcity" title="Water scarcity">water scarcity</a> (production of 2,300 m<sup>3</sup> per day).<sup class="reference" id="cite_ref-54"><a href="#cite_note-54">[54]</a></sup><sup class="reference" id="cite_ref-55"><a href="#cite_note-55">[55]</a></sup> The process configuration based on multi-barrier concept and includes the following treatment processes: sand filtration, <a class="mw-redirect" href="/wiki/UF" title="UF">UF</a>, two-stage <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">RO</a>, and permeate disinfected by <a class="mw-redirect" href="/wiki/Ultraviolet_light" title="Ultraviolet light">ultraviolet light</a> (UV).
+</p>
+<h3><span class="mw-headline" id="U.S._3">U.S.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=35" title="Edit section: U.S.">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a class="mw-redirect" href="/wiki/Water_supply_and_sanitation_in_the_United_States" title="Water supply and sanitation in the United States">Water supply and sanitation in the United States</a></div>
+<p>The leaders in use of reclaimed water in the U.S. are <a href="/wiki/Florida" title="Florida">Florida</a> and California.<sup class="reference" id="cite_ref-56"><a href="#cite_note-56">[56]</a></sup>
+</p><p>In a January 2012 U.S. National Research Council report,<sup class="reference" id="cite_ref-57"><a href="#cite_note-57">[57]</a></sup> a committee of independent experts found that expanding the reuse of municipal wastewater for irrigation, industrial uses, and drinking water augmentation could significantly increase the United States’ total available water resources.<sup class="reference" id="cite_ref-58"><a href="#cite_note-58">[58]</a></sup>
+</p><p>One example is <a href="/wiki/Orange_County,_California" title="Orange County, California">Orange County</a> which is located in Southern California, USA, and houses a classic example in indirect potable reuse.<sup class="reference" id="cite_ref-:7_40-1"><a href="#cite_note-:7-40">[40]</a></sup> A large-scale artificial groundwater recharge scheme exists in the area, providing a much-needed freshwater barrier to intruding seawater.<sup class="reference" id="cite_ref-:8_41-1"><a href="#cite_note-:8-41">[41]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=36" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Drinking_water.jpg"><img alt="Drinking water.jpg" data-file-height="450" data-file-width="300" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/14px-Drinking_water.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/21px-Drinking_water.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/28px-Drinking_water.jpg 2x" width="14"/></a></span><a href="/wiki/Portal:Water" title="Portal:Water">Water portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png"><img alt="The Earth seen from Apollo 17 with transparent background.png" data-file-height="2776" data-file-width="2790" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/21px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/32px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" width="21"/></a></span><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Earth_Day_Flag.png"><img alt="Earth Day Flag.png" data-file-height="4000" data-file-width="6000" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/24px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/36px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 2x" width="24"/></a></span><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="Aegopodium podagraria1 ies.jpg" data-file-height="700" data-file-width="800" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/36px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 2x" width="24"/></a></span><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" data-file-height="510" data-file-width="800" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" width="24"/></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Water conservation</a></li>
+<li><a href="/wiki/WateReuse" title="WateReuse">WateReuse</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reclaimed_water&amp;action=edit&amp;section=37" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<div class="toccolours" style="float: right; margin: 0 0 0.8em 0.8em; width: 18.55em; border-collapse: collapse; font-size: 87%; clear: right; line-height:1.3em; background:#f9f9f9;border:1px solid #aaa;float:right;"><div style="float:left;"><a href="https://meta.wikimedia.org/wiki/Wiki_Project_Med/App" title="meta:Wiki Project Med/App"><img alt="The offline app allows you to download all of Wikipedia's medical articles in an app to access them when you have no Internet." data-file-height="47" data-file-width="42" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tango_Phone_medapp.svg/42px-Tango_Phone_medapp.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tango_Phone_medapp.svg/63px-Tango_Phone_medapp.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tango_Phone_medapp.svg/84px-Tango_Phone_medapp.svg.png 2x" width="42"/></a></div><div style="float:left;width:6px;padding:1px;height:47px;"></div>Wikipedia's health care articles can be viewed offline with the <b><a class="extiw" href="https://meta.wikimedia.org/wiki/Wiki_Project_Med/App" title="meta:Wiki Project Med/App">Medical Wikipedia app</a></b>.</div>
+<div aria-labelledby="Recycling" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Recycling" title="Template:Recycling"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Recycling" title="Template talk:Recycling"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Recycling&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Recycling" style="font-size:114%;margin:0 4em"><a href="/wiki/Recycling" title="Recycling">Recycling</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Recycling_by_material" title="Recycling by material">Materials</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_recycling" title="Aluminium recycling">Aluminium</a></li>
+<li><a href="/wiki/Asphalt_concrete#Recycling" title="Asphalt concrete">Asphalt</a></li>
+<li><a href="/wiki/Concrete_recycling" title="Concrete recycling">Concrete</a></li>
+<li><a href="/wiki/Copper#Recycling" title="Copper">Copper</a></li>
+<li><a href="/wiki/Cotton_recycling" title="Cotton recycling">Cotton</a></li>
+<li><a href="/wiki/Energy_recycling" title="Energy recycling">Energy</a></li>
+<li><a href="/wiki/Glass_recycling" title="Glass recycling">Glass</a></li>
+<li><a href="/wiki/Gypsum_recycling" title="Gypsum recycling">Gypsum</a></li>
+<li><a href="/wiki/Paper_recycling" title="Paper recycling">Paper</a></li>
+<li><a href="/wiki/Plastic_recycling" title="Plastic recycling">Plastic</a></li>
+<li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant</a></li>
+<li><a href="/wiki/Scrap" title="Scrap">Scrap</a></li>
+<li><a href="/wiki/Timber_recycling" title="Timber recycling">Timber</a></li>
+<li><a href="/wiki/Vegetable_oil_recycling" title="Vegetable oil recycling">Vegetable oil</a></li>
+<li><a class="mw-selflink selflink">Water</a></li></ul>
+</div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Recycling_symbol.svg"><img alt="Recycling symbol.svg" data-file-height="614" data-file-width="628" height="73" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/75px-Recycling_symbol.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/113px-Recycling_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/150px-Recycling_symbol.svg.png 2x" width="75"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Recycling_by_product" title="Recycling by product">Products</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appliance_recycling" title="Appliance recycling">Appliances</a></li>
+<li><a href="/wiki/Automotive_oil_recycling" title="Automotive oil recycling">Automotive oil</a></li>
+<li><a href="/wiki/Battery_recycling" title="Battery recycling">Batteries</a></li>
+<li><a href="/wiki/Bottle_recycling" title="Bottle recycling">Bottles</a></li>
+<li><a href="/wiki/PET_bottle_recycling" title="PET bottle recycling">PET bottles</a></li>
+<li><a href="/wiki/Computer_recycling" title="Computer recycling">Computers</a></li>
+<li><a href="/wiki/Drug_recycling" title="Drug recycling">Drugs</a></li>
+<li><a href="/wiki/Fluorescent_lamp_recycling" title="Fluorescent lamp recycling">Fluorescent lamps</a></li>
+<li><a href="/wiki/Reclaimed_lumber" title="Reclaimed lumber">Lumber</a></li>
+<li><a href="/wiki/Mobile_phone_recycling" title="Mobile phone recycling">Mobile phones</a></li>
+<li><a href="/wiki/Paint_recycling" title="Paint recycling">Paint</a></li>
+<li><a href="/wiki/Ship_disposal" title="Ship disposal">Ships</a></li>
+<li><a href="/wiki/Textile_recycling" title="Textile recycling">Textiles</a></li>
+<li><a href="/wiki/Tire_recycling" title="Tire recycling">Tires</a></li>
+<li><a href="/wiki/Vehicle_recycling" title="Vehicle recycling">Vehicles</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Apparatus</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Recycling_bin" title="Recycling bin">Bins</a></li>
+<li><a href="/wiki/Blue_bag" title="Blue bag">Blue bags</a></li>
+<li><a href="/wiki/Blue_box_recycling_system" title="Blue box recycling system">Blue boxes</a></li>
+<li><a href="/wiki/Recycling_codes" title="Recycling codes">Codes</a></li>
+<li><a href="/wiki/Kerbside_collection" title="Kerbside collection">Collection</a></li>
+<li><a href="/wiki/Materials_recovery_facility" title="Materials recovery facility">Materials recovery facility</a></li>
+<li><a href="/wiki/Waste_sorting" title="Waste sorting">Waste sorting</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Countries</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Recycling_in_Brazil" title="Recycling in Brazil">Brazil</a></li>
+<li><a href="/wiki/Recycling_in_Canada" title="Recycling in Canada">Canada</a></li>
+<li><a href="/wiki/Recycling_in_the_Republic_of_Ireland" title="Recycling in the Republic of Ireland">Ireland</a></li>
+<li><a href="/wiki/Recycling_in_Japan" title="Recycling in Japan">Japan</a></li>
+<li><a href="/wiki/Recycling_in_the_Netherlands" title="Recycling in the Netherlands">The Netherlands</a></li>
+<li><a href="/wiki/Waste_management_in_Switzerland#Recycling" title="Waste management in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Recycling_in_the_United_Kingdom" title="Recycling in the United Kingdom">United Kingdom</a>
+<ul><li><a href="/wiki/Recycling_in_Northern_Ireland" title="Recycling in Northern Ireland">Northern Ireland</a></li></ul></li>
+<li><a href="/wiki/Recycling_in_the_United_States" title="Recycling in the United States">United States</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dematerialization_(products)" title="Dematerialization (products)">Dematerialization</a></li>
+<li><a href="/wiki/Downcycling" title="Downcycling">Downcycling</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">Eco-industrial park</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Freecycling" title="Freecycling">Freecycling</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Land_recycling" title="Land recycling">Land recycling</a></li>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">Material flow analysis</a></li>
+<li><a href="/wiki/Precycling" title="Precycling">Precycling</a></li>
+<li><a href="/wiki/Product_stewardship" title="Product stewardship">Product stewardship</a></li>
+<li><a href="/wiki/Recursive_recycling" title="Recursive recycling">Recursive recycling</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Recycling (ecological)</a></li>
+<li><a href="/wiki/Resource_recovery" title="Resource recovery">Resource recovery</a></li>
+<li><a href="/wiki/Reuse_of_excreta" title="Reuse of excreta">Reuse of excreta</a></li>
+<li><a href="/wiki/Repurposing" title="Repurposing">Repurposing</a></li>
+<li><a href="/wiki/Reuse" title="Reuse">Reuse</a></li>
+<li><a href="/wiki/Upcycling" title="Upcycling">Upcycling</a></li>
+<li><a href="/wiki/Dumpster_diving" title="Dumpster diving">Urban lumberjacking</a></li>
+<li><a href="/wiki/Waste_hierarchy" title="Waste hierarchy">Waste hierarchy</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimisation</a></li>
+<li><a href="/wiki/Waste_picker" title="Waste picker">Waste picking</a></li>
+<li><a href="/wiki/Zero_waste" title="Zero waste">Zero waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Compost" title="Compost">Composting</a></li>
+<li><a class="mw-redirect" href="/wiki/Container_deposit_legislation" title="Container deposit legislation">Container deposit legislation</a></li>
+<li><a href="/wiki/Dumpster_diving" title="Dumpster diving">Dumpster diving</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical consumerism</a></li>
+<li><a href="/wiki/Freeganism" title="Freeganism">Freeganism</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Waste" title="Waste">Waste</a></li>
+<li><a href="/wiki/Waste-to-energy" title="Waste-to-energy">Waste-to-energy</a></li>
+<li><a href="/wiki/Waste_collection" title="Waste collection">Waste collection</a></li>
+<li><a href="/wiki/Waste_management_law" title="Waste management law">Waste management law</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+<li><a href="/wiki/List_of_waste_management_concepts" title="List of waste management concepts">Waste management concepts</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Recycling" title="Category:Recycling">Category</a>
+<ul><li><a href="/wiki/Category:Recycling_by_country" title="Category:Recycling by country">by country</a></li>
+<li><a href="/wiki/Category:Recycling_by_material" title="Category:Recycling by material">by material</a></li>
+<li><a href="/wiki/Category:Recycling_by_product" title="Category:Recycling by product">by product</a></li>
+<li><a href="/wiki/Category:Recycling_organisations" title="Category:Recycling organisations">organizations</a></li></ul></li>
+<li><a href="/wiki/Index_of_recycling_articles" title="Index of recycling articles">Index</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Recycling" title="commons:Category:Recycling">Commons</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Natural_resources" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Natural_resources" title="Template:Natural resources"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Natural_resources" title="Template talk:Natural resources"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Natural_resources&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Natural_resources" style="font-size:114%;margin:0 4em"><a href="/wiki/Natural_resource" title="Natural resource">Natural resources</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Air</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;"><a href="/wiki/Air_pollution" title="Air pollution">Pollution / quality</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">Ambient standards <span style="font-size:90%;">(USA)</span></a></li>
+<li><a href="/wiki/Air_quality_index" title="Air quality index">Index</a></li>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor</a>
+<ul><li><a href="/wiki/Indoor_air_pollution_in_developing_nations" title="Indoor air pollution in developing nations">developing nations</a></li></ul></li>
+<li><a href="/wiki/Air_quality_law" title="Air quality law">Law</a>
+<ul><li><a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act <span style="font-size:90%;">(USA)</span></a></li></ul></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Emissions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airshed" title="Airshed">Airshed</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Trading</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Deforestation (REDD)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Carson_Fall_Mt_Kinabalu.jpg" title="Carson Falls on Mount Kinabalu, Borneo"><img alt="Carson Falls on Mount Kinabalu, Borneo" data-file-height="3456" data-file-width="2592" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/100px-Carson_Fall_Mt_Kinabalu.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/150px-Carson_Fall_Mt_Kinabalu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/200px-Carson_Fall_Mt_Kinabalu.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Energy" title="Energy">Energy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Energy_law" title="Energy law">Law</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_resources" title="Energy resources">Resources</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuels</a> (<a href="/wiki/Peak_oil" title="Peak oil">peak oil</a>)</li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydro</a>
+<ul><li><a href="/wiki/Tidal_power" title="Tidal power">tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">wave</a></li></ul></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a>
+<ul><li><a href="/wiki/Sunlight" title="Sunlight">sunlight</a></li>
+<li><a href="/wiki/Shade_(shadow)" title="Shade (shadow)">shade</a></li></ul></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Land" title="Land">Land</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arable_land" title="Arable land">Arable</a>
+<ul><li><a href="/wiki/Peak_farmland" title="Peak farmland">peak farmland</a></li></ul></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Degradation</a></li>
+<li><a href="/wiki/Land_law" title="Land law">Law</a>
+<ul><li><a href="/wiki/Property_law" title="Property law">property</a></li></ul></li>
+<li><a href="/wiki/Land_management" title="Land management">Management</a>
+<ul><li><a href="/wiki/Habitat_conservation" title="Habitat conservation">habitat conservation</a></li></ul></li>
+<li><a href="/wiki/Mineral" title="Mineral">Minerals</a>
+<ul><li><a href="/wiki/Mining" title="Mining">mining</a>
+<ul><li><a href="/wiki/Mining_law" title="Mining law">law</a></li>
+<li><a href="/wiki/Sand_mining" title="Sand mining">sand</a></li></ul></li>
+<li><a href="/wiki/Peak_minerals" title="Peak minerals">peak</a></li>
+<li><a href="/wiki/Mineral_rights" title="Mineral rights">rights</a></li></ul></li>
+<li><a href="/wiki/Soil" title="Soil">Soil</a>
+<ul><li><a href="/wiki/Soil_conservation" title="Soil conservation">conservation</a></li>
+<li><a href="/wiki/Soil_fertility" title="Soil fertility">fertility</a></li>
+<li><a href="/wiki/Soil_health" title="Soil health">health</a></li>
+<li><a href="/wiki/Soil_resilience" title="Soil resilience">resilience</a></li></ul></li>
+<li><a href="/wiki/Land_use" title="Land use">Use</a>
+<ul><li><a href="/wiki/Land-use_planning" title="Land-use planning">planning</a></li>
+<li><a href="/wiki/Open_space_reserve" title="Open space reserve">reserve</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Life" title="Life">Life</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Bioprospecting" title="Bioprospecting">Bioprospecting</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a class="mw-redirect" href="/wiki/Bushfood" title="Bushfood">Bushfood</a></li>
+<li><a href="/wiki/Bushmeat" title="Bushmeat">Bushmeat</a></li>
+<li><a href="/wiki/Fishery" title="Fishery">Fisheries</a>
+<ul><li><a href="/wiki/Fisheries_law" title="Fisheries law">law</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">management</a></li></ul></li>
+<li><a href="/wiki/Food" title="Food">Food</a></li>
+<li><a href="/wiki/Forest" title="Forest">Forests</a>
+<ul><li><a href="/wiki/Forest_genetic_resources" title="Forest genetic resources">genetic resources</a></li>
+<li><a href="/wiki/Forestry_law" title="Forestry law">law</a></li>
+<li><a href="/wiki/Forest_management" title="Forest management">management</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Game_(food)" title="Game (food)">Game</a>
+<ul><li><a href="/wiki/Game_law" title="Game law">law</a></li></ul></li>
+<li><a href="/wiki/Gene_bank" title="Gene bank">Gene bank</a></li>
+<li><a href="/wiki/List_of_plants_used_in_herbalism" title="List of plants used in herbalism">Herbalist plants</a></li>
+<li><a href="/wiki/Marine_conservation" title="Marine conservation">Marine conservation</a></li>
+<li><a href="/wiki/Non-timber_forest_product" title="Non-timber forest product">Non-timber forest products</a></li>
+<li><a href="/wiki/Rangeland" title="Rangeland">Rangeland</a></li>
+<li><a href="/wiki/Seed_bank" title="Seed bank">Seed bank</a></li>
+<li><a href="/wiki/Wildlife" title="Wildlife">Wildlife</a>
+<ul><li><a href="/wiki/Wildlife_conservation" title="Wildlife conservation">conservation</a></li>
+<li><a href="/wiki/Wildlife_management" title="Wildlife management">management</a></li></ul></li>
+<li><a href="/wiki/Wood" title="Wood">Wood</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Water" title="Water">Water</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Types / location</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aquifer" title="Aquifer">Aquifer</a>
+<ul><li><a href="/wiki/Aquifer_storage_and_recovery" title="Aquifer storage and recovery">storage and recovery</a></li></ul></li>
+<li><a href="/wiki/Drinking_water" title="Drinking water">Drinking</a></li>
+<li><a href="/wiki/Fresh_water" title="Fresh water">Fresh</a></li>
+<li><a href="/wiki/Groundwater" title="Groundwater">Groundwater</a>
+<ul><li><a href="/wiki/Groundwater_pollution" title="Groundwater pollution">pollution</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">recharge</a></li>
+<li><a href="/wiki/Groundwater_remediation" title="Groundwater remediation">remediation</a></li></ul></li>
+<li><a href="/wiki/Hydrosphere" title="Hydrosphere">Hydrosphere</a></li>
+<li><a href="/wiki/Ice" title="Ice">Ice</a>
+<ul><li><a href="/wiki/Iceberg" title="Iceberg">bergs</a></li>
+<li><a href="/wiki/Glacier" title="Glacier">glacial</a></li>
+<li><a href="/wiki/Polar_ice_cap" title="Polar ice cap">polar</a></li></ul></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a>
+<ul><li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">harvesting</a></li></ul></li>
+<li><a href="/wiki/Stormwater" title="Stormwater">Stormwater</a></li>
+<li><a href="/wiki/Surface_water" title="Surface water">Surface water</a></li>
+<li><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a>
+<ul><li><a class="mw-selflink selflink">reclaimed</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Flood" title="Flood">Floods</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_law" title="Water law">Law</a></li>
+<li><a href="/wiki/Leaching_(agriculture)" title="Leaching (agriculture)">Leaching</a></li>
+<li><a href="/wiki/Sanitation" title="Sanitation">Sanitation</a></li>
+<li><a href="/wiki/Water_conflict" title="Water conflict">Conflict</a></li>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Peak_water" title="Peak water">Peak water</a></li>
+<li><a href="/wiki/Water_pollution" title="Water pollution">Pollution</a></li>
+<li><a href="/wiki/Water_privatization" title="Water privatization">Privatization</a></li>
+<li><a href="/wiki/Water_quality" title="Water quality">Quality</a></li>
+<li><a href="/wiki/Water_right" title="Water right">Right</a></li>
+<li><a href="/wiki/Water_resources" title="Water resources">Resources</a>
+<ul><li><a href="/wiki/Water_resource_management" title="Water resource management">management</a></li>
+<li><a href="/wiki/Water_resource_policy" title="Water resource policy">policy</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Commons" title="Commons">Commons</a>
+<ul><li><a href="/wiki/Enclosure" title="Enclosure">enclosure</a></li>
+<li><a href="/wiki/Global_commons" title="Global commons">global</a></li>
+<li><a href="/wiki/Common_land" title="Common land">land</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">tragedy of</a></li></ul></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Economics</a>
+<ul><li><a href="/wiki/Ecological_economics" title="Ecological economics">ecological</a></li>
+<li><a href="/wiki/Land_(economics)" title="Land (economics)">land</a></li></ul></li>
+<li><a href="/wiki/Ecosystem_services" title="Ecosystem services">Ecosystem services</a></li>
+<li><a href="/wiki/Exploitation_of_natural_resources" title="Exploitation of natural resources">Exploitation</a>
+<ul><li><a href="/wiki/Overexploitation" title="Overexploitation">overexploitation</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li></ul></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Management</a>
+<ul><li><a href="/wiki/Adaptive_management" title="Adaptive management">adaptive</a></li></ul></li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a>
+<ul><li><a href="/wiki/Natural_capital_accounting" title="Natural capital accounting">accounting</a></li></ul></li>
+<li><a href="/wiki/Nature_reserve" title="Nature reserve">Nature reserve</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Wilderness" title="Wilderness">Wilderness</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;"><a href="/wiki/Resource" title="Resource">Resource</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Common-pool_resource" title="Common-pool resource">Common-pool</a></li>
+<li><a href="/wiki/Conflict_resource" title="Conflict resource">Conflict <span style="font-size:90%;">(perpetuation)</span></a></li>
+<li><a href="/wiki/Resource_curse" title="Resource curse">Curse</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Depletion</a></li>
+<li><a class="mw-redirect" href="/wiki/Resource_extraction" title="Resource extraction">Extraction</a></li>
+<li><a href="/wiki/Resource_nationalism" title="Resource nationalism">Nationalism</a></li>
+<li><a href="/wiki/Renewable_resource" title="Renewable resource">Renewable</a> / <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">Non-renewable</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portals</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">Agriculture and agronomy</a></li>
+<li><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></li>
+<li><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment</a></li>
+<li><a href="/wiki/Portal:Fishing" title="Portal:Fishing">Fishing</a></li>
+<li><a href="/wiki/Portal:Forestry" title="Portal:Forestry">Forestry</a></li>
+<li><a href="/wiki/Portal:Mining" title="Portal:Mining">Mining</a></li>
+<li><a href="/wiki/Portal:Water" title="Portal:Water">Water</a></li>
+<li><a href="/wiki/Portal:Wetlands" title="Portal:Wetlands">Wetlands</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Natural_resources" title="Category:Natural resources">Category</a>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r865336399">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Category:Natural_resources_agencies" title="Category:Natural resources agencies">agencies</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_law" title="Category:Natural resources law">law</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resource_management" title="Category:Natural resource management">management</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_ministries" title="Category:Natural resources ministries">ministries</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">organizations</a></span></li></ul></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/List_of_colleges_of_natural_resources" title="List of colleges of natural resources">Colleges</a></span></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Natural_resources" title="commons:Category:Natural resources">Natural resources</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Wastewater" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wastewater" title="Template:Wastewater"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wastewater" title="Template talk:Wastewater"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wastewater&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Wastewater" style="font-size:114%;margin:0 4em"><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acid_mine_drainage" title="Acid mine drainage">Acid mine drainage</a></li>
+<li><a href="/wiki/Ballast_water_discharge_and_the_environment" title="Ballast water discharge and the environment">Ballast water</a></li>
+<li><a href="/wiki/Bathroom" title="Bathroom">Bathroom</a></li>
+<li><a href="/wiki/Blackwater_(coal)" title="Blackwater (coal)">Blackwater (coal)</a></li>
+<li><a href="/wiki/Blackwater_(waste)" title="Blackwater (waste)">Blackwater (waste)</a></li>
+<li><a href="/wiki/Boiler_blowdown" title="Boiler blowdown">Boiler blowdown</a></li>
+<li><a href="/wiki/Brine" title="Brine">Brine</a></li>
+<li><a href="/wiki/Combined_sewer" title="Combined sewer">Combined sewer</a></li>
+<li><a href="/wiki/Cooling_tower#Wet_cooling_tower_material_balance" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Water_cooling" title="Water cooling">Cooling water</a></li>
+<li><a href="/wiki/Fecal_sludge_management" title="Fecal sludge management">Fecal sludge</a></li>
+<li><a href="/wiki/Greywater" title="Greywater">Greywater</a></li>
+<li><a href="/wiki/Infiltration/Inflow" title="Infiltration/Inflow">Infiltration/Inflow</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment#Sources_of_industrial_wastewater" title="Industrial wastewater treatment">Industrial effluent</a></li>
+<li><a href="/wiki/Ion_exchange#Regeneration_wastewater" title="Ion exchange">Ion exchange</a></li>
+<li><a href="/wiki/Leachate" title="Leachate">Leachate</a></li>
+<li><a href="/wiki/Concentrated_animal_feeding_operation" title="Concentrated animal feeding operation">Manure</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper#Water_pollution" title="Environmental impact of paper">Papermaking</a></li>
+<li><a href="/wiki/Produced_water" title="Produced water">Produced water</a></li>
+<li><a href="/wiki/Return_flow" title="Return flow">Return flow</a></li>
+<li><a href="/wiki/Reverse_osmosis#Waste_stream_considerations" title="Reverse osmosis">Reverse osmosis</a></li>
+<li><a href="/wiki/Sanitary_sewer" title="Sanitary sewer">Sanitary sewer</a></li>
+<li><a class="mw-redirect" href="/wiki/Septage" title="Septage">Septage</a></li>
+<li><a href="/wiki/Sewage" title="Sewage">Sewage</a></li>
+<li><a href="/wiki/Sewage_sludge" title="Sewage sludge">Sewage sludge</a></li>
+<li><a href="/wiki/Toilet" title="Toilet">Toilet</a></li>
+<li><a href="/wiki/Urban_runoff" title="Urban runoff">Urban runoff</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wastewater_quality_indicators" title="Wastewater quality indicators">Quality indicators</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adsorbable_organic_halides" title="Adsorbable organic halides">Adsorbable organic halides</a></li>
+<li><a href="/wiki/Biochemical_oxygen_demand" title="Biochemical oxygen demand">Biochemical oxygen demand</a></li>
+<li><a href="/wiki/Chemical_oxygen_demand" title="Chemical oxygen demand">Chemical oxygen demand</a></li>
+<li><a href="/wiki/Coliform_index" title="Coliform index">Coliform index</a></li>
+<li><a href="/wiki/Oxygen_saturation" title="Oxygen saturation">Oxygen saturation</a></li>
+<li><a href="/wiki/Heavy_metals" title="Heavy metals">Heavy metals</a></li>
+<li><a href="/wiki/PH" title="PH">pH</a></li>
+<li><a href="/wiki/Salinity" title="Salinity">Salinity</a></li>
+<li><a href="/wiki/Temperature" title="Temperature">Temperature</a></li>
+<li><a href="/wiki/Total_dissolved_solids" title="Total dissolved solids">Total dissolved solids</a></li>
+<li><a href="/wiki/Total_suspended_solids" title="Total suspended solids">Total suspended solids</a></li>
+<li><a href="/wiki/Turbidity" title="Turbidity">Turbidity</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wastewater_treatment" title="Wastewater treatment">Treatment options</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Activated_sludge" title="Activated sludge">Activated sludge</a></li>
+<li><a href="/wiki/Aerated_lagoon" title="Aerated lagoon">Aerated lagoon</a></li>
+<li><a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">Agricultural wastewater treatment</a></li>
+<li><a href="/wiki/API_oil%E2%80%93water_separator" title="API oil–water separator">API oil–water separator</a></li>
+<li><a href="/wiki/Carbon_filtering" title="Carbon filtering">Carbon filtering</a></li>
+<li><a href="/wiki/Water_chlorination" title="Water chlorination">Chlorination</a></li>
+<li><a href="/wiki/Clarifier" title="Clarifier">Clarifier</a></li>
+<li><a href="/wiki/Constructed_wetland" title="Constructed wetland">Constructed wetland</a></li>
+<li><a href="/wiki/Decentralized_wastewater_system" title="Decentralized wastewater system">Decentralized wastewater system</a></li>
+<li><a href="/wiki/Extended_aeration" title="Extended aeration">Extended aeration</a></li>
+<li><a href="/wiki/Facultative_lagoon" title="Facultative lagoon">Facultative lagoon</a></li>
+<li><a href="/wiki/Fecal_sludge_management" title="Fecal sludge management">Fecal sludge management</a></li>
+<li><a href="/wiki/Filtration" title="Filtration">Filtration</a></li>
+<li><a href="/wiki/Imhoff_tank" title="Imhoff tank">Imhoff tank</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">Industrial wastewater treatment</a></li>
+<li><a href="/wiki/Ion_exchange" title="Ion exchange">Ion exchange</a></li>
+<li><a href="/wiki/Membrane_bioreactor" title="Membrane bioreactor">Membrane bioreactor</a></li>
+<li><a href="/wiki/Reverse_osmosis" title="Reverse osmosis">Reverse osmosis</a></li>
+<li><a href="/wiki/Rotating_biological_contactor" title="Rotating biological contactor">Rotating biological contactor</a></li>
+<li><a href="/wiki/Secondary_treatment" title="Secondary treatment">Secondary treatment</a></li>
+<li><a href="/wiki/Sedimentation_(water_treatment)" title="Sedimentation (water treatment)">Sedimentation</a></li>
+<li><a href="/wiki/Septic_tank" title="Septic tank">Septic tank</a></li>
+<li><a href="/wiki/Settling_basin" title="Settling basin">Settling basin</a></li>
+<li><a href="/wiki/Sewage_sludge_treatment" title="Sewage sludge treatment">Sewage sludge treatment</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Sewer_mining" title="Sewer mining">Sewer mining</a></li>
+<li><a class="mw-redirect" href="/wiki/Stabilization_pond" title="Stabilization pond">Stabilization pond</a></li>
+<li><a href="/wiki/Trickling_filter" title="Trickling filter">Trickling filter</a></li>
+<li><a href="/wiki/Ultraviolet_germicidal_irradiation" title="Ultraviolet germicidal irradiation">Ultraviolet germicidal irradiation</a></li>
+<li><a href="/wiki/Upflow_anaerobic_sludge_blanket_digestion" title="Upflow anaerobic sludge blanket digestion">UASB</a></li>
+<li><a href="/wiki/Vermifilter" title="Vermifilter">Vermifilter</a></li>
+<li><a class="mw-redirect" href="/wiki/Wastewater_treatment_plant" title="Wastewater treatment plant">Wastewater treatment plant</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Disposal options</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Combined_sewer" title="Combined sewer">Combined sewer</a></li>
+<li><a href="/wiki/Evaporation_pond" title="Evaporation pond">Evaporation pond</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">Groundwater recharge</a></li>
+<li><a href="/wiki/Infiltration_basin" title="Infiltration basin">Infiltration basin</a></li>
+<li><a href="/wiki/Injection_well" title="Injection well">Injection well</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a class="mw-redirect" href="/wiki/Marine_dumping" title="Marine dumping">Marine dumping</a></li>
+<li><a href="/wiki/Marine_outfall" title="Marine outfall">Marine outfall</a></li>
+<li><a class="mw-selflink selflink">Reclaimed water</a></li>
+<li><a href="/wiki/Sanitary_sewer" title="Sanitary sewer">Sanitary sewer</a></li>
+<li><a href="/wiki/Septic_drain_field" title="Septic drain field">Septic drain field</a></li>
+<li><a href="/wiki/Sewage_farm" title="Sewage farm">Sewage farm</a></li>
+<li><a href="/wiki/Storm_drain" title="Storm drain">Storm drain</a></li>
+<li><a href="/wiki/Surface_runoff" title="Surface runoff">Surface runoff</a></li>
+<li><a href="/wiki/Vacuum_sewer" title="Vacuum sewer">Vacuum sewer</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a class="image" href="/wiki/File:Discharge_pipe.jpg"><img alt="Discharge pipe.jpg" class="noviewer" data-file-height="997" data-file-width="1500" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Discharge_pipe.jpg/16px-Discharge_pipe.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Discharge_pipe.jpg/24px-Discharge_pipe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Discharge_pipe.jpg/32px-Discharge_pipe.jpg 2x" width="16"/></a> <a href="/wiki/Portal:Wastewater" title="Portal:Wastewater">Wastewater portal</a> •  <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Sewerage" title="Category:Sewerage">Category: Sewerage</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a class="mw-selflink selflink">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20181101200531
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.840 seconds
+Real time usage: 0.986 seconds
+Preprocessor visited node count: 3686/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 197525/2097152 bytes
+Template argument size: 1969/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 149882/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.379/10.000 seconds
+Lua memory usage: 6.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  699.205      1 -total
+ 61.98%  433.374      1 Template:Reflist
+ 23.75%  166.068     12 Template:Cite_journal
+ 16.50%  115.353     30 Template:Cite_web
+ 10.71%   74.891      7 Template:Navbox
+  7.48%   52.286      2 Template:Citation_needed
+  6.51%   45.500      2 Template:Fix
+  4.97%   34.782      8 Template:Cite_book
+  4.58%   32.024      1 Template:Short_description
+  4.32%   30.201      1 Template:Pagetype
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1018367-0!canonical and timestamp 20181101200530 and revision id 864166274
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Reclaimed_water&amp;oldid=864166274">https://en.wikipedia.org/w/index.php?title=Reclaimed_water&amp;oldid=864166274</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Water_conservation" title="Category:Water conservation">Water conservation</a></li><li><a href="/wiki/Category:Water_supply" title="Category:Water supply">Water supply</a></li><li><a href="/wiki/Category:Irrigation" title="Category:Irrigation">Irrigation</a></li><li><a href="/wiki/Category:Water_and_the_environment" title="Category:Water and the environment">Water and the environment</a></li><li><a href="/wiki/Category:Water_treatment" title="Category:Water treatment">Water treatment</a></li><li><a href="/wiki/Category:Sanitation" title="Category:Sanitation">Sanitation</a></li><li><a href="/wiki/Category:Sustainable_technologies" title="Category:Sustainable technologies">Sustainable technologies</a></li><li><a href="/wiki/Category:Sustainable_agriculture" title="Category:Sustainable agriculture">Sustainable agriculture</a></li><li><a href="/wiki/Category:Recycling_by_material" title="Category:Recycling by material">Recycling by material</a></li><li><a href="/wiki/Category:Reuse" title="Category:Reuse">Reuse</a></li><li><a href="/wiki/Category:Hydrology_and_urban_planning" title="Category:Hydrology and urban planning">Hydrology and urban planning</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_URL_errors" title="Category:Pages with URL errors">Pages with URL errors</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2017" title="Category:Articles with unsourced statements from March 2017">Articles with unsourced statements from March 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2007" title="Category:Articles with unsourced statements from February 2007">Articles with unsourced statements from February 2007</a></li><li><a href="/wiki/Category:Articles_with_medical_app_sidebar" title="Category:Articles with medical app sidebar">Articles with medical app sidebar</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Reclaimed+water" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Reclaimed+water" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Reclaimed_water" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Reclaimed_water" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Reclaimed_water">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Reclaimed_water&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Reclaimed_water&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Reclaimed_water" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Reclaimed_water" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Reclaimed_water&amp;oldid=864166274" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Reclaimed_water&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3267830" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Reclaimed_water&amp;id=864166274" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Reclaimed+water">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Reclaimed+water&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Reclaimed_water&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9_%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9" hreflang="ar" lang="ar" title="معالجة المياه المستعملة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A7%83%E0%A6%A4_%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF" hreflang="bn" lang="bn" title="পুনর্ব্যবহৃত পানি – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Reutilitzaci%C3%B3_de_l%27aigua" hreflang="ca" lang="ca" title="Reutilització de l'aigua – Catalan">Català</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A2%D8%A8_%D8%A7%D8%B5%D9%84%D8%A7%D8%AD%E2%80%8C%D8%B4%D8%AF%D9%87" hreflang="fa" lang="fa" title="آب اصلاح‌شده – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/R%C3%A9utilisation_ou_recyclage_des_eaux_us%C3%A9es" hreflang="fr" lang="fr" title="Réutilisation ou recyclage des eaux usées – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A4%91%EC%88%98%EB%8F%84" hreflang="ko" lang="ko" title="중수도 – Korean">한국어</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%97%D7%96%D7%95%D7%A8_%D7%9E%D7%99%D7%9D" hreflang="he" lang="he" title="מיחזור מים – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B0%B4%E9%81%93" hreflang="ja" lang="ja" title="中水道 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Recircularea_apei" hreflang="ro" lang="ro" title="Recircularea apei – Romanian">Română</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%97%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B4%D0%B0" hreflang="uk" lang="uk" title="Зворотна вода – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%B0%B4" hreflang="zh" lang="zh" title="中水 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3267830#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 October 2018, at 14:41<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Reclaimed_water&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.840","walltime":"0.986","ppvisitednodes":{"value":3686,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":197525,"limit":2097152},"templateargumentsize":{"value":1969,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":149882,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  699.205      1 -total"," 61.98%  433.374      1 Template:Reflist"," 23.75%  166.068     12 Template:Cite_journal"," 16.50%  115.353     30 Template:Cite_web"," 10.71%   74.891      7 Template:Navbox","  7.48%   52.286      2 Template:Citation_needed","  6.51%   45.500      2 Template:Fix","  4.97%   34.782      8 Template:Cite_book","  4.58%   32.024      1 Template:Short_description","  4.32%   30.201      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.379","limit":"10.000"},"limitreport-memusage":{"value":6573093,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20181101200531","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1250"});});</script>
+</body>
+</html>

@@ -1,0 +1,426 @@
+https://en.wikipedia.org/wiki/Fertility_and_intelligence
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Fertility and intelligence - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fertility_and_intelligence","wgTitle":"Fertility and intelligence","wgCurRevisionId":865962613,"wgRevisionId":865962613,"wgArticleId":18208266,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All accuracy disputes","Articles with disputed statements from April 2012","Factors related to intelligence","Fertility","Eugenics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fertility_and_intelligence","wgRelevantArticleId":18208266,"wgRequestId":"W9cEVgpAIEIAAJa1X9gAAABN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5445578","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fertility_and_intelligence" rel="alternate"/>
+<link href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Fertility_and_intelligence" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fertility_and_intelligence rootpage-Fertility_and_intelligence skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Fertility and intelligence</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The relationship between <b>fertility and intelligence</b> has been investigated in many <a href="/wiki/Demography" title="Demography">demographic</a> studies, with contradicting evidence that on a population level, <a href="/wiki/Intelligence" title="Intelligence">intelligence</a> is negatively correlated with <a href="/wiki/Fertility#Demography" title="Fertility">fertility</a> rate, and <a href="/wiki/Cognitive_epidemiology" title="Cognitive epidemiology">positively correlated with survival rate of offspring</a>.<sup class="reference" id="cite_ref-jstor.org_1-0"><a href="#cite_note-jstor.org-1">[1]</a></sup> The combined net effect of these two forces on ultimate population intelligence is not well studied and is unclear. It is theorized that if an inverse correlation of IQ with <a class="mw-redirect" href="/wiki/Fertility_rate" title="Fertility rate">fertility rate</a> were stronger than the correlation of survival rate, and if heritable factors involved in IQ were consistently expressed in populations with different fertility rates, and if this continued over a significant number of generations, it could lead to a decrease in population IQ scores. The <a href="/wiki/Flynn_effect" title="Flynn effect">Flynn effect</a> demonstrates an increase in phenotypic IQ scores over time, but confounding environmental factors during the same period of time preclude any conclusion concerning underlying change in genotypic IQ. Other correlates of IQ include <a href="/wiki/Income" title="Income">income</a> and educational attainment,<sup class="reference" id="cite_ref-isbn1591471818_2-0"><a href="#cite_note-isbn1591471818-2">[2]</a></sup> which are also <a href="/wiki/Fertility_factor_(demography)" title="Fertility factor (demography)">fertility factors</a> that are inversely correlated with fertility rate, and are to some degree heritable. It should also be noted that while fertility measures offspring per woman, if one needs to predict population-level changes, the average age of motherhood also needs to be considered, with lower age of motherhood potentially having a greater effect than fertility rate. (For example, a subpopulation with fertility rate of 4 with average age of reproduction at 40 years old, generally speaking, will have relatively less genotypical growth than a subpopulation with fertility rate of 3 but average age of reproduction at 20 years old.)
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_views_and_research"><span class="tocnumber">1</span> <span class="toctext">Early views and research</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Later_research"><span class="tocnumber">2</span> <span class="toctext">Later research</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#International_research"><span class="tocnumber">3</span> <span class="toctext">International research</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Possible_causes"><span class="tocnumber">4</span> <span class="toctext">Possible causes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Income"><span class="tocnumber">4.1</span> <span class="toctext">Income</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Education"><span class="tocnumber">4.2</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Birth_control_and_intelligence"><span class="tocnumber">4.3</span> <span class="toctext">Birth control and intelligence</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Criticisms"><span class="tocnumber">4.4</span> <span class="toctext">Criticisms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Brain_drain_and_gain"><span class="tocnumber">5</span> <span class="toctext">Brain drain and gain</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Other_traits"><span class="tocnumber">6</span> <span class="toctext">Other traits</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Early_views_and_research">Early views and research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=1" title="Edit section: Early views and research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The negative <a class="mw-redirect" href="/wiki/Correlation" title="Correlation">correlation</a> between fertility and intelligence (as measured by <a class="mw-redirect" href="/wiki/IQ" title="IQ">IQ</a>) has been argued to have existed in many parts of the world.  Early studies, however, were "superficial and illusory" and not clearly supported by the limited data they collected.<sup class="reference" id="cite_ref-jstor.org_1-1"><a href="#cite_note-jstor.org-1">[1]</a></sup>
+</p><p>Some of the first studies into the subject were carried out on individuals living before the advent of IQ testing, in the late 19th century, by looking at the fertility of men listed in <a href="/wiki/Who%27s_Who" title="Who's Who">Who's Who</a>, these individuals being presumably of high intelligence. These men, taken as a whole, had few children, implying a correlation.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Nobel Prize–winning physicist <a href="/wiki/William_Shockley" title="William Shockley">William Shockley</a> controversially argued from the mid-1960s through the 1980s that "the future of the population was threatened because people with low IQs had more children than those with high IQs."<sup class="reference" id="cite_ref-PBS_5-0"><a href="#cite_note-PBS-5">[5]</a></sup><sup class="reference" id="cite_ref-Shockley_6-0"><a href="#cite_note-Shockley-6">[6]</a></sup>
+</p><p>In 1963, Weyl and Possony asserted that comparatively small differences in average intelligence can become very large differences in the very high IQ ranges. A decline in average psychometric intelligence of only a few points will mean a much smaller population of gifted individuals.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>More rigorous studies carried out on Americans alive after the <a class="mw-redirect" href="/wiki/Second_World_War" title="Second World War">Second World War</a> returned different results suggesting a slight positive correlation with respect to intelligence. The findings from these investigations were consistent enough for Osborn and Bajema, writing as late as 1972, to conclude that fertility patterns were <a class="mw-redirect" href="/wiki/Eugenic" title="Eugenic">eugenic</a>, and that "the reproductive trend toward an increase in the frequency of genes associated with higher IQ... will probably continue in the foreseeable future in the United States and will be found also in other industrial welfare-state democracies."<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p>Several reviewers considered the findings premature, arguing that the samples were nationally unrepresentative, generally being confined to whites born between 1910 and 1940 in the Great Lakes States.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Other researchers began to report a negative correlation in the 1960s after two decades of neutral or positive fertility.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>In 1982, <a class="mw-redirect" href="/wiki/Daniel_R._Vining,_Jr." title="Daniel R. Vining, Jr.">Daniel R. Vining, Jr.</a> sought to address these issues in a large study on the fertility of over 10,000 individuals throughout the <a href="/wiki/United_States" title="United States">United States</a>, who were then aged 25 to 34. The average fertility in his study was correlated at −0.86 with <a href="/wiki/Intelligence_quotient" title="Intelligence quotient">IQ</a> for white women and −0.96 for black women. Vining argued that this indicated a drop in the <a href="/wiki/Genotype" title="Genotype">genotypic</a> average IQ of 1.6 points per generation for the white population, and 2.4 points per generation for the black population.<sup class="reference" id="cite_ref-pmid12265416_12-0"><a href="#cite_note-pmid12265416-12">[12]</a></sup>
+In considering these results along with those from earlier researchers, Vining wrote that "in periods of rising birth rates, persons with higher intelligence tend to have fertility equal to, if not exceeding, that of the population as a whole," but, "The recent decline in fertility thus seems to have restored the dysgenic trend observed for a comparable period of falling fertility between 1850 and 1940." To address the concern that the fertility of this sample could not be considered complete, Vining carried out a follow-up study for the same sample 18 years later, reporting the same, though slightly decreased, negative correlation between IQ and fertility.<sup class="reference" id="cite_ref-PossibilityUpdate_13-0"><a href="#cite_note-PossibilityUpdate-13">[13]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Later_research">Later research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=2" title="Edit section: Later research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a 1988 study, Retherford and Sewell examined the association between the measured intelligence and fertility of over 9,000 high school graduates in Wisconsin in 1957, and confirmed the inverse relationship between IQ and fertility for both sexes, but much more so for females. If children had, on average, the same IQ as their parents, IQ would decline by .81 points per generation. Taking .71 for the additive heritability of IQ as given by Jinks and Fulker,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> they calculated a dysgenic decline of .57 IQ points per generation.<sup class="reference" id="cite_ref-pmid3217809_15-0"><a href="#cite_note-pmid3217809-15">[15]</a></sup>
+</p><p>Another way of checking the negative relationship between IQ and fertility is to consider the relationship which educational attainment has to fertility, since <a class="mw-redirect" href="/wiki/IQ#School_performance" title="IQ">education</a> is known to be a reasonable proxy for IQ, correlating with IQ at .55;<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> in a 1999 study examining the relationship between IQ and education in a large national sample, David Rowe and others found not only that achieved education had a high <a href="/wiki/Heritability" title="Heritability">heritability</a> (.68) and that half of the variance in education was explained by an underlying genetic component shared by IQ, <a href="/wiki/Education" title="Education">education</a>, and <a href="/wiki/Social_class" title="Social class">SES</a>.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> One study investigating fertility and education carried out in 1991 found that <a class="mw-redirect" href="/wiki/High_school" title="High school">high school</a> dropouts in America had the most children (2.5 on average), with high school graduates having fewer children, and college graduates having the fewest children (1.56 on average).<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p><p><i><a href="/wiki/The_Bell_Curve" title="The Bell Curve">The Bell Curve</a></i> (1994) argued that the average <a class="mw-redirect" href="/wiki/Genotypic" title="Genotypic">genotypic</a> IQ of the United States was declining due to both dysgenetic fertility and <a class="mw-redirect" href="/wiki/Immigration_in_the_United_States" title="Immigration in the United States">large scale immigration</a> of groups with low average IQ.
+</p><p>In a 1999 study <a href="/wiki/Richard_Lynn" title="Richard Lynn">Richard Lynn</a> examined the relationship between the intelligence of adults aged 40 and above and their numbers of children and their siblings. Data was collected from a 1994 <a class="mw-redirect" href="/wiki/National_Opinion_Research_Center" title="National Opinion Research Center">National Opinion Research Center</a> survey among a representative sample of 2992 English-speaking individuals aged 18 years. He found negative correlations between the intelligence of American adults and the number of children and siblings that they had, but only for females. He also reported that there was virtually no correlation between women's intelligence and the number of children they considered ideal.<sup class="reference" id="cite_ref-pmid10842506_19-0"><a href="#cite_note-pmid10842506-19">[19]</a></sup>
+</p><p>In 2004 Lynn and Marian Van Court attempted a straightforward replication of Vining's work. Their study returned similar results, with the genotypic decline measuring at 0.9 IQ points per generation for the total sample and 0.75 IQ points for whites only.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p><p>Meisenberg (2010) found that intelligence in the US was negatively related to the number of children, with age-controlled correlations of −.156, −.069, −.235 and −.028 for White females, White males, Black females and Black males. This effect was related mainly to the <a class="mw-redirect" href="/wiki/General_intelligence_factor" title="General intelligence factor">general intelligence factor</a> and was caused in part by education and income, and to a lesser extent by the more "liberal" gender attitudes of those with higher intelligence. It is alleged that, without migration, the average IQ of the US population will decline by about 0.8 points per generation.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> Similarly, Boutwell et al. (2013) reported a strong negative association between county-level IQ and county-level fertility rates in the United States.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</p><p>A 2014 study by <a href="/wiki/Satoshi_Kanazawa" title="Satoshi Kanazawa">Satoshi Kanazawa</a> using data from the <a href="/wiki/National_Child_Development_Study" title="National Child Development Study">National Child Development Study</a> found that more intelligent women and men were more likely to want to be childless, but that only more intelligent women – not men – were more likely to actually be childless.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>
+</p>
+<h2><span class="mw-headline" id="International_research">International research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=3" title="Edit section: International research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Fertility_rate_world_map_2.png"><img alt="" class="thumbimage" data-file-height="628" data-file-width="1357" height="139" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fertility_rate_world_map_2.png/300px-Fertility_rate_world_map_2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fertility_rate_world_map_2.png/450px-Fertility_rate_world_map_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fertility_rate_world_map_2.png/600px-Fertility_rate_world_map_2.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Fertility_rate_world_map_2.png" title="Enlarge"></a></div>Map of countries by fertility rate (2018), according to <a class="mw-redirect" href="/wiki/CIA_World_Factbook" title="CIA World Factbook">CIA World Factbook</a></div></div></div>
+<p>Although much of the research into intelligence and fertility has been restricted to individuals within a single nation (usually the United States), Steven Shatz (2008) extended the research internationally; he finds that "There is a strong tendency for countries with lower national IQ scores to have higher fertility rates and for countries with higher <a href="/wiki/Race_and_intelligence" title="Race and intelligence">national IQ scores</a> to have lower fertility rates."<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p><p>Lynn and Harvey (2008) found a correlation of −0.73 between national IQ and fertility. They estimated that the effect had been "a decline in the world's genotypic IQ of 0.86 IQ points for the years 1950–2000. A further decline of 1.28 IQ points in the world's <a class="mw-redirect" href="/wiki/Genotypic" title="Genotypic">genotypic</a> IQ is projected for the years 2000–2050." In the first period this effect had been compensated for by the <a href="/wiki/Flynn_effect" title="Flynn effect">Flynn effect</a> causing a rise in <a class="mw-redirect" href="/wiki/Phenotypic" title="Phenotypic">phenotypic</a> IQ but recent studies in four developed nations had found it has now ceased or gone into reverse. They thought it probable that both genotypic and phenotypic IQ will gradually start to decline for the whole world.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Possible_causes">Possible causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=4" title="Edit section: Possible causes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Income">Income</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=5" title="Edit section: Income">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Income_and_fertility" title="Income and fertility">Income and fertility</a></div>
+<p>A theory to explain the fertility-intelligence relationship is that while income and IQ are positively correlated,<sup class="reference" id="cite_ref-isbn1591471818_2-1"><a href="#cite_note-isbn1591471818-2">[2]</a></sup> income is also in itself a <a href="/wiki/Fertility_factor_(demography)" title="Fertility factor (demography)">fertility factor</a> that correlates inversely with fertility, that is, the higher the incomes, the lower the fertility rates and <a class="mw-redirect" href="/wiki/List_of_Latin_phrases:_V#vice_versa" title="List of Latin phrases: V">vice versa</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> There is thus an inverse correlation between <a href="/wiki/Income_and_fertility" title="Income and fertility">income and fertility</a> within and between nations. The higher the level of <a href="/wiki/Education" title="Education">education</a> and <a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a> per capita of a human <a href="/wiki/Population" title="Population">population</a>, sub-population or <a class="mw-redirect" href="/wiki/Social_stratum" title="Social stratum">social stratum</a>, the fewer children are born. In a 1974 UN population conference in <a href="/wiki/Bucharest" title="Bucharest">Bucharest</a>, <a href="/wiki/Karan_Singh" title="Karan Singh">Karan Singh</a>, a former minister of population in <a href="/wiki/India" title="India">India</a>, encapsulated this relationship by stating "Development is the best contraceptive".<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=6" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>People often delay childbearing in order to spend more time getting education, and thus have fewer children.  Conversely, early childbearing can interfere with education, so those with early or frequent childbearing are likely to be less educated.  While education and childbearing place competing demands on a person's resources, education is positively correlated with IQ.
+</p>
+<h3><span class="mw-headline" id="Birth_control_and_intelligence">Birth control and intelligence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=7" title="Edit section: Birth control and intelligence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Among a sample of women using <a href="/wiki/Birth_control" title="Birth control">birth control</a> methods of comparable theoretical effectiveness, success rates were related to IQ, with the percentages of high, medium and low IQ women having unwanted births during a three-year interval being 3%, 8% and 11%, respectively.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> Since the effectiveness of many methods of birth control is directly correlated with proper usage, an alternative interpretation of the data would indicate lower IQ women were less likely to use birth control consistently and correctly. Another study found that after an <a class="mw-redirect" href="/wiki/Unwanted_pregnancy" title="Unwanted pregnancy">unwanted pregnancy</a> has occurred, higher IQ couples are more likely to obtain abortions;<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> and unmarried teenage girls who become pregnant are found to be more likely to carry their babies to term if they are doing poorly in school.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p><p>Conversely, while desired family size in the United States is apparently the same for women of all IQ levels,<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (April 2012)">dubious</span></a> <span class="metadata"> – <a href="/wiki/Talk:Fertility_and_intelligence#Desired_family_size_and_IQ" title="Talk:Fertility and intelligence">discuss</a></span></i>]</sup> highly educated women are found to be more likely to say that they desire more children than they have, indicating a "deficit fertility" in the highly intelligent.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> In her review of reproductive trends in the United States, Van Court argues that "each factor – from initially employing some form of contraception, to successful implementation of the method, to termination of an accidental pregnancy when it occurs – involves selection against intelligence."<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Criticisms">Criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=8" title="Edit section: Criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While it may seem obvious that such differences in fertility would result in a progressive change of IQ, Preston and Campbell (1993) argued that this is a mathematical fallacy that applies only when looking at closed subpopulations. In their mathematical model, with constant differences in fertility, since children's IQ can be more or less than that of their parents, a steady-state equilibrium is argued to be established between different subpopulations with different IQ. The <a href="/wiki/Mean" title="Mean">mean</a> IQ will not change in the absence of a change of the fertility differences. The steady-state IQ distribution will be lower for negative differential fertility than for positive, but these differences are small. For the extreme and unrealistic assumption of <a href="/wiki/Endogamy" title="Endogamy">endogamous</a> mating in IQ subgroups, a differential fertility change of 2.5/1.5 to 1.5/2.5 (high IQ/low IQ) causes a maximum shift of four IQ points. For random mating, the shift is less than one IQ point.<sup class="reference" id="cite_ref-Cambell_35-0"><a href="#cite_note-Cambell-35">[35]</a></sup> James S. Coleman, however, argues that Preston and Campbell's model depends on assumptions which are unlikely to be true.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup><sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup>
+</p><p>The general increase in IQ test scores, the <a href="/wiki/Flynn_effect" title="Flynn effect">Flynn effect</a>, has been argued to be evidence against dysgenic arguments. <a href="/wiki/Genetics" title="Genetics">Geneticist</a> Steve Connor wrote that Lynn, writing in <i><a class="mw-redirect" href="/wiki/Dysgenics:_Genetic_Deterioration_in_Modern_Populations" title="Dysgenics: Genetic Deterioration in Modern Populations">Dysgenics: Genetic Deterioration in Modern Populations</a>,</i> "misunderstood modern ideas of genetics." "A flaw in his argument of genetic deterioration in intelligence was the widely accepted fact that intelligence as measured by IQ tests has actually increased over the past 50 years."<sup class="reference" id="cite_ref-Connor_38-0"><a href="#cite_note-Connor-38">[38]</a></sup> If the genes causing IQ have been adversely affected, IQ scores should reasonably be expected to change in the same direction, yet the reverse has occurred. However, it has been argued that <a href="/wiki/Genotype" title="Genotype">genotypic</a> IQ may decrease even while <a href="/wiki/Phenotype" title="Phenotype">phenotypic</a> IQ rises throughout the population due to environmental effects such as better nutrition and education.<sup class="reference" id="cite_ref-pmid3217809_15-1"><a href="#cite_note-pmid3217809-15">[15]</a></sup> The Flynn effect may now have ended or reversed in some developed nations.<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup><sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup>
+</p><p>Some of the studies looking at relation between IQ and fertility cover the fertility of individuals who have attained a particular age, thereby ignoring positive correlation between <a href="/wiki/Cognitive_epidemiology" title="Cognitive epidemiology">IQ and survival</a>. To make conclusions about effects on IQ of future populations, such effects would have to be taken into account.
+</p><p>Recent research has shown that education and socioeconomic status are better indicators of fertility and suggests that the relationship between intelligence and number of children may be spurious. When controlling for education and socioeconomic status, the relationship between intelligence and number of children, intelligence and number of siblings, and intelligence and ideal number of children reduces to statistical insignificance. Among women, a post-hoc analysis revealed that the lowest and highest intelligence scores did not differ significantly by number of children.<sup class="reference" id="cite_ref-MaconPDF_41-0"><a href="#cite_note-MaconPDF-41">[41]</a></sup> However, socioeconomic status and (obviously) education are themselves not independent of intelligence.
+</p><p>Other research suggest that siblings born further apart achieve higher educational outcomes. Therefore, sibling density, not number of siblings, may explain the negative association between IQ and number of siblings.<sup class="reference" id="cite_ref-MaconPDF_41-1"><a href="#cite_note-MaconPDF-41">[41]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Brain_drain_and_gain">Brain drain and gain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=9" title="Edit section: Brain drain and gain">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Volkmar_Weiss" title="Volkmar Weiss">Volkmar Weiss</a> in a 2009 study argues that for many nations the effect of fertility on IQ is currently overshadowed by the effects of selective immigration and emigration of groups with varying average IQs (<a class="mw-redirect" href="/wiki/Brain_drain" title="Brain drain">brain drain</a> and brain gain).<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Other_traits">Other traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=10" title="Edit section: Other traits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A study by the <a class="mw-redirect" href="/wiki/Institute_of_Psychiatry" title="Institute of Psychiatry">Institute of Psychiatry</a> determined that men with higher IQ's tend to have better quality sperm than lower IQ males, even when considering age and lifestyle, stating that the genes underlying intelligence may be multi-factored.<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Dysgenics" title="Dysgenics">Dysgenics</a></li>
+<li><a class="mw-redirect" href="/wiki/Fertility-development_controversy" title="Fertility-development controversy">Fertility-development controversy</a></li>
+<li><a href="/wiki/Fertility_factor_(demography)" title="Fertility factor (demography)">Fertility factor (demography)</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_countries_and_territories_by_fertility_rate" title="List of countries and territories by fertility rate">List of countries and territories by fertility rate</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<div aria-labelledby="Human_intelligence_topics" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Human_intelligence_topics" title="Template:Human intelligence topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Human_intelligence_topics" title="Template talk:Human intelligence topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Human_intelligence_topics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Human_intelligence_topics" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_intelligence" title="Human intelligence">Human intelligence</a> <a href="/wiki/Outline_of_human_intelligence" title="Outline of human intelligence">topics</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Collective_intelligence" title="Collective intelligence">Collective</a></li>
+<li><a href="/wiki/Emotional_intelligence" title="Emotional intelligence">Emotional</a></li>
+<li><a href="/wiki/Intellectual_giftedness" title="Intellectual giftedness">Intellectual</a></li>
+<li><a href="/wiki/Linguistic_intelligence" title="Linguistic intelligence">Linguistic</a></li>
+<li><a href="/wiki/Theory_of_multiple_intelligences" title="Theory of multiple intelligences">Multiple</a></li>
+<li><a href="/wiki/Social_intelligence" title="Social intelligence">Social</a></li>
+<li><a href="/wiki/Spatial_intelligence_(psychology)" title="Spatial intelligence (psychology)">Spatial</a> (<a href="/wiki/Spatial_visualization_ability" title="Spatial visualization ability">visuospatial</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><div class="hlist hlist-separated"><ul><li>Abilities</li><li>Traits</li><li>Constructs</li></ul></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cognition" title="Cognition">Cognition</a></li>
+<li><a href="/wiki/Communication" title="Communication">Communication</a></li>
+<li><a href="/wiki/Creativity" title="Creativity">Creativity</a></li>
+<li><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Fluid and crystallized intelligence</a></li>
+<li><a href="/wiki/G_factor_(psychometrics)" title="G factor (psychometrics)"><i>g</i> factor</a></li>
+<li><a href="/wiki/Intelligence_quotient" title="Intelligence quotient">Intelligence quotient</a></li>
+<li><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></li>
+<li><a href="/wiki/Learning" title="Learning">Learning</a></li>
+<li><a href="/wiki/Memory" title="Memory">Memory</a></li>
+<li><a href="/wiki/Problem_solving" title="Problem solving">Problem solving</a></li>
+<li><a href="/wiki/Reason" title="Reason">Reasoning</a></li>
+<li><a href="/wiki/Thought" title="Thought">Thought</a> (<a href="/wiki/Abstraction" title="Abstraction">abstraction</a>)</li>
+<li><a href="/wiki/Understanding" title="Understanding">Understanding</a></li>
+<li><a href="/wiki/Visual_system" title="Visual system">Visual processing</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Models and theories</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cattell%E2%80%93Horn%E2%80%93Carroll_theory" title="Cattell–Horn–Carroll theory">Cattell–Horn–Carroll theory</a></li>
+<li><a href="/wiki/Fluid_and_crystallized_intelligence" title="Fluid and crystallized intelligence">Fluid and crystallized intelligence</a></li>
+<li><a href="/wiki/Theory_of_multiple_intelligences" title="Theory of multiple intelligences">Multiple-intelligences theory</a></li>
+<li><a href="/wiki/Three-stratum_theory" title="Three-stratum theory">Three-stratum theory</a></li>
+<li><a href="/wiki/Triarchic_theory_of_intelligence" title="Triarchic theory of intelligence">Triarchic theory</a></li>
+<li><a href="/wiki/PASS_theory_of_intelligence" title="PASS theory of intelligence">PASS theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Areas of research</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Evolution_of_human_intelligence" title="Evolution of human intelligence">Evolution of human intelligence</a></li>
+<li><a href="/wiki/Heritability_of_IQ" title="Heritability of IQ">Heritability of IQ</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li>
+<li><a href="/wiki/Environment_and_intelligence" title="Environment and intelligence">Intelligence and environment</a> / <a href="/wiki/Impact_of_health_on_intelligence" title="Impact of health on intelligence">health</a> / <a href="/wiki/Cognitive_epidemiology" title="Cognitive epidemiology">longevity</a> / <a href="/wiki/Neuroscience_and_intelligence" title="Neuroscience and intelligence">neuroscience</a> / <a href="/wiki/Race_and_intelligence" title="Race and intelligence">race</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow plainlist" colspan="2"><div>
+<ul><li><a href="/wiki/Outline_of_human_intelligence" title="Outline of human intelligence">Outline of human intelligence</a> / <a href="/wiki/Outline_of_thought" title="Outline of thought">thought</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Global_human_population" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#e6e6e6;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Population" title="Template:Population"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Population" title="Template talk:Population"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Population&amp;action=edit"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_human_population" style="font-size:114%;margin:0 4em"><a href="/wiki/World_population" title="World population">Global human population</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Major topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biocapacity" title="Biocapacity">Biocapacity</a></li>
+<li><a href="/wiki/Optimum_population" title="Optimum population">Optimum population</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a>
+<ul><li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li></ul></li>
+<li><a href="/wiki/Population" title="Population">Population</a></li>
+<li><a href="/wiki/Population_ethics" title="Population ethics">Population ethics</a></li>
+<li><a href="/wiki/Population_momentum" title="Population momentum">Population momentum</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Reproductive_rights" title="Reproductive rights">Women's reproductive rights</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero population growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Biological and<br/>related topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Family_planning" title="Family planning">Family planning</a>
+<ul><li><a href="/wiki/Population_Matters#Pledge_two_or_fewer" title="Population Matters">Pledge two or fewer</a></li></ul></li>
+<li><a href="/wiki/Human_population_planning" title="Human population planning">Human population planning</a>
+<ul><li><a href="/wiki/One-child_policy" title="One-child policy">One-child policy</a></li>
+<li><a href="/wiki/Two-child_policy" title="Two-child policy">Two-child policy</a></li></ul></li>
+<li><a href="/wiki/Population_biology" title="Population biology">Population biology</a></li>
+<li><a href="/wiki/Population_decline" title="Population decline">Population decline</a></li>
+<li><a href="/wiki/Population_density" title="Population density">Population density</a>
+<ul><li><a href="/wiki/Physiological_density" title="Physiological density">Physiological density</a></li></ul></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_growth" title="Population growth">Population growth</a></li>
+<li><a href="/wiki/Population_model" title="Population model">Population model</a></li>
+<li><a href="/wiki/Population_pyramid" title="Population pyramid">Population pyramid</a></li>
+<li><a href="/wiki/Projections_of_population_growth" title="Projections of population growth">Projections of population growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on<br/>the environment</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Environmental impact</a>
+<ul><li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">of agriculture</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">of aviation</a></li>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">of biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">of concrete</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">of electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">of the energy industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">of fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">of irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">of mining</a></li>
+<li><a href="/wiki/Off-roading#Environmental_impact" title="Off-roading">of off-roading</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">of oil shale industry</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">of palm oil</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">of paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">of the petroleum industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">of reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">of shipping</a></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">of war</a></li></ul></li>
+<li><a href="/wiki/Industrialisation" title="Industrialisation">Industrialisation</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_reclamation" title="Land reclamation">Land reclamation</a></li>
+<li><a href="/wiki/Overconsumption" title="Overconsumption">Overconsumption</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Quarry" title="Quarry">Quarrying</a></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>
+<ul><li><a href="/wiki/Green_belt" title="Green belt">Loss of green belts</a></li>
+<li><a href="/wiki/Urban_sprawl" title="Urban sprawl">Urban sprawl</a></li></ul></li>
+<li><a href="/wiki/Waste" title="Waste">Waste</a></li>
+<li><a href="/wiki/Water_scarcity" title="Water scarcity">Water scarcity</a>
+<ul><li><a href="/wiki/Overdrafting" title="Overdrafting">Overdrafting</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Population_ecology" title="Population ecology">Population<br/>ecology</a></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carrying_capacity#Humans" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Food security</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><span class="nowrap"><a href="/wiki/I_%3D_PAT" title="I = PAT">I = P × A  × T</a></span></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Overshoot_(population)" title="Overshoot (population)">Overshoot (population)</a></li>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a></li>
+<li><a href="/wiki/World_energy_resources" title="World energy resources">World energy resources</a></li>
+<li><a href="/wiki/World3" title="World3">World3 model</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Literature</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Modest_Proposal" title="A Modest Proposal">A Modest Proposal</a></i></li>
+<li><i><a href="/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc." title="Observations Concerning the Increase of Mankind, Peopling of Countries, etc.">Observations Concerning the Increase of Mankind, Peopling of Countries, etc.</a></i></li>
+<li><i><a href="/wiki/An_Essay_on_the_Principle_of_Population" title="An Essay on the Principle of Population">An Essay on the Principle of Population</a></i></li>
+<li>"<a href="/wiki/How_Much_Land_Does_a_Man_Need%3F" title="How Much Land Does a Man Need?">How Much Land Does a Man Need?</a>"</li>
+<li><i><a href="/wiki/Operating_Manual_for_Spaceship_Earth" title="Operating Manual for Spaceship Earth">Operating Manual for Spaceship Earth</a></i></li>
+<li><i><a href="/wiki/Population_Control:_Real_Costs,_Illusory_Benefits" title="Population Control: Real Costs, Illusory Benefits">Population Control: Real Costs, Illusory Benefits</a></i></li>
+<li><i><a href="/wiki/The_Limits_to_Growth" title="The Limits to Growth">The Limits to Growth</a></i></li>
+<li><i><a href="/wiki/The_Population_Bomb" title="The Population Bomb">The Population Bomb</a></i></li>
+<li><i><a href="/wiki/The_Skeptical_Environmentalist" title="The Skeptical Environmentalist">The Skeptical Environmentalist</a></i></li>
+<li><i><a href="/wiki/The_Ultimate_Resource" title="The Ultimate Resource">The Ultimate Resource</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Publications</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_and_Environment" title="Population and Environment">Population and Environment</a></li>
+<li><a href="/wiki/Population_and_Development_Review" title="Population and Development Review">Population and Development Review</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Lists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_and_housing_censuses_by_country" title="Population and housing censuses by country">Population and housing censuses by country</a></li>
+<li><a href="/wiki/List_of_metropolitan_areas_by_population" title="List of metropolitan areas by population">Metropolitan areas by population</a></li>
+<li><a href="/wiki/World_population_milestones" title="World population milestones">Population milestone babies</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><div style="padding:0.1em 0;line-height:1.2em;">Events and<br/>organizations</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/7_Billion_Actions" title="7 Billion Actions">7 Billion Actions</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">International Conference on Population and Development</a></li>
+<li><a href="/wiki/Population_Action_International" title="Population Action International">Population Action International</a></li>
+<li><a href="/wiki/Population_Connection" title="Population Connection">Population Connection</a></li>
+<li><a href="/wiki/Population_Matters" title="Population Matters">Population Matters</a></li>
+<li><a href="/wiki/Population_Research_Institute" title="Population Research Institute">Population Research Institute</a></li>
+<li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">United Nations Population Fund</a></li>
+<li><a href="/wiki/Voluntary_Human_Extinction_Movement" title="Voluntary Human Extinction Movement">Voluntary Human Extinction Movement</a></li>
+<li><a href="/wiki/World_Population_Day" title="World Population Day">World Population Day</a></li>
+<li><a href="/wiki/World_Population_Foundation" title="World Population Foundation">World Population Foundation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Classic_Maya_collapse" title="Classic Maya collapse">Classic Maya collapse</a></li>
+<li><a class="mw-selflink selflink">Fertility and intelligence</a></li>
+<li><a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_migration" title="Human migration">Migration</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="background:#e6e6e6;"><div>
+<ul><li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Human_overpopulation" title="commons:Category:Human overpopulation">Commons</a></b></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Human_overpopulation" title="Category:Human overpopulation">Human overpopulation</a></li>
+<li><a href="/wiki/Category:Human_activities_with_impact_on_the_environment" title="Category:Human activities with impact on the environment">Human activities with impact on the environment</a></li>
+<li><a href="/wiki/Category:Human_migration" title="Category:Human migration">Human migration</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20181027094152
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.596 seconds
+Real time usage: 0.698 seconds
+Preprocessor visited node count: 2189/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 100093/2097152 bytes
+Template argument size: 1152/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 100924/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.327/10.000 seconds
+Lua memory usage: 5.96 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  537.617      1 -total
+ 74.57%  400.923      1 Template:Reflist
+ 40.94%  220.127     30 Template:Cite_journal
+ 16.01%   86.071      2 Template:Cite_book
+  9.66%   51.910      2 Template:Navbox
+  8.23%   44.265      1 Template:Dubious
+  7.36%   39.556      1 Template:Fix
+  5.51%   29.614      1 Template:Human_intelligence_topics
+  5.46%   29.365      1 Template:ISBN
+  5.31%   28.531      1 Template:Population
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18208266-0!canonical and timestamp 20181027094151 and revision id 865962613
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fertility_and_intelligence&amp;oldid=865962613">https://en.wikipedia.org/w/index.php?title=Fertility_and_intelligence&amp;oldid=865962613</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Factors_related_to_intelligence" title="Category:Factors related to intelligence">Factors related to intelligence</a></li><li><a href="/wiki/Category:Fertility" title="Category:Fertility">Fertility</a></li><li><a href="/wiki/Category:Eugenics" title="Category:Eugenics">Eugenics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_April_2012" title="Category:Articles with disputed statements from April 2012">Articles with disputed statements from April 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fertility+and+intelligence" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fertility+and+intelligence" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Fertility_and_intelligence" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Fertility_and_intelligence" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Fertility_and_intelligence">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Fertility_and_intelligence&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Fertility_and_intelligence&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Fertility_and_intelligence" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Fertility_and_intelligence" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fertility_and_intelligence&amp;oldid=865962613" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fertility_and_intelligence&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5445578" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fertility_and_intelligence&amp;id=865962613" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fertility+and+intelligence">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fertility+and+intelligence&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Fertility_and_intelligence&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5445578#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 27 October 2018, at 09:41<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Fertility_and_intelligence&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.596","walltime":"0.698","ppvisitednodes":{"value":2189,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":100093,"limit":2097152},"templateargumentsize":{"value":1152,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":100924,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  537.617      1 -total"," 74.57%  400.923      1 Template:Reflist"," 40.94%  220.127     30 Template:Cite_journal"," 16.01%   86.071      2 Template:Cite_book","  9.66%   51.910      2 Template:Navbox","  8.23%   44.265      1 Template:Dubious","  7.36%   39.556      1 Template:Fix","  5.51%   29.614      1 Template:Human_intelligence_topics","  5.46%   29.365      1 Template:ISBN","  5.31%   28.531      1 Template:Population"]},"scribunto":{"limitreport-timeusage":{"value":"0.327","limit":"10.000"},"limitreport-memusage":{"value":6252587,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20181027094152","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1329"});});</script>
+</body>
+</html>

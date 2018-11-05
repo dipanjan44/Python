@@ -1,0 +1,468 @@
+https://en.wikipedia.org/wiki/Safety_data_sheet
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Safety data sheet - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Safety_data_sheet","wgTitle":"Safety data sheet","wgCurRevisionId":862275578,"wgRevisionId":862275578,"wgArticleId":337353,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: BOT: original-url status unknown","CS1 maint: Archived copy as title","Webarchive template wayback links","Articles with short description","Wikipedia articles with style issues from March 2017","All articles with style issues","Wikipedia articles that are excessively detailed from March 2017","All articles that are excessively detailed","All articles with unsourced statements","Articles with unsourced statements from February 2014","Chemical safety","Materials","Occupational safety and health","Documents","Industrial hygiene","Safety engineering","Environmental law","Toxicology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Safety_data_sheet","wgRelevantArticleId":337353,"wgRequestId":"W9oBlApAIDEAAJa1SOcAAAAC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q222067","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Material_safety_data_sheet.JPG/1200px-Material_safety_data_sheet.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Safety_data_sheet" rel="alternate"/>
+<link href="/w/index.php?title=Safety_data_sheet&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Safety_data_sheet&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Safety_data_sheet" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Safety_data_sheet rootpage-Safety_data_sheet skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Safety data sheet</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">System for cataloging information, potential hazards and instructions for safe use associated with a material or product </div>
+<div class="hatnote navigation-not-searchable" role="note">"MSDS" redirects here. For the video game, see <a href="/wiki/MapleStory_DS" title="MapleStory DS">MapleStory DS</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-overly_detailed" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may contain an excessive amount of intricate detail that may interest only a particular audience</b>.<span class="hide-when-compact"> Please help by <a href="/wiki/Wikipedia:Content_forking#Article_spinoffs:_.22Summary_style.22_meta-articles_and_summary_sections" title="Wikipedia:Content forking">spinning off</a> or <a href="/wiki/Wikipedia:Handling_trivia#Recommendations_for_handling_trivia" title="Wikipedia:Handling trivia">relocating</a> any relevant information, and removing excessive detail that may be against <a href="/wiki/Wikipedia:What_Wikipedia_is_not" title="Wikipedia:What Wikipedia is not">Wikipedia's inclusion policy</a>.</span> <small><i>(March 2017)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Material_safety_data_sheet.JPG"><img alt="" class="thumbimage" data-file-height="1902" data-file-width="1487" height="320" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Material_safety_data_sheet.JPG/250px-Material_safety_data_sheet.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Material_safety_data_sheet.JPG/375px-Material_safety_data_sheet.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Material_safety_data_sheet.JPG/500px-Material_safety_data_sheet.JPG 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Material_safety_data_sheet.JPG" title="Enlarge"></a></div>An example SDS in a US format provides guidance for handling a <a href="/wiki/Dangerous_goods" title="Dangerous goods">hazardous substance</a> and information on its composition and properties.</div></div></div>
+<p>A <b>safety data sheet</b> (<b>SDS</b>),<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> <b>material safety data sheet</b> (<b>MSDS</b>),  or <b>product safety data sheet</b> (<b>PSDS</b>) is a document that lists information relating to <a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">occupational safety and health</a> for the use of various substances. SDSs are a widely used system for cataloging information on <a class="mw-redirect" href="/wiki/Chemical" title="Chemical">chemicals</a>, <a href="/wiki/Chemical_compound" title="Chemical compound">chemical compounds</a>, and chemical <a href="/wiki/Mixture" title="Mixture">mixtures</a>. SDS information may include instructions for the safe use and potential <a class="mw-redirect" href="/wiki/Worker_safety_and_health" title="Worker safety and health">hazards</a> associated with a particular material or product, along with spill-handling procedures. SDS formats can vary from source to source within a country depending on national requirements.
+</p><p>A SDS for a substance is not primarily intended for use by the general consumer, focusing instead on the hazards of working with the material in an occupational setting. There is also a duty to properly label substances on the basis of physico-chemical, health or environmental risk. Labels can include hazard symbols such as the <a class="mw-redirect" href="/wiki/Chemical_hazard_label#Chemical_hazard" title="Chemical hazard label">European Union standard</a> symbols. The same product (e.g. paints sold under identical brand names by the same company) can have different formulations in different countries. The formulation and hazard of a product using a generic name may vary between manufacturers in the same country.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Globally_Harmonized_System"><span class="tocnumber">1</span> <span class="toctext">Globally Harmonized System</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#National_and_international_requirements"><span class="tocnumber">2</span> <span class="toctext">National and international requirements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Canada"><span class="tocnumber">2.1</span> <span class="toctext">Canada</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#European_Union"><span class="tocnumber">2.2</span> <span class="toctext">European Union</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Germany"><span class="tocnumber">2.3</span> <span class="toctext">Germany</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#South_Africa"><span class="tocnumber">2.4</span> <span class="toctext">South Africa</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#The_Netherlands"><span class="tocnumber">2.5</span> <span class="toctext">The Netherlands</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#United_Kingdom"><span class="tocnumber">2.6</span> <span class="toctext">United Kingdom</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#United_Nations"><span class="tocnumber">2.7</span> <span class="toctext">United Nations</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#United_States"><span class="tocnumber">2.8</span> <span class="toctext">United States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#SDS_authoring"><span class="tocnumber">3</span> <span class="toctext">SDS authoring</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Globally_Harmonized_System">Globally Harmonized System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=1" title="Edit section: Globally Harmonized System">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals" title="Globally Harmonized System of Classification and Labelling of Chemicals">Globally Harmonized System of Classification and Labelling of Chemicals</a> contains a standard specification for safety data sheets.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>  The SDS follows a 16 section format which is internationally agreed and for substances especially, the SDS should be followed with an Annex which contains the exposure scenarios of this particular substance.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>  The 16 sections are:<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<ul><li>SECTION 1: Identification of the substance/mixture and of the company/undertaking
+<ul><li>1.1. Product identifier</li>
+<li>1.2. Relevant identified uses of the substance or mixture and uses advised against</li>
+<li>1.3. Details of the supplier of the safety data sheet</li>
+<li>1.4. Emergency telephone number</li></ul></li>
+<li>SECTION 2: Hazards identification
+<ul><li>2.1. Classification of the substance or mixture</li>
+<li>2.2. Label elements</li>
+<li>2.3. Other hazards</li></ul></li>
+<li>SECTION 3: Composition/information on ingredients
+<ul><li>3.1. Substances</li>
+<li>3.2. Mixtures</li></ul></li>
+<li>SECTION 4: First aid measures
+<ul><li>4.1. Description of first aid measures</li>
+<li>4.2. Most important symptoms and effects, both acute and delayed</li>
+<li>4.3. Indication of any immediate medical attention and special treatment needed</li></ul></li>
+<li>SECTION 5: Firefighting measures
+<ul><li>5.1. Extinguishing media</li>
+<li>5.2. Special hazards arising from the substance or mixture</li>
+<li>5.3. Advice for firefighters</li></ul></li>
+<li>SECTION 6: Accidental release measure
+<ul><li>6.1. Personal precautions, protective equipment and emergency procedures</li>
+<li>6.2. Environmental precautions</li>
+<li>6.3. Methods and material for containment and cleaning up</li>
+<li>6.4. Reference to other sections</li></ul></li>
+<li>SECTION 7: Handling and storage
+<ul><li>7.1. Precautions for safe handling</li>
+<li>7.2. Conditions for safe storage, including any incompatibilities</li>
+<li>7.3. Specific end use(s)</li></ul></li>
+<li>SECTION 8: Exposure controls/personal protection
+<ul><li>8.1. Control parameters</li>
+<li>8.2. Exposure controls</li></ul></li>
+<li>SECTION 9: Physical and chemical properties
+<ul><li>9.1. Information on basic physical and chemical properties</li>
+<li>9.2. Other information</li></ul></li>
+<li>SECTION 10: Stability and reactivity
+<ul><li>10.1. Reactivity</li>
+<li>10.2. Chemical stability</li>
+<li>10.3. Possibility of hazardous reactions</li>
+<li>10.4. Conditions to avoid</li>
+<li>10.5. Incompatible materials</li>
+<li>10.6. Hazardous decomposition products</li></ul></li>
+<li>SECTION 11: Toxicological information
+<ul><li>11.1. Information on toxicological effects</li></ul></li>
+<li>SECTION 12: Ecological information
+<ul><li>12.1. Toxicity</li>
+<li>12.2. Persistence and degradability</li>
+<li>12.3. Bioaccumulative potential</li>
+<li>12.4. Mobility in soil</li>
+<li>12.5. Results of PBT and vPvB assessment</li>
+<li>12.6. Other adverse effects</li></ul></li>
+<li>SECTION 13: Disposal considerations
+<ul><li>13.1. Waste treatment methods</li></ul></li>
+<li>SECTION 14: Transport information
+<ul><li>14.1. UN number</li>
+<li>14.2. UN proper shipping name</li>
+<li>14.3. Transport hazard class(es)</li>
+<li>14.4. Packing group</li>
+<li>14.5. Environmental hazards</li>
+<li>14.6. Special precautions for user</li>
+<li>14.7. Transport in bulk according to Annex II of MARPOL73/78 and the IBC Code</li></ul></li>
+<li>SECTION 15: Regulatory information
+<ul><li>15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture</li>
+<li>15.2. Chemical safety assessment</li></ul></li>
+<li>SECTION 16: Other information
+<ul><li>16.2. Date of the latest revision of the SDS</li></ul></li></ul>
+<h2><span class="mw-headline" id="National_and_international_requirements">National and international requirements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=2" title="Edit section: National and international requirements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Canada">Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=3" title="Edit section: Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Canada" title="Canada">Canada</a>, the program known as the <a href="/wiki/Workplace_Hazardous_Materials_Information_System" title="Workplace Hazardous Materials Information System">Workplace Hazardous Materials Information System</a> (WHMIS) establishes the requirements for SDSs in workplaces and is administered federally by <a href="/wiki/Health_Canada" title="Health Canada">Health Canada</a> under the <a class="new" href="/w/index.php?title=Hazardous_Products_Act&amp;action=edit&amp;redlink=1" title="Hazardous Products Act (page does not exist)">Hazardous Products Act</a>, Part II, and the <a class="new" href="/w/index.php?title=Controlled_Products_Regulations&amp;action=edit&amp;redlink=1" title="Controlled Products Regulations (page does not exist)">Controlled Products Regulations</a>.
+</p>
+<h3><span class="mw-headline" id="European_Union">European Union</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=4" title="Edit section: European Union">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Safety data sheets have been made an integral part of the system of Regulation (EC) No 1907/2006 (REACH).<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The original requirements of REACH for SDSs have been further adapted to take into account the rules for safety data sheets of the Global Harmonised System (GHS)<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> and the implementation of other elements of the GHS into EU legislation that were introduced by Regulation (EC) No 1272/2008 (CLP)<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> via an update to Annex II of REACH.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p>The SDS must be supplied in an official language of the Member State(s) where the substance or mixture is placed on the market, unless the Member State(s) concerned provide(s) otherwise (Article 31(5) of REACH).
+</p><p>The <a href="/wiki/European_Chemicals_Agency" title="European Chemicals Agency">European Chemicals Agency</a> (ECHA) has published a guidance document on the compilation of safety data sheets.
+</p>
+<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=5" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The German Federal Water Management Act requires that substances be evaluated for negative influence on the physical, <a class="mw-redirect" href="/wiki/Chemical" title="Chemical">chemical</a> or <a href="/wiki/Biology" title="Biology">biological</a> characteristics of water. These are classified into numeric water hazard classes (WGK or WHC, depending on whether you use the German or English abbreviation).
+</p>
+<ul><li>WGK nwg: Non-water polluting substance</li>
+<li>WGK 1: Slightly water polluting substance</li>
+<li>WGK 2: Water polluting substance</li>
+<li>WGK 3: Highly water polluting substance</li></ul>
+<h3><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=6" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This section contributes to a better understanding of the regulations governing SDS within the <a href="/wiki/South_Africa" title="South Africa">South African</a> framework. As regulations may change, it is the responsibility of the reader to verify the validity of the regulations mentioned in text.
+</p><p>As <a href="/wiki/Globalization" title="Globalization">globalisation</a> increased and countries engaged in cross-border trade, the quantity of <a href="/wiki/Dangerous_goods" title="Dangerous goods">hazardous material</a> crossing international borders amplified.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Realising the detrimental effects of hazardous trade, the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> established a committee of experts specialising in the transportation of <a class="mw-redirect" href="/wiki/Hazardous_goods" title="Hazardous goods">hazardous goods</a>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> The committee provides best practises governing the conveyance of <a class="mw-redirect" href="/wiki/Hazardous_goods" title="Hazardous goods">hazardous materials</a> and goods for land including road and railway; air as well as sea transportation. These best practises are constantly updated to remain current and relevant.
+</p><p>There are various other international bodies who provide greater detail and guidance for specific modes of transportation such as the <a class="external text" href="https://www.google.co.za/search?q=International+Maritime+Organisation+(IMO)&amp;oq=International+Maritime+Organisation+(IMO)&amp;aqs=chrome..69i57j0l5.1212j0j4&amp;sourceid=chrome&amp;es_sm=93&amp;ie=UTF-8" rel="nofollow">International Maritime Organisation (IMO)</a> by means of the International Maritime Code<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>  and the <a href="/wiki/International_Civil_Aviation_Organization" title="International Civil Aviation Organization">International Civil Aviation Organisation</a> (ICAO) via the Technical Instructions for the safe transport of dangerous goods by air<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> as well as the <a href="/wiki/International_Air_Transport_Association" title="International Air Transport Association">International Air Transport Association (IATA)</a> who provides regulations for the transport of dangerous goods.
+</p><p>These guidelines prescribed by the international authorities are applicable to the South African land, sea and air transportation of hazardous materials and goods. In addition to these rules and regulations to International best practice, South Africa has also implemented common laws which are laws based on custom and practise. Common laws are a vital part of maintaining public order and forms the basis of case laws. Case laws, using the principles of common law are interpretations and decisions of statutes made by courts. Acts of parliament are determinations and regulations by parliament which form the foundation of statutory law. Statutory laws are published in the government gazette or on the official website. Lastly, subordinate legislation are the bylaws issued by local authorities and authorised by parliament.
+</p><p>Statutory law gives effect to the Occupational Health and Safety Act of 1993 and the National Road Traffic Act of 1996. The Occupational Health and Safety Act details the necessary provisions for the safe handling and storage of hazardous materials and goods whilst the transport act details with the necessary provisions for the transportation of the hazardous goods.
+</p><p>Relevant South African legislation includes the Occupational Health and Safety Act of 1993,<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> the National Road Traffic Act of 1996,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> and the Standards Act of 2008.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p><p>There has been selective incorporation of aspects of the <a href="/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals" title="Globally Harmonized System of Classification and Labelling of Chemicals">Globally Harmonised System (GHS) of Classification and Labelling of Chemicals</a> into South African legislation. At each point of the chemical value chain, there is a responsibility to manage chemicals in a safe and responsible manner. SDS is therefore required by law.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> A SDS is included in the requirements of Occupational Health and Safety Act, 1993 (Act No.85 of 1993) Regulation 1179 dated 25 August 1995.
+</p><p>The categories of information supplied in the SDS are listed in SANS 11014:2010; dangerous goods standards – Classification and information. SANS 11014:2010 supersedes the first edition SANS 11014-1:1994 and is an identical implementation of ISO 11014:2009. According to SANS 11014:2010:
+</p>
+<h3><span class="mw-headline" id="The_Netherlands">The Netherlands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=7" title="Edit section: The Netherlands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dutch Safety Data Sheets are well known as veiligheidsinformatieblad <a class="extiw" href="https://nl.wikipedia.org/wiki/Veiligheidsinformatieblad" title="nl:Veiligheidsinformatieblad">nl:Veiligheidsinformatieblad</a> or Chemiekaarten. This is a collection of Safety Data Sheets of the most widely used chemicals. The Chemiekaarten boek is commercially available, but also made available through educational institutes, such as the web site offered by the university of Groningen<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=8" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/United_Kingdom" title="United Kingdom">U.K.</a>, the Chemicals (Hazard Information and Packaging for Supply) Regulations 2002 - known as CHIP Regulations - impose duties upon suppliers, and importers into the EU, of <a href="/wiki/Dangerous_goods" title="Dangerous goods">hazardous materials</a>.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p><p>NOTE: Safety data sheets (SDS) are no longer covered by the CHIP regulations.  The laws that require a SDS to be provided have been transferred to the European REACH Regulations.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p><p>The <a href="/wiki/COSHH" title="COSHH">Control of Substances Hazardous to Health</a> (COSHH) Regulations govern the use of hazardous substances in the workplace in the UK and specifically require an assessment of the use of a substance.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> Regulation 12 requires that an employer provides employees with information, instruction and training for people exposed to hazardous substances. This duty would be very nearly impossible without the data sheet as a starting point. It is important for employers therefore to insist on receiving a data sheet from a supplier of a substance.
+</p><p>The duty to supply information is not confined to informing only business users of products. SDSs for retail products sold by large DIY shops are usually obtainable on those companies' web sites.
+</p><p>Web sites of manufacturers and large suppliers do not always include them even if the information is obtainable from retailers but written or telephone requests for paper copies will usually be responded to favourably.
+</p>
+<h3><span class="mw-headline" id="United_Nations">United Nations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=9" title="Edit section: United Nations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/United_Nations" title="United Nations">United Nations</a> (UN) defines certain details used in SDSs such as the <a href="/wiki/UN_number" title="UN number">UN numbers</a> used to identify some <a href="/wiki/Dangerous_goods" title="Dangerous goods">hazardous materials</a> in a standard form while in international transit.
+</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=10" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/United_States" title="United States">U.S.</a>, the <a href="/wiki/Occupational_Safety_and_Health_Administration" title="Occupational Safety and Health Administration">Occupational Safety and Health Administration</a> requires that SDSs be readily available to all employees for potentially harmful substances handled in the workplace under the Hazard Communication regulation. The SDS is also required to be made available to local fire departments and local and state emergency planning officials under Section 311 of the  <a href="/wiki/Emergency_Planning_and_Community_Right-to-Know_Act" title="Emergency Planning and Community Right-to-Know Act">Emergency Planning and Community Right-to-Know Act</a>. The <a href="/wiki/American_Chemical_Society" title="American Chemical Society">American Chemical Society</a> defines Chemical Abstracts Service Registry Numbers (<a class="mw-redirect" href="/wiki/CAS_number" title="CAS number">CAS numbers</a>) which provide a unique number for each chemical and are also used internationally in SDSs.
+</p><p>Reviews of material safety data sheets by the <a href="/wiki/U.S._Chemical_Safety_and_Hazard_Investigation_Board" title="U.S. Chemical Safety and Hazard Investigation Board">U.S. Chemical Safety and Hazard Investigation Board</a> have detected dangerous deficiencies.
+</p><p>The board’s Combustible Dust Hazard Study analyzed 140 data sheets of substances capable of producing combustible dusts.<sup class="reference" id="cite_ref-CSB_dust_study_22-0"><a href="#cite_note-CSB_dust_study-22">[22]</a></sup> None of the SDSs contained all the information the board said was needed to work with the material safely, and 41 percent failed to even mention that the substance was combustible.
+</p><p>As part of its study of an explosion and fire that destroyed the Barton Solvents facility in Valley Center, Kansas, in 2007, the safety board reviewed 62 material safety data sheets for commonly used nonconductive flammable liquids.  As in the combustible dust study, the board found all the data sheets inadequate.<sup class="reference" id="cite_ref-CSB_Barton_Solvents_KS_23-0"><a href="#cite_note-CSB_Barton_Solvents_KS-23">[23]</a></sup>
+</p><p>In 2012, the US adopted the 16 section Safety Data Sheet to replace Material Safety Data Sheets. This became effective on December 1, 2013. These new Safety Data Sheets comply with the <a href="/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals" title="Globally Harmonized System of Classification and Labelling of Chemicals">Globally Harmonized System of Classification and Labeling of Chemicals</a> (GHS). By June 1, 2015, employers were required to have their workplace labeling and hazard communication programs updated as necessary – including all MSDSs replaced with SDS-formatted documents.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p>
+<h2><span class="mw-headline" id="SDS_authoring">SDS authoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=11" title="Edit section: SDS authoring">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many companies offer the service of collecting, or writing and revising, data sheets to ensure they are up to date and available for their subscribers or users. Some jurisdictions impose an explicit <a href="/wiki/Duty_of_care" title="Duty of care">duty of care</a> that each SDS be regularly updated, usually every three to five years.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup> However, when new information becomes available, the SDS must be revised without delay.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Canadian_Centre_for_Occupational_Health_and_Safety" title="Canadian Centre for Occupational Health and Safety">Canadian Centre for Occupational Health and Safety</a></li>
+<li><a href="/wiki/Dangerous_goods" title="Dangerous goods">Dangerous goods</a></li>
+<li><a href="/wiki/European_Agency_for_Safety_and_Health_at_Work" title="European Agency for Safety and Health at Work">European Agency for Safety and Health at Work</a></li>
+<li><a href="/wiki/Fact_sheet" title="Fact sheet">Fact sheet</a></li>
+<li><a href="/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals" title="Globally Harmonized System of Classification and Labelling of Chemicals">Globally Harmonized System of Classification and Labelling of Chemicals</a></li>
+<li><a class="mw-redirect" href="/wiki/International_Chemical_Safety_Card" title="International Chemical Safety Card">International Chemical Safety Card</a></li>
+<li><a href="/wiki/Materials_database" title="Materials database">Materials database</a></li>
+<li><a href="/wiki/Data_collection_system" title="Data collection system">Data collection system</a></li>
+<li><a href="/wiki/MSDSonline" title="MSDSonline">MSDSonline</a> (requires subscription)</li>
+<li><a href="/wiki/Risk_and_Safety_Statements" title="Risk and Safety Statements">Risk and Safety Statements</a></li>
+<li><a href="/wiki/Health_and_Safety_Executive" title="Health and Safety Executive">Health and Safety Executive</a> (UK)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Safety_data_sheet&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Dangerous_goods_documentation" title="commons:Category:Dangerous goods documentation">Dangerous goods documentation</a></b></i>.</td></tr></tbody></table>
+<ul><li><a class="external text" href="https://ehs.ucop.edu/sds/#/msdscse" rel="nofollow">SDS Google search</a> - hosted by the <a href="/wiki/University_of_California" title="University of California">University of California</a></li>
+<li><a class="external text" href="https://www.msdsonline.com/msds-search/" rel="nofollow">SDS/MSDS Database</a></li>
+<li><a class="external text" href="http://www.msdssearchengine.com" rel="nofollow">MSDS Search Engine</a></li>
+<li><a class="external text" href="http://chemicalsafety.com/sds/" rel="nofollow">SDS Search Engine</a></li>
+<li><a class="external text" href="https://www.comply1.com/compliance/ghs/MSDS-SDS-Comparison" rel="nofollow">MSDS-SDS-Comparison</a></li></ul>
+<div aria-labelledby="Occupational_safety_and_health" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Occupational_safety_and_health" title="Template:Occupational safety and health"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Occupational_safety_and_health" title="Template talk:Occupational safety and health"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Occupational_safety_and_health&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Occupational_safety_and_health" style="font-size:114%;margin:0 4em"><a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">Occupational safety and health</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Occupational_disease" title="Occupational disease">Occupational diseases</a><br/>and <a href="/wiki/Occupational_injury" title="Occupational injury">injuries</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acrodynia" title="Acrodynia">Acrodynia</a></li>
+<li><a href="/wiki/Asbestosis" title="Asbestosis">Asbestosis</a></li>
+<li><a href="/wiki/Occupational_asthma" title="Occupational asthma">Asthma</a></li>
+<li><a href="/wiki/Berylliosis" title="Berylliosis">Berylliosis</a></li>
+<li><a href="/wiki/Brucellosis" title="Brucellosis">Brucellosis</a></li>
+<li><a href="/wiki/Byssinosis" title="Byssinosis">Byssinosis ("brown lung")</a></li>
+<li><a href="/wiki/Chalicosis" title="Chalicosis">Chalicosis</a></li>
+<li><a href="/wiki/Chimney_sweeps%27_carcinoma" title="Chimney sweeps' carcinoma">Chimney sweeps' carcinoma</a></li>
+<li><a href="/wiki/Chronic_solvent-induced_encephalopathy" title="Chronic solvent-induced encephalopathy">Chronic solvent-induced encephalopathy (CSE)</a></li>
+<li><a href="/wiki/Coalworker%27s_pneumoconiosis" title="Coalworker's pneumoconiosis">Coalworker's pneumoconiosis ("black lung")</a></li>
+<li><a href="/wiki/Concussions_in_sport" title="Concussions in sport">Concussions in sport</a></li>
+<li><a href="/wiki/Decompression_sickness" title="Decompression sickness">Decompression sickness</a></li>
+<li><a href="/wiki/De_Quervain_syndrome" title="De Quervain syndrome">De Quervain syndrome</a></li>
+<li><a class="mw-redirect" href="/wiki/Occupational_hazards_associated_with_exposure_to_human_nail_dust" title="Occupational hazards associated with exposure to human nail dust">Exposure to human nail dust</a></li>
+<li><a href="/wiki/Farmer%27s_lung" title="Farmer's lung">Farmer's lung</a></li>
+<li><a href="/wiki/Fiddler%27s_neck" title="Fiddler's neck">Fiddler's neck</a></li>
+<li><a href="/wiki/Flock_worker%27s_lung" title="Flock worker's lung">Flock worker's lung</a></li>
+<li><a href="/wiki/Glassblower%27s_cataract" title="Glassblower's cataract">Glassblower's cataract</a></li>
+<li><a href="/wiki/Golfer%27s_elbow" title="Golfer's elbow">Golfer's elbow</a></li>
+<li><a class="mw-redirect" href="/wiki/Hearing_Loss" title="Hearing Loss">Hearing Loss</a></li>
+<li><a href="/wiki/Hospital-acquired_infection" title="Hospital-acquired infection">Hospital-acquired infection</a></li>
+<li><a href="/wiki/Indium_lung" title="Indium lung">Indium lung</a></li>
+<li><a href="/wiki/Laboratory_animal_allergy" title="Laboratory animal allergy">Laboratory animal allergy</a></li>
+<li><a href="/wiki/Lead_poisoning#Occupational_exposure" title="Lead poisoning">Lead poisoning</a></li>
+<li><a class="mw-redirect" href="/wiki/Mad_hatter_disease" title="Mad hatter disease">Mad hatter disease</a></li>
+<li><a href="/wiki/Mesothelioma" title="Mesothelioma">Mesothelioma</a></li>
+<li><a href="/wiki/Metal_fume_fever" title="Metal fume fever">Metal fume fever</a></li>
+<li><a href="/wiki/Mule_spinners%27_cancer" title="Mule spinners' cancer">Mule spinners' cancer</a></li>
+<li><a href="/wiki/Noise-induced_hearing_loss" title="Noise-induced hearing loss">Noise-induced hearing loss</a></li>
+<li><a href="/wiki/Phossy_jaw" title="Phossy jaw">Phossy jaw</a></li>
+<li><a href="/wiki/Pneumoconiosis" title="Pneumoconiosis">Pneumoconiosis</a></li>
+<li><a href="/wiki/Radium_jaw" title="Radium jaw">Radium jaw</a></li>
+<li><a href="/wiki/Repetitive_strain_injury" title="Repetitive strain injury">Repetitive strain injury</a></li>
+<li><a href="/wiki/Silicosis" title="Silicosis">Silicosis</a></li>
+<li><a class="mw-redirect" href="/wiki/Silo-filler%27s_disease" title="Silo-filler's disease">Silo-filler's disease</a></li>
+<li><a href="/wiki/Sports_injury" title="Sports injury">Sports injury</a></li>
+<li><a href="/wiki/Surfer%27s_ear" title="Surfer's ear">Surfer's ear</a></li>
+<li><a href="/wiki/Tennis_elbow" title="Tennis elbow">Tennis elbow</a></li>
+<li><a href="/wiki/Tinnitus" title="Tinnitus">Tinnitus</a></li>
+<li><a href="/wiki/Writer%27s_cramp" title="Writer's cramp">Writer's cramp</a></li></ul>
+</div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg"><img alt="Image of Triangle Shirtwaist Factory fire on March 25 - 1911.jpg" data-file-height="884" data-file-width="675" height="118" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg/90px-Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg/135px-Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg/180px-Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg 2x" width="90"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Occupational_hygiene" title="Occupational hygiene">Occupational hygiene</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Occupational_hazard" title="Occupational hazard">Occupational hazard</a></li>
+<li><a href="/wiki/Hierarchy_of_hazard_controls" title="Hierarchy of hazard controls">Hierarchy of hazard controls</a></li>
+<li><a href="/wiki/Prevention_through_design" title="Prevention through design">Prevention through design</a></li>
+<li><a href="/wiki/Exposure_assessment" title="Exposure assessment">Exposure assessment</a></li>
+<li><a href="/wiki/Occupational_exposure_limit" title="Occupational exposure limit">Occupational exposure limit</a></li>
+<li><a href="/wiki/Occupational_epidemiology" title="Occupational epidemiology">Occupational epidemiology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Professions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_health" title="Environmental health">Environmental health</a></li>
+<li><a href="/wiki/Industrial_engineering" title="Industrial engineering">Industrial engineering</a></li>
+<li><a href="/wiki/Occupational_health_nursing" title="Occupational health nursing">Occupational health nursing</a></li>
+<li><a href="/wiki/Occupational_health_psychology" title="Occupational health psychology">Occupational health psychology</a></li>
+<li><a href="/wiki/Occupational_medicine" title="Occupational medicine">Occupational medicine</a></li>
+<li><a href="/wiki/Occupational_therapist" title="Occupational therapist">Occupational therapist</a></li>
+<li><a href="/wiki/Safety_engineering" title="Safety engineering">Safety engineering</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_occupational_safety_and_health_agencies" title="List of occupational safety and health agencies">Agencies</a> and organizations</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Canadian_Centre_for_Occupational_Health_and_Safety" title="Canadian Centre for Occupational Health and Safety">Canadian Centre for Occupational Health and Safety</a></li>
+<li><a href="/wiki/European_Agency_for_Safety_and_Health_at_Work" title="European Agency for Safety and Health at Work">European Agency for Safety and Health at Work</a></li>
+<li>UK <a href="/wiki/Health_and_Safety_Executive" title="Health and Safety Executive">Health and Safety Executive</a></li>
+<li><a href="/wiki/International_Labour_Organization" title="International Labour Organization">International Labour Organization</a></li>
+<li>U.S. <a href="/wiki/National_Institute_for_Occupational_Safety_and_Health" title="National Institute for Occupational Safety and Health">National Institute for Occupational Safety and Health</a></li>
+<li>U.S. <a href="/wiki/Occupational_Safety_and_Health_Administration" title="Occupational Safety and Health Administration">Occupational Safety and Health Administration</a></li>
+<li><a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Standards</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accord_on_Fire_and_Building_Safety_in_Bangladesh" title="Accord on Fire and Building Safety in Bangladesh">Bangladesh Accord</a></li>
+<li><a href="/wiki/ISO_45001" title="ISO 45001">ISO 45001</a></li>
+<li><a href="/wiki/Occupational_Safety_and_Health_Convention,_1981" title="Occupational Safety and Health Convention, 1981">Occupational Safety and Health Convention, 1981</a></li>
+<li><a href="/wiki/Worker_Protection_Standard" title="Worker Protection Standard">Worker Protection Standard</a> (US)</li>
+<li><a href="/wiki/Working_Environment_(Air_Pollution,_Noise_and_Vibration)_Convention,_1977" title="Working Environment (Air Pollution, Noise and Vibration) Convention, 1977">Working Environment Convention, 1977</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environment,_health_and_safety" title="Environment, health and safety">Environment, health and safety</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a class="mw-redirect" href="/wiki/Ergonomics" title="Ergonomics">Ergonomics</a></li>
+<li><a href="/wiki/Health_physics" title="Health physics">Health physics</a></li>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor air quality</a></li>
+<li><a class="mw-redirect" href="/wiki/International_Chemical_Safety_Card" title="International Chemical Safety Card">International Chemical Safety Card</a></li>
+<li><a href="/wiki/National_Day_of_Mourning_(Canadian_observance)" title="National Day of Mourning (Canadian observance)">National Day of Mourning (Canadian observance)</a></li>
+<li><a href="/wiki/Process_safety_management" title="Process safety management">Process safety management</a></li>
+<li><a href="/wiki/Public_health" title="Public health">Public health</a></li>
+<li><a href="/wiki/Risk_management" title="Risk management">Risk management</a></li>
+<li><a class="mw-selflink selflink">Safety data sheet (SDS)</a></li>
+<li><a href="/wiki/Toxic_tort" title="Toxic tort">Toxic tort</a></li>
+<li><a href="/wiki/Workers%27_compensation" title="Workers' compensation">Workers' compensation</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="3"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Occupational_safety_and_health" title="Category:Occupational safety and health">Category</a></b></li>
+<li><a href="/wiki/Category:Occupational_diseases" title="Category:Occupational diseases">Occupational diseases</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Occupational_safety_and_health" title="commons:Category:Occupational safety and health">Commons</a></b></li>
+<li><a href="/wiki/Category:Occupational_safety_and_health_journals" title="Category:Occupational safety and health journals">Journals</a></li>
+<li><a href="/wiki/Category:Occupational_safety_and_health_organizations" title="Category:Occupational safety and health organizations">Organizations</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:GHS-pictogram-exclam.svg"><img alt="GHS-pictogram-exclam.svg" data-file-height="724" data-file-width="724" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/21px-GHS-pictogram-exclam.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/32px-GHS-pictogram-exclam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/42px-GHS-pictogram-exclam.svg.png 2x" width="21"/></a></span><a class="mw-redirect" href="/wiki/Portal:Dangerous_goods" title="Portal:Dangerous goods">Dangerous goods portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20181031192508
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.408 seconds
+Real time usage: 0.494 seconds
+Preprocessor visited node count: 1324/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 59462/2097152 bytes
+Template argument size: 1358/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 55733/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.191/10.000 seconds
+Lua memory usage: 4.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  391.081      1 -total
+ 48.22%  188.577      1 Template:Reflist
+ 34.61%  135.346     19 Template:Cite_web
+  9.94%   38.893      1 Template:Short_description
+  9.29%   36.330      1 Template:Pagetype
+  8.60%   33.637      1 Template:Overly_detailed
+  7.31%   28.579      1 Template:Commons_category
+  7.23%   28.271      1 Template:Citation_needed
+  6.95%   27.182      1 Template:Ambox
+  6.22%   24.318      1 Template:Fix
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:337353-0!canonical and timestamp 20181031192508 and revision id 862275578
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Safety_data_sheet&amp;oldid=862275578">https://en.wikipedia.org/w/index.php?title=Safety_data_sheet&amp;oldid=862275578</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_safety" title="Category:Chemical safety">Chemical safety</a></li><li><a href="/wiki/Category:Materials" title="Category:Materials">Materials</a></li><li><a href="/wiki/Category:Occupational_safety_and_health" title="Category:Occupational safety and health">Occupational safety and health</a></li><li><a href="/wiki/Category:Documents" title="Category:Documents">Documents</a></li><li><a href="/wiki/Category:Industrial_hygiene" title="Category:Industrial hygiene">Industrial hygiene</a></li><li><a href="/wiki/Category:Safety_engineering" title="Category:Safety engineering">Safety engineering</a></li><li><a href="/wiki/Category:Environmental_law" title="Category:Environmental law">Environmental law</a></li><li><a href="/wiki/Category:Toxicology" title="Category:Toxicology">Toxicology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_March_2017" title="Category:Wikipedia articles with style issues from March 2017">Wikipedia articles with style issues from March 2017</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_are_excessively_detailed_from_March_2017" title="Category:Wikipedia articles that are excessively detailed from March 2017">Wikipedia articles that are excessively detailed from March 2017</a></li><li><a href="/wiki/Category:All_articles_that_are_excessively_detailed" title="Category:All articles that are excessively detailed">All articles that are excessively detailed</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Safety+data+sheet" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Safety+data+sheet" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Safety_data_sheet" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Safety_data_sheet" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Safety_data_sheet">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Safety_data_sheet&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Safety_data_sheet&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Safety_data_sheet" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Safety_data_sheet" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Safety_data_sheet&amp;oldid=862275578" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Safety_data_sheet&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q222067" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Safety_data_sheet&amp;id=862275578" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Safety+data+sheet">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Safety+data+sheet&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Safety_data_sheet&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dangerous_goods_documentation" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9_%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%B3%D9%84%D8%A7%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%AF%D8%A9" hreflang="ar" lang="ar" title="صحيفة بيانات سلامة المادة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fitxa_de_dades_de_seguretat" hreflang="ca" lang="ca" title="Fitxa de dades de seguretat – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Bezpe%C4%8Dnostn%C3%AD_list" hreflang="cs" lang="cs" title="Bezpečnostní list – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Sikkerhedsdatablad" hreflang="da" lang="da" title="Sikkerhedsdatablad – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sicherheitsdatenblatt" hreflang="de" lang="de" title="Sicherheitsdatenblatt – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%94%CE%B5%CE%BB%CF%84%CE%AF%CE%BF_%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD_%CE%B1%CF%83%CF%86%CE%AC%CE%BB%CE%B5%CE%B9%CE%B1%CF%82" hreflang="el" lang="el" title="Δελτίο δεδομένων ασφάλειας – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ficha_de_datos_de_seguridad" hreflang="es" lang="es" title="Ficha de datos de seguridad – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%DA%AF_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D8%A7%DB%8C%D9%85%D9%86%DB%8C" hreflang="fa" lang="fa" title="برگ اطلاعات ایمنی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Fiche_de_donn%C3%A9es_de_s%C3%A9curit%C3%A9" hreflang="fr" lang="fr" title="Fiche de données de sécurité – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/MSDS" hreflang="gl" lang="gl" title="MSDS – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AC%BC%EC%A7%88_%EC%95%88%EC%A0%84_%EB%B3%B4%EA%B1%B4_%EC%9E%90%EB%A3%8C" hreflang="ko" lang="ko" title="물질 안전 보건 자료 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Scheda_di_sicurezza" hreflang="it" lang="it" title="Scheda di sicurezza – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%9C%D7%99%D7%95%D7%9F_%D7%91%D7%98%D7%99%D7%97%D7%95%D7%AA_%D7%97%D7%95%D7%9E%D7%A8%D7%99%D7%9D" hreflang="he" lang="he" title="גיליון בטיחות חומרים – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Lembar_data_kaslametan_bahan" hreflang="jv" lang="jv" title="Lembar data kaslametan bahan – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Med%C5%BEiagos_saugos_duomen%C5%B3_lapas" hreflang="lt" lang="lt" title="Medžiagos saugos duomenų lapas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Biztons%C3%A1gi_adatlap" hreflang="hu" lang="hu" title="Biztonsági adatlap – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Veiligheidsinformatieblad" hreflang="nl" lang="nl" title="Veiligheidsinformatieblad – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%A8%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B7%E3%83%BC%E3%83%88" hreflang="ja" lang="ja" title="安全データシート – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sikkerhetsdatablad" hreflang="no" lang="no" title="Sikkerhetsdatablad – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Karta_charakterystyki" hreflang="pl" lang="pl" title="Karta charakterystyki – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/MSDS" hreflang="pt" lang="pt" title="MSDS – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Fi%C8%99%C4%83_cu_date_de_securitate" hreflang="ro" lang="ro" title="Fișă cu date de securitate – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82_%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8" hreflang="ru" lang="ru" title="Паспорт безопасности химической продукции – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Material_safety_data_sheet" hreflang="en-simple" lang="en-simple" title="Material safety data sheet – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Varnostni_list" hreflang="sl" lang="sl" title="Varnostni list – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/K%C3%A4ytt%C3%B6turvallisuustiedote" hreflang="fi" lang="fi" title="Käyttöturvallisuustiedote – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/S%C3%A4kerhetsdatablad" hreflang="sv" lang="sv" title="Säkerhetsdatablad – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D_%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%A4%E0%AE%BE%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="பொருள் பாதுகாப்பு குறிப்பு தாள் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2" hreflang="th" lang="th" title="เอกสารข้อมูลความปลอดภัย – Thai">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82_%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%96_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%83" hreflang="uk" lang="uk" title="Сертифікат безпечності матеріалу – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/B%E1%BA%A3ng_ch%E1%BB%89_d%E1%BA%ABn_an_to%C3%A0n_h%C3%B3a_ch%E1%BA%A5t" hreflang="vi" lang="vi" title="Bảng chỉ dẫn an toàn hóa chất – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9D%90%E6%96%99%E5%AE%89%E5%85%A8%E6%80%A7%E6%95%B0%E6%8D%AE%E8%A1%A8" hreflang="zh" lang="zh" title="材料安全性数据表 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q222067#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 October 2018, at 09:32<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Safety_data_sheet&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.494","ppvisitednodes":{"value":1324,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":59462,"limit":2097152},"templateargumentsize":{"value":1358,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55733,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  391.081      1 -total"," 48.22%  188.577      1 Template:Reflist"," 34.61%  135.346     19 Template:Cite_web","  9.94%   38.893      1 Template:Short_description","  9.29%   36.330      1 Template:Pagetype","  8.60%   33.637      1 Template:Overly_detailed","  7.31%   28.579      1 Template:Commons_category","  7.23%   28.271      1 Template:Citation_needed","  6.95%   27.182      1 Template:Ambox","  6.22%   24.318      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.191","limit":"10.000"},"limitreport-memusage":{"value":5218475,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20181031192508","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":615,"wgHostname":"mw1328"});});</script>
+</body>
+</html>

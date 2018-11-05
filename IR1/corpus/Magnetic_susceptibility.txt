@@ -1,0 +1,1142 @@
+https://en.wikipedia.org/wiki/Magnetic_susceptibility
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Magnetic susceptibility - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Magnetic_susceptibility","wgTitle":"Magnetic susceptibility","wgCurRevisionId":861193316,"wgRevisionId":861193316,"wgArticleId":187360,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles that are too technical from April 2015","All articles that are too technical","Articles needing expert attention from April 2015","All articles needing expert attention","Articles containing Latin-language text","Physical quantities","Magnetism","Electric and magnetic fields in matter","Scientific techniques"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Magnetic_susceptibility","wgRelevantArticleId":187360,"wgRequestId":"W9SPzwpAMFIAAGqIgZ8AAABP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q691463","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Magnetic_susceptibility" rel="alternate"/>
+<link href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Magnetic_susceptibility" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Magnetic_susceptibility rootpage-Magnetic_susceptibility skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Magnetic susceptibility</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-technical" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may be too technical for most readers to understand</b>. Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Magnetic_susceptibility&amp;action=edit">help improve it</a> to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details.  <small><i>(April 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In <a href="/wiki/Electromagnetism" title="Electromagnetism">electromagnetism</a>, the <b>magnetic susceptibility</b> (<a href="/wiki/Latin" title="Latin">Latin</a>: <i lang="la" title="Latin language text">susceptibilis</i>, "receptive"; denoted <span class="texhtml mvar" style="font-style:italic;"><span class="nounderlines"><a href="/wiki/Chi_(letter)" title="Chi (letter)">χ</a></span></span>) is one measure of the magnetic properties of a material.  The susceptibility indicates whether a material is attracted into or repelled out of a magnetic field, which in turn has implications for practical applications.  Quantitative measures of the magnetic susceptibility also provide insights into the structure of materials, providing insight into <a href="/wiki/Chemical_bond" title="Chemical bond">bonding</a> and <a href="/wiki/Energy_level" title="Energy level">energy levels</a>.
+</p><p>If the magnetic susceptibility is greater than zero, the substance is said to be "<a href="/wiki/Paramagnetism" title="Paramagnetism">paramagnetic</a>"; the magnetization of the substance is higher than that of empty space.  If the magnetic susceptibility is less than zero, the substance is "<a href="/wiki/Diamagnetism" title="Diamagnetism">diamagnetic</a>"; it tends to exclude a magnetic field from its interior.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>Mathematically it is the ratio of magnetization <span class="texhtml"><b>M</b></span> (magnetic moment per unit volume) to the applied magnetizing field intensity <span class="texhtml"><b>H</b></span>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Volume_susceptibility"><span class="tocnumber">1.1</span> <span class="toctext">Volume susceptibility</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Mass_susceptibility_and_molar_susceptibility"><span class="tocnumber">1.2</span> <span class="toctext">Mass susceptibility and molar susceptibility</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#In_CGS_units"><span class="tocnumber">1.3</span> <span class="toctext">In CGS units</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Paramagnetism_and_diamagnetism"><span class="tocnumber">2</span> <span class="toctext">Paramagnetism and diamagnetism</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Experimental_measurement"><span class="tocnumber">3</span> <span class="toctext">Experimental measurement</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Tensor_susceptibility"><span class="tocnumber">4</span> <span class="toctext">Tensor susceptibility</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Differential_susceptibility"><span class="tocnumber">5</span> <span class="toctext">Differential susceptibility</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#In_the_frequency_domain"><span class="tocnumber">6</span> <span class="toctext">In the frequency domain</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Examples"><span class="tocnumber">7</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Sources_of_confusion_in_published_data"><span class="tocnumber">8</span> <span class="toctext">Sources of confusion in published data</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References_and_notes"><span class="tocnumber">10</span> <span class="toctext">References and notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Permeability_(electromagnetism)#Relative_permeability_and_magnetic_susceptibility" title="Permeability (electromagnetism)">Permeability (electromagnetism) § Relative permeability and magnetic susceptibility</a></div>
+<h3><span class="mw-headline" id="Volume_susceptibility">Volume susceptibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=2" title="Edit section: Volume susceptibility">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Magnetic susceptibility is a dimensionless proportionality constant that indicates the degree of <a href="/wiki/Magnetization" title="Magnetization">magnetization</a> of a material in response to an applied <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic field</a>. A related term is <b>magnetizability</b>, the proportion between <a href="/wiki/Magnetic_moment" title="Magnetic moment">magnetic moment</a> and <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic flux density</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> A closely related parameter is the <a href="/wiki/Permeability_(electromagnetism)" title="Permeability (electromagnetism)">permeability</a>, which expresses the total magnetization of material and volume.
+</p><p>The <i>volume magnetic susceptibility</i>, represented by the symbol <span class="texhtml mvar" style="font-style:italic;">χ<sub>v</sub></span> (often simply <span class="texhtml mvar" style="font-style:italic;">χ</span>, sometimes <span class="texhtml mvar" style="font-style:italic;">χ<sub>m</sub></span> – magnetic, to distinguish from the <a href="/wiki/Electric_susceptibility" title="Electric susceptibility">electric susceptibility</a>), is defined in the <a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a> — in other systems there may be additional constants — by the following relationship:<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {M} =\chi _{v}\mathbf {H} .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">M</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">H</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {M} =\chi _{v}\mathbf {H} .}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {M} =\chi _{v}\mathbf {H} .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/79af341011e6cc531a3986ff03702d9b27c9da40" style="vertical-align: -0.671ex; width:10.859ex; height:2.509ex;"/></span></dd></dl>
+<p>Here
+</p>
+<ul><li><span class="texhtml"><b>M</b></span> is the <a href="/wiki/Magnetization" title="Magnetization">magnetization</a> of the material (the <a class="mw-redirect" href="/wiki/Magnetic_dipole_moment" title="Magnetic dipole moment">magnetic dipole moment</a> per unit volume), measured in <a href="/wiki/Ampere" title="Ampere">amperes</a> per meter, and</li>
+<li><span class="texhtml"><b>H</b></span> is the <a class="mw-redirect" href="/wiki/Effective_magnetic_field" title="Effective magnetic field">magnetic field strength</a>, also measured in amperes per meter.</li></ul>
+<p><span class="texhtml mvar" style="font-style:italic;">χ<sub>v</sub></span> is therefore a <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantity</a>.
+</p><p>Using <a href="/wiki/SI_electromagnetism_units" title="SI electromagnetism units">SI units</a>, the <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic induction</a> <span class="texhtml"><b>B</b></span> is related to <span class="texhtml"><b>H</b></span> by the relationship
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {B} \ =\ \mu _{0}\left(\mathbf {H} +\mathbf {M} \right)\ =\ \mu _{0}\left(1+\chi _{v}\right)\mathbf {H} \ =\ \mu \mathbf {H} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mtext> </mtext>
+<mo>=</mo>
+<mtext> </mtext>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">H</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">M</mi>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mtext> </mtext>
+<mo>=</mo>
+<mtext> </mtext>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">H</mi>
+</mrow>
+<mtext> </mtext>
+<mo>=</mo>
+<mtext> </mtext>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">H</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {B} \ =\ \mu _{0}\left(\mathbf {H} +\mathbf {M} \right)\ =\ \mu _{0}\left(1+\chi _{v}\right)\mathbf {H} \ =\ \mu \mathbf {H} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {B} \ =\ \mu _{0}\left(\mathbf {H} +\mathbf {M} \right)\ =\ \mu _{0}\left(1+\chi _{v}\right)\mathbf {H} \ =\ \mu \mathbf {H} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f8fd1b403568c3353a81bf7c1230e02b05a44c7b" style="vertical-align: -0.838ex; width:44.301ex; height:2.843ex;"/></span></dd></dl>
+<p>where <span class="texhtml"><i>μ</i><sub>0</sub></span> is the <a href="/wiki/Vacuum_permeability" title="Vacuum permeability">vacuum permeability</a> (see table of <a href="/wiki/Physical_constant" title="Physical constant">physical constants</a>), and <span class="texhtml">(1 + <i>χ<sub>v</sub></i>)</span> is the <a href="/wiki/Permeability_(electromagnetism)#Relative_permeability_and_magnetic_susceptibility" title="Permeability (electromagnetism)">relative permeability</a> of the material. Thus the <i>volume magnetic susceptibility</i> <span class="texhtml mvar" style="font-style:italic;">χ<sub>v</sub></span> and the <a class="mw-redirect" href="/wiki/Magnetic_permeability" title="Magnetic permeability">magnetic permeability</a> <span class="texhtml mvar" style="font-style:italic;">μ</span> are related by the following formula:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu =\mu _{0}\left(1+\chi _{v}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>μ<!-- μ --></mi>
+<mo>=</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu =\mu _{0}\left(1+\chi _{v}\right).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mu =\mu _{0}\left(1+\chi _{v}\right).}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/189c081006dc2f4c0c77bdbdf65b259b6544e0fe" style="vertical-align: -0.838ex; width:16.674ex; height:2.843ex;"/></span></dd></dl>
+<p>Sometimes<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> an auxiliary quantity called <i>intensity of magnetization</i> <span class="texhtml"><b>I</b></span> (also referred to as <i>magnetic polarisation</i> <span class="texhtml"><b>J</b></span>) and measured in <a href="/wiki/Tesla_(unit)" title="Tesla (unit)">teslas</a>, is defined as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {I} =\mu _{0}\mathbf {M} .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">I</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">M</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {I} =\mu _{0}\mathbf {M} .}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {I} =\mu _{0}\mathbf {M} .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8df5794c5b754bdd8fe7867ec6590aca6b230bc" style="vertical-align: -0.838ex; width:9.752ex; height:2.676ex;"/></span></dd></dl>
+<p>This allows an alternative description of all magnetization phenomena in terms of the quantities <span class="texhtml"><b>I</b></span> and <span class="texhtml"><b>B</b></span>, as opposed to the commonly used <span class="texhtml"><b>M</b></span> and <span class="texhtml"><b>H</b></span>.
+</p>
+<h3><span class="mw-headline" id="Mass_susceptibility_and_molar_susceptibility">Mass susceptibility and molar susceptibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=3" title="Edit section: Mass susceptibility and molar susceptibility">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are two other measures of susceptibility, the <i>mass magnetic susceptibility</i> (<span class="texhtml"><i>χ</i><sub>mass</sub></span> or <span class="texhtml"><i>χ</i><sub>g</sub></span>, sometimes <span class="texhtml"><i>χ<sub>m</sub></i></span>), measured in m<sup>3</sup>/kg (SI) and the <i><a href="/wiki/Mole_(unit)" title="Mole (unit)">molar</a> magnetic susceptibility</i> (<span class="texhtml"><i>χ</i><sub>mol</sub></span>) measured in m<sup>3</sup>/mol that are defined below, where <span class="texhtml mvar" style="font-style:italic;">ρ</span> is the <a href="/wiki/Density" title="Density">density</a> in kg/m<sup>3</sup> and <span class="texhtml mvar" style="font-style:italic;">M</span> is <a href="/wiki/Molar_mass" title="Molar mass">molar mass</a> in kg/mol:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \chi _{\text{mass}}={\frac {\chi _{v}}{\rho }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>mass</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \chi _{\text{mass}}={\frac {\chi _{v}}{\rho }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \chi _{\text{mass}}={\frac {\chi _{v}}{\rho }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7385ef866d4de93a19b423b05ad034c8bd5c2480" style="vertical-align: -2.338ex; width:11.593ex; height:5.343ex;"/></span>;</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \chi _{\text{mol}}=M\chi _{\text{mass}}={\frac {M\chi _{v}}{\rho }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>mol</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>M</mi>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>mass</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>M</mi>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+</mrow>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \chi _{\text{mol}}=M\chi _{\text{mass}}={\frac {M\chi _{v}}{\rho }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \chi _{\text{mol}}=M\chi _{\text{mass}}={\frac {M\chi _{v}}{\rho }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f94a75f0b24adb96504f4a2bbbc773bff2167a" style="vertical-align: -2.338ex; width:23.912ex; height:5.843ex;"/></span>.</dd></dl>
+<h3><span class="mw-headline" id="In_CGS_units">In CGS units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=4" title="Edit section: In CGS units">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Note that the definitions above are according to <a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> conventions. However, many tables of magnetic susceptibility give <a class="mw-redirect" href="/wiki/Centimetre_gram_second_system_of_units" title="Centimetre gram second system of units">cgs</a> values (more specifically <a class="mw-redirect" href="/wiki/Centimetre_gram_second_system_of_units#Electromagnetic_units_(EMU)" title="Centimetre gram second system of units">emu-cgs</a>, short for electromagnetic units, or <a href="/wiki/Gaussian_units" title="Gaussian units">Gaussian-cgs</a>; both are the same in this context). These units rely on a different definition of the permeability of free space:<sup class="reference" id="cite_ref-bennett_5-0"><a href="#cite_note-bennett-5">[5]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {B} ^{\text{cgs}}\ =\ \mathbf {H} ^{\text{cgs}}+4\pi \mathbf {M} ^{\text{cgs}}\ =\ \left(1+4\pi \chi _{v}^{\text{cgs}}\right)\mathbf {H} ^{\text{cgs}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msup>
+<mtext> </mtext>
+<mo>=</mo>
+<mtext> </mtext>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">H</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msup>
+<mo>+</mo>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">M</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msup>
+<mtext> </mtext>
+<mo>=</mo>
+<mtext> </mtext>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msubsup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msubsup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">H</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {B} ^{\text{cgs}}\ =\ \mathbf {H} ^{\text{cgs}}+4\pi \mathbf {M} ^{\text{cgs}}\ =\ \left(1+4\pi \chi _{v}^{\text{cgs}}\right)\mathbf {H} ^{\text{cgs}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {B} ^{\text{cgs}}\ =\ \mathbf {H} ^{\text{cgs}}+4\pi \mathbf {M} ^{\text{cgs}}\ =\ \left(1+4\pi \chi _{v}^{\text{cgs}}\right)\mathbf {H} ^{\text{cgs}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9e94baf2f6a1285feda3acffdf94b54c8664f0c8" style="vertical-align: -1.005ex; width:45.493ex; height:3.176ex;"/></span></dd></dl>
+<p>The <a class="mw-redirect" href="/wiki/Dimensionless" title="Dimensionless">dimensionless</a> cgs value of volume susceptibility is multiplied by 4<span class="texhtml">π</span> to give the dimensionless <a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> volume susceptibility value:<sup class="reference" id="cite_ref-bennett_5-1"><a href="#cite_note-bennett-5">[5]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \chi _{v}^{\text{SI}}=4\pi \chi _{v}^{\text{cgs}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>SI</mtext>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msubsup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \chi _{v}^{\text{SI}}=4\pi \chi _{v}^{\text{cgs}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \chi _{v}^{\text{SI}}=4\pi \chi _{v}^{\text{cgs}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0210b2f74ecff66c98b91e13b467b8e865c102f5" style="vertical-align: -0.671ex; width:12.675ex; height:2.843ex;"/></span></dd></dl>
+<p>For example, the cgs volume magnetic susceptibility of water at 20 °C is <span class="nowrap"><span class="sortkey" style="display:none">3006280999999999999♠</span>−7.19<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>, which is <span class="nowrap"><span class="sortkey" style="display:none">3005096000000000000♠</span>−9.04<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span> using the <a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> convention.
+</p><p>In physics it is common to see cgs mass susceptibility given in cm<sup>3</sup>/g or emu/g·Oe<sup>−1</sup>, so to convert to SI volume susceptibility we use the conversion <sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \chi _{v}^{\text{SI}}=4\pi \,\rho ^{\text{cgs}}\,\chi _{m}^{\text{cgs}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>SI</mtext>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \chi _{v}^{\text{SI}}=4\pi \,\rho ^{\text{cgs}}\,\chi _{m}^{\text{cgs}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \chi _{v}^{\text{SI}}=4\pi \,\rho ^{\text{cgs}}\,\chi _{m}^{\text{cgs}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9e6e6b77a613f2d57633eeeabbacf48e42391ad2" style="vertical-align: -0.838ex; width:17.083ex; height:3.009ex;"/></span></dd></dl>
+<p>where <span class="texhtml"><i>ρ</i><sup>cgs</sup></span> is the density given in g/cm<sup>3</sup>, or
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \chi _{v}^{\text{SI}}=\left(4\pi \times 10^{-3}\right)\,\rho ^{\rm {SI}}\,\chi _{m}^{\text{cgs}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>SI</mtext>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">S</mi>
+<mi mathvariant="normal">I</mi>
+</mrow>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>cgs</mtext>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \chi _{v}^{\text{SI}}=\left(4\pi \times 10^{-3}\right)\,\rho ^{\rm {SI}}\,\chi _{m}^{\text{cgs}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \chi _{v}^{\text{SI}}=\left(4\pi \times 10^{-3}\right)\,\rho ^{\rm {SI}}\,\chi _{m}^{\text{cgs}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/831373814614b9c0dd6b193d2e2f2e7660544d43" style="vertical-align: -1.005ex; width:26.406ex; height:3.343ex;"/></span>.</dd></dl>
+<p>The molar susceptibility is measured  cm<sup>3</sup>/mol or emu/mol·Oe<sup>−1</sup> in cgs and is calculated using the molar mass in g/mol.
+</p>
+<h2><span class="mw-headline" id="Paramagnetism_and_diamagnetism">Paramagnetism and diamagnetism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=5" title="Edit section: Paramagnetism and diamagnetism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If <span class="texhtml mvar" style="font-style:italic;">χ</span> is positive, a material can be <a class="mw-redirect" href="/wiki/Paramagnetic" title="Paramagnetic">paramagnetic</a>. In this case, the magnetic field in the material is strengthened by the induced magnetization. Alternatively, if <span class="texhtml mvar" style="font-style:italic;">χ</span> is negative, the material is <a class="mw-redirect" href="/wiki/Diamagnetic" title="Diamagnetic">diamagnetic</a>. In this case, the magnetic field in the material is weakened by the induced magnetization. Generally, nonmagnetic materials are said to be para- or diamagnetic because they do not possess permanent magnetization without external magnetic field. <a class="mw-redirect" href="/wiki/Ferromagnetic" title="Ferromagnetic">Ferromagnetic</a>, <a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">ferrimagnetic</a>, or <a class="mw-redirect" href="/wiki/Antiferromagnetic" title="Antiferromagnetic">antiferromagnetic</a> materials possess permanent magnetization even without external magnetic field and do not have a well defined zero-field susceptibility.
+</p>
+<h2><span class="mw-headline" id="Experimental_measurement">Experimental measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=6" title="Edit section: Experimental measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Volume magnetic susceptibility is measured by the force change felt upon a substance when a magnetic field gradient is applied.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Early measurements are made using the <a href="/wiki/Gouy_balance" title="Gouy balance">Gouy balance</a> where a sample is hung between the poles of an electromagnet. The change in weight when the electromagnet is turned on is proportional to the susceptibility. Today, high-end measurement systems use a <a class="mw-redirect" href="/wiki/Superconductive" title="Superconductive">superconductive</a> magnet. An alternative is to measure the force change on a strong compact magnet upon insertion of the sample. This system, widely used today, is called the <a href="/wiki/Evans_balance" title="Evans balance">Evans balance</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> For liquid samples, the susceptibility can be measured from the dependence of the <a href="/wiki/Nuclear_magnetic_resonance" title="Nuclear magnetic resonance">NMR</a> frequency of the sample on its shape or orientation.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+Another method using NMR techniques measures the magnetic field distortion around a sample immersed in water inside an MR scanner. This method is highly accurate for diamagnetic materials with susceptibilities similar to water.<sup class="reference" id="cite_ref-Wapler_JMR_14-0"><a href="#cite_note-Wapler_JMR-14">[14]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Tensor_susceptibility">Tensor susceptibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=7" title="Edit section: Tensor susceptibility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The magnetic susceptibility of most <a href="/wiki/Crystal" title="Crystal">crystals</a> is not a scalar quantity. Magnetic response <span class="texhtml"><b>M</b></span> is dependent upon the orientation of the sample and can occur in directions other than that of the applied field <span class="texhtml"><b>H</b></span>. In these cases, volume susceptibility is defined as a <a href="/wiki/Tensor" title="Tensor">tensor</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M_{i}=H_{j}\chi _{ij}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<msub>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>j</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M_{i}=H_{j}\chi _{ij}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle M_{i}=H_{j}\chi _{ij}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3655b3bdc80920b3749e6ba9b5b6f26a525b1102" style="vertical-align: -1.005ex; width:11.925ex; height:2.843ex;"/></span></dd></dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">i</span> and <span class="texhtml mvar" style="font-style:italic;">j</span> refer to the directions (e.g., <span class="texhtml mvar" style="font-style:italic;">x</span> and <span class="texhtml mvar" style="font-style:italic;">y</span> in <a class="mw-redirect" href="/wiki/Cartesian_coordinates" title="Cartesian coordinates">Cartesian coordinates</a>) of the applied field and magnetization, respectively. The <a href="/wiki/Tensor" title="Tensor">tensor</a> is thus rank 2 (second order), dimension (3,3) describing the component of magnetization in the <span class="texhtml mvar" style="font-style:italic;">i</span>th direction from the external field applied in the <span class="texhtml mvar" style="font-style:italic;">j</span>th direction.
+</p>
+<h2><span class="mw-headline" id="Differential_susceptibility">Differential susceptibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=8" title="Edit section: Differential susceptibility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a class="mw-redirect" href="/wiki/Ferromagnetic" title="Ferromagnetic">ferromagnetic</a> crystals, the relationship between <span class="texhtml"><b>M</b></span> and <span class="texhtml"><b>H</b></span> is not linear. To accommodate this, a more general definition of <i>differential susceptibility</i> is used
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \chi _{ij}^{d}={\frac {\partial M_{i}}{\partial H_{j}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>j</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \chi _{ij}^{d}={\frac {\partial M_{i}}{\partial H_{j}}}}</annotation>
+</semantics>
+</math></span><img alt="\chi _{{ij}}^{{d}}={\frac  {\partial M_{i}}{\partial H_{j}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/082043e6607bbc578c9ae8335464f30141e126d4" style="vertical-align: -2.671ex; width:11.239ex; height:6.176ex;"/></span></dd></dl>
+<p>where <span class="texhtml"><i>χ</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>d</i></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>ij</i></sub></span></span> is a <a href="/wiki/Tensor" title="Tensor">tensor</a> derived from <a href="/wiki/Partial_derivative" title="Partial derivative">partial derivatives</a> of components of <span class="texhtml"><b>M</b></span> with respect to components of <span class="texhtml"><b>H</b></span>. When the <a href="/wiki/Coercivity" title="Coercivity">coercivity</a> of the material parallel to an applied field is the smaller of the two, the differential susceptibility is a function of the applied field and self interactions, such as the <a href="/wiki/Magnetic_anisotropy" title="Magnetic anisotropy">magnetic anisotropy</a>. When the material is not <a href="/wiki/Saturation_(magnetic)" title="Saturation (magnetic)">saturated</a>, the effect will be nonlinear and dependent upon the <a href="/wiki/Domain_wall_(magnetism)" title="Domain wall (magnetism)">domain wall</a> configuration of the material.
+</p>
+<h2><span class="mw-headline" id="In_the_frequency_domain">In the frequency domain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=9" title="Edit section: In the frequency domain">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When the magnetic susceptibility is measured in response to an <a href="/wiki/Alternating_current" title="Alternating current">AC</a> magnetic field (i.e. a magnetic field that varies sinusoidally), this is called <i>AC susceptibility</i>. AC susceptibility (and the closely related "AC permeability") are <a href="/wiki/Complex_number" title="Complex number">complex number</a> quantities, and various phenomena, such as resonance, can be seen in AC susceptibility that cannot in constant-field (<a href="/wiki/Direct_current" title="Direct current">DC</a>) susceptibility. In particular, when an AC field is applied perpendicular to the detection direction (called the "transverse susceptibility" regardless of the frequency), the effect has a peak at the <a href="/wiki/Ferromagnetic_resonance" title="Ferromagnetic resonance">ferromagnetic resonance</a> frequency of the material with a given static applied field. Currently, this effect is called the <i>microwave permeability</i> or <i>network ferromagnetic resonance</i> in the literature. These results are sensitive to the <a href="/wiki/Domain_wall_(magnetism)" title="Domain wall (magnetism)">domain wall</a> configuration of the material and <a class="mw-redirect" href="/wiki/Eddy_currents" title="Eddy currents">eddy currents</a>.
+</p><p>In terms of <a href="/wiki/Ferromagnetic_resonance" title="Ferromagnetic resonance">ferromagnetic resonance</a>, the effect of an AC-field applied along the direction of the magnetization is called <i>parallel pumping</i>.
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=10" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="center" class="wikitable" style='"margin:auto;'>
+<caption>Magnetic susceptibility of some materials
+</caption>
+<tbody><tr>
+<th rowspan="2">Material
+</th>
+<th><a href="/wiki/Temperature" title="Temperature"><abbr title="Temperature">Temp.</abbr></a>
+</th>
+<th><a href="/wiki/Pressure" title="Pressure">Pressure</a>
+</th>
+<th colspan="2">Molar <abbr title="susceptibility">susc.</abbr>, <span class="texhtml"><i>χ</i><sub>mol</sub></span>
+</th>
+<th colspan="2">Mass <abbr title="susceptibility">susc.</abbr>, <span class="texhtml"><i>χ</i><sub>mass</sub></span>
+</th>
+<th colspan="2">Volume <abbr title="susceptibility">susc.</abbr>, <span class="texhtml"><i>χ</i><sub><i>v</i></sub></span>
+</th>
+<th><a href="/wiki/Molar_mass" title="Molar mass">Molar<span class="nowrap"> </span>mass</a>,<span class="nowrap"> </span><span class="texhtml mvar" style="font-style:italic;">M</span>
+</th>
+<th><a href="/wiki/Density" title="Density">Density</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \rho }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ρ<!-- ρ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho }</annotation>
+</semantics>
+</math></span><img alt="\rho " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64" style="vertical-align: -0.838ex; width:1.202ex; height:2.176ex;"/></span>
+</th></tr>
+<tr>
+<th style="text-align:center;">(<a href="/wiki/Celsius" title="Celsius">°C</a>)
+</th>
+<th style="text-align:center;">(<a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">atm</a>)
+</th>
+<th style="text-align:center;">SI<br/>(<a class="mw-redirect" href="/wiki/Cubic_meter" title="Cubic meter">m<sup>3</sup></a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>)
+</th>
+<th style="text-align:center;">CGS<br/>(<a class="mw-redirect" href="/wiki/Cubic_centimeter" title="Cubic centimeter">cm<sup>3</sup></a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>)
+</th>
+<th style="text-align:center;">SI<br/>(<a class="mw-redirect" href="/wiki/Cubic_meter" title="Cubic meter">m<sup>3</sup></a>/<a class="mw-redirect" href="/wiki/Kg" title="Kg">kg</a>)
+</th>
+<th style="text-align:center;">CGS<br/>(<a class="mw-redirect" href="/wiki/Cubic_centimeter" title="Cubic centimeter">cm<sup>3</sup></a>/<a href="/wiki/Gram" title="Gram">g</a>)
+</th>
+<th style="text-align:center;">SI<br/>
+</th>
+<th style="text-align:center;">CGS<br/> (<i><a class="mw-redirect" href="/wiki/Electromagnetic_unit" title="Electromagnetic unit">emu</a></i>)
+</th>
+<th style="text-align:center;"><span class="nowrap">(10<sup>−3</sup> <a class="mw-redirect" href="/wiki/Kg" title="Kg">kg</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a> </span><br/><span class="nowrap">= <a href="/wiki/Gram" title="Gram">g</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>)</span>
+</th>
+<th style="text-align:center;"><span class="nowrap">(10<sup>3</sup> <a class="mw-redirect" href="/wiki/Kg" title="Kg">kg</a>/<a class="mw-redirect" href="/wiki/Cubic_meter" title="Cubic meter">m<sup>3</sup></a> </span><br/><span class="nowrap">= <a href="/wiki/Gram" title="Gram">g</a>/<a class="mw-redirect" href="/wiki/Cubic_centimeter" title="Cubic centimeter">cm<sup>3</sup></a>)</span>
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/Helium" title="Helium">Helium</a><sup class="reference" id="cite_ref-gases1_15-0"><a href="#cite_note-gases1-15">[15]</a></sup>
+</td>
+<td>20</td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3010762000000000000♠</span>−2.38<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−11</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005811000000000000♠</span>−1.89<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008407000000000000♠</span>−5.93<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006528000000000000♠</span>−4.72<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3009015000000000000♠</span>−9.85<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−10</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3010216000000000000♠</span>−7.84<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−11</sup></span></td>
+<td>4.0026</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6996166000000000000♠</span>1.66<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Xenon" title="Xenon">Xenon</a><sup class="reference" id="cite_ref-gases1_15-1"><a href="#cite_note-gases1-15">[15]</a></sup>
+</td>
+<td>20</td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3009429000000000000♠</span>−5.71<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−10</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004546000000000000♠</span>−4.54<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008565000000000000♠</span>−4.35<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006654000000000000♠</span>−3.46<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3007762999999999999♠</span>−2.37<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−8</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008811000000000000♠</span>−1.89<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td>131.29</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6997546000000000000♠</span>5.46<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−3</sup></span>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a><sup class="reference" id="cite_ref-gases1_15-2"><a href="#cite_note-gases1-15">[15]</a></sup>
+</td>
+<td>20</td>
+<td>0.209</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6992430000000000000♠</span>+4.3<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−8</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6997342000000000000♠</span>+3.42<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−3</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6994134000000000000♠</span>+1.34<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6996107000000000000♠</span>+1.07<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6993372999999999999♠</span>+3.73<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6992297000000000000♠</span>+2.97<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−8</sup></span></td>
+<td>31.99</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6996277999999999999♠</span>2.78<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a><sup class="reference" id="cite_ref-gases1_15-3"><a href="#cite_note-gases1-15">[15]</a></sup>
+</td>
+<td>20</td>
+<td>0.781</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3009844000000000000♠</span>−1.56<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−10</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004876000000000000♠</span>−1.24<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008444000000000000♠</span>−5.56<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006557000000000000♠</span>−4.43<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008493999999999999♠</span>−5.06<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3009597000000000000♠</span>−4.03<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−10</sup></span></td>
+<td>28.01</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6996910000000000000♠</span>9.10<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span>
+</td></tr>
+<tr>
+<td align="left">Air (NTP)<sup class="reference" id="cite_ref-mri1_16-0"><a href="#cite_note-mri1-16">[16]</a></sup>
+</td>
+<td>20</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6993360000000000000♠</span>+3.6<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6992290000000000000♠</span>+2.9<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−8</sup></span></td>
+<td>28.97</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6997129000000000000♠</span>1.29<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−3</sup></span>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Water_(data_page)" title="Water (data page)">Water</a><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</td>
+<td>20</td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3009836900000000000♠</span>−1.631<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−10</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004870200000000000♠</span>−1.298<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008094899999999999♠</span>−9.051<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006279699999999999♠</span>−7.203<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005096500000000000♠</span>−9.035<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006280999999999999♠</span>−7.190<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td>18.015</td>
+<td>0.9982
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Mineral_oil" title="Mineral oil">Paraffin oil</a>, 220–260<span class="nowrap"> </span><a class="mw-redirect" href="/wiki/Centistokes" title="Centistokes">cSt</a><sup class="reference" id="cite_ref-Wapler_JMR_14-1"><a href="#cite_note-Wapler_JMR-14">[14]</a></sup>
+</td>
+<td>22
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3007898999999999999♠</span>−1.01<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−8</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006200000000000000♠</span>−8.0<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005120000000000000♠</span>−8.8<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006300000000000000♠</span>−7.0<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>
+</td>
+<td>
+</td>
+<td>0.878
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Poly(methyl_methacrylate)" title="Poly(methyl methacrylate)">PMMA</a><sup class="reference" id="cite_ref-Wapler_JMR_14-2"><a href="#cite_note-Wapler_JMR-14">[14]</a></sup>
+</td>
+<td>22
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008239000000000000♠</span>−7.61<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006394000000000000♠</span>−6.06<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005094000000000000♠</span>−9.06<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006279000000000000♠</span>−7.21<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>
+</td>
+<td>
+</td>
+<td>1.190
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Polyvinyl_chloride" title="Polyvinyl chloride">PVC</a><sup class="reference" id="cite_ref-Wapler_JMR_14-3"><a href="#cite_note-Wapler_JMR-14">[14]</a></sup>
+</td>
+<td>22
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008219999999999999♠</span>−7.80<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006379000000000000♠</span>−6.21<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004892900000000000♠</span>−1.071<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006148000000000000♠</span>−8.52<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>
+</td>
+<td>
+</td>
+<td>1.372
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Fused_quartz" title="Fused quartz">Fused silica</a> glass<sup class="reference" id="cite_ref-Wapler_JMR_14-4"><a href="#cite_note-Wapler_JMR-14">[14]</a></sup>
+</td>
+<td>22
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008487999999999999♠</span>−5.12<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006592999999999999♠</span>−4.07<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004887200000000000♠</span>−1.128<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span>
+</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006101999999999999♠</span>−8.98<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span>
+</td>
+<td>
+</td>
+<td>2.20
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Diamond" title="Diamond">Diamond</a><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</td>
+<td><a href="/wiki/Room_temperature" title="Room temperature">r.t.</a></td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3010260000000000000♠</span>−7.4<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−11</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005410000000000000♠</span>−5.9<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008379999999999999♠</span>−6.2<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006510000000000000♠</span>−4.9<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004780000000000000♠</span>−2.2<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005830000000000000♠</span>−1.7<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td>12.01</td>
+<td>3.513
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Graphite" title="Graphite">Graphite</a><sup class="reference" id="cite_ref-graphite1_19-0"><a href="#cite_note-graphite1-19">[19]</a></sup> <span class="texhtml"><i>χ</i><sub>∥</sub></span> (to <i>c</i>-axis)
+</td>
+<td>r.t.</td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3010250000000000000♠</span>−7.5<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−11</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005400000000000000♠</span>−6.0<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008370000000000000♠</span>−6.3<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006500000000000000♠</span>−5.0<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004860000000000000♠</span>−1.4<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005890000000000000♠</span>−1.1<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td>12.01</td>
+<td>2.267
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Graphite" title="Graphite">Graphite</a><sup class="reference" id="cite_ref-graphite1_19-1"><a href="#cite_note-graphite1-19">[19]</a></sup> <span class="texhtml"><i>χ</i><sub>∥</sub></span>
+</td>
+<td>r.t.</td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008679999999999999♠</span>−3.2<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3003740000000000000♠</span>−2.6<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006730000000000000♠</span>−2.7<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004780000000000000♠</span>−2.2<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3003390000000000000♠</span>−6.1<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004510000000000000♠</span>−4.9<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td>12.01</td>
+<td>2.267
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Graphite" title="Graphite">Graphite</a><sup class="reference" id="cite_ref-graphite1_19-2"><a href="#cite_note-graphite1-19">[19]</a></sup> <span class="texhtml"><i>χ</i><sub>∥</sub></span>
+</td>
+<td>−173</td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008559999999999999♠</span>−4.4<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3003650000000000000♠</span>−3.5<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006640000000000000♠</span>−3.6<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004710000000000000♠</span>−2.9<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3003169999999999999♠</span>−8.3<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004340000000000000♠</span>−6.6<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td>12.01</td>
+<td>2.267
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Aluminium" title="Aluminium">Aluminium</a><sup class="reference" id="cite_ref-magneticValues_20-0"><a href="#cite_note-magneticValues-20">[20]</a></sup>
+</td>
+<td></td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6990220000000000000♠</span>+2.2<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−10</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6995170000000000000♠</span>+1.7<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6991790000000000000♠</span>+7.9<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6993630000000000000♠</span>+6.3<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6995220000000000000♠</span>+2.2<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">6994175000000000000♠</span>+1.75<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td>26.98</td>
+<td>2.70
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Silver" title="Silver">Silver</a><sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</td>
+<td>961</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004769000000000000♠</span>−2.31<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005816000000000000♠</span>−1.84<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td>107.87</td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Bismuth" title="Bismuth">Bismuth</a><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</td>
+<td>20</td>
+<td>1</td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008644999999999999♠</span>−3.55<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3003718000000000000♠</span>−2.82<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3007829999999999999♠</span>−1.70<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−8</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005865000000000000♠</span>−1.35<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3003834000000000000♠</span>−1.66<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−4</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3004868000000000000♠</span>−1.32<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−5</sup></span></td>
+<td>208.98</td>
+<td>9.78
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Copper" title="Copper">Copper</a><sup class="reference" id="cite_ref-mri1_16-1"><a href="#cite_note-mri1-16">[16]</a></sup>
+</td>
+<td>20</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3008892149999999999♠</span>−1.0785<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−9</sup></span></td>
+<td></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3005036999999999999♠</span>−9.63<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−6</sup></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">3006234000000000000♠</span>−7.66<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span></td>
+<td>63.546</td>
+<td>8.92
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Nickel" title="Nickel">Nickel</a><sup class="reference" id="cite_ref-mri1_16-2"><a href="#cite_note-mri1-16">[16]</a></sup>
+</td>
+<td>20</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>600</td>
+<td>48</td>
+<td>58.69</td>
+<td>8.9
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Iron" title="Iron">Iron</a><sup class="reference" id="cite_ref-mri1_16-3"><a href="#cite_note-mri1-16">[16]</a></sup>
+</td>
+<td>20</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7005200000000000000♠</span>200<span style="margin-left:.25em;">000</span></span></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7004159000000000000♠</span>15<span style="margin-left:.25em;">900</span></span></td>
+<td>55.847</td>
+<td>7.874
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Sources_of_confusion_in_published_data">Sources of confusion in published data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=11" title="Edit section: Sources of confusion in published data">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/CRC_Handbook_of_Chemistry_and_Physics" title="CRC Handbook of Chemistry and Physics">CRC Handbook of Chemistry and Physics</a> has one of the only published magnetic susceptibility tables. Some of the data (e.g., for <a href="/wiki/Aluminium" title="Aluminium">aluminium</a>, <a href="/wiki/Bismuth" title="Bismuth">bismuth</a>, and <a href="/wiki/Diamond" title="Diamond">diamond</a>) is listed as cgs, which has caused confusion to some readers. "cgs" is an abbreviation of <i>centimeters–grams–seconds</i>; it represents the form of the units, but cgs does not specify units. Correct units of magnetic susceptibility in cgs is cm<sup>3</sup>/mol or cm<sup>3</sup>/g. <b>Molar susceptibility</b> and <b>mass susceptibility</b> are both listed in the CRC.  Some table have listed magnetic susceptibility of diamagnets as positives. It is important to check the header of the table for the correct units and sign of magnetic susceptibility readings.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul><li><a href="/wiki/Curie_constant" title="Curie constant">Curie constant</a></li>
+<li><a href="/wiki/Electric_susceptibility" title="Electric susceptibility">Electric susceptibility</a></li>
+<li><a href="/wiki/Iron" title="Iron">Iron</a></li>
+<li><a class="mw-redirect" href="/wiki/Magnetic_constant" title="Magnetic constant">Magnetic constant</a></li>
+<li><a class="mw-redirect" href="/wiki/Magnetic_flux_density" title="Magnetic flux density">Magnetic flux density</a></li>
+<li><a href="/wiki/Magnetism" title="Magnetism">Magnetism</a></li>
+<li><a href="/wiki/Magnetochemistry" title="Magnetochemistry">Magnetochemistry</a></li>
+<li><a href="/wiki/Magnetometer" title="Magnetometer">Magnetometer</a></li>
+<li><a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">Maxwell's equations</a></li>
+<li><a href="/wiki/Paleomagnetism" title="Paleomagnetism">Paleomagnetism</a></li>
+<li><a href="/wiki/Permeability_(electromagnetism)" title="Permeability (electromagnetism)">Permeability (electromagnetism)</a></li>
+<li><a href="/wiki/Quantitative_susceptibility_mapping" title="Quantitative susceptibility mapping">Quantitative susceptibility mapping</a></li>
+<li><a href="/wiki/Susceptibility_weighted_imaging" title="Susceptibility weighted imaging">Susceptibility weighted imaging</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References_and_notes">References and notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=13" title="Edit section: References and notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.cond-mat.de/events/correl14/manuscripts/pavarini.pdf" rel="nofollow">Linear Response Functions </a> in Eva Pavarini, Erik Koch, Dieter Vollhardt, and Alexander Lichtenstein (eds.): DMFT at 25: Infinite Dimensions,  Verlag des Forschungszentrum Jülich, 2014 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-89336-953-9" title="Special:BookSources/978-3-89336-953-9">978-3-89336-953-9</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1246
+Cached time: 20181022114341
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.104 seconds
+Real time usage: 1.355 seconds
+Preprocessor visited node count: 3613/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 86121/2097152 bytes
+Template argument size: 2445/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 64612/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.630/10.000 seconds
+Lua memory usage: 19.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1091.512      1 -total
+ 36.39%  397.200      1 Template:Reflist
+ 25.07%  273.681      1 Template:Lang
+ 21.26%  232.022     98 Template:Val
+ 17.73%  193.476     14 Template:Cite_journal
+  6.15%   67.107      2 Template:ISBN
+  5.91%   64.501      1 Template:Technical
+  4.44%   48.466      1 Template:Cite_encyclopedia
+  4.07%   44.444      1 Template:Ambox
+  3.99%   43.594      2 Template:Catalog_lookup_link
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:187360-0!canonical!math=5 and timestamp 20181022114339 and revision id 861193316
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Magnetic_susceptibility&amp;oldid=861193316">https://en.wikipedia.org/w/index.php?title=Magnetic_susceptibility&amp;oldid=861193316</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_quantities" title="Category:Physical quantities">Physical quantities</a></li><li><a href="/wiki/Category:Magnetism" title="Category:Magnetism">Magnetism</a></li><li><a href="/wiki/Category:Electric_and_magnetic_fields_in_matter" title="Category:Electric and magnetic fields in matter">Electric and magnetic fields in matter</a></li><li><a href="/wiki/Category:Scientific_techniques" title="Category:Scientific techniques">Scientific techniques</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_April_2015" title="Category:Wikipedia articles that are too technical from April 2015">Wikipedia articles that are too technical from April 2015</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_April_2015" title="Category:Articles needing expert attention from April 2015">Articles needing expert attention from April 2015</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Magnetic+susceptibility" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Magnetic+susceptibility" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Magnetic_susceptibility" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Magnetic_susceptibility" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Magnetic_susceptibility">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Magnetic_susceptibility&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Magnetic_susceptibility&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Magnetic_susceptibility" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Magnetic_susceptibility" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Magnetic_susceptibility&amp;oldid=861193316" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Magnetic_susceptibility&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q691463" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Magnetic_susceptibility&amp;id=861193316" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Magnetic+susceptibility">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Magnetic+susceptibility&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Magnetic_susceptibility&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A8%D9%84%D9%8A%D8%A9_%D9%85%D8%BA%D9%86%D8%A7%D8%B7%D9%8A%D8%B3%D9%8A%D8%A9" hreflang="ar" lang="ar" title="قابلية مغناطيسية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%B0_%D0%B2%D1%8A%D0%B7%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82" hreflang="bg" lang="bg" title="Магнитна възприемчивост – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Susceptibilitat_magn%C3%A8tica" hreflang="ca" lang="ca" title="Susceptibilitat magnètica – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Magnetick%C3%A1_susceptibilita" hreflang="cs" lang="cs" title="Magnetická susceptibilita – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Magnetische_Suszeptibilit%C3%A4t" hreflang="de" lang="de" title="Magnetische Suszeptibilität – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Magnetiline_vastuv%C3%B5tlikkus" hreflang="et" lang="et" title="Magnetiline vastuvõtlikkus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%B3%CE%BD%CE%B7%CF%84%CE%B9%CE%BA%CE%AE_%CE%B5%CF%80%CE%B9%CE%B4%CE%B5%CE%BA%CF%84%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1" hreflang="el" lang="el" title="Μαγνητική επιδεκτικότητα – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Susceptibilidad_magn%C3%A9tica" hreflang="es" lang="es" title="Susceptibilidad magnética – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%B0%DB%8C%D8%B1%D9%81%D8%AA%D8%A7%D8%B1%DB%8C_%D9%85%D8%BA%D9%86%D8%A7%D8%B7%DB%8C%D8%B3%DB%8C" hreflang="fa" lang="fa" title="پذیرفتاری مغناطیسی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Susceptibilit%C3%A9_magn%C3%A9tique" hreflang="fr" lang="fr" title="Susceptibilité magnétique – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/So-ghabh%C3%A1lacht_mhaighn%C3%A9adach" hreflang="ga" lang="ga" title="So-ghabhálacht mhaighnéadach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9E%90%ED%99%94%EC%9C%A8" hreflang="ko" lang="ko" title="자화율 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Magnetna_susceptibilnost" hreflang="hr" lang="hr" title="Magnetna susceptibilnost – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Suseptibilitas_magnetik" hreflang="id" lang="id" title="Suseptibilitas magnetik – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Suscettivit%C3%A0_magnetica" hreflang="it" lang="it" title="Suscettività magnetica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A1%D7%A4%D7%98%D7%99%D7%91%D7%99%D7%9C%D7%99%D7%95%D7%AA_%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%AA" hreflang="he" lang="he" title="סוספטיביליות מגנטית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D1%82%D1%96%D0%BA_%D2%9B%D0%B0%D0%B1%D1%8B%D0%BB%D0%B4%D0%B0%D2%93%D1%8B%D1%88%D1%82%D1%8B%D2%9B" hreflang="kk" lang="kk" title="Магниттік қабылдағыштық – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/M%C3%A1gneses_szuszceptibilit%C3%A1s" hreflang="hu" lang="hu" title="Mágneses szuszceptibilitás – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%95%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%AE%E0%B4%A4" hreflang="ml" lang="ml" title="കാന്തികക്ഷമത – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Magnetische_susceptibiliteit" hreflang="nl" lang="nl" title="Magnetische susceptibiliteit – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%A3%81%E5%8C%96%E7%8E%87" hreflang="ja" lang="ja" title="磁化率 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Magneetisk_suszeptibiliteet" hreflang="frr" lang="frr" title="Magneetisk suszeptibiliteet – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Magnetisk_susceptibilitet" hreflang="nn" lang="nn" title="Magnetisk susceptibilitet – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Podatno%C5%9B%C4%87_magnetyczna" hreflang="pl" lang="pl" title="Podatność magnetyczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Susceptibilidade_magn%C3%A9tica" hreflang="pt" lang="pt" title="Susceptibilidade magnética – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Susceptibilitate_magnetic%C4%83" hreflang="ro" lang="ro" title="Susceptibilitate magnetică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%B8%D0%B8%D0%BC%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Магнитная восприимчивость – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Magnetick%C3%A1_susceptibilita" hreflang="sk" lang="sk" title="Magnetická susceptibilita – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Magnetna_susceptibilnost" hreflang="sr" lang="sr" title="Magnetna susceptibilnost – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Magneettinen_suskeptibiliteetti" hreflang="fi" lang="fi" title="Magneettinen suskeptibiliteetti – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Magnetisk_susceptibilitet" hreflang="sv" lang="sv" title="Magnetisk susceptibilitet – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%AF%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4_%E0%B0%B8%E0%B0%B8%E0%B1%86%E0%B0%AA%E0%B1%8D%E0%B0%9F%E0%B0%AC%E0%B0%BF%E0%B0%B2%E0%B0%BF%E0%B0%9F%E0%B1%80" hreflang="te" lang="te" title="అయస్కాంత ససెప్టబిలిటీ – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Manyetik_al%C4%B1nganl%C4%B1k" hreflang="tr" lang="tr" title="Manyetik alınganlık – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%96%D1%82%D0%BD%D0%B0_%D1%81%D0%BF%D1%80%D0%B8%D0%B9%D0%BD%D1%8F%D1%82%D0%BB%D0%B8%D0%B2%D1%96%D1%81%D1%82%D1%8C" hreflang="uk" lang="uk" title="Магнітна сприйнятливість – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99_c%E1%BA%A3m_t%E1%BB%AB" hreflang="vi" lang="vi" title="Độ cảm từ – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%A3%81%E5%8C%96%E7%8E%87" hreflang="zh" lang="zh" title="磁化率 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q691463#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 19:06<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Magnetic_susceptibility&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.104","walltime":"1.355","ppvisitednodes":{"value":3613,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":86121,"limit":2097152},"templateargumentsize":{"value":2445,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":64612,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1091.512      1 -total"," 36.39%  397.200      1 Template:Reflist"," 25.07%  273.681      1 Template:Lang"," 21.26%  232.022     98 Template:Val"," 17.73%  193.476     14 Template:Cite_journal","  6.15%   67.107      2 Template:ISBN","  5.91%   64.501      1 Template:Technical","  4.44%   48.466      1 Template:Cite_encyclopedia","  4.07%   44.444      1 Template:Ambox","  3.99%   43.594      2 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.630","limit":"10.000"},"limitreport-memusage":{"value":20359340,"limit":52428800}},"cachereport":{"origin":"mw1246","timestamp":"20181022114341","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1247"});});</script>
+</body>
+</html>

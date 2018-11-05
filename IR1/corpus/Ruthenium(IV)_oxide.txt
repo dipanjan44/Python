@@ -1,0 +1,446 @@
+https://en.wikipedia.org/wiki/Ruthenium(IV)_oxide
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Ruthenium(IV) oxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ruthenium(IV)_oxide","wgTitle":"Ruthenium(IV) oxide","wgCurRevisionId":808720821,"wgRevisionId":808720821,"wgArticleId":5296733,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chemical pages without ChemSpiderID","Articles without EBI source","Articles without KEGG source","Articles without UNII source","ECHA InfoCard ID from Wikidata","Chemical articles having a data page","Articles containing unverified chemical infoboxes","Oxides","Ruthenium compounds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ruthenium(IV)_oxide","wgRelevantArticleId":5296733,"wgRequestId":"W9oYfgpAMFQAALkUz44AAAAD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q417022","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ruthenium%28IV%29-oxide-unit-cell-3D-vdW.png/1200px-Ruthenium%28IV%29-oxide-unit-cell-3D-vdW.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ruthenium(IV)_oxide" rel="alternate"/>
+<link href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Ruthenium(IV)_oxide" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ruthenium_IV_oxide rootpage-Ruthenium_IV_oxide skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Ruthenium(IV) oxide</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left; ;">
+<caption style="text-align:center;">Ruthenium(IV) oxide
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a class="image" href="/wiki/File:Ruthenium(IV)-oxide-unit-cell-3D-vdW.png"><img alt="Ruthenium(IV)-oxide-unit-cell-3D-vdW.png" data-file-height="1000" data-file-width="1327" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ruthenium%28IV%29-oxide-unit-cell-3D-vdW.png/220px-Ruthenium%28IV%29-oxide-unit-cell-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ruthenium%28IV%29-oxide-unit-cell-3D-vdW.png/330px-Ruthenium%28IV%29-oxide-unit-cell-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ruthenium%28IV%29-oxide-unit-cell-3D-vdW.png/440px-Ruthenium%28IV%29-oxide-unit-cell-3D-vdW.png 2x" width="220"/></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Ruthenium(IV) oxide</div>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Ruthenium dioxide</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=12036-10-1" rel="nofollow">12036-10-1</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a class="mw-redirect" href="/wiki/JSmol" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3D%5BRu%5D%3DO" rel="nofollow">Interactive image</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/ECHA_InfoCard" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.031.660" rel="nofollow">100.031.660</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_Community_number" title="European Community number"><span title="European Community number (chemical identifier)">EC Number</span></a>
+</td>
+<td>234-840-6
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/82848" rel="nofollow">82848</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/2O.Ru</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">O=[Ru]=O</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td>RuO<sub>2</sub>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>133.0688 g/mol   
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>blue-black solid
+</td></tr>
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>6.97 g/cm<sup>3</sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td> 1,200 °C (2,190 °F; 1,470 K) sublimates
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>insoluble
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">Magnetic susceptibility</a> (χ)</div>
+</td>
+<td>+162.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Structure
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Crystal_structure" title="Crystal structure">Crystal structure</a></div>
+</td>
+<td><a href="/wiki/Rutile" title="Rutile">Rutile</a> (tetragonal), <a href="/wiki/Pearson_symbol" title="Pearson symbol">tP6</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Space_group" title="Space group">Space group</a></div>
+</td>
+<td><i>P</i>4<sub>2</sub>/<i>mnm</i>, No. 136
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Coordination_geometry" title="Coordination geometry">Coordination geometry</a></div>
+</td>
+<td>Octahedral (Ru<sup>IV</sup>); trigonal planar (O<sup>2−</sup>)
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+<tr>
+<td><a href="/wiki/Safety_data_sheet" title="Safety data sheet">Safety data sheet</a>
+</td>
+<td><i>See: <a href="/wiki/Ruthenium(IV)_oxide_(data_page)#Safety_data_sheet" title="Ruthenium(IV) oxide (data page)">data page</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flash_point" title="Flash point">Flash point</a>
+</td>
+<td>Non-flammable  
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Related compounds
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Other <a href="/wiki/Ion" title="Ion">anions</a></div>
+</td>
+<td><a class="mw-redirect" href="/wiki/Ruthenium_disulfide" title="Ruthenium disulfide">Ruthenium disulfide</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Other <a href="/wiki/Ion" title="Ion">cations</a></div>
+</td>
+<td><a class="mw-redirect" href="/wiki/Osmium(IV)_oxide" title="Osmium(IV) oxide">Osmium(IV) oxide</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related <a href="/wiki/Ruthenium" title="Ruthenium">ruthenium</a> <a href="/wiki/Oxide" title="Oxide">oxides</a></div>
+</td>
+<td><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;"><a href="/wiki/Ruthenium(IV)_oxide_(data_page)" title="Ruthenium(IV) oxide (data page)">Supplementary data page</a>
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Ruthenium(IV)_oxide_(data_page)#Structure_and_properties" title="Ruthenium(IV) oxide (data page)">Structure and<br/>properties</a></div>
+</td>
+<td><a href="/wiki/Refractive_index" title="Refractive index">Refractive index</a> (<i>n</i>),<br/><a class="mw-redirect" href="/wiki/Dielectric_constant" title="Dielectric constant">Dielectric constant</a> (ε<sub>r</sub>), etc.
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Thermodynamic<br/>data</div>
+</td>
+<td><a href="/wiki/Ruthenium(IV)_oxide_(data_page)#Thermodynamic_properties" title="Ruthenium(IV) oxide (data page)">Phase behaviour</a><br/>solid–liquid–gas
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Ruthenium(IV)_oxide_(data_page)#Spectral_data" title="Ruthenium(IV) oxide (data page)">Spectral data</a></div>
+</td>
+<td><a class="mw-redirect" href="/wiki/UV/VIS_spectroscopy" title="UV/VIS spectroscopy">UV</a>, <a href="/wiki/Infrared_spectroscopy" title="Infrared spectroscopy">IR</a>, <a class="mw-redirect" href="/wiki/NMR_spectroscopy" title="NMR spectroscopy">NMR</a>, <a href="/wiki/Mass_spectrometry" title="Mass spectrometry">MS</a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25 °C [77 °F], 100 kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☒" data-file-height="600" data-file-width="525" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/12px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/18px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/24px-X_mark.svg.png 2x" width="12"/><span style="display:none">N</span> <span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=428796180&amp;page2=Ruthenium%28IV%29+oxide">verify</a></span> (<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a> <sup><img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span><img alt="☒" data-file-height="600" data-file-width="525" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" width="7"/><span style="display:none">N</span></sup> ?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Ruthenium(IV) oxide</b> is the <a href="/wiki/Inorganic_compound" title="Inorganic compound">inorganic compound</a> with the formula <a href="/wiki/Ruthenium" title="Ruthenium">Ru</a><a href="/wiki/Oxygen" title="Oxygen">O<sub>2</sub></a>.  This black solid is the most common oxide of <a href="/wiki/Ruthenium" title="Ruthenium">ruthenium</a>.  It is widely used as an <a href="/wiki/Electrocatalyst" title="Electrocatalyst">electrocatalyst</a> for producing chlorine, chlorine oxides, and O<sub>2</sub> catalyst is ruthenium(IV) oxide.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Like many dioxides, RuO<sub>2</sub> adopts the <a href="/wiki/Rutile" title="Rutile">rutile</a> structure.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Preparation"><span class="tocnumber">1</span> <span class="toctext">Preparation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Uses"><span class="tocnumber">2</span> <span class="toctext">Uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Potential_and_niche_applications"><span class="tocnumber">2.1</span> <span class="toctext">Potential and niche applications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Preparation">Preparation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=edit&amp;section=1" title="Edit section: Preparation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is usually prepared by oxidation of <a class="mw-redirect" href="/wiki/Ruthenium_trichloride" title="Ruthenium trichloride">ruthenium trichloride</a>.  Nearly stoichiometric single crystals of RuO<sub>2</sub> can be obtained by <a class="mw-redirect" href="/wiki/Chemical_vapor_transport" title="Chemical vapor transport">chemical vapor transport</a>, using O<sub>2</sub> as the transport agent:<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<dl><dd>RuO<sub>2</sub>  +  O<sub>2</sub> ⇌  RuO<sub>4</sub></dd></dl>
+<p>Films of RuO<sub>2</sub> can be prepared by <a href="/wiki/Chemical_vapor_deposition" title="Chemical vapor deposition">chemical vapor deposition</a> (CVD) from volatile ruthenium compounds.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>  RuO<sub>2</sub> can also be prepared through <a href="/wiki/Electroplating" title="Electroplating">electroplating</a> from a solution of ruthenium trichloride.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=edit&amp;section=2" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ruthenium (IV) oxide is being used as the main component in the catalyst of the Sumitomo-<a href="/wiki/Deacon_process" title="Deacon process">Deacon process</a> which produces <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> by the oxidation of <a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">hydrogen chloride</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p>RuO<sub>2</sub> can be used as catalyst in many other situations.  Noteworthy reactions are the <a class="mw-redirect" href="/wiki/Fischer-Tropsch_process" title="Fischer-Tropsch process">Fischer-Tropsch process</a>, <a class="mw-redirect" href="/wiki/Haber-Bosch_process" title="Haber-Bosch process">Haber-Bosch process</a>, and various manifestations of <a class="mw-redirect" href="/wiki/Fuel_cells" title="Fuel cells">fuel cells</a>.
+</p>
+<h3><span class="mw-headline" id="Potential_and_niche_applications">Potential and niche applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=edit&amp;section=3" title="Edit section: Potential and niche applications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>RuO<sub>2</sub> is extensively used for the coating of titanium anodes for the electrolytic production of chlorine and for the preparation of <a class="mw-redirect" href="/wiki/Resistors" title="Resistors">resistors</a> or <a class="mw-redirect" href="/wiki/Integrated_circuits" title="Integrated circuits">integrated circuits</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Ruthenium oxide resistors can be used as sensitive thermometers in the temperature range .02 &lt; T &lt; 4 K. It can be also used as active material in supercapacitor because has very high charge transfer capability.  Ruthenium oxide has great capacity to store charge when used in aqueous solutions.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Average capacities of ruthenium(IV) oxide have reached 650 F/g when in H<sub>2</sub>SO<sub>4</sub> solution and annealed at temperatures lower than 200 °C.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> In attempts to optimise its capacitive properties, prior work has looked at the hydration of ruthenium oxide, its crystallinity and particle size.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Ruthenium(IV)_oxide" title="commons:Category:Ruthenium(IV) oxide">Ruthenium(IV) oxide</a></b></i>.</td></tr></tbody></table>
+<ul><li><a class="external text" href="http://periodic.lanl.gov/elements/44.html" rel="nofollow">Los Alamos National Laboratory – Ruthenium</a></li></ul>
+<div aria-labelledby="Ruthenium_compounds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ruthenium_compounds" title="Template:Ruthenium compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ruthenium_compounds" title="Template talk:Ruthenium compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ruthenium_compounds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Ruthenium_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Ruthenium" title="Ruthenium">Ruthenium</a> compounds</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(0)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Triruthenium_dodecacarbonyl" title="Triruthenium dodecacarbonyl">Ru<sub>3</sub>(CO)<sub>12</sub></a></li>
+<li><a href="/wiki/Dicarbonyltris(triphenylphosphine)ruthenium(0)" title="Dicarbonyltris(triphenylphosphine)ruthenium(0)">Ru(P(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>)<sub>3</sub>(CO)<sub>2</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(I)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Shvo_catalyst" title="Shvo catalyst">(C<sub>5</sub>(C<sub>6</sub>H<sub>5</sub>)<sub>4</sub>O)<sub>2</sub>H(Ru(CO)<sub>2</sub>)<sub>2</sub>H</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(II)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ruthenium_boride" title="Ruthenium boride">RuB<sub>2</sub></a></li>
+<li><a href="/wiki/Tetrasodium_tris(bathophenanthroline_disulfonate)ruthenium(II)" title="Tetrasodium tris(bathophenanthroline disulfonate)ruthenium(II)">Na<sub>4</sub>Ru(N<sub>2</sub>C<sub>12</sub>H<sub>6</sub>(C<sub>6</sub>H<sub>4</sub>SO<sub>3</sub>)<sub>2</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Tris(bipyridine)ruthenium(II)_chloride" title="Tris(bipyridine)ruthenium(II) chloride">(Ru((NC<sub>5</sub>H<sub>4</sub>)<sub>2</sub>)<sub>3</sub>)Cl<sub>2</sub></a></li>
+<li><a href="/wiki/Dichlorotris(triphenylphosphine)ruthenium(II)" title="Dichlorotris(triphenylphosphine)ruthenium(II)">Ru(P(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>)<sub>3</sub>Cl<sub>2</sub></a></li>
+<li><a href="/wiki/Dichlorotetrakis(dimethylsulfoxide)ruthenium(II)" title="Dichlorotetrakis(dimethylsulfoxide)ruthenium(II)">Ru(SO(CH<sub>3</sub>)<sub>2</sub>)<sub>4</sub>Cl<sub>2</sub></a></li>
+<li><a href="/wiki/(Cymene)ruthenium_dichloride_dimer" title="(Cymene)ruthenium dichloride dimer">(RuCl<sub>2</sub>C<sub>6</sub>H<sub>4</sub>CH<sub>3</sub>CH(CH<sub>3</sub>)<sub>2</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Chloro(cyclopentadienyl)bis(triphenylphosphine)ruthenium" title="Chloro(cyclopentadienyl)bis(triphenylphosphine)ruthenium">RuClC<sub>5</sub>H<sub>5</sub>(P(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>)<sub>2</sub></a></li>
+<li><a href="/wiki/Ruthenocene" title="Ruthenocene">(C<sub>5</sub>H<sub>5</sub>)<sub>2</sub>Ru</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(III)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ruthenium(III)_chloride" title="Ruthenium(III) chloride">RuCl<sub>3</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(IV)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">RuO<sub>2</sub></a></li>
+<li><a href="/wiki/Strontium_ruthenate" title="Strontium ruthenate">Sr<sub>2</sub>RuO<sub>4</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(V)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ruthenium_pentafluoride" title="Ruthenium pentafluoride">RuF<sub>5</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(VI)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ruthenium_hexafluoride" title="Ruthenium hexafluoride">RuF<sub>6</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(VII)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tetrapropylammonium_perruthenate" title="Tetrapropylammonium perruthenate">N(C<sub>3</sub>H<sub>7</sub>)<sub>4</sub>RuO<sub>4</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ru(VIII)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">RuO<sub>4</sub></a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20181026171732
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.524 seconds
+Real time usage: 0.671 seconds
+Preprocessor visited node count: 4927/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84214/2097152 bytes
+Template argument size: 13853/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9068/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.213/10.000 seconds
+Lua memory usage: 4.33 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  604.955      1 -total
+ 75.13%  454.506      1 Template:Chembox
+ 40.20%  243.212      1 Template:Chembox_Identifiers
+ 26.78%  161.988      7 Template:Chembox_headerbar
+ 26.09%  157.805     21 Template:Trim
+ 18.78%  113.633      1 Template:Reflist
+ 13.96%   84.450     10 Template:Main_other
+ 13.70%   82.861      1 Template:Chembox_Properties
+ 11.97%   72.427      1 Template:Chembox_parametercheck
+ 11.79%   71.341      1 Template:Wells4th
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5296733-0!canonical and timestamp 20181026171731 and revision id 808720821
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ruthenium(IV)_oxide&amp;oldid=808720821">https://en.wikipedia.org/w/index.php?title=Ruthenium(IV)_oxide&amp;oldid=808720821</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Oxides" title="Category:Oxides">Oxides</a></li><li><a href="/wiki/Category:Ruthenium_compounds" title="Category:Ruthenium compounds">Ruthenium compounds</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Chemical_pages_without_ChemSpiderID" title="Category:Chemical pages without ChemSpiderID">Chemical pages without ChemSpiderID</a></li><li><a href="/wiki/Category:Articles_without_EBI_source" title="Category:Articles without EBI source">Articles without EBI source</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_without_UNII_source" title="Category:Articles without UNII source">Articles without UNII source</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Chemical_articles_having_a_data_page" title="Category:Chemical articles having a data page">Chemical articles having a data page</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ruthenium%28IV%29+oxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ruthenium%28IV%29+oxide" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Ruthenium(IV)_oxide" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Ruthenium(IV)_oxide" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Ruthenium(IV)_oxide">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Ruthenium(IV)_oxide" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Ruthenium(IV)_oxide" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ruthenium(IV)_oxide&amp;oldid=808720821" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ruthenium(IV)_oxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q417022" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ruthenium%28IV%29_oxide&amp;id=808720821" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ruthenium%28IV%29+oxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ruthenium%28IV%29+oxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Ruthenium(IV)_oxide&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ruthenium(IV)_oxide" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D8%B1%D9%88%D8%AB%D9%8A%D9%86%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A" hreflang="ar" lang="ar" title="أكسيد الروثينيوم الرباعي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%A7%D9%88%DA%A9%D8%B3%DB%8C%D8%AF_%D8%B1%D9%88%D8%AA%D9%86%DB%8C%D9%88%D9%85_(IV)" hreflang="azb" lang="azb" title="اوکسید روتنیوم (IV) – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Oxid_rutheni%C4%8Dit%C3%BD" hreflang="cs" lang="cs" title="Oxid rutheničitý – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ruthenium(IV)-oxid" hreflang="de" lang="de" title="Ruthenium(IV)-oxid – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Di%C3%B3xido_de_rutenio" hreflang="es" lang="es" title="Dióxido de rutenio – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF_%D8%B1%D9%88%D8%AA%D9%86%DB%8C%D9%88%D9%85_(IV)" hreflang="fa" lang="fa" title="اکسید روتنیوم (IV) – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Dioxyde_de_ruth%C3%A9nium" hreflang="fr" lang="fr" title="Dioxyde de ruthénium – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Diossido_di_rutenio" hreflang="it" lang="it" title="Diossido di rutenio – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Ruthenium(IV)oxide" hreflang="nl" lang="nl" title="Ruthenium(IV)oxide – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Tlenek_rutenu(IV)" hreflang="pl" lang="pl" title="Tlenek rutenu(IV) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%93xido_de_rut%C3%AAnio(IV)" hreflang="pt" lang="pt" title="Óxido de rutênio(IV) – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D1%80%D1%83%D1%82%D0%B5%D0%BD%D0%B8%D1%8F(IV)" hreflang="ru" lang="ru" title="Оксид рутения(IV) – Russian">Русский</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Rutenijum(IV)_oksid" hreflang="sr" lang="sr" title="Rutenijum(IV) oksid – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Rutenijum(IV)_oksid" hreflang="sh" lang="sh" title="Rutenijum(IV) oksid – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Ruteniumdioksidi" hreflang="fi" lang="fi" title="Ruteniumdioksidi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Rutheni(IV)_oxit" hreflang="vi" lang="vi" title="Rutheni(IV) oxit – Vietnamese">Tiếng Việt</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q417022#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 November 2017, at 18:36<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Ruthenium(IV)_oxide&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.671","ppvisitednodes":{"value":4927,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84214,"limit":2097152},"templateargumentsize":{"value":13853,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9068,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  604.955      1 -total"," 75.13%  454.506      1 Template:Chembox"," 40.20%  243.212      1 Template:Chembox_Identifiers"," 26.78%  161.988      7 Template:Chembox_headerbar"," 26.09%  157.805     21 Template:Trim"," 18.78%  113.633      1 Template:Reflist"," 13.96%   84.450     10 Template:Main_other"," 13.70%   82.861      1 Template:Chembox_Properties"," 11.97%   72.427      1 Template:Chembox_parametercheck"," 11.79%   71.341      1 Template:Wells4th"]},"scribunto":{"limitreport-timeusage":{"value":"0.213","limit":"10.000"},"limitreport-memusage":{"value":4535366,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20181026171732","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1249"});});</script>
+</body>
+</html>

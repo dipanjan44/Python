@@ -1,0 +1,940 @@
+https://en.wikipedia.org/wiki/Melting_point
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Melting point - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Melting_point","wgTitle":"Melting point","wgCurRevisionId":866268167,"wgRevisionId":866268167,"wgArticleId":40283,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: Julian–Gregorian uncertainty","Use dmy dates from October 2015","Atmospheric thermodynamics","Concepts in physics","Phase transitions","Threshold temperatures"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Melting_point","wgRelevantArticleId":40283,"wgRequestId":"W9bY7ApAICoAAAKj2TAAAAAT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q15318","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Melting_point" rel="alternate"/>
+<link href="/w/index.php?title=Melting_point&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Melting_point&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Melting_point" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Melting_point rootpage-Melting_point skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Melting point</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the physical processes that take place at the melting point, see <a href="/wiki/Melting" title="Melting">Melting</a>, <a href="/wiki/Freezing" title="Freezing">Freezing</a>, and <a href="/wiki/Crystallization" title="Crystallization">Crystallization</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">"Freezing point" redirects here. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Freezing_point_(disambiguation)" title="Freezing point (disambiguation)">Freezing point (disambiguation)</a>.</div>
+<p>The <b>melting point</b> (or, rarely, <b>liquefaction point</b>) of a substance is the <a href="/wiki/Temperature" title="Temperature">temperature</a> at which it changes <a href="/wiki/State_of_matter" title="State of matter">state</a> from <a href="/wiki/Solid" title="Solid">solid</a> to <a href="/wiki/Liquid" title="Liquid">liquid</a> at atmospheric pressure. At the melting point the solid and liquid phase exist in equilibrium. The melting point of a substance depends on pressure and is usually specified at <a href="/wiki/Standard_conditions_for_temperature_and_pressure" title="Standard conditions for temperature and pressure">standard pressure</a>. When considered as the temperature of the reverse change from liquid to solid, it is referred to as the <b>freezing point</b> or <b>crystallization point</b>. Because of the ability of some substances to <a href="/wiki/Supercooling" title="Supercooling">supercool</a>, the freezing point is not considered as a characteristic property of a substance. When the "characteristic freezing point" of a substance is determined, in fact the actual methodology is almost always "the principle of observing the disappearance rather than the formation of ice", that is, the <a href="#Melting_point_measurements">melting point</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Melting_point_measurements"><span class="tocnumber">2</span> <span class="toctext">Melting point measurements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Techniques_for_refractory_materials"><span class="tocnumber">2.1</span> <span class="toctext">Techniques for refractory materials</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Thermodynamics"><span class="tocnumber">3</span> <span class="toctext">Thermodynamics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Freezing-point_depression"><span class="tocnumber">4</span> <span class="toctext">Freezing-point depression</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Carnelley's_rule"><span class="tocnumber">5</span> <span class="toctext">Carnelley's rule</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Predicting_the_melting_point_of_substances_(Lindemann's_criterion)"><span class="tocnumber">6</span> <span class="toctext">Predicting the melting point of substances (Lindemann's criterion)</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Melting_point_prediction"><span class="tocnumber">7</span> <span class="toctext">Melting point prediction</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Bibliography"><span class="tocnumber">10</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a class="mw-redirect" href="/wiki/List_of_elements_by_melting_point" title="List of elements by melting point">List of elements by melting point</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Carboxylic.Acids.Melting.%26.Boiling.Points.jpg"><img alt="" class="thumbimage" data-file-height="574" data-file-width="921" height="137" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Carboxylic.Acids.Melting.%26.Boiling.Points.jpg/220px-Carboxylic.Acids.Melting.%26.Boiling.Points.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Carboxylic.Acids.Melting.%26.Boiling.Points.jpg/330px-Carboxylic.Acids.Melting.%26.Boiling.Points.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Carboxylic.Acids.Melting.%26.Boiling.Points.jpg/440px-Carboxylic.Acids.Melting.%26.Boiling.Points.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Carboxylic.Acids.Melting.%26.Boiling.Points.jpg" title="Enlarge"></a></div>Melting points  and boiling points (in pink) of the first eight <a class="mw-redirect" href="/wiki/Carboxylic_acids" title="Carboxylic acids">carboxylic acids</a> (°C)</div></div></div>
+<p>For most substances, <a href="/wiki/Melting" title="Melting">melting</a> and <a href="/wiki/Freezing" title="Freezing">freezing</a> points are approximately equal. For example, the melting point <i>and</i> freezing point of <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a> is 234.32 <a href="/wiki/Kelvin" title="Kelvin">kelvins</a> (−38.83 <a href="/wiki/Celsius" title="Celsius">°C</a> or −37.89 <a href="/wiki/Fahrenheit" title="Fahrenheit">°F</a>).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> However, certain substances possess differing solid-liquid transition temperatures. For example, <a href="/wiki/Agar" title="Agar">agar</a> melts at 85 °C (185 °F) and solidifies from 31 °C (88 °F; 304 K); such direction dependence is known as <a href="/wiki/Hysteresis" title="Hysteresis">hysteresis</a>. The melting point of ice at 1 atmosphere of pressure is very close <sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> to 0 °C (32 °F; 273 K); this is also known as the ice point. In the presence of <a href="/wiki/Nucleation" title="Nucleation">nucleating substances</a>, the freezing point of <a href="/wiki/Water" title="Water">water</a> is not always the same as the melting point. In the absence of nucleators water can exist as a <a href="/wiki/Supercooling" title="Supercooling">supercool</a>ed liquid down to −48.3 °C (−55°F, 224.8 K) before freezing. The <a href="/wiki/Chemical_element" title="Chemical element">chemical element</a> with the highest melting point is <a href="/wiki/Tungsten" title="Tungsten">tungsten</a>, at 3,414 °C (6,177 °F; 3,687 K);<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> this property makes tungsten excellent for use as filaments in light bulbs. The often-cited <b><a href="/wiki/Carbon" title="Carbon">carbon</a></b> does not melt at ambient pressure but <a class="mw-redirect" href="/wiki/Sublimation_(physics)" title="Sublimation (physics)">sublimes</a> at about 3,726.85 °C (6,740.33 °F; 4,000.00 K); a liquid phase only exists above pressures of 10 MPa (99 atm) and estimated 4,030–4,430 °C (7,290–8,010 °F; 4,300–4,700 K) (see <a href="/wiki/File:Carbon_basic_phase_diagram.png" title="File:Carbon basic phase diagram.png">carbon phase diagram</a>). <a href="/wiki/Tantalum_hafnium_carbide" title="Tantalum hafnium carbide">Tantalum hafnium carbide</a> (Ta<sub>4</sub>HfC<sub>5</sub>) is a <a href="/wiki/Refractory" title="Refractory">refractory</a> compound with a very high melting point of 4215 K (3942 °C, 7128 °F).<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> At the other end of the scale, <a href="/wiki/Helium" title="Helium">helium</a> does not freeze at all at normal pressure even at temperatures close to <a href="/wiki/Absolute_zero" title="Absolute zero">absolute zero</a>; pressure greater than twenty times of atmosphere of normal one is necessary.
+</p><p><br/>
+</p><p class="mw-empty-elt">
+</p>
+<table class="wikitable sortable collapsible">
+<tbody><tr>
+<th colspan="4">List of common chemicals
+</th></tr>
+<tr>
+<th>Chemical<sup class="reference" id="cite_ref-fn10_6-0"><a href="#cite_note-fn10-6">[I]</a></sup>
+</th>
+<th data-sort-type="number"><a href="/wiki/Density" title="Density">Density</a> <span class="nowrap">(<style data-mw-deduplicate="TemplateStyles:r865336399">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><a href="/wiki/Gram" title="Gram">g</a></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;"><a href="/wiki/Cubic_centimetre" title="Cubic centimetre">cm<sup>3</sup></a></span></span></span>)</span>
+</th>
+<th data-sort-type="number">Melt <span class="nowrap">(<link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Kelvin" title="Kelvin">K</a></span>)</span> <sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[6]</a></sup>
+</th>
+<th data-sort-type="number"><a href="/wiki/Boiling_point" title="Boiling point">Boil</a> <span class="nowrap">(<link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold">K</span>)</span>
+</th></tr>
+<tr>
+<td><a href="/wiki/Water" title="Water">Water</a> @STP</td>
+<td>1</td>
+<td>273</td>
+<td>373
+</td></tr>
+<tr>
+<td><a href="/wiki/Solder" title="Solder">Solder</a> (Pb60Sn40)</td>
+<td></td>
+<td>456</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cocoa_butter" title="Cocoa butter">Cocoa butter</a></td>
+<td></td>
+<td>307.2</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/Paraffin_wax" title="Paraffin wax">Paraffin wax</a></td>
+<td>0.9</td>
+<td>310</td>
+<td>643
+</td></tr>
+<tr>
+<td><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></td>
+<td>0.00008988</td>
+<td><span data-sort-value="0014 !">14.01</span></td>
+<td>20.28
+</td></tr>
+<tr>
+<td><a href="/wiki/Helium" title="Helium">Helium</a></td>
+<td>0.0001785</td>
+<td><span data-sort-value="0.1 !">—</span><sup class="reference" id="cite_ref-fn6_8-0"><a href="#cite_note-fn6-8">[II]</a></sup></td>
+<td>4.22
+</td></tr>
+<tr>
+<td><a href="/wiki/Beryllium" title="Beryllium">Beryllium</a></td>
+<td>1.85</td>
+<td><span data-sort-value="1560 !">1560</span></td>
+<td>2742
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbon" title="Carbon">Carbon</a></td>
+<td>2.267</td>
+<td><span data-sort-value="3800 !">3800</span></td>
+<td>4300
+</td></tr>
+<tr>
+<td><a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a></td>
+<td>0.0012506</td>
+<td><span data-sort-value="0063 !">63.15</span></td>
+<td>77.36
+</td></tr>
+<tr>
+<td><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a></td>
+<td>0.001429</td>
+<td><span data-sort-value="0054 !">54.36</span></td>
+<td>90.20
+</td></tr>
+<tr>
+<td><a href="/wiki/Sodium" title="Sodium">Sodium</a></td>
+<td>0.971</td>
+<td><span data-sort-value="0371 !">370.87</span></td>
+<td>1156
+</td></tr>
+<tr>
+<td><a href="/wiki/Magnesium" title="Magnesium">Magnesium</a></td>
+<td>1.738</td>
+<td><span data-sort-value="0923 !">923</span></td>
+<td>1363
+</td></tr>
+<tr>
+<td><a href="/wiki/Aluminium" title="Aluminium">Aluminium</a></td>
+<td>2.698</td>
+<td><span data-sort-value="0933.5 !">933.47</span></td>
+<td>2792
+</td></tr>
+<tr>
+<td><a href="/wiki/Sulfur" title="Sulfur">Sulfur</a></td>
+<td>2.067</td>
+<td><span data-sort-value="0388.4 !">388.36</span></td>
+<td>717.87
+</td></tr>
+<tr>
+<td><a href="/wiki/Chlorine" title="Chlorine">Chlorine</a></td>
+<td>0.003214</td>
+<td><span data-sort-value="0171.6 !">171.6</span></td>
+<td>239.11
+</td></tr>
+<tr>
+<td><a href="/wiki/Potassium" title="Potassium">Potassium</a></td>
+<td>0.862</td>
+<td><span data-sort-value="0336.5 !">336.53</span></td>
+<td>1032
+</td></tr>
+<tr>
+<td><a href="/wiki/Titanium" title="Titanium">Titanium</a></td>
+<td>4.54</td>
+<td><span data-sort-value="1941 !">1941</span></td>
+<td>3560
+</td></tr>
+<tr>
+<td><a href="/wiki/Iron" title="Iron">Iron</a></td>
+<td>7.874</td>
+<td><span data-sort-value="1811 !">1811</span></td>
+<td>3134
+</td></tr>
+<tr>
+<td><a href="/wiki/Nickel" title="Nickel">Nickel</a></td>
+<td>8.912</td>
+<td><span data-sort-value="1728 !">1728</span></td>
+<td>3186
+</td></tr>
+<tr>
+<td><a href="/wiki/Copper" title="Copper">Copper</a></td>
+<td>8.96</td>
+<td>1357.77</td>
+<td>2835
+</td></tr>
+<tr>
+<td><a href="/wiki/Zinc" title="Zinc">Zinc</a></td>
+<td>7.134</td>
+<td><span data-sort-value="0693 !">692.88</span></td>
+<td>1180
+</td></tr>
+<tr>
+<td><a href="/wiki/Gallium" title="Gallium">Gallium</a></td>
+<td>5.907</td>
+<td><span data-sort-value="0302.9 !">302.9146</span></td>
+<td>2673
+</td></tr>
+<tr>
+<td><a href="/wiki/Silver" title="Silver">Silver</a></td>
+<td>10.501</td>
+<td>1234.93</td>
+<td>2435
+</td></tr>
+<tr>
+<td><a href="/wiki/Cadmium" title="Cadmium">Cadmium</a></td>
+<td>8.69</td>
+<td><span data-sort-value="0594.22 !">594.22</span></td>
+<td>1040
+</td></tr>
+<tr>
+<td><a href="/wiki/Indium" title="Indium">Indium</a></td>
+<td>7.31</td>
+<td><span data-sort-value="0429.75 !">429.75</span></td>
+<td>2345
+</td></tr>
+<tr>
+<td><a href="/wiki/Iodine" title="Iodine">Iodine</a></td>
+<td>4.93</td>
+<td><span data-sort-value="0386.85 !">386.85</span></td>
+<td>457.4
+</td></tr>
+<tr>
+<td><a href="/wiki/Tantalum" title="Tantalum">Tantalum</a></td>
+<td>16.654</td>
+<td>3290</td>
+<td>5731
+</td></tr>
+<tr>
+<td><a href="/wiki/Tungsten" title="Tungsten">Tungsten</a></td>
+<td>19.25</td>
+<td>3695</td>
+<td>5828
+</td></tr>
+<tr>
+<td><a href="/wiki/Platinum" title="Platinum">Platinum</a></td>
+<td>21.46</td>
+<td>2041.4</td>
+<td>4098
+</td></tr>
+<tr>
+<td><a href="/wiki/Gold" title="Gold">Gold</a></td>
+<td>19.282</td>
+<td>1337.33</td>
+<td>3129
+</td></tr>
+<tr>
+<td><a href="/wiki/Mercury_(element)" title="Mercury (element)">Mercury</a></td>
+<td>13.5336</td>
+<td><span data-sort-value="0234.43 !">234.43</span></td>
+<td>629.88
+</td></tr>
+<tr>
+<td><a href="/wiki/Lead" title="Lead">Lead</a></td>
+<td>11.342</td>
+<td><span data-sort-value="0600.61 !">600.61</span></td>
+<td>2022
+</td></tr>
+<tr>
+<td><a href="/wiki/Bismuth" title="Bismuth">Bismuth</a></td>
+<td>9.807</td>
+<td><span data-sort-value="0544.7 !">544.7</span></td>
+<td>1837
+</td></tr>
+<tr class="sortbottom">
+<td colspan="13"><div class="mw-collapsible mw-collapsed">
+<p>Notes
+</p>
+<div class="mw-collapsible-content"><div class="reflist" style="list-style-type: upper-roman;">
+<div class="mw-references-wrap"></div></div></div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Melting_point_measurements">Melting point measurements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=2" title="Edit section: Melting point measurements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Melting_point_apparatus" title="Melting point apparatus">Melting point apparatus</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Koflerbank.jpg"><img alt="" class="thumbimage" data-file-height="1196" data-file-width="1988" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Koflerbank.jpg/220px-Koflerbank.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Koflerbank.jpg/330px-Koflerbank.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Koflerbank.jpg/440px-Koflerbank.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Koflerbank.jpg" title="Enlarge"></a></div>Kofler bench with samples for calibration</div></div></div>
+<p>Many <a class="mw-redirect" href="/wiki/Laboratory_techniques" title="Laboratory techniques">laboratory techniques</a> exist for the determination of melting points.
+A <a href="/wiki/Kofler_bench" title="Kofler bench">Kofler bench</a> is a metal strip with a temperature gradient (range from room temperature to 300 °C). Any substance can be placed on a section of the strip, revealing its thermal behaviour at the temperature at that point. <a href="/wiki/Differential_scanning_calorimetry" title="Differential scanning calorimetry">Differential scanning calorimetry</a> gives information on melting point together with its <a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">enthalpy of fusion</a>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Kr%C3%BCss_M5000.jpg"><img alt="" class="thumbimage" data-file-height="1212" data-file-width="1194" height="223" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kr%C3%BCss_M5000.jpg/220px-Kr%C3%BCss_M5000.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kr%C3%BCss_M5000.jpg/330px-Kr%C3%BCss_M5000.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kr%C3%BCss_M5000.jpg/440px-Kr%C3%BCss_M5000.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Kr%C3%BCss_M5000.jpg" title="Enlarge"></a></div>Automatic digital melting point meter</div></div></div>
+<p>A basic melting point apparatus for the analysis of crystalline solids consists of an <a href="/wiki/Oil_bath" title="Oil bath">oil bath</a> with a transparent window (most basic design: a <a href="/wiki/Thiele_tube" title="Thiele tube">Thiele tube</a>) and a simple magnifier. The several grains of a solid are placed in a thin glass tube and partially immersed in the oil bath. The oil bath is heated (and stirred) and with the aid of the magnifier (and external light source) melting of the individual crystals at a certain temperature can be observed. In large/small devices, the sample is placed in a heating block, and optical detection is automated.
+</p><p>The measurement can also be made continuously with an operating process. For instance, oil refineries measure the freeze point of diesel fuel online, meaning that the sample is taken from the process and measured automatically. This allows for more frequent measurements as the sample does not have to be manually collected and taken to a remote laboratory.
+</p>
+<h3><span class="mw-headline" id="Techniques_for_refractory_materials">Techniques for refractory materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=3" title="Edit section: Techniques for refractory materials">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For refractory materials (e.g. platinum, tungsten, tantalum, some carbides and nitrides, etc.) the extremely high melting point (typically considered to be above, say, 1800°C) may be determined by heating the material in a black body furnace and measuring the black-body temperature with an optical <a href="/wiki/Pyrometer" title="Pyrometer">pyrometer</a>. For the highest melting materials, this may require extrapolation by several hundred degrees. The spectral radiance from an incandescent body is known to be a function of its temperature. An optical pyrometer matches the radiance of a body under study to the radiance of a source that has been previously calibrated as a function of temperature. In this way, the measurement of the absolute magnitude of the intensity of radiation is unnecessary. However, known temperatures must be used to determine the calibration of the pyrometer. For temperatures above the calibration range of the source, an extrapolation technique must be employed. This extrapolation is accomplished by using <a href="/wiki/Planck%27s_law" title="Planck's law">Planck's law</a> of radiation. The constants in this equation are not known with sufficient accuracy, causing errors in the extrapolation to become larger at higher temperatures. However, standard techniques have been developed to perform this extrapolation.
+</p><p>Consider the case of using gold as the source (mp = 1063°C). In this technique, the current through the filament of the pyrometer is adjusted until the light intensity of the filament matches that of a black-body at the melting point of gold. This establishes the primary calibration temperature and can be expressed in terms of current through the pyrometer lamp. With the same current setting, the pyrometer is sighted on another black-body at a higher temperature. An absorbing medium of known transmission is inserted between the pyrometer and this black-body. The temperature of the black-body is then adjusted until a match exists between its intensity and that of the pyrometer filament. The true higher temperature of the black-body is then determined from Planck's Law. The absorbing medium is then removed and the current through the filament is adjusted to match the filament intensity to that of the black-body. This establishes a second calibration point for the pyrometer. This step is repeated to carry the calibration to higher temperatures. Now, temperatures and their corresponding pyrometer filament currents are known and a curve of temperature versus current can be drawn. This curve can then be extrapolated to very high temperatures.
+</p><p>In determining melting points of a refractory substance by this method, it is necessary to either have black body conditions or to know the <a href="/wiki/Emissivity" title="Emissivity">emissivity</a> of the material being measured. The containment of the high melting material in the liquid state may introduce experimental difficulties. Melting temperatures of some refractory metals have thus been measured by observing the radiation from a black body cavity in solid metal specimens that were much longer than they were wide. To form such a cavity, a hole is drilled perpendicular to the long axis at the center of a rod of the material. These rods are then heated by passing a very large current through them, and the radiation emitted from the hole is observed with an optical pyrometer. The point of melting is indicated by the darkening of the hole when the liquid phase appears, destroying the black body conditions. Today, containerless laser heating techniques, combined with fast pyrometers and spectro-pyrometers, are employed to allow for precise control of the time for which the sample is kept at extreme temperatures. Such experiments of sub-second duration address several of the challenges associated with more traditional melting point measurements made at very high temperatures, such as sample vaporization and reaction with the container.
+</p>
+<h2><span class="mw-headline" id="Thermodynamics">Thermodynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=4" title="Edit section: Thermodynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Melting_curve_of_water.svg"><img alt="" class="thumbimage" data-file-height="319" data-file-width="567" height="124" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Melting_curve_of_water.svg/220px-Melting_curve_of_water.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Melting_curve_of_water.svg/330px-Melting_curve_of_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Melting_curve_of_water.svg/440px-Melting_curve_of_water.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Melting_curve_of_water.svg" title="Enlarge"></a></div>Pressure dependence of water melting point.</div></div></div>
+<p>For a solid to melt, heat is required to raise its temperature to the melting point. However, further heat needs to be supplied for the melting to take place: this is called the <a class="mw-redirect" href="/wiki/Heat_of_fusion" title="Heat of fusion">heat of fusion</a>, and is an example of <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a>.
+</p><p>From a thermodynamics point of view, at the melting point the change in <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a> (ΔG) of the material is zero, but the <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> (<i>H</i>) and the <a href="/wiki/Entropy" title="Entropy">entropy</a> (<i>S</i>) of the material are increasing (ΔH, ΔS &gt; 0). Melting phenomenon happens when the Gibbs free energy of the liquid becomes lower than the solid for that material. At various pressures this happens at a specific temperature. It can also be shown that:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta S={\frac {\Delta H}{T}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>H</mi>
+</mrow>
+<mi>T</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S={\frac {\Delta H}{T}}}</annotation>
+</semantics>
+</math></span><img alt="\Delta S={\frac  {\Delta H}{T}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e11d9039baf7953662f0f439128d6ef3708c9a7" style="vertical-align: -1.838ex; width:11.369ex; height:5.343ex;"/></span></dd></dl>
+<p>Here <i>T</i>, <i>ΔS</i> and <i>ΔH</i> are respectively the <a href="/wiki/Temperature" title="Temperature">temperature</a> at the melting point, change of entropy of melting and the change of enthalpy of melting.
+</p><p>The melting point is sensitive to extremely large changes in <a href="/wiki/Pressure" title="Pressure">pressure</a>, but generally this sensitivity is orders of magnitude less than that for the <a href="/wiki/Boiling_point" title="Boiling point">boiling point</a>, because the solid-liquid transition represents only a small change in volume.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[7]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[8]</a></sup> If, as observed in most cases, a substance is more dense in the solid than in the liquid state, the melting point will increase with increases in pressure. Otherwise the reverse behavior occurs. Notably, this is the case of water, as illustrated graphically to the right, but also of Si, Ge, Ga, Bi. With extremely large changes in pressure, substantial changes to the melting point are observed. For example, the melting point of silicon at ambient pressure (0.1 MPa) is 1415 °C, but at pressures in excess of 10 GPa it decreases to 1000 °C.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[9]</a></sup>
+</p><p>Melting points are often used to characterize organic and inorganic compounds and to ascertain their <a class="extiw" href="https://en.wiktionary.org/wiki/Purity" title="wiktionary:Purity">purity</a>. The melting point of a pure substance is always higher and has a smaller range than the melting point of an impure substance or, more generally, of mixtures. The higher the quantity of other components, the lower the melting point and the broader will be the melting point range, often referred to as the "pasty range". The temperature at which melting begins for a mixture is known as the "solidus" while the temperature where melting is complete is called the "liquidus". Eutectics are special types of mixtures that behave like single phases. They melt sharply at a constant temperature to form a liquid of the same composition. Alternatively, on cooling a liquid with the eutectic composition will solidify as uniformly dispersed, small (fine-grained) mixed crystals with the same composition.
+</p><p>In contrast to crystalline solids, <a href="/wiki/Glass" title="Glass">glasses</a> do not possess a melting point;
+on heating they undergo a smooth <a href="/wiki/Glass_transition" title="Glass transition">glass transition</a> into a <a href="/wiki/Viscous_liquid" title="Viscous liquid">viscous liquid</a>.
+Upon further heating, they gradually soften, which can be characterized by certain <a href="/wiki/Softening_point" title="Softening point">softening points</a>.
+</p>
+<h2><span class="mw-headline" id="Freezing-point_depression">Freezing-point depression</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=5" title="Edit section: Freezing-point depression">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Freezing-point_depression" title="Freezing-point depression">Freezing-point depression</a> and <a href="/wiki/Supercooling" title="Supercooling">Supercooling</a></div>
+<p>The freezing point of a <a href="/wiki/Solvent" title="Solvent">solvent</a> is depressed when another compound is added, meaning that a <a href="/wiki/Solution" title="Solution">solution</a> has a lower freezing point than a pure solvent. This phenomenon is used in technical applications to avoid freezing, for instance by adding salt or ethylene glycol to water.
+</p>
+<h2><span id="Carnelley.27s_rule"></span><span class="mw-headline" id="Carnelley's_rule">Carnelley's rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=6" title="Edit section: Carnelley's rule">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Organic_chemistry" title="Organic chemistry">organic chemistry</a>, <b>Carnelley's rule</b>, established in 1882 by <a class="new" href="/w/index.php?title=Thomas_Carnelley&amp;action=edit&amp;redlink=1" title="Thomas Carnelley (page does not exist)">Thomas Carnelley</a>, states that <i>high <a href="/wiki/Molecular_symmetry" title="Molecular symmetry">molecular symmetry</a> is associated with high melting point</i>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[10]</a></sup> Carnelley based his rule on examination of 15,000 chemical compounds. For example, for three <a href="/wiki/Structural_isomer" title="Structural isomer">structural isomers</a> with <a class="mw-redirect" href="/wiki/Molecular_formula" title="Molecular formula">molecular formula</a> C<sub>5</sub>H<sub>12</sub> the melting point increases in the series <a href="/wiki/Isopentane" title="Isopentane">isopentane</a> −160 °C (113 K) <a class="mw-redirect" href="/wiki/N-pentane" title="N-pentane">n-pentane</a> −129.8 °C (143 K) and <a href="/wiki/Neopentane" title="Neopentane">neopentane</a> −16.4 °C (256.8 K).<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[11]</a></sup> Likewise in <a href="/wiki/Xylene" title="Xylene">xylenes</a> and also <a href="/wiki/Dichlorobenzene" title="Dichlorobenzene">dichlorobenzenes</a> the melting point increases in the order <a class="mw-redirect" href="/wiki/Arene_substitution_patterns" title="Arene substitution patterns">meta, ortho and then para</a>. <a href="/wiki/Pyridine" title="Pyridine">Pyridine</a> has a lower symmetry than <a href="/wiki/Benzene" title="Benzene">benzene</a> hence its lower melting point but the melting point again increases with <a href="/wiki/Diazine" title="Diazine">diazine</a> and <a href="/wiki/Triazine" title="Triazine">triazines</a>. Many cage-like compounds like <a href="/wiki/Adamantane" title="Adamantane">adamantane</a> and <a href="/wiki/Cubane" title="Cubane">cubane</a> with high symmetry have relatively high melting points.
+</p><p>A high melting point results from a high <a class="mw-redirect" href="/wiki/Heat_of_fusion" title="Heat of fusion">heat of fusion</a>, a low <a href="/wiki/Entropy_of_fusion" title="Entropy of fusion">entropy of fusion</a>, or a combination of both. In highly symmetrical molecules the crystal phase is densely packed with many efficient intermolecular interactions resulting in a higher enthalpy change on melting.
+</p>
+<h2><span id="Predicting_the_melting_point_of_substances_.28Lindemann.27s_criterion.29"></span><span class="mw-headline" id="Predicting_the_melting_point_of_substances_(Lindemann's_criterion)">Predicting the melting point of substances (Lindemann's criterion)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=7" title="Edit section: Predicting the melting point of substances (Lindemann's criterion)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An attempt to predict the bulk melting point of crystalline materials was first made in 1910 by <a class="mw-redirect" href="/wiki/Frederick_Lindemann" title="Frederick Lindemann">Frederick Lindemann</a>.<sup class="reference" id="cite_ref-Lindemann1910_14-0"><a href="#cite_note-Lindemann1910-14">[12]</a></sup> The idea behind the theory was the observation that the average amplitude of thermal vibrations increases with increasing temperature. Melting initiates when the amplitude of vibration becomes large enough for adjacent atoms to partly occupy the same space. The <b>Lindemann criterion</b> states that melting is expected when the vibration <a class="mw-redirect" href="/wiki/Root_mean_square_amplitude" title="Root mean square amplitude">root mean square amplitude</a> exceeds a threshold value.
+</p><p>Assuming that all atoms in a crystal vibrate with the same frequency <i>ν</i>, the average thermal energy can be estimated using the <a href="/wiki/Equipartition_theorem" title="Equipartition theorem">equipartition theorem</a> as<sup class="reference" id="cite_ref-Sorkin_15-0"><a href="#cite_note-Sorkin-15">[13]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=4\pi ^{2}m\nu ^{2}~u^{2}=k_{\rm {B}}T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mn>4</mn>
+<msup>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>m</mi>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mtext> </mtext>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=4\pi ^{2}m\nu ^{2}~u^{2}=k_{\rm {B}}T}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=4\pi ^{2}m\nu ^{2}~u^{2}=k_{\rm {B}}T}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e12c9ac6f2bf557083217d86fceed2670c5638d5" style="vertical-align: -0.671ex; width:23.083ex; height:3.009ex;"/></span></dd></dl>
+<p>where <i>m</i> is the <a href="/wiki/Atomic_mass" title="Atomic mass">atomic mass</a>, <i>ν</i> is the <a href="/wiki/Frequency" title="Frequency">frequency</a>, <i>u</i> is the average vibration amplitude, <i>k</i><sub>B</sub> is the <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">Boltzmann constant</a>, and <i>T</i> is the <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">absolute temperature</a>. If the threshold value of <i>u<sup>2</sup></i> is <i>c<sup>2</sup>a<sup>2</sup></i> where <i>c</i> is the <a href="/wiki/Lindemann_index" title="Lindemann index">Lindemann constant</a> and <i>a</i> is the <a href="/wiki/Atomic_spacing" title="Atomic spacing">atomic spacing</a>, then the melting point is estimated as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{\rm {m}}={\cfrac {4\pi ^{2}m\nu ^{2}c^{2}a^{2}}{k_{\rm {B}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+<msup>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>m</mi>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\rm {m}}={\cfrac {4\pi ^{2}m\nu ^{2}c^{2}a^{2}}{k_{\rm {B}}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{\rm {m}}={\cfrac {4\pi ^{2}m\nu ^{2}c^{2}a^{2}}{k_{\rm {B}}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56d716d0d8830dca710761c96594a2158875b2fe" style="vertical-align: -3.005ex; width:19.788ex; height:7.176ex;"/></span></dd></dl>
+<p>Several other expressions for the estimated melting temperature can be obtained depending on the estimate of the average thermal energy. Another commonly used expression for the Lindemann criterion is<sup class="reference" id="cite_ref-Hofmann_16-0"><a href="#cite_note-Hofmann-16">[14]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{\rm {m}}={\cfrac {4\pi ^{2}m\nu ^{2}c^{2}a^{2}}{2k_{\rm {B}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+<msup>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>m</mi>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\rm {m}}={\cfrac {4\pi ^{2}m\nu ^{2}c^{2}a^{2}}{2k_{\rm {B}}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{\rm {m}}={\cfrac {4\pi ^{2}m\nu ^{2}c^{2}a^{2}}{2k_{\rm {B}}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/708d6f8ba805ab2b7ea261eb12209bd25f40f763" style="vertical-align: -3.005ex; width:19.788ex; height:7.176ex;"/></span></dd></dl>
+<p>From the expression for the <a href="/wiki/Debye_frequency" title="Debye frequency">Debye frequency</a> for <i>ν</i>, we have
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{\rm {m}}={\cfrac {2\pi mc^{2}a^{2}\theta _{\rm {D}}^{2}k_{\rm {B}}}{h^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mi>m</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msubsup>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">D</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mstyle>
+</mrow>
+<mrow>
+<mpadded depth="3pt" height="8.6pt" width="0">
+<mrow></mrow>
+</mpadded>
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\rm {m}}={\cfrac {2\pi mc^{2}a^{2}\theta _{\rm {D}}^{2}k_{\rm {B}}}{h^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{\rm {m}}={\cfrac {2\pi mc^{2}a^{2}\theta _{\rm {D}}^{2}k_{\rm {B}}}{h^{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/536f4777e49d12b25f48f9262f81e70702388d17" style="vertical-align: -3.005ex; width:20.959ex; height:7.176ex;"/></span></dd></dl>
+<p>where <i>θ</i><sub>D</sub> is the <a class="mw-redirect" href="/wiki/Debye_temperature" title="Debye temperature">Debye temperature</a> and <i>h</i> is the <a href="/wiki/Planck_constant" title="Planck constant">Planck constant</a>. Values of <i>c</i> range from 0.15–0.3 for most materials.<sup class="reference" id="cite_ref-Nelson_17-0"><a href="#cite_note-Nelson-17">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Melting_point_prediction">Melting point prediction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=8" title="Edit section: Melting point prediction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In February 2011, <a href="/wiki/Alfa_Aesar" title="Alfa Aesar">Alfa Aesar</a> released over 10,000 melting points of compounds from their catalog as <a href="/wiki/Open_data" title="Open data">open data</a>. This dataset has been used to create a <a href="/wiki/Random_forest" title="Random forest">random forest</a> model for melting point prediction<sup class="reference" id="cite_ref-Lang_18-0"><a href="#cite_note-Lang-18">[16]</a></sup> which is now freely available.<sup class="reference" id="cite_ref-LangGuha_19-0"><a href="#cite_note-LangGuha-19">[17]</a></sup> Open melting point data are also available from <i><a href="/wiki/Nature_Precedings" title="Nature Precedings">Nature Precedings</a></i>.<sup class="reference" id="cite_ref-Williams_20-0"><a href="#cite_note-Williams-20">[18]</a></sup> High quality data mined from patents and also models<sup class="reference" id="cite_ref-OCHEM_21-0"><a href="#cite_note-OCHEM-21">[19]</a></sup> developed with these data were published by Tetko <i>et al</i>.<sup class="reference" id="cite_ref-Tetko_22-0"><a href="#cite_note-Tetko-22">[20]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Liquidus" title="Liquidus">Liquidus</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_elements_by_melting_point" title="List of elements by melting point">List of elements by melting point</a></li>
+<li><a href="/wiki/Melting_points_of_the_elements_(data_page)" title="Melting points of the elements (data page)">Melting points of the elements (data page)</a></li>
+<li><a href="/wiki/Phase_(matter)" title="Phase (matter)">Phases of matter</a></li>
+<li><a href="/wiki/Triple_point" title="Triple point">Triple point</a></li>
+<li><a href="/wiki/Simon%E2%80%93Glatzel_equation" title="Simon–Glatzel equation">Simon–Glatzel equation</a></li>
+<li><a href="/wiki/Slip_melting_point" title="Slip melting point">Slip melting point</a></li>
+<li><a href="/wiki/Solidus_(chemistry)" title="Solidus (chemistry)">Solidus temperature</a></li>
+<li><a href="/wiki/Melting" title="Melting">Melting</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a></li>
+<li><a href="/wiki/Zone_melting" title="Zone melting">Zone melting</a></li>
+<li><a href="/wiki/Phase_diagram" title="Phase diagram">Phase diagram</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ramsay, J. A. (1949). <a class="external text" href="http://jeb.biologists.org/cgi/reprint/26/1/57.pdf" rel="nofollow">"A new method of freezing-point determination for small quantities"</a> <span class="cs1-format">(PDF)</span>. <i><a class="mw-redirect" href="/wiki/J._Exp._Biol." title="J. Exp. Biol.">J. Exp. Biol.</a></i> <b>26</b> (1): 57–64. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15406812" rel="nofollow">15406812</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Exp.+Biol.&amp;rft.atitle=A+new+method+of+freezing-point+determination+for+small+quantities&amp;rft.volume=26&amp;rft.issue=1&amp;rft.pages=57-64&amp;rft.date=1949&amp;rft_id=info%3Apmid%2F15406812&amp;rft.au=Ramsay%2C+J.+A.&amp;rft_id=http%3A%2F%2Fjeb.biologists.org%2Fcgi%2Freprint%2F26%2F1%2F57.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="#Haynes">Haynes</a>, p. 4.122.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">The melting point of purified water has been measured as 0.002519 ± 0.000002 °C, see <cite class="citation journal">Feistel, R. &amp; Wagner, W. (2006). "A New Equation of State for H<sub>2</sub>O Ice Ih". <i>J. Phys. Chem. Ref. Data</i>. <b>35</b> (2): 1021–1047. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006JPCRD..35.1021F" rel="nofollow">2006JPCRD..35.1021F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2F1.2183324" rel="nofollow">10.1063/1.2183324</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Phys.+Chem.+Ref.+Data&amp;rft.atitle=A+New+Equation+of+State+for+H%3Csub%3E2%3C%2Fsub%3EO+Ice+Ih&amp;rft.volume=35&amp;rft.issue=2&amp;rft.pages=1021-1047&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1063%2F1.2183324&amp;rft_id=info%3Abibcode%2F2006JPCRD..35.1021F&amp;rft.au=Feistel%2C+R.&amp;rft.au=Wagner%2C+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="#Haynes">Haynes</a>, p. 4.123.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Agte, C. &amp; Alterthum, H. (1930). "Researches on Systems with Carbides at High Melting Point and Contributions to the Problem of Carbon Fusion". <i>Z. Tech. Phys</i>. <b>11</b>: 182–191.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Z.+Tech.+Phys.&amp;rft.atitle=Researches+on+Systems+with+Carbides+at+High+Melting+Point+and+Contributions+to+the+Problem+of+Carbon+Fusion&amp;rft.volume=11&amp;rft.pages=182-191&amp;rft.date=1930&amp;rft.au=Agte%2C+C.&amp;rft.au=Alterthum%2C+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Holman, S. W.; Lawrence, R. R.; Barr, L. (1 January 1895). "Melting Points of Aluminum, Silver, Gold, Copper, and Platinum". <i>Proceedings of the American Academy of Arts and Sciences</i>. <b>31</b>: 218–233. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2307%2F20020628" rel="nofollow">10.2307/20020628</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/20020628" rel="nofollow">20020628</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+American+Academy+of+Arts+and+Sciences&amp;rft.atitle=Melting+Points+of+Aluminum%2C+Silver%2C+Gold%2C+Copper%2C+and+Platinum&amp;rft.volume=31&amp;rft.pages=218-233&amp;rft.date=1895-01-01&amp;rft_id=info%3Adoi%2F10.2307%2F20020628&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F20020628&amp;rft.aulast=Holman&amp;rft.aufirst=S.+W.&amp;rft.au=Lawrence%2C+R.+R.&amp;rft.au=Barr%2C+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">The exact relationship is expressed in the <a href="/wiki/Clausius%E2%80%93Clapeyron_relation" title="Clausius–Clapeyron relation">Clausius–Clapeyron relation</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://mpec.sc.mahidol.ac.th/RADOK/physmath/PHYSICS/j10.htm" rel="nofollow">"J10 Heat: Change of aggregate state of substances through change of heat content: Change of aggregate state of substances and the equation of Clapeyron-Clausius"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=J10+Heat%3A+Change+of+aggregate+state+of+substances+through+change+of+heat+content%3A+Change+of+aggregate+state+of+substances+and+the+equation+of+Clapeyron-Clausius&amp;rft_id=http%3A%2F%2Fmpec.sc.mahidol.ac.th%2FRADOK%2Fphysmath%2FPHYSICS%2Fj10.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Tonkov, E. Yu. and Ponyatovsky, E. G. (2005) <i>Phase Transformations of Elements Under High Pressure</i>, CRC Press, Boca Raton, p. 98 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8493-3367-9" title="Special:BookSources/0-8493-3367-9">0-8493-3367-9</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brown, R. J. C. &amp; R. F. C. (2000). "Melting Point and Molecular Symmetry". <i><a href="/wiki/Journal_of_Chemical_Education" title="Journal of Chemical Education">Journal of Chemical Education</a></i>. <b>77</b> (6): 724. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2000JChEd..77..724B" rel="nofollow">2000JChEd..77..724B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed077p724" rel="nofollow">10.1021/ed077p724</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Melting+Point+and+Molecular+Symmetry&amp;rft.volume=77&amp;rft.issue=6&amp;rft.pages=724&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1021%2Fed077p724&amp;rft_id=info%3Abibcode%2F2000JChEd..77..724B&amp;rft.au=Brown%2C+R.+J.+C.&amp;rft.au=R.+F.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="#Haynes">Haynes</a>, pp. 6.153–155.</span>
+</li>
+<li id="cite_note-Lindemann1910-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lindemann1910_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="mw-redirect" href="/wiki/Frederick_Lindemann" title="Frederick Lindemann">Lindemann FA</a> (1910). "The calculation of molecular vibration frequencies". <i>Physik. Z</i>. <b>11</b>: 609–612.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physik.+Z.&amp;rft.atitle=The+calculation+of+molecular+vibration+frequencies&amp;rft.volume=11&amp;rft.pages=609-612&amp;rft.date=1910&amp;rft.au=Lindemann+FA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Sorkin-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sorkin_15-0">^</a></b></span> <span class="reference-text">Sorkin, S., (2003), <a class="external text" href="http://phycomp.technion.ac.il/~phsorkin/thesis/thesis.html" rel="nofollow">Point defects, lattice structure, and melting</a>, Thesis, Technion, Israel.</span>
+</li>
+<li id="cite_note-Hofmann-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hofmann_16-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Philip Hofmann (2008). <a class="external text" href="https://books.google.com/books?id=XfIpxi4kcM4C&amp;pg=PA67" rel="nofollow"><i>Solid state physics: an introduction</i></a>. Wiley-VCH. p. 67. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-527-40861-0" title="Special:BookSources/978-3-527-40861-0">978-3-527-40861-0</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Solid+state+physics%3A+an+introduction&amp;rft.pages=67&amp;rft.pub=Wiley-VCH&amp;rft.date=2008&amp;rft.isbn=978-3-527-40861-0&amp;rft.au=Philip+Hofmann&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXfIpxi4kcM4C%26pg%3DPA67&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Nelson-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nelson_17-0">^</a></b></span> <span class="reference-text">Nelson, D. R., (2002), <a class="external text" href="https://books.google.com/books?id=YtYFAqswRzUC&amp;printsec=frontcover" rel="nofollow">Defects and geometry in condensed matter physics</a>, Cambridge University Press, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-00400-4" title="Special:BookSources/0-521-00400-4">0-521-00400-4</a></span>
+</li>
+<li id="cite_note-Lang-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lang_18-0">^</a></b></span> <span class="reference-text">Bradley, J-C. and Lang A.S.I.D. (2011) <a class="external text" href="http://onschallenge.wikispaces.com/MeltingPointModel010" rel="nofollow">Random Forest model for melting point prediction</a>. onschallenge.wikispaces.com</span>
+</li>
+<li id="cite_note-LangGuha-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-LangGuha_19-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.qsardb.org/repository/predictor/10967/104?model=rf" rel="nofollow">Predict melting point from SMILES</a>. Qsardb.org. Retrieved on 13 September 2013.</span>
+</li>
+<li id="cite_note-Williams-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Williams_20-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://precedings.nature.com/documents/6229/version/1" rel="nofollow">ONS Open Melting Point Collection</a>. Precedings.nature.com. Retrieved on 13 September 2013.</span>
+</li>
+<li id="cite_note-OCHEM-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-OCHEM_21-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://ochem.eu/article/99826" rel="nofollow">OCHEM melting point models</a>. ochem.eu. Retrieved on 18 June 2016.</span>
+</li>
+<li id="cite_note-Tetko-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tetko_22-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tetko, Igor V; m. Lowe, Daniel; Williams, Antony J (2016). "The development of models to predict melting and pyrolysis point data associated with several hundred thousand compounds mined from PATENTS". <i>Journal of Cheminformatics</i>. <b>8</b>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1186%2Fs13321-016-0113-y" rel="nofollow">10.1186/s13321-016-0113-y</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Cheminformatics&amp;rft.atitle=The+development+of+models+to+predict+melting+and+pyrolysis+point+data+associated+with+several+hundred+thousand+compounds+mined+from+PATENTS&amp;rft.volume=8&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1186%2Fs13321-016-0113-y&amp;rft.aulast=Tetko&amp;rft.aufirst=Igor+V&amp;rft.au=m.+Lowe%2C+Daniel&amp;rft.au=Williams%2C+Antony+J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=11" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book" id="Haynes">Haynes, William M., ed. (2011). <i>CRC Handbook of Chemistry and Physics</i> (92nd ed.). CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1439855110" title="Special:BookSources/1439855110">1439855110</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=CRC+Handbook+of+Chemistry+and+Physics&amp;rft.edition=92nd&amp;rft.pub=CRC+Press&amp;rft.date=2011&amp;rft.isbn=1439855110&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelting+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melting_point&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://archive.org/details/meltingboilingpo01carnuoft" rel="nofollow">Melting and boiling point tables vol. 1</a> by Thomas Carnelley (Harrison, London, 1885–1887)</li>
+<li><a class="external text" href="https://archive.org/details/meltingboilingpo02carnuoft" rel="nofollow">Melting and boiling point tables vol. 2</a> by Thomas Carnelley (Harrison, London, 1885–1887)</li>
+<li><a class="external text" href="http://ochem.eu/article/99826" rel="nofollow">Patent mined data</a> Over 250,000 freely downloadable  melting point data. Also downloadable at <a class="external text" href="https://figshare.com/articles/Melt-ing_Point_and_Pyrolysis_Point_Data_for_Tens_of_Thousands_of_Chemicals/2007426" rel="nofollow">figshare</a></li></ul>
+<div aria-labelledby="States_of_matter_(list)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:States_of_matter" title="Template:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:States_of_matter" title="Template talk:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:States_of_matter&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="States_of_matter_(list)" style="font-size:114%;margin:0 4em"><a href="/wiki/State_of_matter" title="State of matter">States of matter</a> (<a href="/wiki/List_of_states_of_matter" title="List of states of matter">list</a>)</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">State</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a class="mw-redirect" href="/wiki/Baryonic_matter" title="Baryonic matter">Baryonic matter</a>
+<ul><li><a href="/wiki/Solid" title="Solid">Solid</a></li>
+<li><a href="/wiki/Liquid" title="Liquid">Liquid</a></li>
+<li><a href="/wiki/Gas" title="Gas">Gas</a> / <a href="/wiki/Vapor" title="Vapor">Vapor</a></li>
+<li><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a></li></ul></div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Phase_change_-_en.svg"><img alt="Phase change - en.svg" data-file-height="524" data-file-width="493" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/250px-Phase_change_-_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/375px-Phase_change_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/500px-Phase_change_-_en.svg.png 2x" width="250"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Low energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">Bose–Einstein condensate</a></li>
+<li><a href="/wiki/Fermionic_condensate" title="Fermionic condensate">Fermionic condensate</a></li>
+<li><a href="/wiki/Degenerate_matter" title="Degenerate matter">Degenerate matter</a></li>
+<li><a href="/wiki/Quantum_Hall_effect" title="Quantum Hall effect">Quantum Hall</a></li>
+<li><a href="/wiki/Rydberg_matter" title="Rydberg matter">Rydberg matter</a></li>
+<li><a href="/wiki/Rydberg_polaron" title="Rydberg polaron">Rydberg polaron</a></li>
+<li><a href="/wiki/Strange_matter" title="Strange matter">Strange matter</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">Superfluid</a></li>
+<li><a href="/wiki/Supersolid" title="Supersolid">Supersolid</a></li>
+<li><a class="mw-redirect" href="/wiki/Photonic_matter" title="Photonic matter">Photonic matter</a></li>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">High energy</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/QCD_matter" title="QCD matter">QCD matter</a></li>
+<li><a href="/wiki/Lattice_QCD" title="Lattice QCD">Lattice QCD</a></li>
+<li><a href="/wiki/Quark%E2%80%93gluon_plasma" title="Quark–gluon plasma">Quark–gluon plasma</a></li>
+<li><a href="/wiki/Color-glass_condensate" title="Color-glass condensate">Color-glass condensate</a></li>
+<li><a href="/wiki/Supercritical_fluid" title="Supercritical fluid">Supercritical fluid</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other states</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Glass" title="Glass">Glass</a></li>
+<li><a href="/wiki/Crystal" title="Crystal">Crystal</a></li>
+<li><a href="/wiki/Liquid_crystal" title="Liquid crystal">Liquid crystal</a></li>
+<li><a href="/wiki/Time_crystal" title="Time crystal">Time crystal</a></li>
+<li><a href="/wiki/Quantum_spin_liquid" title="Quantum spin liquid">Quantum spin liquid</a></li>
+<li><a href="/wiki/Exotic_matter" title="Exotic matter">Exotic matter</a></li>
+<li><a href="/wiki/Programmable_matter" title="Programmable matter">Programmable matter</a></li>
+<li><a href="/wiki/Dark_matter" title="Dark matter">Dark matter</a></li>
+<li><a href="/wiki/Antimatter" title="Antimatter">Antimatter</a></li>
+<li>Magnetically ordered
+<ul><li><a href="/wiki/Antiferromagnetism" title="Antiferromagnetism">Antiferromagnet</a></li>
+<li><a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">Ferrimagnet</a></li>
+<li><a href="/wiki/Ferromagnetism" title="Ferromagnetism">Ferromagnet</a></li></ul></li>
+<li><a href="/wiki/String-net_liquid" title="String-net liquid">String-net liquid</a></li>
+<li><a href="/wiki/Superglass" title="Superglass">Superglass</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phase_transition" title="Phase transition">Transitions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boiling" title="Boiling">Boiling</a></li>
+<li><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a></li>
+<li><a href="/wiki/Condensation" title="Condensation">Condensation</a></li>
+<li><a href="/wiki/Critical_line_(thermodynamics)" title="Critical line (thermodynamics)">Critical line</a></li>
+<li><a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">Critical point</a></li>
+<li><a href="/wiki/Crystallization" title="Crystallization">Crystallization</a></li>
+<li><a href="/wiki/Deposition_(phase_transition)" title="Deposition (phase transition)">Deposition</a></li>
+<li><a href="/wiki/Evaporation" title="Evaporation">Evaporation</a></li>
+<li><a href="/wiki/Flash_evaporation" title="Flash evaporation">Flash evaporation</a></li>
+<li><a href="/wiki/Freezing" title="Freezing">Freezing</a></li>
+<li><a href="/wiki/Chemical_ionization" title="Chemical ionization">Chemical ionization</a></li>
+<li><a href="/wiki/Ionization" title="Ionization">Ionization</a></li>
+<li><a href="/wiki/Lambda_point" title="Lambda point">Lambda point</a></li>
+<li><a href="/wiki/Melting" title="Melting">Melting</a></li>
+<li><a class="mw-selflink selflink">Melting point</a></li>
+<li><a href="/wiki/Plasma_recombination" title="Plasma recombination">Recombination</a></li>
+<li><a href="/wiki/Regelation" title="Regelation">Regelation</a></li>
+<li><a href="/wiki/Vapor%E2%80%93liquid_equilibrium" title="Vapor–liquid equilibrium">Saturated fluid</a></li>
+<li><a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">Sublimation</a></li>
+<li><a href="/wiki/Supercooling" title="Supercooling">Supercooling</a></li>
+<li><a href="/wiki/Triple_point" title="Triple point">Triple point</a></li>
+<li><a href="/wiki/Vaporization" title="Vaporization">Vaporization</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Quantities</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Enthalpy of fusion</a></li>
+<li><a href="/wiki/Enthalpy_of_sublimation" title="Enthalpy of sublimation">Enthalpy of sublimation</a></li>
+<li><a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">Enthalpy of vaporization</a></li>
+<li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li>
+<li><a href="/wiki/Latent_internal_energy" title="Latent internal energy">Latent internal energy</a></li>
+<li><a href="/wiki/Trouton%27s_ratio" title="Trouton's ratio">Trouton's ratio</a></li>
+<li><a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">Volatility</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Binodal" title="Binodal">Binodal</a></li>
+<li><a href="/wiki/Compressed_fluid" title="Compressed fluid">Compressed fluid</a></li>
+<li><a href="/wiki/Cooling_curve" title="Cooling curve">Cooling curve</a></li>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Leidenfrost_effect" title="Leidenfrost effect">Leidenfrost effect</a></li>
+<li><a href="/wiki/Macroscopic_quantum_phenomena" title="Macroscopic quantum phenomena">Macroscopic quantum phenomena</a></li>
+<li><a href="/wiki/Mpemba_effect" title="Mpemba effect">Mpemba effect</a></li>
+<li><a class="mw-redirect" href="/wiki/Order_and_disorder_(physics)" title="Order and disorder (physics)">Order and disorder (physics)</a></li>
+<li><a href="/wiki/Spinodal" title="Spinodal">Spinodal</a></li>
+<li><a href="/wiki/Superconductivity" title="Superconductivity">Superconductivity</a></li>
+<li><a href="/wiki/Superheated_water" title="Superheated water">Superheated vapor</a></li>
+<li><a href="/wiki/Superheating" title="Superheating">Superheating</a></li>
+<li><a href="/wiki/Thermo-dielectric_effect" title="Thermo-dielectric effect">Thermo-dielectric effect</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20181029095309
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.420 seconds
+Real time usage: 0.777 seconds
+Preprocessor visited node count: 2071/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40851/2097152 bytes
+Template argument size: 2986/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 35104/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 5.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  383.555      1 -total
+ 53.88%  206.670      2 Template:Reflist
+ 32.11%  123.159      7 Template:Cite_journal
+ 10.61%   40.683     12 Template:Convert
+  9.63%   36.926      2 Template:ISBN
+  6.63%   25.417      1 Template:For
+  5.41%   20.735     23 Template:Sort
+  4.53%   17.379      1 Template:Notelist
+  4.06%   15.575      2 Template:Catalog_lookup_link
+  3.75%   14.380      1 Template:State_of_matter
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40283-0!canonical!math=5 and timestamp 20181029095308 and revision id 866268167
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Melting_point&amp;oldid=866268167">https://en.wikipedia.org/w/index.php?title=Melting_point&amp;oldid=866268167</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">Atmospheric thermodynamics</a></li><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:Phase_transitions" title="Category:Phase transitions">Phase transitions</a></li><li><a href="/wiki/Category:Threshold_temperatures" title="Category:Threshold temperatures">Threshold temperatures</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2015" title="Category:Use dmy dates from October 2015">Use dmy dates from October 2015</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Melting+point" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Melting+point" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Melting_point" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Melting_point" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Melting_point">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Melting_point&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Melting_point&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Melting_point" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Melting_point" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Melting_point&amp;oldid=866268167" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Melting_point&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15318" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Melting_point&amp;id=866268167" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Melting+point">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Melting+point&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Melting_point&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Smeltpunt" hreflang="af" lang="af" title="Smeltpunt – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%B7%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%B5%D9%87%D8%A7%D8%B1" hreflang="ar" lang="ar" title="نقطة الانصهار – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Punto_de_fusi%C3%B3n" hreflang="an" lang="an" title="Punto de fusión – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Puntu_de_fusi%C3%B3n" hreflang="ast" lang="ast" title="Puntu de fusión – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C6%8Frim%C9%99_n%C3%B6qt%C9%99si" hreflang="az" lang="az" title="Ərimə nöqtəsi – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95" hreflang="bn" lang="bn" title="গলনাঙ্ক – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/I%C3%BB%E2%81%BF-ti%C3%A1m" hreflang="nan" lang="nan" title="Iûⁿ-tiám – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D0%BB%D0%B0%D1%9E%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="be" lang="be" title="Тэмпература плаўлення – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BC%D0%BF%D1%8D%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D0%BB%D0%B0%D1%9E%D0%BB%D0%B5%D0%BD%D1%8C%D0%BD%D1%8F" hreflang="be-tarask" lang="be-tarask" title="Тэмпэратура плаўленьня – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BD%D0%B0_%D1%82%D0%BE%D0%BF%D0%B5%D0%BD%D0%B5" hreflang="bg" lang="bg" title="Температура на топене – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Tali%C5%A1te" hreflang="bs" lang="bs" title="Talište – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Punt_de_fusi%C3%B3" hreflang="ca" lang="ca" title="Punt de fusió – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Teplota_t%C3%A1n%C3%AD" hreflang="cs" lang="cs" title="Teplota tání – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Ymdoddbwynt" hreflang="cy" lang="cy" title="Ymdoddbwynt – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Smeltepunkt" hreflang="da" lang="da" title="Smeltepunkt – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schmelzpunkt" hreflang="de" lang="de" title="Schmelzpunkt – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Sulamistemperatuur" hreflang="et" lang="et" title="Sulamistemperatuur – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CE%B7%CE%BC%CE%B5%CE%AF%CE%BF_%CF%84%CE%AE%CE%BE%CE%B7%CF%82" hreflang="el" lang="el" title="Σημείο τήξης – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Punto_de_fusi%C3%B3n" hreflang="es" lang="es" title="Punto de fusión – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Fandopunkto" hreflang="eo" lang="eo" title="Fandopunkto – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Urtze-puntu" hreflang="eu" lang="eu" title="Urtze-puntu – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%D9%85%D8%A7%DB%8C_%D8%B0%D9%88%D8%A8" hreflang="fa" lang="fa" title="دمای ذوب – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Point_de_fusion" hreflang="fr" lang="fr" title="Point de fusion – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Raanpunt" hreflang="fy" lang="fy" title="Raanpunt – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Le%C3%A1phointe" hreflang="ga" lang="ga" title="Leáphointe – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Poynt_lheie" hreflang="gv" lang="gv" title="Poynt lheie – Manx">Gaelg</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Punto_de_fusi%C3%B3n" hreflang="gl" lang="gl" title="Punto de fusión – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%85%B9%EB%8A%94%EC%A0%90" hreflang="ko" lang="ko" title="녹는점 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%82%E0%A4%95" hreflang="hi" lang="hi" title="गलनांक – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Tali%C5%A1te" hreflang="hr" lang="hr" title="Talište – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Titik_lebur" hreflang="id" lang="id" title="Titik lebur – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Puncto_de_fusion" hreflang="ia" lang="ia" title="Puncto de fusion – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Br%C3%A6%C3%B0slumark" hreflang="is" lang="is" title="Bræðslumark – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Punto_di_fusione" hreflang="it" lang="it" title="Punto di fusione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%95%D7%93%D7%AA_%D7%94%D7%AA%D7%9B%D7%94" hreflang="he" lang="he" title="נקודת התכה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Titik_lebur" hreflang="jv" lang="jv" title="Titik lebur – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B2%B0%E0%B2%97%E0%B3%81%E0%B2%B5_%E0%B2%A4%E0%B2%BE%E0%B2%AA%E0%B2%AE%E0%B2%BE%E0%B2%A8" hreflang="kn" lang="kn" title="ಕರಗುವ ತಾಪಮಾನ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%9C%E1%83%9D%E1%83%91%E1%83%98%E1%83%A1_%E1%83%A2%E1%83%94%E1%83%9B%E1%83%9E%E1%83%94%E1%83%A0%E1%83%90%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%90" hreflang="ka" lang="ka" title="დნობის ტემპერატურა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D2%9B%D1%83_%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%81%D1%8B" hreflang="kk" lang="kk" title="Балқу температурасы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Pwen_konjelasyon" hreflang="ht" lang="ht" title="Pwen konjelasyon – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Xala_hel%C3%AEn%C3%AA" hreflang="ku" lang="ku" title="Xala helînê – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Punctum_liquefactionis" hreflang="la" lang="la" title="Punctum liquefactionis – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Ku%C5%A1anas_temperat%C5%ABra" hreflang="lv" lang="lv" title="Kušanas temperatūra – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Lydymosi_temperat%C5%ABra" hreflang="lt" lang="lt" title="Lydymosi temperatūra – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-jbo"><a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/selrunme" hreflang="jbo" lang="jbo" title="selrunme – Lojban">La .lojban.</a></li><li class="interlanguage-link interwiki-lmo"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Punt_de_f%C3%BCsiun" hreflang="lmo" lang="lmo" title="Punt de füsiun – Lombard">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Olvad%C3%A1spont" hreflang="hu" lang="hu" title="Olvadáspont – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%82%D0%BE%D0%BF%D0%B5%D1%9A%D0%B5" hreflang="mk" lang="mk" title="Точка на топење – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%B5%E0%B4%A3%E0%B4%BE%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B4%82" hreflang="ml" lang="ml" title="ദ്രവണാങ്കം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A4%B2%E0%A4%A8_%E0%A4%AC%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%82" hreflang="mr" lang="mr" title="उत्कलन बिंदू – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Takat_lebur" hreflang="ms" lang="ms" title="Takat lebur – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B9%D0%BB%D0%B0%D1%85_%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80" hreflang="mn" lang="mn" title="Хайлах температур – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%9B%E1%80%8A%E1%80%BA%E1%80%95%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%99%E1%80%BE%E1%80%90%E1%80%BA" hreflang="my" lang="my" title="အရည်ပျော်မှတ် – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Smeltpunt" hreflang="nl" lang="nl" title="Smeltpunt – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-new"><a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%97%E0%A5%81_%E0%A4%AB%E0%A5%81%E0%A4%A4%E0%A4%BF" hreflang="new" lang="new" title="नाइगु फुति – Newari">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%9E%8D%E7%82%B9" hreflang="ja" lang="ja" title="融点 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Smeltepunkt" hreflang="no" lang="no" title="Smeltepunkt – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Smeltepunkt" hreflang="nn" lang="nn" title="Smeltepunkt – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Erish_harorati" hreflang="uz" lang="uz" title="Erish harorati – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%BF%E0%A8%98%E0%A8%B2%E0%A8%A3_%E0%A8%A6%E0%A8%B0%E0%A8%9C%E0%A8%BE" hreflang="pa" lang="pa" title="ਪਿਘਲਣ ਦਰਜਾ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D9%BE%DA%AF%D9%84%D9%86_%D9%86%D9%85%D8%A8%D8%B1" hreflang="pnb" lang="pnb" title="پگلن نمبر – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-km"><a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%85%E1%9F%86%E1%9E%8E%E1%9E%BB%E1%9E%85%E1%9E%9A%E1%9E%9B%E1%9E%B6%E1%9E%99" hreflang="km" lang="km" title="ចំណុចរលាយ – Khmer">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Sm%C3%B6ltpunkt" hreflang="nds" lang="nds" title="Smöltpunkt – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Temperatura_topnienia" hreflang="pl" lang="pl" title="Temperatura topnienia – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Ponto_de_fus%C3%A3o" hreflang="pt" lang="pt" title="Ponto de fusão – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Punct_de_topire" hreflang="ro" lang="ro" title="Punct de topire – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Puriqchana_i%C3%B1u" hreflang="qu" lang="qu" title="Puriqchana iñu – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Температура плавления – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Meltin_pynt" hreflang="sco" lang="sco" title="Meltin pynt – Scots">Scots</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%AF%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%80%E0%B7%8F%E0%B6%82%E0%B6%9A%E0%B6%BA" hreflang="si" lang="si" title="ද්‍රවාංකය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Melting_point" hreflang="en-simple" lang="en-simple" title="Melting point – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Teplota_topenia" hreflang="sk" lang="sk" title="Teplota topenia – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Tali%C5%A1%C4%8De" hreflang="sl" lang="sl" title="Tališče – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B0%D1%87%D0%BA%D0%B0_%D1%82%D0%BE%D0%BF%D1%99%D0%B5%D1%9A%D0%B0" hreflang="sr" lang="sr" title="Тачка топљења – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Tali%C5%A1te" hreflang="sh" lang="sh" title="Talište – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Sulamispiste" hreflang="fi" lang="fi" title="Sulamispiste – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sm%C3%A4ltpunkt" hreflang="sv" lang="sv" title="Smältpunkt – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Punto_ng_pagkatunaw" hreflang="tl" lang="tl" title="Punto ng pagkatunaw – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%81%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88" hreflang="ta" lang="ta" title="உருகுநிலை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%A6%E0%B1%8D%E0%B0%B0%E0%B0%B5%E0%B1%80%E0%B0%AD%E0%B0%B5%E0%B0%A8_%E0%B0%B8%E0%B1%8D%E0%B0%A5%E0%B0%BE%E0%B0%A8%E0%B0%82" hreflang="te" lang="te" title="ద్రవీభవన స్థానం – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%A7" hreflang="th" lang="th" title="จุดหลอมเหลว – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Erime_noktas%C4%B1" hreflang="tr" lang="tr" title="Erime noktası – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Температура плавлення – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%86%D9%82%D8%B7%DB%82_%D8%A7%D9%86%D8%AC%D9%85%D8%A7%D8%AF" hreflang="ur" lang="ur" title="نقطۂ انجماد – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Nhi%E1%BB%87t_%C4%91%E1%BB%99_n%C3%B3ng_ch%E1%BA%A3y" hreflang="vi" lang="vi" title="Nhiệt độ nóng chảy – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Punto_hin_pagkatunaw" hreflang="war" lang="war" title="Punto hin pagkatunaw – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%86%94%E9%BB%9E" hreflang="yue" lang="yue" title="熔點 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%86%94%E7%82%B9" hreflang="zh" lang="zh" title="熔点 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15318#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 October 2018, at 09:53<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Melting_point&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.777","ppvisitednodes":{"value":2071,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40851,"limit":2097152},"templateargumentsize":{"value":2986,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35104,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  383.555      1 -total"," 53.88%  206.670      2 Template:Reflist"," 32.11%  123.159      7 Template:Cite_journal"," 10.61%   40.683     12 Template:Convert","  9.63%   36.926      2 Template:ISBN","  6.63%   25.417      1 Template:For","  5.41%   20.735     23 Template:Sort","  4.53%   17.379      1 Template:Notelist","  4.06%   15.575      2 Template:Catalog_lookup_link","  3.75%   14.380      1 Template:State_of_matter"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":5705098,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20181029095309","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1321"});});</script>
+</body>
+</html>

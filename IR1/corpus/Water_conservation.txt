@@ -1,0 +1,633 @@
+https://en.wikipedia.org/wiki/Water_conservation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Water conservation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Water_conservation","wgTitle":"Water conservation","wgCurRevisionId":866571734,"wgRevisionId":866571734,"wgArticleId":460253,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2018","Water conservation","Environmental issues with water","Sustainable design","Waste minimisation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Water_conservation","wgRelevantArticleId":460253,"wgRequestId":"W9tiqApAMEwAAIs6JPkAAACY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1462136","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/23/Water-conservation-stamp-1960.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Water_conservation" rel="alternate"/>
+<link href="/w/index.php?title=Water_conservation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Water_conservation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Water_conservation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Water_conservation rootpage-Water_conservation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Water conservation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:211px;"><a class="image" href="/wiki/File:Water-conservation-stamp-1960.jpg"><img alt="" class="thumbimage" data-file-height="135" data-file-width="209" height="135" src="//upload.wikimedia.org/wikipedia/commons/2/23/Water-conservation-stamp-1960.jpg" width="209"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Water-conservation-stamp-1960.jpg" title="Enlarge"></a></div>United States 1960 postal stamp advocating water conservation.</div></div></div>
+<p>Water needs to be conserved because it is the most basic need and life without water is practically not possible.
+</p><p><b>Water conservation</b> includes all the policies, strategies and activities to <a class="mw-redirect" href="/wiki/Sustainably" title="Sustainably">sustainably</a> manage the <a href="/wiki/Natural_resource" title="Natural resource">natural resource</a> of <a href="/wiki/Fresh_water" title="Fresh water">fresh water</a>, to protect the <a href="/wiki/Hydrosphere" title="Hydrosphere">hydrosphere</a>, and to meet the current and future human  <a href="/wiki/Demand" title="Demand">demand</a>. Population, household size, and growth and affluence all affect how much water is used. Factors such as <a href="/wiki/Climate_change" title="Climate change">climate change</a> have increased pressures on natural water resources especially in <a href="/wiki/Manufacturing" title="Manufacturing">manufacturing</a> and agricultural <a href="/wiki/Irrigation" title="Irrigation">irrigation</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Many US cities have already implemented policies aimed at water conservation, with much success.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>The goals of water conservation efforts include:
+</p>
+<ul><li>Ensuring <a href="/wiki/Water_resources" title="Water resources">availability of water</a> for future generations where the withdrawal of <a class="mw-redirect" href="/wiki/Freshwater" title="Freshwater">freshwater</a> from an <a href="/wiki/Ecosystem" title="Ecosystem">ecosystem</a> does not exceed its natural replacement rate.</li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a> as water pumping, delivery and <a href="/wiki/Wastewater_treatment" title="Wastewater treatment">wastewater treatment</a> facilities consume a significant amount of energy. In some regions of the world over 15% of total <a class="mw-redirect" href="/wiki/Electricity_consumption" title="Electricity consumption">electricity consumption</a> is devoted to <a class="mw-redirect" href="/wiki/Water_management" title="Water management">water management</a>.</li>
+<li><a href="/wiki/Habitat_conservation" title="Habitat conservation">Habitat conservation</a> where minimizing human water use helps to preserve <a class="mw-redirect" href="/wiki/Freshwater_habitat" title="Freshwater habitat">freshwater habitats</a> for local wildlife and migrating <a class="mw-redirect" href="/wiki/Waterfowl" title="Waterfowl">waterfowl</a>, but also <a href="/wiki/Water_quality" title="Water quality">water quality</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></li></ul>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Strategies"><span class="tocnumber">1</span> <span class="toctext">Strategies</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Social_solutions"><span class="tocnumber">2</span> <span class="toctext">Social solutions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Household_applications"><span class="tocnumber">3</span> <span class="toctext">Household applications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Commercial_applications"><span class="tocnumber">4</span> <span class="toctext">Commercial applications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Agricultural_applications"><span class="tocnumber">5</span> <span class="toctext">Agricultural applications</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Water_Reuse"><span class="tocnumber">6</span> <span class="toctext">Water Reuse</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Wasting_of_water"><span class="tocnumber">7</span> <span class="toctext">Wasting of water</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Strategies">Strategies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=1" title="Edit section: Strategies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The key activities that benefit water conservation(save water) are as follows:
+</p>
+<ol><li>Any beneficial reduction in <a href="/wiki/Drying" title="Drying">water loss</a>, use and waste of resources.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+<li>Avoiding any damage to <a href="/wiki/Water_quality" title="Water quality">water quality</a>.</li>
+<li>Improving <a class="mw-redirect" href="/wiki/Water_management" title="Water management">water management</a> practices that reduce the use or enhance the beneficial use of water.<sup class="reference" id="cite_ref-Vickers,_Amy_2002_5-0"><a href="#cite_note-Vickers,_Amy_2002-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li></ol>
+<p>One strategy in water conservation is <a class="mw-redirect" href="/wiki/Rain_water_harvesting" title="Rain water harvesting">rain water harvesting</a>.<sup class="reference" id="cite_ref-:12_7-0"><a href="#cite_note-:12-7">[7]</a></sup> Digging ponds, lakes, canals, expanding the water reservoir, and installing rain water catching ducts and filtration systems on homes are different methods of harvesting rain water. Many people in many countries keep clean containers so they can boil it and drink it, which is useful to supply water to the needy.<sup class="reference" id="cite_ref-:12_7-1"><a href="#cite_note-:12-7">[7]</a></sup> Harvested and filtered rain water can be used for toilets, home gardening, lawn irrigation, and small scale agriculture.<sup class="reference" id="cite_ref-:12_7-2"><a href="#cite_note-:12-7">[7]</a></sup>
+</p><p>Another strategy in water conservation is protecting <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> resources. When precipitation occurs, some infiltrates the soil and goes underground.<sup class="reference" id="cite_ref-:22_8-0"><a href="#cite_note-:22-8">[8]</a></sup> Water in this saturation zone is called groundwater.<sup class="reference" id="cite_ref-:22_8-1"><a href="#cite_note-:22-8">[8]</a></sup> <a class="mw-redirect" href="/wiki/Groundwater_contamination" title="Groundwater contamination">Contamination of groundwater</a> causes the groundwater water supply to not be able to be used as resource of fresh drinking water and the natural regeneration of contaminated groundwater can takes years to replenish.<sup class="reference" id="cite_ref-:32_9-0"><a href="#cite_note-:32-9">[9]</a></sup> Some examples of potential sources of groundwater contamination include storage tanks, <a href="/wiki/Septic_tank" title="Septic tank">septic</a> systems, uncontrolled <a href="/wiki/Hazardous_waste" title="Hazardous waste">hazardous waste</a>, <a href="/wiki/Landfill" title="Landfill">landfills</a>, <a class="mw-redirect" href="/wiki/Atmospheric_contaminants" title="Atmospheric contaminants">atmospheric contaminants</a>, chemicals, and <a class="mw-redirect" href="/wiki/Road_salt" title="Road salt">road salts</a>.<sup class="reference" id="cite_ref-:32_9-1"><a href="#cite_note-:32-9">[9]</a></sup> Contamination of groundwater decreases the replenishment of available freshwater so taking preventative measures by protecting groundwater resources from contamination is an important aspect of water conservation.<sup class="reference" id="cite_ref-:12_7-3"><a href="#cite_note-:12-7">[7]</a></sup>
+</p><p>An additional strategy to water conservation is practicing sustainable methods of utilizing groundwater resources.<sup class="reference" id="cite_ref-:12_7-4"><a href="#cite_note-:12-7">[7]</a></sup>  Groundwater flows due to gravity and eventually discharges into streams.<sup class="reference" id="cite_ref-:22_8-2"><a href="#cite_note-:22-8">[8]</a></sup> Excess pumping of groundwater leads to a decrease in groundwater levels and if continued it can exhaust the resource.<sup class="reference" id="cite_ref-:12_7-5"><a href="#cite_note-:12-7">[7]</a></sup> Ground and surface waters are connected and overuse of groundwater can reduce and, in extreme examples, diminish the water supply of lakes, rivers, and streams.<sup class="reference" id="cite_ref-:32_9-2"><a href="#cite_note-:32-9">[9]</a></sup> In coastal regions, over pumping groundwater can increase saltwater intrusion which results in the contamination of  groundwater water supply.<sup class="reference" id="cite_ref-:32_9-3"><a href="#cite_note-:32-9">[9]</a></sup> Sustainable use of groundwater is essential in water conservation.
+</p><p>A fundamental component to water conservation strategy is communication and education outreach of different water programs.<sup class="reference" id="cite_ref-:02_10-0"><a href="#cite_note-:02-10">[10]</a></sup> Developing communication that educates science to land managers, policy makers, farmers, and the general public is another important strategy utilized in water conservation.<sup class="reference" id="cite_ref-:02_10-1"><a href="#cite_note-:02-10">[10]</a></sup> Communication of the science of how water systems work is an important aspect when creating a management plan to conserve that system and is often used for ensuring the right management plan to be put into action.<sup class="reference" id="cite_ref-:02_10-2"><a href="#cite_note-:02-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Social_solutions">Social solutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=2" title="Edit section: Social solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:VineyardDrip.JPG"><img alt="" class="thumbimage" data-file-height="2100" data-file-width="1500" height="308" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/VineyardDrip.JPG/220px-VineyardDrip.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/VineyardDrip.JPG/330px-VineyardDrip.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/VineyardDrip.JPG/440px-VineyardDrip.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:VineyardDrip.JPG" title="Enlarge"></a></div><a href="/wiki/Drip_irrigation" title="Drip irrigation">Drip irrigation</a> system in <a href="/wiki/New_Mexico" title="New Mexico">New Mexico</a></div></div></div>
+<p>Water conservation programs involved in social solutions are typically initiated at the local level, by either municipal <a href="/wiki/Water_industry" title="Water industry">water utilities</a> or regional governments.  Common strategies include public <a href="/wiki/Outreach" title="Outreach">outreach</a> campaigns,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> tiered water rates (charging progressively higher prices as water use increases), or restrictions on outdoor water use such as lawn watering and car washing.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> Cities in dry climates often require or encourage the installation of <a href="/wiki/Xeriscaping" title="Xeriscaping">xeriscaping</a> or <a href="/wiki/Natural_landscaping" title="Natural landscaping">natural landscaping</a> in new homes to reduce outdoor water usage.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Most urban outdoor water use in California is residential,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> illustrating a reason for outreach to households as well as businesses.
+</p><p>One fundamental conservation goal is universal metering. The prevalence of residential <a class="mw-redirect" href="/wiki/Water_meter" title="Water meter">water metering</a> varies significantly worldwide. Recent studies have estimated that water supplies are metered in less than 30% of UK households,<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> and about 61% of urban Canadian homes (as of 2001).<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> Although individual water meters have often been considered impractical in homes with private wells or in multifamily buildings, the U.S. <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">Environmental Protection Agency</a> estimates that metering alone can reduce consumption by 20 to 40 percent.<sup class="reference" id="cite_ref-EPA-Conserve_17-0"><a href="#cite_note-EPA-Conserve-17">[17]</a></sup> In addition to raising consumer awareness of their water use, metering is also an important way to identify and localize <a class="mw-redirect" href="/wiki/Water_leakage" title="Water leakage">water leakage</a>.  Water metering would benefit society, in the long run, it is proven that water metering increases the efficiency of the entire water system, as well as help unnecessary expenses for individuals for years to come.  One would be unable to waste water unless they are willing to pay the extra charges, this way the water department would be able to monitor water usage by the public, domestic and manufacturing services.
+</p><p>Some researchers have suggested that water conservation efforts should be primarily directed at farmers, in light of the fact that crop irrigation accounts for 70% of the world's fresh water use.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>  The agricultural sector of most countries is important both economically and politically, and water subsidies are common.  Conservation advocates have urged removal of all subsidies to force <a class="mw-redirect" href="/wiki/Farmers" title="Farmers">farmers</a> to grow more water-efficient crops and adopt less wasteful irrigation techniques.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>]</sup>
+</p><p>New technology poses a few new options for consumers, features such as full flush and half flush when using a toilet are trying to make a difference in water consumption and waste.  Also available are modern <a class="mw-redirect" href="/wiki/Shower_head" title="Shower head">shower heads</a> that help reduce wasting water: Old shower heads are said to use 5-10 gallons per minute, while new fixtures available are said to use 2.5 gallons per minute and offer equal water coverage.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Household_applications">Household applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=3" title="Edit section: Household applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Home Water Works website contains useful information on household water conservation.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>  Contrary to the popular view that the most effective way to save water is to curtail water-using behavior (e.g., by taking shorter showers),<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> experts suggest the most efficient way is replacing toilets and retrofitting washers; as demonstrated by two <a href="/wiki/Residential_water_use_in_the_U.S._and_Canada" title="Residential water use in the U.S. and Canada">household end use logging</a> studies in the U.S.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup><sup class="reference" id="cite_ref-REUW2_22-0"><a href="#cite_note-REUW2-22">[22]</a></sup>
+</p><p>Water-saving technology for the home includes:
+</p>
+<ol><li>Low-flow shower heads sometimes called energy-efficient shower heads as they also use less energy</li>
+<li><a class="mw-redirect" href="/wiki/Low_flush_toilet" title="Low flush toilet">Low-flush toilets</a> and <a href="/wiki/Composting_toilet" title="Composting toilet">composting toilets</a>. These have a dramatic impact in the developed world, as conventional Western <a href="/wiki/Toilet" title="Toilet">toilets</a> use large volumes of water</li>
+<li><a href="/wiki/Dual_flush_toilet" title="Dual flush toilet">Dual flush toilets</a> created by <a href="/wiki/Caroma" title="Caroma">Caroma</a> includes two buttons or handles to flush different levels of water. Dual flush toilets use up to 67% less water than conventional toilets</li>
+<li><a href="/wiki/Faucet_aerator" title="Faucet aerator">Faucet aerators</a>, which break water flow into fine droplets to maintain "wetting effectiveness" while using less water. An additional benefit is that they reduce splashing while washing hands and dishes</li>
+<li><a class="mw-redirect" href="/wiki/Raw_water_flushing" title="Raw water flushing">Raw water flushing</a> where toilets use sea water or non-purified water</li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Wastewater reuse</a> or recycling systems, allowing:
+<ul><li>Reuse of <a href="/wiki/Greywater" title="Greywater">graywater</a> for flushing toilets or watering gardens</li>
+<li>Recycling of wastewater through <a href="/wiki/Water_purification" title="Water purification">purification</a> at a water treatment plant. <i>See also <a href="/wiki/Wastewater#Reuse" title="Wastewater">Wastewater - Reuse</a></i></li></ul></li>
+<li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">Rainwater harvesting</a></li>
+<li>High-efficiency <a href="/wiki/Washing_machine" title="Washing machine">clothes washers</a></li>
+<li>Weather-based irrigation controllers</li>
+<li><a href="/wiki/Garden_hose" title="Garden hose">Garden hose</a> <a href="/wiki/Nozzle" title="Nozzle">nozzles</a> that shut off the water when it is not being used, instead of letting a hose run.</li>
+<li>Low flow taps in wash basins</li>
+<li><a href="/wiki/Swimming_pool" title="Swimming pool">Swimming pool</a> covers that reduce evaporation and can warm pool water to reduce water, energy and chemical costs.</li>
+<li><a href="/wiki/Automatic_faucet" title="Automatic faucet">Automatic faucet</a> is a water conservation faucet that eliminates water waste at the faucet. It automates the use of faucets without the use of hands.</li></ol>
+<h2><span class="mw-headline" id="Commercial_applications">Commercial applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=4" title="Edit section: Commercial applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many water-saving devices (such as low-flush toilets) that are useful in homes can also be useful for business water saving. Other water-saving technology for businesses includes:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/Waterless_urinal" title="Waterless urinal">Waterless urinals</a></li>
+<li><a class="mw-redirect" href="/wiki/Waterless_car_wash" title="Waterless car wash">Waterless car washes</a></li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a> or foot-operated taps, which can save water by using short bursts of water for rinsing in a kitchen or bathroom</li>
+<li>Pressurized waterbrooms, which can be used instead of a hose to clean sidewalks</li>
+<li><a href="/wiki/Radiography" title="Radiography">X-ray</a> film processor re-circulation systems</li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a> conductivity controllers</li>
+<li>Water-saving <a class="mw-redirect" href="/wiki/Steam_sterilizer" title="Steam sterilizer">steam sterilizers</a>, for use in hospitals and health care facilities</li>
+<li><a class="mw-redirect" href="/wiki/Rain_water_harvesting" title="Rain water harvesting">Rain water harvesting</a></li>
+<li>Water to Water <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchangers</a>.</li></ul>
+<h2><span class="mw-headline" id="Agricultural_applications">Agricultural applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=5" title="Edit section: Agricultural applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:218px;"><a class="image" href="/wiki/File:PivotIrrigationOnCotton.jpg"><img alt="" class="thumbimage" data-file-height="440" data-file-width="640" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/PivotIrrigationOnCotton.jpg/216px-PivotIrrigationOnCotton.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/PivotIrrigationOnCotton.jpg/324px-PivotIrrigationOnCotton.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/PivotIrrigationOnCotton.jpg/432px-PivotIrrigationOnCotton.jpg 2x" width="216"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:PivotIrrigationOnCotton.jpg" title="Enlarge"></a></div>Overhead irrigation, <a href="/wiki/Center_pivot_irrigation" title="Center pivot irrigation">center pivot</a> design</div></div></div>
+<p>For crop irrigation, optimal <a href="/wiki/Water_efficiency" title="Water efficiency">water efficiency</a> means minimizing losses due to <a href="/wiki/Evaporation" title="Evaporation">evaporation</a>, <a href="/wiki/Surface_runoff" title="Surface runoff">runoff</a> or subsurface drainage while maximizing production.  An <a class="mw-redirect" href="/wiki/Evaporation_pan" title="Evaporation pan">evaporation pan</a> in combination with specific crop correction factors can be used to determine how much water is needed to satisfy plant requirements.  <a href="/wiki/Surface_irrigation" title="Surface irrigation">Flood irrigation</a>, the oldest and most common type, is often very uneven in distribution, as parts of a field may receive excess water in order to deliver sufficient quantities to other parts. <a href="/wiki/Irrigation#Overhead_(sprinkler)_irrigation" title="Irrigation">Overhead irrigation</a>, using center-pivot or lateral-moving sprinklers, has the potential for a much more equal and controlled distribution pattern. <a href="/wiki/Drip_irrigation" title="Drip irrigation">Drip irrigation</a> is the most expensive and least-used type, but offers the ability to deliver water to plant roots with minimal losses. However, drip irrigation is increasingly affordable, especially for the home gardener and in light of rising water rates. Using drip irrigation methods can save up to 30,000 gallons of water per year when replacing irrigation systems that spray in all directions.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> There are also cheap effective methods similar to drip irrigation such as the use of soaking hoses that can even be submerged in the growing medium to eliminate evaporation.
+</p><p>As changing irrigation systems can be a costly undertaking, conservation efforts often concentrate on maximizing the efficiency of the existing system.  This may include chiseling compacted soils, creating furrow dikes to prevent runoff, and using soil moisture and rainfall sensors to optimize irrigation schedules.<sup class="reference" id="cite_ref-EPA-Conserve_17-1"><a href="#cite_note-EPA-Conserve-17">[17]</a></sup> Usually large gains in efficiency are possible through measurement and more effective management of the existing irrigation system. The 2011 UNEP Green Economy Report notes that "[i]mproved <a href="/wiki/Soil_organic_matter" title="Soil organic matter">soil organic matter</a> from the use of green manures, mulching, and recycling of crop residues and animal manure increases the water holding capacity of soils and their ability to absorb water during torrential rains",<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> which is a way to optimize the use of rainfall and irrigation during dry periods in the season.
+</p>
+<h2><span class="mw-headline" id="Water_Reuse">Water Reuse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=6" title="Edit section: Water Reuse">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Water shortage has become an increasingly difficult problem to manage. More than 40% of the world's population live in a region where the demand for water exceeds its supply. The imbalance between supply and demand, along with persisting issues such as climate change and exponential <a href="/wiki/Population_growth" title="Population growth">population growth</a>, has made water reuse a necessary method for conserving water.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> There are a variety of methods used in the <a href="/wiki/Water_treatment" title="Water treatment">treatment of waste water</a> to ensure that it is safe to use for irrigation of food crops and/or drinking water.
+</p><p>Seawater desalination requires more energy than the desalination of fresh water. Despite this, many seawater desalination plants have been built in response to water shortages around the world. This makes it necessary to evaluate the impacts of seawater desalination and to find ways to improve desalination technology. Current research involves the use of experiments to determine the most effective and least energy intensive methods of desalination.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</p><p><a href="/wiki/Sand_filter" title="Sand filter">Sand filtration</a> is another method used to treat water. Recent studies show that sand filtration needs further improvements, but it is approaching optimization with its effectiveness at removing pathogens from water.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> Sand filtration is very effective at removing protozoa and bacteria, but struggles with removing viruses.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> Large-scale sand filtration facilities also require large surface areas to accommodate them.
+</p><p>The removal of <a href="/wiki/Pathogen" title="Pathogen">pathogens</a> from recycled water is of high priority because wastewater always contains pathogens capable of infecting humans. The levels of pathogenic viruses have to be reduced to a certain level in order for recycled water to not pose a threat to human populations. Further research is necessary to determine more accurate methods of assessing the level of pathogenic viruses in treated wastewater.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Wasting_of_water">Wasting of water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=7" title="Edit section: Wasting of water">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a class="image" href="/wiki/File:Leaking_garden_hose_bib.jpg"><img alt="" class="thumbimage" data-file-height="1632" data-file-width="1224" height="320" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leaking_garden_hose_bib.jpg/240px-Leaking_garden_hose_bib.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leaking_garden_hose_bib.jpg/360px-Leaking_garden_hose_bib.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leaking_garden_hose_bib.jpg/480px-Leaking_garden_hose_bib.jpg 2x" width="240"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Leaking_garden_hose_bib.jpg" title="Enlarge"></a></div>Leaking garden hose bib</div></div></div>
+<p>Wasting of water (also called "water waste" in the U.S.) is the flip side of water conservation and, in household applications, it means causing or permitting discharge of water without any practical purpose. Inefficient water use is also considered wasteful. By <a class="mw-redirect" href="/wiki/EPA" title="EPA">EPA</a> estimate, household leaks in the U.S. can waste approximately 900 billion gallons (3.4 billion cubic meters) of water annually nationwide.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> Generally, water management agencies are reluctant or unwilling to give a concrete definition to the somewhat fuzzy concept of <b>water waste</b>.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> However, definition of water waste is often given in local drought emergency ordinances. One example refers to any acts or omissions, whether willful or negligent, that are “causing or permitting water to leak, discharge, flow or run to waste into any gutter, sanitary sewer, watercourse or public or private storm drain, or to any adjacent property, from any tap, hose, faucet, pipe, sprinkler, pond, pool, waterway, fountain or nozzle.”.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup>  In this example, the city code also clarifies that “in the case of washing, “discharge,” “flow” or “run to waste” means that water in excess of that necessary to wash, wet or clean the dirty or dusty object, such as an automobile, sidewalk, or parking area, flows to waste. Water utilities (and other media sources) often provide listings of wasteful water-use practices and prohibitions of wasteful uses. Examples include utilities in San Antonio, Texas.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> Las Vegas, Nevada,<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup> California Water Service company in California,<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup> and City of San Diego, California.<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup> The City of Palo Alto in California enforces permanent water use restrictions on wasteful practices such as leaks, runoff, irrigating during and immediately after rainfall, and use of potable water when non-potable water is available.<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup> Similar restrictions are in effect in the State of Victoria, Australia.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup> Temporary water use bans (also known as "hosepipe bans") are used in England, Scotland, Wales and Northern Ireland.<sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup>
+</p><p>Strictly speaking, water that is discharged into the sewer, or directly to the environment is not wasted or lost. It remains within the <a class="mw-redirect" href="/wiki/Hydrologic_cycle" title="Hydrologic cycle">hydrologic cycle</a> and returns to the land surface and surface water bodies as precipitation. However, in many cases, the source of the water is at a significant distance from the return point and may be in a different catchment. The separation between extraction point and return point can represent significant environmental degradation in the watercourse and riparian strip. What is "wasted" is the community's supply of water that was captured, stored, transported and treated to drinking quality standards. Efficient use of water saves the expense of water supply provision and leaves more fresh water in lakes, rivers and aquifers for other users and also for supporting ecosystems. A concept that is closely related to water wasting is "water-use efficiency." Water use is considered <a href="/wiki/Inefficiency" title="Inefficiency">inefficient</a> if the same purpose of its use can be accomplished with less water. Technical <a href="/wiki/Efficiency" title="Efficiency">efficiency</a> derives from engineering practice where it is typically used to describe the ratio of output to input and is useful in comparing various products and processes.<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup>  For example, one showerhead would be considered more efficient than another if it could accomplish the same purpose (i.e., of showering) by using less water or other inputs (e.g., lower water pressure). However, the technical efficiency concept is not useful in making decisions of investing money (or resources) in water conservation measures unless the inputs and outputs are measured in value terms. This expression of efficiency is referred to as <a href="/wiki/Economic_efficiency" title="Economic efficiency">economic efficiency</a> and is incorporated into the concept of water conservation.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Drinking_water.jpg"><img alt="icon" class="noviewer" data-file-height="450" data-file-width="300" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/18px-Drinking_water.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/28px-Drinking_water.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Drinking_water.jpg/37px-Drinking_water.jpg 2x" width="18"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Water" title="Portal:Water">Water portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="icon" class="noviewer thumbborder" data-file-height="4000" data-file-width="6000" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2776" data-file-width="2790" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/28px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/56px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Al_Baydha_Project" title="Al Baydha Project">Al Baydha Project</a></li>
+<li><a href="/wiki/Berlin_Rules_on_Water_Resources" title="Berlin Rules on Water Resources">Berlin Rules on Water Resources</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a class="mw-redirect" href="/wiki/Conservation_ethic" title="Conservation ethic">Conservation ethic</a></li>
+<li><a href="/wiki/Conservation_movement" title="Conservation movement">Conservation movement</a></li>
+<li><a href="/wiki/Deficit_irrigation" title="Deficit irrigation">Deficit irrigation</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecology_movement" title="Ecology movement">Ecology movement</a></li>
+<li><a href="/wiki/Environmental_protection" title="Environmental protection">Environmental protection</a></li>
+<li><a href="/wiki/GreenPlumbers" title="GreenPlumbers">GreenPlumbers</a></li>
+<li><a href="/wiki/Hydrozoning" title="Hydrozoning">Hydrozoning</a></li>
+<li><a href="/wiki/Micro-sustainability" title="Micro-sustainability">Micro-sustainability</a></li>
+<li><a href="/wiki/Outdoor_water-use_restriction" title="Outdoor water-use restriction">Outdoor water-use restriction</a></li>
+<li><a href="/wiki/Pan_evaporation" title="Pan evaporation">Pan evaporation</a></li>
+<li><a href="/wiki/Peak_water" title="Peak water">Peak water</a></li>
+<li><a href="/wiki/Residential_water_use_in_the_U.S._and_Canada" title="Residential water use in the U.S. and Canada">Residential water use in the U.S. and Canada</a></li>
+<li><a href="/wiki/Nonresidential_water_use_in_the_U.S." title="Nonresidential water use in the U.S.">Nonresidential water use in the U.S.</a></li>
+<li><a href="/wiki/Non-revenue_water" title="Non-revenue water">Non-revenue water</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Utility_submeter" title="Utility submeter">Utility submeter</a></li>
+<li><a href="/wiki/Water_cascade_analysis" title="Water cascade analysis">Water cascade analysis</a></li>
+<li><a href="/wiki/Water_metering" title="Water metering">Water metering</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_pinch" title="Water pinch">Water pinch</a></li>
+<li><a class="mw-redirect" href="/wiki/WaterSense" title="WaterSense">WaterSense</a> - EPA conservation program</li>
+<li><a class="mw-redirect" href="/wiki/Water_use" title="Water use">Water use</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_waste" title="Water waste">Water waste</a></li></ul>
+</div>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_conservation&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.waterefficiency.net" rel="nofollow">Water Efficiency Magazine</a> — Journal for Water Conservation Professionals</li>
+<li><a class="external text" href="http://apps.awwa.org/ebusmain/community/conservation.aspx" rel="nofollow">Water Conservation Community of Interest</a> — American Water Works Association</li>
+<li><a class="external text" href="http://wqic.nal.usda.gov/water-availability/water-conservation" rel="nofollow">Water Conservation</a> — Water Quality Information Center, National Agricultural Library, U.S. Department of Agriculture</li>
+<li><a class="external text" href="http://www.allianceforwaterefficiency.org" rel="nofollow">Alliance for Water Efficiency (AWE)</a></li>
+<li><a class="external text" href="http://www.smartwatermark.org/" rel="nofollow">Smart WaterMark</a> — Australian Water Conservation Label</li></ul>
+<div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Natural_resources" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Natural_resources" title="Template:Natural resources"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Natural_resources" title="Template talk:Natural resources"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Natural_resources&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Natural_resources" style="font-size:114%;margin:0 4em"><a href="/wiki/Natural_resource" title="Natural resource">Natural resources</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Air</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;"><a href="/wiki/Air_pollution" title="Air pollution">Pollution / quality</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">Ambient standards <span style="font-size:90%;">(USA)</span></a></li>
+<li><a href="/wiki/Air_quality_index" title="Air quality index">Index</a></li>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor</a>
+<ul><li><a href="/wiki/Indoor_air_pollution_in_developing_nations" title="Indoor air pollution in developing nations">developing nations</a></li></ul></li>
+<li><a href="/wiki/Air_quality_law" title="Air quality law">Law</a>
+<ul><li><a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act <span style="font-size:90%;">(USA)</span></a></li></ul></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Emissions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airshed" title="Airshed">Airshed</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Trading</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Deforestation (REDD)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Carson_Fall_Mt_Kinabalu.jpg" title="Carson Falls on Mount Kinabalu, Borneo"><img alt="Carson Falls on Mount Kinabalu, Borneo" data-file-height="3456" data-file-width="2592" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/100px-Carson_Fall_Mt_Kinabalu.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/150px-Carson_Fall_Mt_Kinabalu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/200px-Carson_Fall_Mt_Kinabalu.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Energy" title="Energy">Energy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Energy_law" title="Energy law">Law</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_resources" title="Energy resources">Resources</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuels</a> (<a href="/wiki/Peak_oil" title="Peak oil">peak oil</a>)</li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydro</a>
+<ul><li><a href="/wiki/Tidal_power" title="Tidal power">tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">wave</a></li></ul></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a>
+<ul><li><a href="/wiki/Sunlight" title="Sunlight">sunlight</a></li>
+<li><a href="/wiki/Shade_(shadow)" title="Shade (shadow)">shade</a></li></ul></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Land" title="Land">Land</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arable_land" title="Arable land">Arable</a>
+<ul><li><a href="/wiki/Peak_farmland" title="Peak farmland">peak farmland</a></li></ul></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Degradation</a></li>
+<li><a href="/wiki/Land_law" title="Land law">Law</a>
+<ul><li><a href="/wiki/Property_law" title="Property law">property</a></li></ul></li>
+<li><a href="/wiki/Land_management" title="Land management">Management</a>
+<ul><li><a href="/wiki/Habitat_conservation" title="Habitat conservation">habitat conservation</a></li></ul></li>
+<li><a href="/wiki/Mineral" title="Mineral">Minerals</a>
+<ul><li><a href="/wiki/Mining" title="Mining">mining</a>
+<ul><li><a href="/wiki/Mining_law" title="Mining law">law</a></li>
+<li><a href="/wiki/Sand_mining" title="Sand mining">sand</a></li></ul></li>
+<li><a href="/wiki/Peak_minerals" title="Peak minerals">peak</a></li>
+<li><a href="/wiki/Mineral_rights" title="Mineral rights">rights</a></li></ul></li>
+<li><a href="/wiki/Soil" title="Soil">Soil</a>
+<ul><li><a href="/wiki/Soil_conservation" title="Soil conservation">conservation</a></li>
+<li><a href="/wiki/Soil_fertility" title="Soil fertility">fertility</a></li>
+<li><a href="/wiki/Soil_health" title="Soil health">health</a></li>
+<li><a href="/wiki/Soil_resilience" title="Soil resilience">resilience</a></li></ul></li>
+<li><a href="/wiki/Land_use" title="Land use">Use</a>
+<ul><li><a href="/wiki/Land-use_planning" title="Land-use planning">planning</a></li>
+<li><a href="/wiki/Open_space_reserve" title="Open space reserve">reserve</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Life" title="Life">Life</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Bioprospecting" title="Bioprospecting">Bioprospecting</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a class="mw-redirect" href="/wiki/Bushfood" title="Bushfood">Bushfood</a></li>
+<li><a href="/wiki/Bushmeat" title="Bushmeat">Bushmeat</a></li>
+<li><a href="/wiki/Fishery" title="Fishery">Fisheries</a>
+<ul><li><a href="/wiki/Fisheries_law" title="Fisheries law">law</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">management</a></li></ul></li>
+<li><a href="/wiki/Food" title="Food">Food</a></li>
+<li><a href="/wiki/Forest" title="Forest">Forests</a>
+<ul><li><a href="/wiki/Forest_genetic_resources" title="Forest genetic resources">genetic resources</a></li>
+<li><a href="/wiki/Forestry_law" title="Forestry law">law</a></li>
+<li><a href="/wiki/Forest_management" title="Forest management">management</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Game_(food)" title="Game (food)">Game</a>
+<ul><li><a href="/wiki/Game_law" title="Game law">law</a></li></ul></li>
+<li><a href="/wiki/Gene_bank" title="Gene bank">Gene bank</a></li>
+<li><a href="/wiki/List_of_plants_used_in_herbalism" title="List of plants used in herbalism">Herbalist plants</a></li>
+<li><a href="/wiki/Marine_conservation" title="Marine conservation">Marine conservation</a></li>
+<li><a href="/wiki/Non-timber_forest_product" title="Non-timber forest product">Non-timber forest products</a></li>
+<li><a href="/wiki/Rangeland" title="Rangeland">Rangeland</a></li>
+<li><a href="/wiki/Seed_bank" title="Seed bank">Seed bank</a></li>
+<li><a href="/wiki/Wildlife" title="Wildlife">Wildlife</a>
+<ul><li><a href="/wiki/Wildlife_conservation" title="Wildlife conservation">conservation</a></li>
+<li><a href="/wiki/Wildlife_management" title="Wildlife management">management</a></li></ul></li>
+<li><a href="/wiki/Wood" title="Wood">Wood</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Water" title="Water">Water</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Types / location</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aquifer" title="Aquifer">Aquifer</a>
+<ul><li><a href="/wiki/Aquifer_storage_and_recovery" title="Aquifer storage and recovery">storage and recovery</a></li></ul></li>
+<li><a href="/wiki/Drinking_water" title="Drinking water">Drinking</a></li>
+<li><a href="/wiki/Fresh_water" title="Fresh water">Fresh</a></li>
+<li><a href="/wiki/Groundwater" title="Groundwater">Groundwater</a>
+<ul><li><a href="/wiki/Groundwater_pollution" title="Groundwater pollution">pollution</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">recharge</a></li>
+<li><a href="/wiki/Groundwater_remediation" title="Groundwater remediation">remediation</a></li></ul></li>
+<li><a href="/wiki/Hydrosphere" title="Hydrosphere">Hydrosphere</a></li>
+<li><a href="/wiki/Ice" title="Ice">Ice</a>
+<ul><li><a href="/wiki/Iceberg" title="Iceberg">bergs</a></li>
+<li><a href="/wiki/Glacier" title="Glacier">glacial</a></li>
+<li><a href="/wiki/Polar_ice_cap" title="Polar ice cap">polar</a></li></ul></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a>
+<ul><li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">harvesting</a></li></ul></li>
+<li><a href="/wiki/Stormwater" title="Stormwater">Stormwater</a></li>
+<li><a href="/wiki/Surface_water" title="Surface water">Surface water</a></li>
+<li><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a>
+<ul><li><a href="/wiki/Reclaimed_water" title="Reclaimed water">reclaimed</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Flood" title="Flood">Floods</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_law" title="Water law">Law</a></li>
+<li><a href="/wiki/Leaching_(agriculture)" title="Leaching (agriculture)">Leaching</a></li>
+<li><a href="/wiki/Sanitation" title="Sanitation">Sanitation</a></li>
+<li><a href="/wiki/Water_conflict" title="Water conflict">Conflict</a></li>
+<li><a class="mw-selflink selflink">Conservation</a></li>
+<li><a href="/wiki/Peak_water" title="Peak water">Peak water</a></li>
+<li><a href="/wiki/Water_pollution" title="Water pollution">Pollution</a></li>
+<li><a href="/wiki/Water_privatization" title="Water privatization">Privatization</a></li>
+<li><a href="/wiki/Water_quality" title="Water quality">Quality</a></li>
+<li><a href="/wiki/Water_right" title="Water right">Right</a></li>
+<li><a href="/wiki/Water_resources" title="Water resources">Resources</a>
+<ul><li><a href="/wiki/Water_resource_management" title="Water resource management">management</a></li>
+<li><a href="/wiki/Water_resource_policy" title="Water resource policy">policy</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Commons" title="Commons">Commons</a>
+<ul><li><a href="/wiki/Enclosure" title="Enclosure">enclosure</a></li>
+<li><a href="/wiki/Global_commons" title="Global commons">global</a></li>
+<li><a href="/wiki/Common_land" title="Common land">land</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">tragedy of</a></li></ul></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Economics</a>
+<ul><li><a href="/wiki/Ecological_economics" title="Ecological economics">ecological</a></li>
+<li><a href="/wiki/Land_(economics)" title="Land (economics)">land</a></li></ul></li>
+<li><a href="/wiki/Ecosystem_services" title="Ecosystem services">Ecosystem services</a></li>
+<li><a href="/wiki/Exploitation_of_natural_resources" title="Exploitation of natural resources">Exploitation</a>
+<ul><li><a href="/wiki/Overexploitation" title="Overexploitation">overexploitation</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li></ul></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Management</a>
+<ul><li><a href="/wiki/Adaptive_management" title="Adaptive management">adaptive</a></li></ul></li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a>
+<ul><li><a href="/wiki/Natural_capital_accounting" title="Natural capital accounting">accounting</a></li></ul></li>
+<li><a href="/wiki/Nature_reserve" title="Nature reserve">Nature reserve</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Wilderness" title="Wilderness">Wilderness</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;"><a href="/wiki/Resource" title="Resource">Resource</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Common-pool_resource" title="Common-pool resource">Common-pool</a></li>
+<li><a href="/wiki/Conflict_resource" title="Conflict resource">Conflict <span style="font-size:90%;">(perpetuation)</span></a></li>
+<li><a href="/wiki/Resource_curse" title="Resource curse">Curse</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Depletion</a></li>
+<li><a class="mw-redirect" href="/wiki/Resource_extraction" title="Resource extraction">Extraction</a></li>
+<li><a href="/wiki/Resource_nationalism" title="Resource nationalism">Nationalism</a></li>
+<li><a href="/wiki/Renewable_resource" title="Renewable resource">Renewable</a> / <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">Non-renewable</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portals</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">Agriculture and agronomy</a></li>
+<li><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></li>
+<li><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment</a></li>
+<li><a href="/wiki/Portal:Fishing" title="Portal:Fishing">Fishing</a></li>
+<li><a href="/wiki/Portal:Forestry" title="Portal:Forestry">Forestry</a></li>
+<li><a href="/wiki/Portal:Mining" title="Portal:Mining">Mining</a></li>
+<li><a href="/wiki/Portal:Water" title="Portal:Water">Water</a></li>
+<li><a href="/wiki/Portal:Wetlands" title="Portal:Wetlands">Wetlands</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Natural_resources" title="Category:Natural resources">Category</a>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r865336399">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Category:Natural_resources_agencies" title="Category:Natural resources agencies">agencies</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_law" title="Category:Natural resources law">law</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resource_management" title="Category:Natural resource management">management</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_ministries" title="Category:Natural resources ministries">ministries</a></span></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">organizations</a></span></li></ul></li>
+<li><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><a href="/wiki/List_of_colleges_of_natural_resources" title="List of colleges of natural resources">Colleges</a></span></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Natural_resources" title="commons:Category:Natural resources">Natural resources</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20181101200530
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.604 seconds
+Real time usage: 0.727 seconds
+Preprocessor visited node count: 2690/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 134522/2097152 bytes
+Template argument size: 1739/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 103964/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.319/10.000 seconds
+Lua memory usage: 6.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  548.148      1 -total
+ 66.26%  363.206      1 Template:Reflist
+ 24.88%  136.398     18 Template:Cite_web
+ 23.58%  129.245     14 Template:Cite_journal
+ 13.90%   76.188      2 Template:Cn
+ 11.16%   61.183      5 Template:Navbox
+ 10.54%   57.757      2 Template:Fix
+  7.03%   38.520      1 Template:Natural_resources
+  6.42%   35.194      4 Template:Category_handler
+  5.77%   31.625      1 Template:ISBN
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:460253-0!canonical and timestamp 20181101200530 and revision id 866571734
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Water_conservation&amp;oldid=866571734">https://en.wikipedia.org/w/index.php?title=Water_conservation&amp;oldid=866571734</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Water_conservation" title="Category:Water conservation">Water conservation</a></li><li><a href="/wiki/Category:Environmental_issues_with_water" title="Category:Environmental issues with water">Environmental issues with water</a></li><li><a href="/wiki/Category:Sustainable_design" title="Category:Sustainable design">Sustainable design</a></li><li><a href="/wiki/Category:Waste_minimisation" title="Category:Waste minimisation">Waste minimisation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2018" title="Category:Articles with unsourced statements from May 2018">Articles with unsourced statements from May 2018</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Water+conservation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Water+conservation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Water_conservation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Water_conservation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Water_conservation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Water_conservation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Water_conservation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Water_conservation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Water_conservation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Water_conservation&amp;oldid=866571734" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Water_conservation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1462136" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Water_conservation&amp;id=866571734" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Water+conservation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Water+conservation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Water_conservation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Water_conservation" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Gew%C3%A4sserschutz" hreflang="gsw" lang="gsw" title="Gewässerschutz – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D8%B4%D9%8A%D8%AF_%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83_%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87" hreflang="ar" lang="ar" title="ترشيد استهلاك المياه – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF_%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3" hreflang="bn" lang="bn" title="পানি সংরক্ষণ – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gew%C3%A4sserschutz" hreflang="de" lang="de" title="Gewässerschutz – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Veekaitse" hreflang="et" lang="et" title="Veekaitse – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Eficiencia_h%C3%ADdrica" hreflang="es" lang="es" title="Eficiencia hídrica – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Protection_de_l%27eau" hreflang="fr" lang="fr" title="Protection de l'eau – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%B2_%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3" hreflang="hi" lang="hi" title="जल संरक्षण – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%A8%E0%B3%80%E0%B2%B0%E0%B2%BF%E0%B2%A8_%E0%B2%B8%E0%B2%82%E0%B2%B0%E0%B2%95%E0%B3%8D%E0%B2%B7%E0%B2%A3%E0%B3%86" hreflang="kn" lang="kn" title="ನೀರಿನ ಸಂರಕ್ಷಣೆ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B4%B2_%E0%B4%B8%E0%B4%82%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%A3%E0%B4%82" hreflang="ml" lang="ml" title="ജല സംരക്ഷണം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%AF%80%E6%B0%B4" hreflang="ja" lang="ja" title="節水 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Рациональное водопользование – Russian">Русский</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%AF%80%E6%B0%B4" hreflang="zh" lang="zh" title="節水 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1462136#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 31 October 2018, at 04:41<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Water_conservation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.604","walltime":"0.727","ppvisitednodes":{"value":2690,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":134522,"limit":2097152},"templateargumentsize":{"value":1739,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":103964,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  548.148      1 -total"," 66.26%  363.206      1 Template:Reflist"," 24.88%  136.398     18 Template:Cite_web"," 23.58%  129.245     14 Template:Cite_journal"," 13.90%   76.188      2 Template:Cn"," 11.16%   61.183      5 Template:Navbox"," 10.54%   57.757      2 Template:Fix","  7.03%   38.520      1 Template:Natural_resources","  6.42%   35.194      4 Template:Category_handler","  5.77%   31.625      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.319","limit":"10.000"},"limitreport-memusage":{"value":6358042,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20181101200530","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1241"});});</script>
+</body>
+</html>

@@ -1,0 +1,475 @@
+https://en.wikipedia.org/wiki/Indian_Ocean_Dipole
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Indian Ocean Dipole - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Indian_Ocean_Dipole","wgTitle":"Indian Ocean Dipole","wgCurRevisionId":860392126,"wgRevisionId":860392126,"wgArticleId":8991205,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Wikipedia external links cleanup from June 2016","Wikipedia spam cleanup from June 2016","All articles with dead external links","Articles with dead external links from November 2017","Articles with permanently dead external links","Climate patterns","Tropical meteorology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Indian_Ocean_Dipole","wgRelevantArticleId":8991205,"wgRequestId":"W9Qu5wpAMFsAALxm9RMAAABS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1574518","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/f/f6/Sstanom_199711_krig.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Indian_Ocean_Dipole" rel="alternate"/>
+<link href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Indian_Ocean_Dipole" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Indian_Ocean_Dipole rootpage-Indian_Ocean_Dipole skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Indian Ocean Dipole</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sstanom_199711_krig.jpg"><img alt="" class="thumbimage" data-file-height="219" data-file-width="350" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sstanom_199711_krig.jpg/220px-Sstanom_199711_krig.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sstanom_199711_krig.jpg/330px-Sstanom_199711_krig.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f6/Sstanom_199711_krig.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Sstanom_199711_krig.jpg" title="Enlarge"></a></div>Water temperatures around the Mentawai Islands dropped about 4° Celsius during the height of a positive phase of the Indian Ocean Dipole in November 1997. During these events unusually strong winds from the east push warm surface water towards Africa, allowing cold water to upwell along the Sumatran coast. In this image blue areas are colder than normal, while red areas are warmer than normal.</div></div></div>
+<p>The <b>Indian Ocean Dipole</b> (<b>IOD</b>), also known as the Indian Niño, is an irregular oscillation of sea-surface temperatures in which the western <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> becomes alternately warmer and then colder than the eastern part of the ocean.
+</p><p>Monsoon in India is generally affected by the temperature between bay of Bengal in the east and The Arabian sea in the west.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Phenomenon"><span class="tocnumber">1</span> <span class="toctext">Phenomenon</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Effect_on_Australian_droughts"><span class="tocnumber">2</span> <span class="toctext">Effect on Australian droughts</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Effect_on_El_Nino"><span class="tocnumber">3</span> <span class="toctext">Effect on El Nino</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Phenomenon">Phenomenon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit&amp;section=1" title="Edit section: Phenomenon">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The IOD involves an aperiodic oscillation of sea-surface temperatures (SST), between "positive", "neutral" and "negative" phases. A positive phase sees greater-than-average sea-surface temperatures and greater precipitation in the western Indian Ocean region, with a corresponding cooling of waters in the eastern Indian Ocean—which tends to cause droughts in adjacent land areas of <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> and <a href="/wiki/Australia" title="Australia">Australia</a>. The negative phase of the IOD brings about the opposite conditions, with warmer water and greater precipitation in the eastern Indian Ocean, and cooler and drier conditions in the west.
+</p><p>The IOD also affects the strength of monsoons over the Indian subcontinent. A significant positive IOD occurred in 1997–98, with another in 2006. The IOD is one aspect of the general cycle of global climate, interacting with similar phenomena like the <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation" title="El Niño-Southern Oscillation">El Niño-Southern Oscillation</a> (ENSO) in the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a>.
+</p><p>The IOD phenomenon was first identified by climate researchers in 1999.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>An average of four each positive-negative IOD events occur during each 30-year period with each event lasting around six months. However, there have been 12 positive IODs since 1980 and no negative events from 1992 until a strong negative event in late 2010. The occurrence of consecutive positive IOD events is extremely rare with only two such events recorded, 1913–1914 and the three consecutive events from 2006 to 2008 which preceded the <a href="/wiki/Black_Saturday_bushfires" title="Black Saturday bushfires">Black Saturday bushfires</a>. Modelling suggests that consecutive positive events could be expected to occur twice over a 1,000-year period. The positive IOD in 2007 evolved together with <a href="/wiki/La_Ni%C3%B1a" title="La Niña">La Niña</a>, which is a very rare phenomenon that has happened only once in the available historical records (in 1967).<sup class="reference" id="cite_ref-Argo_3-0"><a href="#cite_note-Argo-3">[3]</a></sup><sup class="reference" id="cite_ref-Cooper_4-0"><a href="#cite_note-Cooper-4">[4]</a></sup><sup class="reference" id="cite_ref-Perry_5-0"><a href="#cite_note-Perry-5">[5]</a></sup><sup class="reference" id="cite_ref-Rosebro_6-0"><a href="#cite_note-Rosebro-6">[6]</a></sup> A strong negative IOD developed in October 2010,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> which, coupled with a strong and concurrent La Niña, caused the <a class="mw-redirect" href="/wiki/2010%E2%80%932011_Queensland_floods" title="2010–2011 Queensland floods">2010–2011 Queensland floods</a> and the <a class="mw-redirect" href="/wiki/2011_Victorian_floods" title="2011 Victorian floods">2011 Victorian floods</a>.
+</p><p>In 2008, <a href="/wiki/Nerilie_Abram" title="Nerilie Abram">Nerilie Abram</a> used coral records from the eastern and western Indian Ocean to construct a coral Dipole Mode Index extending back to 1846 AD.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> This extended perspective on IOD behaviour suggested that positive IOD events increased in strength and frequency during the 20th century.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Effect_on_Australian_droughts">Effect on Australian droughts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit&amp;section=2" title="Edit section: Effect on Australian droughts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A 2009 study by Ummenhofer <i>et al.</i> at the <a href="/wiki/University_of_New_South_Wales" title="University of New South Wales">University of New South Wales</a> (UNSW) <a href="/wiki/Climate_Change_Research_Centre" title="Climate Change Research Centre">Climate Change Research Centre</a> has demonstrated a significant correlation between the IOD and drought in the southern half of Australia, in particular the south-east. Every major southern drought since 1889 has coincided with positive-neutral IOD fluctuations including the <a href="/wiki/Federation_Drought" title="Federation Drought">1895–1902</a>, 1937–1945 and the <a href="/wiki/2000s_Australian_drought" title="2000s Australian drought">1995–2009</a> droughts.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p><p>The research shows that when the IOD is in its negative phase, with cool Indian Ocean water west of Australia and warm <a href="/wiki/Timor_Sea" title="Timor Sea">Timor Sea</a> water to the north, winds are generated that pick up moisture from the ocean and then sweep down towards southern Australia to deliver higher rainfall. In the IOD-positive phase, the pattern of ocean temperatures is reversed, weakening the winds and reducing the amount of moisture picked up and transported across Australia.  The consequence is that rainfall in the south-east is well below average during periods of a positive IOD.
+</p><p>The study also shows that the IOD has a much more significant effect on the rainfall patterns in south-east Australia than the <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation" title="El Niño-Southern Oscillation">El Niño-Southern Oscillation</a> (ENSO) in the Pacific Ocean as already shown in several recent studies.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Effect_on_El_Nino">Effect on El Nino</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit&amp;section=3" title="Edit section: Effect on El Nino">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A 2018 study by Hameed et al. <sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>at the <a href="/wiki/University_of_Aizu" title="University of Aizu">University of Aizu</a> simulated the impact of a positive IOD event on Pacific surface wind and SST variations. They show that IOD induced surface wind anomalies can produce El Nino like SST anomalies, with the IOD's impact on SST being the strongest in the far-eastern Pacific. They further demonstrated that IOD-ENSO interaction is a key for the generation of Super El Ninos<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>.
+</p>
+<ul><li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Subtropical_Indian_Ocean_Dipole" title="Subtropical Indian Ocean Dipole">Subtropical Indian Ocean Dipole</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit&amp;section=5" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation journal">Abram, Nerilie J.;  et al. (2007). "Seasonal characteristics of the Indian Ocean dipole during the Holocene epoch". <i>Nature</i>. <b>445</b> (7125): 299–302. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2007Natur.445..299A" rel="nofollow">2007Natur.445..299A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature05477" rel="nofollow">10.1038/nature05477</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17230187" rel="nofollow">17230187</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Seasonal+characteristics+of+the+Indian+Ocean+dipole+during+the+Holocene+epoch&amp;rft.volume=445&amp;rft.issue=7125&amp;rft.pages=299-302&amp;rft.date=2007&amp;rft_id=info%3Apmid%2F17230187&amp;rft_id=info%3Adoi%2F10.1038%2Fnature05477&amp;rft_id=info%3Abibcode%2F2007Natur.445..299A&amp;rft.aulast=Abram&amp;rft.aufirst=Nerilie+J.&amp;rft.au=Gagan%2C+Michael+K.&amp;rft.au=Liu%2C+Zhengyu&amp;rft.au=Hantoro%2C+Wahyoe+S.&amp;rft.au=McCulloch%2C+Malcolm+T.&amp;rft.au=Suwargadi%2C+Bambang+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndian+Ocean+Dipole"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Ashok, Karumuri; Guan, Zhaoyong; Yamagata, Toshio (2001). "Impact of the Indian Ocean Dipole on the Relationship between the Indian Monsoon Rainfall and ENSO". <i>Geophysical Research Letters</i>. <b>28</b> (23): 4499–4502. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001GeoRL..28.4499A" rel="nofollow">2001GeoRL..28.4499A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2001GL013294" rel="nofollow">10.1029/2001GL013294</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=Impact+of+the+Indian+Ocean+Dipole+on+the+Relationship+between+the+Indian+Monsoon+Rainfall+and+ENSO&amp;rft.volume=28&amp;rft.issue=23&amp;rft.pages=4499-4502&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1029%2F2001GL013294&amp;rft_id=info%3Abibcode%2F2001GeoRL..28.4499A&amp;rft.aulast=Ashok&amp;rft.aufirst=Karumuri&amp;rft.au=Guan%2C+Zhaoyong&amp;rft.au=Yamagata%2C+Toshio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndian+Ocean+Dipole"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Li, Tim;  et al. (2003). "A Theory for the Indian Ocean Dipole–Zonal Mode". <i>Journal of the Atmospheric Sciences</i>. <b>60</b> (17): 2119–35. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003JAtS...60.2119L" rel="nofollow">2003JAtS...60.2119L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0469%282003%29060%3C2119%3AATFTIO%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0469(2003)060&lt;2119:ATFTIO&gt;2.0.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Atmospheric+Sciences&amp;rft.atitle=A+Theory+for+the+Indian+Ocean+Dipole%E2%80%93Zonal+Mode&amp;rft.volume=60&amp;rft.issue=17&amp;rft.pages=2119-35&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0469%282003%29060%3C2119%3AATFTIO%3E2.0.CO%3B2&amp;rft_id=info%3Abibcode%2F2003JAtS...60.2119L&amp;rft.aulast=Li&amp;rft.aufirst=Tim&amp;rft.au=Wang%2C+Bin&amp;rft.au=Chang%2C+C-P.&amp;rft.au=Zhang%2C+Yongsheng&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndian+Ocean+Dipole"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Rao, S. A.;  et al. (2002). "Interannual variability in the subsurface Indian Ocean with special emphasis on the Indian Ocean Dipole". <i>Deep-Sea Research Part II</i>. <b>49</b> (7–8): 1549–72. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2002DSR....49.1549R" rel="nofollow">2002DSR....49.1549R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0967-0645%2801%2900158-8" rel="nofollow">10.1016/S0967-0645(01)00158-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep-Sea+Research+Part+II&amp;rft.atitle=Interannual+variability+in+the+subsurface+Indian+Ocean+with+special+emphasis+on+the+Indian+Ocean+Dipole&amp;rft.volume=49&amp;rft.issue=7%E2%80%938&amp;rft.pages=1549-72&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1016%2FS0967-0645%2801%2900158-8&amp;rft_id=info%3Abibcode%2F2002DSR....49.1549R&amp;rft.aulast=Rao&amp;rft.aufirst=S.+A.&amp;rft.au=Behera%2C+S&amp;rft.au=Masumoto%2C+Y&amp;rft.au=Yamagata%2C+T&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndian+Ocean+Dipole"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFSajiGoswamiVinayachandranYamagata1999">Saji, N. H.;  et al. (1999). "A dipole mode in the tropical Indian Ocean". <i>Nature</i>. <b>401</b> (6751): 360–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F43854" rel="nofollow">10.1038/43854</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16862108" rel="nofollow">16862108</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=A+dipole+mode+in+the+tropical+Indian+Ocean&amp;rft.volume=401&amp;rft.issue=6751&amp;rft.pages=360-3&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1038%2F43854&amp;rft_id=info%3Apmid%2F16862108&amp;rft.aulast=Saji&amp;rft.aufirst=N.+H.&amp;rft.au=Goswami%2C+B.+N.&amp;rft.au=Vinayachandran%2C+P.+N.&amp;rft.au=Yamagata%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndian+Ocean+Dipole"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Behera, S. K.;  et al. (2008). "Unusual IOD event of 2007". <i>Geophysical Research Letters</i>. <b>35</b> (14): L14S11. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2008GeoRL..3514S11B" rel="nofollow">2008GeoRL..3514S11B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2008GL034122" rel="nofollow">10.1029/2008GL034122</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=Unusual+IOD+event+of+2007&amp;rft.volume=35&amp;rft.issue=14&amp;rft.pages=L14S11&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1029%2F2008GL034122&amp;rft_id=info%3Abibcode%2F2008GeoRL..3514S11B&amp;rft.aulast=Behera&amp;rft.aufirst=S.+K.&amp;rft.au=Luo%2C+Jing-Jia&amp;rft.au=Yamagata%2C+Toshio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndian+Ocean+Dipole"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-external_links" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links,_images,_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(June 2016)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.jamstec.go.jp/frsgc/research/d1/iod/" rel="nofollow">IOD home page</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20070311180908/http://www.jamstec.go.jp/frcgc/jp/press/yamagata/011129/eng/index_e.html" rel="nofollow">IOD, monsoons, and ENSO.</a></li>
+<li><a class="external text" href="http://www.science.unsw.edu.au/news/indian-ocean-causes-big-dry-drought-mystery-solved" rel="nofollow">Indian Ocean causes Big Dry: drought mystery solved.</a></li>
+<li><a class="external text" href="http://www.new.dpi.vic.gov.au/agriculture/environment-and-community/climate/understanding-weather-and-climate/climatedogs/indy" rel="nofollow">Animation of Indian Ocean Dipole in Victoria, Australia</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since November 2017">permanent dead link</span></a></i>]</span></sup></li></ul>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a class="mw-selflink selflink">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Climate_oscillations" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Climate_oscillations" title="Template:Climate oscillations"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Climate_oscillations" title="Template talk:Climate oscillations"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Climate_oscillations&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Climate_oscillations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Climate oscillations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/8.2_kiloyear_event" title="8.2 kiloyear event">8.2 kiloyear event</a></li>
+<li><a href="/wiki/Antarctic_Circumpolar_Wave" title="Antarctic Circumpolar Wave">Antarctic Circumpolar Wave</a></li>
+<li><a href="/wiki/Antarctic_oscillation" title="Antarctic oscillation">Antarctic oscillation</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_oscillation" title="Arctic oscillation">Arctic oscillation</a></li>
+<li><a href="/wiki/Atlantic_Equatorial_mode" title="Atlantic Equatorial mode">Atlantic Equatorial mode</a></li>
+<li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">Atlantic multidecadal oscillation</a></li>
+<li><a href="/wiki/Axial_tilt#Earth" title="Axial tilt">Earth's axial tilt</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond event</a></li>
+<li><a href="/wiki/Dansgaard%E2%80%93Oeschger_event" title="Dansgaard–Oeschger event">Dansgaard–Oeschger event</a></li>
+<li><a href="/wiki/Diurnal_cycle" title="Diurnal cycle">Diurnal cycle</a></li>
+<li><a href="/wiki/Diurnal_temperature_variation" title="Diurnal temperature variation">Diurnal temperature variation</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">El Niño–Southern Oscillation</a> (<a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a> - <a href="/wiki/La_Ni%C3%B1a" title="La Niña">La Niña</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Equatorial_Indian_Ocean_oscillation" title="Equatorial Indian Ocean oscillation">Equatorial Indian Ocean oscillation</a></li>
+<li><a href="/wiki/Ice_age" title="Ice age">Glacial cycles</a></li>
+<li><a class="mw-selflink selflink">Indian Ocean Dipole</a></li>
+<li><a href="/wiki/Madden%E2%80%93Julian_oscillation" title="Madden–Julian oscillation">Madden–Julian oscillation</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li>
+<li><a href="/wiki/North_Atlantic_oscillation" title="North Atlantic oscillation">North Atlantic oscillation</a></li>
+<li><a href="/wiki/North_Pacific_Oscillation" title="North Pacific Oscillation">North Pacific Oscillation</a></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">Pacific decadal oscillation</a></li>
+<li><a href="/wiki/Pacific%E2%80%93North_American_teleconnection_pattern" title="Pacific–North American teleconnection pattern">Pacific–North American teleconnection pattern</a></li>
+<li><a href="/wiki/Quasi-biennial_oscillation" title="Quasi-biennial oscillation">Quasi-biennial oscillation</a></li>
+<li><a href="/wiki/Seasonal_lag" title="Seasonal lag">Seasonal lag</a></li>
+<li><a href="/wiki/Season" title="Season">Seasons</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variability</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20181026170423
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.488 seconds
+Real time usage: 0.561 seconds
+Preprocessor visited node count: 1527/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 126306/2097152 bytes
+Template argument size: 680/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49837/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.284/10.000 seconds
+Lua memory usage: 3.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  416.277      1 -total
+ 60.05%  249.994      1 Template:Reflist
+ 54.64%  227.447     15 Template:Cite_journal
+ 13.24%   55.129      1 Template:Global_warming
+ 12.48%   51.956      1 Template:Navbox_with_collapsible_groups
+  8.60%   35.807      1 Template:External_links
+  7.43%   30.924      1 Template:Ambox
+  6.89%   28.694      5 Template:Cite_web
+  5.56%   23.142      7 Template:Navbox
+  4.74%   19.729      1 Template:Harvnb
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8991205-0!canonical and timestamp 20181026170423 and revision id 860392126
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Indian_Ocean_Dipole&amp;oldid=860392126">https://en.wikipedia.org/w/index.php?title=Indian_Ocean_Dipole&amp;oldid=860392126</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_patterns" title="Category:Climate patterns">Climate patterns</a></li><li><a href="/wiki/Category:Tropical_meteorology" title="Category:Tropical meteorology">Tropical meteorology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_June_2016" title="Category:Wikipedia external links cleanup from June 2016">Wikipedia external links cleanup from June 2016</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_June_2016" title="Category:Wikipedia spam cleanup from June 2016">Wikipedia spam cleanup from June 2016</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2017" title="Category:Articles with dead external links from November 2017">Articles with dead external links from November 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Indian+Ocean+Dipole" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Indian+Ocean+Dipole" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Indian_Ocean_Dipole" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Indian_Ocean_Dipole" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Indian_Ocean_Dipole">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Indian_Ocean_Dipole" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Indian_Ocean_Dipole" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Indian_Ocean_Dipole&amp;oldid=860392126" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Indian_Ocean_Dipole&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1574518" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Indian_Ocean_Dipole&amp;id=860392126" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Indian+Ocean+Dipole">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Indian+Ocean+Dipole&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Indian_Ocean_Dipole&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Dipol_de_l%27oce%C3%A0_%C3%8Dndic" hreflang="ca" lang="ca" title="Dipol de l'oceà Índic – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Indischer-Ozean-Dipol" hreflang="de" lang="de" title="Indischer-Ozean-Dipol – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Dipolo_del_oc%C3%A9ano_%C3%8Dndico" hreflang="es" lang="es" title="Dipolo del océano Índico – Spanish">Español</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%B8%EB%8F%84%EC%96%91_%EB%8B%A4%EC%9D%B4%ED%8F%B4" hreflang="ko" lang="ko" title="인도양 다이폴 – Korean">한국어</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%89%E7%8F%BE%E8%B1%A1" hreflang="ja" lang="ja" title="ダイポールモード現象 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Dipolo_do_oceano_%C3%8Dndico" hreflang="pt" lang="pt" title="Dipolo do oceano Índico – Portuguese">Português</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D0%BF%D0%BE%D0%BB%D1%8C_%D0%86%D0%BD%D0%B4%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D1%83" hreflang="uk" lang="uk" title="Диполь Індійського океану – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1574518#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 20 September 2018, at 11:02<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Indian_Ocean_Dipole&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.561","ppvisitednodes":{"value":1527,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":126306,"limit":2097152},"templateargumentsize":{"value":680,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49837,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  416.277      1 -total"," 60.05%  249.994      1 Template:Reflist"," 54.64%  227.447     15 Template:Cite_journal"," 13.24%   55.129      1 Template:Global_warming"," 12.48%   51.956      1 Template:Navbox_with_collapsible_groups","  8.60%   35.807      1 Template:External_links","  7.43%   30.924      1 Template:Ambox","  6.89%   28.694      5 Template:Cite_web","  5.56%   23.142      7 Template:Navbox","  4.74%   19.729      1 Template:Harvnb"]},"scribunto":{"limitreport-timeusage":{"value":"0.284","limit":"10.000"},"limitreport-memusage":{"value":4013348,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20181026170423","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1256"});});</script>
+</body>
+</html>

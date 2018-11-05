@@ -1,0 +1,379 @@
+https://en.wikipedia.org/wiki/Quarry
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quarry - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Quarry","wgTitle":"Quarry","wgCurRevisionId":864799146,"wgRevisionId":864799146,"wgArticleId":204228,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles needing additional references from July 2007","All articles needing additional references","Environmental impact of mining","Quarries","Surface mining"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Quarry","wgRelevantArticleId":204228,"wgRequestId":"W9lOsgpAADsAAHce-coAAABJ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q188040","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Carrara-panorama_delle_cave4.jpg/1200px-Carrara-panorama_delle_cave4.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Quarry" rel="alternate"/>
+<link href="/w/index.php?title=Quarry&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Quarry&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Quarry" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Quarry rootpage-Quarry skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Quarry</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">A place from which a geological material has been excavated from the ground</div>
+<div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a class="mw-redirect mw-disambig" href="/wiki/Query_(disambiguation)" title="Query (disambiguation)">Query</a>. For other uses, see <a class="mw-disambig" href="/wiki/Quarry_(disambiguation)" title="Quarry (disambiguation)">Quarry (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Quarry&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(July 2007)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Carrara-panorama_delle_cave4.jpg"><img alt="" class="thumbimage" data-file-height="2448" data-file-width="3264" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Carrara-panorama_delle_cave4.jpg/220px-Carrara-panorama_delle_cave4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Carrara-panorama_delle_cave4.jpg/330px-Carrara-panorama_delle_cave4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Carrara-panorama_delle_cave4.jpg/440px-Carrara-panorama_delle_cave4.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Carrara-panorama_delle_cave4.jpg" title="Enlarge"></a></div><a href="/wiki/Carrara_marble" title="Carrara marble">Carrara quarry</a> in <a href="/wiki/Tuscany" title="Tuscany">Tuscany</a>, <a href="/wiki/Italy" title="Italy">Italy</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:PortlandQuarry.jpg"><img alt="" class="thumbimage" data-file-height="1200" data-file-width="1600" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PortlandQuarry.jpg/220px-PortlandQuarry.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PortlandQuarry.jpg/330px-PortlandQuarry.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PortlandQuarry.jpg/440px-PortlandQuarry.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:PortlandQuarry.jpg" title="Enlarge"></a></div><a href="/wiki/Portland_stone" title="Portland stone">Portland stone</a> quarry on the <a href="/wiki/Isle_of_Portland" title="Isle of Portland">Isle of Portland</a>, England</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Stone_quarry_adelaide.JPG"><img alt="" class="thumbimage" data-file-height="1704" data-file-width="2272" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stone_quarry_adelaide.JPG/220px-Stone_quarry_adelaide.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stone_quarry_adelaide.JPG/330px-Stone_quarry_adelaide.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stone_quarry_adelaide.JPG/440px-Stone_quarry_adelaide.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Stone_quarry_adelaide.JPG" title="Enlarge"></a></div>An abandoned <a href="/wiki/Construction_aggregate" title="Construction aggregate">construction aggregate</a> quarry near <a href="/wiki/Adelaide" title="Adelaide">Adelaide</a>, <a href="/wiki/South_Australia" title="South Australia">South Australia</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Stone_Quarry_Kerala.JPG"><img alt="" class="thumbimage" data-file-height="1944" data-file-width="2592" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stone_Quarry_Kerala.JPG/220px-Stone_Quarry_Kerala.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stone_Quarry_Kerala.JPG/330px-Stone_Quarry_Kerala.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stone_Quarry_Kerala.JPG/440px-Stone_Quarry_Kerala.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Stone_Quarry_Kerala.JPG" title="Enlarge"></a></div>An abandoned stone quarry in <a href="/wiki/Kerala" title="Kerala">Kerala</a>, <a href="/wiki/India" title="India">India</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:0_Carri%C3%A8res_du_Hainaut_%C3%A0_Soignies_(2).JPG"><img alt="" class="thumbimage" data-file-height="3456" data-file-width="5184" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/0_Carri%C3%A8res_du_Hainaut_%C3%A0_Soignies_%282%29.JPG/220px-0_Carri%C3%A8res_du_Hainaut_%C3%A0_Soignies_%282%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/0_Carri%C3%A8res_du_Hainaut_%C3%A0_Soignies_%282%29.JPG/330px-0_Carri%C3%A8res_du_Hainaut_%C3%A0_Soignies_%282%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/0_Carri%C3%A8res_du_Hainaut_%C3%A0_Soignies_%282%29.JPG/440px-0_Carri%C3%A8res_du_Hainaut_%C3%A0_Soignies_%282%29.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:0_Carri%C3%A8res_du_Hainaut_%C3%A0_Soignies_(2).JPG" title="Enlarge"></a></div>Stone quarry in <a href="/wiki/Soignies" title="Soignies">Soignies</a>, <a href="/wiki/Hainaut_(province)" title="Hainaut (province)">Hainaut (province)</a>, Belgium</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cava_Matera_Inerti.png"><img alt="" class="thumbimage" data-file-height="1335" data-file-width="2000" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Cava_Matera_Inerti.png/220px-Cava_Matera_Inerti.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Cava_Matera_Inerti.png/330px-Cava_Matera_Inerti.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Cava_Matera_Inerti.png/440px-Cava_Matera_Inerti.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Cava_Matera_Inerti.png" title="Enlarge"></a></div><a href="/wiki/Matera" title="Matera">Matera</a> quarry in <a href="/wiki/Basilicata" title="Basilicata">Basilicata</a>, <a href="/wiki/Italy" title="Italy">Italy</a></div></div></div>
+<p>A <b>quarry</b> is a type of <a href="/wiki/Open-pit_mining" title="Open-pit mining">open-pit mine</a> in which <a href="/wiki/Dimension_stone" title="Dimension stone">dimension stone</a>, <a href="/wiki/Rock_(geology)" title="Rock (geology)">rock</a>, <a href="/wiki/Construction_aggregate" title="Construction aggregate">construction aggregate</a>, <a href="/wiki/Riprap" title="Riprap">riprap</a>, <a href="/wiki/Sand" title="Sand">sand</a>, <a href="/wiki/Gravel" title="Gravel">gravel</a>, or <a href="/wiki/Slate" title="Slate">slate</a> is excavated from the ground.
+</p><p>The word <i>quarry</i> can also include the underground quarrying for stone, such as <a href="/wiki/Bath_stone" title="Bath stone">Bath stone</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types_of_rock"><span class="tocnumber">1</span> <span class="toctext">Types of rock</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Slabs"><span class="tocnumber">2</span> <span class="toctext">Slabs</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Problems"><span class="tocnumber">3</span> <span class="toctext">Problems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Quarry_lakes"><span class="tocnumber">3.1</span> <span class="toctext">Quarry lakes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Types_of_rock">Types of rock</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quarry&amp;action=edit&amp;section=1" title="Edit section: Types of rock">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Types of rock extracted from quarries include:
+</p>
+<ul><li><a href="/wiki/Chalk" title="Chalk">Chalk</a></li>
+<li><a class="mw-redirect" href="/wiki/China_clay" title="China clay">China clay</a></li>
+<li><a href="/wiki/Cinder" title="Cinder">Cinder</a></li>
+<li><a href="/wiki/Clay" title="Clay">Clay</a></li>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Construction_aggregate" title="Construction aggregate">Construction aggregate</a> (<a href="/wiki/Sand" title="Sand">sand</a> and <a href="/wiki/Gravel" title="Gravel">gravel</a>)</li>
+<li><a href="/wiki/Coquina" title="Coquina">Coquina</a></li>
+<li><a href="/wiki/Diabase" title="Diabase">Diabase</a></li>
+<li><a href="/wiki/Gabbro" title="Gabbro">Gabbro</a></li>
+<li><a href="/wiki/Granite" title="Granite">Granite</a></li>
+<li><a href="/wiki/Gritstone" title="Gritstone">Gritstone</a></li>
+<li><a href="/wiki/Gypsum" title="Gypsum">Gypsum</a></li>
+<li><a href="/wiki/Limestone" title="Limestone">Limestone</a></li>
+<li><a href="/wiki/Marble" title="Marble">Marble</a></li>
+<li><a href="/wiki/Ore" title="Ore">Ores</a></li>
+<li><a class="mw-redirect" href="/wiki/Phosphate_rock" title="Phosphate rock">Phosphate rock</a></li>
+<li><a href="/wiki/Sandstone" title="Sandstone">Sandstone</a></li>
+<li><a href="/wiki/Slate" title="Slate">Slate</a></li></ul>
+<h2><span class="mw-headline" id="Slabs">Slabs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quarry&amp;action=edit&amp;section=2" title="Edit section: Slabs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many quarry stones such as <a href="/wiki/Marble" title="Marble">marble</a>, <a href="/wiki/Granite" title="Granite">granite</a>, <a href="/wiki/Limestone" title="Limestone">limestone</a>, and <a href="/wiki/Sandstone" title="Sandstone">sandstone</a> are cut into larger slabs and removed from the quarry. The surfaces are polished and finished with varying degrees of sheen or <a href="/wiki/Lustre_(mineralogy)" title="Lustre (mineralogy)">luster</a>. Polished slabs are often cut into <a href="/wiki/Tile" title="Tile">tiles</a> or <a href="/wiki/Countertop" title="Countertop">countertops</a> and installed in many kinds of residential and commercial properties. Natural stone quarried from the earth is often considered a luxury and tends to be a highly durable surface, thus highly desirable.
+</p>
+<h2><span class="mw-headline" id="Problems">Problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quarry&amp;action=edit&amp;section=3" title="Edit section: Problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Carrara_12.JPG"><img alt="" class="thumbimage" data-file-height="1996" data-file-width="2696" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Carrara_12.JPG/220px-Carrara_12.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Carrara_12.JPG/330px-Carrara_12.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Carrara_12.JPG/440px-Carrara_12.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Carrara_12.JPG" title="Enlarge"></a></div>Extraction work in a marble quarry in <a href="/wiki/Carrara" title="Carrara">Carrara</a>, <a href="/wiki/Italy" title="Italy">Italy</a></div></div></div>
+<p>Quarries in level areas with shallow <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> or which are located close to surface water often have <a href="/wiki/Engineering" title="Engineering">engineering</a> problems with <a href="/wiki/Drainage" title="Drainage">drainage</a>. Generally the water is removed by pumping while the quarry is operational, but for high inflows more complex approaches may be required.  For example, the Coquina quarry is excavated to more than 60 feet (18 m) below sea level. To reduce surface leakage, a <a href="/wiki/Moat" title="Moat">moat</a> lined with <a href="/wiki/Clay" title="Clay">clay</a> was constructed around the entire quarry. Ground water entering the pit is pumped up into the moat.  As a quarry becomes deeper, water inflows generally increase and it also becomes more expensive to lift the water higher during removal; this can become the limiting factor in quarry depth.  Some water-filled quarries are worked from beneath the water, by dredging.
+</p><p>Many people and municipalities consider quarries to be eyesores and require various abatement methods to address problems with noise, dust, and appearance.  One of the more effective and famous examples of successful quarry restoration is <a href="/wiki/Butchart_Gardens" title="Butchart Gardens">Butchart Gardens</a> in Victoria, BC, Canada.
+</p><p>A further problem is pollution of roads from trucks leaving the quarries. To control and restrain the pollution of public roads, <a href="/wiki/Wheel_washing_system" title="Wheel washing system">wheel washing systems</a> are becoming more common.
+</p>
+<h3><span class="mw-headline" id="Quarry_lakes">Quarry lakes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quarry&amp;action=edit&amp;section=4" title="Edit section: Quarry lakes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Quarry_lake" title="Quarry lake">Quarry lake</a></div>
+<p>Many quarries naturally fill with water after abandonment and become <a href="/wiki/Lake" title="Lake">lakes</a>.  Others are made into <a href="/wiki/Landfill" title="Landfill">landfills</a>.
+</p><p>Water-filled quarries can be very deep with water, often 50 feet or more, that is often surprisingly cold. Unexpectedly cold water can cause a swimmer's muscles to suddenly weaken; it can also cause <a href="/wiki/Shock_(circulatory)" title="Shock (circulatory)">shock</a> and even <a href="/wiki/Hypothermia" title="Hypothermia">hypothermia</a>.<sup class="reference" id="cite_ref-ACA_1-0"><a href="#cite_note-ACA-1">[1]</a></sup> Though quarry water is often very clear, submerged quarry stones and abandoned equipment make diving into these quarries extremely dangerous. Several people drown in quarries each year.<sup class="reference" id="cite_ref-USDoL_2-0"><a href="#cite_note-USDoL-2">[2]</a></sup><sup class="reference" id="cite_ref-GEO_3-0"><a href="#cite_note-GEO-3">[3]</a></sup> However, many inactive quarries are converted into safe swimming sites.
+</p><p>Such lakes, even lakes within active quarries, can provide important habitat for animals.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<div class="thumb tnone" style="margin-left: auto; margin-right:auto; overflow:hidden; width:auto; max-width:608px;">
+<div class="thumbinner"><div class="noresize overflowbugx" style="overflow:auto;"><a class="image" href="/wiki/File:Rummu_karj%C3%A4%C3%A4r1.jpg" title="An abandoned limestone quarry in Rummu, Estonia."><img alt="" data-file-height="3681" data-file-width="10434" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rummu_karj%C3%A4%C3%A4r1.jpg/600px-Rummu_karj%C3%A4%C3%A4r1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rummu_karj%C3%A4%C3%A4r1.jpg/900px-Rummu_karj%C3%A4%C3%A4r1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rummu_karj%C3%A4%C3%A4r1.jpg/1200px-Rummu_karj%C3%A4%C3%A4r1.jpg 2x" width="600"/></a></div><div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Rummu_karj%C3%A4%C3%A4r1.jpg" title="File:Rummu karjäär1.jpg"> </a></div>An abandoned limestone quarry in Rummu, Estonia.</div>
+</div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quarry&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="354" data-file-width="354" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schlaegel_und_Eisen_nach_DIN_21800.svg/28px-Schlaegel_und_Eisen_nach_DIN_21800.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schlaegel_und_Eisen_nach_DIN_21800.svg/42px-Schlaegel_und_Eisen_nach_DIN_21800.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schlaegel_und_Eisen_nach_DIN_21800.svg/56px-Schlaegel_und_Eisen_nach_DIN_21800.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Mining" title="Portal:Mining">Mining portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Clay_pit" title="Clay pit">Clay pit</a></li>
+<li><a href="/wiki/Coal_mining" title="Coal mining">Coal mining</a></li>
+<li><a class="mw-redirect" href="/wiki/Collecting_fossils" title="Collecting fossils">Collecting fossils</a></li>
+<li><a href="/wiki/Gravel_pit" title="Gravel pit">Gravel pit</a></li>
+<li><a href="/wiki/List_of_minerals" title="List of minerals">List of minerals</a></li>
+<li><a href="/wiki/List_of_rock_types" title="List of rock types">List of rock types</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_stone" title="List of stone">List of stones</a></li>
+<li><a href="/wiki/Miner" title="Miner">Miner</a></li>
+<li><a href="/wiki/Mountaintop_removal_mining" title="Mountaintop removal mining">Mountaintop removal mining</a></li>
+<li><a class="mw-redirect" href="/wiki/Opencast_mining" title="Opencast mining">Opencast mining</a></li>
+<li><a href="/wiki/Quarry_lake" title="Quarry lake">Quarry lake</a></li>
+<li><a href="/wiki/Quarries_(biblical)" title="Quarries (biblical)">Quarries (biblical)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quarry&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Quarry&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Quarries" title="commons:Category:Quarries">Quarries</a></b></i>.</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/quarry" title="wiktionary:Special:Search/quarry">quarry</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<div aria-labelledby="Mining_techniques" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Mining_techniques" title="Template:Mining techniques"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mining_techniques" title="Template talk:Mining techniques"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mining_techniques&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Mining_techniques" style="font-size:114%;margin:0 4em"><a href="/wiki/Mining" title="Mining">Mining</a> techniques</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Surface_mining" title="Surface mining">Surface</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Open-pit_mining" title="Open-pit mining">Open-pit</a></li>
+<li><a class="mw-selflink selflink">Quarrying</a></li>
+<li><a href="/wiki/Surface_mining#Strip_mining" title="Surface mining">Strip</a></li>
+<li><a href="/wiki/Placer_mining" title="Placer mining">Placer</a></li>
+<li><a href="/wiki/Gold_dredge" title="Gold dredge">Dredging</a></li>
+<li><a href="/wiki/Hydraulic_mining" title="Hydraulic mining">Hydraulic mining</a></li>
+<li><a href="/wiki/Mountaintop_removal_mining" title="Mountaintop removal mining">Mountaintop removal</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sub-surface</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Classes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Underground_mining_(hard_rock)" title="Underground mining (hard rock)">Hard rock</a></li>
+<li><a href="/wiki/Underground_mining_(soft_rock)" title="Underground mining (soft rock)">Soft rock</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Directions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Drift_mining" title="Drift mining">Drift</a></li>
+<li><a href="/wiki/Slope_mining" title="Slope mining">Slope</a></li>
+<li><a href="/wiki/Shaft_mining" title="Shaft mining">Shaft</a></li>
+<li><a href="/wiki/Bell_pit" title="Bell pit">Bell pit</a></li>
+<li><a href="/wiki/Borehole_mining" title="Borehole mining">Borehole</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Stoping" title="Stoping">Stoping</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Room_and_pillar" title="Room and pillar">Room and pillar</a></li>
+<li><a href="/wiki/Longwall_mining" title="Longwall mining">Longwall</a></li>
+<li><a href="/wiki/Retreat_mining" title="Retreat mining">Retreat</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Stonemasonry" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Stonemasonry" title="Template:Stonemasonry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Stonemasonry" title="Template talk:Stonemasonry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Stonemasonry&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Stonemasonry" style="font-size:114%;margin:0 4em"><a href="/wiki/Stonemasonry" title="Stonemasonry">Stonemasonry</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ashlar" title="Ashlar">Ashlar</a></li>
+<li><a href="/wiki/Rustication_(architecture)" title="Rustication (architecture)">Rustication</a></li>
+<li><a href="/wiki/Stone_carving" title="Stone carving">Carving</a></li>
+<li><a href="/wiki/Dry_stone" title="Dry stone">Dry stone</a></li>
+<li><a href="/wiki/Letter_cutting" title="Letter cutting">Letter cutting</a></li>
+<li><a href="/wiki/Masonry" title="Masonry">Masonry</a></li>
+<li><a href="/wiki/Monumental_masonry" title="Monumental masonry">Monumental</a></li>
+<li><a href="/wiki/Rubble_masonry" title="Rubble masonry">Rubble</a></li>
+<li><a href="/wiki/Stone_sculpture" title="Stone sculpture">Sculpture</a></li>
+<li><a href="/wiki/Slipform_stonemasonry" title="Slipform stonemasonry">Slipform</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Materials</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_decorative_stones" title="List of decorative stones">List of stone</a></li>
+<li><a href="/wiki/Artificial_stone" title="Artificial stone">Artificial stone</a></li>
+<li><a href="/wiki/Brick" title="Brick">Brick</a></li>
+<li><a href="/wiki/Cast_stone" title="Cast stone">Cast stone</a></li>
+<li><a href="/wiki/List_of_decorative_stones" title="List of decorative stones">Decorative stones</a></li>
+<li><a href="/wiki/Dimension_stone" title="Dimension stone">Dimension stone</a></li>
+<li><a href="/wiki/Fieldstone" title="Fieldstone">Fieldstone</a></li>
+<li><a href="/wiki/Flagstone" title="Flagstone">Flagstone</a></li>
+<li><a href="/wiki/Gabion" title="Gabion">Gabion</a></li>
+<li><a href="/wiki/Granite" title="Granite">Granite</a></li>
+<li><a href="/wiki/Marble" title="Marble">Marble</a></li>
+<li><a href="/wiki/Mortar_(masonry)" title="Mortar (masonry)">Mortar</a></li>
+<li><a href="/wiki/Sandstone" title="Sandstone">Sandstone</a></li>
+<li><a href="/wiki/Slate" title="Slate">Slate</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Tools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angle_grinder" title="Angle grinder">Angle grinder</a></li>
+<li><a href="/wiki/Bush_hammer" title="Bush hammer">Bush hammer</a></li>
+<li><a href="/wiki/Ceramic_tile_cutter" title="Ceramic tile cutter">Ceramic tile cutter</a></li>
+<li><a href="/wiki/Chisel" title="Chisel">Chisel</a></li>
+<li><a href="/wiki/Diamond_blade" title="Diamond blade">Diamond blade</a></li>
+<li><a href="/wiki/Lewis_(lifting_appliance)" title="Lewis (lifting appliance)">Lewis (lifting appliance)</a></li>
+<li><a href="/wiki/Non-explosive_demolition_agents" title="Non-explosive demolition agents">Non-explosive demolition agents</a></li>
+<li><a href="/wiki/Plug_and_feather" title="Plug and feather">Plug and feather</a></li>
+<li><a href="/wiki/Stonemason%27s_hammer" title="Stonemason's hammer">Stonemason's hammer</a></li>
+<li><a href="/wiki/Straightedge" title="Straightedge">Straightedge</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Techniques</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brickwork" title="Brickwork">Brickwork</a></li>
+<li><a href="/wiki/Stone_flaming" title="Stone flaming">Flaming</a></li>
+<li><a href="/wiki/Flushwork" title="Flushwork">Flushwork</a></li>
+<li><a href="/wiki/Knapping" title="Knapping">Knapping</a></li>
+<li><a href="/wiki/Polygonal_masonry" title="Polygonal masonry">Polygonal masonry</a></li>
+<li><a href="/wiki/Repointing" title="Repointing">Repointing</a></li>
+<li><a href="/wiki/Scabbling" title="Scabbling">Scabbling</a></li>
+<li><a href="/wiki/Tuckpointing" title="Tuckpointing">Tuckpointing</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Products</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hardstone_carving" title="Hardstone carving">Hardstone carving</a></li>
+<li><a href="/wiki/Headstone" title="Headstone">Headstone</a> (<a href="/wiki/Footstone" title="Footstone">Footstone</a>)</li>
+<li><a href="/wiki/Mosaic" title="Mosaic">Mosaic</a></li>
+<li><a href="/wiki/Stone_sculpture" title="Stone sculpture">Sculpture</a></li>
+<li><a href="/wiki/Stone_wall" title="Stone wall">Stone wall</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Organizations</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/International_Union_of_Bricklayers_and_Allied_Craftworkers" title="International Union of Bricklayers and Allied Craftworkers">International Union of Bricklayers and Allied Craftworkers</a></li>
+<li><a href="/wiki/Master_of_Work_to_the_Crown_of_Scotland" title="Master of Work to the Crown of Scotland">Master of Work to the Crown of Scotland</a></li>
+<li><a href="/wiki/Mason_Contractors_Association_of_America" title="Mason Contractors Association of America">Mason Contractors Association of America</a></li>
+<li><a href="/wiki/Operative_Plasterers%27_and_Cement_Masons%27_International_Association" title="Operative Plasterers' and Cement Masons' International Association">Operative Plasterers' and Cement Masons' International Association</a></li>
+<li><a href="/wiki/Worshipful_Company_of_Masons" title="Worshipful Company of Masons">Worshipful Company of Masons</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20181031052629
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.288 seconds
+Real time usage: 0.400 seconds
+Preprocessor visited node count: 826/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40353/2097152 bytes
+Template argument size: 942/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10015/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.144/10.000 seconds
+Lua memory usage: 5.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  304.996      1 -total
+ 40.49%  123.480      1 Template:Reflist
+ 26.65%   81.295      3 Template:Cite_web
+ 10.75%   32.782      1 Template:Convert
+ 10.10%   30.795      1 Template:Short_description
+ 10.09%   30.774      1 Template:Refimprove
+  9.40%   28.682      1 Template:Pagetype
+  9.31%   28.407      1 Template:Cite_journal
+  7.80%   23.788      1 Template:Ambox
+  6.18%   18.857      3 Template:Navbox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:204228-0!canonical and timestamp 20181031052628 and revision id 864799146
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Quarry&amp;oldid=864799146">https://en.wikipedia.org/w/index.php?title=Quarry&amp;oldid=864799146</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_impact_of_mining" title="Category:Environmental impact of mining">Environmental impact of mining</a></li><li><a href="/wiki/Category:Quarries" title="Category:Quarries">Quarries</a></li><li><a href="/wiki/Category:Surface_mining" title="Category:Surface mining">Surface mining</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2007" title="Category:Articles needing additional references from July 2007">Articles needing additional references from July 2007</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Quarry" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Quarry" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Quarry" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Quarry" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Quarry">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Quarry&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Quarry&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Quarry" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Quarry" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Quarry&amp;oldid=864799146" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Quarry&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q188040" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Quarry&amp;id=864799146" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Quarry">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Quarry&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Quarry&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Quarries" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D9%84%D8%B9_(%D8%B7%D8%A8%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9)" hreflang="ar" lang="ar" title="مقلع (طبوغرافية) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Pedrera" hreflang="an" lang="an" title="Pedrera – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Cantera" hreflang="ast" lang="ast" title="Cantera – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%B5%D1%80%D0%B0_(%D0%BC%D0%B8%D0%BD%D0%B0)" hreflang="bg" lang="bg" title="Кариера (мина) – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Kamenolom" hreflang="bs" lang="bs" title="Kamenolom – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pedrera" hreflang="ca" lang="ca" title="Pedrera – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Lom" hreflang="cs" lang="cs" title="Lom – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Chwarel" hreflang="cy" lang="cy" title="Chwarel – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Stenbrud" hreflang="da" lang="da" title="Stenbrud – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Steinbruch" hreflang="de" lang="de" title="Steinbruch – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kivimurd" hreflang="et" lang="et" title="Kivimurd – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9B%CE%B1%CF%84%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF" hreflang="el" lang="el" title="Λατομείο – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Cantera" hreflang="es" lang="es" title="Cantera – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/%C5%9Ctonminejo" hreflang="eo" lang="eo" title="Ŝtonminejo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Harrobi" hreflang="eu" lang="eu" title="Harrobi – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D8%AF%D9%86_%D8%B3%D9%86%DA%AF" hreflang="fa" lang="fa" title="معدن سنگ – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Carri%C3%A8re_(g%C3%A9ologie)" hreflang="fr" lang="fr" title="Carrière (géologie) – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Cair%C3%A9al" hreflang="ga" lang="ga" title="Cairéal – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Gairbheal" hreflang="gd" lang="gd" title="Gairbheal – Scottish Gaelic">Gàidhlig</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B1%84%EC%84%9D%EC%9E%A5" hreflang="ko" lang="ko" title="채석장 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%A3_%E0%A4%96%E0%A4%BE%E0%A4%A8" hreflang="hi" lang="hi" title="पाषाण खान – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kamenolom" hreflang="hr" lang="hr" title="Kamenolom – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-bpy"><a class="interlanguage-link-target" href="https://bpy.wikipedia.org/wiki/%E0%A6%AA%E0%A7%87%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%87%E0%A6%B0%E0%A6%BE" hreflang="bpy" lang="bpy" title="পেড্রেইরা – Bishnupriya">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Galian" hreflang="id" lang="id" title="Galian – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Cava_(miniera)" hreflang="it" lang="it" title="Cava (miniera) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%A6%D7%91%D7%94" hreflang="he" lang="he" title="מחצבה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%B0%E0%B3%86_%E0%B2%85%E0%B2%A5%E0%B2%B5%E0%B2%BE_%E0%B2%95%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B3%81%E0%B2%97%E0%B2%A3%E0%B2%BF" hreflang="kn" lang="kn" title="ಅರೆ ಅಥವಾ ಕಲ್ಲುಗಣಿ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A0%E1%83%98%E1%83%94%E1%83%A0%E1%83%98" hreflang="ka" lang="ka" title="კარიერი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Karjeras" hreflang="lt" lang="lt" title="Karjeras – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BE%D0%BB%D0%BE%D0%BC" hreflang="mk" lang="mk" title="Каменолом – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mt"><a class="interlanguage-link-target" href="https://mt.wikipedia.org/wiki/Barriera" hreflang="mt" lang="mt" title="Barriera – Maltese">Malti</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Kuari" hreflang="ms" lang="ms" title="Kuari – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Groeve" hreflang="nl" lang="nl" title="Groeve – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%8E%A1%E7%9F%B3%E5%A0%B4" hreflang="ja" lang="ja" title="採石場 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Steinbrudd" hreflang="no" lang="no" title="Steinbrudd – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Steinbrot" hreflang="nn" lang="nn" title="Steinbrot – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Peiri%C3%A8ra" hreflang="oc" lang="oc" title="Peirièra – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pfl"><a class="interlanguage-link-target" href="https://pfl.wikipedia.org/wiki/Steinbruch" hreflang="pfl" lang="pfl" title="Steinbruch – Palatine German">Pälzisch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kamienio%C5%82om" hreflang="pl" lang="pl" title="Kamieniołom – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pedreira" hreflang="pt" lang="pt" title="Pedreira – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Carier%C4%83_de_piatr%C4%83" hreflang="ro" lang="ro" title="Carieră de piatră – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%8C%D0%B5%D1%80" hreflang="ru" lang="ru" title="Карьер – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Quarrel_(minin)" hreflang="sco" lang="sco" title="Quarrel (minin) – Scots">Scots</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Pirrera_(scavu)" hreflang="scn" lang="scn" title="Pirrera (scavu) – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Quarry" hreflang="en-simple" lang="en-simple" title="Quarry – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Lom_(%C5%A5a%C5%BEba)" hreflang="sk" lang="sk" title="Lom (ťažba) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kamnolom" hreflang="sl" lang="sl" title="Kamnolom – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BE%D0%BB%D0%BE%D0%BC" hreflang="sr" lang="sr" title="Каменолом – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Kamenolom" hreflang="sh" lang="sh" title="Kamenolom – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Louhinta" hreflang="fi" lang="fi" title="Louhinta – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Stenbrott" hreflang="sv" lang="sv" title="Stenbrott – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B1%8D%E0%B0%B5%E0%B0%BE%E0%B0%B0%E0%B1%80" hreflang="te" lang="te" title="క్వారీ – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Ta%C5%9F_oca%C4%9F%C4%B1" hreflang="tr" lang="tr" title="Taş ocağı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%27%D1%94%D1%80" hreflang="uk" lang="uk" title="Кар'єр – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/M%E1%BB%8F_%C4%91%C3%A1" hreflang="vi" lang="vi" title="Mỏ đá – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/C%C3%A5rire" hreflang="wa" lang="wa" title="Cårire – Walloon">Walon</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%9F%B3%E5%A1%98" hreflang="yue" lang="yue" title="石塘 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B2%99%E7%9F%B3%E5%9C%BA" hreflang="zh" lang="zh" title="沙石场 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q188040#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 October 2018, at 14:55<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Quarry&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.400","ppvisitednodes":{"value":826,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40353,"limit":2097152},"templateargumentsize":{"value":942,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10015,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  304.996      1 -total"," 40.49%  123.480      1 Template:Reflist"," 26.65%   81.295      3 Template:Cite_web"," 10.75%   32.782      1 Template:Convert"," 10.10%   30.795      1 Template:Short_description"," 10.09%   30.774      1 Template:Refimprove","  9.40%   28.682      1 Template:Pagetype","  9.31%   28.407      1 Template:Cite_journal","  7.80%   23.788      1 Template:Ambox","  6.18%   18.857      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.144","limit":"10.000"},"limitreport-memusage":{"value":5503618,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20181031052629","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1264"});});</script>
+</body>
+</html>

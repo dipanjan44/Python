@@ -1,0 +1,650 @@
+https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Simplified molecular-input line-entry system - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Simplified_molecular-input_line-entry_system","wgTitle":"Simplified molecular-input line-entry system","wgCurRevisionId":866579355,"wgRevisionId":866579355,"wgArticleId":28569,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia external links cleanup from September 2012","Wikipedia spam cleanup from September 2012","Chemical nomenclature","Encodings","Chemical file formats"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Simplified_molecular-input_line-entry_system","wgRelevantArticleId":28569,"wgRequestId":"W9lIaApAICwAAGAZad8AAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q466769","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/0/00/SMILES.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system" rel="alternate"/>
+<link href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Simplified_molecular-input_line-entry_system rootpage-Simplified_molecular-input_line-entry_system skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Simplified molecular-input line-entry system</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"SMILES" redirects here. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Smiles_(disambiguation)" title="Smiles (disambiguation)">Smiles (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em"><caption style="font-size:130%; padding-bottom:0.15em;">SMILES</caption><tbody><tr><th scope="row" style="padding:0.2em 0;line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a></th><td style="line-height:1.35em;">
+<code><tt>.smi</tt></code></td></tr><tr><th scope="row" style="padding:0.2em 0;line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Media_type" title="Media type">Internet media type</a></th><td style="line-height:1.35em;">
+<code>chemical/x-daylight-smiles</code></td></tr><tr><th scope="row" style="padding:0.2em 0;line-height:1.2em; padding-right:0.65em;">Type of format</th><td style="line-height:1.35em;">
+<a href="/wiki/Chemical_file_format" title="Chemical file format">chemical file format</a></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:SMILES.png"><img alt="" class="thumbimage" data-file-height="898" data-file-width="625" height="431" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/SMILES.png/300px-SMILES.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/SMILES.png/450px-SMILES.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/SMILES.png/600px-SMILES.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:SMILES.png" title="Enlarge"></a></div>Generation of SMILES: Break cycles, then write as branches off a main backbone. (Ciprofloxacin)</div></div></div>
+<p>The <b>simplified molecular-input line-entry system</b> (<b>SMILES</b>) is a specification in form of a <a href="/wiki/Line_notation" title="Line notation">line notation</a> for describing the structure of <a href="/wiki/Chemical_species" title="Chemical species">chemical species</a> using short <a href="/wiki/ASCII" title="ASCII">ASCII</a> <a href="/wiki/String_(computer_science)" title="String (computer science)">strings</a>. SMILES strings can be imported by most <a href="/wiki/Molecule_editor" title="Molecule editor">molecule editors</a> for conversion back into <a class="mw-redirect" href="/wiki/Two-dimensional" title="Two-dimensional">two-dimensional</a> drawings or <a href="/wiki/Dimension" title="Dimension">three-dimensional</a> models of the molecules.
+</p><p>The original SMILES specification was initiated in the 1980s. It has since been modified and extended. In 2007, an <a href="/wiki/Open_standard" title="Open standard">open standard</a> called OpenSMILES was developed in the open-source chemistry community.  Other linear notations include the <a href="/wiki/Wiswesser_line_notation" title="Wiswesser line notation">Wiswesser line notation</a> (WLN), <a class="new" href="/w/index.php?title=ROSDAL&amp;action=edit&amp;redlink=1" title="ROSDAL (page does not exist)">ROSDAL</a>, and <a class="mw-redirect" href="/wiki/SYBYL_Line_Notation" title="SYBYL Line Notation">SYBYL Line Notation</a> (SLN).
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Terminology"><span class="tocnumber">2</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Graph-based_definition"><span class="tocnumber">3</span> <span class="toctext">Graph-based definition</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Description"><span class="tocnumber">4</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Atoms"><span class="tocnumber">4.1</span> <span class="toctext">Atoms</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Bonds"><span class="tocnumber">4.2</span> <span class="toctext">Bonds</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Rings"><span class="tocnumber">4.3</span> <span class="toctext">Rings</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Aromaticity"><span class="tocnumber">4.4</span> <span class="toctext">Aromaticity</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Branching"><span class="tocnumber">4.5</span> <span class="toctext">Branching</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Stereochemistry"><span class="tocnumber">4.6</span> <span class="toctext">Stereochemistry</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Isotopes"><span class="tocnumber">4.7</span> <span class="toctext">Isotopes</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Examples"><span class="tocnumber">4.8</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Other_examples_of_SMILES"><span class="tocnumber">4.9</span> <span class="toctext">Other examples of SMILES</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Extensions"><span class="tocnumber">5</span> <span class="toctext">Extensions</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Conversion"><span class="tocnumber">6</span> <span class="toctext">Conversion</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#SMILES_related_software_utilities"><span class="tocnumber">10.1</span> <span class="toctext">SMILES related software utilities</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The original SMILES specification was initiated by David Weininger at the USEPA Mid-Continent Ecology Division Laboratory in <a href="/wiki/Duluth,_Minnesota" title="Duluth, Minnesota">Duluth</a> in the 1980s.<sup class="reference" id="cite_ref-SMILES1_1-0"><a href="#cite_note-SMILES1-1">[1]</a></sup><sup class="reference" id="cite_ref-SMILES2_2-0"><a href="#cite_note-SMILES2-2">[2]</a></sup><sup class="reference" id="cite_ref-SMILES3_3-0"><a href="#cite_note-SMILES3-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Acknowledged for their parts in the early development were "Gilman Veith and Rose Russo (USEPA) and Albert Leo and <a href="/wiki/Corwin_Hansch" title="Corwin Hansch">Corwin Hansch</a> (Pomona College) for supporting the work, and Arthur Weininger (Pomona; Daylight CIS) and Jeremy Scofield (Cedar River Software, Renton, WA) for assistance in programming the system."<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The <a class="mw-redirect" href="/wiki/Environmental_Protection_Agency" title="Environmental Protection Agency">Environmental Protection Agency</a> funded the initial project to develop SMILES.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-SMILES_Tutorial:_What_is_SMILES?_7-0"><a href="#cite_note-SMILES_Tutorial:_What_is_SMILES?-7">[7]</a></sup>
+</p><p>It has since been modified and extended by others, most notably by <a class="new" href="/w/index.php?title=Daylight_Chemical_Information_Systems&amp;action=edit&amp;redlink=1" title="Daylight Chemical Information Systems (page does not exist)">Daylight Chemical Information Systems</a>. In 2007, an <a href="/wiki/Open_standard" title="Open standard">open standard</a> called "OpenSMILES" was developed by the <a href="/wiki/Blue_Obelisk" title="Blue Obelisk">Blue Obelisk</a> open-source chemistry community.  Other 'linear' notations include the <a class="mw-redirect" href="/wiki/Wiswesser_Line_Notation" title="Wiswesser Line Notation">Wiswesser Line Notation</a> (WLN), <a class="new" href="/w/index.php?title=ROSDAL&amp;action=edit&amp;redlink=1" title="ROSDAL (page does not exist)">ROSDAL</a> and <a class="mw-redirect" href="/wiki/SYBYL_Line_Notation" title="SYBYL Line Notation">SLN</a> (Tripos Inc).
+</p><p>In July 2006, the <a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a> introduced the <a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a> as a standard for formula representation.  SMILES is generally considered to have the advantage of being slightly more human-readable than InChI; it also has a wide base of software support with extensive theoretical (e.g., <a href="/wiki/Graph_theory" title="Graph theory">graph theory</a>) backing.
+</p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=2" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term SMILES refers to a line notation for encoding molecular structures and specific instances should strictly be called SMILES strings. However, the term SMILES is also commonly used to refer to both a single SMILES string and a number of SMILES strings; the exact meaning is usually apparent from the context. The terms "canonical" and "isomeric" can lead to some confusion when applied to SMILES.  The terms describe different attributes of SMILES strings and are not mutually exclusive.
+</p><p>Typically, a number of equally valid SMILES strings can be written for a molecule.  For example, <code>CCO</code>, <code>OCC</code> and <code>C(O)C</code> all specify the structure of <a href="/wiki/Ethanol" title="Ethanol">ethanol</a>. Algorithms have been developed to generate the same SMILES string for a given molecule; of the many possible strings, these algorithms choose only one of them.  This SMILES is unique for each structure, although dependent on the <a href="/wiki/Canonicalization" title="Canonicalization">canonicalization</a> algorithm used to generate it, and is termed the canonical SMILES.  These algorithms first convert the SMILES to an internal representation of the molecular structure; an algorithm then examines that structure and produces a unique SMILES string.  Various algorithms for generating canonical SMILES have been developed and include those by <a class="new" href="/w/index.php?title=Daylight_Chemical_Information_Systems&amp;action=edit&amp;redlink=1" title="Daylight Chemical Information Systems (page does not exist)">Daylight Chemical Information Systems</a>, <a href="/wiki/OpenEye_Scientific_Software" title="OpenEye Scientific Software">OpenEye Scientific Software</a>, <a class="new" href="/w/index.php?title=MEDIT&amp;action=edit&amp;redlink=1" title="MEDIT (page does not exist)">MEDIT</a>, <a href="/wiki/Chemical_Computing_Group" title="Chemical Computing Group">Chemical Computing Group</a>, <a class="new" href="/w/index.php?title=MolSoft_LLC&amp;action=edit&amp;redlink=1" title="MolSoft LLC (page does not exist)">MolSoft LLC</a>, and the <a href="/wiki/Chemistry_Development_Kit" title="Chemistry Development Kit">Chemistry Development Kit</a>. A common application of canonical SMILES is indexing and ensuring uniqueness of molecules in a <a href="/wiki/Chemical_database" title="Chemical database">database</a>.
+</p><p>The original paper that described the CANGEN<sup class="reference" id="cite_ref-SMILES2_2-1"><a href="#cite_note-SMILES2-2">[2]</a></sup> algorithm claimed to generate unique SMILES strings for graphs representing molecules, but the algorithm fails for a number of simple cases (e.g. <a href="/wiki/Cuneane" title="Cuneane">cuneane</a>, 1,2-dicyclopropylethane) and cannot be considered a correct method for representing a graph canonically.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>  There is currently no systematic comparison across commercial software to test if such flaws exist in those packages.
+</p><p>SMILES notation allows the specification of <a href="/wiki/Molecular_configuration" title="Molecular configuration">configuration at tetrahedral centers</a>, and double bond geometry.  These are structural features that cannot be specified by connectivity alone and SMILES which encode this information are termed isomeric SMILES.  A notable feature of these rules is that they allow rigorous partial specification of chirality.  The term isomeric SMILES is also applied to SMILES in which <a href="/wiki/Isotope" title="Isotope">isotopes</a> are specified.
+</p>
+<h2><span class="mw-headline" id="Graph-based_definition">Graph-based definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=3" title="Edit section: Graph-based definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In terms of a graph-based computational procedure, SMILES is a string obtained by printing the symbol nodes encountered in a <a href="/wiki/Depth-first_search" title="Depth-first search">depth-first</a> <a href="/wiki/Tree_traversal" title="Tree traversal">tree traversal</a> of a <a class="mw-redirect" href="/wiki/Chemical_graph" title="Chemical graph">chemical graph</a>. The chemical graph is first trimmed to remove hydrogen atoms and cycles are broken to turn it into a <a class="mw-redirect" href="/wiki/Spanning_tree_(mathematics)" title="Spanning tree (mathematics)">spanning tree</a>. Where cycles have been broken, numeric suffix labels are included to indicate the connected nodes. Parentheses are used to indicate points of branching on the tree.
+</p><p>The resultant SMILES form depends on the choices:
+</p>
+<ul><li>of the bonds chosen to break cycles,</li>
+<li>of the starting atom used for the depth-first traversal, and</li>
+<li>of the order in which branches are listed when encountered.</li></ul>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=4" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Atoms">Atoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=5" title="Edit section: Atoms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Atom" title="Atom">Atoms</a> are represented by the standard abbreviation of the <a href="/wiki/Chemical_element" title="Chemical element">chemical elements</a>, in square brackets, such as [Au] for <a href="/wiki/Gold" title="Gold">gold</a>. Brackets may be omitted in the common case of atoms which:
+</p>
+<ol><li>are in the "organic subset" of B, C, N, O, P, S, F, Cl, Br, or I, and</li>
+<li>have no formal charge, and</li>
+<li>have the number of hydrogens attached implied by the SMILES valence model (typically their normal valence, but for N and P it is 3 or 5, and for S it is 2, 4 or 6), and</li>
+<li>are the normal <a href="/wiki/Isotope" title="Isotope">isotopes</a>, and</li>
+<li>are not chiral centers.</li></ol>
+<p>All other elements must be enclosed in brackets, and have charges and hydrogens shown explicitly.  For instance, the SMILES for <a href="/wiki/Water" title="Water">water</a> may be written as either O or [OH2].  Hydrogen may also be written as a separate atom; water may also be written as [H]O[H].
+</p><p>When brackets are used, the symbol H is added if the atom in brackets is bonded to one or more hydrogen, followed by the number of hydrogen atoms if greater than 1, then by the sign '+' for a positive charge or by '-' for a negative charge.   For example, [NH4+] for <a href="/wiki/Ammonium" title="Ammonium">ammonium</a>.  If there is more than one charge, it is normally written as digit; however, it is also possible to repeat the sign as many times as the ion has charges: one may write either [Ti+4] or [Ti++++] for <a href="/wiki/Titanium" title="Titanium">Titanium</a> IV (Ti<sup>4+</sup>). Thus, the <a href="/wiki/Hydroxide" title="Hydroxide">hydroxide</a> <a class="mw-redirect" href="/wiki/Anion" title="Anion">anion</a> is represented by [OH-], the <a href="/wiki/Hydronium" title="Hydronium">hydronium</a> cation is [OH3+] and the <a href="/wiki/Cobalt" title="Cobalt">cobalt</a> III <a class="mw-redirect" href="/wiki/Cation" title="Cation">cation</a> (Co<sup>3+</sup>) is either [Co+3] or [Co+++].
+</p>
+<h3><span class="mw-headline" id="Bonds">Bonds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=6" title="Edit section: Bonds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A bond is represented using one of the symbols '.' '-' '=' '#' '$' ':' '/' or '\'.
+</p><p>Bonds between <a href="/wiki/Aliphatic_compound" title="Aliphatic compound">aliphatic</a> atoms are assumed to be single unless specified otherwise and are implied by adjacency in the SMILES string. Although single bonds may be written as "-", this is usually omitted.  For example, the SMILES for <a href="/wiki/Ethanol" title="Ethanol">ethanol</a> may be written as C-C-O, CC-O or C-CO, but is usually written CCO.
+</p><p>Double, triple, and quadruple <a href="/wiki/Chemical_bond" title="Chemical bond">bonds</a> are represented by the symbols '=', '#', and '$' respectively as illustrated by the SMILES O=C=O (<a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>), C#N (<a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">hydrogen cyanide</a>) and [Ga-]$[As+] (<a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a>).
+</p><p>An additional type of bond is a "non-bond", indicated with ".", to indicate that two parts are not bonded together.  For example, aqueous <a href="/wiki/Sodium_chloride" title="Sodium chloride">sodium chloride</a> may be written as [Na+].[Cl-] to show the dissociation.
+</p><p>An aromatic "one and a half" bond may be indicated with ':'; see <a href="#Aromaticity">§ Aromaticity</a> below.
+</p><p>Single bonds adjacent to double bonds may be represented using '/' or '\' to indicate stereochemical configuration; see <a href="#Stereochemistry">§ Stereochemistry</a> below.
+</p>
+<h3><span class="mw-headline" id="Rings">Rings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=7" title="Edit section: Rings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ring structures are written by breaking each ring at an arbitrary point (although some choices will lead to a more legible SMILES than others) to make an <a href="/wiki/Open-chain_compound" title="Open-chain compound">acyclic</a> structure and adding numerical ring closure labels to show connectivity between non-adjacent atoms.
+</p><p>For example, <a href="/wiki/Cyclohexane" title="Cyclohexane">cyclohexane</a> and <a class="mw-redirect" href="/wiki/Dioxane" title="Dioxane">dioxane</a> may be written as C1CCCCC1 and O1CCOCC1 respectively.  For a second ring, the label will be 2.  For example, <a href="/wiki/Decalin" title="Decalin">decalin</a> (decahydronaphthalene) may be written as C1CCCC2C1CCCC2.
+</p><p>SMILES does not require that ring numbers be used in any particular order, and permits ring number zero, although this is rarely used.  Also, it is permitted to re-use ring numbers after the first ring has closed, although this usually makes formulae harder to read.  For example, <a href="/wiki/Bicyclohexyl" title="Bicyclohexyl">bicyclohexyl</a> is usually written as C1CCCCC1C2CCCCC2, but it may also be written as C0CCCCC0C0CCCCC0.
+</p><p>Multiple digits after a single atom indicate multiple ring-closing bonds.  For example, an alternative SMILES notation for decalin is C1CCCC2CCCCC12, where the final carbon participates in both ring-closing bonds 1 and 2.  If two-digit ring numbers are required, the label is preceded by %, so "C%12" is a single ring-closing bond, of ring 12.
+</p><p>Ring-closing digits may be preceded by a bond type.  For example, <a href="/wiki/Cyclopropene" title="Cyclopropene">cyclopropene</a> is usually written C1=CC1, but if the double bond is chosen as the ring-closing bond, it may be written as C=1CC1, C1CC=1, or C=1CC=1.  (The first form is preferred.)  C=1CC-1 is illegal, as it explicitly specifies conflicting types for the ring-closing bond.
+</p><p>Ring-closing bonds may not be used to denote multiple bonds.  For example, C1C1 is not a valid alternative to C=C for <a href="/wiki/Ethylene" title="Ethylene">ethylene</a>.  However, they may be used with non-bonds; C1.C2.C12 is a peculiar but legal alternative way to write <a href="/wiki/Propane" title="Propane">propane</a>, more commonly written CCC.
+</p><p>Choosing a ring-break point adjacent to attached groups can lead to a simpler SMILES form by avoiding branches.  For example, <a href="/wiki/Cyclohexane-1,2-diol" title="Cyclohexane-1,2-diol">cyclohexane-1,2-diol</a> is most simply written as OC1CCCCC1O; choosing a different ring-break location produces a branched structure that requires parentheses to write.
+</p>
+<h3><span class="mw-headline" id="Aromaticity">Aromaticity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=8" title="Edit section: Aromaticity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Aromaticity" title="Aromaticity">Aromatic</a> rings such as <a href="/wiki/Benzene" title="Benzene">benzene</a> may be written in one of three forms:
+</p>
+<ol><li>In Kekulé form with alternating single and double bonds, e.g. C1=CC=CC=C1,</li>
+<li>Using the aromatic bond symbol ":", e.g. C:1:C:C:C:C:C1, or</li>
+<li>Most commonly, by writing the constituent B, C, N, O, P and S atoms in lower-case forms 'b', 'c', 'n', 'o', 'p' and 's', respectively.</li></ol>
+<p>In the latter case, bonds between two aromatic atoms are assumed (if not explicitly shown) to be aromatic bonds.  Thus, <a href="/wiki/Benzene" title="Benzene">benzene</a>, <a href="/wiki/Pyridine" title="Pyridine">pyridine</a> and <a href="/wiki/Furan" title="Furan">furan</a> can be represented respectively by the SMILES c1ccccc1, n1ccccc1 and o1cccc1.
+</p><p>Aromatic nitrogen bonded to hydrogen, as found in <a href="/wiki/Pyrrole" title="Pyrrole">pyrrole</a> must be represented as [nH] and <a href="/wiki/Imidazole" title="Imidazole">imidazole</a> is written in SMILES notation as n1c[nH]cc1.
+</p><p>When aromatic atoms are singly bonded to each other, such as in <a href="/wiki/Biphenyl" title="Biphenyl">biphenyl</a>, a single bond must be shown explicitly: c1ccccc1-c2ccccc2.  This is one of the few cases where the single bond symbol "-" is required.  (In fact, most SMILES software can correctly infer that the bond between the two rings cannot be aromatic and so will accept the form "c1ccccc1c2ccccc2".)
+</p><p>The Daylight and OpenEye algorithms for generating canonical SMILES differ in their treatment of aromaticity.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:3-cyanoanisole_SMILES.svg"><img alt="" class="thumbimage" data-file-height="171" data-file-width="625" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/3-cyanoanisole_SMILES.svg/350px-3-cyanoanisole_SMILES.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/3-cyanoanisole_SMILES.svg/525px-3-cyanoanisole_SMILES.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/3-cyanoanisole_SMILES.svg/700px-3-cyanoanisole_SMILES.svg.png 2x" width="350"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:3-cyanoanisole_SMILES.svg" title="Enlarge"></a></div>Visualization of 3-cyanoanisole as COc(c1)cccc1C#N.</div></div></div>
+<h3><span class="mw-headline" id="Branching">Branching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=9" title="Edit section: Branching">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Branches are described with parentheses, as in CCC(=O)O for <a href="/wiki/Propionic_acid" title="Propionic acid">propionic acid</a> and FC(F)F for <a href="/wiki/Fluoroform" title="Fluoroform">fluoroform</a>.  The first atom within the parentheses, and the first atom after the parenthesized group, are both bonded to the same branch point atom.
+</p><p>Substituted rings can be written with the branching point in the ring as illustrated by the SMILES COc(c1)cccc1C#N (<a class="external text" href="https://web.archive.org/web/20130522091354/http://www.daylight.com/daycgi/depict?434f6328633129636363633143234e" rel="nofollow">see depiction</a>) and COc(cc1)ccc1C#N (<a class="external text" href="https://web.archive.org/web/20130522074308/http://www.daylight.com/daycgi/depict?434f6328636331296363633143234e" rel="nofollow">see depiction</a>) which encode the 3 and 4-cyanoanisole isomers.  Writing SMILES for substituted rings in this way can make them more human-readable.
+</p><p>Branches may be written in any order.  For example, <a href="/wiki/Bromochlorodifluoromethane" title="Bromochlorodifluoromethane">bromochlorodifluoromethane</a> may be written as FC(Br)(Cl)F, BrC(F)(F)Cl, C(F)(Cl)(F)Br, or the like.  Generally, a SMILES form is easiest to read if the simpler branch comes first, with the final, unparenthesized portion being the most complex.  The only caveats to such rearrangements are:
+</p>
+<ul><li>If ring numbers are reused, they are paired according to their order of appearance in the SMILES string.  Some adjustments may be required to preserve the correct pairing.</li>
+<li>If stereochemistry is specified, adjustments must be made; see <a href="/wiki/Stereochemistry#Notes" title="Stereochemistry">Stereochemistry § Notes</a> below.</li></ul>
+<p>The one form of branch which does <i>not</i> require parentheses are ring-closing bonds.  Choosing ring-closing bonds appropriately can reduce the number of parentheses required.  For example, <a href="/wiki/Toluene" title="Toluene">toluene</a> is normally written as Cc1ccccc1 or c1ccccc1C, avoiding the parentheses required if written as c1ccc(C)ccc1 or c1ccc(ccc1)C.
+</p>
+<h3><span class="mw-headline" id="Stereochemistry">Stereochemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=10" title="Edit section: Stereochemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:112px;"><a class="image" href="/wiki/File:Trans-1,2-difluoroethylene.svg"><img alt="" class="thumbimage" data-file-height="180" data-file-width="180" height="110" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trans-1%2C2-difluoroethylene.svg/110px-Trans-1%2C2-difluoroethylene.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trans-1%2C2-difluoroethylene.svg/165px-Trans-1%2C2-difluoroethylene.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trans-1%2C2-difluoroethylene.svg/220px-Trans-1%2C2-difluoroethylene.svg.png 2x" width="110"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Trans-1,2-difluoroethylene.svg" title="Enlarge"></a></div><i>trans</i>-1,2-difluoroethylene</div></div></div>
+<p>SMILES permits, but does not require, specification of <a class="mw-redirect" href="/wiki/Stereoisomer" title="Stereoisomer">stereoisomers</a>.
+</p><p>Configuration around double bonds is specified using the characters "/" and "\" to show directional single bonds adjacent to a double bond. For example, F/C=C/F (<a class="external text" href="https://web.archive.org/web/20130522072357/http://www.daylight.com/daycgi/depict?462f433d432f46" rel="nofollow">see depiction</a>) is one representation of <i><a class="mw-redirect" href="/wiki/Trans_isomer" title="Trans isomer">trans</a></i>-<a class="mw-redirect" href="/wiki/1,2-difluoroethylene" title="1,2-difluoroethylene">1,2-difluoroethylene</a>, in which the fluorine atoms are on opposite sides of the double bond (as shown in the figure), whereas F/C=C\F (<a class="external text" href="https://web.archive.org/web/20130522074206/http://www.daylight.com/daycgi/depict?462f433d435c46" rel="nofollow">see depiction</a>) is one possible representation of <i><a class="mw-redirect" href="/wiki/Cis-trans_isomerism" title="Cis-trans isomerism">cis</a></i>-1,2-difluoroethylene, in which the Fs are on the same side of the double bond.
+</p><p>Bond direction symbols always come in groups of at least two, of which the first is arbitrary.  That is, F\C=C\F is the same as F/C=C/F.  When alternating single-double bonds are present, the groups are larger than two, with the middle directional symbols being adjacent to two double bonds.  For example, the common form of (2,4)-hexadiene is written C/C=C/C=C/C.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Beta-Carotene_conjugation.svg"><img alt="" class="thumbimage" data-file-height="91" data-file-width="443" height="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Beta-Carotene_conjugation.svg/220px-Beta-Carotene_conjugation.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Beta-Carotene_conjugation.svg/330px-Beta-Carotene_conjugation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Beta-Carotene_conjugation.svg/440px-Beta-Carotene_conjugation.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Beta-Carotene_conjugation.svg" title="Enlarge"></a></div><a class="mw-redirect" href="/wiki/Beta-carotene" title="Beta-carotene">Beta-carotene</a>, with the eleven double bonds highlighted.</div></div></div>
+<p>As a more complex example, <a class="mw-redirect" href="/wiki/Beta-carotene" title="Beta-carotene">beta-carotene</a> has a very long backbone of alternating single and double bonds, which may be written CC1CCC/C(C)=C1/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C2=C(C)/CCCC2(C)C.
+</p><p>Configuration at <a href="/wiki/Stereocenter" title="Stereocenter">tetrahedral carbon</a> is specified by @ or @@.  Consider the four bonds in the order in which they appear, left to right, in the SMILES form.  Looking toward the central carbon from the perspective of the first bond, the other three are either clockwise or counter-clockwise.  These cases are indicated with @@ and @, respectively.  (Because the @ symbol itself is a counter-clockwise spiral.)
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:112px;"><a class="image" href="/wiki/File:L-Alanin_-_L-Alanine.svg"><img alt="" class="thumbimage" data-file-height="121" data-file-width="163" height="82" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/L-Alanin_-_L-Alanine.svg/110px-L-Alanin_-_L-Alanine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/L-Alanin_-_L-Alanine.svg/165px-L-Alanin_-_L-Alanine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/L-Alanin_-_L-Alanine.svg/220px-L-Alanin_-_L-Alanine.svg.png 2x" width="110"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:L-Alanin_-_L-Alanine.svg" title="Enlarge"></a></div>L-alanine</div></div></div>
+<p>For example, consider the <a href="/wiki/Amino_acid" title="Amino acid">amino acid</a> <a href="/wiki/Alanine" title="Alanine">alanine</a>.  One of its SMILES forms is NC(C)C(=O)O, more fully written as N[CH](C)C(=O)O.  L-alanine, the more common <a href="/wiki/Enantiomer" title="Enantiomer">enantiomer</a>, is written as N[C@@H](C)C(=O)O (<a class="external text" href="https://web.archive.org/web/20130704043108/http://www.daylight.com/daycgi/depict?4e5b434040485d28432943283d4f294f" rel="nofollow">see depiction</a>).  Looking from the N-C bond, the hydrogen (H), methyl (C), and carboxylate (C(=O)O) groups appear clockwise.  D-Alanine can be written as N[C@H](C)C(=O)O (<a class="external text" href="https://web.archive.org/web/20130522072012/http://www.daylight.com/daycgi/depict?4e5b4340485d28432943283d4f294f" rel="nofollow">see depiction</a>).
+</p><p>While the order is which branches are specified in SMILES is normally unimportant, in this case it matters; swapping any two groups requires reversing the chirality indicator.  If the branches are reversed so alanine is written as NC(C(=O)O)C, then the configuration also reverses; L-alanine is written as N[C@H](C(=O)O)C (<a class="external text" href="https://web.archive.org/web/20130522073747/http://www.daylight.com/daycgi/depict?4e5b434040485d2843283d4f294f2943" rel="nofollow">see depiction</a>).  Other ways of writing it include C[C@H](N)C(=O)O, OC(=O)[C@@H](N)C and OC(=O)[C@H](C)N.
+</p><p>Normally, the first of the four bonds appears to the left of the carbon atom, but if the SMILES is written beginning with the chiral carbon, such as C(C)(N)C(=O)O, then all four are to the right, but the first to appear (the [CH] bond in this case) is used as the reference to order the following three: L-alanine may also be written [C@@H](C)(N)C(=O)O.
+</p><p>The SMILES specification includes elaborations on the @ symbol to indicate stereochemistry around more complex chiral centers, such as <a href="/wiki/Trigonal_bipyramidal_molecular_geometry" title="Trigonal bipyramidal molecular geometry">trigonal bipyramidal molecular geometry</a>.
+</p>
+<h3><span class="mw-headline" id="Isotopes">Isotopes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=11" title="Edit section: Isotopes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-redirect" href="/wiki/Isotopes" title="Isotopes">Isotopes</a> are specified with a number equal to the integer isotopic mass preceding the atomic symbol.  <a href="/wiki/Benzene" title="Benzene">Benzene</a> in which one atom is <a href="/wiki/Carbon-14" title="Carbon-14">carbon-14</a> is written as [14c]1ccccc1 and <a class="mw-redirect" href="/wiki/Deuterochloroform" title="Deuterochloroform">deuterochloroform</a> is [2H]C(Cl)(Cl)Cl.
+</p>
+<h3><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=12" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table align="center" border="1" cellpadding="7" cellspacing="0" style="border:1px solid #AAAAAA;border-collapse:collapse; font-size:12px">
+<tbody><tr bgcolor="khaki">
+<th>Molecule</th>
+<th>Structure</th>
+<th>SMILES Formula
+</th></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Dinitrogen" title="Dinitrogen">Dinitrogen</a>
+</td>
+<td>N≡N
+</td>
+<td>N#N
+</td></tr>
+<tr>
+<td><a href="/wiki/Methyl_isocyanate" title="Methyl isocyanate">Methyl isocyanate</a> (MIC)
+</td>
+<td>CH<sub>3</sub>−N=C=O
+</td>
+<td>CN=C=O
+</td></tr>
+<tr>
+<td><a href="/wiki/Copper(II)_sulfate" title="Copper(II) sulfate">Copper(II) sulfate</a>
+</td>
+<td>Cu<sup>2+</sup> SO<sub>4</sub><sup>2−</sup>
+</td>
+<td>[Cu+2].[O-]S(=O)(=O)[O-]
+</td></tr>
+<tr>
+<td><a href="/wiki/Vanillin" title="Vanillin">Vanillin</a>
+</td>
+<td><a class="image" href="/wiki/File:Vanillin.svg" title="Molecular structure of vanillin"><img alt="Molecular structure of vanillin" data-file-height="768" data-file-width="855" height="63" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vanillin.svg/70px-Vanillin.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vanillin.svg/105px-Vanillin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vanillin.svg/140px-Vanillin.svg.png 2x" width="70"/></a>
+</td>
+<td>O=Cc1ccc(O)c(OC)c1<br/>OCc1cc(C=O)ccc1O
+</td></tr>
+<tr>
+<td><a href="/wiki/Melatonin" title="Melatonin">Melatonin</a> (C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>O<sub>2</sub>)
+</td>
+<td><a class="image" href="/wiki/File:Melatonin2.svg" title="Molecular structure of melatonin"><img alt="Molecular structure of melatonin" data-file-height="225" data-file-width="346" height="104" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Melatonin2.svg/160px-Melatonin2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Melatonin2.svg/240px-Melatonin2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Melatonin2.svg/320px-Melatonin2.svg.png 2x" width="160"/></a>
+</td>
+<td>CC(=O)NCCC1=CNc2c1cc(OC)cc2<br/>CC(=O)NCCc1c[nH]c2ccc(OC)cc12
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=Flavopereirin&amp;action=edit&amp;redlink=1" title="Flavopereirin (page does not exist)">Flavopereirin</a> (C<sub>17</sub>H<sub>15</sub>N<sub>2</sub>)
+</td>
+<td><a class="image" href="/wiki/File:Flavopereirine.svg" title="Molecular structure of flavopereirin"><img alt="Molecular structure of flavopereirin" data-file-height="100" data-file-width="200" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flavopereirine.svg/160px-Flavopereirine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flavopereirine.svg/240px-Flavopereirine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flavopereirine.svg/320px-Flavopereirine.svg.png 2x" width="160"/></a>
+</td>
+<td>CCc(c1)ccc2[n+]1ccc3c2[nH]c4c3cccc4<br/>CCc1c[n+]2ccc3c4ccccc4[nH]c3c2cc1
+</td></tr>
+<tr>
+<td><a href="/wiki/Nicotine" title="Nicotine">Nicotine</a> (C<sub>10</sub>H<sub>14</sub>N<sub>2</sub>)
+</td>
+<td><a class="image" href="/wiki/File:Nicotine.svg" title="Molecular structure of nicotine"><img alt="Molecular structure of nicotine" data-file-height="135" data-file-width="161" height="67" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nicotine.svg/80px-Nicotine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nicotine.svg/120px-Nicotine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nicotine.svg/160px-Nicotine.svg.png 2x" width="80"/></a>
+</td>
+<td>CN1CCC[C@H]1c2cccnc2
+</td></tr>
+<tr>
+<td><a href="/wiki/Oenanthotoxin" title="Oenanthotoxin">Oenanthotoxin</a> (C<sub>17</sub>H<sub>22</sub>O<sub>2</sub>)
+</td>
+<td><a class="image" href="/wiki/File:Oenanthotoxin-structure.png" title="Molecular structure of oenanthotoxin"><img alt="Molecular structure of oenanthotoxin" data-file-height="449" data-file-width="1342" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oenanthotoxin-structure.png/180px-Oenanthotoxin-structure.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oenanthotoxin-structure.png/270px-Oenanthotoxin-structure.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oenanthotoxin-structure.png/360px-Oenanthotoxin-structure.png 2x" width="180"/></a>
+</td>
+<td>CCC[C@@H](O)CC\C=C\C=C\C#CC#C\C=C\CO<br/>CCC[C@@H](O)CC/C=C/C=C/C#CC#C/C=C/CO
+</td></tr>
+<tr>
+<td><a href="/wiki/Pyrethrin" title="Pyrethrin">Pyrethrin</a> II (C<sub>22</sub>H<sub>28</sub>O<sub>5</sub>)
+</td>
+<td><a class="image" href="/wiki/File:Pyrethrin-II-2D-skeletal.svg" title="Molecular structure of pyrethrin II"><img alt="Molecular structure of pyrethrin II" data-file-height="208" data-file-width="597" height="63" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pyrethrin-II-2D-skeletal.svg/180px-Pyrethrin-II-2D-skeletal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pyrethrin-II-2D-skeletal.svg/270px-Pyrethrin-II-2D-skeletal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pyrethrin-II-2D-skeletal.svg/360px-Pyrethrin-II-2D-skeletal.svg.png 2x" width="180"/></a>
+</td>
+<td>CC1=C(C(=O)C[C@@H]1OC(=O)[C@@H]2[C@H](C2(C)C)/C=C(\C)/C(=O)OC)C/C=C\C=C
+</td></tr>
+<tr>
+<td><a href="/wiki/Aflatoxin" title="Aflatoxin">Aflatoxin</a> B1 (C<sub>17</sub>H<sub>12</sub>O<sub>6</sub>)
+</td>
+<td><a class="image" href="/wiki/File:Aflatoxin_B1.svg" title="Molecular structure of aflatoxin B1"><img alt="Molecular structure of aflatoxin B1" data-file-height="281" data-file-width="379" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aflatoxin_B1.svg/130px-Aflatoxin_B1.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aflatoxin_B1.svg/195px-Aflatoxin_B1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aflatoxin_B1.svg/260px-Aflatoxin_B1.svg.png 2x" width="130"/></a>
+</td>
+<td>O1C=C[C@H]([C@H]1O2)c3c2cc(OC)c4c3OC(=O)C5=C4CCC(=O)5
+</td></tr>
+<tr>
+<td><a href="/wiki/Glucose" title="Glucose">Glucose</a> (glucopyranose) (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)
+</td>
+<td><a class="image" href="/wiki/File:Beta-D-Glucose.svg" title="Molecular structure of glucopyranose"><img alt="Molecular structure of glucopyranose" data-file-height="318" data-file-width="620" height="72" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beta-D-Glucose.svg/140px-Beta-D-Glucose.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beta-D-Glucose.svg/210px-Beta-D-Glucose.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beta-D-Glucose.svg/280px-Beta-D-Glucose.svg.png 2x" width="140"/></a>
+</td>
+<td>OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)1
+</td></tr>
+<tr>
+<td><a href="/wiki/Bergenin" title="Bergenin">Bergenin</a> (cuscutin) (a <a href="/wiki/Resin" title="Resin">resin</a>) (C<sub>14</sub>H<sub>16</sub>O<sub>9</sub>)
+</td>
+<td><a class="image" href="/wiki/File:Cuscutine.svg" title="Molecular structure of cuscutine (bergenin)"><img alt="Molecular structure of cuscutine (bergenin)" data-file-height="170" data-file-width="200" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cuscutine.svg/130px-Cuscutine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cuscutine.svg/195px-Cuscutine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cuscutine.svg/260px-Cuscutine.svg.png 2x" width="130"/></a>
+</td>
+<td>OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H]2[C@@H]1c3c(O)c(OC)c(O)cc3C(=O)O2
+</td></tr>
+<tr>
+<td>A <a href="/wiki/Pheromone" title="Pheromone">pheromone</a> of the Californian <a href="/wiki/Scale_insect" title="Scale insect">scale insect</a>
+</td>
+<td><a class="image" href="/wiki/File:Pheromone_cochenille_californienne.svg" title="(3Z,6R)-3-methyl-6-(prop-1-en-2-yl)deca-3,9-dien-1-yl acetate"><img alt="(3Z,6R)-3-methyl-6-(prop-1-en-2-yl)deca-3,9-dien-1-yl acetate" data-file-height="210" data-file-width="510" height="74" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pheromone_cochenille_californienne.svg/180px-Pheromone_cochenille_californienne.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pheromone_cochenille_californienne.svg/270px-Pheromone_cochenille_californienne.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pheromone_cochenille_californienne.svg/360px-Pheromone_cochenille_californienne.svg.png 2x" width="180"/></a>
+</td>
+<td>CC(=O)OCCC(/C)=C\C[C@H](C(C)=C)CCC=C
+</td></tr>
+<tr>
+<td>2S,5R-<a class="new" href="/w/index.php?title=Chalcogran&amp;action=edit&amp;redlink=1" title="Chalcogran (page does not exist)">Chalcogran</a>: a <a href="/wiki/Pheromone" title="Pheromone">pheromone</a> of the <a class="mw-redirect" href="/wiki/Scolytinae" title="Scolytinae">bark beetle</a> <a class="new" href="/w/index.php?title=Pityogenes_chalcographus&amp;action=edit&amp;redlink=1" title="Pityogenes chalcographus (page does not exist)">Pityogenes chalcographus</a><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</td>
+<td><a class="image" href="/wiki/File:2S,5R-chalcogran-skeletal.svg" title="(2S,5R)-2-ethyl-1,6-dioxaspiro[4.4]nonane"><img alt="(2S,5R)-2-ethyl-1,6-dioxaspiro[4.4]nonane" data-file-height="60" data-file-width="120" height="65" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2S%2C5R-chalcogran-skeletal.svg/130px-2S%2C5R-chalcogran-skeletal.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2S%2C5R-chalcogran-skeletal.svg/195px-2S%2C5R-chalcogran-skeletal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2S%2C5R-chalcogran-skeletal.svg/260px-2S%2C5R-chalcogran-skeletal.svg.png 2x" width="130"/></a>
+</td>
+<td>CC[C@H](O1)CC[C@@]12CCCO2
+</td></tr>
+<tr>
+<td><a href="/wiki/Thujone" title="Thujone">Alpha-thujone</a> (C<sub>10</sub>H<sub>16</sub>O)
+</td>
+<td><a class="image" href="/wiki/File:Alpha-thujone.svg" title="Molecular structure of thujone"><img alt="Molecular structure of thujone" data-file-height="64" data-file-width="112" height="57" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alpha-thujone.svg/100px-Alpha-thujone.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alpha-thujone.svg/150px-Alpha-thujone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alpha-thujone.svg/200px-Alpha-thujone.svg.png 2x" width="100"/></a>
+</td>
+<td>CC(C)[C@@]12C[C@@H]1[C@@H](C)C(=O)C2
+</td></tr>
+<tr>
+<td><a href="/wiki/Thiamine" title="Thiamine">Thiamine</a> (C<sub>12</sub>H<sub>17</sub>N<sub>4</sub>OS<sup>+</sup>)<br/>(vitamin B1)
+</td>
+<td><a class="image" href="/wiki/File:Thiamin.svg" title="SMolecular structure of thiamin"><img alt="SMolecular structure of thiamin" data-file-height="201" data-file-width="346" height="87" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Thiamin.svg/150px-Thiamin.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Thiamin.svg/225px-Thiamin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Thiamin.svg/300px-Thiamin.svg.png 2x" width="150"/></a>
+</td>
+<td>OCCc1c(C)[n+](cs1)Cc2cnc(C)nc2N
+</td></tr></tbody></table>
+<div style="clear:both;"></div>
+<p>To illustrate a molecule with more than 9 rings, consider <a class="new" href="/w/index.php?title=Cephalostatin&amp;action=edit&amp;redlink=1" title="Cephalostatin (page does not exist)">Cephalostatin</a>-1,<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> a steroidic trisdecacyclic <a href="/wiki/Pyrazine" title="Pyrazine">pyrazine</a> with the <a href="/wiki/Empirical_formula" title="Empirical formula">empirical formula</a> C<sub>54</sub>H<sub>74</sub>N<sub>2</sub>O<sub>10</sub> isolated from the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> <a href="/wiki/Hemichordate" title="Hemichordate">hemichordate</a> <i><a class="mw-redirect" href="/wiki/Cephalodiscus_gilchristi" title="Cephalodiscus gilchristi">Cephalodiscus gilchristi</a></i>:
+</p>
+<div style="clear:both;"></div>
+<p><a class="image" href="/wiki/File:Cephalostatine-1.svg" title="Molecular structure of cephalostatin-1"><img alt="Molecular structure of cephalostatin-1" data-file-height="160" data-file-width="560" height="103" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cephalostatine-1.svg/360px-Cephalostatine-1.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cephalostatine-1.svg/540px-Cephalostatine-1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cephalostatine-1.svg/720px-Cephalostatine-1.svg.png 2x" width="360"/></a>
+</p><p>Starting with the left-most methyl group in the figure:
+</p><p><tt>CC(C)(O1)C[C@@H](O)[C@@]1(O2)[C@@H](C)[C@@H]3CC=C4[C@]3(C2)C(=O)C[C@H]5[C@H]4CC[C@@H](C6)[C@]5(C)Cc(n7)c6nc(C[C@@]89(C))c7C[C@@H]8CC[C@@H]%10[C@@H]9C[C@@H](O)[C@@]%11(C)C%10=C[C@H](O%12)[C@]%11(O)[C@H](C)[C@]%12(O%13)[C@H](O)C[C@@]%13(C)CO</tt>
+</p><p>Note that "%" appears in front of the index of ring closure labels above 9; see <a href="#Rings">§ Rings</a> above.
+</p>
+<h3><span class="mw-headline" id="Other_examples_of_SMILES">Other examples of SMILES</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=13" title="Edit section: Other examples of SMILES">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The SMILES notation is described extensively in the SMILES theory manual provided by <a class="new" href="/w/index.php?title=Daylight_Chemical_Information_Systems&amp;action=edit&amp;redlink=1" title="Daylight Chemical Information Systems (page does not exist)">Daylight Chemical Information Systems</a> and a number of illustrative examples are presented. Daylight's depict utility provides users with the means to check their own examples of SMILES and is a valuable educational tool.
+</p>
+<h2><span class="mw-headline" id="Extensions">Extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=14" title="Edit section: Extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Smiles_arbitrary_target_specification" title="Smiles arbitrary target specification">SMARTS</a> is a line notation for specification of substructural patterns in molecules.  While it uses many of the same symbols as SMILES, it also allows specification of <a href="/wiki/Wildcard_character" title="Wildcard character">wildcard</a> atoms and bonds, which can be used to define substructural queries for <a href="/wiki/Chemical_database" title="Chemical database">chemical database</a> searching. One common misconception is that SMARTS-based substructural searching involves matching of SMILES and SMARTS strings. In fact, both SMILES and SMARTS strings are first converted to internal graph representations which are searched for <a class="mw-redirect" href="/wiki/Glossary_of_graph_theory#Subgraphs" title="Glossary of graph theory">subgraph</a> <a href="/wiki/Isomorphism" title="Isomorphism">isomorphism</a>.
+</p><p><span id="SMIRKS"></span>SMIRKS, a superset of "reaction SMILES" and a subset of "reaction SMARTS", is a line notation for specifying reaction transforms. The general syntax for the reaction extensions is <code>REACTANT&gt;AGENT&gt;PRODUCT</code> (without spaces), where any of the fields can either be left blank or filled with multiple molecules deliminated with a dot (<code>.</code>), and other descriptions dependent on the base language. Atoms can additionally be identified with a number (e.g. <code>[C:1]</code>) for mapping,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> for example in <code><a class="external text" href="http://cdb.ics.uci.edu/cgibin/Smi2DepictWeb.py?smiles=%5BCH2%3A1%5D%3D%5BCH%3A2%5D%5BCH%3A3%5D%3D%5BCH%3A4%5D%5BCH2%3A5%5D%5BH%3A6%5D%3E%3E%5BH%3A6%5D%5BCH2%3A1%5D%5BCH%3A2%5D%3D%5BCH%3A3%5D%5BCH%3A4%5D%3D%5BCH2%3A5%5D" rel="nofollow">[CH2:1]=[CH:2][CH:3]=[CH:4][CH2:5][H:6]&gt;&gt;[H:6][CH2:1][CH:2]=[CH:3][CH:4]=[CH2:5]</a></code>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Conversion">Conversion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=15" title="Edit section: Conversion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>SMILES can be converted back to 2-dimensional representations using Structure Diagram Generation algorithms (Helson, 1999). This conversion is not always unambiguous. Conversion to 3-dimensional representation is achieved by energy-minimization approaches. There are many downloadable and web-based conversion utilities.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Smiles_arbitrary_target_specification" title="Smiles arbitrary target specification">SMILES arbitrary target specification</a> SMARTS language for specification of substructural queries.</li>
+<li><a class="mw-redirect" href="/wiki/SYBYL_Line_Notation" title="SYBYL Line Notation">SYBYL Line Notation</a> (another line notation)</li>
+<li><a href="/wiki/Molecular_Query_Language" title="Molecular Query Language">Molecular Query Language</a> – <a href="/wiki/Query_language" title="Query language">query language</a> allowing also numerical properties, e.g. physicochemical values or distances</li>
+<li><a href="/wiki/Chemistry_Development_Kit" title="Chemistry Development Kit">Chemistry Development Kit</a> (2D layout and conversion)</li>
+<li><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">International Chemical Identifier</a> (InChI), the <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a>'s alternative to SMILES.</li>
+<li><a class="mw-redirect" href="/wiki/OpenBabel" title="OpenBabel">OpenBabel</a>, <a href="/wiki/JOELib" title="JOELib">JOELib</a>, <a href="/wiki/OELib" title="OELib">OELib</a> (conversion)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=18" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em;">
+<ul><li><cite class="citation book" id="CITEREFAndersonVeithWeininger1987">Anderson E, Veith GD, Weininger D (1987). <i>SMILES: A line notation and computerized interpreter for chemical structures</i>. Duluth, MN: U.S. EPA, Environmental Research Laboratory-Duluth. Report No. EPA/600/M-87/021.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=SMILES%3A+A+line+notation+and+computerized+interpreter+for+chemical+structures&amp;rft.place=Duluth%2C+MN&amp;rft.pub=U.S.+EPA%2C+Environmental+Research+Laboratory-Duluth&amp;rft.date=1987&amp;rft.aulast=Anderson&amp;rft.aufirst=E.&amp;rft.au=Veith%2C+G.+D.&amp;rft.au=Weininger%2C+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASimplified+molecular-input+line-entry+system"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book" id="CITEREFHelson1999">Helson HE (1999). "Structure Diagram Generation".  In Lipkowitz KB, Boyd DB. <i>Rev. Comput. Chem</i>. <b>13</b>. New York: Wiley-VCH. pp. 313–398. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F9780470125908.ch6" rel="nofollow">10.1002/9780470125908.ch6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Structure+Diagram+Generation&amp;rft.btitle=Rev.+Comput.+Chem.&amp;rft.place=New+York&amp;rft.pages=313-398&amp;rft.pub=Wiley-VCH&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1002%2F9780470125908.ch6&amp;rft.aulast=Helson&amp;rft.aufirst=H.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASimplified+molecular-input+line-entry+system"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFWeininger1988">Weininger D (February 1988). "SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules". <i>Journal of Chemical Information and Modeling</i>. <b>28</b> (1): 31–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fci00057a005" rel="nofollow">10.1021/ci00057a005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Information+and+Modeling&amp;rft.atitle=SMILES%2C+a+chemical+language+and+information+system.+1.+Introduction+to+methodology+and+encoding+rules&amp;rft.volume=28&amp;rft.issue=1&amp;rft.pages=31-6&amp;rft.date=1988-02&amp;rft_id=info%3Adoi%2F10.1021%2Fci00057a005&amp;rft.aulast=Weininger&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASimplified+molecular-input+line-entry+system"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFWeiningerWeiningerWeininger1989">Weininger D, Weininger A, Weininger JL (May 1989). "SMILES. 2. Algorithm for generation of unique SMILES notation". <i>Journal of Chemical Information and Modeling</i>. <b>29</b> (2): 97–101. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fci00062a008" rel="nofollow">10.1021/ci00062a008</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Information+and+Modeling&amp;rft.atitle=SMILES.+2.+Algorithm+for+generation+of+unique+SMILES+notation&amp;rft.volume=29&amp;rft.issue=2&amp;rft.pages=97-101&amp;rft.date=1989-05&amp;rft_id=info%3Adoi%2F10.1021%2Fci00062a008&amp;rft.aulast=Weininger&amp;rft.aufirst=David&amp;rft.au=Weininger%2C+Arthur&amp;rft.au=Weininger%2C+Joseph+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASimplified+molecular-input+line-entry+system"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFWeininger1990">Weininger D (August 1990). "SMILES. 3. DEPICT. Graphical depiction of chemical structures". <i>Journal of Chemical Information and Modeling</i>. <b>30</b> (3): 237–43. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fci00067a005" rel="nofollow">10.1021/ci00067a005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Information+and+Modeling&amp;rft.atitle=SMILES.+3.+DEPICT.+Graphical+depiction+of+chemical+structures&amp;rft.volume=30&amp;rft.issue=3&amp;rft.pages=237-43&amp;rft.date=1990-08&amp;rft_id=info%3Adoi%2F10.1021%2Fci00067a005&amp;rft.aulast=Weininger&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASimplified+molecular-input+line-entry+system"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-external_links" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links,_images,_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(September 2012)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html" rel="nofollow">"SMILES – A Simplified Chemical Language"</a></li>
+<li><a class="external text" href="http://www.opensmiles.org" rel="nofollow">The OpenSMILES home page</a></li>
+<li><a class="external text" href="http://www.daylight.com/dayhtml/doc/theory/theory.smarts.html" rel="nofollow">"SMARTS – SMILES Extension"</a></li>
+<li><a class="external text" href="http://www.daylight.com/dayhtml_tutorials/languages/smiles/index.html" rel="nofollow">Daylight SMILES tutorial</a></li>
+<li><a class="external text" href="http://www.dalkescientific.com/writings/diary/archive/2004/01/05/tokens.html" rel="nofollow">Parsing SMILES</a></li></ul>
+<h3><span class="mw-headline" id="SMILES_related_software_utilities">SMILES related software utilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit&amp;section=20" title="Edit section: SMILES related software utilities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">NIH</a> online services
+<ul><li><a class="external text" href="https://cactus.nci.nih.gov/chemical/structure" rel="nofollow">NCI/CADD Chemical Identifier Resolver</a> – resolves or generates SMILES from chemical names, CAS Registry Numbers, InChI/InChIKey and many other chemical structure file formats</li>
+<li><a class="external text" href="https://cactus.nci.nih.gov/gifcreator/" rel="nofollow">GIF/PNG-Creator</a> for 2D Plots of Chemical Structures</li>
+<li><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/edit/index.html" rel="nofollow">PubChem server side structure editor</a> – online molecule editor</li>
+<li><a class="external text" href="https://cactus.nci.nih.gov/translate/" rel="nofollow">NCI/CADD Online SMILES Translator and Structure File Generator</a> – <a class="mw-redirect" href="/wiki/JSME_Molecule_Editor" title="JSME Molecule Editor">JSME</a> online molecule editor that generates SMILES/SMARTS; <a class="external text" href="http://peter-ertl.com/jsme/" rel="nofollow">source code</a> (BSD license).</li></ul></li>
+<li><a href="/wiki/ChemAxon" title="ChemAxon">ChemAxon</a> utilties, mostly Java-based, some with free personal use
+<ul><li><a class="external text" href="http://cdb.ics.uci.edu/cgibin/Smi2DepictWeb.py" rel="nofollow">Smi2DepictWeb</a> - Translate a SMILES formula into graphics with Marvin, hosted by <a class="mw-redirect" href="/wiki/UC_Irvine" title="UC Irvine">UC Irvine</a> (other online tools available on <a class="external text" href="http://cdb.ics.uci.edu/" rel="nofollow">the same site</a>)</li>
+<li><a class="external text" href="https://chemaxon.com/products/marvin" rel="nofollow">Marvin</a> – chemical editor/viewer and SMILES generator/converter (<a class="external text" href="https://web.archive.org/web/20071107150216/http://www.chemaxon.com/product/live_examples.html" rel="nofollow">previous version</a>)</li>
+<li><a class="external text" href="https://chemaxon.com/products/instant-jchem" rel="nofollow">Instant JChem</a> – desktop application for storing/generating/converting/visualizing/searching SMILES structures, particularly batch processing (<a class="external text" href="https://web.archive.org/web/20071112191748/http://www.chemaxon.com/product/ijc.html" rel="nofollow">previous version</a>)</li>
+<li>other tools and third-party integration; <a class="external text" href="https://chemaxon.com/products" rel="nofollow">full list</a></li></ul></li>
+<li><a href="/wiki/OELib" title="OELib">OELib</a> and descendents (<a class="external text" href="http://openbabel.org/" rel="nofollow">Open Babel</a> etc.; see also "<a href="#see_also">#see also</a>")
+<ul><li><a class="external text" href="http://www.hungry.com/~alves/smormoed/" rel="nofollow">Smormo-Ed</a> – a FOSS molecule editor which can read and write SMILES; has <a class="mw-redirect" href="/wiki/Gtk%2B" title="Gtk+">Gtk+</a> and <a href="/wiki/HTML5" title="HTML5">HTML5</a> frontends</li></ul></li>
+<li><a class="external text" href="https://web.archive.org/web/20070914100359/http://www.chembiogrid.org/cheminfo/smi23d/" rel="nofollow">smi23d</a> – 3D Coordinate Generation; <a class="external text" href="https://sourceforge.net/p/cicc-grid/code/HEAD/tree/cicc-grid/smi23d/" rel="nofollow">source code archive</a></li>
+<li><a class="external text" href="http://www.acdlabs.com/download/chemsk.html" rel="nofollow">ACD/ChemSketch</a></li>
+<li><a class="external text" href="http://inchi.info/" rel="nofollow">InChI.info</a> – an unofficial InChI website featuring on-line converter from InChI and SMILES to molecular drawings, based on <a href="/wiki/BKChem" title="BKChem">OASA</a></li>
+<li><a class="external text" href="http://web.abo.fi/~mivainio/balloon/" rel="nofollow">Balloon</a> – A free program for 3D coordinate generation and conformational analysis.</li>
+<li><a class="external text" href="http://lifescience.opensource.epam.com/indigo/index.html" rel="nofollow">Indigo</a> – an open-source cross-platform cheminformatics library with a plugin for IUPAC-compliant molecule and reaction 2D structural formula rendering.</li>
+<li><a class="external text" href="http://bioclipse.net/" rel="nofollow">Bioclipse</a> – a free and open source workbench for the life sciences (<a href="/wiki/Bioclipse" title="Bioclipse">Wikipedia article</a>)</li>
+<li>Scilligence utilities
+<ul><li><a class="external text" href="http://www.molengine.com/" rel="nofollow">MolEngine</a> – A .NET cheminformatics toolkit to read/write SMILES, generate 2D coordinate from SMILES, and convert SMILES from/into other <a href="/wiki/Chemical_file_format" title="Chemical file format">Chemical file formats</a>.</li>
+<li><a class="external text" href="http://www.jsdraw.com/" rel="nofollow">JSDraw</a> – A cross-platform javascript chemical structure editor to generate SMILES and SMARTS.</li></ul></li></ul>
+<div aria-labelledby="Computational_chemistry_software" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Chemistry_software" title="Template:Chemistry software"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chemistry_software" title="Template talk:Chemistry software"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemistry_software&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Computational_chemistry_software" style="font-size:114%;margin:0 4em"><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a> software</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cheminformatics" title="Cheminformatics">Cheminformatics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Open-source" title="Open-source">Open-source</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=Avalon_Cheminformatics_Toolkit&amp;action=edit&amp;redlink=1" title="Avalon Cheminformatics Toolkit (page does not exist)">Avalon Cheminformatics Toolkit</a></li>
+<li><a href="/wiki/Bioclipse" title="Bioclipse">Bioclipse</a></li>
+<li><a href="/wiki/Blue_Obelisk" title="Blue Obelisk">Blue Obelisk</a></li>
+<li><a href="/wiki/Chemistry_Development_Kit" title="Chemistry Development Kit">Chemistry Development Kit</a></li>
+<li><a href="/wiki/Extensible_Computational_Chemistry_Environment" title="Extensible Computational Chemistry Environment">ECCE</a></li>
+<li><a href="/wiki/JOELib" title="JOELib">JOELib</a></li>
+<li><a href="/wiki/OELib" title="OELib">OELib</a></li>
+<li><a href="/wiki/Open_Babel" title="Open Babel">Open Babel</a></li>
+<li><a class="new" href="/w/index.php?title=RDKit&amp;action=edit&amp;redlink=1" title="RDKit (page does not exist)">RDKit</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chemicalize" title="Chemicalize">Chemicalize</a></li>
+<li><a href="/wiki/Discovery_Studio" title="Discovery Studio">Discovery Studio</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Chemical_kinetics" title="Chemical kinetics">Chemical kinetics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Open-source</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=APBS_(software)&amp;action=edit&amp;redlink=1" title="APBS (software) (page does not exist)">APBS</a></li>
+<li><a href="/wiki/Cantera_(software)" title="Cantera (software)">Cantera</a></li>
+<li><a href="/wiki/Kinetic_PreProcessor" title="Kinetic PreProcessor">KPP</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autochem" title="Autochem">Autochem</a></li>
+<li><a href="/wiki/Chemical_WorkBench" title="Chemical WorkBench">Chemical WorkBench</a></li>
+<li><a href="/wiki/CHEMKIN" title="CHEMKIN">CHEMKIN</a></li>
+<li><a href="/wiki/COSILAB" title="COSILAB">COSILAB</a></li>
+<li><a href="/wiki/DelPhi_(software)" title="DelPhi (software)">DelPhi</a></li>
+<li><a href="/wiki/Khimera" title="Khimera">Khimera</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Molecule modelling</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Open-source</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ascalaph_Designer" title="Ascalaph Designer">Ascalaph Designer</a></li>
+<li><a href="/wiki/Avogadro_(software)" title="Avogadro (software)">Avogadro</a></li>
+<li><a href="/wiki/BALL" title="BALL">BALL</a></li>
+<li><a href="/wiki/Biskit" title="Biskit">Biskit</a></li>
+<li><a href="/wiki/Car%E2%80%93Parrinello_molecular_dynamics" title="Car–Parrinello molecular dynamics">CPMD</a></li>
+<li><a href="/wiki/Gabedit" title="Gabedit">Gabedit</a></li>
+<li><a href="/wiki/Ghemical" title="Ghemical">Ghemical</a></li>
+<li><a href="/wiki/Jmol" title="Jmol">Jmol</a></li>
+<li><a href="/wiki/Molekel" title="Molekel">Molekel</a></li>
+<li><a href="/wiki/PyMOL" title="PyMOL">PyMOL</a></li>
+<li><a href="/wiki/QuteMol" title="QuteMol">QuteMol</a></li>
+<li><a href="/wiki/RasMol" title="RasMol">RasMol</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Proprietary</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abalone_(molecular_mechanics)" title="Abalone (molecular mechanics)">Abalone</a></li>
+<li><a href="/wiki/ACD/ChemSketch" title="ACD/ChemSketch">ACD/ChemSketch</a></li>
+<li><a href="/wiki/Atomistix_ToolKit" title="Atomistix ToolKit">Atomistix ToolKit</a></li>
+<li><a href="/wiki/ChemDraw" title="ChemDraw">ChemDraw</a></li>
+<li><a href="/wiki/EzMol" title="EzMol">EzMol</a></li>
+<li><a href="/wiki/Gaussian_(software)" title="Gaussian (software)">Gaussian</a></li>
+<li><a class="mw-redirect" href="/wiki/MarvinSketch" title="MarvinSketch">MarvinSketch</a></li>
+<li><a class="new" href="/w/index.php?title=MarvinView&amp;action=edit&amp;redlink=1" title="MarvinView (page does not exist)">MarvinView</a></li>
+<li><a href="/wiki/Molecular_Operating_Environment" title="Molecular Operating Environment">Molecular Operating Environment</a></li>
+<li><a href="/wiki/Spartan_(chemistry_software)" title="Spartan (chemistry software)">Spartan</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_quantum_chemistry_and_solid-state_physics_software" title="List of quantum chemistry and solid-state physics software">Quantum chemistry</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Open-source</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ABINIT" title="ABINIT">ABINIT</a></li>
+<li><a href="/wiki/ACES_(computational_chemistry)" title="ACES (computational chemistry)">ACES</a> (CFOUR)</li>
+<li><a href="/wiki/AIMAll" title="AIMAll">AIMAll</a></li>
+<li><a href="/wiki/BigDFT" title="BigDFT">BigDFT</a></li>
+<li><a href="/wiki/CP2K" title="CP2K">CP2K</a></li>
+<li><a href="/wiki/DACAPO" title="DACAPO">DACAPO</a></li>
+<li><a href="/wiki/Dalton_(program)" title="Dalton (program)">Dalton</a></li>
+<li><a href="/wiki/DP_code" title="DP code">DP code</a></li>
+<li><a href="/wiki/FreeON" title="FreeON">FreeON</a></li>
+<li><a href="/wiki/HORTON_(software)" title="HORTON (software)">HORTON</a></li>
+<li><a href="/wiki/MADNESS" title="MADNESS">MADNESS</a></li>
+<li><a href="/wiki/MPQC" title="MPQC">MPQC</a></li>
+<li><a href="/wiki/NWChem" title="NWChem">NWChem</a></li>
+<li><a href="/wiki/Octopus_(software)" title="Octopus (software)">Octopus</a></li>
+<li><a href="/wiki/PSI_(computational_chemistry)" title="PSI (computational chemistry)">PSI</a></li>
+<li><a href="/wiki/PyQuante" title="PyQuante">PyQuante</a></li>
+<li><a href="/wiki/PySCF" title="PySCF">PySCF</a></li>
+<li><a href="/wiki/Quantum_ESPRESSO" title="Quantum ESPRESSO">Quantum ESPRESSO</a> (PWscf)</li>
+<li><a href="/wiki/RMG_(program)" title="RMG (program)">RMG</a></li>
+<li><a href="/wiki/SAMSON" title="SAMSON">SAMSON</a></li>
+<li><a href="/wiki/SIESTA_(computer_program)" title="SIESTA (computer program)">SIESTA</a></li>
+<li><a href="/wiki/Valence_bond_programs" title="Valence bond programs">VB2000</a></li>
+<li><a href="/wiki/YAMBO_code" title="YAMBO code">YAMBO code</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Proprietary</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amsterdam_Density_Functional" title="Amsterdam Density Functional">ADF</a></li>
+<li><a href="/wiki/AMPAC" title="AMPAC">AMPAC</a></li>
+<li><a href="/wiki/DMol3" title="DMol3">DMol3</a></li>
+<li><a href="/wiki/CADPAC" title="CADPAC">CADPAC</a></li>
+<li><a href="/wiki/CASINO" title="CASINO">CASINO</a></li>
+<li><a href="/wiki/CASTEP" title="CASTEP">CASTEP</a></li>
+<li><a href="/wiki/COLUMBUS" title="COLUMBUS">COLUMBUS</a></li>
+<li><a href="/wiki/CONQUEST" title="CONQUEST">CONQUEST</a></li>
+<li><a href="/wiki/Car%E2%80%93Parrinello_molecular_dynamics" title="Car–Parrinello molecular dynamics">CPMD</a></li>
+<li><a href="/wiki/Valence_bond_programs" title="Valence bond programs">CRUNCH</a></li>
+<li><a href="/wiki/Crystal_(software)" title="Crystal (software)">CRYSTAL</a></li>
+<li><a href="/wiki/Dirac_(software)" title="Dirac (software)">DIRAC</a></li>
+<li><a href="/wiki/Firefly_(computer_program)" title="Firefly (computer program)">Firefly</a></li>
+<li><a href="/wiki/GAMESS_(UK)" title="GAMESS (UK)">GAMESS (UK)</a></li>
+<li><a href="/wiki/GAMESS_(US)" title="GAMESS (US)">GAMESS (US)</a></li>
+<li><a href="/wiki/Gaussian_(software)" title="Gaussian (software)">Gaussian</a></li>
+<li><a href="/wiki/Jaguar_(software)" title="Jaguar (software)">Jaguar</a></li>
+<li><a href="/wiki/MOLCAS" title="MOLCAS">MOLCAS</a></li>
+<li><a href="/wiki/MOLPRO" title="MOLPRO">MOLPRO</a></li>
+<li><a href="/wiki/MOPAC" title="MOPAC">MOPAC</a></li>
+<li><a href="/wiki/ONETEP" title="ONETEP">ONETEP</a></li>
+<li><a href="/wiki/OpenAtom" title="OpenAtom">OpenAtom</a></li>
+<li><a href="/wiki/ORCA_(quantum_chemistry_program)" title="ORCA (quantum chemistry program)">ORCA</a></li>
+<li><a href="/wiki/PARSEC" title="PARSEC">PARSEC</a></li>
+<li><a href="/wiki/PLATO_(computational_chemistry)" title="PLATO (computational chemistry)">PLATO</a></li>
+<li><a href="/wiki/PQS_(software)" title="PQS (software)">PQS</a></li>
+<li><a href="/wiki/Q-Chem" title="Q-Chem">Q-Chem</a></li>
+<li><a href="/wiki/Quantemol" title="Quantemol">Quantemol</a></li>
+<li><a href="/wiki/Scigress" title="Scigress">Scigress</a></li>
+<li><a href="/wiki/Spartan_(chemistry_software)" title="Spartan (chemistry software)">Spartan</a></li>
+<li><a href="/wiki/TeraChem" title="TeraChem">TeraChem</a></li>
+<li><a href="/wiki/TURBOMOLE" title="TURBOMOLE">TURBOMOLE</a></li>
+<li><a href="/wiki/Vienna_Ab_initio_Simulation_Package" title="Vienna Ab initio Simulation Package">VASP</a></li>
+<li><a href="/wiki/WIEN2k" title="WIEN2k">WIEN2k</a></li>
+<li><a href="/wiki/Valence_bond_programs" title="Valence bond programs">XMVB</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Skeletal_structure" title="Skeletal structure">Skeletal structure</a> drawing</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Open-source</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BKChem" title="BKChem">BKChem</a></li>
+<li><a class="new" href="/w/index.php?title=Chemtool&amp;action=edit&amp;redlink=1" title="Chemtool (page does not exist)">Chemtool</a></li>
+<li><a href="/wiki/JChemPaint" title="JChemPaint">JChemPaint</a></li>
+<li><a href="/wiki/JME_Molecule_Editor" title="JME Molecule Editor">JME Molecule Editor</a></li>
+<li><a class="new" href="/w/index.php?title=Molsketch&amp;action=edit&amp;redlink=1" title="Molsketch (page does not exist)">Molsketch</a></li>
+<li><a class="new" href="/w/index.php?title=SketchEl&amp;action=edit&amp;redlink=1" title="SketchEl (page does not exist)">SketchEl</a></li>
+<li><a href="/wiki/XDrawChem" title="XDrawChem">XDrawChem</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Proprietary</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ACD/ChemSketch" title="ACD/ChemSketch">ACD/ChemSketch</a></li>
+<li><a class="new" href="/w/index.php?title=ChemDoodle&amp;action=edit&amp;redlink=1" title="ChemDoodle (page does not exist)">ChemDoodle</a></li>
+<li><a href="/wiki/ChemDraw" title="ChemDraw">ChemDraw</a></li>
+<li><a class="mw-redirect" href="/wiki/MarvinSketch" title="MarvinSketch">MarvinSketch</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aqion" title="Aqion">Aqion</a></li>
+<li><a href="/wiki/Eulim" title="Eulim">Eulim</a></li>
+<li><a href="/wiki/EXC_code" title="EXC code">EXC code</a></li>
+<li><a class="new" href="/w/index.php?title=GenX_(software)&amp;action=edit&amp;redlink=1" title="GenX (software) (page does not exist)">GenX</a></li>
+<li><a class="new" href="/w/index.php?title=GSim&amp;action=edit&amp;redlink=1" title="GSim (page does not exist)">GSim</a></li>
+<li><a href="/wiki/Internal_Coordinate_Mechanics" title="Internal Coordinate Mechanics">ICM</a> (<a href="/wiki/ICM-Browser" title="ICM-Browser">ICM-Browser</a>)</li>
+<li><a href="/wiki/Materials_Studio" title="Materials Studio">Materials Studio</a></li>
+<li><a href="/wiki/Molden" title="Molden">Molden</a></li>
+<li><a href="/wiki/OpenChrom" title="OpenChrom">OpenChrom</a></li>
+<li><a href="/wiki/Rubychem" title="Rubychem">RubyChem</a></li>
+<li><a class="new" href="/w/index.php?title=SASHIMI&amp;action=edit&amp;redlink=1" title="SASHIMI (page does not exist)">SASHIMI</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20181031061316
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.412 seconds
+Real time usage: 0.528 seconds
+Preprocessor visited node count: 1542/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70441/2097152 bytes
+Template argument size: 423/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31170/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.192/10.000 seconds
+Lua memory usage: 5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  371.356      1 -total
+ 45.12%  167.567      1 Template:Reflist
+ 32.40%  120.317      4 Template:Cite_book
+ 11.87%   44.095      6 Template:Navbox
+  9.73%   36.133      1 Template:Infobox_file_format
+  9.07%   33.692      1 Template:External_links
+  8.84%   32.822      1 Template:Redirect
+  8.50%   31.564      1 Template:Chemistry_software
+  7.81%   29.015      1 Template:Ambox
+  6.49%   24.098      4 Template:Cite_journal
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28569-0!canonical and timestamp 20181031061315 and revision id 866579355
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;oldid=866579355">https://en.wikipedia.org/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;oldid=866579355</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_nomenclature" title="Category:Chemical nomenclature">Chemical nomenclature</a></li><li><a href="/wiki/Category:Encodings" title="Category:Encodings">Encodings</a></li><li><a href="/wiki/Category:Chemical_file_formats" title="Category:Chemical file formats">Chemical file formats</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_September_2012" title="Category:Wikipedia external links cleanup from September 2012">Wikipedia external links cleanup from September 2012</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_September_2012" title="Category:Wikipedia spam cleanup from September 2012">Wikipedia spam cleanup from September 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Simplified+molecular-input+line-entry+system" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Simplified+molecular-input+line-entry+system" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Simplified_molecular-input_line-entry_system" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Simplified_molecular-input_line-entry_system" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Simplified_molecular-input_line-entry_system">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Simplified_molecular-input_line-entry_system" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Simplified_molecular-input_line-entry_system" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;oldid=866579355" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q466769" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Simplified_molecular-input_line-entry_system&amp;id=866579355" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Simplified+molecular-input+line-entry+system">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Simplified+molecular-input+line-entry+system&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Simplified_molecular-input_line-entry_system" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D8%A5%D8%AF%D8%AE%D8%A7%D9%84_%D8%A7%D9%84%D9%86%D8%B5%D9%8A_%D8%A7%D9%84%D9%85%D8%A8%D8%B3%D8%B7_%D9%84%D9%84%D8%AC%D8%B2%D9%8A%D8%A6%D8%A7%D8%AA" hreflang="ar" lang="ar" title="مواصفات الإدخال النصي المبسط للجزيئات – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/SMILES" hreflang="az" lang="az" title="SMILES – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/SMILES" hreflang="bs" lang="bs" title="SMILES – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/SMILES" hreflang="ca" lang="ca" title="SMILES – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/SMILES" hreflang="cs" lang="cs" title="SMILES – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/SMILES" hreflang="da" lang="da" title="SMILES – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Simplified_Molecular_Input_Line_Entry_Specification" hreflang="de" lang="de" title="Simplified Molecular Input Line Entry Specification – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/SMILES" hreflang="el" lang="el" title="SMILES – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/SMILES" hreflang="es" lang="es" title="SMILES – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system" hreflang="eo" lang="eo" title="Simplified molecular-input line-entry system – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Simplified_Molecular_Input_Line_Entry_Specification" hreflang="fr" lang="fr" title="Simplified Molecular Input Line Entry Specification – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/SMILES" hreflang="gl" lang="gl" title="SMILES – Galician">Galego</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/SMILES" hreflang="id" lang="id" title="SMILES – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/SMILES" hreflang="it" lang="it" title="SMILES – Italian">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/SMILES" hreflang="lt" lang="lt" title="SMILES – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/SMILES" hreflang="hu" lang="hu" title="SMILES – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%BF%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%AB%E0%B5%88%E0%B4%A1%E0%B5%8D_%E0%B4%AE%E0%B5%8B%E0%B4%B3%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%B2%E0%B4%BE%E0%B5%BC-%E0%B4%87%E0%B5%BB%E0%B4%AA%E0%B5%81%E0%B4%9F%E0%B5%8D_%E0%B4%B2%E0%B5%88%E0%B5%BB%E2%80%8C-%E0%B4%8E%E0%B5%BB%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B4%BF_%E0%B4%B8%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%82" hreflang="ml" lang="ml" title="സിമ്പ്ലിഫൈഡ് മോളിക്യൂലാർ-ഇൻപുട് ലൈൻ‌-എൻട്രി സിസ്റ്റം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/SMILES" hreflang="nl" lang="nl" title="SMILES – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/SMILES%E8%A8%98%E6%B3%95" hreflang="ja" lang="ja" title="SMILES記法 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/SMILES" hreflang="no" lang="no" title="SMILES – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/SMILES" hreflang="pl" lang="pl" title="SMILES – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/SMILES" hreflang="pt" lang="pt" title="SMILES – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system" hreflang="ro" lang="ro" title="Simplified molecular-input line-entry system – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/SMILES" hreflang="ru" lang="ru" title="SMILES – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/SMILES" hreflang="sco" lang="sco" title="SMILES – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Simplified_molecular_input_line_entry_specification" hreflang="en-simple" lang="en-simple" title="Simplified molecular input line entry specification – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a class="interlanguage-link-target" href="https://sd.wikipedia.org/wiki/%D8%A7%D8%B3%D9%85%D8%A7%D8%A6%D9%84%D8%B3" hreflang="sd" lang="sd" title="اسمائلس – Sindhi">سنڌي</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/SMILES" hreflang="sl" lang="sl" title="SMILES – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/SMILES" hreflang="sr" lang="sr" title="SMILES – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/SMILES" hreflang="sh" lang="sh" title="SMILES – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/SMILES" hreflang="fi" lang="fi" title="SMILES – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Simplified_Molecular_Input_Line_Entry_Specification" hreflang="sv" lang="sv" title="Simplified Molecular Input Line Entry Specification – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/SMILES" hreflang="tr" lang="tr" title="SMILES – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/SMILES" hreflang="uk" lang="uk" title="SMILES – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A7%D8%B3%D9%85%D8%A7%D8%A6%D9%84%D8%B3" hreflang="ur" lang="ur" title="اسمائلس – Urdu">اردو</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%AE%80%E5%8C%96%E5%88%86%E5%AD%90%E7%BA%BF%E6%80%A7%E8%BE%93%E5%85%A5%E8%A7%84%E8%8C%83" hreflang="zh" lang="zh" title="简化分子线性输入规范 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q466769#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 31 October 2018, at 06:13<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Simplified_molecular-input_line-entry_system&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.412","walltime":"0.528","ppvisitednodes":{"value":1542,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70441,"limit":2097152},"templateargumentsize":{"value":423,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31170,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  371.356      1 -total"," 45.12%  167.567      1 Template:Reflist"," 32.40%  120.317      4 Template:Cite_book"," 11.87%   44.095      6 Template:Navbox","  9.73%   36.133      1 Template:Infobox_file_format","  9.07%   33.692      1 Template:External_links","  8.84%   32.822      1 Template:Redirect","  8.50%   31.564      1 Template:Chemistry_software","  7.81%   29.015      1 Template:Ambox","  6.49%   24.098      4 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.192","limit":"10.000"},"limitreport-memusage":{"value":5243539,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20181031061316","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1323"});});</script>
+</body>
+</html>

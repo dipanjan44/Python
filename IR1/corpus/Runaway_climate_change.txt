@@ -1,0 +1,592 @@
+https://en.wikipedia.org/wiki/Runaway_climate_change
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Runaway climate change - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Runaway_climate_change","wgTitle":"Runaway climate change","wgCurRevisionId":856521047,"wgRevisionId":856521047,"wgArticleId":21233325,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Pages using web citations with no URL","Wikipedia articles needing clarification from March 2014","All articles with unsourced statements","Articles with unsourced statements from August 2009","Articles with unsourced statements from August 2014","Wikipedia articles needing clarification from May 2009","Climate change","Climate feedbacks"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Runaway_climate_change","wgRelevantArticleId":21233325,"wgRequestId":"W9nuVApAMEwAADpdK5YAAABW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7379680","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/f/f0/2007_Arctic_Sea_Ice.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Runaway_climate_change" rel="alternate"/>
+<link href="/w/index.php?title=Runaway_climate_change&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Runaway_climate_change&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Runaway_climate_change" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Runaway_climate_change rootpage-Runaway_climate_change skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Runaway climate change</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:2007_Arctic_Sea_Ice.jpg"><img alt="" class="thumbimage" data-file-height="451" data-file-width="540" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2007_Arctic_Sea_Ice.jpg/220px-2007_Arctic_Sea_Ice.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2007_Arctic_Sea_Ice.jpg/330px-2007_Arctic_Sea_Ice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2007_Arctic_Sea_Ice.jpg/440px-2007_Arctic_Sea_Ice.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:2007_Arctic_Sea_Ice.jpg" title="Enlarge"></a></div>The record-breaking decline of <a href="/wiki/Arctic_ice_pack" title="Arctic ice pack">Arctic Sea ice</a> has been reported as a "tipping point"</div></div></div>
+<p><b>Runaway climate change</b> or <b>runaway global warming</b> is hypothesized to follow a <a href="/wiki/Tipping_point_(climatology)" title="Tipping point (climatology)">tipping point</a> in the <a class="mw-redirect" href="/wiki/Climate_system" title="Climate system">climate system</a>, after accumulated <a href="/wiki/Climate_change" title="Climate change">climate change</a> initiates a reinforcing <a href="/wiki/Positive_feedback" title="Positive feedback">positive feedback</a>. This rapid acceleration in climate change may lead to potentially irreversible damage to the climate system, making timely mitigation efforts unfeasible. This is thought to cause the climate to rapidly change until it reaches a new stable condition.<sup class="reference" id="cite_ref-Brown06_1-0"><a href="#cite_note-Brown06-1">[1]</a></sup>  These phrases may be used with reference to concerns about rapid <a href="/wiki/Global_warming" title="Global warming">global warming</a>.<sup class="reference" id="cite_ref-Brown06_1-1"><a href="#cite_note-Brown06-1">[1]</a></sup><sup class="reference" id="cite_ref-Monbiot_2-0"><a href="#cite_note-Monbiot-2">[2]</a></sup> Some astronomers use the expression runaway <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a> to describe a situation where the climate deviates catastrophically and permanently from the original state—as happened on <a href="/wiki/Venus" title="Venus">Venus</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Although these terms are rarely used in the peer-reviewed climatological literature,<sup class="reference" id="cite_ref-doi10.1146/annurev.energy.32.041706.124700_5-0"><a href="#cite_note-doi10.1146/annurev.energy.32.041706.124700-5">[5]</a></sup><sup class="reference" id="cite_ref-BA05_6-0"><a href="#cite_note-BA05-6">[6]</a></sup> that literature does use the similar phrase "<a href="/wiki/Runaway_greenhouse_effect" title="Runaway greenhouse effect">runaway greenhouse effect</a>", which refers specifically to climate changes that cause a planetary body's water to boil off.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Related_terms"><span class="tocnumber">1</span> <span class="toctext">Related terms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Runaway_greenhouse_effect"><span class="tocnumber">2</span> <span class="toctext">Runaway greenhouse effect</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Global_habitability"><span class="tocnumber">2.1</span> <span class="toctext">Global habitability</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Feedback_effects"><span class="tocnumber">3</span> <span class="toctext">Feedback effects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Slow"><span class="tocnumber">3.1</span> <span class="toctext">Slow</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Fast"><span class="tocnumber">3.2</span> <span class="toctext">Fast</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Methane_deposits_and_clathrates"><span class="tocnumber">3.3</span> <span class="toctext">Methane deposits and clathrates</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Current_risk"><span class="tocnumber">4</span> <span class="toctext">Current risk</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Paleoclimatology"><span class="tocnumber">5</span> <span class="toctext">Paleoclimatology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Clathrate_gun"><span class="tocnumber">5.1</span> <span class="toctext">Clathrate gun</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Snowball_Earth"><span class="tocnumber">5.2</span> <span class="toctext">Snowball Earth</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Related_terms">Related terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=1" title="Edit section: Related terms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>At a <i>tipping level</i> or <a href="/wiki/Tipping_point_(climatology)" title="Tipping point (climatology)"><i>tipping point</i></a> the <a class="mw-redirect" href="/wiki/Climate_forcing" title="Climate forcing">climate forcing</a> reaches a point such that no additional forcing is required for large climate change and impacts.<sup class="reference" id="cite_ref-hansen_1208_7-0"><a href="#cite_note-hansen_1208-7">[7]</a></sup></li>
+<li>At a <i>point of no return</i>, climate impacts that are irreversible on a practical time scale occur. An example of such an impact is the disintegration of a large ice sheet.<sup class="reference" id="cite_ref-hansen_1208_7-1"><a href="#cite_note-hansen_1208-7">[7]</a></sup></li></ul>
+<h2><span class="mw-headline" id="Runaway_greenhouse_effect">Runaway greenhouse effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=2" title="Edit section: Runaway greenhouse effect">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Runaway_greenhouse_effect" title="Runaway greenhouse effect">Runaway greenhouse effect</a></div>
+<p>The <i>runaway greenhouse effect</i> has several meanings. At the least extreme, this implies global warming sufficient to induce out-of-control amplifying feedbacks, such as ice sheet disintegration and melting of <a class="mw-redirect" href="/wiki/Methane_hydrate" title="Methane hydrate">methane hydrates</a>. At the most extreme, a Venus-like planet with crustal carbon baked into the atmosphere and a surface temperature of several hundred degrees, an irreversible <a href="/wiki/Climate_state" title="Climate state">climate state</a>.
+</p><p>Between these two is the <i>moist greenhouse</i>, which occurs if the climate forcing is large enough to make <a class="mw-redirect" href="/wiki/Water_vapour" title="Water vapour">water vapour</a> (H<sub>2</sub>O) a major <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">atmospheric constituent</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> In principle, an extreme moist greenhouse might cause an instability with water vapour preventing radiation to space of all absorbed solar energy, resulting in very high surface temperature and evaporation of the ocean.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> However, simulations indicate that no plausible human-made <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> (GHG) forcing can cause an instability and baked-crust runaway greenhouse effect.<sup class="reference" id="cite_ref-Hansen_et_al_2013_10-0"><a href="#cite_note-Hansen_et_al_2013-10">[10]</a></sup>
+</p><p>Conceivable levels of human-made climate forcing could yield the<i> low-end</i> runaway greenhouse. A forcing of 12–16 W m<sup>−2</sup> would require <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>) levels to increase 8–16 times. If the forcing were due only to CO<sub>2</sub> change, this would raise the global mean temperature by 16–24 °C with much larger polar warming. A warming of 16–24 °C produces a moderately moist greenhouse, with water vapour increasing to about 1% of the atmosphere's mass, thus increasing the rate of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> escape to space. If such a forcing were entirely due to CO<sub>2</sub>, the weathering process would remove the excess atmospheric CO<sub>2</sub> on a time scale of 10<sup>4</sup>–10<sup>5</sup> years, well before the ocean was significantly depleted. Venus-like conditions on the Earth require a large long-term forcing that is unlikely to occur until the sun brightens by a few tens of percents, which will take a few billion years.<sup class="reference" id="cite_ref-Hansen_et_al_2013_10-1"><a href="#cite_note-Hansen_et_al_2013-10">[10]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Global_habitability">Global habitability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=3" title="Edit section: Global habitability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Burning all fossil fuels would adversely affect the ability of humans to live on the planet. If non-CO<sub>2</sub> greenhouse gases such as <a class="mw-redirect" href="/wiki/N2O" title="N2O">N<sub>2</sub>O</a> and <a href="/wiki/Methane" title="Methane">methane</a> (CH<sub>4</sub>) were to increase with global warming at the same rate as in the palaeoclimate record and atmospheric chemistry simulations<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> they would provide approximately 25% of the greenhouse forcing.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="What is the other 75%? The initial assumption does not state anything about increasing CO2 levels. (March 2014)">clarification needed</span></a></i>]</sup> The remaining forcing requires approximately 4.8 times current CO<sub>2</sub> levels, corresponding to fossil fuel emissions as much as approximately 10,000 Gt C for a conservative assumption of a CO<sub>2</sub> airborne fraction averaging one-third over the 1000 years following a peak emission.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>Calculated global warming in this case is 16 °C, with warming at the poles approximately 30 °C. Calculated warming over land areas averages approximately 20 °C. Such temperatures would eliminate grain production in almost all agricultural regions in the world.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> Increased stratospheric water vapour would diminish the stratospheric ozone layer.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p><p>Global warming of that magnitude would make most of the planet uninhabitable by humans.<sup class="reference" id="cite_ref-Sherwood_2010_16-0"><a href="#cite_note-Sherwood_2010-16">[16]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> The human body generates about 100 W of metabolic heat that must be carried away to maintain a core body temperature near 37 °C, which implies that sustained <a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">wet bulb temperatures</a> above 35 °C can result in lethal hyperthermia.<sup class="reference" id="cite_ref-Sherwood_2010_16-1"><a href="#cite_note-Sherwood_2010-16">[16]</a></sup> Today, the summer temperature varies widely over the Earth's surface, but wet bulb temperature is more narrowly confined by the effect of humidity, with the most common value of approximately 26–27 °C and the highest approximately of 31 °C. A warming of 10–12 °C would put most of today's world population in regions with a wetbulb temperature above 35 °C.<sup class="reference" id="cite_ref-Sherwood_2010_16-2"><a href="#cite_note-Sherwood_2010-16">[16]</a></sup> Given the 20 °C warming that occurs with 4.8 times current CO<sub>2</sub> levels, such a climate forcing would produce intolerable climatic conditions even if the true climate sensitivity is significantly less than the Russell sensitivity,<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="What is the Russell sensitivity? (March 2014)">clarification needed</span></a></i>]</sup> or, if the Russell sensitivity is accurate, the CO<sub>2</sub> forcing required to produce intolerable conditions for humans is less than this amount.<sup class="reference" id="cite_ref-Hansen_et_al_2013_10-2"><a href="#cite_note-Hansen_et_al_2013-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Feedback_effects">Feedback effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=4" title="Edit section: Feedback effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Climate_change_feedback" title="Climate change feedback">Climate change feedback</a></div>
+<p>The core of the concept of runaway climate change is the idea of a large positive feedback within the climate system. When a change in global temperature causes an event to occur which itself changes global temperature, this is referred to as a <a href="/wiki/Feedback" title="Feedback">feedback</a> effect. If this effect acts in the same direction as the original temperature change, it is a destabilising <a href="/wiki/Positive_feedback" title="Positive feedback">positive feedback</a> (e.g. warming causing more warming); and if in the opposite direction, it is a stabilising <a href="/wiki/Negative_feedback" title="Negative feedback">negative feedback</a> (e.g. warming causing a cooling effect). If a sufficiently strong net positive feedback occurs, it is said that a <a class="mw-redirect" href="/wiki/Climate_tipping_point" title="Climate tipping point">climate tipping point</a> has been passed and the temperature will continue to change until the changed conditions result in negative feedbacks that restabilise the climate on a new, stable equilibrium manifold.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2009)">citation needed</span></a></i>]</sup>
+</p><p>An example of a negative feedback is that radiation leaving the Earth increases in proportion to the fourth <a href="/wiki/Exponentiation" title="Exponentiation">power</a> of temperature, in accordance with the <a class="mw-redirect" href="/wiki/Stefan-Boltzmann_law" title="Stefan-Boltzmann law">Stefan-Boltzmann law</a>. This feedback is always operational; therefore, while it may be overridden by positive feedbacks for comparatively small temperature changes it will dominate for larger temperature changes. An example of a positive feedback is the <a class="mw-redirect" href="/wiki/Ice-albedo_feedback" title="Ice-albedo feedback">ice-albedo feedback</a>, in which increasing temperature causes ice to melt, which increases the amount of heat that Earth absorbs. This feedback only operates in a restricted range of temperatures (those for which ice exists, and does not cover the whole surface; once all the ice has melted, the feedback ceases to operate).
+</p><p>Climate feedback effects can involve positive feedback in a type of forcing, such as the release of methane due to rising <a href="/wiki/Atmospheric_methane" title="Atmospheric methane">methane levels</a>; other greenhouse gases, as when CO<sub>2</sub> causes the release of methane; or other variables, such as the <a class="mw-redirect" href="/wiki/Ice-albedo_feedback" title="Ice-albedo feedback">ice-albedo feedback</a>.
+</p><p>Without <a class="mw-redirect" href="/wiki/Climate_feedback" title="Climate feedback">climate feedbacks</a>, a doubling in atmospheric carbon dioxide concentration would result in a global average temperature increase of around 1.2 °C. <a class="mw-redirect" href="/wiki/Water_vapor_feedback" title="Water vapor feedback">Water vapor</a> amount and <a href="/wiki/Cloud" title="Cloud">clouds</a> are probably the most important global climate feedbacks. <a class="mw-redirect" href="/wiki/Palaeoclimatology" title="Palaeoclimatology">Historical information</a> and <a class="mw-redirect" href="/wiki/Global_climate_model" title="Global climate model">global climate models</a> indicate a <a href="/wiki/Climate_sensitivity" title="Climate sensitivity">climate sensitivity</a> of 1.5 to 4.5 °C, with a best estimate of 3 °C. This is an amplification of the carbon dioxide forcing by a factor of 2.5. Some studies suggest a lower climate sensitivity, but other studies indicate a sensitivity above this range. Partly because of the difficulty in modeling the <a href="/wiki/Cloud_feedback" title="Cloud feedback">cloud feedback</a>, the true climate sensitivity remains uncertain.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Slow">Slow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=5" title="Edit section: Slow">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Slow feedback effects—especially changes in the sizes of ice sheets and levels of atmospheric CO<sub>2</sub>—amplify the sensitivity of the total Earth system by an amount that depends on the time scale considered.<sup class="reference" id="cite_ref-Hansen_et_al_2013_10-3"><a href="#cite_note-Hansen_et_al_2013-10">[10]</a></sup>
+</p><p>There are known examples of the Earth's climate producing a large response to small forcings. The CO<sub>2</sub> feedback effect is believed to be part of the transition between <a class="mw-redirect" href="/wiki/Glacial" title="Glacial">glacial</a> and <a href="/wiki/Interglacial" title="Interglacial">interglacial</a> periods, with <a href="/wiki/Orbital_forcing" title="Orbital forcing">orbital forcing</a> providing the initial trigger.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p><p>A 2006 book chapter by Cox et al. considers the possibility of a future runaway climate feedback due to changes in the land <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon cycle</a>:<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p>
+<blockquote><p>Here we use a simple land carbon balance model to analyse the conditions required for a land sink-to-source transition, and address the question; could the land carbon cycle lead to a runaway climate feedback? [...] The simple land carbon balance model has effective parameters representing the sensitivities of climate and <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a> to CO<sub>2</sub>, and the sensitivities of <a href="/wiki/Soil_respiration" title="Soil respiration">soil respiration</a> and photosynthesis to temperature. This model is used to show that (a) a carbon sink-to-source transition is inevitable beyond some finite critical CO<sub>2</sub> concentration provided a few simple conditions are satisfied, (b) the value of the critical CO<sub>2</sub> concentration is poorly known due to uncertainties in land carbon cycle parameters and especially in the climate sensitivity to CO<sub>2</sub>, and (c) that a true runaway land carbon-climate feedback (or linear instability) in the future is unlikely given that the land masses are currently acting as a carbon sink.</p></blockquote>
+<h3><span class="mw-headline" id="Fast">Fast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=6" title="Edit section: Fast">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In general, fast feedback climate sensitivity depends on the initial climate state. Fast feedback effects include changes in levels of water vapour and aerosols, as well as changes in cloud cover and the extent of sea ice.<sup class="reference" id="cite_ref-Hansen_et_al_2013_10-4"><a href="#cite_note-Hansen_et_al_2013-10">[10]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Methane_deposits_and_clathrates">Methane deposits and clathrates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=7" title="Edit section: Methane deposits and clathrates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Potentially unstable methane deposits exists in <a href="/wiki/Permafrost" title="Permafrost">permafrost</a> regions, which are expected to retreat as a result of global warming,<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> and also <a class="mw-redirect" href="/wiki/Clathrates" title="Clathrates">clathrates</a>, with the clathrate effect probably taking millennia to fully act.<sup class="reference" id="cite_ref-MInv04_22-0"><a href="#cite_note-MInv04-22">[22]</a></sup> The potential role of methane from <a class="mw-redirect" href="/wiki/Clathrate" title="Clathrate">clathrates</a> in near-future runaway scenarios is not certain, as studies<sup class="reference" id="cite_ref-OceanEsc06_23-0"><a href="#cite_note-OceanEsc06-23">[23]</a></sup> show a slow release of methane, which may not be regarded as 'runaway' by all commentators. The <a class="mw-redirect" href="/wiki/Clathrate_gun" title="Clathrate gun">clathrate gun</a> runaway effect may be used to describe more rapid methane releases. Methane in the atmosphere has a high <a href="/wiki/Global_warming_potential" title="Global warming potential">global warming potential</a>, but breaks down relatively quickly to form CO<sub>2</sub>, which is also a greenhouse gas. Therefore, slow methane release will have the long-term effect of adding CO<sub>2</sub> to the atmosphere.
+</p><p>In order to model clathrates and other reservoirs of greenhouse gases and their precursors, <a class="mw-redirect" href="/wiki/Global_climate_model" title="Global climate model">global climate models</a> would have to be 'coupled' to a carbon cycle model. Most current global climate models do not include modelling of methane deposits.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2014)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Current_risk">Current risk</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=8" title="Edit section: Current risk">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The scientific consensus in the <a href="/wiki/IPCC_Fourth_Assessment_Report" title="IPCC Fourth Assessment Report">IPCC Fourth Assessment Report</a><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> is that "Anthropogenic warming could lead to some effects that are abrupt or irreversible, depending upon the rate and magnitude of the climate change." Note however that this statement is about situations weaker than "runaway change".  Text prepared for the <a href="/wiki/IPCC_Fifth_Assessment_Report" title="IPCC Fifth Assessment Report">IPCC Fifth Assessment Report</a> states that "a 'runaway greenhouse effect'—analogous to Venus—appears to have virtually no chance of being induced by <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">anthropogenic</a> activities."<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p><p>Estimates of the size of the total carbon reservoir in Arctic <a href="/wiki/Permafrost" title="Permafrost">permafrost</a> and <a class="mw-redirect" href="/wiki/Clathrates" title="Clathrates">clathrates</a> vary widely. It is suggested that at least 900 gigatonnes of carbon in permafrost exists worldwide.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> Furthermore, there are believed to be another 400 gigatonnes of carbon in methane clathrates in permafrost regions <sup class="reference" id="cite_ref-Mac90_27-0"><a href="#cite_note-Mac90-27">[27]</a></sup> with 10,000 to 11,000 gigatonnes worldwide.<sup class="reference" id="cite_ref-Mac90_27-1"><a href="#cite_note-Mac90-27">[27]</a></sup> This is large enough that if 10% of the stored methane were released, it would have an effect equivalent to a factor of 10 increase in atmospheric CO<sub>2</sub> concentrations.<sup class="reference" id="cite_ref-Archer2007_28-0"><a href="#cite_note-Archer2007-28">[28]</a></sup> <a href="/wiki/Methane" title="Methane">Methane</a> is a potent <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> with a higher <a href="/wiki/Global_warming_potential" title="Global warming potential">global warming potential</a> than CO<sub>2</sub>.
+</p><p>Worries about the release of this methane and carbon dioxide is linked to <a class="mw-redirect" href="/wiki/Arctic_shrinkage" title="Arctic shrinkage">arctic shrinkage</a>. Recent years have seen record low Arctic sea ice. It has been suggested that rapid melting of the sea ice may initiate a feedback loop that rapidly melts arctic <a href="/wiki/Permafrost" title="Permafrost">permafrost</a>.<sup class="reference" id="cite_ref-Lawrence_01_29-0"><a href="#cite_note-Lawrence_01-29">[29]</a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> Methane clathrates on the sea-floor have also been predicted to destabilise, but much more slowly.<sup class="reference" id="cite_ref-Mac90_27-2"><a href="#cite_note-Mac90-27">[27]</a></sup>
+</p><p>A release of methane from clathrates, however, is believed to be slow and chronic rather than catastrophic and that 21st-century effects of such a release are therefore likely to be 'significant but not catastrophic'.<sup class="reference" id="cite_ref-Archer2007_28-1"><a href="#cite_note-Archer2007-28">[28]</a></sup> It is further noted that 'much methane from dissociated gas hydrate may never reach the atmosphere',<sup class="reference" id="cite_ref-Kvenvolden_31-0"><a href="#cite_note-Kvenvolden-31">[31]</a></sup> as it can be dissolved into the ocean and be broken down biologically.<sup class="reference" id="cite_ref-Kvenvolden_31-1"><a href="#cite_note-Kvenvolden-31">[31]</a></sup> Other research<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> demonstrates that a release to the atmosphere can occur during large releases.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (May 2009)">clarification needed</span></a></i>]</sup> These sources suggest that the <a class="mw-redirect" href="/wiki/Clathrate_gun" title="Clathrate gun">clathrate gun</a> effect alone will not be sufficient to cause 'catastrophic'<sup class="reference" id="cite_ref-Archer2007_28-2"><a href="#cite_note-Archer2007-28">[28]</a></sup> climate change within a human lifetime.
+</p><p><a class="mw-redirect" href="/wiki/James_E._Hansen" title="James E. Hansen">Hansen</a> et al. 2013 suggests that the Earth could become in large parts uninhabitable and note that this may not even require burning of all fossil fuels, because of higher climate sensitivity (3–4 °C or 5.4–7.2 °F) based on a 550 ppm scenario. Burning all fossil fuels would warm land areas on average about 20 °C (36 °F) and warm the poles 30 °C (54 °F).<sup class="reference" id="cite_ref-Hansen_et_al_2013_10-5"><a href="#cite_note-Hansen_et_al_2013-10">[10]</a></sup> Earlier estimates were based on the assumption that fossil-fuel use would continue until reserves were exhausted, and predicted a <a href="/wiki/Runaway_greenhouse_effect" title="Runaway greenhouse effect">runaway greenhouse effect</a>, a climate similar to that on <a href="/wiki/Venus" title="Venus">Venus</a>.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> Ongoing research determines if such a <a href="/wiki/Climate_state" title="Climate state">climate state</a> is possible on Earth.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup><sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup><sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Paleoclimatology">Paleoclimatology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=9" title="Edit section: Paleoclimatology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></div>
+<p>Events that could be described as runaway climate change may have occurred in the past.
+</p>
+<h3><span class="mw-headline" id="Clathrate_gun">Clathrate gun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=10" title="Edit section: Clathrate gun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Clathrate_gun" title="Clathrate gun">Clathrate gun</a></div>
+<p>The <a class="mw-redirect" href="/wiki/Clathrate_gun" title="Clathrate gun">clathrate gun</a> hypothesis suggests an <a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">abrupt climate change</a> due to a massive release of methane gas from <a class="mw-redirect" href="/wiki/Methane_clathrates" title="Methane clathrates">methane clathrates</a> on the <a class="mw-redirect" href="/wiki/Seafloor" title="Seafloor">seafloor</a>. It has been speculated that the <a class="mw-redirect" href="/wiki/Permian-Triassic_extinction_event" title="Permian-Triassic extinction event">Permian-Triassic extinction event</a><sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup> and the <a class="mw-redirect" href="/wiki/Paleocene-Eocene_Thermal_Maximum" title="Paleocene-Eocene Thermal Maximum">Paleocene-Eocene Thermal Maximum</a><sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup> were caused by massive clathrate release.
+</p>
+<h3><span class="mw-headline" id="Snowball_Earth">Snowball Earth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=11" title="Edit section: Snowball Earth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a class="mw-redirect" href="/wiki/Snowball_earth" title="Snowball earth">Snowball earth</a> and <a class="mw-redirect" href="/wiki/Ice-albedo_feedback" title="Ice-albedo feedback">Ice-albedo feedback</a></div>
+<p>Geological evidence shows that <a class="mw-redirect" href="/wiki/Ice-albedo_feedback" title="Ice-albedo feedback">ice-albedo feedback</a> caused sea ice advance to near the equator at several points in Earth history.<sup class="reference" id="cite_ref-Hoffman_39-0"><a href="#cite_note-Hoffman-39">[39]</a></sup> Modeling work shows that such an event would indeed be a result of a self-sustaining ice-albedo effect,<sup class="reference" id="cite_ref-Budyko_40-0"><a href="#cite_note-Budyko-40">[40]</a></sup> and that such a condition could be escaped via the accumulation of CO<sub>2</sub> from volcanic outgassing.<sup class="reference" id="cite_ref-Kirschvink_41-0"><a href="#cite_note-Kirschvink-41">[41]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Global_Warming_Map.jpg"><img alt="icon" class="noviewer" data-file-height="596" data-file-width="800" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/32px-Global_Warming_Map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/48px-Global_Warming_Map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/64px-Global_Warming_Map.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Global warming portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a class="mw-redirect" href="/wiki/Arctic_methane_release" title="Arctic methane release">Arctic methane release</a></li>
+<li><a class="mw-redirect" href="/wiki/Avoiding_dangerous_climate_change" title="Avoiding dangerous climate change">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Climate change feedback</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Runaway_climate_change&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a class="mw-selflink selflink">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Global_catastrophic_risks" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_catastrophic_risks" title="Template:Global catastrophic risks"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_catastrophic_risks" title="Template talk:Global catastrophic risks"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_catastrophic_risks&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_catastrophic_risks" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risks</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Future_of_the_Earth&amp;#10;*_Ultimate_fate_of_the_universe">
+<ul><li><a href="/wiki/Future_of_Earth" title="Future of Earth">Future of the Earth</a></li>
+<li><a href="/wiki/Ultimate_fate_of_the_universe" title="Ultimate fate of the universe">Ultimate fate of the universe</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grey_goo" title="Grey goo">Grey goo</a></li>
+<li><a href="/wiki/Kinetic_bombardment" title="Kinetic bombardment">Kinetic bombardment</a></li>
+<li><a href="/wiki/Mutual_assured_destruction" title="Mutual assured destruction">Mutual assured destruction</a>
+<ul><li><a href="/wiki/Dead_Hand" title="Dead Hand">Dead Hand</a></li>
+<li><a href="/wiki/Doomsday_device" title="Doomsday device">Doomsday device</a></li></ul></li>
+<li><a href="/wiki/Synthetic_intelligence" title="Synthetic intelligence">Synthetic intelligence</a> / <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a>
+<ul><li><a href="/wiki/Existential_risk_from_artificial_general_intelligence" title="Existential risk from artificial general intelligence">Existential risk from artificial intelligence</a></li>
+<li><a href="/wiki/AI_takeover" title="AI takeover">AI takeover</a></li></ul></li>
+<li><a href="/wiki/Technological_singularity" title="Technological singularity">Technological singularity</a></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sociological</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li>
+<li><a href="/wiki/New_World_Order_(conspiracy_theory)" title="New World Order (conspiracy theory)">New World Order (conspiracy theory)</a></li>
+<li><a href="/wiki/Nuclear_holocaust" title="Nuclear holocaust">Nuclear holocaust</a>
+<ul><li><a href="/wiki/Nuclear_winter" title="Nuclear winter">winter</a></li>
+<li><a href="/wiki/Nuclear_famine" title="Nuclear famine">famine</a></li>
+<li><a href="/wiki/Cobalt_bomb" title="Cobalt bomb">cobalt</a></li></ul></li>
+<li><a href="/wiki/Societal_collapse" title="Societal collapse">Societal collapse</a></li>
+<li><a href="/wiki/World_War_III" title="World War III">World War III</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ecological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Climate_change" title="Climate change">Climate change</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a>
+<ul><li><a class="mw-selflink selflink">Runaway climate change</a></li></ul></li>
+<li><a href="/wiki/Global_terrestrial_stilling" title="Global terrestrial stilling">Global terrestrial stilling</a></li>
+<li><a href="/wiki/Ice_age" title="Ice age">Ice age</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a><br/></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Overpopulation" title="Overpopulation">Overpopulation</a>
+<ul><li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Human overpopulation</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Biological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Extinction" title="Extinction">Extinction</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Extinction_event" title="Extinction event">Extinction event</a></li>
+<li><a href="/wiki/Human_extinction" title="Human extinction">Human extinction</a></li>
+<li><a href="/wiki/Genetic_erosion" title="Genetic erosion">Genetic erosion</a></li>
+<li><a href="/wiki/Genetic_pollution" title="Genetic pollution">Genetic pollution</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dysgenics" title="Dysgenics">Dysgenics</a></li>
+<li><a href="/wiki/Pandemic" title="Pandemic">Pandemic</a>
+<ul><li><a href="/wiki/Biological_agent" title="Biological agent">Biological agent</a></li></ul></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Physical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Big_Crunch" title="Big Crunch">Big Crunch</a></li>
+<li><a href="/wiki/Big_Rip" title="Big Rip">Big Rip</a></li>
+<li><a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">Coronal mass ejection</a></li>
+<li><a href="/wiki/Gamma-ray_burst" title="Gamma-ray burst">Gamma-ray burst</a></li>
+<li><a href="/wiki/Hypercane" title="Hypercane">Hypercane</a></li>
+<li><a href="/wiki/Impact_event" title="Impact event">Impact event</a>
+<ul><li><a href="/wiki/Asteroid_impact_avoidance" title="Asteroid impact avoidance">Asteroid impact avoidance</a></li>
+<li><a href="/wiki/Potentially_hazardous_object" title="Potentially hazardous object">Potentially hazardous object</a></li></ul></li>
+<li><a href="/wiki/Rogue_planet" title="Rogue planet">Rogue planet</a></li>
+<li><a href="/wiki/Solar_flare" title="Solar flare">Solar flare</a></li>
+<li><a href="/wiki/Supervolcano" title="Supervolcano">Supervolcano</a>
+<ul><li><a href="/wiki/Volcanic_winter" title="Volcanic winter">winter</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mythological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Eschatology" title="Eschatology">Eschatology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buddhist_eschatology" title="Buddhist eschatology">Buddhist</a></li>
+<li><a href="/wiki/Hindu_eschatology" title="Hindu eschatology">Hindu</a></li>
+<li><a href="/wiki/Last_Judgment" title="Last Judgment">Last Judgment</a>
+<ul><li><a href="/wiki/Christian_eschatology" title="Christian eschatology">Christian</a>
+<ul><li><a href="/wiki/Book_of_Revelation" title="Book of Revelation">Book of Revelation</a></li></ul></li>
+<li><a href="/wiki/Islamic_eschatology" title="Islamic eschatology">Islamic</a></li>
+<li><a href="/wiki/Jewish_eschatology" title="Jewish eschatology">Jewish</a></li></ul></li>
+<li><a href="/wiki/Ragnar%C3%B6k" title="Ragnarök">Norse</a></li>
+<li><a href="/wiki/Frashokereti" title="Frashokereti">Zoroastrian</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2011_end_times_prediction" title="2011 end times prediction">2011 end times prediction</a></li>
+<li><a href="/wiki/2012_phenomenon" title="2012 phenomenon">2012 phenomenon</a></li>
+<li><a href="/wiki/Apocalypse" title="Apocalypse">Apocalypse</a></li>
+<li><a href="/wiki/Armageddon" title="Armageddon">Armageddon</a></li>
+<li><a href="/wiki/Blood_moon_prophecy" title="Blood moon prophecy">Blood moon prophecy</a></li>
+<li><a href="/wiki/Doomsday_Clock" title="Doomsday Clock">Doomsday Clock</a></li>
+<li><a href="/wiki/End_time" title="End time">End time</a></li>
+<li><a href="/wiki/List_of_dates_predicted_for_apocalyptic_events" title="List of dates predicted for apocalyptic events">List of dates predicted for apocalyptic events</a></li>
+<li><a href="/wiki/Nibiru_cataclysm" title="Nibiru cataclysm">Nibiru cataclysm</a></li>
+<li><a href="/wiki/Rapture" title="Rapture">Rapture</a></li>
+<li><a href="/wiki/Revelation_12_sign_prophecy" title="Revelation 12 sign prophecy">Revelation 12 sign prophecy</a></li>
+<li><a href="/wiki/Third_Temple" title="Third Temple">Third Temple</a></li>
+<li><a href="/wiki/Year_2000_problem" title="Year 2000 problem">Year 2000 problem</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fictional</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alien_invasion" title="Alien invasion">Alien invasion</a></li>
+<li><a href="/wiki/Apocalyptic_and_post-apocalyptic_fiction" title="Apocalyptic and post-apocalyptic fiction">Apocalyptic and post-apocalyptic fiction</a>
+<ul><li><a href="/wiki/List_of_apocalyptic_and_post-apocalyptic_fiction" title="List of apocalyptic and post-apocalyptic fiction">List of apocalyptic and post-apocalyptic fiction</a></li>
+<li><a href="/wiki/List_of_apocalyptic_films" title="List of apocalyptic films">List of apocalyptic films</a></li></ul></li>
+<li><a href="/wiki/Disaster_film" title="Disaster film">Disaster films</a>
+<ul><li><a href="/wiki/List_of_disaster_films" title="List of disaster films">List of disaster films</a></li></ul></li>
+<li><a href="/wiki/List_of_fictional_doomsday_devices" title="List of fictional doomsday devices">List of fictional doomsday devices</a></li>
+<li><a href="/wiki/Zombie_apocalypse" title="Zombie apocalypse">Zombie apocalypse</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> Categories
+<ul><li><a href="/wiki/Category:Apocalypticism" title="Category:Apocalypticism">Apocalypticism</a></li>
+<li><a href="/wiki/Category:Future_problems" title="Category:Future problems">Future problems</a></li>
+<li><a href="/wiki/Category:Hazards" title="Category:Hazards">Hazards</a></li>
+<li><a href="/wiki/Category:Risk_analysis" title="Category:Risk analysis">Risk analysis</a></li>
+<li><a href="/wiki/Category:Doomsday_scenarios" title="Category:Doomsday scenarios">Doomsday scenarios</a></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20181029144325
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.780 seconds
+Real time usage: 0.882 seconds
+Preprocessor visited node count: 3356/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 201532/2097152 bytes
+Template argument size: 2548/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 124125/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.419/10.000 seconds
+Lua memory usage: 5.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  667.369      1 -total
+ 59.27%  395.548      1 Template:Reflist
+ 31.94%  213.147     26 Template:Cite_journal
+ 15.30%  102.117     10 Template:Cite_web
+ 12.69%   84.688      3 Template:Clarify
+ 11.43%   76.296      3 Template:Fix-span
+ 10.49%   69.977      1 Template:Global_warming
+  9.88%   65.937      1 Template:Navbox_with_collapsible_groups
+  7.14%   47.620     10 Template:Category_handler
+  6.65%   44.408     10 Template:Navbox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21233325-0!canonical and timestamp 20181029144324 and revision id 856521047
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Runaway_climate_change&amp;oldid=856521047">https://en.wikipedia.org/w/index.php?title=Runaway_climate_change&amp;oldid=856521047</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li><li><a href="/wiki/Category:Climate_feedbacks" title="Category:Climate feedbacks">Climate feedbacks</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2014" title="Category:Wikipedia articles needing clarification from March 2014">Wikipedia articles needing clarification from March 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2009" title="Category:Articles with unsourced statements from August 2009">Articles with unsourced statements from August 2009</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2014" title="Category:Articles with unsourced statements from August 2014">Articles with unsourced statements from August 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_May_2009" title="Category:Wikipedia articles needing clarification from May 2009">Wikipedia articles needing clarification from May 2009</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Runaway+climate+change" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Runaway+climate+change" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Runaway_climate_change" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Runaway_climate_change" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Runaway_climate_change">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Runaway_climate_change&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Runaway_climate_change&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Runaway_climate_change" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Runaway_climate_change" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Runaway_climate_change&amp;oldid=856521047" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Runaway_climate_change&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7379680" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Runaway_climate_change&amp;id=856521047" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Runaway+climate+change">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Runaway+climate+change&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Runaway_climate_change&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Emballement_climatique" hreflang="fr" lang="fr" title="Emballement climatique – French">Français</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7379680#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 August 2018, at 20:28<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Runaway_climate_change&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.780","walltime":"0.882","ppvisitednodes":{"value":3356,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":201532,"limit":2097152},"templateargumentsize":{"value":2548,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":124125,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  667.369      1 -total"," 59.27%  395.548      1 Template:Reflist"," 31.94%  213.147     26 Template:Cite_journal"," 15.30%  102.117     10 Template:Cite_web"," 12.69%   84.688      3 Template:Clarify"," 11.43%   76.296      3 Template:Fix-span"," 10.49%   69.977      1 Template:Global_warming","  9.88%   65.937      1 Template:Navbox_with_collapsible_groups","  7.14%   47.620     10 Template:Category_handler","  6.65%   44.408     10 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.419","limit":"10.000"},"limitreport-memusage":{"value":6060636,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20181029144325","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1241"});});</script>
+</body>
+</html>

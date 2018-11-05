@@ -1,0 +1,1158 @@
+https://en.wikipedia.org/wiki/Hassium
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Hassium - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hassium","wgTitle":"Hassium","wgCurRevisionId":865470064,"wgRevisionId":865470064,"wgArticleId":13764,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Russian-language sources (ru)","CS1 German-language sources (de)","Webarchive template webcite links","Webarchive template archiveis links","Webarchive template wayback links","Good articles","Use dmy dates from March 2018","Articles with short description","Articles with hAudio microformats","Articles including recorded pronunciations (English)","Articles containing Latin-language text","Wikipedia articles with GND identifiers","Hassium","Chemical elements","Transition metals","Synthetic elements"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hassium","wgRelevantArticleId":13764,"wgRequestId":"W9oXRQpAAD8AAH3KfIoAAACK","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1252","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hexagonal_close_packed.svg/1200px-Hexagonal_close_packed.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hassium" rel="alternate"/>
+<link href="/w/index.php?title=Hassium&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Hassium&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Hassium" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hassium rootpage-Hassium skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Follow the link for more information."><img alt="This is a good article. Follow the link for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Hassium</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">chemical element with atomic number 108</div><table class="infobox" style="width:22em"><caption><span style="white-space:nowrap">Hassium,  <sub><span style="font-size:smaller;">108</span></sub>Hs</span></caption><tbody><tr><th colspan="2" style="text-align:center;background:#ffc0c0">General properties</th></tr><tr><th scope="row">Pronunciation</th><td>
+<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'h' in 'hi'">h</span><span title="/æ/: 'a' in 'bad'">æ</span><span title="'s' in 'sigh'">s</span><span title="/i/: 'y' in 'happy'">i</span><span title="/ə/: 'a' in 'about'">ə</span><span title="'m' in 'my'">m</span></span>/</a></span><small class="nowrap"> (<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Hassium2009.ogg" title="About this sound"><img alt="About this sound" data-file-height="20" data-file-width="20" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a> </span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/c/c3/Hassium2009.ogg" title="Hassium2009.ogg">listen</a></span></span>)</small></span><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> <wbr/>​<span class="nowrap">(<a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling"><span style="font-size:90%">HAS</span>-ee-əm</i></a>)</span></td></tr><tr><th scope="row">Appearance</th><td>
+silvery <i>(predicted)</i><sup class="reference" id="cite_ref-emsley_2-0"><a href="#cite_note-emsley-2">[2]</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Mass_number" title="Mass number">Mass number</a></th><td>
+270 (most stable isotope)</td></tr><tr><th colspan="2" style="text-align:center;background:#ffc0c0">Hassium in the <a href="/wiki/Periodic_table" title="Periodic table">periodic table</a></th></tr><tr><td colspan="2" style="text-align:center">
+<table class="wikitable" style="text-align:center; width:100%; margin:0; border-width:1px; background:#f8f8f8;">
+<tbody><tr>
+<td>
+<table class="wikitable" style="text-align:center; margin:0 auto; background:transparent; border:none;">
+<tbody><tr>
+<td style="border:none; width:5px"><div style="background-color:transparent; margin:0; padding:0; text-align:center; border:none;">
+<table style="empty-cells:hidden; border:none; padding:0; border-spacing:1px; border-collapse:separate; margin:0;">
+<tbody><tr>
+<td style="border:none;padding:0;"><a href="/wiki/Hydrogen" title="Hydrogen"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Hydrogen</span></a>
+</td>
+<td colspan="30" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Helium" title="Helium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Helium</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Lithium" title="Lithium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Lithium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Beryllium" title="Beryllium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Beryllium</span></a>
+</td>
+<td colspan="24" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Boron" title="Boron"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Boron</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Carbon" title="Carbon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Carbon</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Nitrogen" title="Nitrogen"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Nitrogen</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Oxygen" title="Oxygen"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Oxygen</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Fluorine" title="Fluorine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Fluorine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Neon" title="Neon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Neon</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Sodium" title="Sodium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Sodium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Magnesium" title="Magnesium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Magnesium</span></a>
+</td>
+<td colspan="24" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Aluminium" title="Aluminium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Aluminium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Silicon" title="Silicon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Silicon</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Phosphorus" title="Phosphorus"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Phosphorus</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Sulfur" title="Sulfur"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Sulfur</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Chlorine" title="Chlorine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Chlorine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Argon" title="Argon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Argon</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Potassium" title="Potassium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Potassium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Calcium" title="Calcium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Calcium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Scandium" title="Scandium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Scandium</span></a>
+</td>
+<td colspan="14" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Titanium" title="Titanium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Titanium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Vanadium" title="Vanadium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Vanadium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Chromium" title="Chromium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Chromium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Manganese" title="Manganese"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Manganese</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Iron" title="Iron"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Iron</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Cobalt" title="Cobalt"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Cobalt</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Nickel" title="Nickel"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Nickel</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Copper" title="Copper"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Copper</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Zinc" title="Zinc"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Zinc</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Gallium" title="Gallium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Gallium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Germanium" title="Germanium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Germanium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Arsenic" title="Arsenic"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Arsenic</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Selenium" title="Selenium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Selenium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Bromine" title="Bromine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Bromine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Krypton" title="Krypton"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Krypton</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Rubidium" title="Rubidium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Rubidium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Strontium" title="Strontium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Strontium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Yttrium" title="Yttrium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Yttrium</span></a>
+</td>
+<td style="border:none;padding:0;; width:0;">
+</td>
+<td colspan="13" style="border:none;padding:0;">
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Zirconium" title="Zirconium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Zirconium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Niobium" title="Niobium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Niobium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Molybdenum" title="Molybdenum"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Molybdenum</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Technetium" title="Technetium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Technetium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Ruthenium" title="Ruthenium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Ruthenium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Rhodium" title="Rhodium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Rhodium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Palladium" title="Palladium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Palladium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Silver" title="Silver"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Silver</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Cadmium" title="Cadmium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Cadmium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Indium" title="Indium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Indium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tin" title="Tin"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Tin</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Antimony" title="Antimony"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Antimony</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tellurium" title="Tellurium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Tellurium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Iodine" title="Iodine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#f0ff8f;">Iodine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Xenon" title="Xenon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Xenon</span></a>
+</td></tr>
+<tr style="border:none;padding:0;">
+<td style="border:none;padding:0;"><a href="/wiki/Caesium" title="Caesium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Caesium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Barium" title="Barium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Barium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Lanthanum" title="Lanthanum"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Lanthanum</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Cerium" title="Cerium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Cerium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Praseodymium" title="Praseodymium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Praseodymium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Neodymium" title="Neodymium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Neodymium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Promethium" title="Promethium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Promethium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Samarium" title="Samarium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Samarium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Europium" title="Europium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Europium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Gadolinium" title="Gadolinium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Gadolinium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Terbium" title="Terbium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Terbium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Dysprosium" title="Dysprosium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Dysprosium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Holmium" title="Holmium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Holmium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Erbium" title="Erbium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Erbium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Thulium" title="Thulium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Thulium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Ytterbium" title="Ytterbium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Ytterbium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Lutetium" title="Lutetium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffbfff;">Lutetium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Hafnium" title="Hafnium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Hafnium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tantalum" title="Tantalum"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Tantalum</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tungsten" title="Tungsten"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Tungsten</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Rhenium" title="Rhenium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Rhenium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Osmium" title="Osmium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Osmium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Iridium" title="Iridium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Iridium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Platinum" title="Platinum"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Platinum</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Gold" title="Gold"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Gold</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Mercury_(element)" title="Mercury (element)"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Mercury (element)</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Thallium" title="Thallium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Thallium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Lead" title="Lead"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Lead</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Bismuth" title="Bismuth"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Bismuth</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Polonium" title="Polonium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Polonium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Astatine" title="Astatine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccc99;">Astatine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Radon" title="Radon"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#c0ffff;">Radon</span></a>
+</td></tr>
+<tr>
+<td style="border:none;padding:0;"><a href="/wiki/Francium" title="Francium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff6666;">Francium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Radium" title="Radium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffdead;">Radium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Actinium" title="Actinium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Actinium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Thorium" title="Thorium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Thorium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Protactinium" title="Protactinium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Protactinium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Uranium" title="Uranium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Uranium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Neptunium" title="Neptunium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Neptunium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Plutonium" title="Plutonium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Plutonium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Americium" title="Americium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Americium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Curium" title="Curium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Curium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Berkelium" title="Berkelium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Berkelium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Californium" title="Californium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Californium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Einsteinium" title="Einsteinium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Einsteinium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Fermium" title="Fermium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Fermium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Mendelevium" title="Mendelevium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Mendelevium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Nobelium" title="Nobelium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Nobelium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Lawrencium" title="Lawrencium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ff99cc;">Lawrencium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Rutherfordium" title="Rutherfordium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Rutherfordium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Dubnium" title="Dubnium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Dubnium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Seaborgium" title="Seaborgium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Seaborgium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Bohrium" title="Bohrium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0;">Bohrium</span></a>
+</td>
+<td style="border:none;padding:0;"><a class="mw-selflink selflink"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#ffc0c0; border:1px solid black; margin:-1px;">Hassium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Meitnerium" title="Meitnerium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Meitnerium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Darmstadtium" title="Darmstadtium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Darmstadtium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Roentgenium" title="Roentgenium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Roentgenium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Copernicium" title="Copernicium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#cccccc;">Copernicium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Nihonium" title="Nihonium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Nihonium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Flerovium" title="Flerovium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Flerovium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Moscovium" title="Moscovium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Moscovium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Livermorium" title="Livermorium"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Livermorium</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Tennessine" title="Tennessine"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Tennessine</span></a>
+</td>
+<td style="border:none;padding:0;"><a href="/wiki/Oganesson" title="Oganesson"><span style="display:block;width:6px;height:8px;overflow:hidden;padding:0;color:transparent;background-color:#e8e8e8;">Oganesson</span></a>
+</td></tr></tbody></table>
+</div>
+</td>
+<td style="vertical-align:middle; text-align:center; font-size:90%; line-height:100%; width:10px; border:none;"><a href="/wiki/Osmium" title="Osmium">Os</a><br/>↑<br/><strong>Hs</strong><br/>↓<br/>(Uhb)
+</td></tr>
+<tr>
+<td class="nowrap" colspan="2" style="text-align:center; font-size:90%; line-height:100%; padding-top:0; padding-bottom:1px; border:none;"><a href="/wiki/Bohrium" title="Bohrium">bohrium</a> ← <strong>hassium</strong> → <a href="/wiki/Meitnerium" title="Meitnerium">meitnerium</a>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Atomic_number" title="Atomic number">Atomic number</a> <span style="font-weight:normal;">(<i>Z</i>)</span></span></th><td>
+108</td></tr><tr><th scope="row"><a href="/wiki/Group_(periodic_table)" title="Group (periodic table)">Group</a></th><td>
+<span class="nowrap"><a href="/wiki/Group_8_element" title="Group 8 element">group 8</a></span></td></tr><tr><th scope="row"><a href="/wiki/Period_(periodic_table)" title="Period (periodic table)">Period</a></th><td>
+<a href="/wiki/Period_(periodic_table)#Period_7" title="Period (periodic table)">period 7</a> </td></tr><tr><th scope="row"><a href="/wiki/Block_(periodic_table)" title="Block (periodic table)">Block</a></th><td>
+<a class="mw-redirect" href="/wiki/D-block" title="D-block">d-block</a> </td></tr><tr><th scope="row"><a href="/wiki/Names_for_sets_of_chemical_elements#Category" title="Names for sets of chemical elements">Element category</a></th><td>
+<span style="display:inline-block; vertical-align:middle; width:6px; height:8px; border:1px solid black; background:#ffc0c0" title="color legend: transition metal"> </span> <a href="/wiki/Transition_metal" title="Transition metal">transition metal</a></td></tr><tr><th scope="row"><a href="/wiki/Electron_configuration" title="Electron configuration">Electron configuration</a></th><td>
+[<a href="/wiki/Radon" title="Radon">Rn</a>] 5f<sup>14</sup> 6d<sup>6</sup> 7s<sup>2</sup><sup class="reference" id="cite_ref-Haire_3-0"><a href="#cite_note-Haire-3">[3]</a></sup></td></tr><tr><th scope="row"><div style="font-weight:normal;">Electrons per shell</div></th><td>
+2, 8, 18, 32, 32, 14, 2</td></tr><tr><th colspan="2" style="text-align:center;background:#ffc0c0">Physical properties</th></tr><tr><th scope="row"><a href="/wiki/Phase_(matter)" title="Phase (matter)">Phase</a> <style data-mw-deduplicate="TemplateStyles:r865336399">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">at <span title="STP: standard temperature and pressure: 0 °C and 101.325 kPa"><a href="/wiki/Standard_conditions_for_temperature_and_pressure" title="Standard conditions for temperature and pressure">STP</a></span></span></th><td>
+<a href="/wiki/Solid" title="Solid">solid</a> <i>(predicted)</i><sup class="reference" id="cite_ref-hcp_4-0"><a href="#cite_note-hcp-4">[4]</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Density" title="Density">Density</a> <span style="font-weight:normal;">(near <abbr title="room temperature">r.t.</abbr>)</span></th><td>
+41 g/cm<sup>3</sup> <i>(predicted)</i><sup class="reference" id="cite_ref-Haire_3-1"><a href="#cite_note-Haire-3">[3]</a></sup></td></tr><tr><th colspan="2" style="text-align:center;background:#ffc0c0">Atomic properties</th></tr><tr><th scope="row"><a href="/wiki/Oxidation_state" title="Oxidation state">Oxidation states</a></th><td>
+<b>8</b>, (<b>6</b>), (5), (<b>4</b>), (3), (<b>2</b>)<sup class="reference" id="cite_ref-emsley_2-1"><a href="#cite_note-emsley-2">[2]</a></sup><sup class="reference" id="cite_ref-Haire_3-2"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-BFricke_5-0"><a href="#cite_note-BFricke-5">[5]</a></sup><sup class="reference" id="cite_ref-hassocene_6-0"><a href="#cite_note-hassocene-6">[6]</a></sup> <wbr/>​(parenthesized oxidation states are predictions)</td></tr><tr><th scope="row"><a href="/wiki/Ionization_energy" title="Ionization energy">Ionization energies</a></th><td>
+<div class="plainlist"><ul><li>1st: 730 kJ/mol </li><li>2nd: 1760 kJ/mol </li><li>3rd: 2830 kJ/mol </li><li>(<a href="/wiki/Molar_ionization_energies_of_the_elements#hassium" title="Molar ionization energies of the elements">more</a>) <i>(all but first estimated)</i><sup class="reference" id="cite_ref-Haire_3-3"><a href="#cite_note-Haire-3">[3]</a></sup></li></ul></div></td></tr><tr><th scope="row"><a href="/wiki/Atomic_radius" title="Atomic radius">Atomic radius</a></th><td>
+empirical: 126 <a href="/wiki/Picometre" title="Picometre">pm</a> <i>(estimated)</i><sup class="reference" id="cite_ref-Haire_3-4"><a href="#cite_note-Haire-3">[3]</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Covalent_radius" title="Covalent radius">Covalent radius</a></th><td>
+134 pm <i>(estimated)</i><sup class="reference" id="cite_ref-rsc_7-0"><a href="#cite_note-rsc-7">[7]</a></sup></td></tr><tr><th colspan="2" style="text-align:center;background:#ffc0c0">Other properties</th></tr><tr><th scope="row"><a href="/wiki/Crystal_structure" title="Crystal structure">Crystal structure</a></th><td>
+ ​<a href="/wiki/Close-packing_of_equal_spheres" title="Close-packing of equal spheres">hexagonal close-packed</a> (hcp)<div style="float:right;"><a class="image" href="/wiki/File:Hexagonal_close_packed.svg" title="Hexagonal close-packed crystal structure for hassium"><img alt="Hexagonal close-packed crystal structure for hassium" data-file-height="307" data-file-width="311" height="49" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hexagonal_close_packed.svg/50px-Hexagonal_close_packed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hexagonal_close_packed.svg/75px-Hexagonal_close_packed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hexagonal_close_packed.svg/100px-Hexagonal_close_packed.svg.png 2x" width="50"/></a></div><br/><i>(predicted)</i><sup class="reference" id="cite_ref-hcp_4-1"><a href="#cite_note-hcp-4">[4]</a></sup></td></tr><tr><th scope="row"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></th><td>
+54037-57-9 </td></tr><tr><th colspan="2" style="text-align:center;background:#ffc0c0">History</th></tr><tr><th scope="row">Naming</th><td>
+after <i lang="la" title="Latin language text">Hassia</i>, Latin for <a href="/wiki/Hesse" title="Hesse">Hesse</a>, Germany, where it was discovered<sup class="reference" id="cite_ref-emsley_2-2"><a href="#cite_note-emsley-2">[2]</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Timeline_of_chemical_element_discoveries" title="Timeline of chemical element discoveries">Discovery</a></th><td>
+<a class="mw-redirect" href="/wiki/Gesellschaft_f%C3%BCr_Schwerionenforschung" title="Gesellschaft für Schwerionenforschung">Gesellschaft für Schwerionenforschung</a><span class="nowrap"> (1984)</span></td></tr><tr><th colspan="2" style="text-align:center;background:#ffc0c0">Main <a href="/wiki/Isotopes_of_hassium" title="Isotopes of hassium">isotopes of hassium</a></th></tr><tr><td colspan="2" style="text-align:center">
+<table cellpadding="1" class="wikitable" style="text-align: center; width: 100%; border-collapse: collapse; margin: 0; padding: 0;">
+<tbody><tr>
+<th><a href="/wiki/Isotope" title="Isotope">Iso­tope</a>
+</th>
+<th><a href="/wiki/Natural_abundance" title="Natural abundance">Abun­dance</a>
+</th>
+<th><a href="/wiki/Half-life" title="Half-life">Half-life</a> <link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold">(<i>t</i><sub>1/2</sub>)</span>
+</th>
+<th><a href="/wiki/Radioactive_decay" title="Radioactive decay">Decay mode</a>
+</th>
+<th><a href="/wiki/Decay_product" title="Decay product">Pro­duct</a>
+</th></tr>
+<tr>
+<th style="text-align:right;"><sup>271</sup>Hs
+</th>
+<td style="text-align:center;">syn
+</td>
+<td style="text-align:right;">4 s
+</td>
+<td><a href="/wiki/Alpha_decay" title="Alpha decay">α</a>
+</td>
+<td style="text-align:right;"><a class="mw-redirect" href="/wiki/Seaborgium-267" title="Seaborgium-267"><sup>267</sup>Sg</a>
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>270</sup>Hs
+</th>
+<td style="text-align:center;">syn
+</td>
+<td style="text-align:right;">10 s
+</td>
+<td>α
+</td>
+<td style="text-align:right;"><a class="mw-redirect" href="/wiki/Seaborgium-266" title="Seaborgium-266"><sup>266</sup>Sg</a>
+</td></tr>
+<tr>
+<th style="text-align:right;"><sup>269</sup>Hs
+</th>
+<td style="text-align:center;">syn
+</td>
+<td style="text-align:right;">9.7 s
+</td>
+<td>α
+</td>
+<td style="text-align:right;"><a class="mw-redirect" href="/wiki/Seaborgium-265" title="Seaborgium-265"><sup>265</sup>Sg</a>
+</td></tr></tbody></table></td></tr><tr><td class="noprint" colspan="2" style="text-align:center;background:#ffc0c0">
+<div class="plainlinks hlist navbar"><ul><li class="nv-view"><a href="/wiki/Template:Infobox_hassium" title="Template:Infobox hassium"><span title="View this template">view</span></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Infobox_hassium" title="Template talk:Infobox hassium"><span title="Discuss this template">talk</span></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Infobox_hassium&amp;action=edit"><span title="Edit this template">edit</span></a></li></ul></div> | <a href="/wiki/List_of_data_references_for_chemical_elements" title="List of data references for chemical elements">references</a></td></tr></tbody></table>
+<p><b>Hassium</b> is a synthetic <a href="/wiki/Chemical_element" title="Chemical element">chemical element</a> with symbol <b>Hs</b> and <a href="/wiki/Atomic_number" title="Atomic number">atomic number</a> 108. It is named after the German state of <a href="/wiki/Hesse" title="Hesse">Hesse</a>. It is a <a href="/wiki/Synthetic_element" title="Synthetic element">synthetic element</a> and <a class="mw-redirect" href="/wiki/Radioactive" title="Radioactive">radioactive</a>; the most stable known <a href="/wiki/Isotope" title="Isotope">isotope</a>, <sup>270</sup>Hs, has a <a href="/wiki/Half-life" title="Half-life">half-life</a> of approximately 10 seconds. More than 100 atoms of hassium have been synthesized to date.<sup class="reference" id="cite_ref-emsley_2-3"><a href="#cite_note-emsley-2">[2]</a></sup>
+</p><p>In the <a class="mw-redirect" href="/wiki/Periodic_table_(standard)" title="Periodic table (standard)">periodic table</a> of the elements, it is a <a class="mw-redirect" href="/wiki/D-block" title="D-block">d-block</a> <a href="/wiki/Transactinide_element" title="Transactinide element">transactinide element</a>. Hassium is a member of the <a class="mw-redirect" href="/wiki/Period_7" title="Period 7">7th period</a> and belongs to the <a class="mw-redirect" href="/wiki/Group_8_elements" title="Group 8 elements">group 8 elements</a>: it is thus the sixth member of the 6d series of <a href="/wiki/Transition_metal" title="Transition metal">transition metals</a>. Chemistry experiments have confirmed that hassium behaves as the heavier <a href="/wiki/Homology_(chemistry)" title="Homology (chemistry)">homologue</a> to <a href="/wiki/Osmium" title="Osmium">osmium</a> in group 8. The chemical properties of hassium are characterized only partly, but they compare well with the chemistry of the other group 8 elements. In bulk quantities, hassium is expected to be a silvery metal that reacts readily with <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> in the air, forming a volatile tetroxide.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Discovery"><span class="tocnumber">1</span> <span class="toctext">Discovery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Reports"><span class="tocnumber">1.1</span> <span class="toctext">Reports</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Arbitration"><span class="tocnumber">1.2</span> <span class="toctext">Arbitration</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Naming"><span class="tocnumber">1.3</span> <span class="toctext">Naming</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Natural_occurrence"><span class="tocnumber">2</span> <span class="toctext">Natural occurrence</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Isotopes"><span class="tocnumber">3</span> <span class="toctext">Isotopes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#270Hs:_prospects_for_a_deformed_doubly_magic_nucleus"><span class="tocnumber">3.1</span> <span class="toctext"><sup>270</sup>Hs: prospects for a deformed doubly magic nucleus</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Predicted_properties"><span class="tocnumber">4</span> <span class="toctext">Predicted properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Physical_and_atomic"><span class="tocnumber">4.1</span> <span class="toctext">Physical and atomic</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Chemical"><span class="tocnumber">4.2</span> <span class="toctext">Chemical</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Experimental_chemistry"><span class="tocnumber">5</span> <span class="toctext">Experimental chemistry</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Discovery">Discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=1" title="Edit section: Discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Discovery_of_the_chemical_elements" title="Discovery of the chemical elements">Discovery of the chemical elements</a></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Adenauerallee-2011-hessentag-099.jpg"><img alt="" class="thumbimage" data-file-height="3000" data-file-width="4000" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Adenauerallee-2011-hessentag-099.jpg/200px-Adenauerallee-2011-hessentag-099.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Adenauerallee-2011-hessentag-099.jpg/300px-Adenauerallee-2011-hessentag-099.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Adenauerallee-2011-hessentag-099.jpg/400px-Adenauerallee-2011-hessentag-099.jpg 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Adenauerallee-2011-hessentag-099.jpg" title="Enlarge"></a></div><a href="/wiki/Hessentag" title="Hessentag">Hessentag</a> festival in 2011, celebrating the culture of the German state of <a href="/wiki/Hesse" title="Hesse">Hesse</a>, namesake of hassium</div></div></div>
+<h3><span class="mw-headline" id="Reports">Reports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=2" title="Edit section: Reports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The synthesis of element 108 was first attempted in 1978 by a research team led by <a href="/wiki/Yuri_Oganessian" title="Yuri Oganessian">Yuri Oganessian</a> at the <a href="/wiki/Joint_Institute_for_Nuclear_Research" title="Joint Institute for Nuclear Research">Joint Institute for Nuclear Research</a> (JINR) in <a href="/wiki/Dubna" title="Dubna">Dubna</a>, <a href="/wiki/Moscow_Oblast" title="Moscow Oblast">Moscow Oblast</a>, <a class="mw-redirect" href="/wiki/Russian_SFSR" title="Russian SFSR">Russian SFSR</a>, <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>. The team used a reaction that would generate <sup>270</sup>108 from <a href="/wiki/Radium" title="Radium">radium</a> and <a href="/wiki/Calcium" title="Calcium">calcium</a>. The researchers were uncertain in interpreting result data; the paper did not unambiguously claim discovery.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> That same year, another team at JINR investigated the possibility of synthesis of element 108 in reactions between lead and iron; they were uncertain in interpreting result data as well, openly suggesting a possibility that element 108 had not been created.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p>New experiments were performed in 1983. In each experiment, a thin layer of a target material was installed on a rotating wheel and bombarded at a shallow angle. This was made so that fission fragments from spontaneously fissioning nuclides formed could escape the target and be detected in a number of fission track detectors surrounding the wheel. The experiments probably resulted in synthesis of element 108: <a href="/wiki/Bismuth" title="Bismuth">bismuth</a> was bombarded with <a href="/wiki/Manganese" title="Manganese">manganese</a> to obtain <sup>263</sup>108, <a href="/wiki/Lead" title="Lead">lead</a> was bombarded with <a href="/wiki/Iron" title="Iron">iron</a> to obtain <sup>270</sup>108, and <a href="/wiki/Californium" title="Californium">californium</a> was bombarded with <a href="/wiki/Neon" title="Neon">neon</a> to obtain <sup>264</sup>108.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> These experiments were not claimed as a discovery and were only announced by Oganessian in a conference rather than in a written report.<sup class="reference" id="cite_ref-1993_report_11-0"><a href="#cite_note-1993_report-11">[11]</a></sup>
+</p><p>In 1984, researchers in Dubna published a written report. The researchers performed a number of experiments set up as the previous ones with, bombarding target materials (bismuth and lead) with ions of lighter element (manganese and iron, correspondingly).<sup class="reference" id="cite_ref-1993_report_11-1"><a href="#cite_note-1993_report-11">[11]</a></sup>
+</p><p>Also in 1984, a research team led by <a href="/wiki/Peter_Armbruster" title="Peter Armbruster">Peter Armbruster</a> and <a href="/wiki/Gottfried_M%C3%BCnzenberg" title="Gottfried Münzenberg">Gottfried Münzenberg</a> at the <a class="mw-redirect" href="/wiki/Gesellschaft_f%C3%BCr_Schwerionenforschung" title="Gesellschaft für Schwerionenforschung">Gesellschaft für Schwerionenforschung</a> (GSI; <i>Institute for Heavy Ion Research</i>) in <a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a>, <a href="/wiki/Hesse" title="Hesse">Hesse</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a>, attempted to create element 108. The team bombarded a target of lead with accelerated nuclei of iron. They reported synthesis of 3 atoms of <sup>265</sup>108.<sup class="reference" id="cite_ref-84Mu01_12-0"><a href="#cite_note-84Mu01-12">[12]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Arbitration">Arbitration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=3" title="Edit section: Arbitration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1985, the <a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">International Union of Pure and Applied Chemistry</a> (IUPAC) and the <a href="/wiki/International_Union_of_Pure_and_Applied_Physics" title="International Union of Pure and Applied Physics">International Union of Pure and Applied Physics</a> (IUPAP) formed a <a href="/wiki/IUPAC/IUPAP_Joint_Working_Party" title="IUPAC/IUPAP Joint Working Party">Joint Working Party</a> (JWP) to assess <a class="mw-redirect" href="/wiki/Discovery_of_the_chemical_elements" title="Discovery of the chemical elements">discoveries</a> and establish final names for the elements with atomic number greater than 100. The party held meetings with delegates from the three competing institutes; in 1990, they established criteria on recognition of an element, and in 1991, they finished the work on assessing discoveries, and disbanded. These results were published in 1993.<sup class="reference" id="cite_ref-1993_report_11-2"><a href="#cite_note-1993_report-11">[11]</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Bohrium_hassium_meitnerium_ceremony.jpg"><img alt="" class="thumbimage" data-file-height="273" data-file-width="365" height="165" src="//upload.wikimedia.org/wikipedia/en/thumb/1/13/Bohrium_hassium_meitnerium_ceremony.jpg/220px-Bohrium_hassium_meitnerium_ceremony.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/13/Bohrium_hassium_meitnerium_ceremony.jpg/330px-Bohrium_hassium_meitnerium_ceremony.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/1/13/Bohrium_hassium_meitnerium_ceremony.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Bohrium_hassium_meitnerium_ceremony.jpg" title="Enlarge"></a></div>Naming ceremony conducted at the GSI on 7 September 1992 for the namings of elements 107, 108, and 109 as nielsbohrium, hassium, and meitnerium</div></div></div>
+<p>According to the report, the 1984 works from JINR and GSI simultaneously independently established synthesis of element 108. Of the two 1984 works, the one from GSI was said to be sufficient as a discovery on its own, while the JINR work, which preceded the GSI one, "very probably" displayed synthesis of element 108, but that is determined in retrospect given the work from Darmstadt. The report concluded that the major credit should be awarded to GSI.<sup class="reference" id="cite_ref-emsley_2-4"><a href="#cite_note-emsley-2">[2]</a></sup><sup class="reference" id="cite_ref-93TWG_13-0"><a href="#cite_note-93TWG-13">[13]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Naming">Naming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=4" title="Edit section: Naming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to <a href="/wiki/Mendeleev%27s_predicted_elements" title="Mendeleev's predicted elements">Mendeleev's nomenclature for unnamed and undiscovered elements</a>, hassium should be known as <i>eka-<a href="/wiki/Osmium" title="Osmium">osmium</a></i>. In 1979, IUPAC published recommendations according to which the element was to be called <i>unniloctium</i> (with the corresponding symbol of <i>Uno</i>),<sup class="reference" id="cite_ref-iupac_14-0"><a href="#cite_note-iupac-14">[14]</a></sup> a <a href="/wiki/Systematic_element_name" title="Systematic element name">systematic element name</a> as a <a href="/wiki/Placeholder_name" title="Placeholder name">placeholder</a>, until the element was discovered (and the discovery then confirmed) and a permanent name was decided on. Although widely used in the chemical community on all levels, from chemistry classrooms to advanced textbooks, the recommendations were mostly ignored among scientists in the field, who either called it "element 108", with the symbol of <i>E108</i>, <i>(108)</i>, or even simply <i>108</i>, or used the proposed name "hassium".<sup class="reference" id="cite_ref-Haire_3-5"><a href="#cite_note-Haire-3">[3]</a></sup>
+</p><p>The name <i>hassium</i> was proposed by Peter Armbruster and his colleagues, the officially recognised German discoverers, in September 1992. It is derived from the <a class="mw-redirect" href="/wiki/Latin_(language)" title="Latin (language)">Latin</a> name <i>Hassia</i> for the German state of <a href="/wiki/Hesse" title="Hesse">Hesse</a> where the institute is located.<sup class="reference" id="cite_ref-emsley_2-5"><a href="#cite_note-emsley-2">[2]</a></sup><sup class="reference" id="cite_ref-1993_responses_15-0"><a href="#cite_note-1993_responses-15">[15]</a></sup> In 1994, IUPAC Commission on Nomenclature of Inorganic Chemistry recommended that element 108 be named <i>hahnium</i> (Hn) after the German physicist <a href="/wiki/Otto_Hahn" title="Otto Hahn">Otto Hahn</a> so that elements named after Hahn and <a href="/wiki/Lise_Meitner" title="Lise Meitner">Lise Meitner</a> (<a href="/wiki/Meitnerium" title="Meitnerium">meitnerium</a>) would be next to each other, honoring their joint discovery of <a href="/wiki/Nuclear_fission" title="Nuclear fission">nuclear fission</a>.<sup class="reference" id="cite_ref-IUPAC94_16-0"><a href="#cite_note-IUPAC94-16">[16]</a></sup> This was because they felt that Hesse did not merit an element being named after it.<sup class="reference" id="cite_ref-emsley_2-6"><a href="#cite_note-emsley-2">[2]</a></sup> GSI protested saying that this contradicted the long-standing convention to give the discoverer the right to suggest a name;<sup class="reference" id="cite_ref-GSI97_17-0"><a href="#cite_note-GSI97-17">[17]</a></sup> the <a href="/wiki/American_Chemical_Society" title="American Chemical Society">American Chemical Society</a> supported the GSI.<sup class="reference" id="cite_ref-emsley_2-7"><a href="#cite_note-emsley-2">[2]</a></sup> IUPAC relented and the name <i>hassium</i> (Hs) was adopted internationally in 1997.<sup class="reference" id="cite_ref-IUPAC97_18-0"><a href="#cite_note-IUPAC97-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Natural_occurrence">Natural occurrence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=5" title="Edit section: Natural occurrence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Molybdenit_1.jpg"><img alt="" class="thumbimage" data-file-height="1260" data-file-width="1704" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Molybdenit_1.jpg/220px-Molybdenit_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Molybdenit_1.jpg/330px-Molybdenit_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Molybdenit_1.jpg/440px-Molybdenit_1.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Molybdenit_1.jpg" title="Enlarge"></a></div><a href="/wiki/Molybdenite" title="Molybdenite">Molybdenite</a></div></div></div>
+<p>Hassium is not known to occur naturally on Earth; the <a href="/wiki/Half-life" title="Half-life">half-lives</a> of all its known isotopes are short enough that no <a class="mw-redirect" href="/wiki/Primordial_element" title="Primordial element">primordial</a> hassium would have survived to the present day. This does not rule out the possibility of unknown longer-lived isotopes or <a href="/wiki/Nuclear_isomer" title="Nuclear isomer">nuclear isomers</a> existing, some of which could still exist in <a href="/wiki/Trace_radioisotope" title="Trace radioisotope">trace</a> quantities today if they are long-lived enough. In the early 1960s, it was predicted that long-lived deformed isomers of hassium might occur naturally on Earth in trace quantities. This was theorized in order to explain the extreme radiation damage in some minerals that could not have been caused by any known natural <a class="mw-redirect" href="/wiki/Radioisotope" title="Radioisotope">radioisotopes</a>, but could have been caused by superheavy elements.<sup class="reference" id="cite_ref-emsley_2-8"><a href="#cite_note-emsley-2">[2]</a></sup>
+</p><p>In 1963, Soviet scientist Viktor Cherdyntsev, who had previously claimed the existence of primordial <a href="/wiki/Curium" title="Curium">curium</a>-247,<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> claimed to have discovered element 108 (specifically, the <sup>267</sup>Hs isotope, which supposedly had a half-life of 400 to 500 million years) in natural <a href="/wiki/Molybdenite" title="Molybdenite">molybdenite</a> and suggested the name <i>sergenium</i> (symbol Sg; at the time, this symbol had not yet been taken by <a href="/wiki/Seaborgium" title="Seaborgium">seaborgium</a>) for it; this name takes its origin in the name for the <a href="/wiki/Silk_Road" title="Silk Road">Silk Road</a> and was explained as "coming from <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>".<sup class="reference" id="cite_ref-emsley_2-9"><a href="#cite_note-emsley-2">[2]</a></sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> His rationale for claiming that sergenium was the heavier homologue to osmium was that minerals supposedly containing sergenium formed volatile oxides when boiled in <a href="/wiki/Nitric_acid" title="Nitric acid">nitric acid</a>, similarly to osmium. His findings were criticized by Soviet physicist Vladimir Kulakov on the grounds that some of the properties Cherdyntsev claimed sergenium had were inconsistent with the then-current nuclear physics.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p><p>The chief questions raised by Kulakov were that the claimed alpha decay energy of sergenium was many orders of magnitude lower than expected and the half-life given was eight orders of magnitude shorter than what would be predicted for a nuclide alpha decaying with the claimed decay energy, but at the same time a corrected half-life in the region of 10<sup>16</sup> years would be impossible as it would imply that the samples contained about 100 milligrams of sergenium. In 2003 it was suggested that the observed alpha decay with energy 4.5 <a href="/wiki/Electronvolt" title="Electronvolt">MeV</a> could be due to a low-energy and strongly enhanced transition between different <a href="/wiki/Hyperdeformation" title="Hyperdeformation">hyperdeformed</a> states of a hassium isotope around <sup>271</sup>Hs, thus suggesting that the existence of superheavy elements in nature was at least possible, although unlikely.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</p><p>In 2004, the Joint Institute for Nuclear Research conducted a search for natural hassium. This was done underground to avoid interference and <a class="mw-redirect" href="/wiki/False_positive" title="False positive">false positives</a> from <a href="/wiki/Cosmic_ray" title="Cosmic ray">cosmic rays</a>, but no results have been released, strongly implying that no natural hassium was found. The possible extent of primordial hassium on Earth is uncertain; it might now only exist in traces, or could even have completely decayed by now after having caused the radiation damage long ago.<sup class="reference" id="cite_ref-emsley_2-10"><a href="#cite_note-emsley-2">[2]</a></sup>
+</p><p>In 2006, it was hypothesized that an isomer of <sup>271</sup>Hs might have a half-life of around <span class="nowrap"><span class="sortkey" style="display:none">7008250000000000000♠</span>(2.5<span style="margin-left:0.3em;margin-right:0.15em;">±</span>0.5)<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>8</sup></span> years, which would explain the observation of alpha particles with energies of around 4.4 <a href="/wiki/Electronvolt" title="Electronvolt">MeV</a> in some samples of molybdenite and <a href="/wiki/Osmiridium" title="Osmiridium">osmiridium</a>.<sup class="reference" id="cite_ref-natural_23-0"><a href="#cite_note-natural-23">[23]</a></sup> This isomer of <sup>271</sup>Hs could be produced from the <a href="/wiki/Beta_decay" title="Beta decay">beta decay</a> of <sup>271</sup><a href="/wiki/Bohrium" title="Bohrium">Bh</a> and <sup>271</sup><a href="/wiki/Seaborgium" title="Seaborgium">Sg</a>, which, being homologous to <a href="/wiki/Rhenium" title="Rhenium">rhenium</a> and molybdenum respectively, should occur in molybdenite along with rhenium and molybdenum if they occurred in nature. Since hassium is homologous to osmium, it should also occur along with osmium in osmiridium if it occurred in nature. The decay chains of <sup>271</sup>Bh and <sup>271</sup>Sg are very hypothetical and the predicted half-life of this hypothetical hassium isomer is not long enough for any sufficient quantity to remain on Earth.<sup class="reference" id="cite_ref-natural_23-1"><a href="#cite_note-natural-23">[23]</a></sup> It is possible that more <sup>271</sup>Hs may be deposited on the Earth as the <a href="/wiki/Solar_System" title="Solar System">Solar System</a> travels through the spiral arms of the <a href="/wiki/Milky_Way" title="Milky Way">Milky Way</a>, which would also explain excesses of <a href="/wiki/Plutonium-239" title="Plutonium-239">plutonium-239</a> found on the floors of the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> and the <a href="/wiki/Gulf_of_Finland" title="Gulf of Finland">Gulf of Finland</a>, but minerals enriched with <sup>271</sup>Hs are predicted to also have excesses of <a href="/wiki/Uranium-235" title="Uranium-235">uranium-235</a> and <a href="/wiki/Lead" title="Lead">lead</a>-207, and would have different proportions of elements that are formed during <a href="/wiki/Spontaneous_fission" title="Spontaneous fission">spontaneous fission</a>, such as <a href="/wiki/Krypton" title="Krypton">krypton</a>, <a href="/wiki/Zirconium" title="Zirconium">zirconium</a>, and <a href="/wiki/Xenon" title="Xenon">xenon</a>. Thus, the occurrence of hassium in nature in minerals such as molybdenite and osmiride is theoretically possible, but highly unlikely.<sup class="reference" id="cite_ref-natural_23-2"><a href="#cite_note-natural-23">[23]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Isotopes">Isotopes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=6" title="Edit section: Isotopes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Isotopes_of_hassium" title="Isotopes of hassium">Isotopes of hassium</a></div>
+<div style="float:right; margin:0; font-size:85%;">
+<table class="wikitable sortable">
+<caption>List of hassium isotopes
+</caption>
+<tbody><tr>
+<th>Isotope<br/></th>
+<th>Half-life<br/><sup class="reference" id="cite_ref-nuclidetable_24-0"><a href="#cite_note-nuclidetable-24">[24]</a></sup></th>
+<th>Decay<br/>mode<sup class="reference" id="cite_ref-nuclidetable_24-1"><a href="#cite_note-nuclidetable-24">[24]</a></sup></th>
+<th>Discovery<br/>year</th>
+<th>Reaction
+</th></tr>
+<tr>
+<td><sup>263</sup>Hs</td>
+<td><span data-sort-value="000000076 !">0.76 ms</span></td>
+<td>α, SF</td>
+<td>2008</td>
+<td><sup>208</sup>Pb(<sup>56</sup>Fe,n)<sup class="reference" id="cite_ref-263Hs_25-0"><a href="#cite_note-263Hs-25">[25]</a></sup>
+</td></tr>
+<tr>
+<td><sup>264</sup>Hs</td>
+<td><span data-sort-value="000000054 !">0.54 ms</span></td>
+<td>α, SF</td>
+<td>1986</td>
+<td><sup>207</sup>Pb(<sup>58</sup>Fe,n)<sup class="reference" id="cite_ref-264Hs_26-0"><a href="#cite_note-264Hs-26">[26]</a></sup>
+</td></tr>
+<tr>
+<td><sup>265</sup>Hs</td>
+<td><span data-sort-value="000000196 !">1.96 ms</span></td>
+<td>α, SF</td>
+<td>1984</td>
+<td><sup>208</sup>Pb(<sup>58</sup>Fe,n)<sup class="reference" id="cite_ref-84Mu01_12-1"><a href="#cite_note-84Mu01-12">[12]</a></sup>
+</td></tr>
+<tr>
+<td><sup>265m</sup>Hs</td>
+<td><span data-sort-value="000000036 !">0.36 ms</span></td>
+<td>α</td>
+<td>1984</td>
+<td><sup>208</sup>Pb(<sup>58</sup>Fe,n)<sup class="reference" id="cite_ref-84Mu01_12-2"><a href="#cite_note-84Mu01-12">[12]</a></sup>
+</td></tr>
+<tr>
+<td><sup>266</sup>Hs</td>
+<td><span data-sort-value="000000302 !">3.02 ms</span></td>
+<td>α, SF</td>
+<td>2000</td>
+<td><sup>270</sup>Ds(—,α)<sup class="reference" id="cite_ref-266Hs_27-0"><a href="#cite_note-266Hs-27">[27]</a></sup>
+</td></tr>
+<tr>
+<td><sup>266m</sup>Hs</td>
+<td><span data-sort-value="0000280 !">280 ms</span></td>
+<td>α</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><sup>267</sup>Hs</td>
+<td><span data-sort-value="0000055 !">55 ms</span></td>
+<td>α, SF</td>
+<td>1995</td>
+<td><sup>238</sup>U(<sup>34</sup>S,5n)<sup class="reference" id="cite_ref-267Hs_28-0"><a href="#cite_note-267Hs-28">[28]</a></sup>
+</td></tr>
+<tr>
+<td><sup>267m</sup>Hs</td>
+<td><span data-sort-value="000099 !">0.99 s</span></td>
+<td>α</td>
+<td>1995</td>
+<td><sup>238</sup>U(<sup>34</sup>S,5n)<sup class="reference" id="cite_ref-267Hs_28-1"><a href="#cite_note-267Hs-28">[28]</a></sup>
+</td></tr>
+<tr>
+<td><sup>268</sup>Hs</td>
+<td><span data-sort-value="000142 !">1.42 s</span></td>
+<td>α</td>
+<td>2009</td>
+<td><sup>238</sup>U(<sup>34</sup>S,4n)
+</td></tr>
+<tr>
+<td><sup>269</sup>Hs</td>
+<td><span data-sort-value="00097 !">9.7 s</span></td>
+<td>α</td>
+<td>1996</td>
+<td><sup>277</sup>Cn(—,2α)<sup class="reference" id="cite_ref-269Hs_29-0"><a href="#cite_note-269Hs-29">[29]</a></sup>
+</td></tr>
+<tr>
+<td><sup>270</sup>Hs</td>
+<td><span data-sort-value="0010 !">10 s</span></td>
+<td>α</td>
+<td>2004</td>
+<td><sup>248</sup>Cm(<sup>26</sup>Mg,4n)<sup class="reference" id="cite_ref-270Hs_30-0"><a href="#cite_note-270Hs-30">[30]</a></sup>
+</td></tr>
+<tr>
+<td><sup>271</sup>Hs</td>
+<td><span data-sort-value="0004 !">~4 s</span></td>
+<td>α</td>
+<td>2004</td>
+<td><sup>248</sup>Cm(<sup>26</sup>Mg,3n)<sup class="reference" id="cite_ref-271Hs_31-0"><a href="#cite_note-271Hs-31">[31]</a></sup>
+</td></tr>
+<tr>
+<td><sup>272</sup>Hs</td>
+<td><span data-sort-value="00021 !">2.1? s</span><sup class="reference" id="cite_ref-Duellmann_32-0"><a href="#cite_note-Duellmann-32">[32]</a></sup></td>
+<td>α, SF ?</td>
+<td>unknown</td>
+<td>—
+</td></tr>
+<tr>
+<td><sup>273</sup>Hs</td>
+<td><span data-sort-value="000076 !">0.76 s</span><sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup><sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup></td>
+<td>α</td>
+<td>2004</td>
+<td><sup>285</sup>Fl(—,3α)<sup class="reference" id="cite_ref-273Hs_35-0"><a href="#cite_note-273Hs-35">[35]</a></sup>
+</td></tr>
+<tr>
+<td><sup>274</sup>Hs</td>
+<td><span data-sort-value="0060 !">1? min</span></td>
+<td>α, SF ?</td>
+<td>unknown</td>
+<td>—
+</td></tr>
+<tr>
+<td><sup>275</sup>Hs</td>
+<td><span data-sort-value="000029 !">0.29 s</span></td>
+<td>α</td>
+<td>2003</td>
+<td><sup>287</sup>Fl(—,3α)<sup class="reference" id="cite_ref-275Hs_36-0"><a href="#cite_note-275Hs-36">[36]</a></sup>
+</td></tr>
+<tr>
+<td><sup>276</sup>Hs</td>
+<td><span data-sort-value="3600 !">1? h</span></td>
+<td>α, SF ?</td>
+<td>unknown</td>
+<td>—
+</td></tr>
+<tr>
+<td><sup>277</sup>Hs</td>
+<td><span data-sort-value="0000011 !">11 ms</span></td>
+<td>α</td>
+<td>2009</td>
+<td><sup>289</sup>Fl(—,3α)<sup class="reference" id="cite_ref-277Hs_37-0"><a href="#cite_note-277Hs-37">[37]</a></sup>
+</td></tr></tbody></table></div>
+<p>Hassium has no stable or naturally occurring isotopes. Several radioactive isotopes have been synthesized in the laboratory, either by fusing two atoms or by observing the decay of heavier elements. Twelve different isotopes have been reported with atomic masses from 263 to 277 (with the exceptions of 272, 274, and 276), three of which, hassium-265, hassium-267, hassium-269, have known <a class="mw-redirect" href="/wiki/Metastable_state" title="Metastable state">metastable states</a>. Most of these decay predominantly through alpha decay, but some also undergo spontaneous fission.<sup class="reference" id="cite_ref-nuclidetable_24-2"><a href="#cite_note-nuclidetable-24">[24]</a></sup><sup class="reference" id="cite_ref-273Hs_35-1"><a href="#cite_note-273Hs-35">[35]</a></sup>
+</p><p>The lightest isotopes, which usually have shorter half-lives were synthesized by direct fusion between two lighter nuclei and as decay products. The heaviest isotope produced by direct fusion is <sup>271</sup>Hs; heavier isotopes have only been observed as decay products of elements with larger atomic numbers. In 1999, scientists at <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California</a> in <a href="/wiki/Berkeley,_California" title="Berkeley, California">Berkeley</a>, <a href="/wiki/California" title="California">California</a>, United States, announced that they had succeeded in synthesizing three atoms of <sup>293</sup>Og.<sup class="reference" id="cite_ref-Ninov1999_38-0"><a href="#cite_note-Ninov1999-38">[38]</a></sup> These parent nuclei were reported to have successively emitted three alpha particles to form hassium-273 nuclei, which were claimed to have undergone an alpha decay, emitting alpha particles with decay energies of 9.78 and 9.47 MeV and half-life 1.2 s, but their claim was retracted in 2001 as it came out the data was fabricated.<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup><sup class="reference" id="cite_ref-NYT20021015_40-0"><a href="#cite_note-NYT20021015-40">[40]</a></sup> The isotope was successfully produced in 2010 by the same team. The new data matched the previous (fabricated) data.<sup class="reference" id="cite_ref-273Hs_35-2"><a href="#cite_note-273Hs-35">[35]</a></sup>
+</p>
+<h3><span class="mw-headline" id="270Hs:_prospects_for_a_deformed_doubly_magic_nucleus"><sup>270</sup>Hs: prospects for a deformed doubly magic nucleus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=7" title="Edit section: 270Hs: prospects for a deformed doubly magic nucleus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to calculations, 108 is a <a href="/wiki/Proton" title="Proton">proton</a> <a href="/wiki/Magic_number_(physics)" title="Magic number (physics)">magic number</a> for deformed nuclei (nuclei that are far from <a href="/wiki/Sphere" title="Sphere">spherical</a>), and 162 is a <a href="/wiki/Neutron" title="Neutron">neutron</a> magic number for deformed nuclei. This means that such nuclei are permanently deformed in their ground state but have high, narrow fission barriers to further deformation and hence relatively long life-times to spontaneous fission.<sup class="reference" id="cite_ref-Focus_41-0"><a href="#cite_note-Focus-41">[41]</a></sup><sup class="reference" id="cite_ref-Dvorak_42-0"><a href="#cite_note-Dvorak-42">[42]</a></sup> The spontaneous fission half-lives in this region are typically reduced by a factor of 10<sup>9</sup> in comparison with those in the vicinity of the spherical doubly magic nucleus <sup>298</sup><a href="/wiki/Flerovium" title="Flerovium">Fl</a>, caused by the narrower fission barrier for such deformed nuclei.<sup class="reference" id="cite_ref-Smolanczuk_43-0"><a href="#cite_note-Smolanczuk-43">[43]</a></sup> Hence, the nucleus <sup>270</sup>Hs has promise as a deformed doubly magic nucleus. Experimental data from the decay of the <a href="/wiki/Darmstadtium" title="Darmstadtium">darmstadtium</a> (Z=110) isotopes <sup>271</sup>Ds and <sup>273</sup>Ds provides strong evidence for the magic nature of the <a href="/wiki/Neutron_number" title="Neutron number">N</a>=162 <a class="mw-redirect" href="/wiki/Nuclear_shell" title="Nuclear shell">sub-shell</a>. The syntheses of <sup>269</sup>Hs, <sup>270</sup>Hs, and <sup>271</sup>Hs also fully support the assignment of N=162 as a magic number. In particular, the low decay energy for <sup>270</sup>Hs is in complete agreement with calculations.<sup class="reference" id="cite_ref-Focus_41-1"><a href="#cite_note-Focus-41">[41]</a></sup><sup class="reference" id="cite_ref-Dvorak_42-1"><a href="#cite_note-Dvorak-42">[42]</a></sup><sup class="reference" id="cite_ref-Smolanczuk_43-1"><a href="#cite_note-Smolanczuk-43">[43]</a></sup>
+</p><p>Evidence for the magicity of the Z=108 proton shell can be obtained from two sources: the variation in the partial <a href="/wiki/Spontaneous_fission" title="Spontaneous fission">spontaneous fission</a> half-lives for <a href="/wiki/Isotone" title="Isotone">isotones</a> and the large gap in the <a href="/wiki/Alpha_decay" title="Alpha decay">alpha</a> <a href="/wiki/Q_value_(nuclear_science)" title="Q value (nuclear science)">Q value</a> for isotonic nuclei of hassium and darmstadtium.<sup class="reference" id="cite_ref-Smolanczuk_43-2"><a href="#cite_note-Smolanczuk-43">[43]</a></sup> For spontaneous fission, it is necessary to measure the half-lives for the isotonic nuclei <sup>268</sup>Sg, <sup>270</sup>Hs and <sup>272</sup>Ds.<sup class="reference" id="cite_ref-Smolanczuk_43-3"><a href="#cite_note-Smolanczuk-43">[43]</a></sup> Since the isotopes <sup>268</sup>Sg and <sup>272</sup>Ds are not currently known,<sup class="reference" id="cite_ref-nuclidetable_24-3"><a href="#cite_note-nuclidetable-24">[24]</a></sup> and fission of <sup>270</sup>Hs has not been measured,<sup class="reference" id="cite_ref-nuclidetable_24-4"><a href="#cite_note-nuclidetable-24">[24]</a></sup><sup class="reference" id="cite_ref-Dvorak_42-2"><a href="#cite_note-Dvorak-42">[42]</a></sup> this method cannot yet be used to confirm the stabilizing nature of the Z=108 shell. Good evidence for the magicity of the Z=108 shell can nevertheless be found from the large differences in the alpha decay energies measured for <sup>270</sup>Hs, <sup>271</sup>Ds and <sup>273</sup>Ds.<sup class="reference" id="cite_ref-Focus_41-2"><a href="#cite_note-Focus-41">[41]</a></sup><sup class="reference" id="cite_ref-Dvorak_42-3"><a href="#cite_note-Dvorak-42">[42]</a></sup><sup class="reference" id="cite_ref-Smolanczuk_43-4"><a href="#cite_note-Smolanczuk-43">[43]</a></sup> More conclusive evidence would come from the determination of the decay energy for the unknown nucleus <sup>272</sup>Ds.<sup class="reference" id="cite_ref-Smolanczuk_43-5"><a href="#cite_note-Smolanczuk-43">[43]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Predicted_properties">Predicted properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=8" title="Edit section: Predicted properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Various calculations show that hassium should be the heaviest known <a href="/wiki/Group_8_element" title="Group 8 element">group 8 element</a>, consistent with the <a class="mw-redirect" href="/wiki/Periodic_law" title="Periodic law">periodic law</a>. Its properties should generally match those expected for a heavier homologue of <a href="/wiki/Osmium" title="Osmium">osmium</a>, with a few deviations arising from <a class="mw-redirect" href="/wiki/Relativistic_effects" title="Relativistic effects">relativistic effects</a>.
+</p>
+<h3><span class="mw-headline" id="Physical_and_atomic">Physical and atomic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=9" title="Edit section: Physical and atomic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The previous members of group 8 have relatively high <a href="/wiki/Melting_point" title="Melting point">melting points</a> (<a href="/wiki/Iron" title="Iron">Fe</a>, 1538 °C; <a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>, 2334 °C; <a href="/wiki/Osmium" title="Osmium">Os</a>, 3033 °C). Much like them, hassium is predicted to be a <a href="/wiki/Solid" title="Solid">solid</a> at room temperature,<sup class="reference" id="cite_ref-hcp_4-2"><a href="#cite_note-hcp-4">[4]</a></sup> although the melting point of hassium has not been precisely calculated. Hassium should crystallize in the <a class="mw-redirect" href="/wiki/Hexagonal_close-packed" title="Hexagonal close-packed">hexagonal close-packed</a> structure (<sup><i>c</i></sup>/<sub><i>a</i></sub> = 1.59), similarly to its lighter <a href="/wiki/Congener_(chemistry)" title="Congener (chemistry)">congener</a> osmium.<sup class="reference" id="cite_ref-hcp_4-3"><a href="#cite_note-hcp-4">[4]</a></sup> Pure metallic hassium is calculated to have a <a href="/wiki/Bulk_modulus" title="Bulk modulus">bulk modulus</a> (resistance to uniform compression) comparable to that of <a href="/wiki/Diamond" title="Diamond">diamond</a><sup class="reference" id="cite_ref-hcp_4-4"><a href="#cite_note-hcp-4">[4]</a></sup><sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup> (442 <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">GPa</a>).<sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[45]</a></sup> Hassium is expected to have a bulk density of 40.7 g/cm<sup>3</sup>, the highest of any of the 118 known elements and nearly twice the density of osmium,<sup class="reference" id="cite_ref-Haire_3-6"><a href="#cite_note-Haire-3">[3]</a></sup> the most dense measured element,<sup class="reference" id="cite_ref-Densities_46-0"><a href="#cite_note-Densities-46">[46]</a></sup> at 22.61 g/cm<sup>3</sup>.<sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup> This results from hassium's high atomic weight, the <a href="/wiki/Lanthanide_contraction" title="Lanthanide contraction">lanthanide and actinide contractions</a>, and <a href="/wiki/Relativistic_quantum_chemistry" title="Relativistic quantum chemistry">relativistic effects</a>, although production of enough hassium to measure this quantity would be impractical, and the sample would quickly decay.<sup class="reference" id="cite_ref-Haire_3-7"><a href="#cite_note-Haire-3">[3]</a></sup> Osmium is the densest element of the first 6 periods, and its heavier <a href="/wiki/Congener_(chemistry)" title="Congener (chemistry)">congener</a> hassium is expected to be the densest element of the first 7 periods.<sup class="reference" id="cite_ref-Haire_3-8"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-Densities_46-1"><a href="#cite_note-Densities-46">[46]</a></sup>
+</p><p>The atomic radius of hassium is expected to be around 126 pm.<sup class="reference" id="cite_ref-Haire_3-9"><a href="#cite_note-Haire-3">[3]</a></sup> Due to the relativistic stabilization of the 7s orbital and destabilization of the 6d orbital, the Hs<sup>+</sup> ion is predicted to have an electron configuration of [Rn] 5f<sup>14</sup> 6d<sup>5</sup> 7s<sup>2</sup>, giving up a 6d electron instead of a 7s electron, which is the opposite of the behavior of its lighter homologues. On the other hand, the Hs<sup>2+</sup> ion is expected to have an electron configuration of [Rn] 5f<sup>14</sup> 6d<sup>5</sup> 7s<sup>1</sup>, analogous to that calculated for the Os<sup>2+</sup> ion.<sup class="reference" id="cite_ref-Haire_3-10"><a href="#cite_note-Haire-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Chemical">Chemical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=10" title="Edit section: Chemical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="float: right; margin: 2px; font-size:85%;">
+<table class="wikitable">
+<caption>Stable oxidation states of the group 8 elements<sup class="reference" id="cite_ref-G&amp;E_48-0"><a href="#cite_note-G&amp;E-48">[48]</a></sup>
+</caption>
+<tbody><tr>
+<th>Element
+</th>
+<th colspan="8">Stable oxidation states
+</th></tr>
+<tr>
+<td><a href="/wiki/Iron" title="Iron">iron</a></td>
+<td></td>
+<td>    </td>
+<td>+6</td>
+<td></td>
+<td></td>
+<td>+3</td>
+<td>+2
+</td></tr>
+<tr>
+<td><a href="/wiki/Ruthenium" title="Ruthenium">ruthenium</a></td>
+<td>+8</td>
+<td></td>
+<td>+6</td>
+<td>+5</td>
+<td>+4</td>
+<td>+3</td>
+<td>+2
+</td></tr>
+<tr>
+<td><a href="/wiki/Osmium" title="Osmium">osmium</a></td>
+<td>+8</td>
+<td></td>
+<td>+6</td>
+<td>+5</td>
+<td>+4</td>
+<td>+3</td>
+<td>+2
+</td></tr></tbody></table></div>
+<p>Hassium is the sixth member of the 6d series of transition metals and is expected to be much like the <a class="mw-redirect" href="/wiki/Platinum_group_metal" title="Platinum group metal">platinum group metals</a>.<sup class="reference" id="cite_ref-DoiX_49-0"><a href="#cite_note-DoiX-49">[49]</a></sup>  Calculations on its <a class="mw-redirect" href="/wiki/Ionization_potential" title="Ionization potential">ionization potentials</a>, <a href="/wiki/Atomic_radius" title="Atomic radius">atomic radius</a>, as well as radii, orbital energies, and ground levels of its ionized states are similar to that of <a href="/wiki/Osmium" title="Osmium">osmium</a>, implying that hassium's properties would resemble those of the other <a href="/wiki/Group_8_element" title="Group 8 element">group 8 elements</a>, <a href="/wiki/Iron" title="Iron">iron</a>, <a href="/wiki/Ruthenium" title="Ruthenium">ruthenium</a>, and osmium.<sup class="reference" id="cite_ref-Haire_3-11"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-Hs-chemistry_50-0"><a href="#cite_note-Hs-chemistry-50">[50]</a></sup> Some of these properties were confirmed by gas-phase chemistry experiments.<sup class="reference" id="cite_ref-Duellmann_32-1"><a href="#cite_note-Duellmann-32">[32]</a></sup><sup class="reference" id="cite_ref-HsO4_51-0"><a href="#cite_note-HsO4-51">[51]</a></sup><sup class="reference" id="cite_ref-GSI-Hs_52-0"><a href="#cite_note-GSI-Hs-52">[52]</a></sup> The group 8 elements portray a wide variety of oxidation states, but ruthenium and osmium readily portray their group oxidation state of +8 (the second-highest known oxidation state for any element, which is very rare for other elements) and this state becomes more stable as the group is descended.<sup class="reference" id="cite_ref-G&amp;E_48-1"><a href="#cite_note-G&amp;E-48">[48]</a></sup><sup class="reference" id="cite_ref-superheavy-chemistry_53-0"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup><sup class="reference" id="cite_ref-Barnard_54-0"><a href="#cite_note-Barnard-54">[54]</a></sup> Thus hassium is expected to form a stable +8 state.<sup class="reference" id="cite_ref-HsO4_51-1"><a href="#cite_note-HsO4-51">[51]</a></sup> Analogously to its lighter congeners, hassium is expected to also show other stable lower oxidation states, such as +6, +5, +4, +3, and +2.<sup class="reference" id="cite_ref-emsley_2-11"><a href="#cite_note-emsley-2">[2]</a></sup><sup class="reference" id="cite_ref-Haire_3-12"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-hassocene_6-1"><a href="#cite_note-hassocene-6">[6]</a></sup> Indeed, hassium(IV) is expected to be more stable than hassium(VIII) in aqueous solution.<sup class="reference" id="cite_ref-Haire_3-13"><a href="#cite_note-Haire-3">[3]</a></sup>
+</p><p>The group 8 elements show a very distinctive <a href="/wiki/Oxide" title="Oxide">oxide</a> chemistry which allows extrapolations to be made easily for hassium. All the lighter members have known or hypothetical tetroxides, MO<sub>4</sub>.<sup class="reference" id="cite_ref-FeO4_55-0"><a href="#cite_note-FeO4-55">[55]</a></sup> Their oxidising power decreases as one descends the group. FeO<sub>4</sub> is not known due to its extraordinarily large <a href="/wiki/Electron_affinity" title="Electron affinity">electron affinity</a> (the amount of energy released when an electron is added to a neutral atom or molecule to form a negative ion)<sup class="reference" id="cite_ref-Compendiumof_56-0"><a href="#cite_note-Compendiumof-56">[56]</a></sup> which results in the formation of the well-known <a class="mw-redirect" href="/wiki/Oxoanion" title="Oxoanion">oxoanion</a> <a class="mw-redirect" href="/wiki/Ferrate" title="Ferrate">ferrate(VI)</a>, <span class="chemf nowrap">FeO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>.<sup class="reference" id="cite_ref-57"><a href="#cite_note-57">[57]</a></sup> <a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a>, RuO<sub>4</sub>, formed by <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidation</a> of ruthenium(VI) in <a href="/wiki/Acid" title="Acid">acid</a>, readily undergoes <a class="mw-redirect" href="/wiki/Reduction-oxidation" title="Reduction-oxidation">reduction</a> to ruthenate(VI), <span class="chemf nowrap">RuO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>.<sup class="reference" id="cite_ref-58"><a href="#cite_note-58">[58]</a></sup><sup class="reference" id="cite_ref-59"><a href="#cite_note-59">[59]</a></sup> Oxidation of ruthenium metal in air forms the dioxide, RuO<sub>2</sub>.<sup class="reference" id="cite_ref-60"><a href="#cite_note-60">[60]</a></sup> In contrast, osmium burns to form the stable <a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">tetroxide</a>, OsO<sub>4</sub>,<sup class="reference" id="cite_ref-61"><a href="#cite_note-61">[61]</a></sup><sup class="reference" id="cite_ref-62"><a href="#cite_note-62">[62]</a></sup> which complexes with the hydroxide ion to form an osmium(VIII) -<i>ate</i> complex, [OsO<sub>4</sub>(OH)<sub>2</sub>]<sup>2−</sup>.<sup class="reference" id="cite_ref-thompson_63-0"><a href="#cite_note-thompson-63">[63]</a></sup> Therefore, eka-osmium properties for hassium should be demonstrated by the formation of a stable, very volatile tetroxide HsO<sub>4</sub>,<sup class="reference" id="cite_ref-emsley_2-12"><a href="#cite_note-emsley-2">[2]</a></sup><sup class="reference" id="cite_ref-Haire_3-14"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-Duellmann_32-2"><a href="#cite_note-Duellmann-32">[32]</a></sup><sup class="reference" id="cite_ref-GSI-Hs_52-1"><a href="#cite_note-GSI-Hs-52">[52]</a></sup><sup class="reference" id="cite_ref-superheavy-chemistry_53-1"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup> which undergoes complexation with <a href="/wiki/Hydroxide" title="Hydroxide">hydroxide</a> to form a hassate(VIII), [HsO<sub>4</sub>(OH)<sub>2</sub>]<sup>2−</sup>.<sup class="reference" id="cite_ref-CALLISTO_64-0"><a href="#cite_note-CALLISTO-64">[64]</a></sup> Ruthenium tetroxide and osmium tetroxide are both volatile, due to their symmetrical <a href="/wiki/Tetrahedral_molecular_geometry" title="Tetrahedral molecular geometry">tetrahedral molecular geometry</a> and their being charge-neutral; hassium tetroxide should similarly be a very volatile solid. The trend of the volatilities of the group 8 tetroxides is known to be RuO<sub>4</sub> &lt; OsO<sub>4</sub> &gt; HsO<sub>4</sub>, which completely confirms the calculated results. In particular, the calculated <a href="/wiki/Enthalpy" title="Enthalpy">enthalpies</a> of <a href="/wiki/Adsorption" title="Adsorption">adsorption</a> (the energy required for the <a href="/wiki/Adhesion" title="Adhesion">adhesion</a> of atoms, molecules, or ions from a <a href="/wiki/Gas" title="Gas">gas</a>, <a href="/wiki/Liquid" title="Liquid">liquid</a>, or dissolved <a href="/wiki/Solid" title="Solid">solid</a> to a <a href="/wiki/Surface_science" title="Surface science">surface</a>) of HsO<sub>4</sub>, −(45.4 ± 1) kJ/mol on <a href="/wiki/Quartz" title="Quartz">quartz</a>, agrees very well with the experimental value of <span class="nowrap"><span class="sortkey" style="display:none">2995540000000000000♠</span>−46<span style="margin-left:0.3em;margin-right:0.15em;">±</span>2 kJ/mol</span>.<sup class="reference" id="cite_ref-65"><a href="#cite_note-65">[65]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Experimental_chemistry">Experimental chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=11" title="Edit section: Experimental chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Despite the fact that the selection of a volatile hassium compound (hassium tetroxide) for gas-phase chemical studies was clear from the beginning,<sup class="reference" id="cite_ref-Haire_3-15"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-superheavy-chemistry_53-2"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup> the chemical characterization of hassium was considered a difficult task for a long time.<sup class="reference" id="cite_ref-superheavy-chemistry_53-3"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup> Although hassium isotopes were first synthesized in 1984, it was not until 1996 that a hassium isotope long-lived enough to allow chemical studies to be performed was synthesized. Unfortunately, this hassium isotope, <sup>269</sup>Hs, was then synthesized indirectly from the decay of <sup>277</sup><a href="/wiki/Copernicium" title="Copernicium">Cn</a>;<sup class="reference" id="cite_ref-superheavy-chemistry_53-4"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup> not only are indirect synthesis methods not favourable for chemical studies,<sup class="reference" id="cite_ref-Haire_3-16"><a href="#cite_note-Haire-3">[3]</a></sup> but also the reaction that produced the isotope <sup>277</sup>Cn had a low yield (its cross-section was only 1 <a href="/wiki/Barn_(unit)" title="Barn (unit)">pb</a>),<sup class="reference" id="cite_ref-superheavy-chemistry_53-5"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup> and thus did not provide enough hassium atoms for a chemical investigation.<sup class="reference" id="cite_ref-DoiX_49-1"><a href="#cite_note-DoiX-49">[49]</a></sup> The direct synthesis of <sup>269</sup>Hs and <sup>270</sup>Hs in the reaction <sup>248</sup>Cm(<sup>26</sup>Mg,xn)<sup>274−x</sup>Hs (x = 4 or 5) appeared more promising, as the cross-section for this reaction was somewhat larger, at 7 pb.<sup class="reference" id="cite_ref-Haire_3-17"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-superheavy-chemistry_53-6"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup> This yield was still around ten times lower than that for the reaction used for the chemical characterization of <a href="/wiki/Bohrium" title="Bohrium">bohrium</a>.<sup class="reference" id="cite_ref-superheavy-chemistry_53-7"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup> New techniques for irradiation, separation, and detection had to be introduced before hassium could be successfully characterized chemically as a typical member of group 8 in early 2001.<sup class="reference" id="cite_ref-Haire_3-18"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-superheavy-chemistry_53-8"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup>
+</p><p>Ruthenium and osmium have very similar chemistry due to the <a href="/wiki/Lanthanide_contraction" title="Lanthanide contraction">lanthanide contraction</a>, but iron shows some differences from them: for example, although ruthenium and osmium form stable tetroxides in which the metal is in the +8 oxidation state, iron does not.<sup class="reference" id="cite_ref-superheavy-chemistry_53-9"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup><sup class="reference" id="cite_ref-FeO4_55-1"><a href="#cite_note-FeO4-55">[55]</a></sup> Consequently, in preparation for the chemical characterization of hassium, researches focused on ruthenium and osmium rather than iron,<sup class="reference" id="cite_ref-superheavy-chemistry_53-10"><a href="#cite_note-superheavy-chemistry-53">[53]</a></sup> as hassium was expected to also be similar to ruthenium and osmium due to the <a href="/wiki/Lanthanide_contraction" title="Lanthanide contraction">actinide contraction</a>.<sup class="reference" id="cite_ref-Haire_3-19"><a href="#cite_note-Haire-3">[3]</a></sup> Nevertheless, in the planned experiment to study hassocene (Hs(<a href="/wiki/Cyclopentadienyl" title="Cyclopentadienyl">C<sub>5</sub>H<sub>5</sub></a>)<sub>2</sub>), <a href="/wiki/Ferrocene" title="Ferrocene">ferrocene</a> may also be used for comparison along with <a href="/wiki/Ruthenocene" title="Ruthenocene">ruthenocene</a> and <a href="/wiki/Osmocene" title="Osmocene">osmocene</a>.<sup class="reference" id="cite_ref-hassocene_6-2"><a href="#cite_note-hassocene-6">[6]</a></sup><sup class="reference" id="cite_ref-66"><a href="#cite_note-66">[66]</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303569">@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:154px;max-width:154px"><div class="tsingle" style="margin:1px;width:152px;max-width:152px"><div class="thumbimage"><a class="image" href="/wiki/File:Ferrocene-from-xtal-3D-balls.png"><img alt="Ferrocene" data-file-height="1100" data-file-width="1002" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ferrocene-from-xtal-3D-balls.png/150px-Ferrocene-from-xtal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ferrocene-from-xtal-3D-balls.png/225px-Ferrocene-from-xtal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ferrocene-from-xtal-3D-balls.png/300px-Ferrocene-from-xtal-3D-balls.png 2x" width="150"/></a></div><div class="thumbcaption" style="clear:left">In <a href="/wiki/Ferrocene" title="Ferrocene">ferrocene</a>, the cyclopentadienyl rings are in a <a href="/wiki/Staggered_conformation" title="Staggered conformation">staggered conformation</a>.</div></div><div class="tsingle" style="margin:1px;width:152px;max-width:152px"><div class="thumbimage"><a class="image" href="/wiki/File:Ruthenocene-from-xtal-3D-balls.png"><img alt="Ruthenocene" data-file-height="1100" data-file-width="983" height="168" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ruthenocene-from-xtal-3D-balls.png/150px-Ruthenocene-from-xtal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ruthenocene-from-xtal-3D-balls.png/225px-Ruthenocene-from-xtal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ruthenocene-from-xtal-3D-balls.png/300px-Ruthenocene-from-xtal-3D-balls.png 2x" width="150"/></a></div><div class="thumbcaption" style="clear:left">In <a href="/wiki/Ruthenocene" title="Ruthenocene">ruthenocene</a> and <a href="/wiki/Osmocene" title="Osmocene">osmocene</a>, the cyclopentadienyl rings are in an <a href="/wiki/Eclipsed_conformation" title="Eclipsed conformation">eclipsed conformation</a>. Hassocene is predicted to also have this structure.</div></div></div></div>
+<p>The first chemistry experiments were performed using gas thermochromatography in 2001, using <sup>172</sup>Os and <sup>173</sup>Os as a reference. During the experiment, 5 hassium atoms were synthesized using the reaction <sup>248</sup>Cm(<sup>26</sup>Mg,5n)<sup>269</sup>Hs. They were then thermalized and oxidized in a mixture of <a href="/wiki/Helium" title="Helium">helium</a> and <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> gas to form the tetroxide.
+</p>
+<dl><dd><sup>269</sup>Hs + 2 O<sub>2</sub> → <sup>269</sup>HsO<sub>4</sub></dd></dl>
+<p>The measured <a href="/wiki/Deposition_(chemistry)" title="Deposition (chemistry)">deposition</a> temperature indicated that hassium(VIII) oxide is less volatile than osmium tetroxide, OsO<sub>4</sub>, and places hassium firmly in group 8.<sup class="reference" id="cite_ref-Haire_3-20"><a href="#cite_note-Haire-3">[3]</a></sup><sup class="reference" id="cite_ref-Duellmann_32-3"><a href="#cite_note-Duellmann-32">[32]</a></sup><sup class="reference" id="cite_ref-GSI-Hs_52-2"><a href="#cite_note-GSI-Hs-52">[52]</a></sup> However, the enthalpy of adsorption for HsO<sub>4</sub> measured, <span class="nowrap"><span class="sortkey" style="display:none">2998540000000000000♠</span>−46<span style="margin-left:0.3em;margin-right:0.15em;">±</span>2 <a class="mw-redirect" href="/wiki/Kilojoule_per_mole" title="Kilojoule per mole">kJ/mol</a></span>, was significantly lower than what was predicted, <span class="nowrap"><span class="sortkey" style="display:none">2995633000000000000♠</span>−36.7<span style="margin-left:0.3em;margin-right:0.15em;">±</span>1.5 kJ/mol</span>, indicating that OsO<sub>4</sub> was more volatile than HsO<sub>4</sub>, contradicting earlier calculations, which implied that they should have very similar volatilities. For comparison, the value for OsO<sub>4</sub> is <span class="nowrap"><span class="sortkey" style="display:none">2995610000000000000♠</span>−39<span style="margin-left:0.3em;margin-right:0.15em;">±</span>1 kJ/mol</span>.<sup class="reference" id="cite_ref-Haire_3-21"><a href="#cite_note-Haire-3">[3]</a></sup> It is possible that hassium tetroxide interacts differently with the different chemicals (<a href="/wiki/Silicon_nitride" title="Silicon nitride">silicon nitride</a> and <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">silicon dioxide</a>) used for the detector; further research is required, including more accurate measurements of the nuclear properties of <sup>269</sup>Hs and comparisons with RuO<sub>4</sub> in addition to OsO<sub>4</sub>.<sup class="reference" id="cite_ref-Haire_3-22"><a href="#cite_note-Haire-3">[3]</a></sup>
+</p><p>In 2004 scientists reacted hassium tetroxide and sodium hydroxide to form sodium hassate(VIII), a reaction well known with osmium. This was the first acid-base reaction with a hassium compound, forming sodium hassate(VIII):<sup class="reference" id="cite_ref-CALLISTO_64-1"><a href="#cite_note-CALLISTO-64">[64]</a></sup>
+</p>
+<dl><dd><span class="chemf nowrap">HsO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + 2 <a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">NaOH</a> → <span class="chemf nowrap">Na<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>[HsO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>(OH)<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>]</span></dd></dl>
+<p>The team from the <a class="mw-redirect" href="/wiki/University_of_Mainz" title="University of Mainz">University of Mainz</a> were planning to study the electrodeposition of hassium atoms using the new TASCA facility at the GSI. Their aim was to use the reaction <sup>226</sup>Ra(<sup>48</sup>Ca,4n)<sup>270</sup>Hs.<sup class="reference" id="cite_ref-67"><a href="#cite_note-67">[67]</a></sup> In addition, scientists at the GSI were hoping to utilize TASCA to study the synthesis and properties of the hassium(II) compound hassocene, Hs(<a href="/wiki/Cyclopentadienyl" title="Cyclopentadienyl">C<sub>5</sub>H<sub>5</sub></a>)<sub>2</sub>, using the reaction <sup>226</sup>Ra(<sup>48</sup>Ca,xn). This compound is analogous to the lighter <a href="/wiki/Ferrocene" title="Ferrocene">ferrocene</a>, <a href="/wiki/Ruthenocene" title="Ruthenocene">ruthenocene</a>, and <a href="/wiki/Osmocene" title="Osmocene">osmocene</a>, and is expected to have the two cyclopentadienyl rings in an <a href="/wiki/Eclipsed_conformation" title="Eclipsed conformation">eclipsed conformation</a> like ruthenocene and osmocene and not in a <a href="/wiki/Staggered_conformation" title="Staggered conformation">staggered conformation</a> like ferrocene.<sup class="reference" id="cite_ref-hassocene_6-3"><a href="#cite_note-hassocene-6">[6]</a></sup> Hassocene was chosen because it has hassium in the low formal oxidation state of +2 (although the bonding between the metal and the rings is mostly covalent in <a href="/wiki/Metallocene" title="Metallocene">metallocenes</a>) rather than the high +8 state which had previously been investigated, and relativistic effects were expected to be stronger in the lower oxidation state.<sup class="reference" id="cite_ref-hassocene_6-4"><a href="#cite_note-hassocene-6">[6]</a></sup> Many metals in the periodic table form metallocenes, so that trends could be more easily determined, and the highly symmetric structure of hassocene and its low number of atoms also make relativistic calculations easier. Hassocene should be a stable and highly volatile compound.<sup class="reference" id="cite_ref-hassocene_6-5"><a href="#cite_note-hassocene-6">[6]</a></sup>
+</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hassium&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://web.archive.org/web/20120311135532/http://enews.lbl.gov/Science-Articles/Archive/108-chemistry.html" rel="nofollow">Hassium Becomes Heaviest Element To Have Its Chemistry Studied:</a> <a href="/wiki/Paul_Preuss_(author)" title="Paul Preuss (author)">Paul Preuss</a>, <a href="/wiki/Lawrence_Berkeley_National_Laboratory" title="Lawrence Berkeley National Laboratory">Lawrence Berkeley National Laboratory</a>. 5 June 2001.</li>
+<li><a class="external text" href="http://www.periodicvideos.com/videos/108.htm" rel="nofollow">Hassium</a> at <i><a class="mw-redirect" href="/wiki/The_Periodic_Table_of_Videos" title="The Periodic Table of Videos">The Periodic Table of Videos</a></i> (University of Nottingham)</li>
+<li><a class="external text" href="http://www.webelements.com/webelements/elements/text/Hs/index.html" rel="nofollow">WebElements.com: Hassium</a></li></ul>
+<div style="clear:both;"></div>
+<div aria-labelledby="Periodic_table_(Large_cells)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Periodic_table_(32_columns,_compact)" title="Template:Periodic table (32 columns, compact)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Periodic_table_(32_columns,_compact)" title="Template talk:Periodic table (32 columns, compact)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Periodic_table_(32_columns,_compact)&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Periodic_table_(Large_cells)" style="font-size:114%;margin:0 4em"><a href="/wiki/Periodic_table" title="Periodic table">Periodic table</a> <a class="mw-redirect" href="/wiki/Periodic_table_(large_cells)" title="Periodic table (large cells)"><link href="mw-data:TemplateStyles:r865336399" rel="mw-deduplicated-inline-style"/><span class="nobold"><small>(Large cells)</small></span></a></div></th></tr><tr><td class="navbox-list navbox-odd wraplinks" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<table aria-describedby="periodic-table-legend" cellpadding="0" style="table-layout:fixed; width:100%;">
+<tbody><tr>
+<td style="line-height:100%;">
+</td>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Alkali_metal" title="Alkali metal">1</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Alkaline_earth_metal" title="Alkaline earth metal">2</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_3_element" title="Group 3 element">3</a>
+</th>
+<td colspan="14">
+</td>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_4_element" title="Group 4 element">4</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_5_element" title="Group 5 element">5</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_6_element" title="Group 6 element">6</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_7_element" title="Group 7 element">7</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_8_element" title="Group 8 element">8</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_9_element" title="Group 9 element">9</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_10_element" title="Group 10 element">10</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_11_element" title="Group 11 element">11</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Group_12_element" title="Group 12 element">12</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Boron_group" title="Boron group">13</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Carbon_group" title="Carbon group">14</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Pnictogen" title="Pnictogen">15</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Chalcogen" title="Chalcogen">16</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Halogen" title="Halogen">17</a>
+</th>
+<th scope="col" style="background:transparent; font-weight:normal;"><a href="/wiki/Noble_gas" title="Noble gas">18</a>
+</th></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_1_element" title="Period 1 element">1</a>
+</th>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Hydrogen, 1 (reactive nonmetal)"><a href="/wiki/Hydrogen" title="Hydrogen"><span style="display:block">H</span></a>
+</td>
+<td colspan="30">
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Helium, 2 (noble gas)"><a href="/wiki/Helium" title="Helium"><span style="display:block">He</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_2_element" title="Period 2 element">2</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Lithium, 3 (alkali metal)"><a href="/wiki/Lithium" title="Lithium"><span style="display:block">Li</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Beryllium, 4 (alkaline earth metal)"><a href="/wiki/Beryllium" title="Beryllium"><span style="display:block">Be</span></a>
+</td>
+<td colspan="24">
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Boron, 5 (metalloid)"><a href="/wiki/Boron" title="Boron"><span style="display:block">B</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Carbon, 6 (reactive nonmetal)"><a href="/wiki/Carbon" title="Carbon"><span style="display:block">C</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Nitrogen, 7 (reactive nonmetal)"><a href="/wiki/Nitrogen" title="Nitrogen"><span style="display:block">N</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Oxygen, 8 (reactive nonmetal)"><a href="/wiki/Oxygen" title="Oxygen"><span style="display:block">O</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Fluorine, 9 (reactive nonmetal)"><a href="/wiki/Fluorine" title="Fluorine"><span style="display:block">F</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Neon, 10 (noble gas)"><a href="/wiki/Neon" title="Neon"><span style="display:block">Ne</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_3_element" title="Period 3 element">3</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Sodium, 11 (alkali metal)"><a href="/wiki/Sodium" title="Sodium"><span style="display:block">Na</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Magnesium, 12 (alkaline earth metal)"><a href="/wiki/Magnesium" title="Magnesium"><span style="display:block">Mg</span></a>
+</td>
+<td colspan="24">
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Aluminium, 13 (post-transition metal)"><a href="/wiki/Aluminium" title="Aluminium"><span style="display:block">Al</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Silicon, 14 (metalloid)"><a href="/wiki/Silicon" title="Silicon"><span style="display:block">Si</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Phosphorus, 15 (reactive nonmetal)"><a href="/wiki/Phosphorus" title="Phosphorus"><span style="display:block">P</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Sulfur, 16 (reactive nonmetal)"><a href="/wiki/Sulfur" title="Sulfur"><span style="display:block">S</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Chlorine, 17 (reactive nonmetal)"><a href="/wiki/Chlorine" title="Chlorine"><span style="display:block">Cl</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Argon, 18 (noble gas)"><a href="/wiki/Argon" title="Argon"><span style="display:block">Ar</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_4_element" title="Period 4 element">4</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Potassium, 19 (alkali metal)"><a href="/wiki/Potassium" title="Potassium"><span style="display:block">K</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Calcium, 20 (alkaline earth metal)"><a href="/wiki/Calcium" title="Calcium"><span style="display:block">Ca</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Scandium, 21 (transition metal)"><a href="/wiki/Scandium" title="Scandium"><span style="display:block">Sc</span></a>
+</td>
+<td colspan="14">
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Titanium, 22 (transition metal)"><a href="/wiki/Titanium" title="Titanium"><span style="display:block">Ti</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Vanadium, 23 (transition metal)"><a href="/wiki/Vanadium" title="Vanadium"><span style="display:block">V</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Chromium, 24 (transition metal)"><a href="/wiki/Chromium" title="Chromium"><span style="display:block">Cr</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Manganese, 25 (transition metal)"><a href="/wiki/Manganese" title="Manganese"><span style="display:block">Mn</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Iron, 26 (transition metal)"><a href="/wiki/Iron" title="Iron"><span style="display:block">Fe</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Cobalt, 27 (transition metal)"><a href="/wiki/Cobalt" title="Cobalt"><span style="display:block">Co</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Nickel, 28 (transition metal)"><a href="/wiki/Nickel" title="Nickel"><span style="display:block">Ni</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Copper, 29 (transition metal)"><a href="/wiki/Copper" title="Copper"><span style="display:block">Cu</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Zinc, 30 (post-transition metal)"><a href="/wiki/Zinc" title="Zinc"><span style="display:block">Zn</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Gallium, 31 (post-transition metal)"><a href="/wiki/Gallium" title="Gallium"><span style="display:block">Ga</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Germanium, 32 (metalloid)"><a href="/wiki/Germanium" title="Germanium"><span style="display:block">Ge</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Arsenic, 33 (metalloid)"><a href="/wiki/Arsenic" title="Arsenic"><span style="display:block">As</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Selenium, 34 (reactive nonmetal)"><a href="/wiki/Selenium" title="Selenium"><span style="display:block">Se</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Bromine, 35 (reactive nonmetal)"><a href="/wiki/Bromine" title="Bromine"><span style="display:block">Br</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Krypton, 36 (noble gas)"><a href="/wiki/Krypton" title="Krypton"><span style="display:block">Kr</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_5_element" title="Period 5 element">5</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Rubidium, 37 (alkali metal)"><a href="/wiki/Rubidium" title="Rubidium"><span style="display:block">Rb</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Strontium, 38 (alkaline earth metal)"><a href="/wiki/Strontium" title="Strontium"><span style="display:block">Sr</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Yttrium, 39 (transition metal)"><a href="/wiki/Yttrium" title="Yttrium"><span style="display:block">Y</span></a>
+</td>
+<td colspan="14">
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Zirconium, 40 (transition metal)"><a href="/wiki/Zirconium" title="Zirconium"><span style="display:block">Zr</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Niobium, 41 (transition metal)"><a href="/wiki/Niobium" title="Niobium"><span style="display:block">Nb</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Molybdenum, 42 (transition metal)"><a href="/wiki/Molybdenum" title="Molybdenum"><span style="display:block">Mo</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Technetium, 43 (transition metal)"><a href="/wiki/Technetium" title="Technetium"><span style="display:block">Tc</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Ruthenium, 44 (transition metal)"><a href="/wiki/Ruthenium" title="Ruthenium"><span style="display:block">Ru</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Rhodium, 45 (transition metal)"><a href="/wiki/Rhodium" title="Rhodium"><span style="display:block">Rh</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Palladium, 46 (transition metal)"><a href="/wiki/Palladium" title="Palladium"><span style="display:block">Pd</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Silver, 47 (transition metal)"><a href="/wiki/Silver" title="Silver"><span style="display:block">Ag</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Cadmium, 48 (post-transition metal)"><a href="/wiki/Cadmium" title="Cadmium"><span style="display:block">Cd</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Indium, 49 (post-transition metal)"><a href="/wiki/Indium" title="Indium"><span style="display:block">In</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Tin, 50 (post-transition metal)"><a href="/wiki/Tin" title="Tin"><span style="display:block">Sn</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Antimony, 51 (metalloid)"><a href="/wiki/Antimony" title="Antimony"><span style="display:block">Sb</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Tellurium, 52 (metalloid)"><a href="/wiki/Tellurium" title="Tellurium"><span style="display:block">Te</span></a>
+</td>
+<td style="text-align:center; background:#f0ff8f; border:none; ;" title="Iodine, 53 (reactive nonmetal)"><a href="/wiki/Iodine" title="Iodine"><span style="display:block">I</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Xenon, 54 (noble gas)"><a href="/wiki/Xenon" title="Xenon"><span style="display:block">Xe</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_6_element" title="Period 6 element">6</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Caesium, 55 (alkali metal)"><a href="/wiki/Caesium" title="Caesium"><span style="display:block">Cs</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Barium, 56 (alkaline earth metal)"><a href="/wiki/Barium" title="Barium"><span style="display:block">Ba</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Lanthanum, 57 (lanthanide)"><a href="/wiki/Lanthanum" title="Lanthanum"><span style="display:block">La</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Cerium, 58 (lanthanide)"><a href="/wiki/Cerium" title="Cerium"><span style="display:block">Ce</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Praseodymium, 59 (lanthanide)"><a href="/wiki/Praseodymium" title="Praseodymium"><span style="display:block">Pr</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Neodymium, 60 (lanthanide)"><a href="/wiki/Neodymium" title="Neodymium"><span style="display:block">Nd</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Promethium, 61 (lanthanide)"><a href="/wiki/Promethium" title="Promethium"><span style="display:block">Pm</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Samarium, 62 (lanthanide)"><a href="/wiki/Samarium" title="Samarium"><span style="display:block">Sm</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Europium, 63 (lanthanide)"><a href="/wiki/Europium" title="Europium"><span style="display:block">Eu</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Gadolinium, 64 (lanthanide)"><a href="/wiki/Gadolinium" title="Gadolinium"><span style="display:block">Gd</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Terbium, 65 (lanthanide)"><a href="/wiki/Terbium" title="Terbium"><span style="display:block">Tb</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Dysprosium, 66 (lanthanide)"><a href="/wiki/Dysprosium" title="Dysprosium"><span style="display:block">Dy</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Holmium, 67 (lanthanide)"><a href="/wiki/Holmium" title="Holmium"><span style="display:block">Ho</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Erbium, 68 (lanthanide)"><a href="/wiki/Erbium" title="Erbium"><span style="display:block">Er</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Thulium, 69 (lanthanide)"><a href="/wiki/Thulium" title="Thulium"><span style="display:block">Tm</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Ytterbium, 70 (lanthanide)"><a href="/wiki/Ytterbium" title="Ytterbium"><span style="display:block">Yb</span></a>
+</td>
+<td style="text-align:center; background:#ffbfff; border:none; ;" title="Lutetium, 71 (lanthanide)"><a href="/wiki/Lutetium" title="Lutetium"><span style="display:block">Lu</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Hafnium, 72 (transition metal)"><a href="/wiki/Hafnium" title="Hafnium"><span style="display:block">Hf</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Tantalum, 73 (transition metal)"><a href="/wiki/Tantalum" title="Tantalum"><span style="display:block">Ta</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Tungsten, 74 (transition metal)"><a href="/wiki/Tungsten" title="Tungsten"><span style="display:block">W</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Rhenium, 75 (transition metal)"><a href="/wiki/Rhenium" title="Rhenium"><span style="display:block">Re</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Osmium, 76 (transition metal)"><a href="/wiki/Osmium" title="Osmium"><span style="display:block">Os</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Iridium, 77 (transition metal)"><a href="/wiki/Iridium" title="Iridium"><span style="display:block">Ir</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Platinum, 78 (transition metal)"><a href="/wiki/Platinum" title="Platinum"><span style="display:block">Pt</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Gold, 79 (transition metal)"><a href="/wiki/Gold" title="Gold"><span style="display:block">Au</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Mercury, 80 (post-transition metal)"><a href="/wiki/Mercury_(element)" title="Mercury (element)"><span style="display:block">Hg</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Thallium, 81 (post-transition metal)"><a href="/wiki/Thallium" title="Thallium"><span style="display:block">Tl</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Lead, 82 (post-transition metal)"><a href="/wiki/Lead" title="Lead"><span style="display:block">Pb</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Bismuth, 83 (post-transition metal)"><a href="/wiki/Bismuth" title="Bismuth"><span style="display:block">Bi</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Polonium, 84 (post-transition metal)"><a href="/wiki/Polonium" title="Polonium"><span style="display:block">Po</span></a>
+</td>
+<td style="text-align:center; background:#cccc99; border:none; ;" title="Astatine, 85 (metalloid)"><a href="/wiki/Astatine" title="Astatine"><span style="display:block">At</span></a>
+</td>
+<td style="text-align:center; background:#c0ffff; border:none; ;" title="Radon, 86 (noble gas)"><a href="/wiki/Radon" title="Radon"><span style="display:block">Rn</span></a>
+</td></tr>
+<tr>
+<th scope="row" style="background:transparent; font-weight:normal;"><a href="/wiki/Period_7_element" title="Period 7 element">7</a>
+</th>
+<td style="text-align:center; background:#ff6666; border:none; ;" title="Francium, 87 (alkali metal)"><a href="/wiki/Francium" title="Francium"><span style="display:block">Fr</span></a>
+</td>
+<td style="text-align:center; background:#ffdead; border:none; ;" title="Radium, 88 (alkaline earth metal)"><a href="/wiki/Radium" title="Radium"><span style="display:block">Ra</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Actinium, 89 (actinide)"><a href="/wiki/Actinium" title="Actinium"><span style="display:block">Ac</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Thorium, 90 (actinide)"><a href="/wiki/Thorium" title="Thorium"><span style="display:block">Th</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Protactinium, 91 (actinide)"><a href="/wiki/Protactinium" title="Protactinium"><span style="display:block">Pa</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Uranium, 92 (actinide)"><a href="/wiki/Uranium" title="Uranium"><span style="display:block">U</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Neptunium, 93 (actinide)"><a href="/wiki/Neptunium" title="Neptunium"><span style="display:block">Np</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Plutonium, 94 (actinide)"><a href="/wiki/Plutonium" title="Plutonium"><span style="display:block">Pu</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Americium, 95 (actinide)"><a href="/wiki/Americium" title="Americium"><span style="display:block">Am</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Curium, 96 (actinide)"><a href="/wiki/Curium" title="Curium"><span style="display:block">Cm</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Berkelium, 97 (actinide)"><a href="/wiki/Berkelium" title="Berkelium"><span style="display:block">Bk</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Californium, 98 (actinide)"><a href="/wiki/Californium" title="Californium"><span style="display:block">Cf</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Einsteinium, 99 (actinide)"><a href="/wiki/Einsteinium" title="Einsteinium"><span style="display:block">Es</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Fermium, 100 (actinide)"><a href="/wiki/Fermium" title="Fermium"><span style="display:block">Fm</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Mendelevium, 101 (actinide)"><a href="/wiki/Mendelevium" title="Mendelevium"><span style="display:block">Md</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Nobelium, 102 (actinide)"><a href="/wiki/Nobelium" title="Nobelium"><span style="display:block">No</span></a>
+</td>
+<td style="text-align:center; background:#ff99cc; border:none; ;" title="Lawrencium, 103 (actinide)"><a href="/wiki/Lawrencium" title="Lawrencium"><span style="display:block">Lr</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Rutherfordium, 104 (transition metal)"><a href="/wiki/Rutherfordium" title="Rutherfordium"><span style="display:block">Rf</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Dubnium, 105 (transition metal)"><a href="/wiki/Dubnium" title="Dubnium"><span style="display:block">Db</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Seaborgium, 106 (transition metal)"><a href="/wiki/Seaborgium" title="Seaborgium"><span style="display:block">Sg</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:none; ;" title="Bohrium, 107 (transition metal)"><a href="/wiki/Bohrium" title="Bohrium"><span style="display:block">Bh</span></a>
+</td>
+<td style="text-align:center; background:#ffc0c0; border:2px solid black; ;" title="Hassium, 108 (transition metal)"><a class="mw-selflink selflink"><span style="display:block">Hs</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Meitnerium, 109 (unknown chemical properties)"><a href="/wiki/Meitnerium" title="Meitnerium"><span style="display:block">Mt</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Darmstadtium, 110 (unknown chemical properties)"><a href="/wiki/Darmstadtium" title="Darmstadtium"><span style="display:block">Ds</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Roentgenium, 111 (unknown chemical properties)"><a href="/wiki/Roentgenium" title="Roentgenium"><span style="display:block">Rg</span></a>
+</td>
+<td style="text-align:center; background:#cccccc; border:none; ;" title="Copernicium, 112 (post-transition metal)"><a href="/wiki/Copernicium" title="Copernicium"><span style="display:block">Cn</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Nihonium, 113 (unknown chemical properties)"><a href="/wiki/Nihonium" title="Nihonium"><span style="display:block">Nh</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Flerovium, 114 (unknown chemical properties)"><a href="/wiki/Flerovium" title="Flerovium"><span style="display:block">Fl</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Moscovium, 115 (unknown chemical properties)"><a href="/wiki/Moscovium" title="Moscovium"><span style="display:block">Mc</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Livermorium, 116 (unknown chemical properties)"><a href="/wiki/Livermorium" title="Livermorium"><span style="display:block">Lv</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Tennessine, 117 (unknown chemical properties)"><a href="/wiki/Tennessine" title="Tennessine"><span style="display:block">Ts</span></a>
+</td>
+<td style="text-align:center; background:#e8e8e8; border:none; ;" title="Oganesson, 118 (unknown chemical properties)"><a href="/wiki/Oganesson" title="Oganesson"><span style="display:block">Og</span></a>
+</td></tr></tbody></table>
+</div></td></tr><tr><td class="navbox-list navbox-even wraplinks" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div id="periodic-table-legend" role="presentation" style="border: 1px solid #a2a9b1; width:100%; line-height:120%; text-align:center; vertical-align:top; font-size:85%; background:#f8f8f8; margin:0; font-size:90%; margin-top:0.5em;"><div style="padding:0.3em;">
+<table style="width:100%; table-layout:fixed; overflow:hidden;">
+<tbody><tr>
+<td style="padding:0 1px; background:#ff6666;"><a href="/wiki/Alkali_metal" title="Alkali metal">Alkali metal</a>
+</td>
+<td style="padding:0 1px; background:#ffdead;"><a href="/wiki/Alkaline_earth_metal" title="Alkaline earth metal">Alkaline earth metal</a>
+</td>
+<td style="padding:0 1px; background:#ffbfff;"><a href="/wiki/Lanthanide" title="Lanthanide">Lan­thanide</a>
+</td>
+<td style="padding:0 1px; background:#ff99cc;"><a href="/wiki/Actinide" title="Actinide">Actinide</a>
+</td>
+<td style="padding:0 1px; background:#ffc0c0;"><a href="/wiki/Transition_metal" title="Transition metal">Transition metal</a>
+</td>
+<td style="padding:0 1px; background:#cccccc;"><a href="/wiki/Post-transition_metal" title="Post-transition metal">Post-​transition metal</a>
+</td>
+<td style="padding:0 1px; background:#cccc99;"><a href="/wiki/Metalloid" title="Metalloid">Metalloid</a>
+</td>
+<td style="padding:0 1px; background:#f0ff8f;"><a class="mw-redirect" href="/wiki/Reactive_nonmetal" title="Reactive nonmetal">Reactive nonmetal</a>
+</td>
+<td style="padding:0 1px; background:#c0ffff;"><a href="/wiki/Noble_gas" title="Noble gas">Noble gas</a>
+</td>
+<td rowspan="1" style="padding:0 1px; background:#e8e8e8;">Unknown<br/>chemical<br/>properties
+</td></tr></tbody></table>
+</div>
+</div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1252&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1252&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1252" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4518309-0" rel="nofollow">4518309-0</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20181031204527
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 2.324 seconds
+Real time usage: 2.603 seconds
+Preprocessor visited node count: 26220/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 525407/2097152 bytes
+Template argument size: 32105/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 195380/5000000 bytes
+Number of Wikibase entities loaded: 6/400
+Lua time usage: 1.191/10.000 seconds
+Lua memory usage: 24.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 2299.942      1 -total
+ 38.86%  893.746      1 Template:Reflist
+ 30.27%  696.196      1 Template:Infobox_hassium
+ 30.06%  691.398      1 Template:Infobox_element
+ 27.13%  623.875      1 Template:Infobox
+ 21.72%  499.622     35 Template:Cite_journal
+ 13.97%  321.329      1 Template:Compact_periodic_table
+ 13.39%  308.003      1 Template:Navbox
+ 11.14%  256.213    118 Template:Element_cell-compact
+  9.66%  222.128      1 Template:Infobox_element/periodic_table
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13764-0!canonical and timestamp 20181031204525 and revision id 865470064
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hassium&amp;oldid=865470064">https://en.wikipedia.org/w/index.php?title=Hassium&amp;oldid=865470064</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hassium" title="Category:Hassium">Hassium</a></li><li><a href="/wiki/Category:Chemical_elements" title="Category:Chemical elements">Chemical elements</a></li><li><a href="/wiki/Category:Transition_metals" title="Category:Transition metals">Transition metals</a></li><li><a href="/wiki/Category:Synthetic_elements" title="Category:Synthetic elements">Synthetic elements</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Russian-language_sources_(ru)" title="Category:CS1 Russian-language sources (ru)">CS1 Russian-language sources (ru)</a></li><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Webarchive_template_webcite_links" title="Category:Webarchive template webcite links">Webarchive template webcite links</a></li><li><a href="/wiki/Category:Webarchive_template_archiveis_links" title="Category:Webarchive template archiveis links">Webarchive template archiveis links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">Use dmy dates from March 2018</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_including_recorded_pronunciations_(English)" title="Category:Articles including recorded pronunciations (English)">Articles including recorded pronunciations (English)</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hassium" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Hassium" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Hassium" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Hassium" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Hassium">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Hassium&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Hassium&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Hassium" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Hassium" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hassium&amp;oldid=865470064" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hassium&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1252" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hassium&amp;id=865470064" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hassium">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hassium&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Hassium&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hassium" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Hassium" hreflang="af" lang="af" title="Hassium – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-am"><a class="interlanguage-link-target" href="https://am.wikipedia.org/wiki/%E1%88%80%E1%88%B2%E1%8B%A8%E1%88%9D" hreflang="am" lang="am" title="ሀሲየም – Amharic">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%B3%D9%8A%D9%88%D9%85" hreflang="ar" lang="ar" title="هاسيوم – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Hassio" hreflang="an" lang="an" title="Hassio – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-roa-rup"><a class="interlanguage-link-target" href="https://roa-rup.wikipedia.org/wiki/Hassiu" hreflang="rup" lang="rup" title="Hassiu – Aromanian">Armãneashti</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Hassiu" hreflang="ast" lang="ast" title="Hassiu – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Hassium" hreflang="az" lang="az" title="Hassium – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE" hreflang="bn" lang="bn" title="হ্যাসিয়াম – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Hassium" hreflang="nan" lang="nan" title="Hassium – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%96%D0%B9" hreflang="be" lang="be" title="Хасій – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%93%D0%B0%D1%81" hreflang="be-tarask" lang="be-tarask" title="Гас – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="bh" lang="bh" title="हस्सियम – Bhojpuri">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D0%B8%D0%B9" hreflang="bg" lang="bg" title="Хасий – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bo"><a class="interlanguage-link-target" href="https://bo.wikipedia.org/wiki/%E0%BD%A7%E0%BC%8B%E0%BD%A6%E0%BD%B2%E0%BD%98%E0%BC%8D" hreflang="bo" lang="bo" title="ཧ་སིམ། – Tibetan">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Hasij" hreflang="bs" lang="bs" title="Hasij – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Hasiom" hreflang="br" lang="br" title="Hasiom – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Hassi" hreflang="ca" lang="ca" title="Hassi – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8" hreflang="cv" lang="cv" title="Хасси – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Hassyo" hreflang="ceb" lang="ceb" title="Hassyo – Cebuano">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Hassium" hreflang="cs" lang="cs" title="Hassium – Czech">Čeština</a></li><li class="interlanguage-link interwiki-co"><a class="interlanguage-link-target" href="https://co.wikipedia.org/wiki/Hassiu" hreflang="co" lang="co" title="Hassiu – Corsican">Corsu</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Hasiwm" hreflang="cy" lang="cy" title="Hasiwm – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Hassium" hreflang="da" lang="da" title="Hassium – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Hassium" hreflang="de" lang="de" title="Hassium – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Hassium" hreflang="et" lang="et" title="Hassium – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A7%CE%AC%CF%83%CE%B9%CE%BF" hreflang="el" lang="el" title="Χάσιο – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Hasio" hreflang="es" lang="es" title="Hasio – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Hasio" hreflang="eo" lang="eo" title="Hasio – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Hassio" hreflang="eu" lang="eu" title="Hassio – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%87%D8%A7%D8%B3%DB%8C%D9%85" hreflang="fa" lang="fa" title="هاسیم – Persian">فارسی</a></li><li class="interlanguage-link interwiki-hif"><a class="interlanguage-link-target" href="https://hif.wikipedia.org/wiki/Hassium" hreflang="hif" lang="hif" title="Hassium – Fiji Hindi">Fiji Hindi</a></li><li class="interlanguage-link interwiki-fo"><a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/Hassium" hreflang="fo" lang="fo" title="Hassium – Faroese">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Hassium" hreflang="fr" lang="fr" title="Hassium – French">Français</a></li><li class="interlanguage-link interwiki-fur"><a class="interlanguage-link-target" href="https://fur.wikipedia.org/wiki/Hassi" hreflang="fur" lang="fur" title="Hassi – Friulian">Furlan</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Haisiam" hreflang="ga" lang="ga" title="Haisiam – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Hassium" hreflang="gv" lang="gv" title="Hassium – Manx">Gaelg</a></li><li class="interlanguage-link interwiki-gd"><a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Hassium" hreflang="gd" lang="gd" title="Hassium – Scottish Gaelic">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Hassio" hreflang="gl" lang="gl" title="Hassio – Galician">Galego</a></li><li class="interlanguage-link interwiki-gu"><a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%B9%E0%AB%87%E0%AA%B8%E0%AB%80%E0%AA%AF%E0%AA%AE" hreflang="gu" lang="gu" title="હેસીયમ – Gujarati">ગુજરાતી</a></li><li class="interlanguage-link interwiki-hak"><a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/Hassium" hreflang="hak" lang="hak" title="Hassium – Hakka Chinese">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-xal"><a class="interlanguage-link-target" href="https://xal.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D1%83%D0%BC" hreflang="xal" lang="xal" title="Хассиум – Kalmyk">Хальмг</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%95%98%EC%8A%98" hreflang="ko" lang="ko" title="하슘 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%BD%D5%AB%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Հասիում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%88%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="hi" lang="hi" title="हैसियम – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Hasij" hreflang="hr" lang="hr" title="Hasij – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Hasio" hreflang="io" lang="io" title="Hasio – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Hasium" hreflang="id" lang="id" title="Hasium – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Hassium" hreflang="ia" lang="ia" title="Hassium – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Hassio" hreflang="it" lang="it" title="Hassio – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A1%D7%99%D7%95%D7%9D" hreflang="he" lang="he" title="האסיום – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Hassium" hreflang="jv" lang="jv" title="Hassium – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%B9%E0%B2%BE%E0%B2%B8%E0%B3%8D%E0%B2%B8%E0%B2%BF%E0%B2%AF%E0%B2%AE%E0%B3%8D" hreflang="kn" lang="kn" title="ಹಾಸ್ಸಿಯಮ್ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9" hreflang="kk" lang="kk" title="Хассий – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-kv"><a class="interlanguage-link-target" href="https://kv.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9" hreflang="kv" lang="kv" title="Хассий – Komi">Коми</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Asy%C3%B2m" hreflang="ht" lang="ht" title="Asyòm – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Hasiy%C3%BBm" hreflang="ku" lang="ku" title="Hasiyûm – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9" hreflang="ky" lang="ky" title="Хассий – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a class="interlanguage-link-target" href="https://mrj.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9" hreflang="mrj" lang="mrj" title="Хассий – Western Mari">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Hassium" hreflang="la" lang="la" title="Hassium – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Hasijs" hreflang="lv" lang="lv" title="Hasijs – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Hassium" hreflang="lb" lang="lb" title="Hassium – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Hasis" hreflang="lt" lang="lt" title="Hasis – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-lij"><a class="interlanguage-link-target" href="https://lij.wikipedia.org/wiki/Hassio" hreflang="lij" lang="lij" title="Hassio – Ligurian">Ligure</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Hassium" hreflang="li" lang="li" title="Hassium – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-jbo"><a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/jinmrxasi" hreflang="jbo" lang="jbo" title="jinmrxasi – Lojban">La .lojban.</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Hasszium" hreflang="hu" lang="hu" title="Hasszium – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D0%B8%D1%83%D0%BC" hreflang="mk" lang="mk" title="Хасиум – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B9%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%B8%E0%B4%BF%E0%B4%AF%E0%B4%82" hreflang="ml" lang="ml" title="ഹാസ്സിയം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="mr" lang="mr" title="हासियम – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Hasium" hreflang="ms" lang="ms" title="Hasium – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/Hassium" hreflang="cdo" lang="cdo" title="Hassium – Min Dong Chinese">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8" hreflang="mn" lang="mn" title="Хасси – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Hassium" hreflang="nl" lang="nl" title="Hassium – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="ne" lang="ne" title="ह्यासियम – Nepali">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="new" lang="new" title="ह्यासियम – Newari">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B7%E3%82%A6%E3%83%A0" hreflang="ja" lang="ja" title="ハッシウム – Japanese">日本語</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Hassium" hreflang="frr" lang="frr" title="Hassium – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Hassium" hreflang="no" lang="no" title="Hassium – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Hassium" hreflang="nn" lang="nn" title="Hassium – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-or"><a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%B9%E0%AC%BE%E0%AC%B8%E0%AC%BF%E0%AC%85%E0%AC%AE" hreflang="or" lang="or" title="ହାସିଅମ – Odia">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Xassiy" hreflang="uz" lang="uz" title="Xassiy – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pi"><a class="interlanguage-link-target" href="https://pi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="pi" lang="pi" title="ह्यासियम – Pali">पालि</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%DB%81%D8%A7%D8%B3%DB%8C%D9%85" hreflang="pnb" lang="pnb" title="ہاسیم – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Has" hreflang="pl" lang="pl" title="Has – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/H%C3%A1ssio" hreflang="pt" lang="pt" title="Hássio – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Hassiu" hreflang="ro" lang="ro" title="Hassiu – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Hasyu" hreflang="qu" lang="qu" title="Hasyu – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9" hreflang="ru" lang="ru" title="Хассий – Russian">Русский</a></li><li class="interlanguage-link interwiki-sa"><a class="interlanguage-link-target" href="https://sa.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%AE" hreflang="sa" lang="sa" title="हसियम – Sanskrit">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Hassium" hreflang="sco" lang="sco" title="Hassium – Scots">Scots</a></li><li class="interlanguage-link interwiki-stq"><a class="interlanguage-link-target" href="https://stq.wikipedia.org/wiki/Hassium" hreflang="stq" lang="stq" title="Hassium – Saterland Frisian">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Hassiumi" hreflang="sq" lang="sq" title="Hassiumi – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Hassiu" hreflang="scn" lang="scn" title="Hassiu – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Hassium" hreflang="en-simple" lang="en-simple" title="Hassium – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/H%C3%A1sium" hreflang="sk" lang="sk" title="Hásium – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Hasij" hreflang="sl" lang="sl" title="Hasij – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Hasiyaam" hreflang="so" lang="so" title="Hasiyaam – Somali">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%BE%D8%A7%D8%B3%DB%8C%DB%86%D9%85" hreflang="ckb" lang="ckb" title="ھاسیۆم – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D0%B8%D1%98%D1%83%D0%BC" hreflang="sr" lang="sr" title="Хасијум – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Hasijum" hreflang="sh" lang="sh" title="Hasijum – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Hassium" hreflang="fi" lang="fi" title="Hassium – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Hassium" hreflang="sv" lang="sv" title="Hassium – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Hasyo" hreflang="tl" lang="tl" title="Hasyo – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="ஆசியம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%81%D0%B8%D0%B9" hreflang="tt" lang="tt" title="Хассий – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B0%BF%E0%B0%AF%E0%B0%82" hreflang="te" lang="te" title="హాసియం – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AE%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%A1" hreflang="th" lang="th" title="ฮัสเซียม – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Hassiyum" hreflang="tr" lang="tr" title="Hassiyum – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D1%81%D1%96%D0%B9" hreflang="uk" lang="uk" title="Гасій – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DB%81%D8%A7%D8%B3%DB%8C%D8%A6%D9%85" hreflang="ur" lang="ur" title="ہاسیئم – Urdu">اردو</a></li><li class="interlanguage-link interwiki-ug"><a class="interlanguage-link-target" href="https://ug.wikipedia.org/wiki/%DA%BE%D8%A7%D8%B3%D8%B3%D9%89%D9%8A" hreflang="ug" lang="ug" title="ھاسسىي – Uyghur">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-vep"><a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/Hassii" hreflang="vep" lang="vep" title="Hassii – Veps">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Hassi" hreflang="vi" lang="vi" title="Hassi – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%F0%A8%AD%86" hreflang="lzh" lang="lzh" title="𨭆 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Hassyo" hreflang="war" lang="war" title="Hassyo – Waray">Winaray</a></li><li class="interlanguage-link interwiki-yo"><a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/Hassiomu" hreflang="yo" lang="yo" title="Hassiomu – Yoruba">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%F0%A8%AD%86" hreflang="yue" lang="yue" title="𨭆 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%F0%A8%AD%86" hreflang="zh" lang="zh" title="𨭆 – Chinese">中文</a></li><li class="interlanguage-link interwiki-kbp"><a class="interlanguage-link-target" href="https://kbp.wikipedia.org/wiki/Has%C9%A9y%C9%94m" hreflang="kbp" lang="kbp" title="Hasɩyɔm – Kabiye">Kabɩyɛ</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1252#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 October 2018, at 04:35<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Hassium&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.324","walltime":"2.603","ppvisitednodes":{"value":26220,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":525407,"limit":2097152},"templateargumentsize":{"value":32105,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":195380,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00% 2299.942      1 -total"," 38.86%  893.746      1 Template:Reflist"," 30.27%  696.196      1 Template:Infobox_hassium"," 30.06%  691.398      1 Template:Infobox_element"," 27.13%  623.875      1 Template:Infobox"," 21.72%  499.622     35 Template:Cite_journal"," 13.97%  321.329      1 Template:Compact_periodic_table"," 13.39%  308.003      1 Template:Navbox"," 11.14%  256.213    118 Template:Element_cell-compact","  9.66%  222.128      1 Template:Infobox_element/periodic_table"]},"scribunto":{"limitreport-timeusage":{"value":"1.191","limit":"10.000"},"limitreport-memusage":{"value":25837758,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20181031204527","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1268"});});</script>
+</body>
+</html>

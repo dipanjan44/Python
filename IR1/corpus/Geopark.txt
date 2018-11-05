@@ -1,0 +1,398 @@
+https://en.wikipedia.org/wiki/Geopark
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Geopark - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geopark","wgTitle":"Geopark","wgCurRevisionId":847645826,"wgRevisionId":847645826,"wgArticleId":898161,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Geoparks","Protected areas","Earth sciences","Geography","Geology","Geography education","Science education","Environmental education","Disaster preparedness"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Geopark","wgRelevantArticleId":898161,"wgRequestId":"W9YPwQpAIC0AAIDWYUMAAAAK","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1324355","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/a/aa/International_Network_of_Geoparks_map.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Geopark" rel="alternate"/>
+<link href="/w/index.php?title=Geopark&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Geopark&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Geopark" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Geopark rootpage-Geopark skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Geopark</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:International_Network_of_Geoparks_map.jpg"><img alt="" class="thumbimage" data-file-height="500" data-file-width="1000" height="110" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/International_Network_of_Geoparks_map.jpg/220px-International_Network_of_Geoparks_map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/International_Network_of_Geoparks_map.jpg/330px-International_Network_of_Geoparks_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/International_Network_of_Geoparks_map.jpg/440px-International_Network_of_Geoparks_map.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:International_Network_of_Geoparks_map.jpg" title="Enlarge"></a></div>World locator map for geoparks included in the <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> <a href="/wiki/Global_Geoparks_Network" title="Global Geoparks Network">Global Geoparks Network</a> (GGN) as of 2008</div></div></div>
+<p>A <b>geopark</b> is a unified area that advances the protection and use of geological heritage in a sustainable way, and promotes the economic well-being of the people who live there.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> There are global geoparks and national geoparks.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Concepts"><span class="tocnumber">1</span> <span class="toctext">Concepts</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Global_Network_and_UNESCO"><span class="tocnumber">2</span> <span class="toctext">Global Network and UNESCO</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Qualification"><span class="tocnumber">2.1</span> <span class="toctext">Qualification</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Members_of_the_GGN"><span class="tocnumber">2.2</span> <span class="toctext">Members of the GGN</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Concepts">Concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geopark&amp;action=edit&amp;section=1" title="Edit section: Concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A UNESCO definition of <i>global geopark</i> is a unified area with a geological heritage of international significance.<sup class="reference" id="cite_ref-globalgeopark_2-0"><a href="#cite_note-globalgeopark-2">[2]</a></sup> Geoparks use that heritage to promote awareness of key issues facing society in the context of our dynamic planet. Many geoparks promote awareness of geological <a href="/wiki/Hazard" title="Hazard">hazards</a>, including <a href="/wiki/Volcano" title="Volcano">volcanoes</a>, <a href="/wiki/Earthquake" title="Earthquake">earthquakes</a> and <a href="/wiki/Tsunami" title="Tsunami">tsunamis</a> and many help prepare <a href="/wiki/Disaster" title="Disaster">disaster</a> mitigation strategies with <a href="/wiki/Local_community" title="Local community">local communities</a>. Geoparks embody records of past climate changes and are indicators of current <a href="/wiki/Climate_change" title="Climate change">climate changes</a> as well as demonstrating a "best practise" approach to using renewable energy and employing the best standards of "<a class="mw-redirect" href="/wiki/Green_tourism" title="Green tourism">green tourism</a>". <a href="/wiki/Tourism" title="Tourism">Tourism</a> industry promotion in geoparks, as a geographically sustainable and applicable tourism model, aims to sustain, and even enhance, the geographical character of a place.
+</p><p>Geoparks also inform about the sustainable use and need for <a href="/wiki/Natural_resource" title="Natural resource">natural resources</a>, whether they are mined, quarried or harnessed from the surrounding <a href="/wiki/Natural_environment" title="Natural environment">environment</a> while at the same time promoting respect for the environment and the integrity of the <a href="/wiki/Landscape" title="Landscape">landscape</a>. Geoparks are not a legislative designation though the key heritage sites within a geopark are often protected under local, regional or national legislation.<sup class="reference" id="cite_ref-globalgeopark_2-1"><a href="#cite_note-globalgeopark-2">[2]</a></sup> The multidisciplinary nature of the concept of geopark and tourism promotion in geoparks differentiates itself from other models of <a href="/wiki/Sustainable_tourism" title="Sustainable tourism">sustainable tourism</a>. In fact, sustainable tourism promotion within geoparks encompasses many of the features of sustainable tourism including geo-tourism (geo-site tourism: as a basic factor), community-based tourism and integrated rural tourism (as a vital need), <a href="/wiki/Ecotourism" title="Ecotourism">ecotourism</a>, and <a href="/wiki/Cultural_heritage" title="Cultural heritage">cultural heritage</a> tourism.
+</p>
+<h2><span class="mw-headline" id="Global_Network_and_UNESCO">Global Network and UNESCO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geopark&amp;action=edit&amp;section=2" title="Edit section: Global Network and UNESCO">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Global_Geoparks_Network" title="Global Geoparks Network">Global Geoparks Network</a> (GGN) is supported by <a class="mw-redirect" href="/wiki/United_Nations_Educational,_Scientific_and_Cultural_Organization" title="United Nations Educational, Scientific and Cultural Organization">United Nations Educational, Scientific and Cultural Organization</a> (UNESCO). Many national geoparks and other local geoparks projects also exist which are not included in the Global Geoparks Network.
+</p><p>The geoparks initiative was launched by UNESCO in response to the perceived need for an international initiative that recognizes sites representing an <a href="/wiki/Earth_science" title="Earth science">earth science</a> interest.<sup class="reference" id="cite_ref-UNESCO_Geopark_About_3-0"><a href="#cite_note-UNESCO_Geopark_About-3">[3]</a></sup> Global Geoparks Network  aims at enhancing the value of such sites while at the same time creating <a href="/wiki/Employment" title="Employment">employment</a> and promoting regional <a href="/wiki/Economic_development" title="Economic development">economic development</a>.<sup class="reference" id="cite_ref-UNESCO_Geopark_About_3-1"><a href="#cite_note-UNESCO_Geopark_About-3">[3]</a></sup> The Global Geoparks Network works in synergy with UNESCO's <a class="mw-redirect" href="/wiki/World_Heritage" title="World Heritage">World Heritage</a> Centre and <a class="mw-redirect" href="/wiki/Man_and_the_Biosphere" title="Man and the Biosphere">Man and the Biosphere</a> (MAB) World Network of Biosphere Reserves.<sup class="reference" id="cite_ref-UNESCO_Geopark_About_3-2"><a href="#cite_note-UNESCO_Geopark_About-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Qualification">Qualification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geopark&amp;action=edit&amp;section=3" title="Edit section: Qualification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Global Geoparks Network (GGN) is a UNESCO activity established in 1998. According to UNESCO, for a geopark to apply to be included in the GGN, it needs to:
+</p>
+<ul><li>have a management plan designed to foster socio-economic development that is <a class="mw-redirect" href="/wiki/Sustainable" title="Sustainable">sustainable</a> based on <a href="/wiki/Geotourism" title="Geotourism">geotourism</a></li>
+<li>demonstrate methods for conserving and enhancing geological heritage and provide means for teaching geoscientific disciplines and broader environmental issues</li>
+<li>have joint proposals submitted by public authorities, local communities and private interests acting together, which demonstrate the best practices with respect to Earth heritage conservation and its integration into <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> strategies.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li></ul>
+<h3><span class="mw-headline" id="Members_of_the_GGN">Members of the GGN</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geopark&amp;action=edit&amp;section=4" title="Edit section: Members of the GGN">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>See <a href="/wiki/Members_of_the_Global_Geoparks_Network" title="Members of the Global Geoparks Network">Members of the Global Geoparks Network</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geopark&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Geotourism" title="Geotourism">Geotourism</a></li>
+<li><a href="/wiki/Global_Geoparks_Network" title="Global Geoparks Network">Global Geoparks Network</a></li>
+<li><a href="/wiki/Asia_Pacific_Geoparks_Network" title="Asia Pacific Geoparks Network">Asia Pacific Geoparks Network</a></li>
+<li><a href="/wiki/European_Geoparks_Network" title="European Geoparks Network">European Geoparks Network</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_National_Geoparks" title="List of National Geoparks">List of National Geoparks</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geopark&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geopark&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Geoparks" title="commons:Category:Geoparks">Geoparks</a></b></i>.</td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.globalgeopark.org/" rel="nofollow">Global Geoparks Network</a></li>
+<li><a class="external text" href="http://www.europeangeoparks.org/" rel="nofollow">European Geoparks Network</a></li>
+<li><a class="external text" href="http://www.asiapacificgeoparks.org/" rel="nofollow">Asia Pacific Geoparks Network</a></li></ul>
+<div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a class="mw-selflink selflink">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1324355&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1324355&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1324355" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4824467-3" rel="nofollow">4824467-3</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="https://id.loc.gov/authorities/subjects/sh2004014560" rel="nofollow">sh2004014560</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/001130492" rel="nofollow">001130492</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20181026190610
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.256 seconds
+Preprocessor visited node count: 471/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35506/2097152 bytes
+Template argument size: 294/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7053/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.082/10.000 seconds
+Lua memory usage: 2.49 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  185.456      1 -total
+ 53.44%   99.103      1 Template:Reflist
+ 45.33%   84.075      2 Template:Cite_web
+ 17.59%   32.622      1 Template:Commons_category
+ 15.49%   28.726      1 Template:Authority_control
+ 13.34%   24.736      1 Template:Sustainability
+ 11.63%   21.576      1 Template:Navbox
+  5.70%   10.566      1 Template:Commons
+  4.88%    9.042      1 Template:Sister_project
+  3.58%    6.644      1 Template:Side_box
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:898161-0!canonical and timestamp 20181026190610 and revision id 847645826
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Geopark&amp;oldid=847645826">https://en.wikipedia.org/w/index.php?title=Geopark&amp;oldid=847645826</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geoparks" title="Category:Geoparks">Geoparks</a></li><li><a href="/wiki/Category:Protected_areas" title="Category:Protected areas">Protected areas</a></li><li><a href="/wiki/Category:Earth_sciences" title="Category:Earth sciences">Earth sciences</a></li><li><a href="/wiki/Category:Geography" title="Category:Geography">Geography</a></li><li><a href="/wiki/Category:Geology" title="Category:Geology">Geology</a></li><li><a href="/wiki/Category:Geography_education" title="Category:Geography education">Geography education</a></li><li><a href="/wiki/Category:Science_education" title="Category:Science education">Science education</a></li><li><a href="/wiki/Category:Environmental_education" title="Category:Environmental education">Environmental education</a></li><li><a href="/wiki/Category:Disaster_preparedness" title="Category:Disaster preparedness">Disaster preparedness</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Geopark" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Geopark" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Geopark" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Geopark" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Geopark">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Geopark&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Geopark&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Geopark" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Geopark" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Geopark&amp;oldid=847645826" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Geopark&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1324355" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Geopark&amp;id=847645826" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Geopark">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Geopark&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Geopark&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Geoparks" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Geopark" hreflang="az" lang="az" title="Geopark – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Geoparc" hreflang="ca" lang="ca" title="Geoparc – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Geopark" hreflang="cs" lang="cs" title="Geopark – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Geoparc" hreflang="cy" lang="cy" title="Geoparc – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Geopark" hreflang="da" lang="da" title="Geopark – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Geopark" hreflang="de" lang="de" title="Geopark – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Geopark" hreflang="et" lang="et" title="Geopark – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%89%CF%80%CE%AC%CF%81%CE%BA%CE%BF" hreflang="el" lang="el" title="Γεωπάρκο – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Geoparque" hreflang="es" lang="es" title="Geoparque – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Geoparke" hreflang="eu" lang="eu" title="Geoparke – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%98%D8%A6%D9%88%D9%BE%D8%A7%D8%B1%DA%A9" hreflang="fa" lang="fa" title="ژئوپارک – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/G%C3%A9oparc" hreflang="fr" lang="fr" title="Géoparc – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EC%98%A4%ED%8C%8C%ED%81%AC" hreflang="ko" lang="ko" title="지오파크 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Taman_bumi" hreflang="id" lang="id" title="Taman bumi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Jar%C3%B0vangur" hreflang="is" lang="is" title="Jarðvangur – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Geopark" hreflang="hu" lang="hu" title="Geopark – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Geopark" hreflang="nl" lang="nl" title="Geopark – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%AA%E3%83%91%E3%83%BC%E3%82%AF" hreflang="ja" lang="ja" title="ジオパーク – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Geopark" hreflang="nn" lang="nn" title="Geopark – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Geopark" hreflang="pl" lang="pl" title="Geopark – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Geoparque" hreflang="pt" lang="pt" title="Geoparque – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%BF%D0%B0%D1%80%D0%BA" hreflang="ru" lang="ru" title="Геопарк – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Geopark" hreflang="sl" lang="sl" title="Geopark – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Geopark" hreflang="fi" lang="fi" title="Geopark – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B8%B5" hreflang="th" lang="th" title="อุทยานธรณี – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Jeopark" hreflang="tr" lang="tr" title="Jeopark – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%BF%D0%B0%D1%80%D0%BA" hreflang="uk" lang="uk" title="Геопарк – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_%C4%91%E1%BB%8Ba_ch%E1%BA%A5t" hreflang="vi" lang="vi" title="Công viên địa chất – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E8%B4%A8%E5%85%AC%E5%9B%AD" hreflang="zh" lang="zh" title="地质公园 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1324355#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 June 2018, at 20:28<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Geopark&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.256","ppvisitednodes":{"value":471,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35506,"limit":2097152},"templateargumentsize":{"value":294,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7053,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  185.456      1 -total"," 53.44%   99.103      1 Template:Reflist"," 45.33%   84.075      2 Template:Cite_web"," 17.59%   32.622      1 Template:Commons_category"," 15.49%   28.726      1 Template:Authority_control"," 13.34%   24.736      1 Template:Sustainability"," 11.63%   21.576      1 Template:Navbox","  5.70%   10.566      1 Template:Commons","  4.88%    9.042      1 Template:Sister_project","  3.58%    6.644      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.082","limit":"10.000"},"limitreport-memusage":{"value":2613645,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20181026190610","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1324"});});</script>
+</body>
+</html>

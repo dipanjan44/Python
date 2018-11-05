@@ -1,0 +1,342 @@
+https://en.wikipedia.org/wiki/Steam_reforming
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Steam reforming - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Steam_reforming","wgTitle":"Steam reforming","wgCurRevisionId":866132627,"wgRevisionId":866132627,"wgArticleId":1320289,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","All articles with unsourced statements","Articles with unsourced statements from December 2012","Hydrogen production","Chemical processes","Fuel gas","Catalysis","Industrial gases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Steam_reforming","wgRelevantArticleId":1320289,"wgRequestId":"W9X-GwpAICoAAIDk2v0AAAAJ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q556466","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Steam_reforming" rel="alternate"/>
+<link href="/w/index.php?title=Steam_reforming&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Steam_reforming&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Steam_reforming" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Steam_reforming rootpage-Steam_reforming skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Steam reforming</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Steam reforming</b> or <b>steam methane reforming</b> is a <a href="/wiki/Chemical_synthesis" title="Chemical synthesis">chemical synthesis</a> for producing <a href="/wiki/Syngas" title="Syngas">syngas</a>, <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>, <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> from <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbon</a> fuels such as <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>. This is achieved in a processing device called a reformer which reacts steam at high temperature and pressure with <a href="/wiki/Methane" title="Methane">methane</a> in the presence of a <a href="/wiki/Nickel" title="Nickel">nickel</a> catalyst. The steam methane reformer is widely used in industry to make <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>.  There is also interest in the development of much smaller units based on similar technology to produce <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> as a feedstock for <a class="mw-redirect" href="/wiki/Fuel_cells" title="Fuel cells">fuel cells</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Small-scale steam reforming units to supply <a class="mw-redirect" href="/wiki/Fuel_cells" title="Fuel cells">fuel cells</a> are currently the subject of research and development, typically involving the reforming of <a href="/wiki/Methanol" title="Methanol">methanol</a>, but other fuels are also being considered such as <a href="/wiki/Propane" title="Propane">propane</a>, <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>, <a href="/wiki/Autogas" title="Autogas">autogas</a>, <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel fuel</a>, and <a href="/wiki/Ethanol" title="Ethanol">ethanol</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Industrial_reforming"><span class="tocnumber">1</span> <span class="toctext">Industrial reforming</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Autothermal_reforming"><span class="tocnumber">2</span> <span class="toctext">Autothermal reforming</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Partial_oxidation"><span class="tocnumber">3</span> <span class="toctext">Partial oxidation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Advantages_and_disadvantages"><span class="tocnumber">4</span> <span class="toctext">Advantages and disadvantages</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Reforming_for_combustion_engines"><span class="tocnumber">5</span> <span class="toctext">Reforming for combustion engines</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Reforming_for_fuel_cells"><span class="tocnumber">6</span> <span class="toctext">Reforming for fuel cells</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Advantages_of_reforming_for_supplying_fuel_cells"><span class="tocnumber">6.1</span> <span class="toctext">Advantages of reforming for supplying fuel cells</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Disadvantages_of_reforming_for_supplying_fuel_cells"><span class="tocnumber">6.2</span> <span class="toctext">Disadvantages of reforming for supplying fuel cells</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Current_challenges_with_reformers_supplying_fuel_cells"><span class="tocnumber">6.3</span> <span class="toctext">Current challenges with reformers supplying fuel cells</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Industrial_reforming">Industrial reforming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=1" title="Edit section: Industrial reforming">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Steam reforming of <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> is the most common method of producing commercial bulk hydrogen at about 95% of the world production<sup class="reference" id="cite_ref-Ogden_1999_4-0"><a href="#cite_note-Ogden_1999-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> of 500 billion m<sup>3</sup> in 1998.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Hydrogen is used in the <a href="/wiki/Ammonia_production" title="Ammonia production">industrial synthesis of ammonia</a> and other chemicals.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> At high temperatures (700 – 1100 °C) and in the presence of a <a href="/wiki/Metal" title="Metal">metal</a>-based <a class="mw-redirect" href="/wiki/Catalyst" title="Catalyst">catalyst</a> (<a href="/wiki/Nickel" title="Nickel">nickel</a>), steam reacts with methane to yield <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> and hydrogen. 
+</p>
+<dl><dd><a href="/wiki/Methane" title="Methane">CH<sub>4</sub></a> + <a href="/wiki/Water" title="Water">H<sub>2</sub>O</a> ⇌ <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a> + 3 <a href="/wiki/Hydrogen" title="Hydrogen">H<sub>2</sub></a></dd></dl>
+<p>Catalysts with high <a href="/wiki/Surface-area-to-volume_ratio" title="Surface-area-to-volume ratio">surface-area-to-volume ratio</a> are preferred because of <a href="/wiki/Diffusion" title="Diffusion">diffusion</a> limitations due to high <a href="/wiki/Operating_temperature" title="Operating temperature">operating temperature</a>. Examples of <a class="mw-redirect" href="/wiki/Catalyst" title="Catalyst">catalyst</a> shapes used are spoked wheels, gear wheels, and rings with holes. Additionally, these shapes have a low <a href="/wiki/Pressure_drop" title="Pressure drop">pressure drop</a> which is advantageous for this application.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p><p>Additional hydrogen can be obtained by reacting the <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a> with water via the <a href="/wiki/Water-gas_shift_reaction" title="Water-gas shift reaction">water-gas shift reaction</a>.
+</p>
+<dl><dd>CO + H<sub>2</sub>O ⇌ <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> + H<sub>2</sub></dd></dl>
+<p>The first reaction is strongly <a class="mw-redirect" href="/wiki/Endothermic" title="Endothermic">endothermic</a> (consumes heat, ΔH<sub>r</sub>= 206 kJ/mol), the second reaction is mildly <a class="mw-redirect" href="/wiki/Exothermic" title="Exothermic">exothermic</a> (produces heat, ΔH<sub>r</sub>= -41 kJ/mol).
+</p><p>The <a href="/wiki/United_States" title="United States">United States</a> produces nine million tons of hydrogen per year, mostly with steam reforming of natural gas. The worldwide ammonia production, using hydrogen derived from steam reforming, was 144 million <a class="mw-redirect" href="/wiki/Metric_tonnes" title="Metric tonnes">metric tonnes</a> in 2014.<sup class="reference" id="cite_ref-USGS_9-0"><a href="#cite_note-USGS-9">[9]</a></sup>
+</p><p>This steam reforming process is quite different from and not to be confused with <a href="/wiki/Catalytic_reforming" title="Catalytic reforming">catalytic reforming</a> of <a href="/wiki/Naphtha" title="Naphtha">naphtha</a>, an <a href="/wiki/Oil_refinery" title="Oil refinery">oil refinery</a> process that also produces significant amounts of hydrogen along with high <a href="/wiki/Octane_rating" title="Octane rating">octane</a> <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>.
+</p><p>Steam reforming of natural gas is approximately 65–75% efficient.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Autothermal_reforming">Autothermal reforming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=2" title="Edit section: Autothermal reforming">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Autothermal reforming (ATR) uses oxygen and carbon dioxide or steam in a reaction with methane to form <a href="/wiki/Syngas" title="Syngas">syngas</a>. The reaction takes place in a single chamber where the methane is partially oxidized. The reaction is exothermic due to the oxidation. When the ATR uses carbon dioxide the H<sub>2</sub>:CO ratio produced is 1:1; when the ATR uses steam the H<sub>2</sub>:CO ratio produced is 2.5:1
+</p><p>The reactions can be described in the following equations, using CO<sub>2</sub>:
+</p>
+<dl><dd>2CH<sub>4</sub> + O<sub>2</sub> + CO<sub>2</sub>  → 3H<sub>2</sub> + 3CO + H<sub>2</sub>O</dd></dl>
+<p>And using steam:
+</p>
+<dl><dd>4CH<sub>4</sub> + O<sub>2</sub> + 2H<sub>2</sub>O → 10H<sub>2</sub> + 4CO</dd></dl>
+<p>The outlet temperature of the syngas is between 950-1100 C and outlet pressure can be as high as 100 <a href="/wiki/Bar_(unit)" title="Bar (unit)">bar</a>.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>The main difference between SMR and ATR is that SMR only uses oxygen via air for combustion as a heat source to create steam, while ATR directly combusts oxygen. The advantage of ATR is that the H<sub>2</sub>:CO can be varied, this is particularly useful for producing certain second generation <a href="/wiki/Biofuel" title="Biofuel">biofuels</a>, such as <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">DME</a> which requires a 1:1 H<sub>2</sub>:CO ratio.
+</p>
+<h2><span class="mw-headline" id="Partial_oxidation">Partial oxidation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=3" title="Edit section: Partial oxidation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Partial_oxidation" title="Partial oxidation">Partial oxidation</a></div><p>Partial oxidation (POX) is a type of chemical reaction. It occurs when a substoichiometric fuel-air mixture is partially combusted in a reformer, creating a hydrogen-rich syngas which can then be put to further use.
+</p><h2><span class="mw-headline" id="Advantages_and_disadvantages">Advantages and disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=4" title="Edit section: Advantages and disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The capital cost of steam reforming plants is prohibitive for small to medium size applications because the technology does not scale down well. Conventional steam reforming plants operate at pressures between 200 and 600 psi with outlet temperatures in the range of 815 to 925 °C. However, analyses have shown that even though it is more costly to construct, a well-designed SMR can produce hydrogen more cost-effectively than an ATR.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reforming_for_combustion_engines">Reforming for combustion engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=5" title="Edit section: Reforming for combustion engines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Gas_flare" title="Gas flare">Flared gas</a> and vented <a href="/wiki/Volatile_organic_compound" title="Volatile organic compound">VOCs</a> are known problems in the offshore industry and in the on-shore oil and gas industry, since both emit unnecessary greenhouse gases into the atmosphere.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Reforming for combustion engines utilizes steam reforming technology for converting waste gases into a source of energy.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p><p>Reforming for combustion engines is based on steam reforming, where non-methane hydrocarbons (<a class="mw-redirect" href="/wiki/NMHC" title="NMHC">NMHCs</a>) of low quality gases are converted to <a href="/wiki/Syngas" title="Syngas">synthesis gas</a> (H<sub>2</sub> + CO) and finally to <a href="/wiki/Methane" title="Methane">methane</a> (CH<sub>4</sub>), <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>) and <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> (H<sub>2</sub>) - thereby improving the fuel gas quality (methane number).<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p><p>In contrast to conventional steam reforming, the process is operated at lower temperatures and with lower steam supply, allowing a high content of methane (CH<sub>4</sub>) in the produced fuel gas. The main reactions are:
+</p><p>Steam reforming: 
+</p>
+<dl><dd>C<sub><i>n</i></sub>H<sub><i>m</i></sub> + <i>n</i> H<sub>2</sub>O ⇌ (<i>n</i> + ​<span class="frac nowrap"><sup><i>m</i></sup>⁄<sub>2</sub></span>) H<sub>2</sub> + <i>n</i> CO</dd></dl>
+<p>Methanation: 
+</p>
+<dl><dd>CO + 3 H<sub>2</sub> ⇌ CH<sub>4</sub> + H<sub>2</sub>O</dd></dl>
+<p>Water-gas shift: 
+</p>
+<dl><dd>CO + H<sub>2</sub>O ⇌ H<sub>2</sub> + CO<sub>2</sub></dd></dl>
+<h2><span class="mw-headline" id="Reforming_for_fuel_cells">Reforming for fuel cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=6" title="Edit section: Reforming for fuel cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Advantages_of_reforming_for_supplying_fuel_cells">Advantages of reforming for supplying fuel cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=7" title="Edit section: Advantages of reforming for supplying fuel cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Steam reforming of gaseous hydrocarbons is seen as a potential way to provide fuel for <a class="mw-redirect" href="/wiki/Fuel_cells" title="Fuel cells">fuel cells</a>. The basic idea for vehicle on-board reforming is that for example a <a href="/wiki/Methanol" title="Methanol">methanol</a> tank and a steam reforming unit would replace the bulky pressurized <a href="/wiki/Hydrogen_tank" title="Hydrogen tank">hydrogen tanks</a> that would otherwise be necessary. This might mitigate the <a href="/wiki/Hydrogen_highway" title="Hydrogen highway">distribution problems</a> associated with <a class="mw-redirect" href="/wiki/Hydrogen_car" title="Hydrogen car">hydrogen vehicles</a>;<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> however the major market players discarded the approach of on-board reforming as impractical.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2012)">citation needed</span></a></i>]</sup> (At high temperatures see above).
+</p>
+<h3><span class="mw-headline" id="Disadvantages_of_reforming_for_supplying_fuel_cells">Disadvantages of reforming for supplying fuel cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=8" title="Edit section: Disadvantages of reforming for supplying fuel cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The reformer–fuel-cell system is still being researched but in the near term, systems would continue to run on existing fuels, such as natural gas or gasoline or diesel. However, there is an active debate about whether using these fuels to make hydrogen is beneficial while global warming is an issue. Fossil fuel reforming does not eliminate carbon dioxide release into the atmosphere but reduces the carbon dioxide emissions and nearly eliminates carbon monoxide emissions as compared to the burning of conventional fuels due to increased efficiency and fuel cell characteristics.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> However, by turning the release of carbon dioxide into a <a href="/wiki/Point_source" title="Point source">point source</a> rather than distributed release, <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture and storage</a> becomes a possibility, which would prevent the carbon dioxide's release to the atmosphere, while adding to the cost of the process.
+</p><p>The cost of hydrogen production by reforming fossil fuels depends on the scale at which it is done, the capital cost of the reformer and the efficiency of the unit, so that whilst it may cost only a few dollars per kilogram of hydrogen at industrial scale, it could be more expensive at the smaller scale needed for fuel cells.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Current_challenges_with_reformers_supplying_fuel_cells">Current challenges with reformers supplying fuel cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=9" title="Edit section: Current challenges with reformers supplying fuel cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>However, there are several challenges associated with this technology:
+</p>
+<ul><li>The reforming reaction takes place at high temperatures, making it slow to start up and requiring costly high temperature materials.</li>
+<li><a href="/wiki/Sulfur" title="Sulfur">Sulfur</a> compounds in the fuel will poison certain catalysts, making it difficult to run this type of system from ordinary <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>. Some new technologies have overcome this challenge with sulfur-tolerant catalysts.</li>
+<li><a href="/wiki/Coking" title="Coking">Coking</a> would be another cause of catalyst deactivation during steam reforming. High reaction temperatures, low steam-to-carbon ratio (S/C), and the complex nature of sulfur-containing commercial hydrocarbon fuels make coking especially favorable. Olefins, typically ethylene, and aromatics are well known carbon-precursors, hence their formation must be reduced during the SR. Additionally, catalysts with lower acidity were reported to be less prone to coking by suppressing dehydrogenation reactions. H2S, the main product in the reforming of organic sulfur, can bind to all transition metal catalysts to form metal–sulfur bonds and subsequently reduce catalyst activity by inhibiting the chemisorption of reforming reactants. Meanwhile, the adsorbed sulfur species increases the catalyst acidity, and hence indirectly promotes coking. Precious metal catalysts such as Rh and Pt have lower tendencies to form bulk sulfides than other metal catalysts such as Ni. Rh and Pt are less prone to sulfur poisoning by only chemisorbing sulfur rather than forming metal sulfides.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></li>
+<li>Low temperature <a class="mw-redirect" href="/wiki/Polymer_fuel_cell" title="Polymer fuel cell">polymer fuel cell</a> membranes can be poisoned by the <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> (CO) produced by the reactor, making it necessary to include complex CO-removal systems. <a href="/wiki/Solid_oxide_fuel_cell" title="Solid oxide fuel cell">Solid oxide fuel cells</a> (SOFC) and <a href="/wiki/Molten_carbonate_fuel_cell" title="Molten carbonate fuel cell">molten carbonate fuel cells</a> (MCFC) do not have this problem, but operate at higher temperatures, slowing start-up time, and requiring costly materials and bulky insulation.</li>
+<li>The <a class="mw-redirect" href="/wiki/Thermodynamic_efficiency" title="Thermodynamic efficiency">thermodynamic efficiency</a> of the process is between 70% and 85% (<a class="mw-redirect" href="/wiki/Lower_heating_value" title="Lower heating value">LHV basis</a>) depending on the purity of the hydrogen product.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Biogas" title="Biogas">Biogas</a></li>
+<li><a href="/wiki/Cracking_(chemistry)" title="Cracking (chemistry)">Cracking (chemistry)</a></li>
+<li><a href="/wiki/Hydrogen_pinch" title="Hydrogen pinch">Hydrogen pinch</a></li>
+<li><a href="/wiki/Hydrogen_technologies" title="Hydrogen technologies">Hydrogen technologies</a></li>
+<li><a href="/wiki/Industrial_gas" title="Industrial gas">Industrial gas</a></li>
+<li><a href="/wiki/Lane_hydrogen_producer" title="Lane hydrogen producer">Lane hydrogen producer</a></li>
+<li><a href="/wiki/PROX" title="PROX">PROX</a></li>
+<li><a class="mw-redirect" href="/wiki/Reformer_sponge_iron_cycle" title="Reformer sponge iron cycle">Reformer sponge iron cycle</a></li>
+<li><a href="/wiki/Timeline_of_hydrogen_technologies" title="Timeline of hydrogen technologies">Timeline of hydrogen technologies</a></li></ul>
+<ul><li><a href="/wiki/Catalytic_reforming" title="Catalytic reforming">Catalytic reforming</a></li>
+<li><a href="/wiki/Industrial_gas" title="Industrial gas">Industrial gas</a></li>
+<li><a href="/wiki/Reformed_methanol_fuel_cell" title="Reformed methanol fuel cell">Reformed methanol fuel cell</a></li>
+<li><a href="/wiki/PROX" title="PROX">PROX</a></li>
+<li><a href="/wiki/Partial_oxidation" title="Partial oxidation">Partial oxidation</a></li>
+<li><a href="/wiki/Chemical_looping_reforming_and_gasification" title="Chemical looping reforming and gasification">Chemical looping reforming and gasification</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Steam_reforming&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<div aria-labelledby="Environmental_technology" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Environmental_technology" title="Template:Environmental technology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Environmental_technology" title="Template talk:Environmental technology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_technology&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Environmental_technology" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Clean_technology" title="Clean technology">Clean technology</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">Environmental design</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable technology</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Windmills_D1-D4_-_Thornton_Bank.jpg"><img alt="Windmills D1-D4 - Thornton Bank.jpg" data-file-height="3831" data-file-width="2421" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/100px-Windmills_D1-D4_-_Thornton_Bank.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/150px-Windmills_D1-D4_-_Thornton_Bank.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Windmills_D1-D4_-_Thornton_Bank.jpg/200px-Windmills_D1-D4_-_Thornton_Bank.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pollution" title="Pollution">Pollution</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Air pollution (<a href="/wiki/Emission_standard" title="Emission standard">control</a></li>
+<li><a href="/wiki/Atmospheric_dispersion_modeling" title="Atmospheric dispersion modeling">dispersion modeling</a>)</li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/List_of_solid_waste_treatment_technologies" title="List of solid waste treatment technologies">Solid waste treatment</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+<li>Water (<a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">agricultural wastewater treatment</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">industrial wastewater treatment</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">sewage treatment</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_waste-water_treatment_technologies" title="List of waste-water treatment technologies">waste-water treatment technologies</a></li>
+<li><a href="/wiki/Water_purification" title="Water purification">water purification</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alternative_energy" title="Alternative energy">Alternative energy</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Energy_development" title="Energy development">Energy development</a></li>
+<li><a href="/wiki/Energy_recovery" title="Energy recovery">Energy recovery</a></li>
+<li>Fuel (<a href="/wiki/Alternative_fuel" title="Alternative fuel">alternative fuel</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">biofuel</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_negative_fuel" title="Carbon negative fuel">carbon negative fuel</a></li>
+<li><a href="/wiki/Hydrogen_technologies" title="Hydrogen technologies">hydrogen technologies</a>)</li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a> (<a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">commercialization</a>)</li>
+<li><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transportation</a> (<a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicle</a></li>
+<li><a href="/wiki/Hybrid_vehicle" title="Hybrid vehicle">hybrid vehicle</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Conservation</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li>Building (<a href="/wiki/Green_building" title="Green building">green</a></li>
+<li><a href="/wiki/Natural_building" title="Natural building">natural</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable architecture</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">New Urbanism</a></li>
+<li><a class="mw-redirect" href="/wiki/New_Classical_Architecture" title="New Classical Architecture">New Classical</a>)</li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Conservation_(ethic)" title="Conservation (ethic)">Conservation ethic</a></li>
+<li><a href="/wiki/Ecoforestry" title="Ecoforestry">Ecoforestry</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_preservation" title="Environmental preservation">Environmental preservation</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Environmental remediation</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Green computing</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20181028133657
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.252 seconds
+Real time usage: 0.324 seconds
+Preprocessor visited node count: 971/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36624/2097152 bytes
+Template argument size: 580/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38912/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.138/10.000 seconds
+Lua memory usage: 3.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  254.686      1 -total
+ 66.88%  170.327      1 Template:Reflist
+ 32.43%   82.598      6 Template:Cite_web
+ 16.09%   40.982      1 Template:Citation_needed
+ 14.44%   36.781      1 Template:Fix
+ 11.19%   28.500      2 Template:Cite_journal
+  9.57%   24.362      2 Template:Category_handler
+  8.29%   21.122      1 Template:Main
+  4.43%   11.280      2 Template:Cite_techreport
+  4.16%   10.598      1 Template:Environmental_technology
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1320289-0!canonical and timestamp 20181028133657 and revision id 866132627
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Steam_reforming&amp;oldid=866132627">https://en.wikipedia.org/w/index.php?title=Steam_reforming&amp;oldid=866132627</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hydrogen_production" title="Category:Hydrogen production">Hydrogen production</a></li><li><a href="/wiki/Category:Chemical_processes" title="Category:Chemical processes">Chemical processes</a></li><li><a href="/wiki/Category:Fuel_gas" title="Category:Fuel gas">Fuel gas</a></li><li><a href="/wiki/Category:Catalysis" title="Category:Catalysis">Catalysis</a></li><li><a href="/wiki/Category:Industrial_gases" title="Category:Industrial gases">Industrial gases</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2012" title="Category:Articles with unsourced statements from December 2012">Articles with unsourced statements from December 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Steam+reforming" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Steam+reforming" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Steam_reforming" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Steam_reforming" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Steam_reforming">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Steam_reforming&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Steam_reforming&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Steam_reforming" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Steam_reforming" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Steam_reforming&amp;oldid=866132627" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Steam_reforming&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q556466" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Steam_reforming&amp;id=866132627" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Steam+reforming">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Steam+reforming&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Steam_reforming&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1" hreflang="ar" lang="ar" title="إصلاح البخار – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Reformat_amb_vapor" hreflang="ca" lang="ca" title="Reformat amb vapor – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Dampfreformierung" hreflang="de" lang="de" title="Dampfreformierung – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Reformado_con_vapor" hreflang="es" lang="es" title="Reformado con vapor – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B5%D9%84%D8%A7%D8%AD_%D8%A8%D8%AE%D8%A7%D8%B1" hreflang="fa" lang="fa" title="اصلاح بخار – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Vaporeformage" hreflang="fr" lang="fr" title="Vaporeformage – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Reforma_en_vapor" hreflang="gl" lang="gl" title="Reforma en vapor – Galician">Galego</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Reazione_di_reforming_con_vapore" hreflang="it" lang="it" title="Reazione di reforming con vapore – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Stoomreforming" hreflang="nl" lang="nl" title="Stoomreforming – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B0%B4%E8%92%B8%E6%B0%97%E6%94%B9%E8%B3%AA" hreflang="ja" lang="ja" title="水蒸気改質 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Dampreforming" hreflang="no" lang="no" title="Dampreforming – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Reforming_parowy" hreflang="pl" lang="pl" title="Reforming parowy – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Паровая конверсия – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Reformointi" hreflang="fi" lang="fi" title="Reformointi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%80%E0%AE%B0%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%AF_%E0%AE%AE%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="நீராவிய மறுவாக்கம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%92%B8%E6%B1%BD%E9%87%8D%E6%95%B4" hreflang="zh" lang="zh" title="蒸汽重整 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q556466#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 28 October 2018, at 13:36<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Steam_reforming&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.324","ppvisitednodes":{"value":971,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36624,"limit":2097152},"templateargumentsize":{"value":580,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38912,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  254.686      1 -total"," 66.88%  170.327      1 Template:Reflist"," 32.43%   82.598      6 Template:Cite_web"," 16.09%   40.982      1 Template:Citation_needed"," 14.44%   36.781      1 Template:Fix"," 11.19%   28.500      2 Template:Cite_journal","  9.57%   24.362      2 Template:Category_handler","  8.29%   21.122      1 Template:Main","  4.43%   11.280      2 Template:Cite_techreport","  4.16%   10.598      1 Template:Environmental_technology"]},"scribunto":{"limitreport-timeusage":{"value":"0.138","limit":"10.000"},"limitreport-memusage":{"value":4057272,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20181028133657","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1321"});});</script>
+</body>
+</html>

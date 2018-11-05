@@ -1,0 +1,560 @@
+https://en.wikipedia.org/wiki/Low-impact_development_(UK)
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Low-impact development (UK) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Low-impact_development_(UK)","wgTitle":"Low-impact development (UK)","wgCurRevisionId":846821475,"wgRevisionId":846821475,"wgArticleId":38731998,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from April 2013","Simple living","Sustainable architecture","Low-energy building in the United Kingdom","Housing in England","Mixed-use developments in the United Kingdom","Ecovillages","Environmental impact in the United Kingdom","Environmental mitigation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Low-impact_development_(UK)","wgRelevantArticleId":38731998,"wgRequestId":"W9bjiApAAD8AAEF4uWEAAABP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6692758","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Low-impact_development_(UK)" rel="alternate"/>
+<link href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Low-impact_development_(UK)" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Low-impact_development_UK rootpage-Low-impact_development_UK skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Low-impact development (UK)</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the UK meaning of LID. For the Canadian/US usage, see <a class="mw-redirect" href="/wiki/Low-impact_development_(Canada/US)" title="Low-impact development (Canada/US)">Low-impact development (Canada/US)</a>.</div>
+<p class="mw-empty-elt">
+</p><p><b>Low-impact development</b> (LID) has been defined as "development which through its low negative environmental impact either enhances or does not significantly diminish environmental quality".<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-The_Future_2-0"><a href="#cite_note-The_Future-2">[2]</a></sup><sup class="reference" id="cite_ref-Lewinsohn_3-0"><a href="#cite_note-Lewinsohn-3">[3]</a></sup>
+</p><p>The interplay between would-be developers and the UK planning authorities since the 1980s has led to a diversity of unique, locally adapted developments, often making use of natural, local and reclaimed materials in delivering highly affordable, low or <a href="/wiki/Zero_carbon_housing" title="Zero carbon housing">zero carbon housing</a>. These LIDs often strive to be <a class="mw-redirect" href="/wiki/Self-sufficient" title="Self-sufficient">self-sufficient</a> in terms of waste management, energy, water and other needs.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>There are numerous examples of LIDs throughout the UK, and local and national authorities have come to recognise the need for the concept to be incorporated into planning strategies.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#England"><span class="tocnumber">2.1</span> <span class="toctext">England</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Scotland"><span class="tocnumber">2.2</span> <span class="toctext">Scotland</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Wales"><span class="tocnumber">2.3</span> <span class="toctext">Wales</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Benefits"><span class="tocnumber">3</span> <span class="toctext">Benefits</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Constraints"><span class="tocnumber">4</span> <span class="toctext">Constraints</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Government_policy"><span class="tocnumber">5</span> <span class="toctext">Government policy</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Low-impact_developments"><span class="tocnumber">9.1</span> <span class="toctext">Low-impact developments</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Supporting_organisations_and_resources"><span class="tocnumber">9.2</span> <span class="toctext">Supporting organisations and resources</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Low-impact development (LID), in the UK sense of the term, was described by Simon Fairlie, a former editor of <a href="/wiki/The_Ecologist" title="The Ecologist">The Ecologist</a> magazine, in 1996 as: "development that through its low impact either enhances or does not significantly diminish environmental quality."<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Fairlie later wrote:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303468">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>"Neither the term nor the concept was new. People have been living low impact lifestyles in low impact buildings for centuries; indeed until very recently the majority of people in the world lived that way."<sup class="reference" id="cite_ref-Pickerill_6-0"><a href="#cite_note-Pickerill-6">[6]</a></sup>
+</p></blockquote>
+<p>In 2009 Fairlie revised his definition of a LID as: "development which, by virtue of its low or benign environmental impact, may be allowed in locations where conventional development is not permitted."<sup class="reference" id="cite_ref-Pickerill_6-1"><a href="#cite_note-Pickerill-6">[6]</a></sup> He explained:
+</p>
+<link href="mw-data:TemplateStyles:r856303468" rel="mw-deduplicated-inline-style"/><blockquote class="templatequote"><p>"I prefer this revised definition because wrapped up in it is the main argument; that low impact buildings need not be bound by the restrictions necessary to protect the countryside from 'conventional' high impact development – a.k.a. suburban sprawl. There are two other principle arguments in favour of LID: (i) that some form of exception policy is necessary because conventional housing in a countryside protected from sprawl becomes too expensive for the people who work there; and (ii) soon we will all have to live more sustainable low impact lifestyles, so pioneers should be encouraged."<sup class="reference" id="cite_ref-Pickerill_6-2"><a href="#cite_note-Pickerill-6">[6]</a></sup>
+</p></blockquote>
+<p>Others have expanded on the definition. A study by the <a class="mw-redirect" href="/wiki/University_of_West_England" title="University of West England">University of West England</a> acknowledged that: "LID is usually integrally connected with land management and as much as describing physical development, LID also describes a form of livelihood."<sup class="reference" id="cite_ref-West_England_7-0"><a href="#cite_note-West_England-7">[7]</a></sup> However, it also states that as LID is a "multi featured and intrinsically integrated form of development," a simple definition cannot capture the meaning of LID and goes on to develop "a detailed themed definition with detailed criteria."<sup class="reference" id="cite_ref-West_England_7-1"><a href="#cite_note-West_England-7">[7]</a></sup>
+</p><p>Dr Larch Maxey<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> in 2013 held the main features of LID to be:
+</p>
+<ul><li>locally adapted, diverse and unique</li>
+<li>based on renewable resources</li>
+<li>of an appropriate scale</li>
+<li>visually unobtrusive</li>
+<li>enhances biodiversity</li>
+<li>increases public access to open space</li>
+<li>generates little traffic</li>
+<li>linked to sustainable livelihoods</li>
+<li>co-ordinated by a management plan</li></ul>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=2" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="England">England</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=3" title="Edit section: England">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Whisky_Barrel_House_in_Findhorn_Ecovillage.jpg"><img alt="" class="thumbimage" data-file-height="1944" data-file-width="2592" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Whisky_Barrel_House_in_Findhorn_Ecovillage.jpg/220px-Whisky_Barrel_House_in_Findhorn_Ecovillage.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Whisky_Barrel_House_in_Findhorn_Ecovillage.jpg/330px-Whisky_Barrel_House_in_Findhorn_Ecovillage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Whisky_Barrel_House_in_Findhorn_Ecovillage.jpg/440px-Whisky_Barrel_House_in_Findhorn_Ecovillage.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Whisky_Barrel_House_in_Findhorn_Ecovillage.jpg" title="Enlarge"></a></div>Whisky Barrel House, Findhorn</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:That_roundhouse_spring.jpg"><img alt="" class="thumbimage" data-file-height="553" data-file-width="900" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/That_roundhouse_spring.jpg/220px-That_roundhouse_spring.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/That_roundhouse_spring.jpg/330px-That_roundhouse_spring.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/That_roundhouse_spring.jpg/440px-That_roundhouse_spring.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:That_roundhouse_spring.jpg" title="Enlarge"></a></div><a href="/wiki/That_Roundhouse" title="That Roundhouse">That Roundhouse</a>, Pembrokeshire</div></div></div>
+<p>English LID examples include the <a href="/wiki/Hockerton_Housing_Project" title="Hockerton Housing Project">Hockerton Housing Project</a> (<a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a>), Michael Buck's cob house in <a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a>,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Landmatters (<a href="/wiki/Devon" title="Devon">Devon</a>)<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> and <a href="/wiki/Tinker%27s_Bubble" title="Tinker's Bubble">Tinker's Bubble</a> (<a href="/wiki/Somerset" title="Somerset">Somerset</a>).<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p><p>Transition Homes, currently under development in <a class="mw-redirect" href="/wiki/Transition_Towns" title="Transition Towns">Transition Town</a> <a href="/wiki/Totnes" title="Totnes">Totnes</a>, Devon, is an attempt to scale-up and <a href="/wiki/Mainstream" title="Mainstream">mainstream</a> LID by providing around 25 low cost, low carbon homes designed along <a href="/wiki/Permaculture" title="Permaculture">permaculture</a> principles.<sup class="reference" id="cite_ref-Transition_Permaculture_13-0"><a href="#cite_note-Transition_Permaculture-13">[13]</a></sup><sup class="reference" id="cite_ref-Transition_Homes_14-0"><a href="#cite_note-Transition_Homes-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Residents will be allocated from the local housing needs register.<sup class="reference" id="cite_ref-Transition_Homes_14-1"><a href="#cite_note-Transition_Homes-14">[14]</a></sup> Similarly, LILAC built in 2013 a 'Low Impact Living Affordable Community' of 20 homes and a common house in <a href="/wiki/Bramley,_Leeds" title="Bramley, Leeds">Bramley, Leeds</a>,<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> which was visited by <a href="/wiki/Kevin_McCloud" title="Kevin McCloud">Kevin McCloud</a> and <a href="/wiki/Mark_Prisk" title="Mark Prisk">Mark Prisk</a>, Minister of State for Housing and Local Government.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p><p><a href="/wiki/BedZED" title="BedZED">BedZED</a> (London) is another example of a larger scale LID, which was built in 2000–2002 and has 82 homes, however it is not as affordable as many of the above examples as it was partly designed to attract urban professionals.
+</p>
+<h3><span class="mw-headline" id="Scotland">Scotland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=4" title="Edit section: Scotland">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Findhorn_Ecovillage" title="Findhorn Ecovillage">Findhorn Ecovillage</a> has won a number of international awards. Steve James's Straw House, Dumfries was built for £4,000.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Wales">Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=5" title="Edit section: Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/House_of_the_Future,_Cardiff" title="House of the Future, Cardiff">House of the Future, Cardiff</a>, completed in 2000, was originally a showcase of the latest green building technologies, and later transformed into an education centre.<sup class="reference" id="cite_ref-backtothefuture_21-0"><a href="#cite_note-backtothefuture-21">[21]</a></sup> In West Wales, <a href="/wiki/Lammas_Ecovillage" title="Lammas Ecovillage">Lammas Ecovillage</a> (near <a href="/wiki/Crymych" title="Crymych">Crymych</a>, <a href="/wiki/Pembrokeshire" title="Pembrokeshire">Pembrokeshire</a>) is a community of independent, off-grid households begun in 2009.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> Nearby <i>Pwll Broga</i> roundhouse is a development that was built without planning permission in 2012, refused retrospective planning permission in 2014,<sup class="reference" id="cite_ref-Glandwr_25-0"><a href="#cite_note-Glandwr-25">[25]</a></sup><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> but granted permission in July 2015, having met the requirements of the Welsh government's One Planet Development policy.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> <a href="/wiki/That_Roundhouse" title="That Roundhouse">That Roundhouse</a> (<a href="/wiki/Brithdir_Mawr" title="Brithdir Mawr">Brithdir Mawr</a>, <a href="/wiki/Newport,_Pembrokeshire" title="Newport, Pembrokeshire">Newport, Pembrokeshire</a>) was granted planning permission in 2008 with a review in 3 years.
+</p>
+<h2><span class="mw-headline" id="Benefits">Benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=6" title="Edit section: Benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Substantial research has concluded that LID represents some of the most innovative and <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> in the UK.<sup class="reference" id="cite_ref-West_England_7-2"><a href="#cite_note-West_England-7">[7]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</p><p>LIDs have innovated and demonstrated <a class="mw-redirect" href="/wiki/Sustainable" title="Sustainable">sustainable</a> solutions including <a href="/wiki/Zero_carbon_housing" title="Zero carbon housing">low/zero carbon housing design</a>, <a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">rainwater harvesting</a>, <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> generation, <a href="/wiki/Waste_minimisation" title="Waste minimisation">waste minimisation</a> and innovative forms of <a href="/wiki/Land_management" title="Land management">land management</a>, including <a href="/wiki/No-till_farming" title="No-till farming">No/low-till farming</a>, <a href="/wiki/Permaculture" title="Permaculture">permaculture</a> and <a href="/wiki/Agroforestry" title="Agroforestry">agroforestry</a>.
+</p><p>LID has also shown a capacity to enhance local <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> and public access to local space, and to produce traffic movements far below the national average. This has been attributed to <a class="mw-redirect" href="/wiki/Lift-sharing" title="Lift-sharing">lift-sharing</a>, to residents' greater use of public transport, walking and cycling and to the integration of local land based employment with other household activities.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> As the <a class="mw-redirect" href="/wiki/Welsh_Assembly_Government" title="Welsh Assembly Government">Welsh Assembly Government</a> has noted, such "...Development therefore is not just describing a physical development. It is describing a way of living differently where there is a symbiotic relationship between people and land, making a reduction in environmental impacts possible".<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Constraints">Constraints</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=7" title="Edit section: Constraints">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Over the years, there have been various struggles with planning authorities over LID in the UK. Tony Wrench spent over a decade fighting the planning authorities until he was granted planning permission for <a href="/wiki/That_Roundhouse" title="That Roundhouse">That Roundhouse</a>.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup><sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup><sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup><sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> As Lisa Lewinsohn points out in her MSc thesis on LID, Tony Wrench and his partner Jane Faith have been "enforced against, fined, refused planning permission several times"<sup class="reference" id="cite_ref-Lewinsohn_3-1"><a href="#cite_note-Lewinsohn-3">[3]</a></sup> while <a href="/wiki/Lammas_Ecovillage" title="Lammas Ecovillage">Lammas</a> has "probably spent about £50,000 on the application process."<sup class="reference" id="cite_ref-Lewinsohn_3-2"><a href="#cite_note-Lewinsohn-3">[3]</a></sup> Similarly, since 1986 Tir Penrhos Isaf has tried several times to get planning permission<sup class="reference" id="cite_ref-Planning_History_36-0"><a href="#cite_note-Planning_History-36">[36]</a></sup> and only succeeded in December 2006, twenty years after their first planning application was submitted.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup>
+</p><p>
+The residents of Tir Penrhos Isaf consider: </p><link href="mw-data:TemplateStyles:r856303468" rel="mw-deduplicated-inline-style"/><blockquote class="templatequote"><p>"that current planning and building legislation represent some of the greatest obstacles to developing sustainable systems in Britain. The legislation favours those who already have land and property, actively encourages the squandering of resources and environmental degradation and actively discourages movements towards low impact, sustainable development."<sup class="reference" id="cite_ref-Planning_History_36-1"><a href="#cite_note-Planning_History-36">[36]</a></sup>
+</p></blockquote>
+<h2><span class="mw-headline" id="Government_policy">Government policy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=8" title="Edit section: Government policy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The extensive research interest in LID, backed up by the practical examples of the existing LIDs, has led to a growing number of planning policies in the UK designed to allow for LIDs.<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup><sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup> and the <a class="mw-redirect" href="/wiki/Welsh_Assembly_Government" title="Welsh Assembly Government">Welsh Assembly Government</a>’s One Planet Development policy (OPD) <sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup><sup class="reference" id="cite_ref-The_Future_2-1"><a href="#cite_note-The_Future-2">[2]</a></sup><sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup> which is supported by the independent One Planet Council.<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup> The first development to receive permanent planning permission under the One Planet scheme was Nant-y-Cwm, near <a href="/wiki/Caerphilly" title="Caerphilly">Caerphilly</a>.<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup> The criteria for OPD in Wales include the requirement that 65% of all subsistence, or 30% of food and 35% of livelihood, come from the land.<sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li>
+<li><a href="/wiki/Diggers_and_Dreamers" title="Diggers and Dreamers">Diggers and Dreamers</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Radical_Routes" title="Radical Routes">Radical Routes</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Bird, Chris. <i>Local Sustainable Homes – How to make them happen in your community</i>. Green Books, 2010 <a class="external autonumber" href="http://www.greenbooks.co.uk/Book/200/Local-Sustainable-Homes.html" rel="nofollow">[1]</a> <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781900322768" title="Special:BookSources/9781900322768">9781900322768</a></li>
+<li>Cotterell, Jane &amp; Dadeby, Adam. <i>The Passivhaus Handbook: A practical guide to constructing and retrofitting buildings for ultra-low-energy performance</i>. Green Books, 2012. <a class="external autonumber" href="http://www.greenbooks.co.uk/Book/426/The-Passivhaus-Handbook.html" rel="nofollow">[2]</a> <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780857840196" title="Special:BookSources/9780857840196">9780857840196</a></li>
+<li>Evans, Ianto; Smith, Michael; Smiley, Linda. <i>The Hand Sculpted House: A Practical and Philosophical Guide to Building a Cob Cottage</i>. Green Books, 2010 <a class="external autonumber" href="http://www.greenbooks.co.uk/Book/2/295/The-Hand-Sculpted-House.html" rel="nofollow">[3]</a> <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781890132347" title="Special:BookSources/9781890132347">9781890132347</a></li>
+<li>Jones, Barbara. <i>Building with Straw Bales: A Practical Guide for the UK and Ireland</i>. Green Books, 2009. <a class="external autonumber" href="http://www.greenbooks.co.uk/Book/32/Building-with-Straw-Bales.html" rel="nofollow">[4]</a> <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781900322515" title="Special:BookSources/9781900322515">9781900322515</a></li>
+<li>Wimbush, Paul. <i>Experience, Implications and Potential of Low Impact Development In Wales</i>. University of Wales, Newport <a class="external autonumber" href="https://web.archive.org/web/20150402140001/http://www.lammas.org.uk/oldsite/lowimpact/documents/LowImpactDevelopmentinWalesPaulWimbush2009.pdf" rel="nofollow">[5]</a></li>
+<li>Wrench, Tony. <i>Building a Low Impact Roundhouse</i>. Permanent Publications, 2007. <a class="external autonumber" href="http://www.thatroundhouse.info/how.htm" rel="nofollow">[6]</a> <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781856230421" title="Special:BookSources/9781856230421">9781856230421</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Low-impact_developments">Low-impact developments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=13" title="Edit section: Low-impact developments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="external text" href="http://landmatters.org.uk/" rel="nofollow">The Landmatters co-operative, Devon</a></li>
+<li><a class="external text" href="http://www.lilac.coop/" rel="nofollow">LILAC – Low-Impact Living Affordable Community, Yorkshire</a></li>
+<li><a class="external text" href="http://www.konsk.co.uk/" rel="nofollow">Tir Penrhos Isaf, Permaculture holding, Gwyedd, Wales</a></li>
+<li><a class="external text" href="http://www.simondale.net/" rel="nofollow">Simon Dale's houses, Wales</a></li>
+<li><a class="external text" href="http://www.stewardwood.org/index.ghtml" rel="nofollow">Steward Community Woodland, Devon</a></li>
+<li><a class="external text" href="http://www.caemabon.co.uk/" rel="nofollow">Cae Mabon, Eco Retreat Centre, Snowdonia</a></li>
+<li><a class="external text" href="http://www.keveral.org/" rel="nofollow">Keveral Farm, Cornwall</a></li>
+<li><a class="external text" href="http://www.downtoearthproject.org.uk/" rel="nofollow">Down to Earth, Gower</a></li>
+<li><a class="external text" href="http://www.permaculture.org.uk/people-projects-places/land/centres/list" rel="nofollow">LAND Centres, Permaculture Association</a> – a list of publicly accessible land-based <a href="/wiki/Permaculture" title="Permaculture">Permaculture</a> projects in the UK</li>
+<li><a class="external text" href="http://www.permaculture.org.uk/people-projects-places/land/centres/map" rel="nofollow">A map of LAND Centres in the UK</a> – maintained by Permaculture Magazine</li></ul>
+<h3><span class="mw-headline" id="Supporting_organisations_and_resources">Supporting organisations and resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit&amp;section=14" title="Edit section: Supporting organisations and resources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="external text" href="http://ecologicalland.coop/" rel="nofollow">The Ecological Land Co-operative – supporting and enabling low-impact development in the UK</a></li>
+<li><a class="external text" href="http://www.lowimpact.org/" rel="nofollow">LILI – The Low Impact Living Initiative – a non-profit network of those involved with LID</a></li>
+<li><a class="external text" href="http://gov.wales/docs/desh/publications/090521susdev1wales1planeten.pdf" rel="nofollow">One Wales : One Planet : The Sustainable Development Scheme of the Welsh Assembly Government</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20150105193237/http://www.lammas.org.uk/oldsite/lowimpact/documents/Does_Welsh_National_Planning_Policy_effectively_address_Low_Impact_Development_in_the_open_c.pdf" rel="nofollow">Does Welsh National Planning Policy effectively address Low Impact Development in the open countryside?</a> – Paper by Louise Kulbicki</li>
+<li><a class="external text" href="https://web.archive.org/web/20150105190429/http://www.lammas.org.uk/oldsite/lowimpact/documents/ThesisKarolinaRietzler2012.pdf" rel="nofollow">The Role of Scientific Knowledge and Other knowledge Types in Grassroots Sustainability Initiatives: An Exploratory Case Study of a Low Impact Development Eco-village in Wales</a> – MSc thesis by Karolina Rietzler</li>
+<li><a class="external text" href="http://www.thelandmagazine.org.uk/" rel="nofollow">The Land Magazine</a></li>
+<li><a class="external text" href="http://www.permaculture.co.uk/" rel="nofollow">Permaculture Magazine</a></li>
+<li><a class="external text" href="http://www.undercurrents.org/livinginthefuture.html" rel="nofollow">Living in the Future</a> – 50-minute documentary film telling the story of the "UK's first planned ecoVillage, Lammas."</li>
+<li><a class="external text" href="http://www.livinginthefuture.org/" rel="nofollow">Living in the Future website</a> – A video series about Ecovillages – community and low impact living</li></ul>
+<div aria-labelledby="Simple_living" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="text-align:center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Simple_living" title="Template:Simple living"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Simple_living" title="Template talk:Simple living"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Simple_living&amp;action=edit"><abbr style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Simple_living" style="font-size:114%;margin:0 4em"><a href="/wiki/Simple_living" title="Simple living">Simple living</a></div></th></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Practices</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barter" title="Barter">Barter</a></li>
+<li><a href="/wiki/Cord-cutting" title="Cord-cutting">Cord-cutting</a></li>
+<li><a href="/wiki/DIY_ethic" title="DIY ethic">DIY ethic</a></li>
+<li><a href="/wiki/Downshifting_(lifestyle)" title="Downshifting (lifestyle)">Downshifting</a></li>
+<li><a href="/wiki/Dry_toilet" title="Dry toilet">Dry toilet</a></li>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Freeganism" title="Freeganism">Freeganism</a></li>
+<li><a href="/wiki/Frugality" title="Frugality">Frugality</a></li>
+<li><a href="/wiki/Gift_economy" title="Gift economy">Gift economy</a></li>
+<li><a href="/wiki/Intentional_community" title="Intentional community">Intentional community</a></li>
+<li><a href="/wiki/Local_currency" title="Local currency">Local currency</a></li>
+<li><a class="mw-selflink selflink">Low-impact development</a></li>
+<li><a href="/wiki/Minimalism" title="Minimalism">Minimalism</a></li>
+<li><a href="/wiki/No_frills" title="No frills">No frills</a></li>
+<li><a href="/wiki/Off-the-grid" title="Off-the-grid">Off-the-grid</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a class="mw-redirect" href="/wiki/Self-sufficiency" title="Self-sufficiency">Self-sufficiency</a></li>
+<li><a href="/wiki/Subsistence_agriculture" title="Subsistence agriculture">Subsistence agriculture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Sustainable living</a></li>
+<li><a href="/wiki/Sustainable_sanitation" title="Sustainable sanitation">Sustainable sanitation</a></li>
+<li><a href="/wiki/Veganism" title="Veganism">Veganism</a></li>
+<li><a href="/wiki/Vegetarianism" title="Vegetarianism">Vegetarianism</a></li>
+<li><a href="/wiki/Tax_resistance" title="Tax resistance">War tax resistance</a></li>
+<li><a href="/wiki/WWOOF" title="WWOOF">WWOOF</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Religious and spiritual</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Asceticism" title="Asceticism">Asceticism</a></li>
+<li><a href="/wiki/Aparigraha" title="Aparigraha">Aparigraha</a></li>
+<li><a href="/wiki/Cynicism_(philosophy)" title="Cynicism (philosophy)">Cynicism</a></li>
+<li><a href="/wiki/Detachment_(philosophy)" title="Detachment (philosophy)">Detachment</a></li>
+<li><a href="/wiki/Distributism" title="Distributism">Distributism</a></li>
+<li><a href="/wiki/Jesus_movement" title="Jesus movement">Jesus movement</a></li>
+<li><a href="/wiki/Mendicant" title="Mendicant">Mendicant</a></li>
+<li><a href="/wiki/Sati_(Buddhism)" title="Sati (Buddhism)">Mindfulness</a></li>
+<li><a href="/wiki/Monasticism" title="Monasticism">Monasticism</a></li>
+<li><a href="/wiki/New_Monasticism" title="New Monasticism">New Monasticism</a></li>
+<li><a href="/wiki/Plain_dress" title="Plain dress">Plain dress</a></li>
+<li><a href="/wiki/Plain_people" title="Plain people">Plain people</a></li>
+<li><a href="/wiki/Quakers" title="Quakers">Quakers</a></li>
+<li><a href="/wiki/Rastafari" title="Rastafari">Rastafari</a></li>
+<li><a href="/wiki/Temperance_(virtue)" title="Temperance (virtue)">Temperance</a></li>
+<li><a class="mw-redirect" href="/wiki/Testimony_of_Simplicity" title="Testimony of Simplicity">Testimony of simplicity</a></li>
+<li><a href="/wiki/Tolstoyan_movement" title="Tolstoyan movement">Tolstoyan movement</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Secular movements</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Back-to-the-land_movement" title="Back-to-the-land movement">Back-to-the-land</a></li>
+<li><a href="/wiki/Car-free_movement" title="Car-free movement">Car-free</a></li>
+<li><a href="/wiki/Movement_for_Compassionate_Living" title="Movement for Compassionate Living">Compassionate living</a></li>
+<li><a href="/wiki/Environmental_movement" title="Environmental movement">Environmental</a></li>
+<li><a href="/wiki/Hippie" title="Hippie">Hippie</a></li>
+<li><a href="/wiki/Slow_movement_(culture)" title="Slow movement (culture)">Slow</a></li>
+<li><a class="mw-redirect" href="/wiki/Small_house_movement" title="Small house movement">Small house</a></li>
+<li><a href="/wiki/Transition_town" title="Transition town">Transition town</a></li>
+<li><a href="/wiki/Open_Source_Ecology" title="Open Source Ecology">Open Source Ecology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Notable writers</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wendell_Berry" title="Wendell Berry">Wendell Berry</a></li>
+<li><a href="/wiki/Ernest_Callenbach" title="Ernest Callenbach">Ernest Callenbach</a></li>
+<li><a href="/wiki/G._K._Chesterton" title="G. K. Chesterton">G. K. Chesterton</a></li>
+<li><a href="/wiki/Duane_Elgin" title="Duane Elgin">Duane Elgin</a></li>
+<li><a href="/wiki/Mahatma_Gandhi" title="Mahatma Gandhi">Mahatma Gandhi</a></li>
+<li><a href="/wiki/Richard_Gregg_(social_philosopher)" title="Richard Gregg (social philosopher)">Richard Gregg</a></li>
+<li><a href="/wiki/Tom_Hodgkinson" title="Tom Hodgkinson">Tom Hodgkinson</a></li>
+<li><a href="/wiki/Harlan_Hubbard" title="Harlan Hubbard">Harlan Hubbard</a></li>
+<li><a href="/wiki/Satish_Kumar" title="Satish Kumar">Satish Kumar</a></li>
+<li><a href="/wiki/Helen_Nearing" title="Helen Nearing">Helen Nearing</a></li>
+<li><a href="/wiki/Scott_Nearing" title="Scott Nearing">Scott Nearing</a></li>
+<li><a href="/wiki/Peace_Pilgrim" title="Peace Pilgrim">Peace Pilgrim</a></li>
+<li><a href="/wiki/Nick_Rosen" title="Nick Rosen">Nick Rosen</a></li>
+<li><a href="/wiki/Dugald_Semple" title="Dugald Semple">Dugald Semple</a></li>
+<li><a href="/wiki/E._F._Schumacher" title="E. F. Schumacher">E. F. Schumacher</a></li>
+<li><a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">Henry David Thoreau</a></li>
+<li><a href="/wiki/Leo_Tolstoy" title="Leo Tolstoy">Leo Tolstoy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Modern-day adherents</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mark_Boyle_(Moneyless_Man)" title="Mark Boyle (Moneyless Man)">Mark Boyle</a></li>
+<li><a href="/wiki/Jim_Merkel" title="Jim Merkel">Jim Merkel</a></li>
+<li><a href="/wiki/Peace_Pilgrim" title="Peace Pilgrim">Peace Pilgrim</a></li>
+<li><a href="/wiki/Suelo" title="Suelo">Suelo</a></li>
+<li><a href="/wiki/Thomas_(activist)" title="Thomas (activist)">Thomas</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Media</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Anekdote_zur_Senkung_der_Arbeitsmoral" title="Anekdote zur Senkung der Arbeitsmoral">Anekdote zur Senkung der Arbeitsmoral</a>"</li>
+<li><i><a href="/wiki/Escape_from_Affluenza" title="Escape from Affluenza">Escape from Affluenza</a></i></li>
+<li><i><a href="/wiki/The_Good_Life_(1975_TV_series)" title="The Good Life (1975 TV series)">The Good Life</a></i></li>
+<li><i><a href="/wiki/The_Moon_and_the_Sledgehammer" title="The Moon and the Sledgehammer">The Moon and the Sledgehammer</a></i></li>
+<li><i><a href="/wiki/Mother_Earth_News" title="Mother Earth News">Mother Earth News</a></i></li>
+<li><i><a href="/wiki/The_Power_of_Half" title="The Power of Half">The Power of Half</a></i></li>
+<li><i><a href="/wiki/Small_Is_Beautiful" title="Small Is Beautiful">Small Is Beautiful</a></i></li>
+<li><i><a href="/wiki/Walden" title="Walden">Walden</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align:center;;width:1%">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Affluenza" title="Affluenza">Affluenza</a></li>
+<li><a href="/wiki/Agrarianism" title="Agrarianism">Agrarianism</a></li>
+<li><a href="/wiki/Anarcho-primitivism" title="Anarcho-primitivism">Anarcho-primitivism</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Bohemianism" title="Bohemianism">Bohemianism</a></li>
+<li><a href="/wiki/Consumerism" title="Consumerism">Consumerism</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Food_miles" title="Food miles">Food miles</a></li>
+<li><a href="/wiki/Front_Porch_Republic" title="Front Porch Republic">Front Porch Republic</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Eudaimonia" title="Eudaimonia">The good life</a></li>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a href="/wiki/Hedonophobia" title="Hedonophobia">Hedonophobia</a></li>
+<li><a href="/wiki/Intentional_living" title="Intentional living">Intentional living</a></li>
+<li><a href="/wiki/Itinerant_groups_in_Europe" title="Itinerant groups in Europe">Itinerant</a></li>
+<li><a class="mw-redirect" href="/wiki/Low-technology" title="Low-technology">Low-technology</a></li>
+<li><a href="/wiki/Nonviolence" title="Nonviolence">Nonviolence</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Work%E2%80%93life_balance" title="Work–life balance">Work–life balance</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a class="mw-selflink selflink">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20181026191222
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.616 seconds
+Real time usage: 0.715 seconds
+Preprocessor visited node count: 2981/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 120732/2097152 bytes
+Template argument size: 2545/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 126833/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.266/10.000 seconds
+Lua memory usage: 4.32 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  552.256      1 -total
+ 61.26%  338.318      1 Template:Reflist
+ 29.41%  162.393     22 Template:Cite_web
+ 13.54%   74.758     17 Template:Cite_news
+  9.86%   54.428      5 Template:ISBN
+  8.50%   46.963      1 Template:About
+  4.46%   24.635      5 Template:Cite_book
+  4.23%   23.383      5 Template:Catalog_lookup_link
+  3.84%   21.186      1 Template:Use_dmy_dates
+  3.64%   20.112      3 Template:Quote
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38731998-0!canonical and timestamp 20181026191221 and revision id 846821475
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Low-impact_development_(UK)&amp;oldid=846821475">https://en.wikipedia.org/w/index.php?title=Low-impact_development_(UK)&amp;oldid=846821475</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Simple_living" title="Category:Simple living">Simple living</a></li><li><a href="/wiki/Category:Sustainable_architecture" title="Category:Sustainable architecture">Sustainable architecture</a></li><li><a href="/wiki/Category:Low-energy_building_in_the_United_Kingdom" title="Category:Low-energy building in the United Kingdom">Low-energy building in the United Kingdom</a></li><li><a href="/wiki/Category:Housing_in_England" title="Category:Housing in England">Housing in England</a></li><li><a href="/wiki/Category:Mixed-use_developments_in_the_United_Kingdom" title="Category:Mixed-use developments in the United Kingdom">Mixed-use developments in the United Kingdom</a></li><li><a href="/wiki/Category:Ecovillages" title="Category:Ecovillages">Ecovillages</a></li><li><a href="/wiki/Category:Environmental_impact_in_the_United_Kingdom" title="Category:Environmental impact in the United Kingdom">Environmental impact in the United Kingdom</a></li><li><a href="/wiki/Category:Environmental_mitigation" title="Category:Environmental mitigation">Environmental mitigation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_April_2013" title="Category:Use dmy dates from April 2013">Use dmy dates from April 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Low-impact+development+%28UK%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Low-impact+development+%28UK%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Low-impact_development_(UK)" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Low-impact_development_(UK)" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Low-impact_development_(UK)">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Low-impact_development_(UK)&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Low-impact_development_(UK)&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Low-impact_development_(UK)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Low-impact_development_(UK)" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Low-impact_development_(UK)&amp;oldid=846821475" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Low-impact_development_(UK)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6692758" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Low-impact_development_%28UK%29&amp;id=846821475" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Low-impact+development+%28UK%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Low-impact+development+%28UK%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Low-impact_development_(UK)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6692758#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 21 June 2018, at 02:51<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Low-impact_development_(UK)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.616","walltime":"0.715","ppvisitednodes":{"value":2981,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":120732,"limit":2097152},"templateargumentsize":{"value":2545,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":126833,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  552.256      1 -total"," 61.26%  338.318      1 Template:Reflist"," 29.41%  162.393     22 Template:Cite_web"," 13.54%   74.758     17 Template:Cite_news","  9.86%   54.428      5 Template:ISBN","  8.50%   46.963      1 Template:About","  4.46%   24.635      5 Template:Cite_book","  4.23%   23.383      5 Template:Catalog_lookup_link","  3.84%   21.186      1 Template:Use_dmy_dates","  3.64%   20.112      3 Template:Quote"]},"scribunto":{"limitreport-timeusage":{"value":"0.266","limit":"10.000"},"limitreport-memusage":{"value":4532934,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20181026191222","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1268"});});</script>
+</body>
+</html>

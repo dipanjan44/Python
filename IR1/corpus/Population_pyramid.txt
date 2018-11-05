@@ -1,0 +1,437 @@
+https://en.wikipedia.org/wiki/Population_pyramid
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Population pyramid - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Population_pyramid","wgTitle":"Population pyramid","wgCurRevisionId":865597378,"wgRevisionId":865597378,"wgArticleId":989011,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: Multiple names: authors list","Articles needing additional references from September 2018","All articles needing additional references","CS1 German-language sources (de)","Demographic economics","Ageing","Demographics","Demography","Population","Statistical charts and diagrams"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Population_pyramid","wgRelevantArticleId":989011,"wgRequestId":"W9ScrQpAMFYAAAGu36EAAACH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q329823","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Population_pyramid_example.svg/1200px-Population_pyramid_example.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Population_pyramid" rel="alternate"/>
+<link href="/w/index.php?title=Population_pyramid&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Population_pyramid&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Population_pyramid" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Population_pyramid rootpage-Population_pyramid skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Population pyramid</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:332px;"><a class="image" href="/wiki/File:Population_pyramid_example.svg"><img alt="" class="thumbimage" data-file-height="243" data-file-width="493" height="163" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Population_pyramid_example.svg/330px-Population_pyramid_example.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Population_pyramid_example.svg/495px-Population_pyramid_example.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6a/Population_pyramid_example.svg/660px-Population_pyramid_example.svg.png 2x" width="330"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Population_pyramid_example.svg" title="Enlarge"></a></div>This distribution is named for the frequently pyramidal shape of its graph.</div></div></div>
+<p>A <b>population pyramid</b>, also called an "<b>age-sex pyramid</b>", is a graphical illustration that shows the distribution of various age groups in a <a href="/wiki/Population" title="Population">population</a> (typically that of a country or region of the world), which forms the shape of a <a href="/wiki/Pyramid" title="Pyramid">pyramid</a> when the population is growing.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Males are conventionally shown on the left and females on the right, and they may be measured by raw number or as a percentage of the total population. This tool can be used to visualize and age of a particular population.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> It is also used in ecology to determine the overall age distribution of a population; an indication of the reproductive capabilities and likelihood of the continuation of a species.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types"><span class="tocnumber">2</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Youth_bulge_phenomenon"><span class="tocnumber">3</span> <span class="toctext">Youth bulge phenomenon</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Middle_East_and_North_Africa"><span class="tocnumber">3.1</span> <span class="toctext">Middle East and North Africa</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Additional_References"><span class="tocnumber">5.1</span> <span class="toctext">Additional References</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Population_pyramid&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(September 2018)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>Population pyramids often contain continuous stacked-histogram bars, making it a horizontal bar diagram. The population size is depicted on the x-axis (horizontal) while the age-groups are represented on the y-axis (vertical).<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The size of the population can either be measured as a <a class="mw-redirect" href="/wiki/Percent" title="Percent">percentage</a> of the total population or by raw number. Males are conventionally shown on the left and females on the right. Population pyramids are often viewed as the most effective way to graphically depict the age and distribution of a population, partly because of the very clear image these pyramids represent.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> A great deal of information about the population broken down by age and sex can be read from a population pyramid, and this can shed light on the <a href="/wiki/Sustainable_development" title="Sustainable development">extent of development</a> and other aspects of the population.
+</p><p>The measures of central tendency, mean, median, and mode, should be considered when assessing a population pyramid. since the data is not completely accurate. For example, the average age could be used to determine the type of population in a particular region. A population with an average age of 15 would have a young population compared to a population that has an average age of 55, which would be considered an older population. It is also important to consider these measures because the collected data is not completely accurate. The mid-year population is often used in calculations to account for the number of births and deaths that occur.
+</p><p>A population pyramid gives a clear picture of how a country transitions from high fertility to low <a class="mw-redirect" href="/wiki/Fertility_rate" title="Fertility rate">fertility rate</a>. The broad base of the pyramid means the majority of population lies between ages 0–14, which tells us that the fertility rate of the country is high and above population <a href="/wiki/Sub-replacement_fertility" title="Sub-replacement fertility">sub-replacement fertility</a> level. The older population is declining over time due to a shorter <a href="/wiki/Life_expectancy" title="Life expectancy">life expectancy</a> of sixty years.<sup class="reference" id="cite_ref-:02_5-0"><a href="#cite_note-:02-5">[5]</a></sup> However, there are still more females than males in these ranges since women have a longer life expectancy. As reported by the <i>Proceedings of the National Academy of Sciences,</i> women tend to live longer than men because women do not partake in risky behaviors. Also, Weeks' <i>Population: an Introduction to Concepts and Issues,</i> considered that the sex ratio gap for the older ages will shrink due to women's health declining due to the effects of smoking, as suggested by the United Nations and U.S. Census Bureau. Moreover, it can also reveal the age-dependency ratio of a population. Populations with a big base, young population, or a big top, an older population, shows that there is a higher dependency ratio. The <a href="/wiki/Dependency_ratio" title="Dependency ratio">dependency ratio</a> refers to how many people are dependent on the working class (ages 15–64). According to Weeks' <i>Population: an Introduction to Concepts and Issues,</i> population pyramids can be used to predict the future, known as a population forecast. <a href="/wiki/Population_momentum" title="Population momentum">Population momentum</a>, when a population's birth rates continue to increase even after replacement level has been reached, can even be predicted if a population has a low mortality rate since the population will continue to grow. This then brings up the term <a href="/wiki/Doubling_time" title="Doubling time">doubling time</a>, which is used to predict when the population will double in size. Lastly, a population pyramid can even give insight on the economic status of a country from the <a href="/wiki/Age_stratification" title="Age stratification">age stratification</a>  since the distribution of supplies are not evenly distributed through a population.
+</p><p>In the <a href="/wiki/Demographic_transition" title="Demographic transition">demographic transition</a> model, the size and shape of population pyramids vary. In stage one of the demographic transition model, the pyramids have the most defined shape. They have the ideal big base and skinny top. In stage two, the pyramid looks similar, but starts to widen in the middle age groups. In stage three, the pyramids start to round out and look similar in shape to a tombstone.  In stage four, there is a decrease in the younger age groups. This causes the base of the widened pyramid to narrow. Lastly, in stage five, the pyramid starts to take on the shape of a kite as the base continues to decrease. The shape of the population is dependent upon what the economy is like in the country. More developed countries can be found in stages three four and five while the least developed countries have a population represented by the pyramids in stages one and two.
+</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=2" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Each country will have different or unique population pyramids. However, most population pyramids will be defined as the following: stationary, expansive, or constrictive. These types have been identified by the fertility and mortality rates of a country.<sup class="reference" id="cite_ref-osu_6-0"><a href="#cite_note-osu-6">[6]</a></sup>
+</p>
+<dl><dt>"Stationary" pyramid</dt>
+<dd>A pyramid can be described as stationary if the percentages of population (age and sex) remains constant over time.<sup class="reference" id="cite_ref-:0_7-0"><a href="#cite_note-:0-7">[7]</a></sup> Stationary population is when a population contains equal birth rates and death rates.<sup class="reference" id="cite_ref-:0_7-1"><a href="#cite_note-:0-7">[7]</a></sup></dd></dl>
+<dl><dt>"Expansive" pyramid</dt>
+<dd>A population pyramid that is very wide at the younger ages, characteristic of countries with high birth rate and low life expectancy.<sup class="reference" id="cite_ref-osu_6-1"><a href="#cite_note-osu-6">[6]</a></sup> The population is said to be fast-growing, and the size of each birth cohort gets larger than the size of the previous year.<sup class="reference" id="cite_ref-:1_8-0"><a href="#cite_note-:1-8">[8]</a></sup></dd></dl>
+<dl><dt>"Constrictive" pyramid</dt>
+<dd>A population pyramid that is narrowed at the bottom. The population is generally older on average, as the country has long life expectancy, a low death rate, but also a low birth rate.<sup class="reference" id="cite_ref-osu_6-2"><a href="#cite_note-osu-6">[6]</a></sup> However, the percentage of  younger population are extremely low, this can cause issues with dependency ratio of the population.<sup class="reference" id="cite_ref-:1_8-1"><a href="#cite_note-:1-8">[8]</a></sup> This pyramid is more common when immigrants are factored out. This is a typical pattern for a very developed country, a high level of education, easy access to and incentive to use birth control, good health care, and few negative environmental factors.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></dd>
+<dd></dd>
+<dd></dd></dl>
+<h2><span class="mw-headline" id="Youth_bulge_phenomenon">Youth bulge phenomenon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=3" title="Edit section: Youth bulge phenomenon">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Baby_boom" title="Baby boom">Baby boom</a> and <a href="/wiki/List_of_countries_by_median_age" title="List of countries by median age">List of countries by median age</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:2017_world_map,_median_age_by_country.svg"><img alt="" class="thumbimage" data-file-height="443" data-file-width="864" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2017_world_map%2C_median_age_by_country.svg/300px-2017_world_map%2C_median_age_by_country.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2017_world_map%2C_median_age_by_country.svg/450px-2017_world_map%2C_median_age_by_country.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2017_world_map%2C_median_age_by_country.svg/600px-2017_world_map%2C_median_age_by_country.svg.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:2017_world_map,_median_age_by_country.svg" title="Enlarge"></a></div><a href="/wiki/Median" title="Median">Median</a> age by country. A youth bulge is evident for <a href="/wiki/Demographics_of_Africa" title="Demographics of Africa">Africa</a>, and to a lesser extent for West Asia, South Asia, Southeast Asia and Central America.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Fertility_rate_world_map_2.png"><img alt="" class="thumbimage" data-file-height="628" data-file-width="1357" height="139" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fertility_rate_world_map_2.png/300px-Fertility_rate_world_map_2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fertility_rate_world_map_2.png/450px-Fertility_rate_world_map_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fertility_rate_world_map_2.png/600px-Fertility_rate_world_map_2.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Fertility_rate_world_map_2.png" title="Enlarge"></a></div>Map of countries by fertility rate (2018), according to <a class="mw-redirect" href="/wiki/CIA_World_Factbook" title="CIA World Factbook">CIA World Factbook</a></div></div></div>
+<p>Gary Fuller (1995) described Youth bulge as a type of expansive pyramid. <a href="/wiki/Gunnar_Heinsohn" title="Gunnar Heinsohn">Gunnar Heinsohn</a> (2003) argues that an excess in especially young adult male population predictably leads to social unrest, <a href="/wiki/War" title="War">war</a> and <a href="/wiki/Terrorism" title="Terrorism">terrorism</a>, as the "third and fourth sons" that find no prestigious positions in their existing societies rationalize their impetus to compete by religion or political ideology.
+</p><p>Heinsohn claims that most historical periods of social unrest lacking external triggers (such as rapid climatic changes or other catastrophic changes of the environment) and most <a href="/wiki/Genocide" title="Genocide">genocides</a> can be readily explained as a result of a built-up youth bulge, including <a class="mw-redirect" href="/wiki/First_European_colonization_wave_(15th_century%E2%80%9319th_century)" title="First European colonization wave (15th century–19th century)">European colonialism</a>, 20th-century <a href="/wiki/Fascism" title="Fascism">fascism</a>, rise of <a href="/wiki/Communism" title="Communism">Communism</a> during the <a href="/wiki/Cold_War" title="Cold War">Cold War</a>, and ongoing conflicts such as that in <a class="mw-redirect" href="/wiki/Darfur_conflict" title="Darfur conflict">Darfur</a> and <a href="/wiki/Terrorism" title="Terrorism">terrorism</a>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> This factor has been also used to account for the <a href="/wiki/Arab_Spring" title="Arab Spring">Arab Spring</a> events.<sup class="reference" id="cite_ref-cliodynamics.ru_11-0"><a href="#cite_note-cliodynamics.ru-11">[11]</a></sup> <a class="mw-redirect" href="/wiki/Economic_recession" title="Economic recession">Economic recessions</a>, such as the <a href="/wiki/Great_Depression" title="Great Depression">Great Depression</a> of the 1930s and the <a class="mw-redirect" href="/wiki/Late_2000s_recession" title="Late 2000s recession">Late 2000's recession</a>, are also claimed to be explained in part due to a large youth population who cannot find jobs.<sup class="reference" id="cite_ref-cliodynamics.ru_11-1"><a href="#cite_note-cliodynamics.ru-11">[11]</a></sup> Youth bulge can be seen as one factor among many in explaining social unrest and uprisings in society.<sup class="reference" id="cite_ref-cfr.org_12-0"><a href="#cite_note-cfr.org-12">[12]</a></sup> A 2016 study finds that youth bulges increases the chances of non-ethnic civil wars, but not ethnic civil wars.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>A large population of adolescents entering the labor force and electorate strains at the seams of the economy and polity, which were designed for smaller populations. This creates unemployment and alienation unless new opportunities are created quickly enough – in which case a 'demographic dividend' accrues because productive workers outweigh young and elderly dependents. Yet the 16–30 age range is associated with risk-taking, especially among males. In general, youth bulges in developing countries are associated with higher unemployment and, as a result, a heightened risk of violence and political instability.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> For Cincotta and Doces (2011), the transition to more mature age structures is almost a <a href="/wiki/Sine_qua_non" title="Sine qua non">sine qua non</a> for democratization.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p><p>To reverse the effects of youth bulges, specific policies such as creating more jobs, improving family planning programs, and reducing over all infant mortality rates should be a priority.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:42.5px auto;"><a class="image" href="/wiki/File:Egypt_population_pyramid_2005.svg"><img alt="" data-file-height="260" data-file-width="479" height="65" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Egypt_population_pyramid_2005.svg/120px-Egypt_population_pyramid_2005.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Egypt_population_pyramid_2005.svg/180px-Egypt_population_pyramid_2005.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Egypt_population_pyramid_2005.svg/240px-Egypt_population_pyramid_2005.svg.png 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>Population pyramid of <a href="/wiki/Egypt" title="Egypt">Egypt</a> in 2005. Many of those 30 and younger are educated citizens who are experiencing difficulty finding work.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:33px auto;"><a class="image" href="/wiki/File:LibyaPopulation2011.jpg"><img alt="" data-file-height="425" data-file-width="610" height="84" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/LibyaPopulation2011.jpg/120px-LibyaPopulation2011.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/LibyaPopulation2011.jpg/180px-LibyaPopulation2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/LibyaPopulation2011.jpg/240px-LibyaPopulation2011.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>Nearly half of <a href="/wiki/Libya" title="Libya">Libya</a>'s 2011 population consists of children younger than age 20.
+</p>
+</div>
+</div></li>
+</ul>
+<h3><span class="mw-headline" id="Middle_East_and_North_Africa">Middle East and North Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=4" title="Edit section: Middle East and North Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Demographic_trap" title="Demographic trap">Demographic trap</a></div>
+<p>The <a href="/wiki/Middle_East" title="Middle East">Middle East</a> and <a href="/wiki/North_Africa" title="North Africa">North Africa</a> are currently experiencing a prominent youth bulge. "Across the Middle East, countries have experienced a pronounced increase in the size of their youth populations over recent decades, both in total numbers and as a percentage of the total population. Today, the nearly 111 million individuals aging between 15 to 29 living across the region make up nearly 27 percent of the region’s population." <sup class="reference" id="cite_ref-Hassan_and_Dyer_18-0"><a href="#cite_note-Hassan_and_Dyer-18">[18]</a></sup> Structural changes in service provision, especially health care, beginning in the 1960s created the conditions for a demographic explosion, which has resulted in a population consisting primarily of younger people. It is estimated that around 65% of the regional population is under the age of 30.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p><p>The Middle East has invested more in education, including religious education, than most other regions such that education is available to most children.<sup class="reference" id="cite_ref-Middle_East_Youth_Initiative_20-0"><a href="#cite_note-Middle_East_Youth_Initiative-20">[20]</a></sup> However, that education has not led to higher levels of employment, and youth unemployment is currently at 25%, the highest of any single region.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> Of this 25%, over half are first time entrants into the job market.<sup class="reference" id="cite_ref-Middle_East_Youth_Initiative_20-1"><a href="#cite_note-Middle_East_Youth_Initiative-20">[20]</a></sup>
+</p><p>The youth bulge in the Middle East and North Africa has been favorably compared to that of East Asia, which harnessed this human capital and saw huge economic growth in recent decades.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> The youth bulge has been referred to by the <a href="/wiki/Middle_East_Youth_Initiative" title="Middle East Youth Initiative">Middle East Youth Initiative</a> as a <a class="mw-redirect" href="/wiki/Demographic_gift" title="Demographic gift">demographic gift</a>, which, if engaged, could fuel regional economic growth and development.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> "While the growth of the youth population imposes supply pressures on education systems and labor markets, it also means that a growing share of the overall population is made up of those considered to be of working age; and thus not dependent on the economic activity of others. In turn, this declining dependency ratio can have a positive impact on overall economic growth, creating a demographic dividend. The ability of a particular economy to harness this dividend, however, is dependent on its ability to ensure the deployment of this growing working-age population towards productive economic activity, and to create the jobs necessary for the growing labor force." <sup class="reference" id="cite_ref-Hassan_and_Dyer_18-1"><a href="#cite_note-Hassan_and_Dyer-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Age_class_structure" title="Age class structure">Age class structure</a></li>
+<li><a href="/wiki/Baby_boom" title="Baby boom">Baby boom</a></li>
+<li><a href="/wiki/Demographic_analysis" title="Demographic analysis">Demographic analysis</a></li>
+<li><a href="/wiki/Demographic_transition" title="Demographic transition">Demographic transition</a></li>
+<li><a href="/wiki/List_of_countries_by_median_age" title="List of countries by median age">List of countries by median age</a></li>
+<li><a href="/wiki/Middle_East_Youth_Initiative" title="Middle East Youth Initiative">Middle East Youth Initiative</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Political_demography" title="Political demography">Political demography</a></li>
+<li><a href="/wiki/Population" title="Population">Population</a></li>
+<li><a href="/wiki/Population_growth" title="Population growth">Population growth</a></li>
+<li><a href="/wiki/Human_sex_ratio" title="Human sex ratio">Sex ratio</a></li>
+<li><a href="/wiki/Waithood" title="Waithood">Waithood</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h3><span class="mw-headline" id="Additional_References">Additional References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=7" title="Edit section: Additional References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>U.S. Census Bureau, Demographic Internet Staff (June 27, 2011). <a class="external text" href="http://www.census.gov/data-tools/demo/idb/informationGateway.php" rel="nofollow">"International Programs, International Data Base"</a>. <i>Information Gateway –  U.S. Census Bureau.</i> U.S. Census Bureau.</li>
+<li><a class="external text" href="http://www.prb.org/data/" rel="nofollow">"Population Reference Bureau – Inform, Empower, Advance."</a> <i>Population Reference Bureau.</i></li>
+<li><a class="external text" href="http://www.un.org/en/databases/index.html" rel="nofollow">"Databases."</a> <i>United Nations.</i></li>
+<li>Zarulli, Virginia, et al. <a class="external text" href="http://www.pnas.org/content/early/2018/01/03/1701535115" rel="nofollow">"Women Live Longer than Men Even during Severe Famines and Epidemics."</a> <i>Proceedings of the National Academy of Sciences</i>, National Academy of Sciences, Jan 3 2018.</li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Gary Fuller, "The Youth Crisis in Middle Eastern Society" (2004) <a class="external text" href="https://web.archive.org/web/20130522034538/http://www.ispu.org/files/PDFs/graham%20fuller%20paper.pdf" rel="nofollow">download</a></li>
+<li>Gary Fuller, <i>The Demographic Backdrop to Ethnic Conflict: A Geographic Overview</i>, was born in 1989 and was produced by Edward Gewin:  The Challenge of Ethnic Conflict to National and International Order in the 1990s, Washington: CIA (RTT 95-10039, October), 151-154.</li>
+<li><cite class="citation book">Heinsohn, Gunnar (2003). <i>Söhne und Weltmacht : Terror im Aufstieg und Fall der Nationen</i> (in German). Zürich: <a href="/wiki/Orell_F%C3%BCssli" title="Orell Füssli">Orell Füssli</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-280-06008-7" title="Special:BookSources/3-280-06008-7">3-280-06008-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=S%C3%B6hne+und+Weltmacht+%3A+Terror+im+Aufstieg+und+Fall+der+Nationen&amp;rft.place=Z%C3%BCrich&amp;rft.pub=Orell+F%C3%BCssli&amp;rft.date=2003&amp;rft.isbn=3-280-06008-7&amp;rft.aulast=Heinsohn&amp;rft.aufirst=Gunnar&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+pyramid"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><a class="external text" href="https://web.archive.org/web/20080830094355/http://www.brookings.edu/speeches/2008/0522_middle_east_youth_dhillon.aspx" rel="nofollow">Navtej Dhillon, "Middle East Youth Bulge: Challenge or Opportunity?" (2008) The Brookings Institution</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080830074502/http://www.brookings.edu/~/media/Files/events/2008/0107_youth/20080107_youth.pdf" rel="nofollow">"From Oil Boom to Youth Boon: Tapping the Middle East Demographic Gift" (2008) The Brookings Institution</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080911041519/http://www.brookings.edu/~/media/Files/rc/papers/2003/06middleeast_fuller/fuller20030601.pdf" rel="nofollow">Graham Fuller, "The Youth Factor: The New Demographics of the Middle East and the Implications for U.S. Policy" (2003) The Brookings Institution</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20061127014106/http://www.populationaction.org/resources/publications/securitydemographic/" rel="nofollow">The Security Demographic: Population and Civil Conflict after the Cold War</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20070311022800/http://www.zmag.org/Sustainers/Content/2003-03/14hendrixson.cfm" rel="nofollow">The "Youth Bulge"</a>  (zmag.org)</li>
+<li><a class="external text" href="https://web.archive.org/web/20070520191543/http://www.populationaction.org/Publications/Reports/The_Shape_of_Things_to_Come/Summary.shtml" rel="nofollow">The Shape of Things to Come, Why Age Structure Matters To A Safer, More Equitable World</a></li>
+<li><a class="external text" href="http://www.paradigmpublishers.com/books/BookDetail.aspx?productID=280257" rel="nofollow">Political Demography: identity, conflict and institutions ed. J. A. Goldstone, E. Kaufmann and M. Toft. Boulder, CO: Paradigm Press</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_pyramid&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Population_pyramids" title="commons:Category:Population pyramids">Population pyramids</a></b></i>.</td></tr></tbody></table>
+<ul><li><a class="external text" href="http://esa.un.org/unpd/wpp/Demographic-Profiles/index.shtm" rel="nofollow">World Population Prospects, the 2010 Revision</a>, Website of the United Nations Population Division with population pyramids for all countries</li>
+<li><a class="external text" href="https://web.archive.org/web/20170707170519/https://www.census.gov/population/international/links/stat_int.html" rel="nofollow">U.S. Census Bureau, International Statistical Agencies</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20170208114205/http://www.census.gov/population/international/data/idb/informationGateway.php" rel="nofollow">U.S. Census Bureau, International Database (IDB)</a></li>
+<li><a class="external text" href="http://populationpyramid.net" rel="nofollow">United Nations Data Set Population pyramids from 1950 to 2050</a></li>
+<li><a class="external text" href="http://www.abs.gov.au/websitedbs/d3310114.nsf/home/population%20pyramid%20preview" rel="nofollow">Australian animated population pyramids, Australian Bureau of Statistics</a></li>
+<li><a class="external text" href="http://www.insee.fr/fr/ppp/bases-de-donnees/irweb/projpop0760/dd/pyramide/pyramide.htm" rel="nofollow">Interactive population pyramids of metropolitan France 1901-2060 (INSEE)</a></li>
+<li><a class="external text" href="http://www.china-profile.com/data/ani_ceu_pop.htm#" rel="nofollow">China, Europe, USA: Population by Age and Sex, 1950-2050</a>. Moving Age pyramids.</li>
+<li><a class="external text" href="http://www.visualinfoglobal.com/En/Poblacio/Piramides/" rel="nofollow">Population pyramids of all countries</a></li>
+<li><a class="external text" href="http://www.websitetoolbox.com/tool/post/sfew/vpost?id=1579036" rel="nofollow">A discussion on population pyramids as a data visualization tool</a></li></ul>
+<div aria-labelledby="Global_human_population" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#e6e6e6;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Population" title="Template:Population"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Population" title="Template talk:Population"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Population&amp;action=edit"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_human_population" style="font-size:114%;margin:0 4em"><a href="/wiki/World_population" title="World population">Global human population</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Major topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biocapacity" title="Biocapacity">Biocapacity</a></li>
+<li><a href="/wiki/Optimum_population" title="Optimum population">Optimum population</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a>
+<ul><li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li></ul></li>
+<li><a href="/wiki/Population" title="Population">Population</a></li>
+<li><a href="/wiki/Population_ethics" title="Population ethics">Population ethics</a></li>
+<li><a href="/wiki/Population_momentum" title="Population momentum">Population momentum</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Reproductive_rights" title="Reproductive rights">Women's reproductive rights</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero population growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Biological and<br/>related topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Family_planning" title="Family planning">Family planning</a>
+<ul><li><a href="/wiki/Population_Matters#Pledge_two_or_fewer" title="Population Matters">Pledge two or fewer</a></li></ul></li>
+<li><a href="/wiki/Human_population_planning" title="Human population planning">Human population planning</a>
+<ul><li><a href="/wiki/One-child_policy" title="One-child policy">One-child policy</a></li>
+<li><a href="/wiki/Two-child_policy" title="Two-child policy">Two-child policy</a></li></ul></li>
+<li><a href="/wiki/Population_biology" title="Population biology">Population biology</a></li>
+<li><a href="/wiki/Population_decline" title="Population decline">Population decline</a></li>
+<li><a href="/wiki/Population_density" title="Population density">Population density</a>
+<ul><li><a href="/wiki/Physiological_density" title="Physiological density">Physiological density</a></li></ul></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_growth" title="Population growth">Population growth</a></li>
+<li><a href="/wiki/Population_model" title="Population model">Population model</a></li>
+<li><a class="mw-selflink selflink">Population pyramid</a></li>
+<li><a href="/wiki/Projections_of_population_growth" title="Projections of population growth">Projections of population growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on<br/>the environment</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Environmental impact</a>
+<ul><li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">of agriculture</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">of aviation</a></li>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">of biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">of concrete</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">of electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">of the energy industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">of fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">of irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">of mining</a></li>
+<li><a href="/wiki/Off-roading#Environmental_impact" title="Off-roading">of off-roading</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">of oil shale industry</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">of palm oil</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">of paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">of the petroleum industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">of reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">of shipping</a></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">of war</a></li></ul></li>
+<li><a href="/wiki/Industrialisation" title="Industrialisation">Industrialisation</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_reclamation" title="Land reclamation">Land reclamation</a></li>
+<li><a href="/wiki/Overconsumption" title="Overconsumption">Overconsumption</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Quarry" title="Quarry">Quarrying</a></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>
+<ul><li><a href="/wiki/Green_belt" title="Green belt">Loss of green belts</a></li>
+<li><a href="/wiki/Urban_sprawl" title="Urban sprawl">Urban sprawl</a></li></ul></li>
+<li><a href="/wiki/Waste" title="Waste">Waste</a></li>
+<li><a href="/wiki/Water_scarcity" title="Water scarcity">Water scarcity</a>
+<ul><li><a href="/wiki/Overdrafting" title="Overdrafting">Overdrafting</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Population_ecology" title="Population ecology">Population<br/>ecology</a></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carrying_capacity#Humans" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Food security</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><span class="nowrap"><a href="/wiki/I_%3D_PAT" title="I = PAT">I = P × A  × T</a></span></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Overshoot_(population)" title="Overshoot (population)">Overshoot (population)</a></li>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a></li>
+<li><a href="/wiki/World_energy_resources" title="World energy resources">World energy resources</a></li>
+<li><a href="/wiki/World3" title="World3">World3 model</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Literature</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Modest_Proposal" title="A Modest Proposal">A Modest Proposal</a></i></li>
+<li><i><a href="/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc." title="Observations Concerning the Increase of Mankind, Peopling of Countries, etc.">Observations Concerning the Increase of Mankind, Peopling of Countries, etc.</a></i></li>
+<li><i><a href="/wiki/An_Essay_on_the_Principle_of_Population" title="An Essay on the Principle of Population">An Essay on the Principle of Population</a></i></li>
+<li>"<a href="/wiki/How_Much_Land_Does_a_Man_Need%3F" title="How Much Land Does a Man Need?">How Much Land Does a Man Need?</a>"</li>
+<li><i><a href="/wiki/Operating_Manual_for_Spaceship_Earth" title="Operating Manual for Spaceship Earth">Operating Manual for Spaceship Earth</a></i></li>
+<li><i><a href="/wiki/Population_Control:_Real_Costs,_Illusory_Benefits" title="Population Control: Real Costs, Illusory Benefits">Population Control: Real Costs, Illusory Benefits</a></i></li>
+<li><i><a href="/wiki/The_Limits_to_Growth" title="The Limits to Growth">The Limits to Growth</a></i></li>
+<li><i><a href="/wiki/The_Population_Bomb" title="The Population Bomb">The Population Bomb</a></i></li>
+<li><i><a href="/wiki/The_Skeptical_Environmentalist" title="The Skeptical Environmentalist">The Skeptical Environmentalist</a></i></li>
+<li><i><a href="/wiki/The_Ultimate_Resource" title="The Ultimate Resource">The Ultimate Resource</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Publications</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_and_Environment" title="Population and Environment">Population and Environment</a></li>
+<li><a href="/wiki/Population_and_Development_Review" title="Population and Development Review">Population and Development Review</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Lists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_and_housing_censuses_by_country" title="Population and housing censuses by country">Population and housing censuses by country</a></li>
+<li><a href="/wiki/List_of_metropolitan_areas_by_population" title="List of metropolitan areas by population">Metropolitan areas by population</a></li>
+<li><a href="/wiki/World_population_milestones" title="World population milestones">Population milestone babies</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><div style="padding:0.1em 0;line-height:1.2em;">Events and<br/>organizations</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/7_Billion_Actions" title="7 Billion Actions">7 Billion Actions</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">International Conference on Population and Development</a></li>
+<li><a href="/wiki/Population_Action_International" title="Population Action International">Population Action International</a></li>
+<li><a href="/wiki/Population_Connection" title="Population Connection">Population Connection</a></li>
+<li><a href="/wiki/Population_Matters" title="Population Matters">Population Matters</a></li>
+<li><a href="/wiki/Population_Research_Institute" title="Population Research Institute">Population Research Institute</a></li>
+<li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">United Nations Population Fund</a></li>
+<li><a href="/wiki/Voluntary_Human_Extinction_Movement" title="Voluntary Human Extinction Movement">Voluntary Human Extinction Movement</a></li>
+<li><a href="/wiki/World_Population_Day" title="World Population Day">World Population Day</a></li>
+<li><a href="/wiki/World_Population_Foundation" title="World Population Foundation">World Population Foundation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Classic_Maya_collapse" title="Classic Maya collapse">Classic Maya collapse</a></li>
+<li><a href="/wiki/Fertility_and_intelligence" title="Fertility and intelligence">Fertility and intelligence</a></li>
+<li><a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_migration" title="Human migration">Migration</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="background:#e6e6e6;"><div>
+<ul><li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Human_overpopulation" title="commons:Category:Human overpopulation">Commons</a></b></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Human_overpopulation" title="Category:Human overpopulation">Human overpopulation</a></li>
+<li><a href="/wiki/Category:Human_activities_with_impact_on_the_environment" title="Category:Human activities with impact on the environment">Human activities with impact on the environment</a></li>
+<li><a href="/wiki/Category:Human_migration" title="Category:Human migration">Human migration</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20181026161110
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.356 seconds
+Real time usage: 0.458 seconds
+Preprocessor visited node count: 1314/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61028/2097152 bytes
+Template argument size: 891/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 51664/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 4.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  373.605      1 -total
+ 55.31%  206.659      1 Template:Reflist
+ 24.49%   91.490      9 Template:Cite_web
+ 14.29%   53.393      1 Template:Refimprove_section
+ 11.36%   42.431      3 Template:Cite_journal
+ 10.56%   39.445      1 Template:Refimprove
+  9.47%   35.379      1 Template:Ambox
+  8.31%   31.036      1 Template:Population
+  7.10%   26.530      1 Template:Navbox
+  4.48%   16.755      1 Template:Commons_category
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:989011-0!canonical and timestamp 20181026161110 and revision id 865597378
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Population_pyramid&amp;oldid=865597378">https://en.wikipedia.org/w/index.php?title=Population_pyramid&amp;oldid=865597378</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Demographic_economics" title="Category:Demographic economics">Demographic economics</a></li><li><a href="/wiki/Category:Ageing" title="Category:Ageing">Ageing</a></li><li><a href="/wiki/Category:Demographics" title="Category:Demographics">Demographics</a></li><li><a href="/wiki/Category:Demography" title="Category:Demography">Demography</a></li><li><a href="/wiki/Category:Population" title="Category:Population">Population</a></li><li><a href="/wiki/Category:Statistical_charts_and_diagrams" title="Category:Statistical charts and diagrams">Statistical charts and diagrams</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2018" title="Category:Articles needing additional references from September 2018">Articles needing additional references from September 2018</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Population+pyramid" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Population+pyramid" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Population_pyramid" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Population_pyramid" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Population_pyramid">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Population_pyramid&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Population_pyramid&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Population_pyramid" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Population_pyramid" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Population_pyramid&amp;oldid=865597378" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Population_pyramid&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q329823" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Population_pyramid&amp;id=865597378" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Population+pyramid">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Population+pyramid&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Population_pyramid&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Population_pyramids" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%87%D8%B1%D9%85_%D8%B3%D9%83%D8%A7%D9%86%D9%8A" hreflang="ar" lang="ar" title="هرم سكاني – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pir%C3%A0mide_de_poblaci%C3%B3" hreflang="ca" lang="ca" title="Piràmide de població – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/V%C4%9Bkov%C3%A1_pyramida" hreflang="cs" lang="cs" title="Věková pyramida – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Befolkningspyramide" hreflang="da" lang="da" title="Befolkningspyramide – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Altersstruktur" hreflang="de" lang="de" title="Altersstruktur – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Rahvastikup%C3%BCramiid" hreflang="et" lang="et" title="Rahvastikupüramiid – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CF%85%CF%81%CE%B1%CE%BC%CE%AF%CE%B4%CE%B1_%CE%B7%CE%BB%CE%B9%CE%BA%CE%B9%CF%8E%CE%BD" hreflang="el" lang="el" title="Πυραμίδα ηλικιών – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_poblaci%C3%B3n" hreflang="es" lang="es" title="Pirámide de población – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Biztanleria-piramide" hreflang="eu" lang="eu" title="Biztanleria-piramide – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%87%D8%B1%D9%85_%D8%AC%D9%85%D8%B9%DB%8C%D8%AA" hreflang="fa" lang="fa" title="هرم جمعیت – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pyramide_des_%C3%A2ges" hreflang="fr" lang="fr" title="Pyramide des âges – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Pir%C3%A1mide_de_poboaci%C3%B3n" hreflang="gl" lang="gl" title="Pirámide de poboación – Galician">Galego</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BF%E0%A4%B0%E0%A5%88%E0%A4%AE%E0%A4%BF%E0%A4%A1_%E0%A4%86%E0%A4%B0%E0%A5%87%E0%A4%96" hreflang="hi" lang="hi" title="पिरैमिड आरेख – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Piramida_penduduk" hreflang="id" lang="id" title="Piramida penduduk – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Piramide_delle_et%C3%A0" hreflang="it" lang="it" title="Piramide delle età – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A8%D7%9E%D7%99%D7%93%D7%AA_%D7%92%D7%99%D7%9C%D7%99%D7%9D" hreflang="he" lang="he" title="פירמידת גילים – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%96%D0%B0%D1%81-%D0%B6%D1%8B%D0%BD%D1%8B%D1%81%D1%82%D1%8B%D2%9B_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" hreflang="kk" lang="kk" title="Жас-жыныстық пирамида – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Bevolkingspiramide" hreflang="nl" lang="nl" title="Bevolkingspiramide – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%8F%A3%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89" hreflang="ja" lang="ja" title="人口ピラミッド – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Befolkningspyramide" hreflang="no" lang="no" title="Befolkningspyramide – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Struktura_p%C5%82ci_i_wieku" hreflang="pl" lang="pl" title="Struktura płci i wieku – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pir%C3%A2mide_et%C3%A1ria" hreflang="pt" lang="pt" title="Pirâmide etária – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%BD%D0%BE-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" hreflang="ru" lang="ru" title="Возрастно-половая пирамида – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Population_pyramid" hreflang="en-simple" lang="en-simple" title="Population pyramid – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Starostna_piramida" hreflang="sl" lang="sl" title="Starostna piramida – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Starosna_piramida" hreflang="sr" lang="sr" title="Starosna piramida – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/V%C3%A4est%C3%B6pyramidi" hreflang="fi" lang="fi" title="Väestöpyramidi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Befolkningspyramid" hreflang="sv" lang="sv" title="Befolkningspyramid – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A3" hreflang="th" lang="th" title="พีระมิดประชากร – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Ya%C5%9F_piramidi" hreflang="tr" lang="tr" title="Yaş piramidi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D0%BE%D0%B2%D0%BE-%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B2%D0%B0_%D0%BF%D1%96%D1%80%D0%B0%D0%BC%D1%96%D0%B4%D0%B0" hreflang="uk" lang="uk" title="Віково-статева піраміда – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Th%C3%A1p_d%C3%A2n_s%E1%BB%91" hreflang="vi" lang="vi" title="Tháp dân số – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%8F%A3%E9%87%91%E5%AD%97%E5%A1%94" hreflang="zh" lang="zh" title="人口金字塔 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q329823#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 October 2018, at 22:33<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Population_pyramid&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.458","ppvisitednodes":{"value":1314,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61028,"limit":2097152},"templateargumentsize":{"value":891,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51664,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  373.605      1 -total"," 55.31%  206.659      1 Template:Reflist"," 24.49%   91.490      9 Template:Cite_web"," 14.29%   53.393      1 Template:Refimprove_section"," 11.36%   42.431      3 Template:Cite_journal"," 10.56%   39.445      1 Template:Refimprove","  9.47%   35.379      1 Template:Ambox","  8.31%   31.036      1 Template:Population","  7.10%   26.530      1 Template:Navbox","  4.48%   16.755      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.172","limit":"10.000"},"limitreport-memusage":{"value":4636114,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20181026161110","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1251"});});</script>
+</body>
+</html>

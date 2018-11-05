@@ -1,0 +1,548 @@
+https://en.wikipedia.org/wiki/Oxyanion
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Oxyanion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Oxyanion","wgTitle":"Oxyanion","wgCurRevisionId":865591451,"wgRevisionId":865591451,"wgArticleId":372895,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Oxoanions","Acid–base chemistry","Equilibrium chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Oxyanion","wgRelevantArticleId":372895,"wgRequestId":"W9bhRgpAMEoAACRvkcAAAACP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3269344","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Oxyanion" rel="alternate"/>
+<link href="/w/index.php?title=Oxyanion&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Oxyanion&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Oxyanion" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Oxyanion rootpage-Oxyanion skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Oxyanion</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>An <b>oxyanion</b>, or <b>oxoanion</b>, is an <a href="/wiki/Ion" title="Ion">ion</a> with the generic formula <span class="chemf nowrap">A<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>x</i></sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>z</i>−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>y</i></sub></span></span> (where A represents a <a href="/wiki/Chemical_element" title="Chemical element">chemical element</a> and O represents an <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> atom). Oxyanions are formed by a large majority of the <a href="/wiki/Chemical_element" title="Chemical element">chemical elements</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The formulae of simple oxyanions are determined by the <a href="/wiki/Octet_rule" title="Octet rule">octet rule</a>. The structures of condensed oxyanions can be rationalized in terms of AO<sub><i>n</i></sub> polyhedral units with sharing of corners or edges between polyhedra. The phosphate and polyphosphate esters adenosine monophosphate (<a href="/wiki/Adenosine_monophosphate" title="Adenosine monophosphate">AMP</a>), adenosine diphosphate (<a href="/wiki/Adenosine_diphosphate" title="Adenosine diphosphate">ADP</a>) and <a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">adenosine triphosphate</a> (ATP) are important in biology.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Monomeric_oxyanions"><span class="tocnumber">1</span> <span class="toctext">Monomeric oxyanions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Naming"><span class="tocnumber">1.1</span> <span class="toctext">Naming</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Condensation_reactions"><span class="tocnumber">2</span> <span class="toctext">Condensation reactions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Structures_and_formulae_of_polyoxyanions"><span class="tocnumber">3</span> <span class="toctext">Structures and formulae of polyoxyanions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Heuristic_for_acidity"><span class="tocnumber">4</span> <span class="toctext">Heuristic for acidity</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Acid–base_properties"><span class="tocnumber">5</span> <span class="toctext">Acid–base properties</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Monomeric_oxyanions">Monomeric oxyanions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxyanion&amp;action=edit&amp;section=1" title="Edit section: Monomeric oxyanions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The formula of <a class="mw-redirect" href="/wiki/Monomeric" title="Monomeric">monomeric</a> oxyanions, <span class="chemf nowrap">AO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>m</i>−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>n</i></sub></span></span>, is dictated by the <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a> of the element A and its position in the <a href="/wiki/Periodic_table" title="Periodic table">periodic table</a>. Elements of the first row are limited to a maximum coordination number of 4. However, none of the first row elements has a monomeric oxyanion with that coordination number. Instead, <a href="/wiki/Carbonate" title="Carbonate">carbonate</a> (<span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>) and <a href="/wiki/Nitrate" title="Nitrate">nitrate</a> (<span class="chemf nowrap">NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>) have a <a class="mw-redirect" href="/wiki/Trigonal_planar" title="Trigonal planar">trigonal planar</a> structure with <a class="mw-redirect" href="/wiki/%CE%A0_bond" title="Π bond">π bonding</a> between the central atom and the oxygen atoms. This π bonding is favoured by the similarity in size of the central atom and oxygen.
+</p><p>The oxyanions of second-row elements in the <a href="/wiki/Group_(periodic_table)" title="Group (periodic table)">group</a> oxidation state are <a href="/wiki/Tetrahedral_molecular_geometry" title="Tetrahedral molecular geometry">tetrahedral</a>. Tetrahedral SiO<sub>4</sub> units are found in <a href="/wiki/Olivine" title="Olivine">olivine</a> minerals, [Mg,Fe]SiO<sub>4</sub>, but the anion does not have a separate existence as the oxygen atoms are surrounded tetrahedrally by cations in the solid state. <a href="/wiki/Phosphate" title="Phosphate">Phosphate</a> (<span class="chemf nowrap">PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a href="/wiki/Sulfate" title="Sulfate">sulfate</a> (<span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), and <a href="/wiki/Perchlorate" title="Perchlorate">perchlorate</a> (<span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>) ions can be found as such in various salts. Many oxyanions of elements in lower oxidation state obey the <a href="/wiki/Octet_rule" title="Octet rule">octet rule</a> and this can be used to rationalize the formulae adopted. For example, chlorine(V) has two valence electrons so it can accommodate three electron pairs from bonds with oxide ions. The charge on the ion is +5 − 3 × 2 = −1, and so the formula is <span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>. The structure of the ion is predicted by <a class="mw-redirect" href="/wiki/VSEPR" title="VSEPR">VSEPR</a> theory to be pyramidal, with three bonding electron pairs and one lone pair. In a similar way,
+the oxyanion of chlorine(III) has the formula <span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>, and is bent with two lone pairs and two bonding pairs.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Oxidation state
+</th>
+<th>Name
+</th>
+<th>Formula
+</th>
+<th>Image
+</th></tr>
+<tr>
+<td align="center">+1
+</td>
+<td>The <a href="/wiki/Hypochlorite" title="Hypochlorite">hypochlorite</a> ion
+</td>
+<td>ClO<sup>−</sup>
+</td>
+<td><a class="image" href="/wiki/File:Hypochlorite-ion-3D-vdW.png"><img alt="Hypochlorite-ion-3D-vdW.png" data-file-height="840" data-file-width="1100" height="53" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hypochlorite-ion-3D-vdW.png/70px-Hypochlorite-ion-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hypochlorite-ion-3D-vdW.png/105px-Hypochlorite-ion-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hypochlorite-ion-3D-vdW.png/140px-Hypochlorite-ion-3D-vdW.png 2x" width="70"/></a>
+</td></tr>
+<tr>
+<td align="center">+3
+</td>
+<td>The <a href="/wiki/Chlorite" title="Chlorite">chlorite</a> ion
+</td>
+<td><span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>
+</td>
+<td><a class="image" href="/wiki/File:Chlorite-ion-3D-vdW.png"><img alt="Chlorite-ion-3D-vdW.png" data-file-height="914" data-file-width="1100" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chlorite-ion-3D-vdW.png/70px-Chlorite-ion-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chlorite-ion-3D-vdW.png/105px-Chlorite-ion-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chlorite-ion-3D-vdW.png/140px-Chlorite-ion-3D-vdW.png 2x" width="70"/></a>
+</td></tr>
+<tr>
+<td align="center">+5
+</td>
+<td>The <a href="/wiki/Chlorate" title="Chlorate">chlorate</a> ion
+</td>
+<td><span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>
+</td>
+<td><a class="image" href="/wiki/File:Chlorate-ion-3D-vdW.png"><img alt="Chlorate-ion-3D-vdW.png" data-file-height="1100" data-file-width="1094" height="70" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Chlorate-ion-3D-vdW.png/70px-Chlorate-ion-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Chlorate-ion-3D-vdW.png/105px-Chlorate-ion-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Chlorate-ion-3D-vdW.png/140px-Chlorate-ion-3D-vdW.png 2x" width="70"/></a>
+</td></tr>
+<tr>
+<td align="center">+7
+</td>
+<td>The <a href="/wiki/Perchlorate" title="Perchlorate">perchlorate</a> ion
+</td>
+<td><span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>
+</td>
+<td><a class="image" href="/wiki/File:Perchlorate-ion-3D-vdW.png"><img alt="Perchlorate-ion-3D-vdW.png" data-file-height="1100" data-file-width="1089" height="71" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Perchlorate-ion-3D-vdW.png/70px-Perchlorate-ion-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Perchlorate-ion-3D-vdW.png/105px-Perchlorate-ion-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Perchlorate-ion-3D-vdW.png/140px-Perchlorate-ion-3D-vdW.png 2x" width="70"/></a>
+</td></tr></tbody></table>
+<p>In the third and subsequent rows of the periodic table, 6-coordination is possible, but isolated octahedral oxyanions are not known because they would carry too high an electrical charge. Thus molybdenum(VI) does not form <span class="chemf nowrap">MoO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">6−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span>, but forms the tetrahedral <a href="/wiki/Molybdate" title="Molybdate">molybdate</a> anion, <span class="chemf nowrap">MoO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>. MoO<sub>6</sub> units are found in condensed molybdates. Fully protonated oxyanions with an octahedral structure are found in such species as <span class="chemf nowrap">Sn(OH)<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span> and <span class="chemf nowrap">Sb(OH)<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span>.
+</p>
+<h3><span class="mw-headline" id="Naming">Naming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxyanion&amp;action=edit&amp;section=2" title="Edit section: Naming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The naming of monomeric oxyanions follows the following rules.
+</p>
+<dl><dt>If central atom is not in Group VII</dt>
+<dd></dd></dl>
+<table class="wikitable">
+<tbody><tr>
+<th>Central atom oxidation number</th>
+<th>Naming scheme</th>
+<th>Examples
+</th></tr>
+<tr>
+<td>= Group number</td>
+<td><b>*-ate</b></td>
+<td><a href="/wiki/Borate" title="Borate">Borate</a> (<span class="chemf nowrap">BO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>), <a href="/wiki/Carbonate" title="Carbonate">Carbonate</a> (<span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>), <a href="/wiki/Nitrate" title="Nitrate">Nitrate</a> (<span class="chemf nowrap">NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>), <a href="/wiki/Phosphate" title="Phosphate">Phosphate</a> (<span class="chemf nowrap">PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a href="/wiki/Sulfate" title="Sulfate">Sulfate</a> (<span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a class="mw-redirect" href="/wiki/Chromate" title="Chromate">Chromate</a> (<span class="chemf nowrap">CrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a href="/wiki/Arsenate" title="Arsenate">Arsenate</a> (<span class="chemf nowrap">AsO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a class="mw-redirect" href="/wiki/Ferrate" title="Ferrate">Ferrate</a> (<span class="chemf nowrap">FeO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>)
+</td></tr>
+<tr>
+<td>= Group number − 2</td>
+<td><b>*-ite</b></td>
+<td><a href="/wiki/Nitrite" title="Nitrite">Nitrite</a> (<span class="chemf nowrap">NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>), <a href="/wiki/Phosphite_anion" title="Phosphite anion">Phosphite</a> (<span class="chemf nowrap">PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>), <a href="/wiki/Sulfite" title="Sulfite">Sulfite</a> (<span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>), <a href="/wiki/Arsenite" title="Arsenite">Arsenite</a> (<span class="chemf nowrap">AsO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>)
+</td></tr>
+<tr>
+<td>= Group number − 4</td>
+<td><b>hypo-*-ite</b></td>
+<td><a class="mw-redirect" href="/wiki/Hypophosphite" title="Hypophosphite">Hypophosphite</a> (<span class="chemf nowrap">PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>), <a href="/wiki/Hyposulfite" title="Hyposulfite">Hyposulfite</a> (<span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>)
+</td></tr></tbody></table>
+<dl><dt>If central atom is in Group VII</dt>
+<dd></dd></dl>
+<table class="wikitable">
+<tbody><tr>
+<th>Central atom oxidation number</th>
+<th>Naming scheme</th>
+<th>Examples
+</th></tr>
+<tr>
+<td>= Group number</td>
+<td><b>per-*-ate</b></td>
+<td><a href="/wiki/Perchlorate" title="Perchlorate">Perchlorate</a> (<span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a href="/wiki/Perbromate" title="Perbromate">Perbromate</a> (<span class="chemf nowrap">BrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a href="/wiki/Periodate" title="Periodate">Periodate</a> (<span class="chemf nowrap">IO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a href="/wiki/Permanganate" title="Permanganate">Permanganate</a> (<span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>)
+</td></tr>
+<tr>
+<td>= Group number − 2</td>
+<td><b>*-ate</b></td>
+<td><a href="/wiki/Chlorate" title="Chlorate">Chlorate</a> (<span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>), <a href="/wiki/Bromate" title="Bromate">Bromate</a> (<span class="chemf nowrap">BrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>), <a href="/wiki/Iodate" title="Iodate">Iodate</a> (<span class="chemf nowrap">IO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>)
+</td></tr>
+<tr>
+<td>= Group number − 4</td>
+<td><b>*-ite</b></td>
+<td><a href="/wiki/Chlorite" title="Chlorite">Chlorite</a> (<span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>), <a class="mw-redirect" href="/wiki/Bromite" title="Bromite">Bromite</a> (<span class="chemf nowrap">BrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>)
+</td></tr>
+<tr>
+<td>= Group number − 6</td>
+<td><b>hypo-*-ite</b></td>
+<td><a href="/wiki/Hypochlorite" title="Hypochlorite">Hypochlorite</a> (ClO<sup>−</sup>), <a href="/wiki/Hypobromite" title="Hypobromite">Hypobromite</a> (BrO<sup>−</sup>)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Condensation_reactions">Condensation reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxyanion&amp;action=edit&amp;section=3" title="Edit section: Condensation reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Dichromate-3D-balls.png"><img alt="" class="thumbimage" data-file-height="687" data-file-width="1100" height="94" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dichromate-3D-balls.png/150px-Dichromate-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dichromate-3D-balls.png/225px-Dichromate-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Dichromate-3D-balls.png/300px-Dichromate-3D-balls.png 2x" width="150"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Dichromate-3D-balls.png" title="Enlarge"></a></div>The dichromate ion; two tetrahedra share one corner</div></div></div>
+<p>In aqueous solution, oxyanions with high charge can undergo condensation reactions, such as in the formation of the <a class="mw-redirect" href="/wiki/Dichromate" title="Dichromate">dichromate</a> ion, <span class="chemf nowrap">Cr<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span>:
+</p>
+<dl><dd>2 <span class="chemf nowrap">CrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + 2 H<sup>+</sup> ⇌ <span class="chemf nowrap">Cr<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span> + H<sub>2</sub>O</dd></dl>
+<p>The driving force for this reaction is the reduction of electrical charge density on the anion and the elimination of the <a href="/wiki/Hydronium" title="Hydronium">H<sup>+</sup> ion</a>. The amount of order in the solution is decreased, releasing a certain amount of <a href="/wiki/Entropy_(order_and_disorder)" title="Entropy (order and disorder)">entropy</a> which makes the <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a> more negative and favors the forward reaction. It is an example of an <a href="/wiki/Acid%E2%80%93base_reaction" title="Acid–base reaction">acid–base reaction</a> with the monomeric oxyanion acting as a base and the condensed oxyanion acting as its <a href="/wiki/Conjugate_acid" title="Conjugate acid">conjugate acid</a>. The reverse reaction is a <a href="/wiki/Hydrolysis" title="Hydrolysis">hydrolysis</a> reaction, as a <a class="mw-redirect" href="/wiki/Water_molecule" title="Water molecule">water molecule</a>, acting as a base, is split. Further condensation may occur, particularly with anions of higher charge, as occurs with adenosine phosphates.
+</p>
+<table>
+<tbody><tr>
+<td><a class="image" href="/wiki/File:AMP_structure.svg"><img alt="AMP structure.svg" data-file-height="727" data-file-width="863" height="168" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/AMP_structure.svg/200px-AMP_structure.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/AMP_structure.svg/300px-AMP_structure.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/AMP_structure.svg/400px-AMP_structure.svg.png 2x" width="200"/></a>
+</td>
+<td><a class="image" href="/wiki/File:Adenosindiphosphat_protoniert.svg"><img alt="Adenosindiphosphat protoniert.svg" data-file-height="253" data-file-width="434" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Adenosindiphosphat_protoniert.svg/258px-Adenosindiphosphat_protoniert.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Adenosindiphosphat_protoniert.svg/386px-Adenosindiphosphat_protoniert.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Adenosindiphosphat_protoniert.svg/515px-Adenosindiphosphat_protoniert.svg.png 2x" width="258"/></a>
+</td>
+<td><a class="image" href="/wiki/File:ATP_structure.svg"><img alt="ATP structure.svg" data-file-height="722" data-file-width="1236" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/ATP_structure.svg/257px-ATP_structure.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/ATP_structure.svg/386px-ATP_structure.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/ATP_structure.svg/514px-ATP_structure.svg.png 2x" width="257"/></a>
+</td></tr>
+<tr>
+<td align="center">AMP
+</td>
+<td align="center">ADP
+</td>
+<td align="center">ATP
+</td></tr></tbody></table>
+<p>The conversion of ATP to ADP is an hydrolysis reaction and is an important source of energy in biological systems.
+</p><p>The formation of most <a href="/wiki/Silicate" title="Silicate">silicate</a> minerals can be viewed as the result of a de-condensation reaction in which <a class="mw-redirect" href="/wiki/Silica" title="Silica">silica</a> reacts with a basic oxide, an acid-base reaction in the <a class="mw-redirect" href="/wiki/Acid-base_reaction#Lux–Flood_definition" title="Acid-base reaction">Lux–Flood</a> sense.
+</p>
+<dl><dd>CaO (base) + SiO<sub>2</sub> (acid) → CaSiO<sub>3</sub></dd></dl>
+<h2><span class="mw-headline" id="Structures_and_formulae_of_polyoxyanions">Structures and formulae of polyoxyanions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxyanion&amp;action=edit&amp;section=4" title="Edit section: Structures and formulae of polyoxyanions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Polyoxometalate" title="Polyoxometalate">Polyoxometalate</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Ammonium-metavanadate-chains-3D.png"><img alt="" class="thumbimage" data-file-height="1000" data-file-width="676" height="296" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ammonium-metavanadate-chains-3D.png/200px-Ammonium-metavanadate-chains-3D.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ammonium-metavanadate-chains-3D.png/300px-Ammonium-metavanadate-chains-3D.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ammonium-metavanadate-chains-3D.png/400px-Ammonium-metavanadate-chains-3D.png 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Ammonium-metavanadate-chains-3D.png" title="Enlarge"></a></div>Metavanadate chains in ammonium metavanadate</div></div></div>
+<p>A <b>polyoxyanion</b> is a <a href="/wiki/Polymer" title="Polymer">polymeric</a> oxyanion in which multiple oxyanion monomers, usually regarded as MO<sub><i>n</i></sub> polyhedra, are joined by sharing corners or edges.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> When two corners of a polyhedron are shared the resulting structure may be a chain or a ring. Short chains occur, for example, in <a href="/wiki/Polyphosphate" title="Polyphosphate">polyphosphates</a>. Inosilicates, such as <a href="/wiki/Pyroxene" title="Pyroxene">pyroxenes</a>, have a long chain of SiO<sub>4</sub> tetrahedra each sharing two corners. The same structure occurs in so-called meta-vanadates, such as <a href="/wiki/Ammonium_metavanadate" title="Ammonium metavanadate">ammonium metavanadate</a>, NH<sub>4</sub>VO<sub>3</sub>.
+</p><p>The formula of the oxyanion <span class="chemf nowrap">SiO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> is obtained as follows: each nominal silicon ion (Si<sup>4+</sup>) is attached to two nominal oxide ions (O<sup>2−</sup>) and has a half share in two others. Thus the stoichiometry and charge are given by:
+</p>
+<dl><dd>Stoichiometry: Si + 2 O + (2 × ​<span class="frac nowrap"><sup>1</sup>⁄<sub>2</sub></span>) O = SiO<sub>3</sub></dd>
+<dd>Charge: +4 + (2 × −2) + (2 × (​<span class="frac nowrap"><sup>1</sup>⁄<sub>2</sub></span> × −2)) = −2.</dd></dl>
+<p>A ring can be viewed as a chain in which the two ends have been joined. Cyclic <a href="/wiki/Phosphoric_acids_and_phosphates" title="Phosphoric acids and phosphates">triphosphate</a>, <span class="chemf nowrap">P<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">9</sub></span></span> is an example.
+</p><p>When three corners are shared the structure extends into two dimensions. In <a href="/wiki/Amphibole" title="Amphibole">amphiboles</a>, (of which  <a href="/wiki/Asbestos" title="Asbestos">asbestos</a> is an example) two chains are linked together by sharing of a third corner on alternate places along the chain. This results in an ideal formula <span class="chemf nowrap">Si<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">6−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">11</sub></span></span> and a linear chain structure which explains the fibrous nature of these minerals. Sharing of all three corners can result in a sheet structure, as in <a href="/wiki/Mica" title="Mica">mica</a>, <span class="chemf nowrap">Si<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span></span>, in which each silicon has one oxygen to itself and a half-share in three others. Crystalline mica can be cleaved into very thin sheets.
+</p><p>The sharing of all four corners of the tetrahedra results in a 3-dimensional structure, such as in <a href="/wiki/Quartz" title="Quartz">quartz</a>. <a href="/wiki/Aluminosilicate" title="Aluminosilicate">Aluminosilicates</a> are minerals in which some silicon is replaced by aluminium. However, the oxidation state of aluminium is one less than that of silicon, so the replacement must be accompanied by the addition of another cation. The number of possible combinations of such a structure is very large, which is, in part, the reason why there are so many aluminosilicates.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Decavanadate_polyhedra.png"><img alt="" class="thumbimage" data-file-height="1520" data-file-width="1929" height="173" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Decavanadate_polyhedra.png/220px-Decavanadate_polyhedra.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Decavanadate_polyhedra.png/330px-Decavanadate_polyhedra.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Decavanadate_polyhedra.png/440px-Decavanadate_polyhedra.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Decavanadate_polyhedra.png" title="Enlarge"></a></div>Decavanadate ion, <span class="chemf nowrap">V<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">10</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">4−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">28</sub></span></span></div></div></div>
+<p>Octahedral MO<sub>6</sub> units are common in oxyanions of the larger transition metals. Some compounds, such as salts of the chain-polymeric ion, <span class="chemf nowrap">Mo<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span> even contain both tetrahedral and octahedral units.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-Wells_4-0"><a href="#cite_note-Wells-4">[4]</a></sup> Edge-sharing is common in ions containing octahedral building blocks and the octahedra are usually distorted to reduce the strain at the bridging oxygen atoms. This results in 3-dimensional structures called <a href="/wiki/Polyoxometalate" title="Polyoxometalate">polyoxometalates</a>. Typical examples occur in the <a href="/wiki/Keggin_structure" title="Keggin structure">Keggin structure</a> of the <a href="/wiki/Phosphomolybdic_acid" title="Phosphomolybdic acid">phosphomolybdate</a> ion. Edge sharing is an effective means of reducing electrical charge density, as can be seen with the hypothetical condensation reaction involving two octahedra:
+</p>
+<dl><dd>2 <span class="chemf nowrap">MO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"><i>n</i>−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span> + 4 H<sup>+</sup> → <span class="chemf nowrap">Mo<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">(<i>n</i>−4)−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">10</sub></span></span> + 2 H<sub>2</sub>O</dd></dl>
+<p>Here, the average charge on each M atom is reduced by 2. The efficacy of edge-sharing is demonstrated by the following reaction, which occurs when an alkaline aqueous solution of molybdate is acidified.
+</p>
+<dl><dd>7 <span class="chemf nowrap">MoO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + 8 H<sup>+</sup> ⇌ <span class="chemf nowrap">Mo<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">6−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">24</sub></span></span> + 4 H<sub>2</sub>O</dd></dl>
+<p>The tetrahedral molybdate ion is converted into a cluster of 7 edge-linked octahedra<sup class="reference" id="cite_ref-Wells_4-1"><a href="#cite_note-Wells-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> giving an average charge on each molybdenum of ​<span class="frac nowrap"><sup>6</sup>⁄<sub>7</sub></span>. The heptamolybdate cluster is so stable that clusters with between 2 and 6 molybdate units have not been detected even though they must be formed as intermediates.
+</p>
+<h2><span class="mw-headline" id="Heuristic_for_acidity">Heuristic for acidity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxyanion&amp;action=edit&amp;section=5" title="Edit section: Heuristic for acidity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The pKa of the related acids can be guessed from the number of double bonds to oxygen. Thus perchloric acid is a very strong acid while hypochlorous acid is very weak. A simple rule usually works to within about 1 pH unit.
+</p>
+<h2><span id="Acid.E2.80.93base_properties"></span><span class="mw-headline" id="Acid–base_properties">Acid–base properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxyanion&amp;action=edit&amp;section=6" title="Edit section: Acid–base properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most oxyanions are weak <a href="/wiki/Base_(chemistry)" title="Base (chemistry)">bases</a> and can be protonated to give acids or acid salts. For example, the phosphate ion can be successively protonated to form phosphoric acid.
+</p>
+<dl><dd><span class="chemf nowrap">PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + H<sup>+</sup> ⇌ <span class="chemf nowrap">HPO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></dd>
+<dd><span class="chemf nowrap">HPO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + H<sup>+</sup> ⇌ <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></dd>
+<dd><span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>+ H<sup>+</sup> ⇌ H<sub>3</sub>PO<sub>4</sub></dd></dl>
+<div class="thumb tleft"><div class="thumbinner" style="width:102px;"><a class="image" href="/wiki/File:Phosphite-ion-from-xtal-3D-balls.png"><img alt="" class="thumbimage" data-file-height="1100" data-file-width="1074" height="102" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Phosphite-ion-from-xtal-3D-balls.png/100px-Phosphite-ion-from-xtal-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Phosphite-ion-from-xtal-3D-balls.png/150px-Phosphite-ion-from-xtal-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Phosphite-ion-from-xtal-3D-balls.png/200px-Phosphite-ion-from-xtal-3D-balls.png 2x" width="100"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Phosphite-ion-from-xtal-3D-balls.png" title="Enlarge"></a></div><span class="chemf nowrap">HPO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>(phosphite ion) structure</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:102px;"><a class="image" href="/wiki/File:Sulfuric-acid-3D-vdW.png"><img alt="" class="thumbimage" data-file-height="944" data-file-width="1100" height="86" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sulfuric-acid-3D-vdW.png/100px-Sulfuric-acid-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sulfuric-acid-3D-vdW.png/150px-Sulfuric-acid-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sulfuric-acid-3D-vdW.png/200px-Sulfuric-acid-3D-vdW.png 2x" width="100"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Sulfuric-acid-3D-vdW.png" title="Enlarge"></a></div>Sulfuric acid molecule</div></div></div>
+<p>The extent of protonation in aqueous solution will depend on the <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">acid dissociation constants</a> and <a href="/wiki/PH" title="PH">pH</a>. For example, AMP (adenosine monophosphate) has a p<i>K</i><sub>a</sub> value of 6.21,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> so at pH 7 it will be about 10% protonated. Charge neutralization is an important factor in these protonation reactions. By contrast, the univalent anions <a href="/wiki/Perchlorate" title="Perchlorate">perchlorate</a> and <a href="/wiki/Permanganate" title="Permanganate">permanganate</a> ions are very difficult to protonate and so the corresponding acids are <a class="mw-redirect" href="/wiki/Strong_acids" title="Strong acids">strong acids</a>.
+</p><p>Although acids such as phosphoric acid are written as H<sub>3</sub>PO<sub>4</sub>, the protons are attached to oxygen atoms forming hydroxyl groups, so the formula can also be written as <span class="nowrap">OP(OH)<sub>3</sub></span> to better reflect the structure. Sulfuric acid may be written as <span class="nowrap">O<sub>2</sub>S(OH)<sub>2</sub></span>; this is the molecule observed in the gas phase.
+</p><p>The <a class="mw-redirect" href="/wiki/Phosphite" title="Phosphite">phosphite</a> ion, <span class="chemf nowrap">PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>, is a <a class="mw-redirect" href="/wiki/Strong_base" title="Strong base">strong base</a>, and so always carries at least one proton. In this case the proton is attached directly to the phosphorus atom with the structure <span class="chemf nowrap">HPO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>. In forming this ion, the phosphite ion is behaving as a <a class="mw-redirect" href="/wiki/Lewis_base" title="Lewis base">Lewis base</a> and donating a pair of electrons to the Lewis acid, H<sup>+</sup>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Predominance_diagram_Cr.png"><img alt="" class="thumbimage" data-file-height="426" data-file-width="449" height="237" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Predominance_diagram_Cr.png/250px-Predominance_diagram_Cr.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Predominance_diagram_Cr.png/375px-Predominance_diagram_Cr.png 1.5x, //upload.wikimedia.org/wikipedia/commons/3/3f/Predominance_diagram_Cr.png 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Predominance_diagram_Cr.png" title="Enlarge"></a></div>Predominance diagram for chromate</div></div></div>
+<p>As mentioned above, a condensation reaction is also an acid-base reaction. In many systems, both protonation and condensation reactions can occur. The case of the chromate ion provides a relatively simple example. In the <a href="/wiki/Predominance_diagram" title="Predominance diagram">predominance diagram</a> for chromate, shown at the right, pCr stands for the negative <a href="/wiki/Logarithm" title="Logarithm">logarithm</a> of the chromium concentration and <a href="/wiki/PH" title="PH">pH</a> stands for the negative logarithm of H<sup>+</sup> ion concentration. There are two independent equilibria. <a class="mw-redirect" href="/wiki/Equilibrium_constants" title="Equilibrium constants">Equilibrium constants</a> are defined as follows.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<dl><dd><table>
+<tbody><tr>
+<td><span class="chemf nowrap">CrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> + H<sup>+</sup> ⇌ <span class="chemf nowrap">HCrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>
+</td>
+<td><span class="nowrap">        </span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{1}={\frac {[\mathrm {HCrO_{4}^{-}} ]}{[\mathrm {CrO_{4}^{2+}} ][\mathrm {H^{+}} ]}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+<mi mathvariant="normal">C</mi>
+<mi mathvariant="normal">r</mi>
+<msubsup>
+<mi mathvariant="normal">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+<mi mathvariant="normal">r</mi>
+<msubsup>
+<mi mathvariant="normal">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>+</mo>
+</mrow>
+</msubsup>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi mathvariant="normal">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{1}={\frac {[\mathrm {HCrO_{4}^{-}} ]}{[\mathrm {CrO_{4}^{2+}} ][\mathrm {H^{+}} ]}}}</annotation>
+</semantics>
+</math></span><img alt="K_{1}={\frac  {[{\mathrm  {HCrO_{4}^{-}}}]}{[{\mathrm  {CrO_{4}^{{2+}}}}][{\mathrm  {H^{+}}}]}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba5183a196a004435f83e9cce025b6260ee6b4ed" style="vertical-align: -3.005ex; width:19.534ex; height:7.176ex;"/></span>
+</td>
+<td><span class="nowrap">        </span>log <i>K</i><sub>1</sub> = 5.89
+</td></tr>
+<tr>
+<td>2 <span class="chemf nowrap">HCrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> ⇌ <span class="chemf nowrap">Cr<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span> + H<sub>2</sub>O
+</td>
+<td><span class="nowrap">        </span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{2}={\frac {[\mathrm {Cr_{2}O_{7}^{2-}} ]}{[\mathrm {HCrO_{4}^{-}} ]^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+<msub>
+<mi mathvariant="normal">r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msubsup>
+<mi mathvariant="normal">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>7</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+<mi mathvariant="normal">C</mi>
+<mi mathvariant="normal">r</mi>
+<msubsup>
+<mi mathvariant="normal">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{2}={\frac {[\mathrm {Cr_{2}O_{7}^{2-}} ]}{[\mathrm {HCrO_{4}^{-}} ]^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="K_{2}={\frac  {[{\mathrm  {Cr_{2}O_{7}^{{2-}}}}]}{[{\mathrm  {HCrO_{4}^{-}}}]^{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8247e0ecc828c99522eb74cce96893d4a0ca1f60" style="vertical-align: -3.005ex; width:16.962ex; height:7.343ex;"/></span>
+</td>
+<td><span class="nowrap">        </span>log <i>K</i><sub>2</sub> = 2.05
+</td></tr></tbody></table></dd></dl>
+<p>The predominance diagram is interpreted as follows. 
+</p>
+<ul><li>The chromate ion, <span class="chemf nowrap">CrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>, is the predominant species at high pH.  As pH rises the chromate ion becomes ever more predominant, until it is the only species in solutions with pH &gt; 6.75.</li>
+<li>At pH &lt; p<i>K</i><sub>1</sub> the hydrogen chromate ion, <span class="chemf nowrap">HCrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> is predominant in dilute solution.</li>
+<li>The dichromate ion, <span class="chemf nowrap">Cr<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span>, is predominant in more concentrated solutions, except at high pH.</li></ul>
+<p>The species H<sub>2</sub>CrO<sub>4</sub> and <span class="chemf nowrap">HCr<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span> are not shown as they are formed only at very low pH.  
+</p><p>Predominance diagrams can become very complicated when many polymeric species can be formed,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> such as in <a href="/wiki/Vanadate" title="Vanadate">vanadates</a>, <a href="/wiki/Molybdate" title="Molybdate">molybdates</a>, and <a href="/wiki/Tungstate" title="Tungstate">tungstates</a>. Another complication is that many of the higher polymers are formed extremely slowly, such that equilibrium may not be attained even in months, leading to possible errors in the equilibrium constants and the predominance diagram.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oxyanion&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1339
+Cached time: 20181024214234
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.468 seconds
+Real time usage: 0.553 seconds
+Preprocessor visited node count: 13175/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 329230/2097152 bytes
+Template argument size: 31906/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21116/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.164/10.000 seconds
+Lua memory usage: 3.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  412.762      1 -total
+ 55.84%  230.494     68 Template:Chem
+ 53.62%  221.328     68 Template:Chem/link
+ 44.89%  185.277    236 Template:Chem/atom
+ 34.54%  142.583      1 Template:Reflist
+ 25.74%  106.253     83 Template:Su
+ 18.11%   74.752      4 Template:Cite_book
+ 16.06%   66.274      1 Template:Greenwood&amp;Earnshaw
+ 11.04%   45.584      4 Template:Cite_journal
+  2.74%   11.294      1 Template:See_also
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:372895-0!canonical!math=5 and timestamp 20181024214233 and revision id 865591451
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Oxyanion&amp;oldid=865591451">https://en.wikipedia.org/w/index.php?title=Oxyanion&amp;oldid=865591451</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Oxoanions" title="Category:Oxoanions">Oxoanions</a></li><li><a href="/wiki/Category:Acid%E2%80%93base_chemistry" title="Category:Acid–base chemistry">Acid–base chemistry</a></li><li><a href="/wiki/Category:Equilibrium_chemistry" title="Category:Equilibrium chemistry">Equilibrium chemistry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Oxyanion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Oxyanion" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Oxyanion" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Oxyanion" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Oxyanion">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Oxyanion&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Oxyanion&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Oxyanion" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Oxyanion" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Oxyanion&amp;oldid=865591451" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Oxyanion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3269344" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Oxyanion&amp;id=865591451" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Oxyanion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Oxyanion&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Oxyanion&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Oxoanions" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%BE%D0%B0%D0%BD%D0%B8%D0%BE%D0%BD" hreflang="bg" lang="bg" title="Оксоанион – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Oxoani%C3%B3" hreflang="ca" lang="ca" title="Oxoanió – Catalan">Català</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Oxoani%C3%B3n" hreflang="es" lang="es" title="Oxoanión – Spanish">Español</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%91%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%8B-%E0%A4%90%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%A8" hreflang="hi" lang="hi" title="ऑक्सो-ऐनायन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Ossoanione" hreflang="it" lang="it" title="Ossoanione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Oxoanion" hreflang="hu" lang="hu" title="Oxoanion – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Oxoanion" hreflang="nl" lang="nl" title="Oxoanion – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AD%E3%82%BD%E3%82%A2%E3%83%8B%E3%82%AA%E3%83%B3" hreflang="ja" lang="ja" title="オキソアニオン – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Oxi%C3%A2nion" hreflang="pt" lang="pt" title="Oxiânion – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Oxoani%C3%B3n" hreflang="sk" lang="sk" title="Oxoanión – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Oksoanjon" hreflang="sr" lang="sr" title="Oksoanjon – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Oksoanjon" hreflang="sh" lang="sh" title="Oksoanjon – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3269344#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 October 2018, at 21:42<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Oxyanion&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.468","walltime":"0.553","ppvisitednodes":{"value":13175,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":329230,"limit":2097152},"templateargumentsize":{"value":31906,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21116,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  412.762      1 -total"," 55.84%  230.494     68 Template:Chem"," 53.62%  221.328     68 Template:Chem/link"," 44.89%  185.277    236 Template:Chem/atom"," 34.54%  142.583      1 Template:Reflist"," 25.74%  106.253     83 Template:Su"," 18.11%   74.752      4 Template:Cite_book"," 16.06%   66.274      1 Template:Greenwood\u0026amp;Earnshaw"," 11.04%   45.584      4 Template:Cite_journal","  2.74%   11.294      1 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.164","limit":"10.000"},"limitreport-memusage":{"value":3180435,"limit":52428800}},"cachereport":{"origin":"mw1339","timestamp":"20181024214234","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1239"});});</script>
+</body>
+</html>

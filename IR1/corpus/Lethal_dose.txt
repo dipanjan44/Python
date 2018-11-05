@@ -1,0 +1,327 @@
+https://en.wikipedia.org/wiki/Lethal_dose
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Lethal dose - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lethal_dose","wgTitle":"Lethal dose","wgCurRevisionId":864833345,"wgRevisionId":864833345,"wgArticleId":575776,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: Archived copy as title","Wikipedia articles needing page number citations from January 2014","All articles with unsourced statements","Articles with unsourced statements from April 2018","Articles with unsourced statements from June 2017","Articles with unsourced statements from April 2016","Medical emergencies","Toxicology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lethal_dose","wgRelevantArticleId":575776,"wgRequestId":"W9YQxgpAMFgAAEwhDKUAAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q21136","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lethal_dose" rel="alternate"/>
+<link href="/w/index.php?title=Lethal_dose&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Lethal_dose&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Lethal_dose" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lethal_dose rootpage-Lethal_dose skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Lethal dose</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Toxicology" title="Toxicology">toxicology</a>, the <b>lethal dose</b> (<b>LD</b>) is an indication of the lethal <a href="/wiki/Toxicity" title="Toxicity">toxicity</a> of a given substance or type of <a href="/wiki/Radiation" title="Radiation">radiation</a>. Because resistance varies from one individual to another, the "lethal dose" represents a dose (usually recorded as dose per kilogram of subject body weight) at which a given <i>percentage</i> of subjects will die. The lethal concentration is a lethal dose measurement used for gases or particulates. The LD may be based on the <a href="/wiki/Standard_person" title="Standard person">standard person</a> concept, a theoretical individual that has perfectly "normal" characteristics, and thus not apply to all sub-populations.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Median_lethal_dose_(LD50)"><span class="tocnumber">1</span> <span class="toctext">Median lethal dose (LD<sub>50</sub>)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Median_infective_dose"><span class="tocnumber">1.1</span> <span class="toctext">Median infective dose</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Lowest_lethal_dose"><span class="tocnumber">2</span> <span class="toctext">Lowest lethal dose</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Median_lethal_concentration"><span class="tocnumber">3</span> <span class="toctext">Median lethal concentration</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Lowest_lethal_concentration"><span class="tocnumber">4</span> <span class="toctext">Lowest lethal concentration</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Limitations"><span class="tocnumber">5</span> <span class="toctext">Limitations</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Animal_rights_concerns"><span class="tocnumber">6</span> <span class="toctext">Animal rights concerns</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span id="Median_lethal_dose_.28LD50.29"></span><span class="mw-headline" id="Median_lethal_dose_(LD50)"><span id="LD50"></span>Median lethal dose (LD<sub>50</sub>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=1" title="Edit section: Median lethal dose (LD50)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Median_lethal_dose" title="Median lethal dose">Median lethal dose</a></div>
+<p>The median lethal dose, LD<sub>50</sub> (abbreviation for "lethal dose, 50%"), LC<sub>50</sub> (lethal concentration, 50%) or LCt<sub>50</sub> (lethal concentration and time) of a <a href="/wiki/Toxin" title="Toxin">toxin</a>, <a href="/wiki/Radiation" title="Radiation">radiation</a>, or <a href="/wiki/Pathogen" title="Pathogen">pathogen</a> is the <a class="mw-redirect" href="/wiki/Dose_(pharmacology)" title="Dose (pharmacology)">dose</a> required to kill half the members of a tested population after a specified test duration. LD<sub>50</sub> figures are frequently used as a general indicator of a substance's <a href="/wiki/Acute_toxicity" title="Acute toxicity">acute toxicity</a>.  A lower LD<sub>50</sub> is indicative of increased toxicity.
+</p><p>The test was created by J.W. Trevan in 1927.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The term "semilethal dose" is occasionally used with the same meaning, in particular in translations from non-English-language texts, but can also refer to a <i>sub</i>lethal dose; because of this ambiguity, it is usually avoided. LD<sub>50</sub> is usually determined by tests on animals such as <a class="mw-redirect" href="/wiki/Laboratory_mice" title="Laboratory mice">laboratory mice</a>. In 2011 the US <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> approved alternative methods to LD<sub>50</sub> for testing the cosmetic drug <a class="mw-redirect" href="/wiki/Botox" title="Botox">Botox</a> without animal tests.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>LD values for humans are best estimated by extrapolating results from human <a href="/wiki/Cell_culture" title="Cell culture">cell cultures</a>. One form of measuring LD is to use animals like mice or rats, converting to dosage per kilogram of biomass, and extrapolating to human norms. The degree of error from animal-extrapolated LD values is large. The biology of test animals differs in important aspects to that of humans. For instance, mouse tissue is approximately fifty times less responsive than human tissue to the venom of the <a href="/wiki/Sydney_funnel-web_spider" title="Sydney funnel-web spider">Sydney funnel-web spider</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2018)">citation needed</span></a></i>]</sup>. The <a class="mw-redirect" href="/wiki/Square-cube_law" title="Square-cube law">square-cube law</a> also complicates the scaling relationships involved. Researchers are shifting away from animal-based LD measurements in some instances.  The U.S. Food and Drug Administration has begun to approve more non-animal methods in response to animal welfare concerns.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>The LD<sub>50</sub> is usually expressed as the mass of substance administered per unit mass of test subject, typically as milli<a href="/wiki/Gram" title="Gram">grams</a> of substance per <a href="/wiki/Kilogram" title="Kilogram">kilogram</a> of body mass, but stated as nanograms (suitable for <a class="mw-redirect" href="/wiki/Botulinum" title="Botulinum">botulinum</a>), micrograms, milligrams, or grams (suitable for <a href="/wiki/Paracetamol" title="Paracetamol">paracetamol</a>) per kilogram. Stating it this way allows the relative toxicity of different substances to be compared, and normalizes for the variation in the size of the animals exposed, although toxicity does not always scale simply with body mass.
+</p><p>The choice of 50% lethality as a benchmark avoids the potential for ambiguity of making measurements in the extremes and reduces the amount of testing required. However, this also means that LD<sub>50</sub> is <i>not</i> the lethal dose for all subjects; some may be killed by much less, while others survive doses far higher than the LD<sub>50</sub>. Measures such as "LD<sub>1</sub>" and "LD<sub>99</sub>" (dosage required to kill 1% or 99%, respectively, of the test population) are occasionally used for specific purposes.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Lethal dosage often varies depending on the method of <a class="mw-redirect" href="/wiki/Drug_administration" title="Drug administration">administration</a>; for instance, many substances are less toxic when administered orally than when <a href="/wiki/Intravenous_therapy" title="Intravenous therapy">intravenously</a> administered. For this reason, LD<sub>50</sub> figures are often qualified with the mode of administration, e.g., "LD<sub>50</sub> i.v."
+</p><p>The related quantities LD<sub>50</sub>/30 or LD<sub>50</sub>/60 are used to refer to a dose that without treatment will be lethal to 50% of the population within (respectively) 30 or 60 days. These measures are used more commonly with <a href="/wiki/Radiation" title="Radiation">radiation</a>, as survival beyond 60 days usually results in recovery.
+</p>
+<h3><span class="mw-headline" id="Median_infective_dose">Median infective dose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=2" title="Edit section: Median infective dose">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The median infective dose (ID<sub>50</sub>) is the number of organisms received by a person or test animal qualified by the route of administration (e.g., 1,200 org/man per oral).  Because of the difficulties in counting actual organisms in a dose, infective doses may be expressed in terms of biological assay, such as the number of LD<sub>50</sub>'s to some test animal.  In <a href="/wiki/Biological_warfare" title="Biological warfare">biological warfare</a> infective dosage is the number of infective doses per minute for a cubic meter (e.g., ICt<sub>50</sub> is 100 medium doses - min/m<sup>3</sup>).)
+</p>
+<h2><span class="mw-headline" id="Lowest_lethal_dose"><span id="LDLo"></span>Lowest lethal dose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=3" title="Edit section: Lowest lethal dose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The lowest lethal dose (LD<sub>Lo</sub>) is the least amount of drug that can produce death in a given animal species under controlled conditions.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> The dosage is given per unit of bodyweight (typically stated in <a class="mw-redirect" href="/wiki/Milligram" title="Milligram">milligrams</a> per <a href="/wiki/Kilogram" title="Kilogram">kilogram</a>) of a substance known to have resulted in fatality in a particular species. When quoting an LD<sub>Lo</sub>, the particular species and method of administration (<i>e.g.</i> ingested, inhaled, <a class="mw-redirect" href="/wiki/Intravenous" title="Intravenous">intravenous</a>) are typically stated.
+</p>
+<h2><span class="mw-headline" id="Median_lethal_concentration"><span id="LC50"></span>Median lethal concentration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=4" title="Edit section: Median lethal concentration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For gases and aerosols, lethal concentration (given in mg/m<sup>3</sup> or ppm, parts per million) is the analogous concept, although this also depends on the duration of exposure, which has to be included in the definition. The term incipient lethal level is used to describe a LC<sub>50</sub> value that is independent of time.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>A comparable measurement is LCt<sub>50</sub>, which relates to lethal dosage from exposure, where C is concentration and t is time. It is often expressed in terms of mg-min/m<sup>3.</sup> LCt<span style="font-size:100%;"><sub>50</sub></span> is the dose that will cause incapacitation rather than death. These measures are commonly used to indicate the comparative efficacy of <a href="/wiki/Chemical_warfare" title="Chemical warfare">chemical warfare</a> agents, and dosages are typically qualified by rates of breathing (e.g., resting = 10 l/min) for inhalation, or degree of clothing for skin penetration.  The concept of Ct was first proposed by <a href="/wiki/Fritz_Haber" title="Fritz Haber">Fritz Haber</a> and is sometimes referred to as <a class="mw-redirect" href="/wiki/Haber%27s_Law" title="Haber's Law">Haber's Law</a>, which assumes that exposure to 1 minute of 100 mg/m<sup>3</sup> is equivalent to 10 minutes of 10 mg/m<sup>3</sup> (1 × 100 = 100, as does 10 × 10 = 100).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="A citation for what? There is a Wikipedia article about Haber''s law clearly linked to on the paragraph - please elaborate or remove this citation needed somebody, as I am not sure which to do. Thank you. date=April 2016 (June 2017)">citation needed</span></a></i>]</sup>
+</p><p>Some chemicals, such as <a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">hydrogen cyanide</a>, are rapidly detoxified by the human body, and do not follow Haber's Law.  So, in these cases, the lethal concentration may be given simply as <b>LC<sub>50</sub></b> and qualified by a duration of exposure (e.g., 10 minutes). The <a class="mw-redirect" href="/wiki/Material_Safety_Data_Sheet" title="Material Safety Data Sheet">Material Safety Data Sheets</a> for toxic substances frequently use this form of the term even if the substance does follow Haber's Law.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2016)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Lowest_lethal_concentration"><span id="LCLo"></span>Lowest lethal concentration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=5" title="Edit section: Lowest lethal concentration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The LC<sub>Lo</sub> is the lowest concentration of a chemical, given over a period of time, that results in the fatality of an individual animal. LC<sub>Lo</sub> is typically for an acute (&lt;24 hour) exposure.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> It is related to the LC<sub>50</sub>, the median lethal concentration. The LC<sub>Lo</sub> is used for gases and aerosolized material.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Limitations">Limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=6" title="Edit section: Limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a measure of toxicity, lethal dose is somewhat unreliable and results may vary greatly between testing facilities due to factors such as the genetic characteristics of the sample population, animal species tested, environmental factors and mode of administration.<sup class="reference" id="cite_ref-ReferenceA_11-0"><a href="#cite_note-ReferenceA-11">[11]</a></sup>
+</p><p>There can be wide variability between species as well; what is relatively safe for rats may very well be extremely toxic for humans (<i>cf.</i> <a class="mw-redirect" href="/wiki/Paracetamol_toxicity" title="Paracetamol toxicity">paracetamol toxicity</a>), and vice versa. For example, chocolate, comparatively harmless to humans, is known to be <a href="/wiki/Health_effects_of_chocolate#Potential_toxicity_in_animals" title="Health effects of chocolate">toxic to many animals</a>. When used to test <a href="/wiki/Venom" title="Venom">venom</a> from venomous creatures, such as <a class="mw-redirect" href="/wiki/Snakes" title="Snakes">snakes</a>, LD<sub>50</sub> results may be misleading due to the physiological differences between mice, rats, and humans. Many <a class="mw-redirect" href="/wiki/Venomous_snakes" title="Venomous snakes">venomous snakes</a> are specialized predators of mice, and their venom may be adapted specifically to incapacitate mice; and <a href="/wiki/Mongoose" title="Mongoose">mongooses</a> may be exceptionally resistant. While most <a class="mw-redirect" href="/wiki/Mammals" title="Mammals">mammals</a> have a very similar physiology, LD<sub>50</sub> results may or may not have equal bearing upon every mammal species, including humans.
+</p>
+<h2><span class="mw-headline" id="Animal_rights_concerns">Animal rights concerns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=7" title="Edit section: Animal rights concerns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Animal_rights" title="Animal rights">Animal-rights</a> and <a href="/wiki/Animal_welfare" title="Animal welfare">animal-welfare</a> groups, such as Animal Rights International,<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> have campaigned against LD<sub>50</sub> testing on animals in particular as, in the case of some substances, causing the animals to die slow, painful deaths. Several countries, including the <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a>, have taken steps to ban the oral LD<sub>50</sub>, and the <a class="mw-redirect" href="/wiki/Organisation_for_Economic_Co-operation_and_Development" title="Organisation for Economic Co-operation and Development">Organisation for Economic Co-operation and Development</a> (OECD) abolished the requirement for the oral test in 2001.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/IDLH" title="IDLH">IDLH</a></li>
+<li><a class="mw-redirect" href="/wiki/Certain_safety_factor" title="Certain safety factor">Certain safety factor</a></li>
+<li><a href="/wiki/Therapeutic_index" title="Therapeutic index">Therapeutic index</a></li>
+<li><a href="/wiki/Protective_index" title="Protective index">Protective index</a></li>
+<li><a class="mw-redirect" href="/wiki/Fixed_Dose_Procedure" title="Fixed Dose Procedure">Fixed Dose Procedure</a> to estimate LD<sub>50</sub></li>
+<li><a href="/wiki/Median_lethal_dose" title="Median lethal dose">Median lethal dose</a>, LD<sub>50</sub></li>
+<li><a href="/wiki/Median_toxic_dose" title="Median toxic dose">Median toxic dose</a> (TD<sub>50</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Lowest_published_toxic_concentration" title="Lowest published toxic concentration">Lowest published toxic concentration</a> (TCLo)</li>
+<li><a href="/wiki/EC50" title="EC50">EC<sub>50</sub></a> (half maximal effective concentration)</li>
+<li><a href="/wiki/IC50" title="IC50">IC<sub>50</sub></a> (half maximal inhibitory concentration)</li>
+<li><a href="/wiki/Draize_test" title="Draize test">Draize test</a></li>
+<li><a href="/wiki/Indicative_limit_value" title="Indicative limit value">Indicative limit value</a></li>
+<li><a href="/wiki/No-observed-adverse-effect_level" title="No-observed-adverse-effect level">No-observed-adverse-effect level</a> (NOAEL)</li>
+<li><a href="/wiki/Lowest-observed-adverse-effect_level" title="Lowest-observed-adverse-effect level">Lowest-observed-adverse-effect level</a> (LOAEL)</li>
+<li><a href="/wiki/Up-and-down_procedure" title="Up-and-down procedure">Up-and-down procedure</a></li>
+<li><a class="mw-redirect" href="/wiki/TCID50" title="TCID50">TCID<sub>50</sub></a> Tissue Culture Infective Dosage</li>
+<li>EID<sub>50</sub> Egg Infective Dosage</li>
+<li>ELD<sub>50</sub> Egg Lethal Dosage</li>
+<li><a class="mw-redirect" href="/wiki/Plaque_forming_units" title="Plaque forming units">Plaque forming units</a> (pfu)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lethal_dose&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<div aria-labelledby="Toxicology" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:Silver"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Toxicology" title="Template:Toxicology"><abbr style=";background:Silver;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Toxicology" title="Template talk:Toxicology"><abbr style=";background:Silver;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Toxicology&amp;action=edit"><abbr style=";background:Silver;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Toxicology" style="font-size:114%;margin:0 4em"><a href="/wiki/Toxicology" title="Toxicology">Toxicology</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background-color: LightGray"><div id="*_History_of_poison&amp;#10;*_Toxinology">
+<ul><li><a href="/wiki/History_of_poison" title="History of poison">History of poison</a></li>
+<li><a class="mw-redirect" href="/wiki/Toxinology" title="Toxinology">Toxinology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color: LightGray">Fields</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aquatic_toxicology" title="Aquatic toxicology">Aquatic toxicology</a></li>
+<li><a href="/wiki/Ecotoxicology" title="Ecotoxicology">Ecotoxicology</a></li>
+<li><a href="/wiki/Occupational_toxicology" title="Occupational toxicology">Occupational toxicology</a></li>
+<li><a href="/wiki/Entomotoxicology" title="Entomotoxicology">Entomotoxicology</a></li>
+<li><a href="/wiki/Environmental_toxicology" title="Environmental toxicology">Environmental toxicology</a></li>
+<li><a href="/wiki/Forensic_toxicology" title="Forensic toxicology">Forensic toxicology</a></li>
+<li><a href="/wiki/Medical_toxicology" title="Medical toxicology">Medical toxicology</a></li>
+<li><a href="/wiki/In_vitro_toxicology" title="In vitro toxicology">In vitro toxicology</a></li>
+<li><a href="/wiki/Toxicogenomics" title="Toxicogenomics">Toxicogenomics</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color: LightGray">Concepts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acceptable_daily_intake" title="Acceptable daily intake">Acceptable daily intake</a></li>
+<li><a href="/wiki/Acute_toxicity" title="Acute toxicity">Acute toxicity</a></li>
+<li><a href="/wiki/Bioaccumulation" title="Bioaccumulation">Bioaccumulation</a></li>
+<li><a href="/wiki/Biomagnification" title="Biomagnification">Biomagnification</a></li>
+<li><a href="/wiki/Fixed-dose_procedure" title="Fixed-dose procedure">Fixed-dose procedure</a></li>
+<li><a class="mw-selflink selflink">Lethal dose</a></li>
+<li><a href="/wiki/Poison" title="Poison">Poison</a></li>
+<li><a href="/wiki/Toxic_capacity" title="Toxic capacity">Toxic capacity</a></li>
+<li>Toxicant
+<ul><li><a href="/wiki/Toxin" title="Toxin">Toxin</a></li></ul></li>
+<li><a href="/wiki/Toxicity_class" title="Toxicity class">Toxicity class</a></li>
+<li><a href="/wiki/Venom" title="Venom">Venom</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color: LightGray">Treatments</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Activated_carbon" title="Activated carbon">Activated carbon</a></li>
+<li><a href="/wiki/Antidote" title="Antidote">Antidote</a></li>
+<li><a href="/wiki/Cathartic" title="Cathartic">Cathartic</a></li>
+<li><a href="/wiki/Chelation_therapy" title="Chelation therapy">Chelation therapy</a></li>
+<li><a href="/wiki/Gastric_lavage" title="Gastric lavage">Gastric lavage</a></li>
+<li><a href="/wiki/Hemodialysis" title="Hemodialysis">Hemodialysis</a></li>
+<li><a href="/wiki/Hemoperfusion" title="Hemoperfusion">Hemoperfusion</a></li>
+<li><a href="/wiki/Whole_bowel_irrigation" title="Whole bowel irrigation">Whole bowel irrigation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color: LightGray">Incidents</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1858_Bradford_sweets_poisoning" title="1858 Bradford sweets poisoning">1858 Bradford sweets poisoning</a></li>
+<li><a href="/wiki/2007_pet_food_recalls" title="2007 pet food recalls">2007 pet food recalls</a></li>
+<li><a href="/wiki/Bhopal_disaster" title="Bhopal disaster">Bhopal disaster</a></li>
+<li><a href="/wiki/Minamata_disease" title="Minamata disease">Minamata disease</a></li>
+<li><a href="/wiki/Niigata_Minamata_disease" title="Niigata Minamata disease">Niigata Minamata disease</a></li>
+<li><a href="/wiki/Poisoning_of_Alexander_Litvinenko" title="Poisoning of Alexander Litvinenko">Poisoning of Alexander Litvinenko</a></li>
+<li><a href="/wiki/Seveso_disaster" title="Seveso disaster">Seveso disaster</a></li>
+<li><a href="/wiki/Consumption_of_Tide_Pods" title="Consumption of Tide Pods">Consumption of Tide Pods</a></li>
+<li><a href="/wiki/List_of_poisonings" title="List of poisonings">List of poisonings</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background-color: LightGray">Related topics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biological_warfare" title="Biological warfare">Biological warfare</a></li>
+<li><a href="/wiki/Carcinogen" title="Carcinogen">Carcinogen</a></li>
+<li><a href="/wiki/Food_safety" title="Food safety">Food safety</a></li>
+<li><a href="/wiki/Hazard_symbol" title="Hazard symbol">Hazard symbol</a></li>
+<li><a href="/wiki/List_of_extremely_hazardous_substances" title="List of extremely hazardous substances">List of extremely hazardous substances</a></li>
+<li><a href="/wiki/Mutagen" title="Mutagen">Mutagen</a></li>
+<li><a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">Occupational safety and health</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Toxicology" title="Category:Toxicology">Category</a></b></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Toxicology" title="commons:Category:Toxicology">Commons</a></b></li>
+<li><img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/> <b><a class="mw-redirect" href="/wiki/Wikipedia:WikiProject_Toxicology" title="Wikipedia:WikiProject Toxicology">WikiProject</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20181026161916
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.368 seconds
+Real time usage: 0.436 seconds
+Preprocessor visited node count: 1142/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37320/2097152 bytes
+Template argument size: 2393/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24226/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.182/10.000 seconds
+Lua memory usage: 3.7 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  329.410      1 -total
+ 59.03%  194.441      1 Template:Reflist
+ 26.72%   88.008      5 Template:Cite_web
+ 24.84%   81.813      4 Template:Fix
+ 22.94%   75.580      3 Template:Citation_needed
+ 12.97%   42.716      4 Template:Delink
+ 10.59%   34.877      2 Template:Cite_book
+ 10.16%   33.473      8 Template:Category_handler
+  8.19%   26.994      1 Template:Toxicology
+  7.15%   23.543      1 Template:Navbox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:575776-0!canonical and timestamp 20181026161915 and revision id 864833345
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lethal_dose&amp;oldid=864833345">https://en.wikipedia.org/w/index.php?title=Lethal_dose&amp;oldid=864833345</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Medical_emergencies" title="Category:Medical emergencies">Medical emergencies</a></li><li><a href="/wiki/Category:Toxicology" title="Category:Toxicology">Toxicology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_January_2014" title="Category:Wikipedia articles needing page number citations from January 2014">Wikipedia articles needing page number citations from January 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2018" title="Category:Articles with unsourced statements from April 2018">Articles with unsourced statements from April 2018</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2017" title="Category:Articles with unsourced statements from June 2017">Articles with unsourced statements from June 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2016" title="Category:Articles with unsourced statements from April 2016">Articles with unsourced statements from April 2016</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lethal+dose" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lethal+dose" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Lethal_dose" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Lethal_dose" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Lethal_dose">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Lethal_dose&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Lethal_dose&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Lethal_dose" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lethal_dose" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lethal_dose&amp;oldid=864833345" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lethal_dose&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q21136" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lethal_dose&amp;id=864833345" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lethal+dose">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lethal+dose&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Lethal_dose&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D8%B9%D8%A9_%D9%85%D9%85%D9%8A%D8%AA%D8%A9" hreflang="ar" lang="ar" title="جرعة مميتة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D0%BC%D1%8F%D1%80%D0%BE%D1%82%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D0%B7%D0%B0" hreflang="be" lang="be" title="Смяротная доза – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Dosi_letal" hreflang="ca" lang="ca" title="Dosi letal – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Smrteln%C3%A1_d%C3%A1vka" hreflang="cs" lang="cs" title="Smrtelná dávka – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Letale_Dosis" hreflang="de" lang="de" title="Letale Dosis – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%B1%CF%84%CE%B7%CF%86%CF%8C%CF%81%CE%B1_%CE%B4%CF%8C%CF%83%CE%B7" hreflang="el" lang="el" title="Θανατηφόρα δόση – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Dosis_letal" hreflang="es" lang="es" title="Dosis letal – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B2_%DA%A9%D8%B4%D9%86%D8%AF%D9%87" hreflang="fa" lang="fa" title="دوز کشنده – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Dose_l%C3%A9tale" hreflang="fr" lang="fr" title="Dose létale – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B9%98%EC%82%AC%EB%9F%89" hreflang="ko" lang="ko" title="치사량 – Korean">한국어</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Mirtinoji_doz%C4%97" hreflang="lt" lang="lt" title="Mirtinoji dozė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%87%B4%E6%AD%BB%E9%87%8F" hreflang="ja" lang="ja" title="致死量 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/LD" hreflang="frr" lang="frr" title="LD – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/D%C3%B6%C3%B6dlich_Dosis" hreflang="nds" lang="nds" title="Döödlich Dosis – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Dawka_%C5%9Bmiertelna" hreflang="pl" lang="pl" title="Dawka śmiertelna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Dose_letal" hreflang="pt" lang="pt" title="Dose letal – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Doz%C4%83_letal%C4%83" hreflang="ro" lang="ro" title="Doză letală – Romanian">Română</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Smrtni_odmerek" hreflang="sl" lang="sl" title="Smrtni odmerek – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BC%D1%80%D1%82%D0%BE%D0%BD%D0%BE%D1%81%D0%BD%D0%B0_%D0%B4%D0%BE%D0%B7%D0%B0" hreflang="sr" lang="sr" title="Смртоносна доза – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Smrtonosna_doza" hreflang="sh" lang="sh" title="Smrtonosna doza – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Letaaliannos" hreflang="fi" lang="fi" title="Letaaliannos – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Letal_dos" hreflang="sv" lang="sv" title="Letal dos – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%B4%D0%BE%D0%B7%D0%B0" hreflang="uk" lang="uk" title="Летальна доза – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9_%D9%85%D8%B1%DA%AF" hreflang="ur" lang="ur" title="خوراک مرگ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%87%B4%E6%AD%BB%E9%87%8F" hreflang="zh" lang="zh" title="致死量 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q21136#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 October 2018, at 19:34<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lethal_dose&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.436","ppvisitednodes":{"value":1142,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37320,"limit":2097152},"templateargumentsize":{"value":2393,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24226,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  329.410      1 -total"," 59.03%  194.441      1 Template:Reflist"," 26.72%   88.008      5 Template:Cite_web"," 24.84%   81.813      4 Template:Fix"," 22.94%   75.580      3 Template:Citation_needed"," 12.97%   42.716      4 Template:Delink"," 10.59%   34.877      2 Template:Cite_book"," 10.16%   33.473      8 Template:Category_handler","  8.19%   26.994      1 Template:Toxicology","  7.15%   23.543      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.182","limit":"10.000"},"limitreport-memusage":{"value":3880338,"limit":52428800}},"cachereport":{"origin":"mw1251","timestamp":"20181026161916","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1253"});});</script>
+</body>
+</html>

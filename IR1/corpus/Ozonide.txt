@@ -1,0 +1,563 @@
+https://en.wikipedia.org/wiki/Ozonide
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Ozonide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ozonide","wgTitle":"Ozonide","wgCurRevisionId":850824346,"wgRevisionId":850824346,"wgArticleId":2301895,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chemical articles without CAS registry number","Articles without EBI source","Articles without KEGG source","Articles without UNII source","Articles containing unverified chemical infoboxes","Chembox articles without image","All articles with unsourced statements","Articles with unsourced statements from July 2017","Anions","Oxygen compounds","Free radicals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ozonide","wgRelevantArticleId":2301895,"wgRequestId":"W9d8eApAMFUAAJ7DpZEAAABA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q424253","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ozonide" rel="alternate"/>
+<link href="/w/index.php?title=Ozonide&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Ozonide&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Ozonide" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ozonide rootpage-Ozonide skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Ozonide</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left; ;">
+<caption style="text-align:center;">Ozonide
+</caption>
+<tbody><tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Trioxidan-1-id-3-yl</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a class="mw-redirect" href="/wiki/JSmol" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=%5BO-%5DO%5BO%5D" rel="nofollow">Interactive image</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a class="external text" href="http://www.chemspider.com/Chemical-Structure.10140300.html" rel="nofollow">10140300</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/11966307" rel="nofollow">11966307</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/HO3/c1-3-2/h1H/p-1</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: WURFKUQACINBSI-UHFFFAOYSA-M</div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1/HO3/c1-3-2/h1H/p-1</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: WURFKUQACINBSI-REWHXWOFAH</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">[O-]O[O]</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td>O<sub>3</sub>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>47.999   
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25 °C [77 °F], 100 kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Ozonide</b> is the unstable, reactive <a href="/wiki/Polyatomic_ion" title="Polyatomic ion">polyatomic</a> <a class="mw-redirect" href="/wiki/Anion" title="Anion">anion</a> <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> analog of <a href="/wiki/Ozone" title="Ozone">ozone</a> or any of several classes of <a href="/wiki/Organic_peroxide" title="Organic peroxide">organic peroxide</a> compounds similar formed by the reaction of ozone with an <a class="mw-redirect" href="/wiki/Unsaturated_compound" title="Unsaturated compound">unsaturated compound</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Ionic_ozonides"><span class="tocnumber">1</span> <span class="toctext">Ionic ozonides</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Covalent_singly_bonded_structures"><span class="tocnumber">2</span> <span class="toctext">Covalent singly bonded structures</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Molozonides"><span class="tocnumber">3</span> <span class="toctext">Molozonides</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Ionic_ozonides">Ionic ozonides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ozonide&amp;action=edit&amp;section=1" title="Edit section: Ionic ozonides">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Inorganic ozonides<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> are dark red <a href="/wiki/Ionic_compound" title="Ionic compound">ionic compounds</a> containing the reactive <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> anion. The anion has the <a href="/wiki/Bent_molecular_geometry" title="Bent molecular geometry">bent shape</a> of the ozone molecule.
+</p><p>Inorganic ozonides are formed by burning <a href="/wiki/Potassium" title="Potassium">potassium</a>, <a href="/wiki/Rubidium" title="Rubidium">rubidium</a>, or <a href="/wiki/Caesium" title="Caesium">caesium</a> in <a href="/wiki/Ozone" title="Ozone">ozone</a>, or by treating the <a href="/wiki/Alkali_metal" title="Alkali metal">alkali metal</a> hydroxide with ozone; if potassium is left undisturbed in air for years it accumulates a covering of superoxide and ozonide. They are very sensitive explosives that have to be handled at low temperatures in an atmosphere consisting of an <a href="/wiki/Inert_gas" title="Inert gas">inert gas</a>. Lithium and sodium ozonide are extremely unstable and must be prepared by low-temperature ion exchange starting from CsO<sub>3</sub>. Sodium ozonide, <span class="chemf nowrap">NaO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>, which is prone to decomposition into <a class="mw-redirect" href="/wiki/Sodium_Hydroxide" title="Sodium Hydroxide">NaOH</a> and <a href="/wiki/Sodium_superoxide" title="Sodium superoxide"><span class="chemf nowrap">NaO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a>, was previously thought to be impossible to obtain in pure form.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> However, with the help of <a href="/wiki/Cryptand" title="Cryptand">cryptands</a> and <a href="/wiki/Methylamine" title="Methylamine">methylamine</a>, pure <span class="chemf nowrap">NaO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> may be obtained as red crystals isostructural to <a href="/wiki/Sodium_nitrite" title="Sodium nitrite"><span class="chemf nowrap">NaNO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>Ionic ozonides are being investigated<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2017)">citation needed</span></a></i>]</sup> as sources of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> in <a href="/wiki/Chemical_oxygen_generator" title="Chemical oxygen generator">chemical oxygen generators</a>. <a href="/wiki/Tetramethylammonium" title="Tetramethylammonium">Tetramethylammonium</a> ozonide, which can be made by a <a class="mw-redirect" href="/wiki/Metathesis_reaction" title="Metathesis reaction">metathesis reaction</a> with caesium ozonide in <a class="mw-redirect" href="/wiki/Liquid_ammonia" title="Liquid ammonia">liquid ammonia</a>, is stable up to 348K:
+</p>
+<dl><dd>CsO<sub>3</sub> + [(CH<sub>3</sub>)<sub>4</sub>N][O<sub>2</sub>] → CsO<sub>2</sub> + [(CH<sub>3</sub>)<sub>4</sub>N][O<sub>3</sub>]</dd></dl>
+<h2><span class="mw-headline" id="Covalent_singly_bonded_structures">Covalent singly bonded structures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ozonide&amp;action=edit&amp;section=2" title="Edit section: Covalent singly bonded structures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Phosphite ozonides, (RO)<sub>3</sub>PO<sub>3</sub>, are used in the production of <a href="/wiki/Singlet_oxygen" title="Singlet oxygen">singlet oxygen</a>. They are made by ozonizing a <a href="/wiki/Phosphite_ester" title="Phosphite ester">phosphite ester</a> in <a href="/wiki/Dichloromethane" title="Dichloromethane">dichloromethane</a> at low temperatures, and decompose to yield singlet oxygen and a <a class="mw-redirect" href="/wiki/Phosphate_ester" title="Phosphate ester">phosphate ester</a>:<sup class="reference" id="cite_ref-InorgChem_4-0"><a href="#cite_note-InorgChem-4">[4]</a></sup>
+</p>
+<ol><li>(RO)<sub>3</sub>P + O<sub>3</sub> → (RO)<sub>3</sub>PO<sub>3</sub></li>
+<li>(RO)<sub>3</sub>PO<sub>3</sub> → (RO)<sub>3</sub>PO + <sup>1</sup>O<sub>2</sub></li></ol>
+<h2><span class="mw-headline" id="Molozonides">Molozonides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ozonide&amp;action=edit&amp;section=3" title="Edit section: Molozonides">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Organic ozonides are called <a href="/wiki/Molozonide" title="Molozonide">molozonides</a> and are typically formed by the addition reaction between ozone and <a href="/wiki/Alkene" title="Alkene">alkenes</a>. They are more explosive cousins of the <a href="/wiki/Organic_peroxide" title="Organic peroxide">organic peroxides</a> and as such are rarely isolated during the course of the ozonolysis reaction sequence. Molozonides are unstable and rapidly convert to the <b>trioxolane</b> ring structure with a five-membered C–O–O–C–O ring.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> They usually appear in the form of foul-smelling oily liquids, and rapidly decompose in the presence of water to <a class="mw-redirect" href="/wiki/Carbonyl" title="Carbonyl">carbonyl</a> compounds: <a href="/wiki/Aldehyde" title="Aldehyde">aldehydes</a>, <a href="/wiki/Ketone" title="Ketone">ketones</a>, <a href="/wiki/Peroxide" title="Peroxide">peroxides</a>.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:444px;"><a class="image" href="/wiki/File:Simplified_ozonolysis_mechanism.PNG"><img alt="" class="thumbimage" data-file-height="135" data-file-width="442" height="135" src="//upload.wikimedia.org/wikipedia/commons/5/59/Simplified_ozonolysis_mechanism.PNG" width="442"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Simplified_ozonolysis_mechanism.PNG" title="Enlarge"></a></div>Formation of an organic ozonide. The second arrow represents several steps as shown in <a href="/wiki/Ozonolysis" title="Ozonolysis">ozonolysis</a>.</div></div></div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ozonide&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ozonolysis" title="Ozonolysis">Ozonolysis</a></li>
+<li><a href="/wiki/Ozone" title="Ozone">Ozone</a></li>
+<li><a href="/wiki/Ozone_cracking" title="Ozone cracking">Ozone cracking</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a>, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a>, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></li>
+<li><a href="/wiki/Oxide" title="Oxide">Oxide</a>, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span></li>
+<li><a href="/wiki/Dioxygenyl" title="Dioxygenyl">Dioxygenyl</a>, <span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ozonide&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ozonide&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://jcp.aip.org/resource/1/jcpsa6/v59/i4/p1851_s1?isAuthorized=no" rel="nofollow">Matrix reactions of alkali metal atoms with ozone: Infrared spectra of the alkali metal ozonide molecules</a></li></ul>
+<div aria-labelledby="Oxides" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Hafnium(IV)_oxide" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Tin_dioxide" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Sulfur_trioxide" title="Sulfur trioxide">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a class="mw-selflink selflink">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Oxygen_compounds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxygen_compounds" title="Template:Oxygen compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxygen_compounds" title="Template talk:Oxygen compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxygen_compounds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Oxygen_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> compounds</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Silver(II)_oxide" title="Silver(II) oxide">AgO</a></li>
+<li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Al<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Americium_dioxide" title="Americium dioxide">AmO<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Americium(III)_oxide&amp;action=edit&amp;redlink=1" title="Americium(III) oxide (page does not exist)">Am<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">As<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">As<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Gold(III)_oxide" title="Gold(III) oxide">Au<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">B<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">BaO</a></li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">BeO</a></li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bi<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Bismuth_tetroxide&amp;action=edit&amp;redlink=1" title="Bismuth tetroxide (page does not exist)">BiO<sub>2</sub></a></li>
+<li><a href="/wiki/Bismuth_pentoxide" title="Bismuth pentoxide">Bi<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Bromine_dioxide" title="Bromine dioxide">BrO<sub>2</sub></a></li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Br<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Dibromine_pentoxide" title="Dibromine pentoxide">Br<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">C<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">CaO</a></li>
+<li><a href="/wiki/Calcium_peroxide" title="Calcium peroxide">CaO<sub>2</sub></a></li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">CdO</a></li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">CeO<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Cerium(III,IV)_oxide&amp;action=edit&amp;redlink=1" title="Cerium(III,IV) oxide (page does not exist)">Ce<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Ce<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">ClO<sub>2</sub></a></li>
+<li><a href="/wiki/Chlorine_monoxide" title="Chlorine monoxide">Cl<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dichlorine_trioxide" title="Dichlorine trioxide">Cl<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chlorine_perchlorate" title="Chlorine perchlorate">Cl<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Dichlorine_hexoxide" title="Dichlorine hexoxide">Cl<sub>2</sub>O<sub>6</sub></a></li>
+<li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Cl<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">CoO</a></li>
+<li><a href="/wiki/Cobalt(III)_oxide" title="Cobalt(III) oxide">Co<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Co<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">CrO<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Cr<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Cr<sub>2</sub>O<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Chromic_chromate&amp;action=edit&amp;redlink=1" title="Chromic chromate (page does not exist)">Cr<sub>5</sub>O<sub>12</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Cesium_superoxide&amp;action=edit&amp;redlink=1" title="Cesium superoxide (page does not exist)">CsO<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Cesium_trioxide&amp;action=edit&amp;redlink=1" title="Cesium trioxide (page does not exist)">Cs<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">CuO</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">D<sub>2</sub>O</a></li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dy<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Er<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Eu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Oxygen_difluoride" title="Oxygen difluoride"><span class="chemf nowrap">OF<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Dioxygen_difluoride" title="Dioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a class="mw-redirect" href="/wiki/Trioxygen_difluoride" title="Trioxygen difluoride"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a class="new" href="/w/index.php?title=Fluorine_tetroxide&amp;action=edit&amp;redlink=1" title="Fluorine tetroxide (page does not exist)"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">FeO</a></li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Fe<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Fe<sub>3</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Ga<sub>2</sub>O</a></li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Ga<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">GeO</a></li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">GeO<sub>2</sub></a></li>
+<li><a href="/wiki/Water" title="Water">H<sub>2</sub>O</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">H<sub>2</sub><sup>18</sup>O</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hafnium_oxide" title="Hafnium oxide">HfO<sub>2</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Mercuric_oxide" title="Mercuric oxide">HgO</a></li>
+<li><a href="/wiki/Mercury(I)_oxide" title="Mercury(I) oxide">Hg<sub>2</sub>O</a></li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Ho<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Iodine_tetroxide&amp;action=edit&amp;redlink=1" title="Iodine tetroxide (page does not exist)">I<sub>2</sub>O<sub>4</sub></a></li>
+<li><a href="/wiki/Iodine_pentoxide" title="Iodine pentoxide">I<sub>2</sub>O<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Iodine_hexoxide&amp;action=edit&amp;redlink=1" title="Iodine hexoxide (page does not exist)">I<sub>2</sub>O<sub>6</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Iodine_nonaoxide&amp;action=edit&amp;redlink=1" title="Iodine nonaoxide (page does not exist)">I<sub>4</sub>O<sub>9</sub></a></li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">In<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Iridium(IV)_oxide" title="Iridium(IV) oxide">IrO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_superoxide" title="Potassium superoxide">KO<sub>2</sub></a></li>
+<li><a href="/wiki/Potassium_peroxide" title="Potassium peroxide">K<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">La<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Li<sub>2</sub>O</a></li>
+<li><a href="/wiki/Lithium_peroxide" title="Lithium peroxide">Li<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lu<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">MgO</a></li>
+<li><a href="/wiki/Magnesium_peroxide" title="Magnesium peroxide">Mg<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">MnO</a></li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">MnO<sub>2</sub></a></li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Mn<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Mn<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Molybdenum_dioxide" title="Molybdenum dioxide">MoO<sub>2</sub></a></li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">MoO<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Molybdenum(III)_oxide&amp;action=edit&amp;redlink=1" title="Molybdenum(III) oxide (page does not exist)">Mo<sub>2</sub>O<sub>3</sub></a></li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">NO</a></li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">NO<sub>2</sub></a></li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">N<sub>2</sub>O</a></li>
+<li><a class="mw-redirect" href="/wiki/Nitrogen_trioxide" title="Nitrogen trioxide">N<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Nitrogen_tetroxide" title="Nitrogen tetroxide">N<sub>2</sub>O<sub>4</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Nitrogen_pentoxide" title="Nitrogen pentoxide">N<sub>2</sub>O<sub>5</sub></a></li>
+<li><a href="/wiki/Sodium_superoxide" title="Sodium superoxide">NaO<sub>2</sub></a></li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Na<sub>2</sub>O</a></li>
+<li><a href="/wiki/Sodium_peroxide" title="Sodium peroxide">Na<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Niobium_monoxide" title="Niobium monoxide">NbO</a></li>
+<li><a href="/wiki/Niobium_dioxide" title="Niobium dioxide">NbO<sub>2</sub></a></li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Nd<sub>2</sub>O<sub>3</sub></a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formulas</a></b></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20181026161603
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.712 seconds
+Real time usage: 1.822 seconds
+Preprocessor visited node count: 5711/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 168445/2097152 bytes
+Template argument size: 14214/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11688/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.235/10.000 seconds
+Lua memory usage: 4.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  622.876      1 -total
+ 59.53%  370.807      1 Template:Chembox
+ 39.69%  247.219      1 Template:Chembox_Identifiers
+ 24.07%  149.943      3 Template:Chembox_headerbar
+ 23.53%  146.587      9 Template:Trim
+ 17.66%  110.023      1 Template:Reflist
+ 14.73%   91.749      3 Template:Cite_journal
+ 12.87%   80.187      5 Template:Main_other
+ 10.92%   68.046      1 Template:Chembox_parametercheck
+ 10.51%   65.477     14 Template:Chem
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2301895-0!canonical and timestamp 20181026161601 and revision id 850824346
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ozonide&amp;oldid=850824346">https://en.wikipedia.org/w/index.php?title=Ozonide&amp;oldid=850824346</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anions" title="Category:Anions">Anions</a></li><li><a href="/wiki/Category:Oxygen_compounds" title="Category:Oxygen compounds">Oxygen compounds</a></li><li><a href="/wiki/Category:Free_radicals" title="Category:Free radicals">Free radicals</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Chemical_articles_without_CAS_registry_number" title="Category:Chemical articles without CAS registry number">Chemical articles without CAS registry number</a></li><li><a href="/wiki/Category:Articles_without_EBI_source" title="Category:Articles without EBI source">Articles without EBI source</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_without_UNII_source" title="Category:Articles without UNII source">Articles without UNII source</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:Chembox_articles_without_image" title="Category:Chembox articles without image">Chembox articles without image</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2017" title="Category:Articles with unsourced statements from July 2017">Articles with unsourced statements from July 2017</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ozonide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ozonide" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Ozonide" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Ozonide" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Ozonide">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Ozonide&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Ozonide&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Ozonide" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Ozonide" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ozonide&amp;oldid=850824346" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ozonide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q424253" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ozonide&amp;id=850824346" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ozonide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ozonide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Ozonide&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%B2%D9%88%D9%86%D9%8A%D8%AF" hreflang="ar" lang="ar" title="أوزونيد – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%B7%D0%B0%D0%BD%D1%96%D0%B4%D1%8B" hreflang="be" lang="be" title="Азаніды – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Ozonur" hreflang="ca" lang="ca" title="Ozonur – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Ozonidy" hreflang="cs" lang="cs" title="Ozonidy – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ozonide" hreflang="de" lang="de" title="Ozonide – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Oz%C3%B3nido" hreflang="es" lang="es" title="Ozónido – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ozonure" hreflang="fr" lang="fr" title="Ozonure – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Ozonuri" hreflang="it" lang="it" title="Ozonuri – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BE%E3%83%B3%E5%8C%96%E7%89%A9" hreflang="ja" lang="ja" title="オゾン化物 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Ozonid" hreflang="nds" lang="nds" title="Ozonid – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ozonki" hreflang="pl" lang="pl" title="Ozonki – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Oz%C3%B3nido" hreflang="pt" lang="pt" title="Ozónido – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Ozonid%C4%83" hreflang="ro" lang="ro" title="Ozonidă – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%B7%D0%BE%D0%BD%D0%B8%D0%B4%D1%8B" hreflang="ru" lang="ru" title="Неорганические озониды – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Ozonid" hreflang="sk" lang="sk" title="Ozonid – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Ozonid" hreflang="sr" lang="sr" title="Ozonid – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Ozonid" hreflang="sh" lang="sh" title="Ozonid – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Otsonidi" hreflang="fi" lang="fi" title="Otsonidi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%B7%D0%BE%D0%BD%D1%96%D0%B4%D0%B8" hreflang="uk" lang="uk" title="Озоніди – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%87%AD%E6%B0%A7%E5%8C%96%E7%89%A9" hreflang="zh" lang="zh" title="臭氧化物 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q424253#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 18 July 2018, at 05:25<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Ozonide&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.712","walltime":"1.822","ppvisitednodes":{"value":5711,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":168445,"limit":2097152},"templateargumentsize":{"value":14214,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11688,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  622.876      1 -total"," 59.53%  370.807      1 Template:Chembox"," 39.69%  247.219      1 Template:Chembox_Identifiers"," 24.07%  149.943      3 Template:Chembox_headerbar"," 23.53%  146.587      9 Template:Trim"," 17.66%  110.023      1 Template:Reflist"," 14.73%   91.749      3 Template:Cite_journal"," 12.87%   80.187      5 Template:Main_other"," 10.92%   68.046      1 Template:Chembox_parametercheck"," 10.51%   65.477     14 Template:Chem"]},"scribunto":{"limitreport-timeusage":{"value":"0.235","limit":"10.000"},"limitreport-memusage":{"value":4677869,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20181026161603","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1250"});});</script>
+</body>
+</html>

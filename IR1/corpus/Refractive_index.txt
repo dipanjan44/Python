@@ -1,0 +1,2100 @@
+https://en.wikipedia.org/wiki/Refractive_index
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Refractive index - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Refractive_index","wgTitle":"Refractive index","wgCurRevisionId":855669530,"wgRevisionId":855669530,"wgArticleId":25880,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: Archived copy as title","All articles with unsourced statements","Articles with unsourced statements from November 2015","Articles with unsourced statements from June 2015","Wikipedia articles needing clarification from June 2017","Articles needing additional references from September 2014","All articles needing additional references","Dimensionless numbers","Physical quantities","Refraction"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Refractive_index","wgRelevantArticleId":25880,"wgRequestId":"W9VmWQpAICwAAJVu1-8AAAAM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q174102","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/8/85/Refraction_photo.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Refractive_index" rel="alternate"/>
+<link href="/w/index.php?title=Refractive_index&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Refractive_index&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Refractive_index" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Refractive_index rootpage-Refractive_index skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Refractive index</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Refraction_photo.png"><img alt="refer to caption" class="thumbimage" data-file-height="759" data-file-width="1142" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Refraction_photo.png/220px-Refraction_photo.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Refraction_photo.png/330px-Refraction_photo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Refraction_photo.png/440px-Refraction_photo.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Refraction_photo.png" title="Enlarge"></a></div>A <a href="/wiki/Ray_(optics)" title="Ray (optics)">ray</a> of light being <a href="/wiki/Refraction" title="Refraction">refracted</a> in a plastic block</div></div></div>
+<p>In <a href="/wiki/Optics" title="Optics">optics</a>, the <b>refractive index</b> or <b>index of refraction</b> of a <a href="/wiki/Optical_medium" title="Optical medium">material</a> is a <a class="mw-redirect" href="/wiki/Dimensionless_number" title="Dimensionless number">dimensionless number</a> that describes how <a class="mw-redirect" href="/wiki/EM_radiation" title="EM radiation">light</a> propagates through that medium. It is defined as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n={\frac {c}{v}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>c</mi>
+<mi>v</mi>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n={\frac {c}{v}},}</annotation>
+</semantics>
+</math></span><img alt="n={\frac {c}{v}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ab7fd5b86ec9931a04468c9421276b961e31ee1" style="vertical-align: -1.838ex; width:7.104ex; height:4.676ex;"/></span></dd></dl>
+<p>where <i>c</i> is the <a href="/wiki/Speed_of_light" title="Speed of light">speed of light</a> in <a href="/wiki/Vacuum" title="Vacuum">vacuum</a> and <i>v</i> is the <a href="/wiki/Phase_velocity" title="Phase velocity">phase velocity</a> of light in the medium. For example, the refractive index of water is 1.333, meaning that light travels 1.333 times faster in vacuum than in the water.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Refraction_at_interface.svg"><img alt="Illustration of the incidence and refraction angles" class="thumbimage" data-file-height="130" data-file-width="145" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Refraction_at_interface.svg/170px-Refraction_at_interface.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Refraction_at_interface.svg/255px-Refraction_at_interface.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Refraction_at_interface.svg/340px-Refraction_at_interface.svg.png 2x" width="170"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Refraction_at_interface.svg" title="Enlarge"></a></div>Refraction of a light ray</div></div></div>
+<p>The refractive index determines how much the path of light is bent, or <a href="/wiki/Refraction" title="Refraction">refracted</a>, when entering a material. This is the first documented use of refractive indices and is described by <a href="/wiki/Snell%27s_law" title="Snell's law">Snell's law</a> of refraction, <i>n</i><sub>1</sub> sin<i>θ</i><sub>1</sub> = <i>n</i><sub>2</sub> sin<i>θ</i><sub>2</sub>,
+where <i>θ</i><sub>1</sub> and <i>θ</i><sub>2</sub> are the <a href="/wiki/Angle_of_incidence_(optics)" title="Angle of incidence (optics)">angles of incidence</a> and refraction, respectively, of a ray crossing the interface between two media with refractive indices <i>n</i><sub>1</sub> and <i>n</i><sub>2</sub>. The refractive indices also determine the amount of light that is <a class="mw-redirect" href="/wiki/Reflectivity" title="Reflectivity">reflected</a> when reaching the interface, as well as the critical angle for <a href="/wiki/Total_internal_reflection" title="Total internal reflection">total internal reflection</a> and <a href="/wiki/Brewster%27s_angle" title="Brewster's angle">Brewster's angle</a>.<sup class="reference" id="cite_ref-Hecht_1-0"><a href="#cite_note-Hecht-1">[1]</a></sup>
+</p><p>The refractive index can be seen as the factor by which the speed and the <a href="/wiki/Wavelength" title="Wavelength">wavelength</a> of the radiation are reduced with respect to their vacuum values: the speed of light in a medium is <i>v</i> = <i>c</i>/<i>n</i>, and similarly the wavelength in that medium is <i>λ</i> = <i>λ</i><sub>0</sub>/<i>n</i>, where <i>λ</i><sub>0</sub> is the wavelength of that light in vacuum. This implies that vacuum has a refractive index of 1, and that the <a href="/wiki/Frequency" title="Frequency">frequency</a> (<i>f</i> = <i>v</i>/<i>λ</i>) of the wave is not affected by the refractive index. As a result, the energy (<i>E</i> = <i>h</i> <i>f</i>) of the photon, and therefore the perceived color of the refracted light to a human eye which depends on photon energy, is not affected by the refraction or the refractive index of the medium.
+</p><p>While the refractive index affects wavelength, it depends on photon frequency, color and energy so the resulting difference in the bending angle causes white light to split into its constituent colors. This is called <a href="/wiki/Dispersion_(optics)" title="Dispersion (optics)">dispersion</a>. It can be observed in <a class="mw-redirect" href="/wiki/Prism_(optics)" title="Prism (optics)">prisms</a> and <a href="/wiki/Rainbow" title="Rainbow">rainbows</a>, and <a href="/wiki/Chromatic_aberration" title="Chromatic aberration">chromatic aberration</a> in lenses. Light propagation in <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">absorbing</a> materials can be described using a <a href="/wiki/Complex_number" title="Complex number">complex</a>-valued refractive index.<sup class="reference" id="cite_ref-Attwood_2-0"><a href="#cite_note-Attwood-2">[2]</a></sup> The <a href="/wiki/Imaginary_number" title="Imaginary number">imaginary</a> part then handles the <a href="/wiki/Attenuation" title="Attenuation">attenuation</a>, while the <a href="/wiki/Real_number" title="Real number">real</a> part accounts for refraction.
+</p><p>The concept of refractive index applies within the full <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">electromagnetic spectrum</a>, from <a href="/wiki/X-ray" title="X-ray">X-rays</a> to <a href="/wiki/Radio_wave" title="Radio wave">radio waves</a>. It can also be applied to <a href="/wiki/Wave" title="Wave">wave</a> phenomena such as <a href="/wiki/Sound" title="Sound">sound</a>. In this case the speed of sound is used instead of that of light and a reference medium other than vacuum must be chosen.<sup class="reference" id="cite_ref-Kinsler_3-0"><a href="#cite_note-Kinsler-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Typical_values"><span class="tocnumber">3</span> <span class="toctext">Typical values</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Refractive_index_below_unity"><span class="tocnumber">3.1</span> <span class="toctext">Refractive index below unity</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Negative_refractive_index"><span class="tocnumber">3.2</span> <span class="toctext">Negative refractive index</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Microscopic_explanation"><span class="tocnumber">4</span> <span class="toctext">Microscopic explanation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Dispersion"><span class="tocnumber">5</span> <span class="toctext">Dispersion</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Complex_refractive_index"><span class="tocnumber">6</span> <span class="toctext">Complex refractive index</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Relations_to_other_quantities"><span class="tocnumber">7</span> <span class="toctext">Relations to other quantities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Optical_path_length"><span class="tocnumber">7.1</span> <span class="toctext">Optical path length</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Refraction"><span class="tocnumber">7.2</span> <span class="toctext">Refraction</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Total_internal_reflection"><span class="tocnumber">7.3</span> <span class="toctext">Total internal reflection</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Reflectivity"><span class="tocnumber">7.4</span> <span class="toctext">Reflectivity</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Lenses"><span class="tocnumber">7.5</span> <span class="toctext">Lenses</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Microscope_resolution"><span class="tocnumber">7.6</span> <span class="toctext">Microscope resolution</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Relative_permittivity_and_permeability"><span class="tocnumber">7.7</span> <span class="toctext">Relative permittivity and permeability</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Density"><span class="tocnumber">7.8</span> <span class="toctext">Density</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Group_index"><span class="tocnumber">7.9</span> <span class="toctext">Group index</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Momentum_(Abraham–Minkowski_controversy)"><span class="tocnumber">7.10</span> <span class="toctext">Momentum (Abraham–Minkowski controversy)</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Other_relations"><span class="tocnumber">7.11</span> <span class="toctext">Other relations</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Refractivity"><span class="tocnumber">7.12</span> <span class="toctext">Refractivity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Nonscalar,_nonlinear,_or_nonhomogeneous_refraction"><span class="tocnumber">8</span> <span class="toctext">Nonscalar, nonlinear, or nonhomogeneous refraction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Birefringence"><span class="tocnumber">8.1</span> <span class="toctext">Birefringence</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Nonlinearity"><span class="tocnumber">8.2</span> <span class="toctext">Nonlinearity</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Inhomogeneity"><span class="tocnumber">8.3</span> <span class="toctext">Inhomogeneity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Refractive_index_measurement"><span class="tocnumber">9</span> <span class="toctext">Refractive index measurement</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Homogeneous_media"><span class="tocnumber">9.1</span> <span class="toctext">Homogeneous media</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Refractive_index_variations"><span class="tocnumber">9.2</span> <span class="toctext">Refractive index variations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Applications"><span class="tocnumber">10</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The refractive index <i>n</i> of an optical medium is defined as the ratio of the speed of light in vacuum, <i>c</i> = <span class="nowrap"><span class="sortkey" style="display:none">7008299792458000000♠</span>299<span style="margin-left:.25em;">792</span><span style="margin-left:.25em;">458</span> m/s</span>, and the <a href="/wiki/Phase_velocity" title="Phase velocity">phase velocity</a> <i>v</i> of light in the medium,<sup class="reference" id="cite_ref-Hecht_1-1"><a href="#cite_note-Hecht-1">[1]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n={\frac {c}{v}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>c</mi>
+<mi>v</mi>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n={\frac {c}{v}}.}</annotation>
+</semantics>
+</math></span><img alt="n={\frac {c}{v}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/422a934fcb4de83af3f99d51f235b39ab3798d22" style="vertical-align: -1.838ex; width:7.104ex; height:4.676ex;"/></span></dd></dl>
+<p>The phase velocity is the speed at which the crests or the <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a> of the <a href="/wiki/Wave" title="Wave">wave</a> moves, which may be different from the <a href="/wiki/Group_velocity" title="Group velocity">group velocity</a>, the speed at which the pulse of light or the <a href="/wiki/Envelope_(waves)" title="Envelope (waves)">envelope</a> of the wave moves.
+</p><p>The definition above is sometimes referred to as the <b>absolute refractive index</b> or the <b>absolute index of refraction</b> to distinguish it from definitions where the speed of light in other reference media than vacuum is used.<sup class="reference" id="cite_ref-Hecht_1-2"><a href="#cite_note-Hecht-1">[1]</a></sup> Historically <a class="mw-redirect" href="/wiki/Air" title="Air">air</a> at a standardized <a href="/wiki/Pressure" title="Pressure">pressure</a> and <a href="/wiki/Temperature" title="Temperature">temperature</a> has been common as a reference medium.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:122px;"><a class="image" href="/wiki/File:Thomas_Young_(scientist).jpg"><img alt="Stipple engraving of Thomas Young" class="thumbimage" data-file-height="1138" data-file-width="898" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thomas_Young_%28scientist%29.jpg/120px-Thomas_Young_%28scientist%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thomas_Young_%28scientist%29.jpg/180px-Thomas_Young_%28scientist%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thomas_Young_%28scientist%29.jpg/240px-Thomas_Young_%28scientist%29.jpg 2x" width="120"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Thomas_Young_(scientist).jpg" title="Enlarge"></a></div><a href="/wiki/Thomas_Young_(scientist)" title="Thomas Young (scientist)">Thomas Young</a> coined the term <i>index of refraction</i>.</div></div></div>
+<p><a href="/wiki/Thomas_Young_(scientist)" title="Thomas Young (scientist)">Thomas Young</a> was presumably the person who first used, and invented, the name "index of refraction", in 1807.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+At the same time he changed this value of refractive power into a single number, instead of the traditional ratio of two numbers. The ratio had the disadvantage of different appearances. <a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a>, who called it the "proportion of the sines of incidence and refraction", wrote it as a ratio of two numbers, like "529 to 396" (or "nearly 4 to 3"; for water).<sup class="reference" id="cite_ref-Newton_5-0"><a href="#cite_note-Newton-5">[5]</a></sup> <a href="/wiki/Francis_Hauksbee" title="Francis Hauksbee">Hauksbee</a>, who called it the "ratio of refraction", wrote it as a ratio with a fixed numerator, like "10000 to 7451.9" (for urine).<sup class="reference" id="cite_ref-Hauksbee_6-0"><a href="#cite_note-Hauksbee-6">[6]</a></sup> <a href="/wiki/Charles_Hutton" title="Charles Hutton">Hutton</a> wrote it as a ratio with a fixed denominator, like 1.3358 to 1 (water).<sup class="reference" id="cite_ref-Hutton_7-0"><a href="#cite_note-Hutton-7">[7]</a></sup>
+</p><p>Young did not use a symbol for the index of refraction, in 1807. In the next years, others started using different symbols:
+n, m, and µ.<sup class="reference" id="cite_ref-Fraunhofer_8-0"><a href="#cite_note-Fraunhofer-8">[8]</a></sup><sup class="reference" id="cite_ref-Brewster_9-0"><a href="#cite_note-Brewster-9">[9]</a></sup><sup class="reference" id="cite_ref-Herschel_10-0"><a href="#cite_note-Herschel-10">[10]</a></sup> The symbol n gradually prevailed.
+</p>
+<h2><span class="mw-headline" id="Typical_values">Typical values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=3" title="Edit section: Typical values">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Brillanten.jpg"><img alt="Gemstone diamonds" class="thumbimage" data-file-height="399" data-file-width="476" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brillanten.jpg/220px-Brillanten.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brillanten.jpg/330px-Brillanten.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brillanten.jpg/440px-Brillanten.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Brillanten.jpg" title="Enlarge"></a></div><a href="/wiki/Diamond" title="Diamond">Diamonds</a> have a very high refractive index of 2.42.</div></div></div>
+<table class="wikitable" style="float:right;">
+<caption>Selected refractive indices at λ=589 nm.
+For references, see the extended <a href="/wiki/List_of_refractive_indices" title="List of refractive indices">List of refractive indices</a>.
+</caption>
+<tbody><tr>
+<th>Material</th>
+<th><i>n</i>
+</th></tr>
+<tr>
+<td><a href="/wiki/Vacuum" title="Vacuum">Vacuum</a></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7000100000000000000♠</span>1</span>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/Gas" title="Gas">Gases</a> at <a class="mw-redirect" href="/wiki/Standard_temperature_and_pressure" title="Standard temperature and pressure">0 °C and 1 atm</a>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Air" title="Air">Air</a></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7000100029300000000♠</span>1.000<span style="margin-left:.25em;">293</span></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Helium" title="Helium">Helium</a></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7000100003600000000♠</span>1.000<span style="margin-left:.25em;">036</span></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7000100013200000000♠</span>1.000<span style="margin-left:.25em;">132</span></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></td>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7000100045000000000♠</span>1.000<span style="margin-left:.25em;">45</span></span>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/Liquid" title="Liquid">Liquids</a> at 20 °C
+</td></tr>
+<tr>
+<td><a href="/wiki/Water" title="Water">Water</a></td>
+<td>1.333
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a></td>
+<td>1.36
+</td></tr>
+<tr>
+<td><a href="/wiki/Olive_oil" title="Olive oil">Olive oil</a></td>
+<td>1.47
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/Solid" title="Solid">Solids</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ice" title="Ice">Ice</a></td>
+<td>1.31
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Fused_silica" title="Fused silica">Fused silica</a> (quartz)</td>
+<td>1.46<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Poly(methyl_methacrylate)" title="Poly(methyl methacrylate)">PMMA</a> (acrylic, plexiglas, lucite, perspex)</td>
+<td>1.49
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Soda-lime_glass" title="Soda-lime glass">Window glass</a></td>
+<td>1.52<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Polycarbonate" title="Polycarbonate">Polycarbonate</a> (Lexan™)</td>
+<td>1.58<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flint_glass" title="Flint glass">Flint glass</a> (typical)</td>
+<td>1.62
+</td></tr>
+<tr>
+<td><a href="/wiki/Sapphire" title="Sapphire">Sapphire</a></td>
+<td>1.77<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cubic_zirconia" title="Cubic zirconia">Cubic zirconia</a></td>
+<td>2.15
+</td></tr>
+<tr>
+<td><a href="/wiki/Diamond" title="Diamond">Diamond</a></td>
+<td>2.42
+</td></tr>
+<tr>
+<td><a href="/wiki/Moissanite" title="Moissanite">Moissanite</a></td>
+<td>2.65
+</td></tr></tbody></table>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/List_of_refractive_indices" title="List of refractive indices">List of refractive indices</a></div>
+<p>For <a class="mw-redirect" href="/wiki/Visible_light" title="Visible light">visible light</a> most <a href="/wiki/Transparency_and_translucency" title="Transparency and translucency">transparent</a> media have refractive indices between 1 and 2. A few examples are given in the adjacent table. These values are measured at the yellow doublet <a class="mw-redirect" href="/wiki/D2_line" title="D2 line">D-line</a> of <a href="/wiki/Sodium" title="Sodium">sodium</a>, with a wavelength of 589 <a class="mw-redirect" href="/wiki/Nanometers" title="Nanometers">nanometers</a>, as is conventionally done.<sup class="reference" id="cite_ref-FBI_15-0"><a href="#cite_note-FBI-15">[15]</a></sup> Gases at atmospheric pressure have refractive indices close to 1 because of their low density. Almost all solids and liquids have refractive indices above 1.3, with <a href="/wiki/Aerogel" title="Aerogel">aerogel</a> as the clear exception. Aerogel is a very low density solid that can be produced with refractive index in the range from 1.002 to 1.265.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> <a href="/wiki/Moissanite" title="Moissanite">Moissanite</a> lies at the other end of the range with a refractive index as high as 2.65. Most plastics have refractive indices in the range from 1.3 to 1.7, but some <a href="/wiki/High-refractive-index_polymer" title="High-refractive-index polymer">high-refractive-index polymers</a> can have values as high as 1.76.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p><p>For <a href="/wiki/Infrared" title="Infrared">infrared</a> light refractive indices can be considerably higher. <a href="/wiki/Germanium" title="Germanium">Germanium</a> is transparent in the wavelength region from 2 to 14 µm and has a refractive index of about 4.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> A type of new materials, called topological insulator, was recently found holding higher refractive index of up to 6 in near to mid infrared frequency range. Moreover, topological insulator material are transparent when they have nanoscale thickness. These excellent properties make them a type of significant materials for infrared optics.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Refractive_index_below_unity">Refractive index below unity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=4" title="Edit section: Refractive index below unity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to the <a href="/wiki/Theory_of_relativity" title="Theory of relativity">theory of relativity</a>, no information can travel faster than the speed of light in vacuum, but this does not mean that the refractive index cannot be lower than 1. The refractive index measures the <a href="/wiki/Phase_velocity" title="Phase velocity">phase velocity</a> of light, which does not carry <a href="/wiki/Information" title="Information">information</a>.<sup class="reference" id="cite_ref-Als-Nielsen2011_20-0"><a href="#cite_note-Als-Nielsen2011-20">[20]</a></sup> The phase velocity is the speed at which the crests of the wave move and can be faster than the speed of light in vacuum, and thereby give a refractive index below 1. This can occur close to <a class="mw-redirect" href="/wiki/Resonance_frequency" title="Resonance frequency">resonance frequencies</a>, for absorbing media, in <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasmas</a>, and for <a href="/wiki/X-ray" title="X-ray">X-rays</a>. In the X-ray regime the refractive indices are lower than but very close to 1 (exceptions close to some resonance frequencies).<sup class="reference" id="cite_ref-CXRO_21-0"><a href="#cite_note-CXRO-21">[21]</a></sup>
+As an example, water has a refractive index of <span class="nowrap"><span class="sortkey" style="display:none">6999999999740000000♠</span>0.999<span style="margin-left:.25em;">999</span><span style="margin-left:.25em;">74</span></span> = 1 − <span class="nowrap"><span class="sortkey" style="display:none">6993260000000000000♠</span>2.6<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−7</sup></span> for X-ray radiation at a photon energy of <span class="nowrap"><span class="sortkey" style="display:none">6985480652946099999♠</span>30 <a href="/wiki/Electronvolt" title="Electronvolt">keV</a></span> (0.04 nm wavelength).<sup class="reference" id="cite_ref-CXRO_21-1"><a href="#cite_note-CXRO-21">[21]</a></sup>
+</p><p>An example of a plasma with an index of refraction less than unity is Earth's <a href="/wiki/Ionosphere" title="Ionosphere">ionosphere</a>.  Since the refractive index of the ionosphere (a <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a>), is less than unity, electromagnetic waves propagating through the plasma are bent "away from the normal" (see <a class="mw-redirect" href="/wiki/Geometric_optics" title="Geometric optics">Geometric optics</a>) allowing the radio wave to be refracted back toward earth, thus enabling long-distance radio communications.  See also <a class="mw-redirect" href="/wiki/Radio_Propagation" title="Radio Propagation">Radio Propagation</a> and <a href="/wiki/Skywave" title="Skywave">Skywave</a>.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Negative_refractive_index">Negative refractive index</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=5" title="Edit section: Negative refractive index">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Negative_index_metamaterials" title="Negative index metamaterials">Negative index metamaterials</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Split-ring_resonator_array_10K_sq_nm.jpg"><img alt="A 3D grid of open copper rings made from interlocking standing sheets of fiberglass circuit boards" class="thumbimage" data-file-height="263" data-file-width="350" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Split-ring_resonator_array_10K_sq_nm.jpg/250px-Split-ring_resonator_array_10K_sq_nm.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/8/82/Split-ring_resonator_array_10K_sq_nm.jpg 1.5x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Split-ring_resonator_array_10K_sq_nm.jpg" title="Enlarge"></a></div>A <a href="/wiki/Split-ring_resonator" title="Split-ring resonator">split-ring resonator</a> array arranged to produce a negative index of refraction for <a class="mw-redirect" href="/wiki/Microwaves" title="Microwaves">microwaves</a></div></div></div>
+<p>Recent research has also demonstrated the existence of materials with a negative refractive index, which can occur if <a href="/wiki/Permittivity" title="Permittivity">permittivity</a> and <a class="mw-redirect" href="/wiki/Magnetic_permeability" title="Magnetic permeability">permeability</a> have simultaneous negative values.<sup class="reference" id="cite_ref-veselago1968_23-0"><a href="#cite_note-veselago1968-23">[23]</a></sup> This can be achieved with periodically constructed <a class="mw-redirect" href="/wiki/Metamaterials" title="Metamaterials">metamaterials</a>. The resulting <a href="/wiki/Negative_refraction" title="Negative refraction">negative refraction</a> (i.e., a reversal of <a href="/wiki/Snell%27s_law" title="Snell's law">Snell's law</a>) offers the possibility of the <a href="/wiki/Superlens" title="Superlens">superlens</a> and other exotic phenomena.<sup class="reference" id="cite_ref-shalaev2007_24-0"><a href="#cite_note-shalaev2007-24">[24]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Microscopic_explanation">Microscopic explanation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=6" title="Edit section: Microscopic explanation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Ewald%E2%80%93Oseen_extinction_theorem" title="Ewald–Oseen extinction theorem">Ewald–Oseen extinction theorem</a></div>
+<p>At the atomic scale, an electromagnetic wave's phase velocity is slowed in a material because the <a href="/wiki/Electric_field" title="Electric field">electric field</a> creates a disturbance in the charges of each atom (primarily the <a href="/wiki/Electron" title="Electron">electrons</a>) proportional to the <a href="/wiki/Electric_susceptibility" title="Electric susceptibility">electric susceptibility</a> of the medium. (Similarly, the <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic field</a> creates a disturbance proportional to the <a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">magnetic susceptibility</a>.) As the electromagnetic fields oscillate in the wave, the charges in the material will be "shaken" back and forth at the same frequency.<sup class="reference" id="cite_ref-Hecht_1-3"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>67</span></sup> The charges thus radiate their own electromagnetic wave that is at the same frequency, but usually with a <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase delay</a>, as the charges may move out of phase with the force driving them (see <a href="/wiki/Harmonic_oscillator#Sinusoidal_driving_force" title="Harmonic oscillator">sinusoidally driven harmonic oscillator</a>). The light wave traveling in the medium is the macroscopic <a href="/wiki/Superposition_principle" title="Superposition principle">superposition (sum)</a> of all such contributions in the material: the original wave plus the waves radiated by all the moving charges. This wave is typically a wave with the same frequency but shorter wavelength than the original, leading to a slowing of the wave's phase velocity. Most of the radiation from oscillating material charges will modify the incoming wave, changing its velocity. However, some net energy will be radiated in other directions or even at other frequencies (see <a href="/wiki/Scattering" title="Scattering">scattering</a>).
+</p><p>Depending on the relative phase of the original driving wave and the waves radiated by the charge motion, there are several possibilities:
+</p>
+<ul><li>If the electrons emit a light wave which is 90° out of phase with the light wave shaking them, it will cause the total light wave to travel slower. This is the normal refraction of transparent materials like glass or water, and corresponds to a refractive index which is real and greater than 1.<sup class="reference" id="cite_ref-Feynman,_Richard_P._2011_25-0"><a href="#cite_note-Feynman,_Richard_P._2011-25">[25]</a></sup></li>
+<li>If the electrons emit a light wave which is 270° out of phase with the light wave shaking them, it will cause the wave to travel faster. This is called "anomalous refraction", and is observed close to absorption lines (typically in infrared spectra), with <a href="/wiki/X-ray" title="X-ray">X-rays</a> in ordinary materials, and with radio waves in Earth's <a href="/wiki/Ionosphere" title="Ionosphere">ionosphere</a>. It corresponds to a <a href="/wiki/Permittivity" title="Permittivity">permittivity</a> less than 1, which causes the refractive index to be also less than unity and the <a href="/wiki/Phase_velocity" title="Phase velocity">phase velocity</a> of light greater than the <a href="/wiki/Speed_of_light" title="Speed of light">speed of light in vacuum</a> <i>c</i> (note that the <a href="/wiki/Signal_velocity" title="Signal velocity">signal velocity</a> is still less than <i>c</i>, as discussed above). If the response is sufficiently strong and out-of-phase, the result is a negative value of <a href="/wiki/Permittivity" title="Permittivity">permittivity</a> and imaginary index of refraction, as observed in metals or plasma.<sup class="reference" id="cite_ref-Feynman,_Richard_P._2011_25-1"><a href="#cite_note-Feynman,_Richard_P._2011-25">[25]</a></sup></li>
+<li>If the electrons emit a light wave which is 180° out of phase with the light wave shaking them, it will destructively interfere with the original light to reduce the total light intensity. This is <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">light absorption in opaque materials</a> and corresponds to an <a href="/wiki/Imaginary_number" title="Imaginary number">imaginary</a> refractive index.</li>
+<li>If the electrons emit a light wave which is in phase with the light wave shaking them, it will amplify the light wave. This is rare, but occurs in <a href="/wiki/Laser" title="Laser">lasers</a> due to <a href="/wiki/Stimulated_emission" title="Stimulated emission">stimulated emission</a>. It corresponds to an imaginary index of refraction, with the opposite sign to that of absorption.</li></ul>
+<p>For most materials at visible-light frequencies, the phase is somewhere between 90° and 180°, corresponding to a combination of both refraction and absorption.
+</p>
+<h2><span class="mw-headline" id="Dispersion">Dispersion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=7" title="Edit section: Dispersion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:WhereRainbowRises.jpg"><img alt="A rainbow" class="thumbimage" data-file-height="2048" data-file-width="1360" height="226" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/WhereRainbowRises.jpg/150px-WhereRainbowRises.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/WhereRainbowRises.jpg/225px-WhereRainbowRises.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/WhereRainbowRises.jpg/300px-WhereRainbowRises.jpg 2x" width="150"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:WhereRainbowRises.jpg" title="Enlarge"></a></div>Light of different colors has slightly different refractive indices in water and therefore shows up at different positions in the <a href="/wiki/Rainbow" title="Rainbow">rainbow</a>.</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Prism_rainbow_schema.png"><img alt="A white beam of light dispersed into different colors when passing through a triangular prism" class="thumbimage" data-file-height="174" data-file-width="277" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Prism_rainbow_schema.png/220px-Prism_rainbow_schema.png" srcset="//upload.wikimedia.org/wikipedia/commons/0/06/Prism_rainbow_schema.png 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Prism_rainbow_schema.png" title="Enlarge"></a></div>In a prism, dispersion causes different colors to refract at different angles, splitting white light into a rainbow of colors.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:322px;"><a class="image" href="/wiki/File:Mplwp_dispersion_curves.svg"><img alt="A graph showing the decrease in refractive index with increasing wavelength for different types of glass" class="thumbimage" data-file-height="400" data-file-width="600" height="213" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mplwp_dispersion_curves.svg/320px-Mplwp_dispersion_curves.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mplwp_dispersion_curves.svg/480px-Mplwp_dispersion_curves.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mplwp_dispersion_curves.svg/640px-Mplwp_dispersion_curves.svg.png 2x" width="320"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Mplwp_dispersion_curves.svg" title="Enlarge"></a></div>The variation of refractive index with wavelength for various glasses. The shaded zone indicates the range of visible light.</div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Dispersion_(optics)" title="Dispersion (optics)">Dispersion (optics)</a></div>
+<p>The refractive index of materials varies with the wavelength (and <a href="/wiki/Frequency" title="Frequency">frequency</a>) of light.<sup class="reference" id="cite_ref-dispersion_ELPT_26-0"><a href="#cite_note-dispersion_ELPT-26">[26]</a></sup> This is called dispersion and causes <a class="mw-redirect" href="/wiki/Prism_(optics)" title="Prism (optics)">prisms</a> and <a href="/wiki/Rainbow" title="Rainbow">rainbows</a> to divide white light into its constituent spectral <a href="/wiki/Color" title="Color">colors</a>.<sup class="reference" id="cite_ref-hyperphysics_dispersion_27-0"><a href="#cite_note-hyperphysics_dispersion-27">[27]</a></sup> As the refractive index varies with wavelength, so will the refraction angle as light goes from one material to another. Dispersion also causes the <a href="/wiki/Focal_length" title="Focal length">focal length</a> of <a href="/wiki/Lens_(optics)" title="Lens (optics)">lenses</a> to be wavelength dependent. This is a type of <a href="/wiki/Chromatic_aberration" title="Chromatic aberration">chromatic aberration</a>, which often needs to be corrected for in imaging systems. In regions of the spectrum where the material does not absorb light, the refractive index tends to decrease with increasing wavelength, and thus increase with frequency. This is called "normal dispersion", in contrast to "anomalous dispersion", where the refractive index increases with wavelength.<sup class="reference" id="cite_ref-dispersion_ELPT_26-1"><a href="#cite_note-dispersion_ELPT-26">[26]</a></sup> For visible light normal dispersion means that the refractive index is higher for blue light than for red.
+</p><p>For optics in the visual range, the amount of dispersion of a lens material is often quantified by the <a href="/wiki/Abbe_number" title="Abbe number">Abbe number</a>:<sup class="reference" id="cite_ref-hyperphysics_dispersion_27-1"><a href="#cite_note-hyperphysics_dispersion-27">[27]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V={\frac {n_{\mathrm {yellow} }-1}{n_{\mathrm {blue} }-n_{\mathrm {red} }}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">y</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">l</mi>
+<mi mathvariant="normal">l</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">w</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">b</mi>
+<mi mathvariant="normal">l</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V={\frac {n_{\mathrm {yellow} }-1}{n_{\mathrm {blue} }-n_{\mathrm {red} }}}.}</annotation>
+</semantics>
+</math></span><img alt="V={\frac {n_{\mathrm {yellow} }-1}{n_{\mathrm {blue} }-n_{\mathrm {red} }}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fddde421334a75ae3b9158895a56f4dc2a417c1e" style="vertical-align: -2.171ex; width:17.767ex; height:5.843ex;"/></span></dd></dl>
+<p>For a more accurate description of the wavelength dependence of the refractive index, the <a href="/wiki/Sellmeier_equation" title="Sellmeier equation">Sellmeier equation</a> can be used.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> It is an empirical formula that works well in describing dispersion. <i>Sellmeier coefficients</i> are often quoted instead of the refractive index in tables.
+</p><p>Because of dispersion, it is usually important to specify the vacuum wavelength of light for which a refractive index is measured. Typically, measurements are done at various well-defined spectral <a class="mw-redirect" href="/wiki/Emission_line" title="Emission line">emission lines</a>; for example, <i>n</i><sub>D</sub> usually denotes the refractive index at the <a href="/wiki/Fraunhofer_lines" title="Fraunhofer lines">Fraunhofer</a> "D" line, the centre of the yellow <a href="/wiki/Sodium" title="Sodium">sodium</a> double emission at 589.29 <a href="/wiki/Nanometre" title="Nanometre">nm</a> wavelength.<sup class="reference" id="cite_ref-FBI_15-1"><a href="#cite_note-FBI-15">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Complex_refractive_index">Complex refractive index</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=8" title="Edit section: Complex refractive index">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Gradndfilter.jpg"><img alt="A glass plate, half of which is darkened" class="thumbimage" data-file-height="825" data-file-width="700" height="259" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gradndfilter.jpg/220px-Gradndfilter.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gradndfilter.jpg/330px-Gradndfilter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gradndfilter.jpg/440px-Gradndfilter.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Gradndfilter.jpg" title="Enlarge"></a></div>A <a class="mw-redirect" href="/wiki/Graduated_neutral_density_filter" title="Graduated neutral density filter">graduated neutral density filter</a> showing light absorption in the upper half</div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Mathematical_descriptions_of_opacity" title="Mathematical descriptions of opacity">Mathematical descriptions of opacity</a></div>
+<p>When light passes through a medium, some part of it will always be <a href="/wiki/Attenuation" title="Attenuation">attenuated</a>. This can be conveniently taken into account by defining a complex refractive index,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\underline {n}}=n+i\kappa .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<munder>
+<mi>n</mi>
+<mo>_<!-- _ --></mo>
+</munder>
+</mrow>
+<mo>=</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mi>i</mi>
+<mi>κ<!-- κ --></mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\underline {n}}=n+i\kappa .}</annotation>
+</semantics>
+</math></span><img alt="{\underline {n}}=n+i\kappa ." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/20266ea827644a9cf3a8f1f2f7b008f214965d04" style="vertical-align: -0.537ex; margin-bottom: -0.801ex; width:11.519ex; height:3.176ex;"/></span></dd></dl>
+<p>Here, the real part <i>n</i> is the refractive index and indicates the <a href="/wiki/Phase_velocity" title="Phase velocity">phase velocity</a>, while the imaginary part <i>κ</i> is called the <b>extinction coefficient</b> — although <i>κ</i> can also refer to the <a href="/wiki/Mass_attenuation_coefficient" title="Mass attenuation coefficient">mass attenuation coefficient</a>—<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>3</span></sup> and indicates the amount of attenuation when the electromagnetic wave propagates through the material.<sup class="reference" id="cite_ref-Hecht_1-4"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>128</span></sup>
+</p><p>That <i>κ</i> corresponds to attenuation can be seen by inserting this refractive index into the expression for <a href="/wiki/Electric_field" title="Electric field">electric field</a> of a <a href="/wiki/Plane_wave" title="Plane wave">plane</a> electromagnetic wave traveling in the <i>z</i>-direction. We can do this by relating the complex wave number <u><i>k</i></u> to the complex refractive index <u><i>n</i></u> through <u><i>k</i></u> = 2π<u><i>n</i></u>/<i>λ</i><sub>0</sub>, with <i>λ</i><sub>0</sub> being the vacuum wavelength; this can be inserted into the plane wave expression as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathbf {E} (z,t)=\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i({\underline {k}}z-\omega t)}\right]=\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i(2\pi (n+i\kappa )z/\lambda _{0}-\omega t)}\right]=e^{-2\pi \kappa z/\lambda _{0}}\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i(kz-\omega t)}\right].}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>Re</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>[</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<munder>
+<mi>k</mi>
+<mo>_<!-- _ --></mo>
+</munder>
+</mrow>
+<mi>z</mi>
+<mo>−<!-- − --></mo>
+<mi>ω<!-- ω --></mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>=</mo>
+<mi>Re</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>[</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mi>i</mi>
+<mi>κ<!-- κ --></mi>
+<mo stretchy="false">)</mo>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>ω<!-- ω --></mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mi>κ<!-- κ --></mi>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+</msup>
+<mi>Re</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>[</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo stretchy="false">(</mo>
+<mi>k</mi>
+<mi>z</mi>
+<mo>−<!-- − --></mo>
+<mi>ω<!-- ω --></mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {E} (z,t)=\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i({\underline {k}}z-\omega t)}\right]=\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i(2\pi (n+i\kappa )z/\lambda _{0}-\omega t)}\right]=e^{-2\pi \kappa z/\lambda _{0}}\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i(kz-\omega t)}\right].}</annotation>
+</semantics>
+</math></span><img alt="\mathbf {E} (z,t)=\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i({\underline {k}}z-\omega t)}\right]=\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i(2\pi (n+i\kappa )z/\lambda _{0}-\omega t)}\right]=e^{-2\pi \kappa z/\lambda _{0}}\operatorname {Re} \!\left[\mathbf {E} _{0}e^{i(kz-\omega t)}\right]." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/430eaede5060d08b487bb940c99144d125a0fa0f" style="vertical-align: -1.838ex; width:80.806ex; height:4.843ex;"/></span></dd></dl>
+<p>Here we see that <i>κ</i> gives an exponential decay, as expected from the <a href="/wiki/Beer%E2%80%93Lambert_law" title="Beer–Lambert law">Beer–Lambert law</a>. Since intensity is proportional to the square of the electric field, it will depend on the depth into the material as exp(−4π<i>κz</i>/<i>λ</i><sub>0</sub>), and the <a href="/wiki/Attenuation_coefficient" title="Attenuation coefficient">attenuation coefficient</a> becomes <i>α</i> = 4π<i>κ</i>/<i>λ</i><sub>0</sub>.<sup class="reference" id="cite_ref-Hecht_1-5"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>128</span></sup> This also relates it to the <a href="/wiki/Penetration_depth" title="Penetration depth">penetration depth</a>, the distance after which the intensity is reduced by 1/<i>e</i>, <i>δ</i><sub>p</sub> = 1/<i>α</i> = <i>λ</i><sub>0</sub>/(4π<i>κ</i>).
+</p><p>Both <i>n</i> and <i>κ</i> are dependent on the frequency. In most circumstances <i>κ</i> &gt; 0 (light is absorbed) or <i>κ</i> = 0 (light travels forever without loss). In special situations, especially in the <a class="mw-redirect" href="/wiki/Gain_medium" title="Gain medium">gain medium</a> of <a href="/wiki/Laser" title="Laser">lasers</a>, it is also possible that <i>κ</i> &lt; 0, corresponding to an amplification of the light.
+</p><p>An alternative convention uses <u><i>n</i></u> = <i>n</i> − <i>iκ</i> instead of <u><i>n</i></u> = <i>n</i> + <i>iκ</i>, but where <i>κ</i> &gt; 0 still corresponds to loss. Therefore, these two conventions are inconsistent and should not be confused. The difference is related to defining sinusoidal time dependence as Re[exp(−<i>iωt</i>)] versus Re[exp(+<i>iωt</i>)]. See <a href="/wiki/Mathematical_descriptions_of_opacity" title="Mathematical descriptions of opacity">Mathematical descriptions of opacity</a>.
+</p><p>Dielectric loss and non-zero DC conductivity in materials cause absorption. Good dielectric materials such as glass have extremely low DC conductivity, and at low frequencies the dielectric loss is also negligible, resulting in almost no absorption. However, at higher frequencies (such as visible light), dielectric loss may increase absorption significantly, reducing the material's <a class="mw-redirect" href="/wiki/Transparency_(optics)" title="Transparency (optics)">transparency</a> to these frequencies.
+</p><p>The real, <i>n</i>, and imaginary, <i>κ</i>, parts of the complex refractive index are related through the <a class="mw-redirect" href="/wiki/Kramers%E2%80%93Kronig_relation" title="Kramers–Kronig relation">Kramers–Kronig relations</a>. In 1986 A.R. Forouhi and I. Bloomer deduced an <a href="/wiki/Refractive_index_and_extinction_coefficient_of_thin_film_materials" title="Refractive index and extinction coefficient of thin film materials">equation</a> describing <i>κ</i> as a function of photon energy, <i>E</i>, applicable to amorphous materials. Forouhi and Bloomer then applied the Kramers–Kronig relation to derive the corresponding equation for <a href="/wiki/Refractive_index_and_extinction_coefficient_of_thin_film_materials" title="Refractive index and extinction coefficient of thin film materials"><i>n</i> as a function of <i>E</i></a>. The same formalism was applied to crystalline materials by Forouhi and Bloomer in 1988.
+</p><p>The refractive index and extinction coefficient, <i>n</i> and <i>κ</i>, cannot be measured directly. They must be determined indirectly from measurable quantities that depend on them, such as <a href="/wiki/Refractive_index_and_extinction_coefficient_of_thin_film_materials" title="Refractive index and extinction coefficient of thin film materials">reflectance, <i>R</i>, or transmittance, <i>T</i></a>, or ellipsometric parameters, <a href="/wiki/Ellipsometry" title="Ellipsometry"><i>ψ</i> and <i>δ</i></a>. The determination of <i>n</i> and <i>κ</i> from such measured quantities will involve developing a theoretical expression for <i>R</i> or <i>T</i>, or <i>ψ</i> and <i>δ</i> in terms of a valid physical model for <i>n</i> and <i>κ</i>. By fitting the theoretical model to the measured <i>R</i> or <i>T</i>, or <i>ψ</i> and <i>δ</i> using regression analysis, <i>n</i> and <i>κ</i> can be deduced.
+</p><p>For <a href="/wiki/X-ray" title="X-ray">X-ray</a> and <a href="/wiki/Extreme_ultraviolet" title="Extreme ultraviolet">extreme ultraviolet</a> radiation the complex refractive index deviates only slightly from unity and usually has a real part smaller than 1. It is therefore normally written as <u><i>n</i></u> = 1 − <i>δ</i> + <i>iβ</i> (or <u><i>n</i></u> = 1 − <i>δ</i> − <i>iβ</i> with the alternative convention mentioned above).<sup class="reference" id="cite_ref-Attwood_2-1"><a href="#cite_note-Attwood-2">[2]</a></sup> Far above the atomic resonance frequency delta can be given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \delta ={\frac {r_{0}\lambda ^{2}n_{e}}{2\pi }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>δ<!-- δ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \delta ={\frac {r_{0}\lambda ^{2}n_{e}}{2\pi }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \delta ={\frac {r_{0}\lambda ^{2}n_{e}}{2\pi }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d9315e0ecdf99dfdcc58543679a2274f1f182b1" style="vertical-align: -1.838ex; width:11.889ex; height:5.676ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r_{0}}</annotation>
+</semantics>
+</math></span><img alt="r_{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fb12fcfddb65e3d1e6a044215f6e833f0cd4337b" style="vertical-align: -0.671ex; width:2.103ex; height:2.009ex;"/></span> is the <a href="/wiki/Classical_electron_radius" title="Classical electron radius">classical electron radius</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \lambda }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>λ<!-- λ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lambda }</annotation>
+</semantics>
+</math></span><img alt="\lambda " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b43d0ea3c9c025af1be9128e62a18fa74bedda2a" style="vertical-align: -0.338ex; width:1.355ex; height:2.176ex;"/></span> is the X-ray wavelength, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{e}}</annotation>
+</semantics>
+</math></span><img alt="n_{e}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e21303faca6e2167f4ecbf2a75aed982e817035" style="vertical-align: -0.671ex; width:2.393ex; height:2.009ex;"/></span> is the electron density. One may assume the electron density is simply the number of electrons per atom Z multiplied by the atomic density, but more accurate calculation of the refractive index requires replacing Z with the complex <a href="/wiki/Atomic_form_factor" title="Atomic form factor">atomic form factor</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f=Z+f'+if''}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+<mo>=</mo>
+<mi>Z</mi>
+<mo>+</mo>
+<msup>
+<mi>f</mi>
+<mo>′</mo>
+</msup>
+<mo>+</mo>
+<mi>i</mi>
+<msup>
+<mi>f</mi>
+<mo>″</mo>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f=Z+f'+if''}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle f=Z+f'+if''}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/22edb3f7b222cdc32422c1783056a25623778719" style="vertical-align: -0.671ex; width:17.004ex; height:2.843ex;"/></span>. It follows that
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \delta ={\frac {r_{0}\lambda ^{2}}{2\pi }}(Z+f')n_{Atom}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>δ<!-- δ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>Z</mi>
+<mo>+</mo>
+<msup>
+<mi>f</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \delta ={\frac {r_{0}\lambda ^{2}}{2\pi }}(Z+f')n_{Atom}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \delta ={\frac {r_{0}\lambda ^{2}}{2\pi }}(Z+f')n_{Atom}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8a3773ba02bb28a103b6234651acb6e7a8eb242d" style="vertical-align: -1.838ex; width:23.524ex; height:5.676ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta ={\frac {r_{0}\lambda ^{2}}{2\pi }}f''n_{Atom}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mi>f</mi>
+<mo>″</mo>
+</msup>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta ={\frac {r_{0}\lambda ^{2}}{2\pi }}f''n_{Atom}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \beta ={\frac {r_{0}\lambda ^{2}}{2\pi }}f''n_{Atom}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4e1be33346a7020198750a2257a32372cbddcb3" style="vertical-align: -1.838ex; width:17.93ex; height:5.676ex;"/></span></dd></dl>
+<p>with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \delta }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>δ<!-- δ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \delta }</annotation>
+</semantics>
+</math></span><img alt="\delta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5321cfa797202b3e1f8620663ff43c4660ea03a" style="vertical-align: -0.338ex; width:1.049ex; height:2.343ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta }</annotation>
+</semantics>
+</math></span><img alt="\beta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed48a5e36207156fb792fa79d29925d2f7901e8" style="vertical-align: -0.671ex; width:1.332ex; height:2.509ex;"/></span> typically of the order of 10<sup>−5</sup> and 10<sup>−6</sup>.
+</p>
+<h2><span class="mw-headline" id="Relations_to_other_quantities">Relations to other quantities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=9" title="Edit section: Relations to other quantities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Optical_path_length">Optical path length</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=10" title="Edit section: Optical path length">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Soap_bubble_sky.jpg"><img alt="Soap bubble" class="thumbimage" data-file-height="768" data-file-width="1024" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Soap_bubble_sky.jpg/220px-Soap_bubble_sky.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Soap_bubble_sky.jpg/330px-Soap_bubble_sky.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Soap_bubble_sky.jpg/440px-Soap_bubble_sky.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Soap_bubble_sky.jpg" title="Enlarge"></a></div>The colors of a <a href="/wiki/Soap_bubble" title="Soap bubble">soap bubble</a> are determined by the <a href="/wiki/Optical_path_length" title="Optical path length">optical path length</a> through the thin soap film in a phenomenon called <a href="/wiki/Thin-film_interference" title="Thin-film interference">thin-film interference</a>.</div></div></div>
+<p><a href="/wiki/Optical_path_length" title="Optical path length">Optical path length</a> (OPL) is the product of the geometric length <i>d</i> of the path light follows through a system, and the index of refraction of the medium through which it propagates,<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\text{OPL}}=nd.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>OPL</mtext>
+</mrow>
+<mo>=</mo>
+<mi>n</mi>
+<mi>d</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{OPL}}=nd.}</annotation>
+</semantics>
+</math></span><img alt="{\text{OPL}}=nd." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8957aa8c3ff40e263a2d3e9075e7e0dbc5681368" style="vertical-align: -0.338ex; width:11.2ex; height:2.176ex;"/></span></dd></dl>
+<p>This is an important concept in optics because it determines the <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a> of the light and governs <a class="mw-redirect" href="/wiki/Interference_(wave_propagation)" title="Interference (wave propagation)">interference</a> and <a href="/wiki/Diffraction" title="Diffraction">diffraction</a> of light as it propagates. According to <a href="/wiki/Fermat%27s_principle" title="Fermat's principle">Fermat's principle</a>, light rays can be characterized as those curves that <a href="/wiki/Mathematical_optimization" title="Mathematical optimization">optimize</a> the optical path length.<sup class="reference" id="cite_ref-Hecht_1-6"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>68–69</span></sup>
+</p>
+<h3><span class="mw-headline" id="Refraction">Refraction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=11" title="Edit section: Refraction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Refraction" title="Refraction">Refraction</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snells_law.svg"><img alt="refer to caption" class="thumbimage" data-file-height="355" data-file-width="641" height="122" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Snells_law.svg/220px-Snells_law.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Snells_law.svg/330px-Snells_law.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Snells_law.svg/440px-Snells_law.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Snells_law.svg" title="Enlarge"></a></div><a href="/wiki/Refraction" title="Refraction">Refraction</a> of light at the interface between two media of different refractive indices, with <i>n</i><sub>2</sub> &gt; <i>n</i><sub>1</sub>. Since the <a href="/wiki/Phase_velocity" title="Phase velocity">phase velocity</a> is lower in the second medium (<i>v</i><sub>2</sub> &lt; <i>v</i><sub>1</sub>), the angle of refraction <i>θ</i><sub>2</sub> is less than the angle of incidence <i>θ</i><sub>1</sub>; that is, the ray in the higher-index medium is closer to the normal.</div></div></div>
+<p>When light moves from one medium to another, it changes direction, i.e. it is <a href="/wiki/Refraction" title="Refraction">refracted</a>. If it moves from a medium with refractive index <i>n</i><sub>1</sub> to one with refractive index <i>n</i><sub>2</sub>, with an <a href="/wiki/Angle_of_incidence_(optics)" title="Angle of incidence (optics)">incidence angle</a> to the <a class="mw-redirect" href="/wiki/Surface_normal" title="Surface normal">surface normal</a> of <i>θ</i><sub>1</sub>, the refraction angle <i>θ</i><sub>2</sub> can be calculated from <a href="/wiki/Snell%27s_law" title="Snell's law">Snell's law</a>:<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{1}\sin \theta _{1}=n_{2}\sin \theta _{2}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{1}\sin \theta _{1}=n_{2}\sin \theta _{2}.}</annotation>
+</semantics>
+</math></span><img alt="n_{1}\sin \theta _{1}=n_{2}\sin \theta _{2}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4219c4208cb4c2ffdf62de226719e59d3295e60d" style="vertical-align: -0.671ex; width:20.192ex; height:2.509ex;"/></span></dd></dl>
+<p>When light enters a material with higher refractive index, the angle of refraction will be smaller than the angle of incidence and the light will be refracted towards the normal of the surface. The higher the refractive index, the closer to the normal direction the light will travel. When passing into a medium with lower refractive index, the light will instead be refracted away from the normal, towards the surface.
+</p>
+<h3><span class="mw-headline" id="Total_internal_reflection">Total internal reflection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=12" title="Edit section: Total internal reflection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Total_internal_reflection" title="Total internal reflection">Total internal reflection</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Total_internal_reflection_of_Chelonia_mydas.jpg"><img alt="A sea turtle being reflected in the water surface above" class="thumbimage" data-file-height="1500" data-file-width="2000" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg/220px-Total_internal_reflection_of_Chelonia_mydas.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg/330px-Total_internal_reflection_of_Chelonia_mydas.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg/440px-Total_internal_reflection_of_Chelonia_mydas.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Total_internal_reflection_of_Chelonia_mydas.jpg" title="Enlarge"></a></div><a href="/wiki/Total_internal_reflection" title="Total internal reflection">Total internal reflection</a> can be seen at the air-water boundary.</div></div></div>
+<p>If there is no angle <i>θ</i><sub>2</sub> fulfilling Snell's law, i.e.,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {n_{1}}{n_{2}}}\sin \theta _{1}&gt;1,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>&gt;</mo>
+<mn>1</mn>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {n_{1}}{n_{2}}}\sin \theta _{1}&gt;1,}</annotation>
+</semantics>
+</math></span><img alt="{\frac {n_{1}}{n_{2}}}\sin \theta _{1}&gt;1," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb553724840547bf77b3a8038d08530af6ccaab8" style="vertical-align: -2.171ex; width:13.967ex; height:5.009ex;"/></span></dd></dl>
+<p>the light cannot be transmitted and will instead undergo <a href="/wiki/Total_internal_reflection" title="Total internal reflection">total internal reflection</a>.<sup class="reference" id="cite_ref-bornwolf_32-0"><a href="#cite_note-bornwolf-32">[32]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>49–50</span></sup> This occurs only when going to a less optically dense material, i.e., one with lower refractive index. To get total internal reflection the angles of incidence <i>θ</i><sub>1</sub> must be larger than the critical angle<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{\mathrm {c} }=\arcsin \!\left({\frac {n_{2}}{n_{1}}}\right)\!.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>arcsin</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{\mathrm {c} }=\arcsin \!\left({\frac {n_{2}}{n_{1}}}\right)\!.}</annotation>
+</semantics>
+</math></span><img alt="\theta _{\mathrm {c} }=\arcsin \!\left({\frac {n_{2}}{n_{1}}}\right)\!." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/abdeb75dccb736e1c92f32939b6d122ad0ff7eea" style="vertical-align: -2.505ex; width:18.466ex; height:6.176ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="Reflectivity">Reflectivity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=13" title="Edit section: Reflectivity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Apart from the transmitted light there is also a <a href="/wiki/Reflection_(physics)" title="Reflection (physics)">reflected</a> part. The reflection angle is equal to the incidence angle, and the amount of light that is reflected is determined by the <a class="mw-redirect" href="/wiki/Reflectivity" title="Reflectivity">reflectivity</a> of the surface. The reflectivity can be calculated from the refractive index and the incidence angle with the <a href="/wiki/Fresnel_equations" title="Fresnel equations">Fresnel equations</a>, which for <a class="mw-redirect" href="/wiki/Normal_incidence" title="Normal incidence">normal incidence</a> reduces to<sup class="reference" id="cite_ref-bornwolf_32-1"><a href="#cite_note-bornwolf-32">[32]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>44</span></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R_{0}=\left|{\frac {n_{1}-n_{2}}{n_{1}+n_{2}}}\right|^{2}\!.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>|</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mspace width="negativethinmathspace"></mspace>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R_{0}=\left|{\frac {n_{1}-n_{2}}{n_{1}+n_{2}}}\right|^{2}\!.}</annotation>
+</semantics>
+</math></span><img alt="R_{0}=\left|{\frac {n_{1}-n_{2}}{n_{1}+n_{2}}}\right|^{2}\!." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1c4322baf5f0840e267408386dd9c2ee4ff4e480" style="vertical-align: -2.171ex; width:17.099ex; height:6.009ex;"/></span></dd></dl>
+<p>For common glass in air, <i>n</i><sub>1</sub> = 1 and <i>n</i><sub>2</sub> = 1.5, and thus about 4% of the incident power is reflected.<sup class="reference" id="cite_ref-ri-min_34-0"><a href="#cite_note-ri-min-34">[34]</a></sup> At other incidence angles the reflectivity will also depend on the <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">polarization</a> of the incoming light. At a certain angle called <a href="/wiki/Brewster%27s_angle" title="Brewster's angle">Brewster's angle</a>, p-polarized light (light with the electric field in the <a href="/wiki/Plane_of_incidence" title="Plane of incidence">plane of incidence</a>) will be totally transmitted. Brewster's angle can be calculated from the two refractive indices of the interface as <sup class="reference" id="cite_ref-Hecht_1-7"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>245</span></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{\mathrm {B} }=\arctan \!\left({\frac {n_{2}}{n_{1}}}\right)\!.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>arctan</mi>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{\mathrm {B} }=\arctan \!\left({\frac {n_{2}}{n_{1}}}\right)\!.}</annotation>
+</semantics>
+</math></span><img alt="\theta _{\mathrm {B} }=\arctan \!\left({\frac {n_{2}}{n_{1}}}\right)\!." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab49aec6204e70a63f11bfbe74fc0593ecf0d1ce" style="vertical-align: -2.505ex; width:19.404ex; height:6.176ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="Lenses">Lenses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=14" title="Edit section: Lenses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lupa.na.encyklopedii.jpg"><img alt="A magnifying glass" class="thumbimage" data-file-height="1074" data-file-width="1971" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lupa.na.encyklopedii.jpg/220px-Lupa.na.encyklopedii.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lupa.na.encyklopedii.jpg/330px-Lupa.na.encyklopedii.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lupa.na.encyklopedii.jpg/440px-Lupa.na.encyklopedii.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Lupa.na.encyklopedii.jpg" title="Enlarge"></a></div>The <a href="/wiki/Optical_power" title="Optical power">power</a> of a <a href="/wiki/Magnifying_glass" title="Magnifying glass">magnifying glass</a> is determined by the shape and refractive index of the lens.</div></div></div>
+<p>The <a href="/wiki/Focal_length" title="Focal length">focal length</a> of a <a href="/wiki/Lens_(optics)" title="Lens (optics)">lens</a> is determined by its refractive index <i>n</i> and the <a href="/wiki/Radius_of_curvature_(optics)" title="Radius of curvature (optics)">radii of curvature</a> <i>R</i><sub>1</sub> and <i>R</i><sub>2</sub> of its surfaces. The power of a <a href="/wiki/Thin_lens" title="Thin lens">thin lens</a> in air is given by the <a class="mw-redirect" href="/wiki/Lensmaker%27s_formula" title="Lensmaker's formula">Lensmaker's formula</a>:<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{f}}=(n-1)\!\left({\frac {1}{R_{1}}}-{\frac {1}{R_{2}}}\right)\!,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>f</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mspace width="negativethinmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{f}}=(n-1)\!\left({\frac {1}{R_{1}}}-{\frac {1}{R_{2}}}\right)\!,}</annotation>
+</semantics>
+</math></span><img alt="{\frac {1}{f}}=(n-1)\!\left({\frac {1}{R_{1}}}-{\frac {1}{R_{2}}}\right)\!," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4bbdc6aef508ba165d1800df55a69e6c7d3b8593" style="vertical-align: -2.505ex; width:26.637ex; height:6.176ex;"/></span></dd></dl>
+<p>where <i>f</i> is the focal length of the lens.
+</p>
+<h3><span class="mw-headline" id="Microscope_resolution">Microscope resolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=15" title="Edit section: Microscope resolution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Optical_resolution" title="Optical resolution">resolution</a> of a good optical <a href="/wiki/Microscope" title="Microscope">microscope</a> is mainly determined by the <a href="/wiki/Numerical_aperture" title="Numerical aperture">numerical aperture</a> (NA) of its <a class="mw-redirect" href="/wiki/Objective_lens" title="Objective lens">objective lens</a>. The numerical aperture in turn is determined by the refractive index <i>n</i> of the medium filling the space between the sample and the lens and the half collection angle of light <i>θ</i> according to<sup class="reference" id="cite_ref-Carlsson_36-0"><a href="#cite_note-Carlsson-36">[36]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>6</span></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {NA} =n\sin \theta .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">N</mi>
+<mi mathvariant="normal">A</mi>
+</mrow>
+<mo>=</mo>
+<mi>n</mi>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>θ<!-- θ --></mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {NA} =n\sin \theta .}</annotation>
+</semantics>
+</math></span><img alt="\mathrm {NA} =n\sin \theta ." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6845838e26c7e33745af3c31e9c350d4c5ca7895" style="vertical-align: -0.338ex; width:13.346ex; height:2.176ex;"/></span></dd></dl>
+<p>For this reason <a href="/wiki/Oil_immersion" title="Oil immersion">oil immersion</a> is commonly used to obtain high resolution in microscopy. In this technique the objective is dipped into a drop of high refractive index immersion oil on the sample under study.<sup class="reference" id="cite_ref-Carlsson_36-1"><a href="#cite_note-Carlsson-36">[36]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>14</span></sup>
+</p>
+<h3><span class="mw-headline" id="Relative_permittivity_and_permeability">Relative permittivity and permeability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=16" title="Edit section: Relative permittivity and permeability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The refractive index of electromagnetic radiation equals
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n={\sqrt {\varepsilon _{\mathrm {r} }\mu _{\mathrm {r} }}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n={\sqrt {\varepsilon _{\mathrm {r} }\mu _{\mathrm {r} }}},}</annotation>
+</semantics>
+</math></span><img alt="n={\sqrt {\varepsilon _{\mathrm {r} }\mu _{\mathrm {r} }}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/906056a0558a19ab45d22545fa4e8fc7a51a3f55" style="vertical-align: -1.171ex; width:11.315ex; height:3.009ex;"/></span></dd></dl>
+<p>where <i>ε</i><sub>r</sub> is the material's <a href="/wiki/Relative_permittivity" title="Relative permittivity">relative permittivity</a>, and <i>μ</i><sub>r</sub> is its <a href="/wiki/Permeability_(electromagnetism)" title="Permeability (electromagnetism)">relative permeability</a>.<sup class="reference" id="cite_ref-bleaney_37-0"><a href="#cite_note-bleaney-37">[37]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>229</span></sup> The refractive index is used for optics in <a href="/wiki/Fresnel_equations" title="Fresnel equations">Fresnel equations</a> and <a href="/wiki/Snell%27s_law" title="Snell's law">Snell's law</a>; while the relative permittivity and permeability are used in <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">Maxwell's equations</a> and electronics. Most naturally occurring materials are non-magnetic at optical frequencies, that is <i>μ<sub>r</sub></i> is very close to 1,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup> therefore <i>n</i> is approximately <span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;"><i>ε</i><sub>r</sub></span></span>. In this particular case, the complex relative permittivity <u><i>ε</i></u><sub>r</sub>, with real and imaginary parts <i>ε</i><sub>r</sub> and <i>ɛ̃</i><sub>r</sub>, and the complex refractive index <u><i>n</i></u>, with real and imaginary parts <i>n</i> and <i>κ</i> (the latter called the "extinction coefficient"), follow the relation
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\underline {\varepsilon }}_{\mathrm {r} }=\varepsilon _{\mathrm {r} }+i{\tilde {\varepsilon }}_{\mathrm {r} }={\underline {n}}^{2}=(n+i\kappa )^{2},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<munder>
+<mi>ε<!-- ε --></mi>
+<mo>_<!-- _ --></mo>
+</munder>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>i</mi>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ε<!-- ε --></mi>
+<mo stretchy="false">~<!-- ~ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<munder>
+<mi>n</mi>
+<mo>_<!-- _ --></mo>
+</munder>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mi>i</mi>
+<mi>κ<!-- κ --></mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\underline {\varepsilon }}_{\mathrm {r} }=\varepsilon _{\mathrm {r} }+i{\tilde {\varepsilon }}_{\mathrm {r} }={\underline {n}}^{2}=(n+i\kappa )^{2},}</annotation>
+</semantics>
+</math></span><img alt="{\underline {\varepsilon }}_{\mathrm {r} }=\varepsilon _{\mathrm {r} }+i{\tilde {\varepsilon }}_{\mathrm {r} }={\underline {n}}^{2}=(n+i\kappa )^{2}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d8a3fce7d5fc4aea9867b7ad5a750dd821049c1a" style="vertical-align: -0.648ex; margin-bottom: -0.69ex; width:31.509ex; height:3.676ex;"/></span></dd></dl>
+<p>and their components are related by:<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon _{\mathrm {r} }=n^{2}-\kappa ^{2},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>κ<!-- κ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon _{\mathrm {r} }=n^{2}-\kappa ^{2},}</annotation>
+</semantics>
+</math></span><img alt="\varepsilon _{\mathrm {r} }=n^{2}-\kappa ^{2}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/291c72b2389da0ed72e4cda1432634807cac34f2" style="vertical-align: -0.671ex; width:13.388ex; height:3.009ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\tilde {\varepsilon }}_{\mathrm {r} }=2n\kappa ,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ε<!-- ε --></mi>
+<mo stretchy="false">~<!-- ~ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>2</mn>
+<mi>n</mi>
+<mi>κ<!-- κ --></mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\tilde {\varepsilon }}_{\mathrm {r} }=2n\kappa ,}</annotation>
+</semantics>
+</math></span><img alt="{\tilde {\varepsilon }}_{\mathrm {r} }=2n\kappa ," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a30fb52ebe95385e1c61734667c091b6468935c2" style="vertical-align: -0.671ex; width:9.874ex; height:2.509ex;"/></span></dd></dl>
+<p>and:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n={\sqrt {\frac {|{\underline {\varepsilon }}_{\mathrm {r} }|+\varepsilon _{\mathrm {r} }}{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<munder>
+<mi>ε<!-- ε --></mi>
+<mo>_<!-- _ --></mo>
+</munder>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>+</mo>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n={\sqrt {\frac {|{\underline {\varepsilon }}_{\mathrm {r} }|+\varepsilon _{\mathrm {r} }}{2}}},}</annotation>
+</semantics>
+</math></span><img alt="n={\sqrt {\frac {|{\underline {\varepsilon }}_{\mathrm {r} }|+\varepsilon _{\mathrm {r} }}{2}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cdfd0fe3e283be3ba53b079b4131cdfab79997a7" style="vertical-align: -2.838ex; width:16.434ex; height:7.676ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \kappa ={\sqrt {\frac {|{\underline {\varepsilon }}_{\mathrm {r} }|-\varepsilon _{\mathrm {r} }}{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>κ<!-- κ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<munder>
+<mi>ε<!-- ε --></mi>
+<mo>_<!-- _ --></mo>
+</munder>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \kappa ={\sqrt {\frac {|{\underline {\varepsilon }}_{\mathrm {r} }|-\varepsilon _{\mathrm {r} }}{2}}}.}</annotation>
+</semantics>
+</math></span><img alt="\kappa ={\sqrt {\frac {|{\underline {\varepsilon }}_{\mathrm {r} }|-\varepsilon _{\mathrm {r} }}{2}}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ec455404f85c3cc61bdd9d4e02a42f18a267a4e" style="vertical-align: -2.838ex; width:16.378ex; height:7.676ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle |{\underline {\varepsilon }}_{\mathrm {r} }|={\sqrt {\varepsilon _{\mathrm {r} }^{2}+{\tilde {\varepsilon }}_{\mathrm {r} }^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<munder>
+<mi>ε<!-- ε --></mi>
+<mo>_<!-- _ --></mo>
+</munder>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msubsup>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ε<!-- ε --></mi>
+<mo stretchy="false">~<!-- ~ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle |{\underline {\varepsilon }}_{\mathrm {r} }|={\sqrt {\varepsilon _{\mathrm {r} }^{2}+{\tilde {\varepsilon }}_{\mathrm {r} }^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="|{\underline {\varepsilon }}_{\mathrm {r} }|={\sqrt {\varepsilon _{\mathrm {r} }^{2}+{\tilde {\varepsilon }}_{\mathrm {r} }^{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c9f3390ec65b72c342503d5932a7b5a2520a17b7" style="vertical-align: -1.671ex; width:16.144ex; height:4.843ex;"/></span> is the <a class="mw-redirect" href="/wiki/Modulus_of_complex_number" title="Modulus of complex number">complex modulus</a>.
+</p>
+<h3><span class="mw-headline" id="Density">Density</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=17" title="Edit section: Density">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:372px;"><a class="image" href="/wiki/File:Density-nd.GIF"><img alt="A scatter plot showing a strong correlation between glass density and refractive index for different glasses" class="thumbimage" data-file-height="623" data-file-width="911" height="253" src="//upload.wikimedia.org/wikipedia/en/thumb/3/3b/Density-nd.GIF/370px-Density-nd.GIF" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/3b/Density-nd.GIF/555px-Density-nd.GIF 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/3b/Density-nd.GIF/740px-Density-nd.GIF 2x" width="370"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Density-nd.GIF" title="Enlarge"></a></div>Relation between the refractive index and the density of <a class="mw-redirect" href="/wiki/Silicate_glass" title="Silicate glass">silicate</a> and <a href="/wiki/Borosilicate_glass" title="Borosilicate glass">borosilicate glasses</a><sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup></div></div></div>
+<p>In general, the refractive index of a glass increases with its <a href="/wiki/Density" title="Density">density</a>. However, there does not exist an overall linear relation between the refractive index and the density for all silicate and borosilicate glasses. A relatively high refractive index and low density can be obtained with glasses containing light metal oxides such as <a href="/wiki/Lithium_oxide" title="Lithium oxide">Li<sub>2</sub>O</a> and <a href="/wiki/Magnesium_oxide" title="Magnesium oxide">MgO</a>, while the opposite trend is observed with glasses containing <a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">PbO</a> and <a href="/wiki/Barium_oxide" title="Barium oxide">BaO</a> as seen in the diagram at the right.
+</p><p>Many oils (such as <a href="/wiki/Olive_oil" title="Olive oil">olive oil</a>) and <a class="mw-redirect" href="/wiki/Ethyl_alcohol" title="Ethyl alcohol">ethyl alcohol</a> are examples of liquids which are more refractive, but less dense, than water, contrary to the general correlation between density and refractive index.
+</p><p>For gases, <i>n</i> − 1 is proportional to the density of the gas as long as the chemical composition does not change.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup> This means that it is also proportional to the pressure and inversely proportional to the temperature for <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gases</a>.
+</p>
+<h3><span class="mw-headline" id="Group_index">Group index</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=18" title="Edit section: Group index">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sometimes, a "group velocity refractive index", usually called the <i>group index</i> is defined:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>]</sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{\mathrm {g} }={\frac {\mathrm {c} }{v_{\mathrm {g} }}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+</mrow>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{\mathrm {g} }={\frac {\mathrm {c} }{v_{\mathrm {g} }}},}</annotation>
+</semantics>
+</math></span><img alt="n_{\mathrm {g} }={\frac {\mathrm {c} }{v_{\mathrm {g} }}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7abe045a498c0725f692b2a131d0150206bb6963" style="vertical-align: -2.505ex; width:9.212ex; height:5.343ex;"/></span></dd></dl>
+<p>where <i>v</i><sub>g</sub> is the <a href="/wiki/Group_velocity" title="Group velocity">group velocity</a>. This value should not be confused with <i>n</i>, which is always defined with respect to the <a href="/wiki/Phase_velocity" title="Phase velocity">phase velocity</a>. When the <a href="/wiki/Dispersion_(optics)" title="Dispersion (optics)">dispersion</a> is small, the group velocity can be linked to the phase velocity by the relation<sup class="reference" id="cite_ref-bornwolf_32-2"><a href="#cite_note-bornwolf-32">[32]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>22</span></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v_{\mathrm {g} }=v-\lambda {\frac {\mathrm {d} v}{\mathrm {d} \lambda }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>v</mi>
+<mo>−<!-- − --></mo>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>v</mi>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>λ<!-- λ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v_{\mathrm {g} }=v-\lambda {\frac {\mathrm {d} v}{\mathrm {d} \lambda }},}</annotation>
+</semantics>
+</math></span><img alt="v_{\mathrm {g} }=v-\lambda {\frac {\mathrm {d} v}{\mathrm {d} \lambda }}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac0bd2c98e1254b6279d6267126c499302a6d1cb" style="vertical-align: -2.005ex; width:14.734ex; height:5.509ex;"/></span></dd></dl>
+<p>where <i>λ</i> is the wavelength in the medium. In this case the group index can thus be written in terms of the wavelength dependence of the refractive index as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{\mathrm {g} }={\frac {n}{1+{\frac {\lambda }{n}}{\frac {\mathrm {d} n}{\mathrm {d} \lambda }}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>n</mi>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>λ<!-- λ --></mi>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>n</mi>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>λ<!-- λ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{\mathrm {g} }={\frac {n}{1+{\frac {\lambda }{n}}{\frac {\mathrm {d} n}{\mathrm {d} \lambda }}}}.}</annotation>
+</semantics>
+</math></span><img alt="n_{\mathrm {g} }={\frac {n}{1+{\frac {\lambda }{n}}{\frac {\mathrm {d} n}{\mathrm {d} \lambda }}}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5268a1c7c95fe1ab51c68abafadf9a1fbbb4d532" style="vertical-align: -3.505ex; width:15.592ex; height:6.343ex;"/></span></dd></dl>
+<p>When the refractive index of a medium is known as a function of the vacuum wavelength (instead of the wavelength in the medium), the corresponding expressions for the group velocity and index are (for all values of dispersion) <sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle v_{\mathrm {g} }=\mathrm {c} \!\left(n-\lambda _{0}{\frac {\mathrm {d} n}{\mathrm {d} \lambda _{0}}}\right)^{-1}\!,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>n</mi>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mspace width="negativethinmathspace"></mspace>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v_{\mathrm {g} }=\mathrm {c} \!\left(n-\lambda _{0}{\frac {\mathrm {d} n}{\mathrm {d} \lambda _{0}}}\right)^{-1}\!,}</annotation>
+</semantics>
+</math></span><img alt="v_{\mathrm {g} }=\mathrm {c} \!\left(n-\lambda _{0}{\frac {\mathrm {d} n}{\mathrm {d} \lambda _{0}}}\right)^{-1}\!," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eed0f4b88d795b2195d09fdd9c2a3d1067d4926c" style="vertical-align: -2.505ex; width:23.122ex; height:6.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{\mathrm {g} }=n-\lambda _{0}{\frac {\mathrm {d} n}{\mathrm {d} \lambda _{0}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>n</mi>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{\mathrm {g} }=n-\lambda _{0}{\frac {\mathrm {d} n}{\mathrm {d} \lambda _{0}}},}</annotation>
+</semantics>
+</math></span><img alt="n_{\mathrm {g} }=n-\lambda _{0}{\frac {\mathrm {d} n}{\mathrm {d} \lambda _{0}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2d8f364e83b1be03c259248ee26d7854a6c12798" style="vertical-align: -2.338ex; width:17.377ex; height:5.843ex;"/></span></dd></dl>
+<p>where <i>λ</i><sub>0</sub> is the wavelength in vacuum.
+</p>
+<h3><span id="Momentum_.28Abraham.E2.80.93Minkowski_controversy.29"></span><span class="mw-headline" id="Momentum_(Abraham–Minkowski_controversy)">Momentum (Abraham–Minkowski controversy)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=19" title="Edit section: Momentum (Abraham–Minkowski controversy)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Abraham%E2%80%93Minkowski_controversy" title="Abraham–Minkowski controversy">Abraham–Minkowski controversy</a></div>
+<p>In 1908, <a href="/wiki/Hermann_Minkowski" title="Hermann Minkowski">Hermann Minkowski</a> calculated the momentum <i>p</i> of a refracted ray as follows:<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p={\frac {nE}{\mathrm {c} }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mi>E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p={\frac {nE}{\mathrm {c} }},}</annotation>
+</semantics>
+</math></span><img alt="p={\frac {nE}{\mathrm {c} }}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4464bea83d25ca6f69fb2712dbd6a4d2382a6bc5" style="vertical-align: -1.838ex; margin-left: -0.089ex; width:9.011ex; height:5.176ex;"/></span></dd></dl>
+<p>where <i>E</i> is energy of the photon, c is the speed of light in vacuum and <i>n</i> is the refractive index of the medium. In 1909, <a href="/wiki/Max_Abraham" title="Max Abraham">Max Abraham</a> proposed the following formula for this calculation:<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p={\frac {E}{n\mathrm {c} }}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>E</mi>
+<mrow>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p={\frac {E}{n\mathrm {c} }}.}</annotation>
+</semantics>
+</math></span><img alt="p={\frac {E}{n\mathrm {c} }}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8d3be1d5ec64aed2d98581f845d7ca140139dd47" style="vertical-align: -1.838ex; margin-left: -0.089ex; width:8.267ex; height:5.176ex;"/></span></dd></dl>
+<p>A 2010 study suggested that <i>both</i> equations are correct, with the Abraham version being the <a class="mw-redirect" href="/wiki/Kinetic_momentum" title="Kinetic momentum">kinetic momentum</a> and the Minkowski version being the <a class="mw-redirect" href="/wiki/Canonical_momentum" title="Canonical momentum">canonical momentum</a>, and claims to explain the contradicting experimental results using this interpretation.<sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Other_relations">Other relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=20" title="Edit section: Other relations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As shown in the <a href="/wiki/Fizeau_experiment" title="Fizeau experiment">Fizeau experiment</a>, when light is transmitted through a moving medium, its speed relative to an observer traveling with speed <i>v</i> in the same direction as the light is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V={\frac {\mathrm {c} }{n}}+{\frac {v\left(1-{\frac {1}{n^{2}}}\right)}{1+{\frac {v}{cn}}}}\approx {\frac {\mathrm {c} }{n}}+v\left(1-{\frac {1}{n^{2}}}\right)\ .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>v</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>v</mi>
+<mrow>
+<mi>c</mi>
+<mi>n</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">c</mi>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mi>v</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mtext> </mtext>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V={\frac {\mathrm {c} }{n}}+{\frac {v\left(1-{\frac {1}{n^{2}}}\right)}{1+{\frac {v}{cn}}}}\approx {\frac {\mathrm {c} }{n}}+v\left(1-{\frac {1}{n^{2}}}\right)\ .}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V={\frac {\mathrm {c} }{n}}+{\frac {v\left(1-{\frac {1}{n^{2}}}\right)}{1+{\frac {v}{cn}}}}\approx {\frac {\mathrm {c} }{n}}+v\left(1-{\frac {1}{n^{2}}}\right)\ .}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d015669ce76b88985c48388a2c521eb471dfeaf6" style="vertical-align: -2.838ex; width:43.748ex; height:8.509ex;"/></span></dd></dl>
+<p>The refractive index of a substance can be related to its <a href="/wiki/Polarizability" title="Polarizability">polarizability</a> with the <a class="mw-redirect" href="/wiki/Lorentz%E2%80%93Lorenz_equation" title="Lorentz–Lorenz equation">Lorentz–Lorenz equation</a> or to the <a href="/wiki/Molar_refractivity" title="Molar refractivity">molar refractivities</a> of its constituents by the <a href="/wiki/Gladstone%E2%80%93Dale_relation" title="Gladstone–Dale relation">Gladstone–Dale relation</a>.
+</p>
+<h3><span class="mw-headline" id="Refractivity">Refractivity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=21" title="Edit section: Refractivity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In atmospheric applications, the <i>refractivity</i> is taken as <i>N</i> = <i>n</i> – 1.  Atmospheric refractivity is often expressed as either<sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[45]</a></sup> <i>N</i> = <span class="nowrap"><span class="sortkey" style="display:none">7006100000000000000♠</span>10<sup>6</sup></span>(<i>n</i> – 1)<sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[46]</a></sup><sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup> or <i>N</i> = <span class="nowrap"><span class="sortkey" style="display:none">7008100000000000000♠</span>10<sup>8</sup></span>(<i>n</i> – 1)<sup class="reference" id="cite_ref-48"><a href="#cite_note-48">[48]</a></sup>  The multiplication factors are used because the refractive index for air, <i>n</i> deviates from unity by at most a few parts per ten thousand.
+</p><p><a href="/wiki/Molar_refractivity" title="Molar refractivity">Molar refractivity</a>, on the other hand, is a measure of the total <a href="/wiki/Polarizability" title="Polarizability">polarizability</a> of a <a href="/wiki/Mole_(unit)" title="Mole (unit)">mole</a> of a substance and can be calculated from the refractive index as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A={\frac {M}{\rho }}{\frac {n^{2}-1}{n^{2}+2}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>M</mi>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<msup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mn>2</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A={\frac {M}{\rho }}{\frac {n^{2}-1}{n^{2}+2}},}</annotation>
+</semantics>
+</math></span><img alt="A={\frac {M}{\rho }}{\frac {n^{2}-1}{n^{2}+2}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6ccb950c4cbc9d8cdae07369a3b54a07d327e540" style="vertical-align: -2.338ex; width:16.055ex; height:6.176ex;"/></span></dd></dl>
+<p>where <i>ρ</i> is the <a href="/wiki/Density" title="Density">density</a>, and <i>M</i> is the <a href="/wiki/Molar_mass" title="Molar mass">molar mass</a>.<sup class="reference" id="cite_ref-bornwolf_32-3"><a href="#cite_note-bornwolf-32">[32]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>93</span></sup>
+</p>
+<h2><span id="Nonscalar.2C_nonlinear.2C_or_nonhomogeneous_refraction"></span><span class="mw-headline" id="Nonscalar,_nonlinear,_or_nonhomogeneous_refraction">Nonscalar, nonlinear, or nonhomogeneous refraction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=22" title="Edit section: Nonscalar, nonlinear, or nonhomogeneous refraction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>So far, we have assumed that refraction is given by linear equations involving a spatially constant, scalar refractive index. These assumptions can break down in different ways, to be described in the following subsections.
+</p>
+<h3><span class="mw-headline" id="Birefringence">Birefringence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=23" title="Edit section: Birefringence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Birefringence" title="Birefringence">Birefringence</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Calcite.jpg"><img alt="A crystal giving a double image of the text behind it" class="thumbimage" data-file-height="329" data-file-width="750" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Calcite.jpg/220px-Calcite.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Calcite.jpg/330px-Calcite.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Calcite.jpg/440px-Calcite.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Calcite.jpg" title="Enlarge"></a></div>A <a href="/wiki/Calcite" title="Calcite">calcite</a> crystal laid upon a paper with some letters showing <a class="mw-redirect" href="/wiki/Double_refraction" title="Double refraction">double refraction</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Plastic_Protractor_Polarized_05375.jpg"><img alt="A transparent plastic protractor with smoothly varying bright colors" class="thumbimage" data-file-height="1536" data-file-width="2048" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plastic_Protractor_Polarized_05375.jpg/220px-Plastic_Protractor_Polarized_05375.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plastic_Protractor_Polarized_05375.jpg/330px-Plastic_Protractor_Polarized_05375.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plastic_Protractor_Polarized_05375.jpg/440px-Plastic_Protractor_Polarized_05375.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Plastic_Protractor_Polarized_05375.jpg" title="Enlarge"></a></div>Birefringent materials can give rise to colors when placed between crossed polarizers. This is the basis for <a href="/wiki/Photoelasticity" title="Photoelasticity">photoelasticity</a>.</div></div></div>
+<p>In some materials the refractive index depends on the <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">polarization</a> and propagation direction of the light.<sup class="reference" id="cite_ref-49"><a href="#cite_note-49">[49]</a></sup> This is called <a href="/wiki/Birefringence" title="Birefringence">birefringence</a> or optical <a href="/wiki/Anisotropy" title="Anisotropy">anisotropy</a>.
+</p><p>In the simplest form, uniaxial birefringence, there is only one special direction in the material. This axis is known as the <a href="/wiki/Optic_axis_of_a_crystal" title="Optic axis of a crystal">optical axis</a> of the material.<sup class="reference" id="cite_ref-Hecht_1-8"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>230</span></sup> Light with linear polarization perpendicular to this axis will experience an <i>ordinary</i> refractive index <i>n</i><sub>o</sub> while light polarized in parallel will experience an <i>extraordinary</i> refractive index <i>n</i><sub>e</sub>.<sup class="reference" id="cite_ref-Hecht_1-9"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>236</span></sup> The birefringence of the material is the difference between these indices of refraction, Δ<i>n</i> = <i>n</i><sub>e</sub> − <i>n</i><sub>o</sub>.<sup class="reference" id="cite_ref-Hecht_1-10"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>237</span></sup> Light propagating in the direction of the optical axis will not be affected by the birefringence since the refractive index will be <i>n</i><sub>o</sub> independent of polarization. For other propagation directions the light will split into two linearly polarized beams. For light traveling perpendicularly to the optical axis the beams will have the same direction.<sup class="reference" id="cite_ref-Hecht_1-11"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>233</span></sup> This can be used to change the polarization direction of linearly polarized light or to convert between linear, circular and elliptical polarizations with <a href="/wiki/Waveplate" title="Waveplate">waveplates</a>.<sup class="reference" id="cite_ref-Hecht_1-12"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>237</span></sup>
+</p><p>Many <a href="/wiki/Crystal" title="Crystal">crystals</a> are naturally birefringent, but <a class="mw-redirect" href="/wiki/Isotropic" title="Isotropic">isotropic</a> materials such as <a href="/wiki/Plastic" title="Plastic">plastics</a> and <a href="/wiki/Glass" title="Glass">glass</a> can also often be made birefringent by introducing a preferred direction through, e.g., an external force or electric field. This effect is called <a href="/wiki/Photoelasticity" title="Photoelasticity">photoelasticity</a>, and can be used to reveal stresses in structures. The birefringent material is placed between crossed <a class="mw-redirect" href="/wiki/Polarizers" title="Polarizers">polarizers</a>. A change in birefringence alters the polarization and thereby the fraction of light that is transmitted through the second polarizer.
+</p><p>In the more general case of trirefringent materials described by the field of <a href="/wiki/Crystal_optics" title="Crystal optics">crystal optics</a>, the <i>dielectric constant</i> is a rank-2 <a href="/wiki/Tensor" title="Tensor">tensor</a> (a 3 by 3 matrix). In this case the propagation of light cannot simply be described by refractive indices except for polarizations along principal axes.
+</p>
+<h3><span class="mw-headline" id="Nonlinearity">Nonlinearity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=24" title="Edit section: Nonlinearity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Nonlinear_optics" title="Nonlinear optics">Nonlinear optics</a></div>
+<p>The strong <a href="/wiki/Electric_field" title="Electric field">electric field</a> of high intensity light (such as output of a <a href="/wiki/Laser" title="Laser">laser</a>) may cause a medium's refractive index to vary as the light passes through it, giving rise to <a href="/wiki/Nonlinear_optics" title="Nonlinear optics">nonlinear optics</a>.<sup class="reference" id="cite_ref-Hecht_1-13"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>502</span></sup> If the index varies quadratically with the field (linearly with the intensity), it is called the <a href="/wiki/Kerr_effect" title="Kerr effect">optical Kerr effect</a> and causes phenomena such as <a href="/wiki/Self-focusing" title="Self-focusing">self-focusing</a> and <a href="/wiki/Self-phase_modulation" title="Self-phase modulation">self-phase modulation</a>.<sup class="reference" id="cite_ref-Hecht_1-14"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>264</span></sup> If the index varies linearly with the field (a nontrivial linear coefficient is only possible in materials that do not possess <a class="mw-redirect" href="/wiki/Inversion_symmetry" title="Inversion symmetry">inversion symmetry</a>), it is known as the <a href="/wiki/Pockels_effect" title="Pockels effect">Pockels effect</a>.<sup class="reference" id="cite_ref-Hecht_1-15"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>265</span></sup>
+</p>
+<h3><span class="mw-headline" id="Inhomogeneity">Inhomogeneity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=25" title="Edit section: Inhomogeneity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Grin-lens.png"><img alt="Illustration with gradually bending rays of light in a thick slab of glass" class="thumbimage" data-file-height="193" data-file-width="350" height="121" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Grin-lens.png/220px-Grin-lens.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Grin-lens.png/330px-Grin-lens.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/2c/Grin-lens.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Grin-lens.png" title="Enlarge"></a></div>A gradient-index lens with a parabolic variation of refractive index (<i>n</i>) with radial distance (<i>x</i>). The lens focuses light in the same way as a conventional lens.</div></div></div>
+<p>If the refractive index of a medium is not constant, but varies gradually with position, the material is known as a gradient-index or GRIN medium and is described by <a class="mw-redirect" href="/wiki/Gradient_index_optics" title="Gradient index optics">gradient index optics</a>.<sup class="reference" id="cite_ref-Hecht_1-16"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>273</span></sup> Light traveling through such a medium can be bent or focused, and this effect can be exploited to produce <a href="/wiki/Lens_(optics)" title="Lens (optics)">lenses</a>, some <a href="/wiki/Optical_fiber" title="Optical fiber">optical fibers</a> and other devices. Introducing GRIN elements in the design of an optical system can greatly simplify the system, reducing the number of elements by as much as a third while maintaining overall performance.<sup class="reference" id="cite_ref-Hecht_1-17"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>276</span></sup> The crystalline lens of the human eye is an example of a GRIN lens with a refractive index varying from about 1.406 in the inner core to approximately 1.386 at the less dense cortex.<sup class="reference" id="cite_ref-Hecht_1-18"><a href="#cite_note-Hecht-1">[1]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>203</span></sup> Some common <a href="/wiki/Mirage" title="Mirage">mirages</a> are caused by a spatially varying refractive index of <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">air</a>.
+</p>
+<h2><span class="mw-headline" id="Refractive_index_measurement">Refractive index measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=26" title="Edit section: Refractive index measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Homogeneous_media">Homogeneous media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=27" title="Edit section: Homogeneous media">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Refractometry" title="Refractometry">Refractometry</a> and <a href="/wiki/Refractometer" title="Refractometer">Refractometer</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Pulfrich_refraktometer_en.png"><img alt="Illustration of a refractometer measuring the refraction angle of light passing from a sample into a prism along the interface" class="thumbimage" data-file-height="533" data-file-width="860" height="136" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pulfrich_refraktometer_en.png/220px-Pulfrich_refraktometer_en.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pulfrich_refraktometer_en.png/330px-Pulfrich_refraktometer_en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pulfrich_refraktometer_en.png/440px-Pulfrich_refraktometer_en.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Pulfrich_refraktometer_en.png" title="Enlarge"></a></div>The principle of many refractometers</div></div></div>
+<p>The refractive index of liquids or solids can be measured with <a href="/wiki/Refractometer" title="Refractometer">refractometers</a>. They typically measure some angle of refraction or the critical angle for total internal reflection. The first <a href="/wiki/Abbe_refractometer" title="Abbe refractometer">laboratory refractometers</a> sold commercially were developed by <a href="/wiki/Ernst_Abbe" title="Ernst Abbe">Ernst Abbe</a> in the late 19th century.<sup class="reference" id="cite_ref-50"><a href="#cite_note-50">[50]</a></sup>
+The same principles are still used today. In this instrument a thin layer of the liquid to be measured is placed between two prisms. Light is shone through the liquid at incidence angles all the way up to 90°, i.e., light rays <a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">parallel</a> to the surface. The second prism should have an index of refraction higher than that of the liquid, so that light only enters the prism at angles smaller than the critical angle for total reflection. This angle can then be measured either by looking through a <a href="/wiki/Telescope" title="Telescope">telescope</a>,<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (June 2017)">clarification needed</span></a></i>]</sup> or with a digital <a href="/wiki/Photodetector" title="Photodetector">photodetector</a> placed in the focal plane of a lens. The refractive index <i>n</i> of the liquid can then be calculated from the maximum transmission angle <i>θ</i> as <i>n</i> = <i>n</i><sub>G</sub> sin <i>θ</i>, where <i>n</i><sub>G</sub> is the refractive index of the prism.<sup class="reference" id="cite_ref-51"><a href="#cite_note-51">[51]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Refractometer.jpg"><img alt="A small cylindrical refractometer with a surface for the sample at one end and an eye piece to look into at the other end" class="thumbimage" data-file-height="1200" data-file-width="1600" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Refractometer.jpg/220px-Refractometer.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Refractometer.jpg/330px-Refractometer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Refractometer.jpg/440px-Refractometer.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Refractometer.jpg" title="Enlarge"></a></div>A handheld refractometer used to measure sugar content of fruits</div></div></div>
+<p>This type of devices are commonly used in <a href="/wiki/Chemistry" title="Chemistry">chemical</a> laboratories for identification of <a href="/wiki/Chemical_substance" title="Chemical substance">substances</a> and for <a href="/wiki/Quality_control" title="Quality control">quality control</a>. <a href="/wiki/Digital_handheld_refractometer" title="Digital handheld refractometer">Handheld variants</a> are used in <a href="/wiki/Agriculture" title="Agriculture">agriculture</a> by, e.g., <a class="mw-redirect" href="/wiki/Wine_maker" title="Wine maker">wine makers</a> to determine <a href="/wiki/Brix" title="Brix">sugar content</a> in <a href="/wiki/Grape" title="Grape">grape</a> juice, and <a href="/wiki/Inline_process_refractometer" title="Inline process refractometer">inline process refractometers</a> are used in, e.g., <a href="/wiki/Chemical_industry" title="Chemical industry">chemical</a> and <a href="/wiki/Pharmaceutical_industry" title="Pharmaceutical industry">pharmaceutical industry</a> for <a href="/wiki/Process_control" title="Process control">process control</a>.
+</p><p>In <a href="/wiki/Gemology" title="Gemology">gemology</a> a different type of refractometer is used to measure index of refraction and birefringence of <a class="mw-redirect" href="/wiki/Gemstones" title="Gemstones">gemstones</a>. The gem is placed on a high refractive index prism and illuminated from below. A high refractive index contact liquid is used to achieve optical contact between the gem and the prism. At small incidence angles most of the light will be transmitted into the gem, but at high angles total internal reflection will occur in the prism. The critical angle is normally measured by looking through a telescope.<sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[52]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Refractive_index_variations">Refractive index variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=28" title="Edit section: Refractive index variations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Phase-contrast_imaging" title="Phase-contrast imaging">Phase-contrast imaging</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg"><img alt="Yeast cells with dark borders to the upper left and bright borders to lower right" class="thumbimage" data-file-height="1567" data-file-width="1567" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/S_cerevisiae_under_DIC_microscopy.jpg/220px-S_cerevisiae_under_DIC_microscopy.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/S_cerevisiae_under_DIC_microscopy.jpg/330px-S_cerevisiae_under_DIC_microscopy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/S_cerevisiae_under_DIC_microscopy.jpg/440px-S_cerevisiae_under_DIC_microscopy.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg" title="Enlarge"></a></div>A differential interference contrast microscopy image of yeast cells</div></div></div>
+<p>Unstained biological structures appear mostly transparent under <a href="/wiki/Bright-field_microscopy" title="Bright-field microscopy">Bright-field microscopy</a> as most cellular structures do not attenuate appreciable quantities of light. Nevertheless, the variation in the materials that constitutes these structures also corresponds to a variation in the refractive index.  The following techniques convert such variation into measurable amplitude differences:
+</p><p>To measure the spatial variation of refractive index in a sample <a href="/wiki/Phase-contrast_imaging" title="Phase-contrast imaging">phase-contrast imaging</a> methods are used. These methods measure the variations in <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a> of the light wave exiting the sample. The phase is proportional to the <a href="/wiki/Optical_path_length" title="Optical path length">optical path length</a> the light ray has traversed, and thus gives a measure of the <a href="/wiki/Integral" title="Integral">integral</a> of the refractive index along the ray path. The phase cannot be measured directly at optical or higher frequencies, and therefore needs to be converted into <a href="/wiki/Intensity_(physics)" title="Intensity (physics)">intensity</a> by <a class="mw-redirect" href="/wiki/Interference_(optics)" title="Interference (optics)">interference</a> with a reference beam. In the visual spectrum this is done using Zernike <a href="/wiki/Phase-contrast_microscopy" title="Phase-contrast microscopy">phase-contrast microscopy</a>, <a href="/wiki/Differential_interference_contrast_microscopy" title="Differential interference contrast microscopy">differential interference contrast microscopy</a> (DIC) or <a href="/wiki/Interferometry" title="Interferometry">interferometry</a>.
+</p><p>Zernike phase-contrast microscopy introduces a phase shift to the low <a href="/wiki/Spatial_frequency" title="Spatial frequency">spatial frequency</a> components of the <a href="/wiki/Real_image" title="Real image">image</a> with a phase-shifting <a class="mw-redirect" href="/wiki/Annulus_(geometry)" title="Annulus (geometry)">annulus</a> in the <a href="/wiki/Fourier_optics" title="Fourier optics">Fourier plane</a> of the sample, so that high-spatial-frequency parts of the image can interfere with the low-frequency reference beam. In DIC the illumination is split up into two beams that are given different polarizations, are phase shifted differently, and are shifted transversely with slightly different amounts. After the specimen, the two parts are made to interfere, giving an image of the derivative of the optical path length in the direction of the difference in transverse shift.<sup class="reference" id="cite_ref-Carlsson_36-2"><a href="#cite_note-Carlsson-36">[36]</a></sup> In interferometry the illumination is split up into two beams by a <a href="/wiki/Beam_splitter" title="Beam splitter">partially reflective mirror</a>. One of the beams is let through the sample before they are combined to interfere and give a direct image of the phase shifts. If the optical path length variations are more than a wavelength the image will contain fringes.
+</p><p>There exist several <a href="/wiki/Phase-contrast_X-ray_imaging" title="Phase-contrast X-ray imaging">phase-contrast X-ray imaging</a> techniques to determine 2D or 3D spatial distribution of refractive index of samples in the X-ray regime.<sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[53]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=29" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Refractive_index&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(September 2014)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The refractive index is a very important property of the components of any <a href="/wiki/Optical_instrument" title="Optical instrument">optical instrument</a> that uses refraction. It determines the focusing power of lenses, the dispersive power of prisms, and generally the path of light through the system. It is the increase in refractive index in the <a href="/wiki/Core_(optical_fiber)" title="Core (optical fiber)">core</a> that guides the light in an <a href="/wiki/Optical_fiber" title="Optical fiber">optical fiber</a>, and the variations in refractive index that reduces the reflectivity of a surface treated with an <a href="/wiki/Anti-reflective_coating" title="Anti-reflective coating">anti-reflective coating</a>. Variant refractive index can generate resonant cavity that can enhance phase shift of output light. This is important for design and fabricate a variety of optoelectronic devices such as hologram and lens.<sup class="reference" id="cite_ref-54"><a href="#cite_note-54">[54]</a></sup>
+</p><p>Since refractive index is a fundamental physical property of a substance, it is often used to identify a particular substance, confirm its purity, or measure its concentration. Refractive index is used to measure solids, liquids, and gases. Most commonly it is used to measure the concentration of a solute in an <a class="mw-redirect" href="/wiki/Aqueous" title="Aqueous">aqueous</a> <a href="/wiki/Solution" title="Solution">solution</a>. It can also be used as a useful tool to differentiate between different types of gemstone, due to the unique <a href="/wiki/Chatoyancy" title="Chatoyancy">chatoyance</a> each individual stone displays. A <a href="/wiki/Refractometer" title="Refractometer">refractometer</a> is the instrument used to measure refractive index. For a solution of sugar, the refractive index can be used to determine the sugar content (see <a href="/wiki/Brix" title="Brix">Brix</a>).
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=30" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Fermat%27s_principle" title="Fermat's principle">Fermat's principle</a></li>
+<li><a href="/wiki/Calculation_of_glass_properties" title="Calculation of glass properties">Calculation of glass properties</a></li>
+<li><a href="/wiki/Clausius%E2%80%93Mossotti_relation" title="Clausius–Mossotti relation">Clausius–Mossotti relation</a></li>
+<li><a href="/wiki/Ellipsometry" title="Ellipsometry">Ellipsometry</a></li>
+<li><a href="/wiki/Index-matching_material" title="Index-matching material">Index-matching material</a></li>
+<li><a href="/wiki/Index_ellipsoid" title="Index ellipsoid">Index ellipsoid</a></li>
+<li><a class="mw-redirect" href="/wiki/Laser_Schlieren_Deflectometry" title="Laser Schlieren Deflectometry">Laser Schlieren Deflectometry</a></li>
+<li><a href="/wiki/Optical_properties_of_water_and_ice" title="Optical properties of water and ice">Optical properties of water and ice</a></li>
+<li><a class="mw-redirect" href="/wiki/Prism-coupling_refractometry" title="Prism-coupling refractometry">Prism-coupling refractometry</a></li>
+<li><a href="/wiki/Phase-contrast_X-ray_imaging" title="Phase-contrast X-ray imaging">Phase-contrast X-ray imaging</a></li></ul>
+</div>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=31" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Refractive_index&amp;action=edit&amp;section=32" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://emtoolbox.nist.gov/Wavelength/Documentation.asp" rel="nofollow">NIST calculator for determining the refractive index of air</a></li>
+<li><a class="external text" href="http://www.tf.uni-kiel.de/matwis/amat/elmat_en/index.html" rel="nofollow">Dielectric materials</a></li>
+<li><a class="external text" href="http://scienceworld.wolfram.com/physics/IndexofRefraction.html" rel="nofollow">Science World</a></li>
+<li><a class="external text" href="http://www.filmetrics.com/refractive-index-database" rel="nofollow">Filmetrics' online database</a> Free database of refractive index and absorption coefficient information</li>
+<li><a class="external text" href="http://RefractiveIndex.INFO/" rel="nofollow">RefractiveIndex.INFO</a> Refractive index database featuring online plotting and parameterisation of data</li>
+<li><a class="external text" href="http://www.sopra-sa.com/" rel="nofollow">sopra-sa.com</a> Refractive index database as text files (sign-up required)</li>
+<li><a class="external text" href="http://luxpop.com/" rel="nofollow">LUXPOP</a> Thin film and bulk index of refraction and photonics calculations</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20181024042139
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.848 seconds
+Real time usage: 1.013 seconds
+Preprocessor visited node count: 4472/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 119078/2097152 bytes
+Template argument size: 1778/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 142463/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.399/10.000 seconds
+Lua memory usage: 9.1 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  673.773      1 -total
+ 64.27%  433.039      1 Template:Reflist
+ 20.95%  141.165     16 Template:Cite_journal
+ 16.51%  111.268     13 Template:Cite_book
+  9.52%   64.116     13 Template:Cite_web
+  8.66%   58.341     11 Template:Val
+  7.24%   48.794      2 Template:Citation_needed
+  6.48%   43.631      2 Template:Fix
+  4.13%   27.798      3 Template:Citation
+  3.98%   26.839      6 Template:Category_handler
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25880-0!canonical!math=5 and timestamp 20181024042138 and revision id 855669530
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Refractive_index&amp;oldid=855669530">https://en.wikipedia.org/w/index.php?title=Refractive_index&amp;oldid=855669530</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Dimensionless_numbers" title="Category:Dimensionless numbers">Dimensionless numbers</a></li><li><a href="/wiki/Category:Physical_quantities" title="Category:Physical quantities">Physical quantities</a></li><li><a href="/wiki/Category:Refraction" title="Category:Refraction">Refraction</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2015" title="Category:Articles with unsourced statements from June 2015">Articles with unsourced statements from June 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_June_2017" title="Category:Wikipedia articles needing clarification from June 2017">Wikipedia articles needing clarification from June 2017</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2014" title="Category:Articles needing additional references from September 2014">Articles needing additional references from September 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Refractive+index" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Refractive+index" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Refractive_index" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Refractive_index" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Refractive_index">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Refractive_index&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Refractive_index&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Refractive_index" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Refractive_index" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Refractive_index&amp;oldid=855669530" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Refractive_index&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q174102" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Refractive_index&amp;id=855669530" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Refractive+index">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Refractive+index&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Refractive_index&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Refraction" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%A7%D9%86%D9%83%D8%B3%D8%A7%D8%B1" hreflang="ar" lang="ar" title="معامل الانكسار – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/%C3%8Dndiz_de_refraici%C3%B3n" hreflang="ast" lang="ast" title="Índiz de refraición – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C4%B0%C5%9F%C4%B1%C4%9F%C4%B1n_tam_daxili_qay%C4%B1tmas%C4%B1" hreflang="az" lang="az" title="İşığın tam daxili qayıtması – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D1%8B%D0%BA_%D0%BF%D1%80%D0%B0%D0%BB%D0%B0%D0%BC%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="be" lang="be" title="Паказчык праламлення – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D1%87%D1%83%D0%BF%D0%B2%D0%B0%D0%BD%D0%B5" hreflang="bg" lang="bg" title="Показател на пречупване – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Indeks_prelamanja" hreflang="bs" lang="bs" title="Indeks prelamanja – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/%C3%8Dndex_de_refracci%C3%B3" hreflang="ca" lang="ca" title="Índex de refracció – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Index_lomu" hreflang="cs" lang="cs" title="Index lomu – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Mynegrif_plygiant" hreflang="cy" lang="cy" title="Mynegrif plygiant – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Brydningsindeks" hreflang="da" lang="da" title="Brydningsindeks – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Brechungsindex" hreflang="de" lang="de" title="Brechungsindex – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Murdumisn%C3%A4itaja" hreflang="et" lang="et" title="Murdumisnäitaja – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%94%CE%B5%CE%AF%CE%BA%CF%84%CE%B7%CF%82_%CE%B4%CE%B9%CE%AC%CE%B8%CE%BB%CE%B1%CF%83%CE%B7%CF%82" hreflang="el" lang="el" title="Δείκτης διάθλασης – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%8Dndice_de_refracci%C3%B3n" hreflang="es" lang="es" title="Índice de refracción – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Refrakta_indico" hreflang="eo" lang="eo" title="Refrakta indico – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Errefrakzio-indize" hreflang="eu" lang="eu" title="Errefrakzio-indize – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B6%D8%B1%DB%8C%D8%A8_%D8%B4%DA%A9%D8%B3%D8%AA" hreflang="fa" lang="fa" title="ضریب شکست – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Indice_de_r%C3%A9fraction" hreflang="fr" lang="fr" title="Indice de réfraction – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Comh%C3%A9ifeacht_athraonta" hreflang="ga" lang="ga" title="Comhéifeacht athraonta – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/%C3%8Dndice_de_refracci%C3%B3n" hreflang="gl" lang="gl" title="Índice de refracción – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B5%B4%EC%A0%88%EB%A5%A0" hreflang="ko" lang="ko" title="굴절률 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A5%D5%AF%D5%B4%D5%A1%D5%B6_%D6%81%D5%B8%D6%82%D6%81%D5%AB%D5%B9" hreflang="hy" lang="hy" title="Բեկման ցուցիչ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%AA%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8%E0%A4%BE%E0%A4%82%E0%A4%95" hreflang="hi" lang="hi" title="अपवर्तनांक – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Indeks_loma" hreflang="hr" lang="hr" title="Indeks loma – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Indeks_bias" hreflang="id" lang="id" title="Indeks bias – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Indice_di_rifrazione" hreflang="it" lang="it" title="Indice di rifrazione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%93%D7%9D_%D7%A9%D7%91%D7%99%D7%A8%D7%94" hreflang="he" lang="he" title="מקדם שבירה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Lau%C5%A1anas_koeficients" hreflang="lv" lang="lv" title="Laušanas koeficients – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/L%C5%AB%C5%BEio_rodiklis" hreflang="lt" lang="lt" title="Lūžio rodiklis – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/T%C3%B6r%C3%A9smutat%C3%B3" hreflang="hu" lang="hu" title="Törésmutató – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AA%E0%B4%B5%E0%B5%BC%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%A8%E0%B4%BE%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B4%82" hreflang="ml" lang="ml" title="അപവർത്തനാങ്കം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%AA%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8%E0%A4%BE%E0%A4%82%E0%A4%95" hreflang="mr" lang="mr" title="अपवर्तनांक – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Indeks_biasan" hreflang="ms" lang="ms" title="Indeks biasan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A5%D1%83%D0%B3%D0%B0%D0%BB%D0%B0%D1%85_%D0%B8%D0%BB%D1%82%D0%B3%D1%8D%D0%B3%D1%87" hreflang="mn" lang="mn" title="Хугалах илтгэгч – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Brekingsindex" hreflang="nl" lang="nl" title="Brekingsindex – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%B1%88%E6%8A%98%E7%8E%87" hreflang="ja" lang="ja" title="屈折率 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Breegtaal" hreflang="frr" lang="frr" title="Breegtaal – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Brytningsindeks" hreflang="no" lang="no" title="Brytningsindeks – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Brytingsindeks" hreflang="nn" lang="nn" title="Brytingsindeks – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%85%E0%A8%AA%E0%A8%B5%E0%A8%B0%E0%A8%A4%E0%A8%A8%E0%A8%BE%E0%A8%82%E0%A8%95" hreflang="pa" lang="pa" title="ਅਪਵਰਤਨਾਂਕ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wsp%C3%B3%C5%82czynnik_za%C5%82amania" hreflang="pl" lang="pl" title="Współczynnik załamania – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%8Dndice_refrativo" hreflang="pt" lang="pt" title="Índice refrativo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Indice_de_refrac%C8%9Bie" hreflang="ro" lang="ro" title="Indice de refracție – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D1%80%D0%B5%D0%BB%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Показатель преломления – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Refractive_index" hreflang="sco" lang="sco" title="Refractive index – Scots">Scots</a></li><li class="interlanguage-link interwiki-stq"><a class="interlanguage-link-target" href="https://stq.wikipedia.org/wiki/Breektaal" hreflang="stq" lang="stq" title="Breektaal – Saterland Frisian">Seeltersk</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Index_lomu" hreflang="sk" lang="sk" title="Index lomu – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Lomni_koli%C4%8Dnik" hreflang="sl" lang="sl" title="Lomni količnik – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%BF%D1%80%D0%B5%D0%BB%D0%B0%D0%BC%D0%B0%D1%9A%D0%B0" hreflang="sr" lang="sr" title="Индекс преламања – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Indeks_prelamanja" hreflang="sh" lang="sh" title="Indeks prelamanja – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Taitekerroin" hreflang="fi" lang="fi" title="Taitekerroin – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Brytningsindex" hreflang="sv" lang="sv" title="Brytningsindex – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B3%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AE%95%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%A3%E0%AF%8D" hreflang="ta" lang="ta" title="ஒளிவிலகல் குறிப்பெண் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%A3%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%B5%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB" hreflang="th" lang="th" title="ดรรชนีหักเห – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1lma_indisi" hreflang="tr" lang="tr" title="Kırılma indisi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0%D0%BB%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Показник заломлення – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Chi%E1%BA%BFt_su%E1%BA%A5t" hreflang="vi" lang="vi" title="Chiết suất – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%8A%98%E5%B0%84%E7%8E%87" hreflang="zh" lang="zh" title="折射率 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q174102#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 20 August 2018, at 00:46<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Refractive_index&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.848","walltime":"1.013","ppvisitednodes":{"value":4472,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":119078,"limit":2097152},"templateargumentsize":{"value":1778,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":142463,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  673.773      1 -total"," 64.27%  433.039      1 Template:Reflist"," 20.95%  141.165     16 Template:Cite_journal"," 16.51%  111.268     13 Template:Cite_book","  9.52%   64.116     13 Template:Cite_web","  8.66%   58.341     11 Template:Val","  7.24%   48.794      2 Template:Citation_needed","  6.48%   43.631      2 Template:Fix","  4.13%   27.798      3 Template:Citation","  3.98%   26.839      6 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.399","limit":"10.000"},"limitreport-memusage":{"value":9546421,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20181024042139","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1323"});});</script>
+</body>
+</html>

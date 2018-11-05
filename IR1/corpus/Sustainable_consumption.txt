@@ -1,0 +1,680 @@
+https://en.wikipedia.org/wiki/Sustainable_consumption
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sustainable consumption - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sustainable_consumption","wgTitle":"Sustainable consumption","wgCurRevisionId":855091448,"wgRevisionId":855091448,"wgArticleId":17996959,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with style issues from October 2017","All articles with style issues","Sustainability by subject","Ethical consumerism","Environmental mitigation","Environmental social science concepts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sustainable_consumption","wgRelevantArticleId":17996959,"wgRequestId":"W9tehwpAIC8AAEG5e6IAAAAB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q477335","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sustainable_consumption" rel="alternate"/>
+<link href="/w/index.php?title=Sustainable_consumption&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sustainable_consumption&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sustainable_consumption" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sustainable_consumption rootpage-Sustainable_consumption skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Sustainable consumption</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">Theories and ideas</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Affluenza" title="Affluenza">Affluenza</a></li>
+<li><a href="/wiki/Alternative_culture" title="Alternative culture">Alternative culture</a></li>
+<li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li>
+<li><a href="/wiki/Billboard_hacking" title="Billboard hacking">Billboard hacking</a></li>
+<li><a href="/wiki/Buddhist_economics" title="Buddhist economics">Buddhist economics</a></li>
+<li><a href="/wiki/Buy_Nothing_Day" title="Buy Nothing Day">Buy Nothing Day</a></li>
+<li><a href="/wiki/Collaborative_consumption" title="Collaborative consumption">Collaborative consumption</a></li>
+<li><a href="/wiki/Commodification" title="Commodification">Commodification</a></li>
+<li><a href="/wiki/Commodity_fetishism" title="Commodity fetishism">Commodity fetishism</a></li>
+<li><a href="/wiki/Commune" title="Commune">Commune</a></li>
+<li><a href="/wiki/Compulsive_buying_disorder" title="Compulsive buying disorder">Compulsive buying disorder</a></li>
+<li><a href="/wiki/Conspicuous_consumption" title="Conspicuous consumption">Conspicuous consumption</a></li>
+<li><a href="/wiki/Consumer_capitalism" title="Consumer capitalism">Consumer capitalism</a></li>
+<li><a href="/wiki/Consumerism" title="Consumerism">Consumerism</a></li>
+<li><a href="/wiki/Criticism_of_advertising" title="Criticism of advertising">Criticism of advertising</a></li>
+<li><a href="/wiki/Culture_jamming" title="Culture jamming">Culture jamming</a></li>
+<li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li>
+<li><a href="/wiki/Do_it_yourself" title="Do it yourself">Do it yourself</a></li>
+<li><a href="/wiki/DIY_ethic" title="DIY ethic">DIY ethic</a></li>
+<li><a href="/wiki/Downshifting_(lifestyle)" title="Downshifting (lifestyle)">Downshifting</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical consumerism</a></li>
+<li><a href="/wiki/Freeganism" title="Freeganism">Freeganism</a></li>
+<li><a href="/wiki/Gift_economy" title="Gift economy">Gift economy</a></li>
+<li><a href="/wiki/Green_consumption" title="Green consumption">Green consumption</a></li>
+<li><a href="/wiki/Hyperconsumerism" title="Hyperconsumerism">Hyperconsumerism</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local food</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Overconsumption" title="Overconsumption">Overconsumption</a></li>
+<li><a href="/wiki/Planned_obsolescence" title="Planned obsolescence">Planned obsolescence</a></li>
+<li><a href="/wiki/Post-consumerism" title="Post-consumerism">Post-consumerism</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Slow_Food" title="Slow Food">Slow Food</a></li>
+<li><a href="/wiki/Spectacle_(critical_theory)" title="Spectacle (critical theory)">Spectacle</a></li>
+<li><a href="/wiki/Steady-state_economy" title="Steady-state economy">Steady-state economy</a></li>
+<li><a href="/wiki/Subvertising" title="Subvertising">Subvertising</a></li>
+<li><a href="/wiki/Sustainable_consumer_behaviour" title="Sustainable consumer behaviour">Sustainable consumer behaviour</a></li>
+<li><a class="mw-selflink selflink">Sustainable consumption</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">Notable works</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;font-style:italic;"><div class="plainlist">
+<ul><li><a href="/wiki/Walden" title="Walden">Walden</a></li>
+<li><a href="/wiki/The_Theory_of_the_Leisure_Class" title="The Theory of the Leisure Class">The Theory of the Leisure Class</a></li>
+<li><a href="/wiki/Brave_New_World" title="Brave New World">Brave New World</a></li>
+<li><a href="/wiki/The_Affluent_Society" title="The Affluent Society">The Affluent Society</a></li>
+<li><a href="/wiki/One-Dimensional_Man" title="One-Dimensional Man">One-Dimensional Man</a></li>
+<li>The Society of the Spectacle <style data-mw-deduplicate="TemplateStyles:r865337479">.mw-parser-output .noitalic{font-style:normal}</style><span class="noitalic">(<a href="/wiki/The_Society_of_the_Spectacle" title="The Society of the Spectacle">book</a> <b>·</b> <a href="/wiki/The_Society_of_the_Spectacle_(film)" title="The Society of the Spectacle (film)">film</a>)</span></li>
+<li><a href="/wiki/Steal_This_Book" title="Steal This Book">Steal This Book</a></li>
+<li><a href="/wiki/Small_Is_Beautiful" title="Small Is Beautiful">Small Is Beautiful</a></li>
+<li><a href="/wiki/To_Have_or_to_Be%3F" title="To Have or to Be?">To Have or to Be?</a></li>
+<li><a href="/wiki/Future_Primitive_and_Other_Essays" title="Future Primitive and Other Essays">Future Primitive and Other Essays</a></li>
+<li>Fight Club <link href="mw-data:TemplateStyles:r865337479" rel="mw-deduplicated-inline-style"/><span class="noitalic">(<a href="/wiki/Fight_Club_(novel)" title="Fight Club (novel)">novel</a> <b>·</b> <a href="/wiki/Fight_Club" title="Fight Club">film</a>)</span></li>
+<li><a href="/wiki/Escape_from_Affluenza" title="Escape from Affluenza">Escape from Affluenza</a></li>
+<li><a href="/wiki/No_Logo" title="No Logo">No Logo</a></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Profit_over_People" title="Profit over People">Profit over People: Neoliberalism<br/>and Global Order</a></div></li>
+<li><a href="/wiki/The_Cultural_Creatives" title="The Cultural Creatives">The Cultural Creatives</a></li>
+<li><a href="/wiki/Affluenza:_The_All-Consuming_Epidemic" title="Affluenza: The All-Consuming Epidemic">Affluenza: The All-Consuming Epidemic</a></li>
+<li><a class="mw-redirect" href="/wiki/Evasion_(book)" title="Evasion (book)">Evasion</a></li>
+<li><a href="/wiki/The_Corporation_(2003_film)" title="The Corporation (2003 film)">The Corporation</a></li>
+<li><a href="/wiki/Surplus:_Terrorized_into_Being_Consumers" title="Surplus: Terrorized into Being Consumers">Surplus: Terrorized into Being Consumers</a></li>
+<li><a href="/wiki/So,_What%27s_Your_Price%3F" title="So, What's Your Price?">So, What's Your Price?</a></li>
+<li><a href="/wiki/What_Would_Jesus_Buy%3F" title="What Would Jesus Buy?">What Would Jesus Buy?</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;"><a href="/wiki/Category:Anti-consumerist_groups" title="Category:Anti-consumerist groups">Organizations and groups</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><i><a href="/wiki/Adbusters" title="Adbusters">Adbusters</a></i></li>
+<li><a href="/wiki/Crass" title="Crass">Crass</a></li>
+<li><a href="/wiki/CrimethInc." title="CrimethInc.">CrimethInc.</a></li>
+<li><a href="/wiki/Deep_Green_Resistance" title="Deep Green Resistance">Deep Green Resistance</a></li>
+<li><i><a href="/wiki/Democracy_Now!" title="Democracy Now!">Democracy Now!</a></i></li>
+<li><a href="/wiki/Earth_Liberation_Front" title="Earth Liberation Front">Earth Liberation Front</a></li>
+<li><a href="/wiki/Fifth_Estate_(periodical)" title="Fifth Estate (periodical)"><i>Fifth Estate</i></a></li>
+<li><a href="/wiki/The_Freecycle_Network" title="The Freecycle Network">Freecycle</a></li>
+<li><i><a href="/wiki/Green_Anarchy" title="Green Anarchy">Green Anarchy</a></i></li>
+<li><a class="mw-redirect" href="/wiki/Institute_for_Social_Ecology" title="Institute for Social Ecology">Institute for Social Ecology</a></li>
+<li><i><a href="/wiki/Monthly_Review" title="Monthly Review">Monthly Review</a></i></li>
+<li><a href="/wiki/Rage_Against_the_Machine" title="Rage Against the Machine">Rage Against the Machine</a></li>
+<li><a href="/wiki/Reverend_Billy_and_the_Church_of_Stop_Shopping" title="Reverend Billy and the Church of Stop Shopping">Reverend Billy</a></li>
+<li><a class="mw-redirect" href="/wiki/The_Venus_Project" title="The Venus Project">The Venus Project</a></li>
+<li><a href="/wiki/The_Yes_Men" title="The Yes Men">The Yes Men</a></li>
+<li><a href="/wiki/350.org" title="350.org">350.org</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;"><a href="/wiki/Category:Anti-consumerists" title="Category:Anti-consumerists">People</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Diogenes" title="Diogenes">Diogenes</a></li>
+<li><a href="/wiki/Francis_of_Assisi" title="Francis of Assisi">Francis of Assisi</a></li>
+<li><a href="/wiki/Jean-Jacques_Rousseau" title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a></li>
+<li><a href="/wiki/William_Godwin" title="William Godwin">William Godwin</a></li>
+<li><a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">Henry David Thoreau</a></li>
+<li><a href="/wiki/John_Ruskin" title="John Ruskin">John Ruskin</a></li>
+<li><a href="/wiki/Leo_Tolstoy" title="Leo Tolstoy">Leo Tolstoy</a></li>
+<li><a href="/wiki/Peter_Kropotkin" title="Peter Kropotkin">Peter Kropotkin</a></li>
+<li><a href="/wiki/Thorstein_Veblen" title="Thorstein Veblen">Thorstein Veblen</a></li>
+<li><a href="/wiki/Mahatma_Gandhi" title="Mahatma Gandhi">Mahatma Gandhi</a></li>
+<li><a href="/wiki/Aldous_Huxley" title="Aldous Huxley">Aldous Huxley</a></li>
+<li><a href="/wiki/Herbert_Marcuse" title="Herbert Marcuse">Herbert Marcuse</a></li>
+<li><a href="/wiki/Erich_Fromm" title="Erich Fromm">Erich Fromm</a></li>
+<li><a href="/wiki/E._F._Schumacher" title="E. F. Schumacher">E. F. Schumacher</a></li>
+<li><a href="/wiki/Henri_Lefebvre" title="Henri Lefebvre">Henri Lefebvre</a></li>
+<li><a href="/wiki/Pier_Paolo_Pasolini" title="Pier Paolo Pasolini">Pier Paolo Pasolini</a></li>
+<li><a href="/wiki/Jacques_Ellul" title="Jacques Ellul">Jacques Ellul</a></li>
+<li><a href="/wiki/David_Riesman" title="David Riesman">David Riesman</a></li>
+<li><a href="/wiki/John_Kenneth_Galbraith" title="John Kenneth Galbraith">John Kenneth Galbraith</a></li>
+<li><a href="/wiki/Cornelius_Castoriadis" title="Cornelius Castoriadis">Cornelius Castoriadis</a></li>
+<li><a href="/wiki/Fredy_Perlman" title="Fredy Perlman">Fredy Perlman</a></li>
+<li><a href="/wiki/Arne_N%C3%A6ss" title="Arne Næss">Arne Næss</a></li>
+<li><a href="/wiki/Guy_Debord" title="Guy Debord">Guy Debord</a></li>
+<li><a href="/wiki/Abbie_Hoffman" title="Abbie Hoffman">Abbie Hoffman</a></li>
+<li><a href="/wiki/Murray_Bookchin" title="Murray Bookchin">Murray Bookchin</a></li>
+<li><a href="/wiki/Ivan_Illich" title="Ivan Illich">Ivan Illich</a></li>
+<li><a href="/wiki/Andr%C3%A9_Gorz" title="André Gorz">André Gorz</a></li>
+<li><a href="/wiki/Pierre_Bourdieu" title="Pierre Bourdieu">Pierre Bourdieu</a></li>
+<li><a href="/wiki/Jacque_Fresco" title="Jacque Fresco">Jacque Fresco</a></li>
+<li><a href="/wiki/Jean_Baudrillard" title="Jean Baudrillard">Jean Baudrillard</a></li>
+<li><a href="/wiki/Zygmunt_Bauman" title="Zygmunt Bauman">Zygmunt Bauman</a></li>
+<li><a href="/wiki/George_Carlin" title="George Carlin">George Carlin</a></li>
+<li><a href="/wiki/Benjamin_Barber" title="Benjamin Barber">Benjamin Barber</a></li>
+<li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a></li>
+<li><a href="/wiki/Gary_Snyder" title="Gary Snyder">Gary Snyder</a></li>
+<li><a href="/wiki/Fredric_Jameson" title="Fredric Jameson">Fredric Jameson</a></li>
+<li><a href="/wiki/Raoul_Vaneigem" title="Raoul Vaneigem">Raoul Vaneigem</a></li>
+<li><a href="/wiki/Satish_Kumar" title="Satish Kumar">Satish Kumar</a></li>
+<li><a href="/wiki/Herman_Daly" title="Herman Daly">Herman Daly</a></li>
+<li><a href="/wiki/Michael_L%C3%B6wy" title="Michael Löwy">Michael Löwy</a></li>
+<li><a href="/wiki/George_Ritzer" title="George Ritzer">George Ritzer</a></li>
+<li><a href="/wiki/Serge_Latouche" title="Serge Latouche">Serge Latouche</a></li>
+<li><a href="/wiki/Ted_Kaczynski" title="Ted Kaczynski">Ted Kaczynski</a></li>
+<li><a href="/wiki/Kalle_Lasn" title="Kalle Lasn">Kalle Lasn</a></li>
+<li><a href="/wiki/John_Zerzan" title="John Zerzan">John Zerzan</a></li>
+<li><a href="/wiki/Jeremy_Rifkin" title="Jeremy Rifkin">Jeremy Rifkin</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Slavoj_%C5%BDi%C5%BEek" title="Slavoj Žižek">Slavoj Žižek</a></li>
+<li><a href="/wiki/Vandana_Shiva" title="Vandana Shiva">Vandana Shiva</a></li>
+<li><a href="/wiki/Bernard_Stiegler" title="Bernard Stiegler">Bernard Stiegler</a></li>
+<li><a href="/wiki/Jigme_Singye_Wangchuck" title="Jigme Singye Wangchuck">Jigme Singye Wangchuck</a></li>
+<li><a href="/wiki/Amy_Goodman" title="Amy Goodman">Amy Goodman</a></li>
+<li><a href="/wiki/Jello_Biafra" title="Jello Biafra">Jello Biafra</a></li>
+<li><a href="/wiki/Arundhati_Roy" title="Arundhati Roy">Arundhati Roy</a></li>
+<li><a href="/wiki/Chuck_Palahniuk" title="Chuck Palahniuk">Chuck Palahniuk</a></li>
+<li><a href="/wiki/Banksy" title="Banksy">Banksy</a></li>
+<li><a href="/wiki/Naomi_Klein" title="Naomi Klein">Naomi Klein</a></li>
+<li><a href="/wiki/Julia_Butterfly_Hill" title="Julia Butterfly Hill">Julia Butterfly Hill</a></li>
+<li><a href="/wiki/M.I.A._(rapper)" title="M.I.A. (rapper)">M.I.A.</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">Related social movements</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Alter-globalization" title="Alter-globalization">Alter-globalization</a></li>
+<li><a href="/wiki/Anarcho-communism" title="Anarcho-communism">Anarcho-communism</a></li>
+<li><a href="/wiki/Anarcho-primitivism" title="Anarcho-primitivism">Anarcho-primitivism</a></li>
+<li><a href="/wiki/Anarcho-punk" title="Anarcho-punk">Anarcho-punk</a></li>
+<li><a href="/wiki/Anti-capitalism" title="Anti-capitalism">Anti-capitalism</a></li>
+<li><a href="/wiki/Anti-corporate_activism" title="Anti-corporate activism">Anti-corporate activism</a></li>
+<li><a href="/wiki/Anti-globalization_movement" title="Anti-globalization movement">Anti-globalization movement</a></li>
+<li><a href="/wiki/Diggers_(theater)" title="Diggers (theater)">Diggers (theater)</a></li>
+<li><a href="/wiki/Eco-socialism" title="Eco-socialism">Eco-socialism</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Food_Not_Bombs" title="Food Not Bombs">Food Not Bombs</a></li>
+<li><a href="/wiki/Green_anarchism" title="Green anarchism">Green anarchism</a></li>
+<li><a href="/wiki/Green_left" title="Green left">Green left</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Hippie" title="Hippie">Hippie</a></li>
+<li><a href="/wiki/Libertarian_socialism" title="Libertarian socialism">Libertarian socialism</a></li>
+<li><a href="/wiki/Neo-Luddism" title="Neo-Luddism">Neo-Luddism</a></li>
+<li><a href="/wiki/New_Left" title="New Left">New Left</a></li>
+<li><a href="/wiki/Occupy_Wall_Street" title="Occupy Wall Street">Occupy Wall Street</a></li>
+<li><a href="/wiki/Postmodernism" title="Postmodernism">Postmodernism</a></li>
+<li><a href="/wiki/Punk_subculture" title="Punk subculture">Punk</a></li>
+<li><a href="/wiki/Situationist_International" title="Situationist International">Situationists</a></li>
+<li><a href="/wiki/Slow_movement_(culture)" title="Slow movement (culture)">Slow movement</a></li>
+<li><a href="/wiki/Social_anarchism" title="Social anarchism">Social anarchism</a></li>
+<li><a class="mw-redirect" href="/wiki/Social_ecology_(Bookchin)" title="Social ecology (Bookchin)">Social ecology</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#f0de31;padding-left:0.4em;">See also</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Works_about_consumerism" title="Category:Works about consumerism">Works about consumerism</a></li>
+<li><a href="/wiki/Advanced_capitalism" title="Advanced capitalism">Advanced capitalism</a></li>
+<li><a href="/wiki/Advertising" title="Advertising">Advertising</a></li>
+<li><a href="/wiki/Barter" title="Barter">Barter</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li>
+<li><a href="/wiki/Consumer_behaviour" title="Consumer behaviour">Consumer behaviour</a></li>
+<li><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption (economics)</a></li>
+<li><a href="/wiki/Consumption_(sociology)" title="Consumption (sociology)">Consumption (sociology)</a></li>
+<li><a href="/wiki/Cooperative" title="Cooperative">Cooperative</a></li>
+<li><a href="/wiki/Counterculture" title="Counterculture">Counterculture</a></li>
+<li><a href="/wiki/Cultural_hegemony" title="Cultural hegemony">Cultural hegemony</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Economic_materialism" title="Economic materialism">Economic materialism</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Economic_problems" title="Category:Economic problems">Economic problems</a></li>
+<li><a href="/wiki/Frugality" title="Frugality">Frugality</a></li>
+<li><a href="/wiki/Green_economy" title="Green economy">Green economy</a></li>
+<li><a href="/wiki/Gross_National_Happiness" title="Gross National Happiness">Gross National Happiness</a></li>
+<li><a href="/wiki/Heterodox_economics" title="Heterodox economics">Heterodox economics</a></li>
+<li><a href="/wiki/Influence_of_mass_media" title="Influence of mass media">Influence of mass media</a></li>
+<li><a href="/wiki/Informal_sector" title="Informal sector">Informal sector</a></li>
+<li><a href="/wiki/Intentional_community" title="Intentional community">Intentional community</a></li>
+<li><a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wing politics</a></li>
+<li><a href="/wiki/McDonaldization" title="McDonaldization">McDonaldization</a></li>
+<li><a href="/wiki/Mutual_aid_(organization_theory)" title="Mutual aid (organization theory)">Mutual aid</a></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Natural resource economics</a></li>
+<li><a href="/wiki/Non-monetary_economy" title="Non-monetary economy">Non-monetary economy</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Post-materialism" title="Post-materialism">Post-materialism</a></li>
+<li><a href="/wiki/Productivism" title="Productivism">Productivism</a></li>
+<li><a href="/wiki/Shopping" title="Shopping">Shopping</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/List_of_social_movements" title="List of social movements">Social movements</a></li>
+<li><a href="/wiki/Subsistence_economy" title="Subsistence economy">Subsistence economy</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Sweatshop" title="Sweatshop">Sweatshops</a></li>
+<li><a href="/wiki/Veblen_good" title="Veblen good">Veblen good</a></li>
+<li><a href="/wiki/Workaholic" title="Workaholic">Workaholic</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Anti-consumerism" title="Template:Anti-consumerism"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Anti-consumerism" title="Template talk:Anti-consumerism"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Anti-consumerism&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>As a compliment to analyses of production and its processes, <b>Sustainable Consumption</b> (SC) is the study of resource and energy use (domestic or otherwise). As the term sustainability would imply, those who study SC seek to apply the concept of “continuance”—the capacity to meet both present and future human generational needs.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> SC, then, would also include analyses of efficiency, infrastructure, and waste, as well as access to basic services, green and decent jobs and a better quality of life for all.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> It shares a number of common features with and is closely linked to the terms <a href="/wiki/Sustainable_product_development" title="Sustainable product development">sustainable production</a> and <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a>. Sustainable consumption as part of <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> is a prerequisite in the worldwide struggle against <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> challenges such as <a href="/wiki/Climate_change" title="Climate change">climate change</a>, <a href="/wiki/Resource_depletion" title="Resource depletion">resource depletion</a>, famines or <a class="mw-redirect" href="/wiki/Environmental_pollution" title="Environmental pollution">environmental pollution</a>.
+</p><p>Sustainable development as well as sustainable consumption rely on certain premises such as:
+</p>
+<ul><li>Effective <a class="mw-redirect" href="/wiki/Resource_use" title="Resource use">use of resources</a>, and minimisation of <a href="/wiki/Waste" title="Waste">waste</a> and <a href="/wiki/Pollution" title="Pollution">pollution</a></li>
+<li>Use of <a href="/wiki/Renewable_resource" title="Renewable resource">renewable resources</a> within their capacity for renewal</li>
+<li>Fuller <a class="mw-redirect" href="/wiki/Product_life-cycle" title="Product life-cycle">product life-cycles</a></li>
+<li><a href="/wiki/Intergenerational_equity" title="Intergenerational equity">Intergenerational</a> and intragenerational equity</li></ul>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_Oslo_definition"><span class="tocnumber">1</span> <span class="toctext">The Oslo definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Strong_and_weak_sustainable_consumption"><span class="tocnumber">2</span> <span class="toctext">Strong and weak sustainable consumption</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notable_conferences_and_programs"><span class="tocnumber">3</span> <span class="toctext">Notable conferences and programs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="The_Oslo_definition">The Oslo definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_consumption&amp;action=edit&amp;section=1" title="Edit section: The Oslo definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The definition proposed by the 1994 Oslo Symposium on Sustainable Consumption defines it as "the use of services and related products which respond to basic needs and bring a better <a href="/wiki/Quality_of_life" title="Quality of life">quality of life</a> while minimizing the use of natural resources and toxic materials as well as emissions of waste and pollutants over the life cycle of the service or product so as not to jeopardize the needs of future generations."<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Strong_and_weak_sustainable_consumption">Strong and weak sustainable consumption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_consumption&amp;action=edit&amp;section=2" title="Edit section: Strong and weak sustainable consumption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-Tone" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This section's <b>tone or style may not reflect the <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">encyclopedic tone</a> used on Wikipedia</b>.<span class="hide-when-compact"> See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span> <small><i>(October 2017)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In order to achieve sustainable consumption, two developments have to take place: it requires both an increase in the efficiency of consumption as well as a change in consumption patterns and reductions in consumption levels in industrialized countries as well as rich social classes in developing countries which have also a large ecological footprint and give examples for increasing middle classes in developing countries<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>. The first prerequisite is not sufficient on its own and can be named weak sustainable consumption. Here, technological improvements and <a href="/wiki/Eco-efficiency" title="Eco-efficiency">eco-efficiency</a> support a necessary reduction in <a href="/wiki/Resource_consumption" title="Resource consumption">resource consumption</a>. Once this aim has been met, the second prerequisite, the change in patterns and reduction of levels of consumption is indispensable. Strong sustainable consumption approaches also pay attention to the social dimension of <a href="/wiki/Well-being" title="Well-being">well-being</a> and assess the need for changes based on a risk-averse perspective.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> In order to achieve what can be termed strong sustainable consumption, changes in infrastructures as well as the choices customers have are required. In the political arena, weak sustainable consumption has been discussed whereas strong sustainable consumption is missing from all debates.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>The so-called <a class="mw-redirect" href="/wiki/Attitude-behavior_gap" title="Attitude-behavior gap">attitude-behaviour</a> or <a class="mw-redirect" href="/wiki/Values-action_gap" title="Values-action gap">values-action gap</a> describes a significant obstacle to changes in individual customer behavior. Many consumers are well aware of the importance of their consumption choices and care about environmental issues, however, most of them do not translate their concerns into their consumption patterns as the purchase-decision making process is highly complicated and relies on e.g. social, political and psychological factors. Young et al. identified a lack of time for research, high prices, a lack of information and the cognitive effort needed as the main barriers when it comes to <a href="/wiki/Green_consumption" title="Green consumption">green consumption</a> choices.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notable_conferences_and_programs">Notable conferences and programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_consumption&amp;action=edit&amp;section=3" title="Edit section: Notable conferences and programs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>1992 - At the <a class="mw-redirect" href="/wiki/United_Nations_Conference_on_Environment_and_Development" title="United Nations Conference on Environment and Development">United Nations Conference on Environment and Development</a> (UNCED) the concept of sustainable consumption was established in chapter 4 of the Agenda 21.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+<li>1994 - Sustainable Consumption Symposium in Oslo</li>
+<li>1995 – SC was requested to be incorporated by <a class="mw-redirect" href="/wiki/ECOSOC" title="ECOSOC">UN Economic and Social Council</a> (ECOSOC) into the UN Guidelines on Consumer Protection.</li>
+<li>1997 – A major report on SC was produced by the OECD.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></li>
+<li>1998 – <a class="mw-redirect" href="/wiki/United_Nations_Environment_Program" title="United Nations Environment Program">United Nations Environment Program</a> (UNEP) started a SC program and SC is discussed in the <a href="/wiki/Human_Development_Report" title="Human Development Report">Human Development Report</a> of the <a class="mw-redirect" href="/wiki/UNDP" title="UNDP">UN Development Program</a> (UNDP).<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></li>
+<li>2002 – A ten-year program on sustainable consumption and production (SCP) was created in the Plan of Implementation at the <a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">World Summit on Sustainable Development</a> (WSSD) in Johannesburg.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></li>
+<li>2003 - The "<a class="new" href="/w/index.php?title=Marrakesh_Process&amp;action=edit&amp;redlink=1" title="Marrakesh Process (page does not exist)">Marrakesh Process</a>" was developed by co-ordination of a series of meetings and other "multi-stakeholder" processes by UNEP and UNDESA following the WSSD.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_consumption&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Collaborative_consumption" title="Collaborative consumption">Collaborative consumption</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_consumer_behavior" title="Sustainable consumer behavior">Sustainable consumer behavior</a></li>
+<li><a href="/wiki/Durable_good" title="Durable good">Durable goods</a></li>
+<li><a href="/wiki/Overconsumption" title="Overconsumption">Overconsumption</a></li>
+<li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_consumption&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div><div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a class="mw-selflink selflink">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Environmental_social_science" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Environmental_social_science" title="Template:Environmental social science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Environmental_social_science" title="Template talk:Environmental social science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Environmental_social_science&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Environmental_social_science" style="font-size:114%;margin:0 4em"><a href="/wiki/Environmental_social_science" title="Environmental social science">Environmental social science</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fields</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ecological_anthropology" title="Ecological anthropology">Ecological anthropology</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Environmental_anthropology" title="Environmental anthropology">Environmental anthropology</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_communication" title="Environmental communication">Environmental communication</a></li>
+<li><a href="/wiki/Environmental_history" title="Environmental history">Environmental history</a></li>
+<li><a href="/wiki/Environmental_politics" title="Environmental politics">Environmental politics</a></li>
+<li><a href="/wiki/Environmental_psychology" title="Environmental psychology">Environmental psychology</a></li>
+<li><a href="/wiki/Environmental_sociology" title="Environmental sociology">Environmental sociology</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Human_geography" title="Human geography">Human geography</a></li>
+<li><a href="/wiki/Political_ecology" title="Political ecology">Political ecology</a></li>
+<li><a href="/wiki/Regional_science" title="Regional science">Regional science</a></li></ul>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" data-file-height="510" data-file-width="800" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/150px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/225px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/300px-Sustainable_development.svg.png 2x" width="150"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoology</a></li>
+<li><a href="/wiki/Behavioral_geography" title="Behavioral geography">Behavioral geography</a></li>
+<li><a href="/wiki/Community_studies" title="Community studies">Community studies</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li>Design
+<ul><li><a href="/wiki/Ecological_design" title="Ecological design">ecological</a></li>
+<li><a href="/wiki/Environmental_design" title="Environmental design">environmental</a></li></ul></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li>Economics
+<ul><li><a href="/wiki/Energy_economics" title="Energy economics">energy</a></li>
+<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">thermo</a></li></ul></li>
+<li>Environmental
+<ul><li><a href="/wiki/Environmental_education" title="Environmental education">education</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">ethics</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">law</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">science</a></li>
+<li><a href="/wiki/Environmental_studies" title="Environmental studies">studies</a></li></ul></li>
+<li><a href="/wiki/Ethnobiology" title="Ethnobiology">Ethnobiology</a>
+<ul><li><a href="/wiki/Ethnobotany" title="Ethnobotany">botany</a></li>
+<li><a href="/wiki/Ethnoecology" title="Ethnoecology">ecology</a></li>
+<li><a href="/wiki/Ethnozoology" title="Ethnozoology">zoology</a></li></ul></li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Integrated_geography" title="Integrated geography">Integrated geography</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">Rural sociology</a></li>
+<li><a class="mw-redirect" href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science, technology and society</a>
+<ul><li><a href="/wiki/Science_studies" title="Science studies">science studies</a></li></ul></li>
+<li>Sustainability
+<ul><li><a href="/wiki/Sustainability_science" title="Sustainability science">science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">studies</a></li></ul></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li>Urban
+<ul><li><a href="/wiki/Urban_ecology" title="Urban ecology">ecology</a></li>
+<li><a href="/wiki/Urban_geography" title="Urban geography">geography</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">metabolism</a></li>
+<li><a href="/wiki/Urban_studies" title="Urban studies">studies</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applied</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Architecture
+<ul><li><a href="/wiki/Landscape_architecture" title="Landscape architecture">landscape</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable</a></li></ul></li>
+<li><a href="/wiki/Ecopsychology" title="Ecopsychology">Ecopsychology</a></li>
+<li>Engineering
+<ul><li><a href="/wiki/Ecological_engineering" title="Ecological engineering">ecological</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">environmental</a></li></ul></li>
+<li><a href="/wiki/Green_criminology" title="Green criminology">Green criminology</a></li>
+<li>Health
+<ul><li><a href="/wiki/Environmental_health" title="Environmental health">environmental</a></li>
+<li><a href="/wiki/Environmental_epidemiology" title="Environmental epidemiology">epidemiology</a></li>
+<li><a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">occupational</a></li>
+<li><a href="/wiki/Public_health" title="Public health">public</a></li></ul></li>
+<li>Management
+<ul><li><a class="mw-redirect" href="/wiki/Environmental_resources_management" title="Environmental resources management">environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">forest</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">natural resource</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">waste</a></li></ul></li>
+<li>Planning
+<ul><li><a href="/wiki/Environmental_planning" title="Environmental planning">environmental</a></li>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">land use</a></li>
+<li><a href="/wiki/Regional_planning" title="Regional planning">regional</a></li>
+<li><a href="/wiki/Spatial_planning" title="Spatial planning">spatial</a></li>
+<li><a href="/wiki/Urban_planning" title="Urban planning">urban</a></li></ul></li>
+<li>Policy
+<ul><li><a href="/wiki/Energy_policy" title="Energy policy">energy</a></li>
+<li><a href="/wiki/Environmental_policy" title="Environmental policy">environmental</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_social_science" title="Category:Environmental social science">Category</a></li>
+<li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Concepts</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li>
+<li><a href="/wiki/List_of_environmental_social_science_journals" title="List of environmental social science journals">Journals</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_environment_research_institutes" title="List of environment research institutes">Research institutes</a></li>
+<li><a href="/wiki/Category:Environmental_social_scientists" title="Category:Environmental social scientists">Scholars</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" data-file-height="510" data-file-width="800" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" width="24"/></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20181101201359
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.332 seconds
+Real time usage: 0.422 seconds
+Preprocessor visited node count: 856/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 85404/2097152 bytes
+Template argument size: 462/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23537/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.152/10.000 seconds
+Lua memory usage: 4.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  298.760      1 -total
+ 53.92%  161.080      1 Template:Reflist
+ 36.89%  110.217      5 Template:Cite_journal
+ 19.33%   57.757      1 Template:Anti-consumerism
+ 18.09%   54.033      1 Template:Sidebar_with_collapsible_lists
+ 12.57%   37.549      1 Template:Tone
+ 10.46%   31.243      1 Template:Ambox
+  6.54%   19.533      1 Template:Cite_book
+  5.47%   16.345      2 Template:Navbox
+  5.04%   15.043      1 Template:Sustainability
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17996959-0!canonical and timestamp 20181101201359 and revision id 855091448
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sustainable_consumption&amp;oldid=855091448">https://en.wikipedia.org/w/index.php?title=Sustainable_consumption&amp;oldid=855091448</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sustainability_by_subject" title="Category:Sustainability by subject">Sustainability by subject</a></li><li><a href="/wiki/Category:Ethical_consumerism" title="Category:Ethical consumerism">Ethical consumerism</a></li><li><a href="/wiki/Category:Environmental_mitigation" title="Category:Environmental mitigation">Environmental mitigation</a></li><li><a href="/wiki/Category:Environmental_social_science_concepts" title="Category:Environmental social science concepts">Environmental social science concepts</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_October_2017" title="Category:Wikipedia articles with style issues from October 2017">Wikipedia articles with style issues from October 2017</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sustainable+consumption" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sustainable+consumption" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sustainable_consumption" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sustainable_consumption" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sustainable_consumption">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sustainable_consumption&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sustainable_consumption&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sustainable_consumption" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sustainable_consumption" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sustainable_consumption&amp;oldid=855091448" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sustainable_consumption&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q477335" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sustainable_consumption&amp;id=855091448" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sustainable+consumption">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sustainable+consumption&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sustainable_consumption&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Udr%C5%BEiteln%C3%A1_spot%C5%99eba" hreflang="cs" lang="cs" title="Udržitelná spotřeba – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Nachhaltiger_Konsum" hreflang="de" lang="de" title="Nachhaltiger Konsum – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Keskkonnahoidlik_tarbimine" hreflang="et" lang="et" title="Keskkonnahoidlik tarbimine – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Consumo_sostenible" hreflang="es" lang="es" title="Consumo sostenible – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Consommation_responsable" hreflang="fr" lang="fr" title="Consommation responsable – French">Français</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Konsumpcja_zr%C3%B3wnowa%C5%BCona" hreflang="pl" lang="pl" title="Konsumpcja zrównoważona – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Consumo_sustent%C3%A1vel" hreflang="pt" lang="pt" title="Consumo sustentável – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Ответственное потребление – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Trajnostna_potro%C5%A1nja" hreflang="sl" lang="sl" title="Trajnostna potrošnja – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%D1%81%D0%BF%D0%BE%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Відповідальне споживання – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ti%C3%AAu_th%E1%BB%A5_b%E1%BB%81n_v%E1%BB%AFng" hreflang="vi" lang="vi" title="Tiêu thụ bền vững – Vietnamese">Tiếng Việt</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q477335#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 August 2018, at 21:46<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sustainable_consumption&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.422","ppvisitednodes":{"value":856,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":85404,"limit":2097152},"templateargumentsize":{"value":462,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23537,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  298.760      1 -total"," 53.92%  161.080      1 Template:Reflist"," 36.89%  110.217      5 Template:Cite_journal"," 19.33%   57.757      1 Template:Anti-consumerism"," 18.09%   54.033      1 Template:Sidebar_with_collapsible_lists"," 12.57%   37.549      1 Template:Tone"," 10.46%   31.243      1 Template:Ambox","  6.54%   19.533      1 Template:Cite_book","  5.47%   16.345      2 Template:Navbox","  5.04%   15.043      1 Template:Sustainability"]},"scribunto":{"limitreport-timeusage":{"value":"0.152","limit":"10.000"},"limitreport-memusage":{"value":4853494,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20181101201359","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":523,"wgHostname":"mw1326"});});</script>
+</body>
+</html>

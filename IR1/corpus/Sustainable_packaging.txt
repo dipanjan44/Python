@@ -1,0 +1,669 @@
+https://en.wikipedia.org/wiki/Sustainable_packaging
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sustainable packaging - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sustainable_packaging","wgTitle":"Sustainable packaging","wgCurRevisionId":860757849,"wgRevisionId":860757849,"wgArticleId":17117300,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Brand management","Ecolabelling","Labels","Packaging","Product management","Sustainable business","Biodegradable materials","Waste minimisation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sustainable_packaging","wgRelevantArticleId":17117300,"wgRequestId":"W9tJBgpAICAAAHD3kEkAAACW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7649677","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/27/Molding_packaging_from_straw%2C_k9837-1.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sustainable_packaging" rel="alternate"/>
+<link href="/w/index.php?title=Sustainable_packaging&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sustainable_packaging&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sustainable_packaging" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sustainable_packaging rootpage-Sustainable_packaging skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Sustainable packaging</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Molding_packaging_from_straw,_k9837-1.jpg"><img alt="" class="thumbimage" data-file-height="418" data-file-width="640" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Molding_packaging_from_straw%2C_k9837-1.jpg/250px-Molding_packaging_from_straw%2C_k9837-1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Molding_packaging_from_straw%2C_k9837-1.jpg/375px-Molding_packaging_from_straw%2C_k9837-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Molding_packaging_from_straw%2C_k9837-1.jpg/500px-Molding_packaging_from_straw%2C_k9837-1.jpg 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Molding_packaging_from_straw,_k9837-1.jpg" title="Enlarge"></a></div><a href="/wiki/Molded_pulp" title="Molded pulp">Molded pulp</a> uses recycled <a href="/wiki/Newsprint" title="Newsprint">newsprint</a> to form package components.  Here, researchers are molding packaging from <a href="/wiki/Straw" title="Straw">straw</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></div></div></div>
+<p><b>Sustainable packaging</b> is the development and use of <a class="mw-redirect" href="/wiki/Packaging" title="Packaging">packaging</a> which results in improved <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>. This involves increased use of life cycle inventory (LCI) and <a class="mw-redirect" href="/wiki/Life_cycle_assessment" title="Life cycle assessment">life cycle assessment</a> (LCA)<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> to help guide the use of packaging which reduces the <a href="/wiki/Environmental_degradation" title="Environmental degradation">environmental impact</a> and <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a>.  It includes a look at the whole of the supply chain: from basic function, to marketing, and then through to end of life (LCA) and rebirth.<sup class="reference" id="cite_ref-Jedlicka_4-0"><a href="#cite_note-Jedlicka-4">[4]</a></sup> Additionally, an eco-cost to value ratio can be useful<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+The goals are to improve the long term viability and quality of life for <a href="/wiki/Human" title="Human">humans</a> and the longevity of natural ecosystems. Sustainable packaging must meet the functional and economic needs of the present without compromising the ability of future generations to meet their own needs.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Sustainability is not necessarily an end state but is a continuing process of improvement.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>Sustainable packaging is a relatively new addition to the environmental considerations for packaging (see <a href="/wiki/Packaging_and_labeling" title="Packaging and labeling">Packaging and labeling</a>).  It requires more analysis and documentation to look at the package design, choice of materials, processing, and life-cycle.  This is not just the vague "green movement" that many businesses and companies have been trying to include over the past years.   Companies implementing these eco-friendly actions are reducing their <a href="/wiki/Carbon_footprint" title="Carbon footprint">carbon footprint</a>, using more recycled materials and  reusing more package components.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>  They often encourage suppliers, contract packagers, and distributors to do likewise.
+</p><p>For example, researchers at the <a href="/wiki/Agricultural_Research_Service" title="Agricultural Research Service">Agricultural Research Service</a> are looking into using dairy-based films as an alternative to petroleum-based packaging. <a class="external autonumber" href="http://www.ars.usda.gov/is/pr/2010/100120.htm" rel="nofollow">[1]</a>  Instead of being made of <a class="mw-redirect" href="/wiki/Synthetic_polymers" title="Synthetic polymers">synthetic polymers</a>, these dairy-based films would be composed of proteins such as <a href="/wiki/Casein" title="Casein">casein</a> and <a href="/wiki/Whey" title="Whey">whey</a>, which are found in milk.  The films would be <a class="mw-redirect" href="/wiki/Biodegradable" title="Biodegradable">biodegradable</a> and offer better oxygen barriers than synthetic, chemical-based films.  More research must be done to improve the water barrier quality of the dairy-based film, but advances in sustainable packaging are actively being pursued.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p><a class="mw-redirect" href="/wiki/Environmental_marketing" title="Environmental marketing">Environmental marketing</a> claims on packages need to be made (and read) with caution. Ambiguous <a href="/wiki/Greenwashing" title="Greenwashing">greenwashing</a> titles such as <i>green packaging</i> and  <i>environmentally friendly</i> can be confusing without specific definition. Some regulators, such as the US Federal Trade Commission, are providing guidance to packagers<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p><p>Companies have long been reusing and recycling packaging when economically viable. Using minimal packaging has also been a common goal to help reduce costs. Recent years have accelerated these efforts based on social movements, consumer pressure, and regulation. All phases of packaging, distribution, and logistics are included.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>Sustainable packaging is no longer focused on just recycling. Just as packaging is not the only eco target, although it is still top of mind for many. Right or wrong, packaging is frequently scrutinized and used as the measure of a company's overall sustainability, even though it may contribute only a small percentage to the total eco impact compared to other things, such as transportation, and water and energy use.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Criteria"><span class="tocnumber">1</span> <span class="toctext">Criteria</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Benefits"><span class="tocnumber">2</span> <span class="toctext">Benefits</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Costs"><span class="tocnumber">3</span> <span class="toctext">Costs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Criticism"><span class="tocnumber">4</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Criteria">Criteria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_packaging&amp;action=edit&amp;section=1" title="Edit section: Criteria">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The criteria for ranking and comparing packaging based on their sustainability is an active area of development.  General guidance, metrics, checklists, and scorecards are being published by several groups.
+</p><p>Government,<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> <a href="/wiki/Standards_organization" title="Standards organization">standards organizations</a>, consumers, retailers,<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> and packagers are considering several types of criteria.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p><p>Each organization words the goals and targets a little differently. In general, the broad goals of sustainable packaging are:
+</p>
+<ol><li>Functional<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> – product protection, safety, regulatory compliance, etc.</li>
+<li>Cost effective – if it is too expensive, it is unlikely to be used</li>
+<li>Support long-term human and ecological health</li></ol>
+<p>Specific factors for <a href="/wiki/Sustainable_design" title="Sustainable design">sustainable design</a> of packaging may include:
+</p>
+<ul><li>Use of minimal materials –  reduced packaging, reduced layers of packaging, lower mass (product to packaging ratio), lower volume, etc.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></li>
+<li><a href="/wiki/Logistics" title="Logistics">Logistics</a> efficiency (through complete life cycle) – cube utilization, tare weight, enablement of efficient transportation, etc.,<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></li>
+<li><a href="/wiki/Energy" title="Energy">Energy</a> efficiency, total energy content and usage, use of <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a>, etc.</li>
+<li><a class="mw-redirect" href="/wiki/Recycled" title="Recycled">Recycled</a> content – as available and functional.  For <a href="/wiki/Food_contact_materials" title="Food contact materials">food contact materials</a>, there are special safety considerations, particularly for use of recycled plastics and paper.  Regulations are published by each country or region.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup></li>
+<li>Recyclability – recovery value, use of materials which are frequently and easily <a class="mw-redirect" href="/wiki/Recycle" title="Recycle">recycled</a>, reduction of materials which hinder recyclability of major components, etc.</li>
+<li><a href="/wiki/Reusable_packaging" title="Reusable packaging">Reusable packaging</a> – repeated <a href="/wiki/Reuse" title="Reuse">reuse</a> of package, reuse for other purposes, etc.</li>
+<li>Use of <a class="mw-redirect" href="/wiki/Renewable_resources" title="Renewable resources">renewable resources</a> in packaging</li>
+<li>Use of <a class="mw-redirect" href="/wiki/Biodegradable" title="Biodegradable">biodegradable</a> and <a class="mw-redirect" href="/wiki/Compostable" title="Compostable">compostable</a> materials – when appropriate and do not cause contamination of the recycling stream<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></li>
+<li>Avoid the use of materials toxic to humans or the environment</li>
+<li>Effects on atmosphere/climate – <a href="/wiki/Ozone_layer" title="Ozone layer">ozone layer</a>, <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gases</a> (<a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and <a href="/wiki/Methane" title="Methane">methane</a>), <a href="/wiki/Volatile_organic_compound" title="Volatile organic compound">volatile organic compounds</a>, etc.</li>
+<li><a href="/wiki/Water" title="Water">Water</a> use, reuse, treatment, waste, etc.</li>
+<li>Worker impact: occupational health, safety, clean technology, etc.</li>
+<li>Made from materials healthy throughout the life cycle</li>
+<li>Physically designed to optimize materials and energy</li>
+<li>Use integral design to reduce the use of materials</li>
+<li>Follow the requirements of the <a href="/wiki/2015_United_Nations_Climate_Change_Conference" title="2015 United Nations Climate Change Conference">2015 United Nations Climate Change Conference</a></li></ul>
+<p>The chosen criteria are often used best as a basis of comparison for two or more similar packaging designs; not as an absolute success or failure.  Such a multi-variable comparison is often presented as a <a href="/wiki/Radar_chart" title="Radar chart">radar chart</a> (spider chart,  star chart, etc.).<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Benefits">Benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_packaging&amp;action=edit&amp;section=2" title="Edit section: Benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some aspects of environmentally sound packaging are required by regulators while others are decisions made by each packager.  Investors, employees, management, and customers can influence corporate decisions and help set policies.  When investors seek to purchase stock, companies known for their positive environmental policy can be attractive.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>  Potential stockholders and investors see this as a solid decision: lower environmental risks lead to more capital at cheaper rates. Companies that highlight their environmental status to consumers, can boost sales as well as product reputation. Going green  is often a sound investment that can pay off.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Costs">Costs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_packaging&amp;action=edit&amp;section=3" title="Edit section: Costs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The process of engineering more environmentally acceptable packages can include consideration of the costs.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>  Some companies claim that their environmental packaging program is cost effective.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> Some alternative materials that are recycled/recyclable and/or less damaging to the environment can lead to companies incurring increased costs. Though this is common when any product begins to carry the true cost of its production (producer pays, producer responsibility laws, take-back laws). There may be an expensive and lengthy process before the new forms of packaging are deemed safe to the public, and approval may take up to two years.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> It is important to note here, that for most of the developed world, tightening legislation, and changes in major retailer demand (Walmart's Sustainable Packaging Scorecard for example) the question is no longer "if" products and packaging should become more sustainable, but how-to and how-soon to do it.<sup class="reference" id="cite_ref-Jedlicka_4-1"><a href="#cite_note-Jedlicka-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_packaging&amp;action=edit&amp;section=4" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Efforts toward “greener” packaging are supported in the sustainability community, however, these are often viewed only as incremental steps and not as an end.  Some picture a true sustainable <a class="mw-redirect" href="/wiki/Steady_state_economy" title="Steady state economy">steady state economy</a> that may be very different from today's:  greatly reduced energy usage, minimal <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a>,  fewer <a class="mw-redirect" href="/wiki/Consumer_packaged_goods" title="Consumer packaged goods">consumer packaged goods</a>,  <a href="/wiki/Local_purchasing" title="Local purchasing">local purchasing</a>   with <a href="/wiki/Short_food_supply_chains" title="Short food supply chains">short food supply chains</a>, little <a class="mw-redirect" href="/wiki/Processed_foods" title="Processed foods">processed foods</a>, etc.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup><sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup><sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup>
+Less packaging would be needed in a sustainable  <a class="mw-redirect" href="/wiki/Carbon_neutral" title="Carbon neutral">carbon neutral</a> economy;  fewer packaging options would exist; simpler packaging forms may be necessary.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_packaging&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/Bioplastics" title="Bioplastics">Bioplastics</a></li>
+<li><a class="mw-redirect" href="/wiki/Cradle_to_cradle" title="Cradle to cradle">Cradle to cradle</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_metric_and_indices" title="Sustainability metric and indices">Sustainability metric and indices</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_Design" title="Sustainable Design">Sustainable Design</a></li>
+<li><a class="mw-redirect" href="/wiki/Life_Cycle_Assessment" title="Life Cycle Assessment">Life Cycle Assessment</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_packaging&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sustainable_packaging&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Azzato, Maureen, <a class="external text" href="https://web.archive.org/web/20101010030359/http://www.greenretaildecisions.com/news/2010/09/30/facilitating-the-use-of-recycled-content-in-packaging" rel="nofollow">"Facilitating the Use of Recycled Content in Packaging"</a></li>
+<li>Jedlicka, W, "Packaging Sustainability: Tools, Systems and Strategies for Innovative Package Design", (Wiley, 2008), <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-470-24669-6" title="Special:BookSources/978-0-470-24669-6">978-0-470-24669-6</a></li>
+<li>Selke, S, "Packaging and the Environment", 1994, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56676-104-2" title="Special:BookSources/1-56676-104-2">1-56676-104-2</a></li>
+<li>Soroka, W, "Fundamentals of Packaging Technology", IoPP, 2002, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-930268-25-4" title="Special:BookSources/1-930268-25-4">1-930268-25-4</a></li>
+<li>S.,Sterling, "Field Guide to Sustainable Packaging", 2008</li>
+<li>Stillwell, E. J, "Packaging for the Environment", A. D. Little, 1991, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8144-5074-1" title="Special:BookSources/0-8144-5074-1">0-8144-5074-1</a></li>
+<li>Yam, K. L., "Encyclopedia of Packaging Technology", John Wiley &amp; Sons, 2009, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-470-08704-6" title="Special:BookSources/978-0-470-08704-6">978-0-470-08704-6</a></li>
+<li><a class="external text" href="http://PackagingSustainability.info" rel="nofollow">Packaging Sustainability</a></li>
+<li><a class="external text" href="http://packaging.sbio.vt.edu/" rel="nofollow">Packaging Systems and Design - Department of Sustainable Biomaterials</a></li>
+<li><a class="external text" href="http://cfsd.org.uk/" rel="nofollow">The Centre for Sustainable Design</a></li>
+<li><a class="external text" href="http://www.ebrocolor.com/sustainable-packaging-report.html/" rel="nofollow">Sustainable Packaging: Why Should We Care?</a></li>
+<li>ISO 18601-18606 Packaging and the Environment series of Standards</li></ul>
+<div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a href="/wiki/Earth_Overshoot_Day" title="Earth Overshoot Day">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a class="mw-selflink selflink">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Packaging" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Packaging" title="Template:Packaging"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Packaging" title="Template talk:Packaging"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Packaging&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Packaging" style="font-size:114%;margin:0 4em"><a href="/wiki/Packaging_and_labeling" title="Packaging and labeling">Packaging</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">General topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Active_packaging" title="Active packaging">Active packaging</a></li>
+<li><a href="/wiki/Child-resistant_packaging" title="Child-resistant packaging">Child-resistant packaging</a></li>
+<li><a href="/wiki/Contract_packager" title="Contract packager">Contract packager</a></li>
+<li><a href="/wiki/Modified_atmosphere/modified_humidity_packaging" title="Modified atmosphere/modified humidity packaging">Modified atmosphere/modified humidity packaging</a></li>
+<li><a href="/wiki/Package_pilferage" title="Package pilferage">Package pilferage</a></li>
+<li><a href="/wiki/Package_testing" title="Package testing">Package testing</a></li>
+<li><a href="/wiki/Packaging_engineering" title="Packaging engineering">Packaging engineering</a></li>
+<li><a href="/wiki/Reusable_packaging" title="Reusable packaging">Reusable packaging</a></li>
+<li><a href="/wiki/Shelf_life" title="Shelf life">Shelf life</a></li>
+<li><a href="/wiki/Shelf-ready_packaging" title="Shelf-ready packaging">Shelf-ready packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Shelf_stable" title="Shelf stable">Shelf stable</a></li>
+<li><a class="mw-selflink selflink">Sustainable packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Tamper-evident" title="Tamper-evident">Tamper-evident</a></li>
+<li><a href="/wiki/Tamper_resistance" title="Tamper resistance">Tamper resistance</a></li>
+<li><a href="/wiki/Wrap_rage" title="Wrap rage">Wrap rage</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Product packages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alternative_wine_closure" title="Alternative wine closure">Alternative wine closure</a></li>
+<li><a href="/wiki/Beer_bottle" title="Beer bottle">Beer bottle</a></li>
+<li><a href="/wiki/Box_wine" title="Box wine">Box wine</a></li>
+<li><a href="/wiki/Case-ready_meat" title="Case-ready meat">Case-ready meat</a></li>
+<li><a href="/wiki/Cosmetic_packaging" title="Cosmetic packaging">Cosmetic packaging</a></li>
+<li><a href="/wiki/Disposable_food_packaging" title="Disposable food packaging">Disposable food packaging</a></li>
+<li><a href="/wiki/Egg_carton" title="Egg carton">Egg carton</a></li>
+<li><a href="/wiki/Foam_food_container" title="Foam food container">Foam food container</a></li>
+<li><a href="/wiki/Food_packaging" title="Food packaging">Food packaging</a></li>
+<li><a href="/wiki/Glass_milk_bottle" title="Glass milk bottle">Glass milk bottle</a></li>
+<li><a href="/wiki/Growler_(jug)" title="Growler (jug)">Growler</a></li>
+<li><a href="/wiki/Luxury_packaging" title="Luxury packaging">Luxury packaging</a></li>
+<li><a href="/wiki/Milk_bag" title="Milk bag">Milk bag</a></li>
+<li><a href="/wiki/Optical_disc_packaging" title="Optical disc packaging">Optical disc packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Pharmaceutical_packaging" title="Pharmaceutical packaging">Pharmaceutical packaging</a></li>
+<li><a href="/wiki/Plastic_milk_container" title="Plastic milk container">Plastic milk container</a></li>
+<li><a href="/wiki/Screw_cap_(wine)" title="Screw cap (wine)">Screw cap (wine)</a></li>
+<li><a href="/wiki/Water_bottle" title="Water bottle">Water bottle</a></li>
+<li><a href="/wiki/Wine_bottle" title="Wine bottle">Wine bottle</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Container" title="Container">Containers</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aerosol_spray" title="Aerosol spray">Aerosol spray</a></li>
+<li><a href="/wiki/Aluminium_bottle" title="Aluminium bottle">Aluminium bottle</a></li>
+<li><a href="/wiki/Aluminum_can" title="Aluminum can">Aluminum can</a></li>
+<li><a href="/wiki/Ampoule" title="Ampoule">Ampoule</a></li>
+<li><a href="/wiki/Antistatic_bag" title="Antistatic bag">Antistatic bag</a></li>
+<li><a href="/wiki/Bag-in-box" title="Bag-in-box">Bag-in-box</a></li>
+<li><a href="/wiki/Bag" title="Bag">Bags and flexible containers</a></li>
+<li><a href="/wiki/Barrel" title="Barrel">Barrel</a></li>
+<li><a href="/wiki/Biodegradable_bag" title="Biodegradable bag">Biodegradable bag</a></li>
+<li><a href="/wiki/Blister_pack" title="Blister pack">Blister pack</a></li>
+<li><a href="/wiki/Boil-in-bag" title="Boil-in-bag">Boil-in-bag</a></li>
+<li><a href="/wiki/Bottle" title="Bottle">Bottle</a></li>
+<li><a href="/wiki/Box" title="Box">Box</a></li>
+<li><a href="/wiki/Bulk_box" title="Bulk box">Bulk box</a></li>
+<li><a href="/wiki/Cage" title="Cage">Cage</a></li>
+<li><a href="/wiki/Case_(goods)" title="Case (goods)">Case</a></li>
+<li><a href="/wiki/Carboy" title="Carboy">Carboy</a></li>
+<li><a href="/wiki/Carton" title="Carton">Carton</a></li>
+<li><a href="/wiki/Chub_(container)" title="Chub (container)">Chub</a></li>
+<li><a href="/wiki/Clamshell_(container)" title="Clamshell (container)">Clamshell</a></li>
+<li><a href="/wiki/Corrugated_box_design" title="Corrugated box design">Corrugated box design</a></li>
+<li><a href="/wiki/Crate" title="Crate">Crate</a></li>
+<li><a href="/wiki/Disposable_cup" title="Disposable cup">Disposable cup</a></li>
+<li><a href="/wiki/Drum_(container)" title="Drum (container)">Drum</a></li>
+<li><a href="/wiki/Endcap" title="Endcap">Endcap</a></li>
+<li><a href="/wiki/Envelope" title="Envelope">Envelope</a></li>
+<li><a href="/wiki/Flexible_intermediate_bulk_container" title="Flexible intermediate bulk container">Flexible intermediate bulk container</a></li>
+<li><a href="/wiki/Folding_carton" title="Folding carton">Folding carton</a></li>
+<li><a href="/wiki/Glass_bottle" title="Glass bottle">Glass bottle</a></li>
+<li><a href="/wiki/Insulated_shipping_container" title="Insulated shipping container">Insulated shipping container</a></li>
+<li><a href="/wiki/Intermediate_bulk_container" title="Intermediate bulk container">Intermediate bulk container</a></li>
+<li><a href="/wiki/Jar" title="Jar">Jar</a></li>
+<li><a href="/wiki/Jerrycan" title="Jerrycan">Jerrycan</a></li>
+<li><a href="/wiki/Jug" title="Jug">Jug</a></li>
+<li><a href="/wiki/Juicebox_(container)" title="Juicebox (container)">Juicebox</a></li>
+<li><a href="/wiki/Keg" title="Keg">Keg</a></li>
+<li><a href="/wiki/Multi-pack" title="Multi-pack">Multi-pack</a></li>
+<li><a href="/wiki/Oyster_pail" title="Oyster pail">Oyster pail</a></li>
+<li><a href="/wiki/Packet_(container)" title="Packet (container)">Packet (container)</a></li>
+<li><a href="/wiki/Padded_mailer" title="Padded mailer">Padded mailer</a></li>
+<li><a href="/wiki/Pail_(container)" title="Pail (container)">Pail</a></li>
+<li><a href="/wiki/Paper_bag" title="Paper bag">Paper bag</a></li>
+<li><a href="/wiki/Paper_sack" title="Paper sack">Paper sack</a></li>
+<li><a href="/wiki/Plastic_bag" title="Plastic bag">Plastic bag</a></li>
+<li><a href="/wiki/Plastic_bottle" title="Plastic bottle">Plastic bottle</a></li>
+<li><a href="/wiki/Microwave_popcorn" title="Microwave popcorn">Popcorn bag</a></li>
+<li><a href="/wiki/Retort_pouch" title="Retort pouch">Retort pouch</a></li>
+<li><a href="/wiki/Sachet" title="Sachet">Sachet</a></li>
+<li><a href="/wiki/Security_bag" title="Security bag">Security bag</a></li>
+<li><a href="/wiki/Self-heating_can" title="Self-heating can">Self-heating can</a></li>
+<li><a href="/wiki/Self-heating_food_packaging" title="Self-heating food packaging">Self-heating food packaging</a></li>
+<li><a href="/wiki/Shipping_container" title="Shipping container">Shipping container</a></li>
+<li><a href="/wiki/Skin_pack" title="Skin pack">Skin pack</a></li>
+<li><a href="/wiki/Spray_bottle" title="Spray bottle">Spray bottle</a></li>
+<li><a href="/wiki/Tetra_Brik" title="Tetra Brik">Tetra Brik</a></li>
+<li><a href="/wiki/Tin_can" title="Tin can">Tin can</a></li>
+<li><a href="/wiki/Thermal_bag" title="Thermal bag">Thermal bag</a></li>
+<li><a href="/wiki/Tub_(container)" title="Tub (container)">Tub (container)</a></li>
+<li><a href="/wiki/Tube_(container)" title="Tube (container)">Tube</a></li>
+<li><a href="/wiki/Unit_load" title="Unit load">Unit load</a></li>
+<li><a href="/wiki/Vial" title="Vial">Vial</a></li>
+<li><a href="/wiki/Wooden_box" title="Wooden box">Wooden box</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Materials and<br/> components</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adhesive" title="Adhesive">Adhesive</a></li>
+<li><a href="/wiki/Aluminium_foil" title="Aluminium foil">Aluminium foil</a></li>
+<li><a href="/wiki/Bail_handle" title="Bail handle">Bail handle</a></li>
+<li><a href="/wiki/Bioplastic" title="Bioplastic">Bioplastic</a></li>
+<li><a href="/wiki/Biodegradable_plastic" title="Biodegradable plastic">Biodegradable plastic</a></li>
+<li><a href="/wiki/BoPET" title="BoPET">BoPET</a></li>
+<li><a href="/wiki/Bubble_wrap" title="Bubble wrap">Bubble wrap</a></li>
+<li><a href="/wiki/Bung" title="Bung">Bung</a></li>
+<li><a href="/wiki/Cellophane" title="Cellophane">Cellophane</a></li>
+<li><a href="/wiki/Closure_(container)" title="Closure (container)">Closure</a></li>
+<li><a href="/wiki/Coated_paper" title="Coated paper">Coated paper</a></li>
+<li><a href="/wiki/Coating" title="Coating">Coating</a></li>
+<li><a class="mw-redirect" href="/wiki/Coextrusion#Coextrusion" title="Coextrusion">Coextrusion</a></li>
+<li><a href="/wiki/Corrugated_fiberboard" title="Corrugated fiberboard">Corrugated fiberboard</a></li>
+<li><a href="/wiki/Corrugated_plastic" title="Corrugated plastic">Corrugated plastic</a></li>
+<li><a href="/wiki/Cushioning" title="Cushioning">Cushioning</a></li>
+<li><a href="/wiki/Desiccant" title="Desiccant">Desiccant</a></li>
+<li><a href="/wiki/Double_seam" title="Double seam">Double seam</a></li>
+<li><a href="/wiki/Foam_peanut" title="Foam peanut">Foam peanut</a></li>
+<li><a class="mw-redirect" href="/wiki/Gel_pack" title="Gel pack">Gel pack</a></li>
+<li><a href="/wiki/Glass" title="Glass">Glass</a></li>
+<li><a href="/wiki/Hot-melt_adhesive" title="Hot-melt adhesive">Hot-melt adhesive</a></li>
+<li><a href="/wiki/Kraft_paper" title="Kraft paper">Kraft paper</a></li>
+<li><a href="/wiki/Label" title="Label">Label</a></li>
+<li><a href="/wiki/Lid" title="Lid">Lid</a></li>
+<li><a href="/wiki/Linear_low-density_polyethylene" title="Linear low-density polyethylene">Linear low-density polyethylene</a></li>
+<li><a href="/wiki/Liquid_packaging_board" title="Liquid packaging board">Liquid packaging board</a></li>
+<li><a href="/wiki/Low-density_polyethylene" title="Low-density polyethylene">Low-density polyethylene</a></li>
+<li><a href="/wiki/Metallised_film" title="Metallised film">Metallised film</a></li>
+<li><a href="/wiki/Modified_atmosphere" title="Modified atmosphere">Modified atmosphere</a></li>
+<li><a href="/wiki/Molded_pulp" title="Molded pulp">Molded pulp</a></li>
+<li><a href="/wiki/Nonwoven_fabric" title="Nonwoven fabric">Nonwoven fabric</a></li>
+<li><a href="/wiki/Overwrap" title="Overwrap">Overwrap</a></li>
+<li><a href="/wiki/Oxygen_scavenger" title="Oxygen scavenger">Oxygen scavenger</a></li>
+<li><a href="/wiki/Package_handle" title="Package handle">Package handle</a></li>
+<li><a href="/wiki/Packaging_gas" title="Packaging gas">Packaging gas</a></li>
+<li><a href="/wiki/Pallet" title="Pallet">Pallet</a></li>
+<li><a href="/wiki/Paper" title="Paper">Paper</a></li>
+<li><a href="/wiki/Paper_pallet" title="Paper pallet">Paper pallet</a></li>
+<li><a href="/wiki/Paperboard" title="Paperboard">Paperboard</a></li>
+<li><a href="/wiki/Plastic_film" title="Plastic film">Plastic film</a></li>
+<li><a class="mw-redirect" href="/wiki/Plastic_pallet" title="Plastic pallet">Plastic pallet</a></li>
+<li><a href="/wiki/Plastic_wrap" title="Plastic wrap">Plastic wrap</a></li>
+<li><a href="/wiki/Polyester" title="Polyester">Polyester</a></li>
+<li><a href="/wiki/Polyethylene" title="Polyethylene">Polyethylene</a></li>
+<li><a href="/wiki/Polypropylene" title="Polypropylene">Polypropylene</a></li>
+<li><a href="/wiki/Pressure-sensitive_tape" title="Pressure-sensitive tape">Pressure-sensitive tape</a></li>
+<li><a href="/wiki/Pump_dispenser" title="Pump dispenser">Pump dispenser</a></li>
+<li><a href="/wiki/Screw_cap" title="Screw cap">Screw cap</a></li>
+<li><a href="/wiki/Screw_cap_(wine)" title="Screw cap (wine)">Screw cap (wine)</a></li>
+<li><a href="/wiki/Security_printing" title="Security printing">Security printing</a></li>
+<li><a href="/wiki/Security_tape" title="Security tape">Security tape</a></li>
+<li><a href="/wiki/Shock_detector" title="Shock detector">Shock detector</a></li>
+<li><a href="/wiki/Shock_and_vibration_data_logger" title="Shock and vibration data logger">Shock and vibration data logger</a></li>
+<li><a href="/wiki/Shrink_wrap" title="Shrink wrap">Shrink wrap</a></li>
+<li><a href="/wiki/Slip_sheet" title="Slip sheet">Slip sheet</a></li>
+<li><a href="/wiki/Staple_(fastener)" title="Staple (fastener)">Staple (fastener)</a></li>
+<li><a href="/wiki/Strapping" title="Strapping">Strapping</a></li>
+<li><a href="/wiki/Stretch_wrap" title="Stretch wrap">Stretch wrap</a></li>
+<li><a href="/wiki/Susceptor" title="Susceptor">Susceptor</a></li>
+<li><a href="/wiki/Tamper-evident_band" title="Tamper-evident band">Tamper-evident band</a></li>
+<li><a href="/wiki/Tear_tape" title="Tear tape">Tear tape</a></li>
+<li><a href="/wiki/Temperature_data_logger" title="Temperature data logger">Temperature data logger</a></li>
+<li><a href="/wiki/Time_temperature_indicator" title="Time temperature indicator">Time temperature indicator</a></li>
+<li><a href="/wiki/Tinning" title="Tinning">Tinplate</a></li>
+<li><a href="/wiki/Velostat" title="Velostat">Velostat</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Processes</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aseptic_processing" title="Aseptic processing">Aseptic processing</a></li>
+<li><a href="/wiki/Authentication" title="Authentication">Authentication</a></li>
+<li><a href="/wiki/Automatic_identification_and_data_capture" title="Automatic identification and data capture">Automatic identification and data capture</a></li>
+<li><a href="/wiki/Blow_fill_seal" title="Blow fill seal">Blow fill seal</a></li>
+<li><a href="/wiki/Blow_molding" title="Blow molding">Blow molding</a></li>
+<li><a href="/wiki/Calender" title="Calender">Calendering</a></li>
+<li><a href="/wiki/Canning" title="Canning">Canning</a></li>
+<li><a href="/wiki/Coating" title="Coating">Coating</a></li>
+<li><a href="/wiki/Containerization" title="Containerization">Containerization</a></li>
+<li><a href="/wiki/Corona_treatment" title="Corona treatment">Corona treatment</a></li>
+<li><a class="mw-redirect" href="/wiki/Curtain_Coating" title="Curtain Coating">Curtain Coating</a></li>
+<li><a href="/wiki/Die_cutting_(web)" title="Die cutting (web)">Die cutting</a></li>
+<li><a href="/wiki/Die_forming_(plastics)" title="Die forming (plastics)">Die forming (plastics)</a></li>
+<li><a href="/wiki/Electronic_article_surveillance" title="Electronic article surveillance">Electronic article surveillance</a></li>
+<li><a href="/wiki/Extrusion" title="Extrusion">Extrusion</a></li>
+<li><a href="/wiki/Extrusion_coating" title="Extrusion coating">Extrusion coating</a></li>
+<li><a href="/wiki/Flame_treatment" title="Flame treatment">Flame treatment</a></li>
+<li><a href="/wiki/Glass_production" title="Glass production">Glass production</a></li>
+<li><a href="/wiki/Graphic_design" title="Graphic design">Graphic design</a></li>
+<li><a href="/wiki/Hazard_analysis_and_critical_control_points" title="Hazard analysis and critical control points">HACCP</a></li>
+<li><a href="/wiki/Hermetic_seal" title="Hermetic seal">Hermetic seal</a></li>
+<li><a href="/wiki/Induction_sealing" title="Induction sealing">Induction sealing</a></li>
+<li><a class="mw-redirect" href="/wiki/Injection_molding" title="Injection molding">Injection molding</a></li>
+<li><a class="mw-redirect" href="/wiki/Laminating" title="Laminating">Laminating</a></li>
+<li><a href="/wiki/Laser_cutting" title="Laser cutting">Laser cutting</a></li>
+<li><a href="/wiki/Molding_(process)" title="Molding (process)">Molding</a></li>
+<li><a href="/wiki/Papermaking" title="Papermaking">Papermaking</a></li>
+<li><a href="/wiki/Plastic_welding" title="Plastic welding">Plastic welding</a></li>
+<li><a href="/wiki/Plastics_extrusion" title="Plastics extrusion">Plastics extrusion</a></li>
+<li><a href="/wiki/Printing" title="Printing">Printing</a></li>
+<li><a href="/wiki/Quality_assurance" title="Quality assurance">Quality assurance</a></li>
+<li><a href="/wiki/Radio-frequency_identification" title="Radio-frequency identification">Radio-frequency identification</a></li>
+<li><a href="/wiki/Roll_slitting" title="Roll slitting">Roll slitting</a></li>
+<li><a href="/wiki/Shearing_(manufacturing)" title="Shearing (manufacturing)">Shearing (manufacturing)</a></li>
+<li><a href="/wiki/Thermoforming" title="Thermoforming">Thermoforming</a></li>
+<li><a href="/wiki/Track_and_trace" title="Track and trace">Track and trace</a></li>
+<li><a href="/wiki/Vacuum_forming" title="Vacuum forming">Vacuum forming</a></li>
+<li><a href="/wiki/Ultrasonic_welding" title="Ultrasonic welding">Ultrasonic welding</a></li>
+<li><a class="mw-redirect" href="/wiki/Vacuum_packaging" title="Vacuum packaging">Vacuum packaging</a></li>
+<li><a href="/wiki/Verification_and_validation" title="Verification and validation">Verification and validation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Machinery</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barcode_printer" title="Barcode printer">Barcode printer</a></li>
+<li><a href="/wiki/Barcode_reader" title="Barcode reader">Barcode reader</a></li>
+<li><a href="/wiki/Bottling_line" title="Bottling line">Bottling line</a></li>
+<li><a href="/wiki/Calender" title="Calender">Calender</a></li>
+<li><a href="/wiki/Can_seamer" title="Can seamer">Can seamer</a></li>
+<li><a href="/wiki/Cartoning_machine" title="Cartoning machine">Cartoning machine</a></li>
+<li><a href="/wiki/Case_sealer" title="Case sealer">Case sealer</a></li>
+<li><a href="/wiki/Check_weigher" title="Check weigher">Check weigher</a></li>
+<li><a href="/wiki/Conveyor_system" title="Conveyor system">Conveyor system</a></li>
+<li><a href="/wiki/Extended_core_stretch_wrapper" title="Extended core stretch wrapper">Extended core stretch wrapper</a></li>
+<li><a href="/wiki/Filler_(packaging)" title="Filler (packaging)">Filler</a></li>
+<li><a href="/wiki/Heat_gun" title="Heat gun">Heat gun</a></li>
+<li><a href="/wiki/Heat_sealer" title="Heat sealer">Heat sealer</a></li>
+<li><a href="/wiki/Industrial_robot" title="Industrial robot">Industrial robot</a></li>
+<li><a href="/wiki/Injection_molding_machine" title="Injection molding machine">Injection molding machine</a></li>
+<li><a href="/wiki/Label_printer_applicator" title="Label printer applicator">Label printer applicator</a></li>
+<li><a href="/wiki/Lineshaft_roller_conveyor" title="Lineshaft roller conveyor">Lineshaft roller conveyor</a></li>
+<li><a href="/wiki/Logistics_automation" title="Logistics automation">Logistics automation</a></li>
+<li><a class="mw-redirect" href="/wiki/Material_handling_equipment" title="Material handling equipment">Material handling equipment</a></li>
+<li><a href="/wiki/Mechanical_brake_stretch_wrapper" title="Mechanical brake stretch wrapper">Mechanical brake stretch wrapper</a></li>
+<li><a href="/wiki/Multihead_weigher" title="Multihead weigher">Multihead weigher</a></li>
+<li><a href="/wiki/Orbital_stretch_wrapper" title="Orbital stretch wrapper">Orbital stretch wrapper</a></li>
+<li><a href="/wiki/Palletizer" title="Palletizer">Palletizer</a></li>
+<li><a href="/wiki/Rotary_wheel_blow_molding_systems" title="Rotary wheel blow molding systems">Rotary wheel blow molding systems</a></li>
+<li><a href="/wiki/Shrink_tunnel" title="Shrink tunnel">Shrink tunnel</a></li>
+<li><a href="/wiki/Staple_gun" title="Staple gun">Staple gun</a></li>
+<li><a href="/wiki/Tape_dispenser" title="Tape dispenser">Tape dispenser</a></li>
+<li><a href="/wiki/Turntable_stretch_wrapper" title="Turntable stretch wrapper">Turntable stretch wrapper</a></li>
+<li><a href="/wiki/Vertical_form_fill_sealing_machine" title="Vertical form fill sealing machine">Vertical form fill sealing machine</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Environment,<br/> post-use</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biodegradation" title="Biodegradation">Biodegradation</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Glass_recycling" title="Glass recycling">Glass recycling</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><a href="/wiki/Litter" title="Litter">Litter</a></li>
+<li><a href="/wiki/Paper_recycling" title="Paper recycling">Paper recycling</a></li>
+<li><a href="/wiki/Plastic_recycling" title="Plastic recycling">Plastic recycling</a></li>
+<li><a href="/wiki/Recycling" title="Recycling">Recycling</a></li>
+<li><a href="/wiki/Reusable_packaging" title="Reusable packaging">Reusable packaging</a></li>
+<li><a href="/wiki/Reverse_logistics" title="Reverse logistics">Reverse logistics</a></li>
+<li><a href="/wiki/Source_reduction" title="Source reduction">Source reduction</a></li>
+<li><a class="mw-selflink selflink">Sustainable packaging</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a class="image" href="/wiki/File:Can(Easy_Open_Can).JPG"><img alt="Can(Easy Open Can).JPG" class="noviewer" data-file-height="1600" data-file-width="1200" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Can%28Easy_Open_Can%29.JPG/12px-Can%28Easy_Open_Can%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Can%28Easy_Open_Can%29.JPG/18px-Can%28Easy_Open_Can%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Can%28Easy_Open_Can%29.JPG/24px-Can%28Easy_Open_Can%29.JPG 2x" width="12"/></a> <a href="/wiki/Portal:Packaging" title="Portal:Packaging">Packaging portal</a> •  <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Packaging" title="Category:Packaging">Category: Packaging</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20181101180342
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.520 seconds
+Real time usage: 0.593 seconds
+Preprocessor visited node count: 2650/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 108618/2097152 bytes
+Template argument size: 1490/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 83879/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.233/10.000 seconds
+Lua memory usage: 3.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  400.044      1 -total
+ 81.57%  326.314      1 Template:Reflist
+ 36.57%  146.283      5 Template:Cite_journal
+ 15.78%   63.115      6 Template:ISBN
+ 14.57%   58.287     13 Template:Cite_web
+  8.93%   35.722      2 Template:Navbox
+  7.27%   29.099      6 Template:Catalog_lookup_link
+  6.62%   26.486      1 Template:Packaging
+  4.67%   18.693      4 Template:Cite_book
+  4.45%   17.808      3 Template:Citation
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17117300-0!canonical and timestamp 20181101180342 and revision id 860757849
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sustainable_packaging&amp;oldid=860757849">https://en.wikipedia.org/w/index.php?title=Sustainable_packaging&amp;oldid=860757849</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Brand_management" title="Category:Brand management">Brand management</a></li><li><a href="/wiki/Category:Ecolabelling" title="Category:Ecolabelling">Ecolabelling</a></li><li><a href="/wiki/Category:Labels" title="Category:Labels">Labels</a></li><li><a href="/wiki/Category:Packaging" title="Category:Packaging">Packaging</a></li><li><a href="/wiki/Category:Product_management" title="Category:Product management">Product management</a></li><li><a href="/wiki/Category:Sustainable_business" title="Category:Sustainable business">Sustainable business</a></li><li><a href="/wiki/Category:Biodegradable_materials" title="Category:Biodegradable materials">Biodegradable materials</a></li><li><a href="/wiki/Category:Waste_minimisation" title="Category:Waste minimisation">Waste minimisation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sustainable+packaging" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sustainable+packaging" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sustainable_packaging" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sustainable_packaging" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sustainable_packaging">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sustainable_packaging&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sustainable_packaging&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sustainable_packaging" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sustainable_packaging" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sustainable_packaging&amp;oldid=860757849" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sustainable_packaging&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7649677" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sustainable_packaging&amp;id=860757849" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sustainable+packaging">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sustainable+packaging&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sustainable_packaging&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Empaquetado_sustentable" hreflang="es" lang="es" title="Empaquetado sustentable – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B3%D8%AA%D9%87%E2%80%8C%D8%A8%D9%86%D8%AF%DB%8C_%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1" hreflang="fa" lang="fa" title="بسته‌بندی پایدار – Persian">فارسی</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7649677#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 September 2018, at 21:09<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sustainable_packaging&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.520","walltime":"0.593","ppvisitednodes":{"value":2650,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":108618,"limit":2097152},"templateargumentsize":{"value":1490,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":83879,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  400.044      1 -total"," 81.57%  326.314      1 Template:Reflist"," 36.57%  146.283      5 Template:Cite_journal"," 15.78%   63.115      6 Template:ISBN"," 14.57%   58.287     13 Template:Cite_web","  8.93%   35.722      2 Template:Navbox","  7.27%   29.099      6 Template:Catalog_lookup_link","  6.62%   26.486      1 Template:Packaging","  4.67%   18.693      4 Template:Cite_book","  4.45%   17.808      3 Template:Citation"]},"scribunto":{"limitreport-timeusage":{"value":"0.233","limit":"10.000"},"limitreport-memusage":{"value":4179279,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20181101180342","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1330"});});</script>
+</body>
+</html>

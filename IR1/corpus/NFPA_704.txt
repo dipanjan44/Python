@@ -1,0 +1,391 @@
+https://en.wikipedia.org/wiki/NFPA_704
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>NFPA 704 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"NFPA_704","wgTitle":"NFPA 704","wgCurRevisionId":864086204,"wgRevisionId":864086204,"wgArticleId":987544,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Articles which use infobox templates with no data rows","Commons category with page title different than on Wikidata","NFPA Standards","Safety codes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"NFPA_704","wgRelevantArticleId":987544,"wgRequestId":"W9oCBwpAME0AACIzrxYAAABN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q208273","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/NFPA_704" rel="alternate"/>
+<link href="/w/index.php?title=NFPA_704&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=NFPA_704&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/NFPA_704" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-NFPA_704 rootpage-NFPA_704 skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">NFPA 704</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em;width: 12em;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background:#FFCB66; font-size: 98%;"><a class="mw-selflink selflink">NFPA 704</a><br/><i>fire diamond</i></th></tr><tr><td colspan="2" style="text-align:center">
+<div style="width:100%; background:transparent;"><div id="container" style="margin:0 auto; width:82px; font-family:sans-serif"><div class="nounderlines" id="on_image_elements" style="background:; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_1_1496540496"><area alt="Flammability code 3: Liquids and solids that can be ignited under almost all ambient temperature conditions. Flash point between 23 and 38 °C (73 and 100 °F). E.g., gasoline" coords="40,0,60,20,40,40,20,20" href="/wiki/NFPA_704#Red" shape="poly" title="Flammability code 3: Liquids and solids that can be ignited under almost all ambient temperature conditions. Flash point between 23 and 38 °C (73 and 100 °F). E.g., gasoline"/><area alt="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine" coords="20,20,40,40,20,60,0,40" href="/wiki/NFPA_704#Blue" shape="poly" title="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine"/><area alt="Reactivity code 2: Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water. E.g., phosphorus" coords="60,20,80,40,60,60,40,40" href="/wiki/NFPA_704#Yellow" shape="poly" title="Reactivity code 2: Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water. E.g., phosphorus"/><area alt="Special hazard W: Reacts with water in an unusual or dangerous manner. E.g., cesium, sodium" coords="40,40,60,60,40,80,20,60" href="/wiki/NFPA_704#White" shape="poly" title="Special hazard W: Reacts with water in an unusual or dangerous manner. E.g., cesium, sodium"/></map><img alt="NFPA 704 four-colored diamond" data-file-height="600" data-file-width="600" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" usemap="#ImageMap_1_1496540496" width="80"/></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+<a href="/wiki/NFPA_704#Red" title="NFPA 704"><span style="color:black;" title="Flammability code 3: Liquids and solids that can be ignited under almost all ambient temperature conditions. Flash point between 23 and 38 °C (73 and 100 °F). E.g., gasoline">3</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+<a href="/wiki/NFPA_704#Blue" title="NFPA 704"><span style="color:black;" title="Health code 1: Exposure would cause irritation but only minor residual injury. E.g., turpentine">1</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+<a href="/wiki/NFPA_704#Yellow" title="NFPA 704"><span style="color:black;" title="Reactivity code 2: Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water. E.g., phosphorus">2</span></a></div><div style="vertical-align:middle; text-align:center; line-height:80%; position:absolute; top:52px;"><a href="/wiki/NFPA_704#White" title="NFPA 704"><span style="font-size:15px; color:black; width:23px; position:absolute; left:29px;" title="Special hazard W: Reacts with water in an unusual or dangerous manner. E.g., cesium, sodium"><s>W</s></span></a></div></div></div></div></td></tr></tbody></table>
+<p>"<b>NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response</b>" is a standard maintained by the <a href="/wiki/United_States" title="United States">U.S.</a>-based <a href="/wiki/National_Fire_Protection_Association" title="National Fire Protection Association">National Fire Protection Association</a>. First "tentatively adopted as a guide" in 1960,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> and revised several times since then, it defines the colloquial "<b>fire diamond</b>" used by emergency personnel to quickly and easily identify the risks posed by hazardous materials. This helps determine what, if any, special equipment should be used, procedures followed, or precautions taken during the initial stages of an emergency response.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Codes"><span class="tocnumber">1</span> <span class="toctext">Codes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Codes">Codes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NFPA_704&amp;action=edit&amp;section=1" title="Edit section: Codes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span id="Symbolism"></span>
+</p>
+<table align="right">
+<tbody><tr>
+<td><div style="width:100%; background:transparent;"><div id="container" style="margin:0 auto; width:82px; font-family:sans-serif"><div class="nounderlines" id="on_image_elements" style="background:transparent; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_2_405541219"><area alt="Flammability (red): no hazard code" coords="40,0,60,20,40,40,20,20" href="/wiki/NFPA_704#Red" shape="poly" title="Flammability (red): no hazard code"/><area alt="Health (blue): no hazard code" coords="20,20,40,40,20,60,0,40" href="/wiki/NFPA_704#Blue" shape="poly" title="Health (blue): no hazard code"/><area alt="Reactivity (yellow): no hazard code" coords="60,20,80,40,60,60,40,40" href="/wiki/NFPA_704#Yellow" shape="poly" title="Reactivity (yellow): no hazard code"/><area alt="Special hazards (white): no code" coords="40,40,60,60,40,80,20,60" href="/wiki/NFPA_704#White" shape="poly" title="Special hazards (white): no code"/></map><img alt="NFPA 704 four-colored diamond" data-file-height="600" data-file-width="600" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" usemap="#ImageMap_2_405541219" width="80"/></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+</div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+</div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+</div></div></div></div>
+</td></tr></tbody></table>
+<p>The four divisions are typically color-coded with red on top indicating <a class="mw-redirect" href="/wiki/Flammability" title="Flammability">flammability</a>, blue on the left indicating level of <a href="/wiki/Health" title="Health">health</a> hazard, yellow on the right for <a href="/wiki/Reactivity_(chemistry)" title="Reactivity (chemistry)">chemical reactivity</a>, and white containing codes for special hazards. Each of health, flammability and reactivity is rated on a scale from 0 (minimal hazard) to 4 (severe hazard). The latest version of NFPA 704 sections 5, 6, 7 and 8 for the specifications of each classification are listed below. The numeric values in the first column are designated in the standard by "Degree of Hazard" using Arabic numerals (0, 1, 2, 3, 4), not to be confused with other classification systems, such as that in the NFPA 30 Flammable and Combustible Liquids Code, where flammable and combustible liquid categories are designated by "Class", using Roman numerals (I, II, III).<sup class="reference" id="cite_ref-NFPA_2-0"><a href="#cite_note-NFPA-2">[2]</a></sup>
+<span id="Red"></span>
+</p>
+<table class="wikitable" style="text-align:center;width:100%; vertical-align:center;">
+<tbody><tr>
+<th colspan="2" style="color:black; background:#ff6666; width:75%;">Flammability (red)
+</th></tr>
+<tr>
+<th style="width:3em"><b>0</b>
+</th>
+<td>Materials that will not burn under typical fire conditions (e.g. <a href="/wiki/Carbon_tetrachloride" title="Carbon tetrachloride">Carbon tetrachloride</a>), including intrinsically noncombustible materials such as concrete, stone, and sand.  Materials that will not burn in air when exposed to a temperature of 820 °C (1,500 °F) for a period of 5 minutes.
+</td></tr>
+<tr>
+<th>1
+</th>
+<td>Materials that require considerable preheating, under all ambient temperature conditions, before ignition and combustion can occur (e.g. <a href="/wiki/Mineral_oil" title="Mineral oil">mineral oil</a>, <a href="/wiki/Ammonia" title="Ammonia">ammonia</a>). Includes some finely divided suspended solids that do not require heating before ignition can occur. <a href="/wiki/Flash_point" title="Flash point">Flash point</a> at or above 93.3 °C (200 °F).
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>Must be moderately heated or exposed to relatively high ambient temperature before ignition can occur (e.g. <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel fuel</a>, paper, <a href="/wiki/Sulfur" title="Sulfur">sulfur</a>) and multiple finely divided suspended solids that do not require heating before ignition can occur. Flash point between 37.8 and 93.3 °C (100 and 200 °F).
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>Liquids and solids (including finely divided suspended solids) that can be ignited under almost all ambient temperature conditions (e.g. <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>, <a href="/wiki/Acetone" title="Acetone">acetone</a>). Liquids having a flash point below 22.8 °C (73 °F) and having a boiling point at or above 37.8 °C (100 °F) or having a flash point between 22.8 and 37.8 °C (73 and 100 °F).
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>Will rapidly or completely vaporize at normal atmospheric pressure and temperature, or is readily dispersed in air and will burn readily (e.g. <a href="/wiki/Acetylene" title="Acetylene">acetylene</a>, <a href="/wiki/Propane" title="Propane">propane</a>, <a class="mw-redirect" href="/wiki/Hydrogen_gas" title="Hydrogen gas">hydrogen gas</a>). Includes <a href="/wiki/Pyrophoricity" title="Pyrophoricity">pyrophoric</a> substances. <a href="/wiki/Flash_point" title="Flash point">Flash point</a> below room temperature at 22.8 °C (73 °F).
+</td></tr></tbody></table>
+<p><span id="Blue"></span>
+</p>
+<table class="wikitable" style="text-align:center;width:100%; vertical-align:center;">
+<tbody><tr>
+<th colspan="2" style="color:black; background:#6691ff; width:75%;">Health (blue)
+</th></tr>
+<tr>
+<th style="max-width:10em">0
+</th>
+<td>Poses no health hazard, no precautions necessary and would offer no hazard beyond that of ordinary combustible materials (e.g. <a href="/wiki/Wood" title="Wood">wood</a>, <a href="/wiki/Paper" title="Paper">paper</a>)
+</td></tr>
+<tr>
+<th>1
+</th>
+<td>Exposure would cause irritation with only minor residual injury (e.g. <a href="/wiki/Acetone" title="Acetone">acetone</a>, <a href="/wiki/Sodium_bromate" title="Sodium bromate">sodium bromate</a>, <a href="/wiki/Potassium_chloride" title="Potassium chloride">potassium chloride</a>)
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>Intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury (e.g. <a href="/wiki/Diethyl_ether" title="Diethyl ether">diethyl ether</a>, <a href="/wiki/Ammonium_phosphate" title="Ammonium phosphate">ammonium phosphate</a>, <a href="/wiki/Iodine" title="Iodine">iodine</a>)
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>Short exposure could cause serious temporary or moderate residual injury (e.g. <a href="/wiki/Liquid_hydrogen" title="Liquid hydrogen">liquid hydrogen</a>, <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a>, <a href="/wiki/Calcium_hypochlorite" title="Calcium hypochlorite">calcium hypochlorite</a>, <a href="/wiki/Hexafluorosilicic_acid" title="Hexafluorosilicic acid">hexafluorosilicic acid</a>)
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>Very short exposure could cause death or major residual injury (e.g. <a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">hydrogen cyanide</a>, <a href="/wiki/Phosgene" title="Phosgene">phosgene</a>, <a href="/wiki/Methyl_isocyanate" title="Methyl isocyanate">methyl isocyanate</a>, <a href="/wiki/Hydrofluoric_acid" title="Hydrofluoric acid">hydrofluoric acid</a>)
+</td></tr></tbody></table>
+<p><span id="Yellow"></span>
+<span id="Blue"></span>
+</p>
+<table class="wikitable" style="text-align:center;width:100%; vertical-align:center;">
+<tbody><tr>
+<th colspan="2" style="color:black; background:#fcff66; width:75%;">Instability/reactivity (yellow)
+</th></tr>
+<tr>
+<th style="max-width:10em">0
+</th>
+<td>Normally stable, even under fire exposure conditions, and is not reactive with water (e.g. <a href="/wiki/Helium" title="Helium">helium</a>, <a href="/wiki/Nitrogen" title="Nitrogen">N<sub>2</sub></a>)
+</td></tr>
+<tr>
+<th>1
+</th>
+<td>Normally stable, but can become unstable at elevated temperatures and pressures (e.g. <a href="/wiki/Propene" title="Propene">propene</a>)
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water (e.g. <a class="mw-redirect" href="/wiki/White_phosphorus" title="White phosphorus">white phosphorus</a>, <a href="/wiki/Potassium" title="Potassium">potassium</a>, <a href="/wiki/Sodium" title="Sodium">sodium</a>)
+</td></tr>
+<tr>
+<th>3
+</th>
+<td>Capable of detonation or explosive decomposition but requires a strong initiating source, must be heated under confinement before initiation, reacts explosively with water, or will detonate if severely shocked (e.g. <a href="/wiki/Ammonium_nitrate" title="Ammonium nitrate">ammonium nitrate</a>, <a href="/wiki/Caesium" title="Caesium">caesium</a>, <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a>)
+</td></tr>
+<tr>
+<th>4
+</th>
+<td>Readily capable of <a href="/wiki/Detonation" title="Detonation">detonation</a> or <a class="mw-redirect" href="/wiki/Explosive_material#Chemical_explosives" title="Explosive material">explosive decomposition</a> at normal temperatures and pressures (e.g. <a href="/wiki/Nitroglycerin" title="Nitroglycerin">nitroglycerin</a>, <a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">chlorine dioxide</a>, <a href="/wiki/Nitrogen_triiodide" title="Nitrogen triiodide">nitrogen triiodide</a>, <a href="/wiki/Chlorine_trifluoride" title="Chlorine trifluoride">chlorine trifluoride</a>)
+</td></tr></tbody></table><p><span id="White"></span>
+</p><table class="wikitable" style="text-align:center;width:100%; vertical-align:center;">
+<tbody><tr>
+<th colspan="2" style="color:black; background:#ffffff; width:50%;">Special notice (white)
+</th></tr>
+<tr>
+<td colspan="2">The white "special notice" area can contain several symbols. The following symbols are defined by the NFPA 704 standard.
+</td></tr>
+<tr>
+<td style="width:3em"><b>OX</b></td>
+<td><a class="mw-redirect" href="/wiki/Oxidizer" title="Oxidizer">Oxidizer</a>, allows chemicals to burn without an air supply (e.g. <a href="/wiki/Potassium_perchlorate" title="Potassium perchlorate">potassium perchlorate</a>, <a href="/wiki/Ammonium_nitrate" title="Ammonium nitrate">ammonium nitrate</a>, <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a>).
+</td></tr>
+<tr>
+<td><b><s>W</s></b></td>
+<td>Reacts with <a href="/wiki/Water" title="Water">water</a> in an unusual or dangerous manner (e.g. <a href="/wiki/Caesium" title="Caesium">caesium</a>, <a href="/wiki/Sodium" title="Sodium">sodium</a>, <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a>).
+</td></tr>
+<tr>
+<td><b>SA</b></td>
+<td>Simple <a href="/wiki/Asphyxiant_gas" title="Asphyxiant gas">asphyxiant gas</a> (specifically <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, <a href="/wiki/Helium" title="Helium">helium</a>, <a href="/wiki/Neon" title="Neon">neon</a>, <a href="/wiki/Argon" title="Argon">argon</a>, <a href="/wiki/Krypton" title="Krypton">krypton</a>, <a href="/wiki/Xenon" title="Xenon">xenon</a>). The SA symbol shall also be used for liquefied <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> vapor withdrawal systems and where large quantities of <a href="/wiki/Dry_ice" title="Dry ice">dry ice</a> are used in confined areas.<sup class="reference" id="cite_ref-NFPA_2-1"><a href="#cite_note-NFPA-2">[2]</a></sup>
+</td></tr></tbody></table>
+<table class="wikitable" style="text-align:center;width=100%; vertical-align:center;">
+<tbody><tr>
+<th colspan="2" style="color:black; background:#ffffff; width:50%;">Non-standard symbols (white)
+</th></tr>
+<tr>
+<td colspan="2">These hazard codes are <i><b>not part of the NFPA 704 standard</b></i>, but are occasionally used in an unofficial manner. The use of non-standard codes may be permitted, required or disallowed by the authority having jurisdiction (e.g. fire department).
+</td></tr>
+<tr>
+<td><b>COR</b><br/><b>ACID</b>, <b>ALK</b></td>
+<td><a class="mw-redirect" href="/wiki/Corrosive" title="Corrosive">Corrosive</a>; strong <a href="/wiki/Acid" title="Acid">acid</a> or <a href="/wiki/Base_(chemistry)" title="Base (chemistry)">base</a> (e.g. <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a>, <a href="/wiki/Potassium_hydroxide" title="Potassium hydroxide">potassium hydroxide</a>)<br/>Acid or <a class="mw-redirect" href="/wiki/Alkaline" title="Alkaline">alkaline</a>, to be more specific
+</td></tr>
+<tr>
+<td><b>BIO</b> or <a class="image" href="/wiki/File:Biohazard_symbol.svg"><img alt="Biohazard symbol.svg" data-file-height="520" data-file-width="520" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biohazard_symbol.svg/20px-Biohazard_symbol.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biohazard_symbol.svg/30px-Biohazard_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biohazard_symbol.svg/40px-Biohazard_symbol.svg.png 2x" width="20"/></a></td>
+<td><a href="/wiki/Biological_hazard" title="Biological hazard">Biological hazard</a> (e.g. <a class="mw-redirect" href="/wiki/Flu_virus" title="Flu virus">flu virus</a>, <a href="/wiki/Rabies_virus" title="Rabies virus">rabies virus</a>)
+</td></tr>
+<tr>
+<td><b>POI</b></td>
+<td><a href="/wiki/Poison" title="Poison">Poisonous</a> (e.g. <a href="/wiki/Strychnine" title="Strychnine">strychnine</a>, <a href="/wiki/Alpha-Amanitin" title="Alpha-Amanitin">alpha-Amanitin</a>)
+</td></tr>
+<tr>
+<td><b>RA</b>, <b>RAD</b> or <a class="image" href="/wiki/File:Radiation_warning_symbol2.svg"><img alt="Radiation warning symbol2.svg" data-file-height="600" data-file-width="600" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Radiation_warning_symbol2.svg/20px-Radiation_warning_symbol2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Radiation_warning_symbol2.svg/30px-Radiation_warning_symbol2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Radiation_warning_symbol2.svg/40px-Radiation_warning_symbol2.svg.png 2x" width="20"/></a></td>
+<td><a href="/wiki/Radioactive_decay" title="Radioactive decay">Radioactive</a> (e.g. <a href="/wiki/Plutonium" title="Plutonium">plutonium</a>, <a href="/wiki/Cobalt-60" title="Cobalt-60">cobalt-60</a>)
+</td></tr>
+<tr>
+<td><b>CRY</b> or <b>CRYO</b></td>
+<td><a class="mw-redirect" href="/wiki/Cryogenic" title="Cryogenic">Cryogenic</a> (e.g. <a href="/wiki/Liquid_nitrogen" title="Liquid nitrogen">liquid nitrogen</a>)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NFPA_704&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals" title="Globally Harmonized System of Classification and Labelling of Chemicals">Globally Harmonized System of Classification and Labelling of Chemicals</a></li>
+<li><a href="/wiki/Hazard_symbol" title="Hazard symbol">Hazard symbol</a></li>
+<li><a class="mw-redirect" href="/wiki/HMIS_Color_Bar" title="HMIS Color Bar">HMIS Color Bar</a></li>
+<li><a href="/wiki/Hazchem" title="Hazchem">Hazchem</a></li>
+<li><a href="/wiki/Dangerous_goods" title="Dangerous goods">Hazmat</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NFPA_704&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NFPA_704&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:NFPA_704_images" title="commons:Category:NFPA 704 images">NFPA 704</a></b></i>.</td></tr></tbody></table>
+<ul><li><cite class="citation web"><a class="external text" href="http://www.nfpa.org/Assets/files/AboutTheCodes/704/704_FAQs.pdf" rel="nofollow">"Frequently Asked Questions on NFPA 704"</a> <span class="cs1-format">(PDF)</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Frequently+Asked+Questions+on+NFPA+704&amp;rft_id=http%3A%2F%2Fwww.nfpa.org%2FAssets%2Ffiles%2FAboutTheCodes%2F704%2F704_FAQs.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANFPA+704"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="http://www.milwaukee.gov/ImageLibrary/User/dnscms/pdf/broc/hazmat12.pdf" rel="nofollow">"Pamphlet produced by the City of Milwaukee summarizing NFPA 704 code requirements"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Milwaukee" title="Milwaukee">City of Milwaukee</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pamphlet+produced+by+the+City+of+Milwaukee+summarizing+NFPA+704+code+requirements&amp;rft.pub=City+of+Milwaukee&amp;rft_id=http%3A%2F%2Fwww.milwaukee.gov%2FImageLibrary%2FUser%2Fdnscms%2Fpdf%2Fbroc%2Fhazmat12.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANFPA+704"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="https://www.osha.gov/dsg/hazcom/index.html" rel="nofollow">"Hazard Communication"</a>. <a href="/wiki/Occupational_Safety_and_Health_Administration" title="Occupational Safety and Health Administration">Occupational Safety and Health Administration</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hazard+Communication&amp;rft.pub=Occupational+Safety+and+Health+Administration&amp;rft_id=https%3A%2F%2Fwww.osha.gov%2Fdsg%2Fhazcom%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANFPA+704"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20150310145104/http://chemlabs.uoregon.edu/Safety/NFPA.html" rel="nofollow">"Safety in the Chemistry Laboratory: NFPA 704 Hazard Identification System"</a>. <a href="/wiki/University_of_Oregon" title="University of Oregon">University of Oregon</a>. Archived from <a class="external text" href="http://chemlabs.uoregon.edu/Safety/NFPA.html" rel="nofollow">the original</a> on 2015-03-10.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Safety+in+the+Chemistry+Laboratory%3A+NFPA+704+Hazard+Identification+System&amp;rft.pub=University+of+Oregon&amp;rft_id=http%3A%2F%2Fchemlabs.uoregon.edu%2FSafety%2FNFPA.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANFPA+704"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:GHS-pictogram-exclam.svg"><img alt="GHS-pictogram-exclam.svg" data-file-height="724" data-file-width="724" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/21px-GHS-pictogram-exclam.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/32px-GHS-pictogram-exclam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/42px-GHS-pictogram-exclam.svg.png 2x" width="21"/></a></span><a class="mw-redirect" href="/wiki/Portal:Dangerous_goods" title="Portal:Dangerous goods">Dangerous goods portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Flag_of_the_United_States.svg"><img alt="Flag of the United States.svg" data-file-height="650" data-file-width="1235" height="13" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/24px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/36px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 2x" width="24"/></a></span><a href="/wiki/Portal:United_States" title="Portal:United States">United States portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20181031192703
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.353 seconds
+Preprocessor visited node count: 1195/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27558/2097152 bytes
+Template argument size: 306/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15172/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.139/10.000 seconds
+Lua memory usage: 4.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  290.729      1 -total
+ 35.92%  104.423      6 Template:Cite_web
+ 34.70%  100.876      1 Template:Reflist
+ 18.15%   52.755      1 Template:NFPA_704
+ 17.27%   50.223      1 Template:Infobox
+ 12.43%   36.138      7 Template:Convert
+ 11.44%   33.247      1 Template:Commons_category
+  9.75%   28.358      1 Template:Commons
+  9.15%   26.613      1 Template:Portal_bar
+  9.09%   26.425      1 Template:Sister_project
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:987544-0!canonical and timestamp 20181031192703 and revision id 864086204
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=NFPA_704&amp;oldid=864086204">https://en.wikipedia.org/w/index.php?title=NFPA_704&amp;oldid=864086204</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:NFPA_Standards" title="Category:NFPA Standards">NFPA Standards</a></li><li><a href="/wiki/Category:Safety_codes" title="Category:Safety codes">Safety codes</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Articles_which_use_infobox_templates_with_no_data_rows" title="Category:Articles which use infobox templates with no data rows">Articles which use infobox templates with no data rows</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_different_than_on_Wikidata" title="Category:Commons category with page title different than on Wikidata">Commons category with page title different than on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=NFPA+704" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=NFPA+704" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/NFPA_704" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:NFPA_704" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/NFPA_704">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=NFPA_704&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=NFPA_704&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/NFPA_704" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/NFPA_704" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=NFPA_704&amp;oldid=864086204" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=NFPA_704&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q208273" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=NFPA_704&amp;id=864086204" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=NFPA+704">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=NFPA+704&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=NFPA_704&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:NFPA_704_images" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D9%8A%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9_%D9%84%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82_%D8%B1%D9%82%D9%85_704" hreflang="ar" lang="ar" title="معيار الرابطة الوطنية للوقاية من الحرائق رقم 704 – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/NFPA_704" hreflang="bg" lang="bg" title="NFPA 704 – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/NFPA_704" hreflang="bs" lang="bs" title="NFPA 704 – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/NFPA_704" hreflang="ca" lang="ca" title="NFPA 704 – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/NFPA_704" hreflang="cs" lang="cs" title="NFPA 704 – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/NFPA_704" hreflang="da" lang="da" title="NFPA 704 – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gefahrendiamant" hreflang="de" lang="de" title="Gefahrendiamant – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/NFPA_704" hreflang="el" lang="el" title="NFPA 704 – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/NFPA_704" hreflang="es" lang="es" title="NFPA 704 – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%84%D9%88%D8%B2%DB%8C_%D8%A2%D8%AA%D8%B4" hreflang="fa" lang="fa" title="لوزی آتش – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/NFPA_704" hreflang="fr" lang="fr" title="NFPA 704 – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/NFPA_704" hreflang="ko" lang="ko" title="NFPA 704 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/NFPA_704" hreflang="hr" lang="hr" title="NFPA 704 – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/NFPA_704" hreflang="id" lang="id" title="NFPA 704 – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/NFPA_704" hreflang="it" lang="it" title="NFPA 704 – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/NFPA_704" hreflang="he" lang="he" title="NFPA 704 – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/NFPA_704" hreflang="hu" lang="hu" title="NFPA 704 – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/NFPA_704" hreflang="ms" lang="ms" title="NFPA 704 – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/NFPA_704" hreflang="nl" lang="nl" title="NFPA 704 – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/NFPA_704" hreflang="ja" lang="ja" title="NFPA 704 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/NFPA_704" hreflang="pl" lang="pl" title="NFPA 704 – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Diagrama_de_Hommel" hreflang="pt" lang="pt" title="Diagrama de Hommel – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/NFPA_704" hreflang="ro" lang="ro" title="NFPA 704 – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/NFPA_704" hreflang="ru" lang="ru" title="NFPA 704 – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/NFPA_704" hreflang="sco" lang="sco" title="NFPA 704 – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/NFPA_704" hreflang="en-simple" lang="en-simple" title="NFPA 704 – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/NFPA_704" hreflang="sk" lang="sk" title="NFPA 704 – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/NFPA_704" hreflang="sl" lang="sl" title="NFPA 704 – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/NFPA_704" hreflang="sr" lang="sr" title="NFPA 704 – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/NFPA_704" hreflang="sh" lang="sh" title="NFPA 704 – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/NFPA_704" hreflang="fi" lang="fi" title="NFPA 704 – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/NFPA_704" hreflang="sv" lang="sv" title="NFPA 704 – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%A9%E0%AF%8D.%E0%AE%8E%E0%AE%AA%E0%AF%8D.%E0%AE%AA%E0%AE%BF.%E0%AE%8F_704" hreflang="ta" lang="ta" title="என்.எப்.பி.ஏ 704 – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/NFPA_704" hreflang="th" lang="th" title="NFPA 704 – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/NFPA_704" hreflang="tr" lang="tr" title="NFPA 704 – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/NFPA_704" hreflang="uk" lang="uk" title="NFPA 704 – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/NFPA_704" hreflang="vi" lang="vi" title="NFPA 704 – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/NFPA_704" hreflang="zh" lang="zh" title="NFPA 704 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q208273#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 October 2018, at 00:54<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=NFPA_704&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.353","ppvisitednodes":{"value":1195,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27558,"limit":2097152},"templateargumentsize":{"value":306,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15172,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  290.729      1 -total"," 35.92%  104.423      6 Template:Cite_web"," 34.70%  100.876      1 Template:Reflist"," 18.15%   52.755      1 Template:NFPA_704"," 17.27%   50.223      1 Template:Infobox"," 12.43%   36.138      7 Template:Convert"," 11.44%   33.247      1 Template:Commons_category","  9.75%   28.358      1 Template:Commons","  9.15%   26.613      1 Template:Portal_bar","  9.09%   26.425      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.139","limit":"10.000"},"limitreport-memusage":{"value":4696329,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20181031192703","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":468,"wgHostname":"mw1242"});});</script>
+</body>
+</html>

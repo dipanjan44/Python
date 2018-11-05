@@ -1,0 +1,521 @@
+https://en.wikipedia.org/wiki/Pulmonary_gas_pressures
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Pulmonary gas pressures - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pulmonary_gas_pressures","wgTitle":"Pulmonary gas pressures","wgCurRevisionId":834115896,"wgRevisionId":834115896,"wgArticleId":9092221,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Respiratory physiology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pulmonary_gas_pressures","wgRelevantArticleId":9092221,"wgRequestId":"W9NA4QpAAEMAAF3DQisAAAAL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7259527","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pulmonary_gas_pressures" rel="alternate"/>
+<link href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Pulmonary_gas_pressures" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pulmonary_gas_pressures rootpage-Pulmonary_gas_pressures skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Pulmonary gas pressures</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table style="font-size:70%; border:3px solid black; float:right; margin:10px">
+<caption><a href="/wiki/Pathophysiology" title="Pathophysiology">Pathophysiology</a> <a href="/wiki/Reference_ranges_for_blood_tests" title="Reference ranges for blood tests">sample values</a>
+</caption>
+<tbody><tr style="background:MistyRose;">
+<td align="center" colspan="4"><b><a href="/wiki/Basic_metabolic_panel" title="Basic metabolic panel">BMP</a>/<a href="/wiki/Electrolyte" title="Electrolyte">ELECTROLYTES</a>:</b>
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a class="mw-redirect" href="/wiki/Serum_sodium" title="Serum sodium">Na<sup>+</sup></a> = 140
+</td>
+<td><a href="/wiki/Serum_chloride" title="Serum chloride">Cl<sup>−</sup></a> = 100
+</td>
+<td><a href="/wiki/Blood_urea_nitrogen" title="Blood urea nitrogen">BUN</a> = 20
+</td>
+<td>/
+</td></tr>
+<tr style="background:MistyRose;">
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/wiki/Glucose" title="Glucose">Glu</a> = 150
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a href="/wiki/Potassium#Potassium_cations_in_the_body" title="Potassium">K<sup>+</sup></a> = 4
+</td>
+<td><a href="/wiki/Carbon_dioxide#Human_physiology" title="Carbon dioxide">CO<sub>2</sub></a> = 22
+</td>
+<td><a href="/wiki/Creatinine#Plasma_creatinine_.28PCr.29" title="Creatinine">PCr</a> = 1.0
+</td>
+<td>\
+</td></tr>
+<tr style="background:MistyRose;">
+<td align="center" colspan="4"><b><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">ARTERIAL BLOOD GAS</a>:</b>
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub><sup>−</sup></a> = 24
+</td>
+<td><a href="/wiki/Pulmonary_gas_pressures#Partial_pressure_of_carbon_dioxide" title="Pulmonary gas pressures">p</a><sub>a</sub><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> = 40
+</td>
+<td><a href="/wiki/Pulmonary_gas_pressures#Partial_pressure_of_oxygen" title="Pulmonary gas pressures">p</a><sub>a</sub><a href="/wiki/Oxygen" title="Oxygen">O<sub>2</sub></a> = 95
+</td>
+<td><a href="/wiki/PH#Living_systems" title="PH">pH</a> = 7.40
+</td></tr>
+<tr style="background:MistyRose;">
+<td align="center" colspan="4"><b><a href="/wiki/Alveolar_gas_equation" title="Alveolar gas equation">ALVEOLAR GAS</a>:</b>
+</td></tr>
+<tr style="background:MistyRose;">
+<td>
+</td>
+<td><a class="mw-selflink selflink">p</a><sub>A</sub><a href="/wiki/Carbon_dioxide#Human_physiology" title="Carbon dioxide">CO<sub>2</sub></a> = 36
+</td>
+<td><a class="mw-selflink selflink">p</a><sub>A</sub><a href="/wiki/Oxygen" title="Oxygen">O<sub>2</sub></a> = 105
+</td>
+<td><a href="/wiki/Alveolar%E2%80%93arterial_gradient" title="Alveolar–arterial gradient">A-a g</a> = 10
+</td></tr>
+<tr style="background:MistyRose;">
+<td align="center" colspan="4"><b>OTHER:</b>
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a href="/wiki/Calcium" title="Calcium">Ca</a> = 9.5
+</td>
+<td><a href="/wiki/Magnesium_in_biology" title="Magnesium in biology">Mg<sup>2+</sup></a> = 2.0
+</td>
+<td><a href="/wiki/Phosphate#Cellular_function" title="Phosphate">PO<sub>4</sub></a> = 1
+</td>
+<td>
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a href="/wiki/Creatine_kinase" title="Creatine kinase">CK</a> = 55
+</td>
+<td><a href="/wiki/Base_excess" title="Base excess">BE</a> = −0.36
+</td>
+<td><a href="/wiki/Anion_gap#Without_potassium" title="Anion gap">AG</a> = 16
+</td>
+<td>
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td align="center" colspan="4"><b><a class="mw-redirect" href="/wiki/Osmolarity" title="Osmolarity">SERUM OSMOLARITY</a>/<a href="/wiki/Renal_physiology" title="Renal physiology">RENAL</a>:</b>
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td><a href="/wiki/Plasma_osmolality#Measured_osmolality_.28MO.29" title="Plasma osmolality">PMO</a>  =  300
+</td>
+<td><a href="/wiki/Plasma_osmolality#Calculated_osmolality_.28CO.29" title="Plasma osmolality">PCO</a> = 295
+</td>
+<td><a class="mw-redirect" href="/wiki/Serum_osmolal_gap" title="Serum osmolal gap">POG</a> = 5
+</td>
+<td><a href="/wiki/BUN-to-creatinine_ratio" title="BUN-to-creatinine ratio">BUN:Cr</a> = 20
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td align="center" colspan="4"><b><a class="mw-redirect" href="/wiki/Urinalysis" title="Urinalysis">URINALYSIS</a>:</b>
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td><a href="/wiki/Renal_sodium_reabsorption" title="Renal sodium reabsorption">UNa<sup>+</sup></a> = 80
+</td>
+<td><a href="/wiki/Renal_chloride_reabsorption" title="Renal chloride reabsorption">UCl<sup>−</sup></a> = 100
+</td>
+<td><a href="/wiki/Urine_anion_gap" title="Urine anion gap">UAG</a> = 5
+</td>
+<td><a class="mw-redirect" href="/wiki/Fractional_sodium_excretion" title="Fractional sodium excretion">FENa</a> = 0.95
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td><a href="/wiki/Potassium#Filtration_and_excretion" title="Potassium">UK<sup>+</sup></a> = 25
+</td>
+<td><a href="/wiki/Urine_specific_gravity" title="Urine specific gravity">USG</a> = 1.01
+</td>
+<td><a href="/wiki/Creatinine#Urine_creatinine_.28UCr.29" title="Creatinine">UCr</a> = 60
+</td>
+<td><a href="/wiki/Urine_osmolality" title="Urine osmolality">UO</a> = 800
+</td></tr>
+<tr style="background:#fd6;">
+<td align="center" colspan="4"><b><a href="/wiki/Protein" title="Protein">PROTEIN</a>/<a href="/wiki/Gastrointestinal_physiology" title="Gastrointestinal physiology">GI</a>/<a href="/wiki/Liver_function_tests" title="Liver function tests">LIVER FUNCTION TESTS</a>:</b>
+</td></tr>
+<tr style="background:#fd6;">
+<td><a href="/wiki/Lactate_dehydrogenase" title="Lactate dehydrogenase">LDH</a> = 100
+</td>
+<td><a href="/wiki/Serum_total_protein" title="Serum total protein">TP</a> = 7.6
+</td>
+<td><a href="/wiki/Aspartate_transaminase" title="Aspartate transaminase">AST</a> = 25
+</td>
+<td><a href="/wiki/Bilirubin#Blood_tests" title="Bilirubin">TBIL</a> = 0.7
+</td></tr>
+<tr style="background:#fd6;">
+<td><a href="/wiki/Alkaline_phosphatase" title="Alkaline phosphatase">ALP</a> = 71
+</td>
+<td><a href="/wiki/Human_serum_albumin" title="Human serum albumin">Alb</a> = 4.0
+</td>
+<td><a href="/wiki/Alanine_transaminase" title="Alanine transaminase">ALT</a> = 40
+</td>
+<td><a href="/wiki/Bilirubin#Blood_tests" title="Bilirubin">BC</a> = 0.5
+</td></tr>
+<tr style="background:#fd6;">
+<td>
+</td>
+<td>
+</td>
+<td><a href="/wiki/AST/ALT_ratio" title="AST/ALT ratio">AST/ALT</a> = 0.6
+</td>
+<td><a href="/wiki/Bilirubin#Blood_tests" title="Bilirubin">BU</a> = 0.2
+</td></tr>
+<tr style="background:#fd6;">
+<td><a class="mw-redirect" href="/wiki/Ascitic_fluid_albumin" title="Ascitic fluid albumin">AF alb</a> = 3.0
+</td>
+<td><a href="/wiki/Serum-ascites_albumin_gradient" title="Serum-ascites albumin gradient">SAAG</a> = 1.0
+</td>
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/Stool_osmolal_gap" title="Stool osmolal gap">SOG</a> = 60
+</td></tr>
+<tr style="background:LightYellow;">
+<td align="center" colspan="4"><b><a href="/wiki/Cerebrospinal_fluid" title="Cerebrospinal fluid">CSF</a>:</b>
+</td></tr>
+<tr style="background:LightYellow;">
+<td><a href="/wiki/CSF_albumin" title="CSF albumin">CSF alb</a> = 30
+</td>
+<td><a href="/wiki/CSF_glucose" title="CSF glucose">CSF glu</a> = 60
+</td>
+<td><a href="/wiki/CSF/serum_albumin_ratio" title="CSF/serum albumin ratio">CSF/S alb</a> = 7.5
+</td>
+<td><a href="/wiki/CSF/serum_glucose_ratio" title="CSF/serum glucose ratio">CSF/S glu</a> = 0.4
+</td></tr></tbody></table>
+<p>The factors that determine the values for <a href="/wiki/Pulmonary_alveolus" title="Pulmonary alveolus">alveolar</a> pO<sub>2</sub> and <a href="/wiki/PCO2" title="PCO2">pCO<sub>2</sub></a> are:
+</p>
+<ul><li>The pressure of outside air</li>
+<li>The partial pressures of inspired oxygen and carbon dioxide</li>
+<li>The rates of total body oxygen consumption and carbon dioxide production</li>
+<li>The rates of alveolar ventilation and perfusion</li></ul>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Partial_pressures"><span class="tocnumber">1</span> <span class="toctext">Partial pressures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Partial_pressure_of_oxygen_(at_sea_level)"><span class="tocnumber">1.1</span> <span class="toctext">Partial pressure of oxygen (at sea level)</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Partial_pressure_of_carbon_dioxide"><span class="tocnumber">1.2</span> <span class="toctext">Partial pressure of carbon dioxide</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Pathology"><span class="tocnumber">2</span> <span class="toctext">Pathology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Partial_pressures">Partial pressures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit&amp;section=1" title="Edit section: Partial pressures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The partial pressures (in <a href="/wiki/Torr" title="Torr">torr</a>) for a human at rest:
+</p>
+<h3><span id="Partial_pressure_of_oxygen_.28at_sea_level.29"></span><span class="mw-headline" id="Partial_pressure_of_oxygen_(at_sea_level)">Partial pressure of oxygen (at sea level)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit&amp;section=2" title="Edit section: Partial pressure of oxygen (at sea level)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Location</th>
+<th><a class="mw-redirect" href="/wiki/Oxygen_partial_pressure" title="Oxygen partial pressure"><i>p</i>O<sub>2</sub></a><br/>(<a class="new" href="/w/index.php?title=Torr_or_mmHg&amp;action=edit&amp;redlink=1" title="Torr or mmHg (page does not exist)">Torr or mmHg</a>)
+</th></tr>
+<tr>
+<td>Ambient air</td>
+<td>159
+</td></tr>
+<tr>
+<td>Alveoli</td>
+<td>104
+<p>(P<sub>A</sub>O<sub>2</sub>)
+</p>
+</td></tr>
+<tr>
+<td>Arterial blood</td>
+<td>95-100 (P<sub>a</sub>O<sub>2</sub>)
+</td></tr>
+<tr>
+<td>Venous blood</td>
+<td>40-50
+</td></tr>
+<tr>
+<td>Lung Capillaries</td>
+<td>20-40
+</td></tr></tbody></table>
+<p>The alveolar oxygen <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a> is lower than the atmospheric O<sub>2</sub> partial pressure for two reasons. 
+</p>
+<ul><li>Firstly, as the air enters the lungs, it is humidified by the upper airway and thus the partial pressure of water vapour (47 mmHg) reduces the oxygen partial pressure to about 150 mmHg.</li>
+<li>The rest of the difference is due to the continual uptake of oxygen by the <a class="mw-redirect" href="/wiki/Pulmonary" title="Pulmonary">pulmonary</a> <a class="mw-redirect" href="/wiki/Capillaries" title="Capillaries">capillaries</a>, and the continual diffusion of CO<sub>2</sub> out of the capillaries into the alveoli.</li></ul>
+<p>The alveolar pO<sub>2</sub> is not routinely measured but is calculated from blood gas measurements by the <a href="/wiki/Alveolar_gas_equation" title="Alveolar gas equation">alveolar gas equation</a>.
+</p>
+<h3><span class="mw-headline" id="Partial_pressure_of_carbon_dioxide">Partial pressure of carbon dioxide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit&amp;section=3" title="Edit section: Partial pressure of carbon dioxide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Location</th>
+<th><a href="/wiki/PCO2" title="PCO2"><i>p</i>CO<sub>2</sub></a><br/>(<a class="new" href="/w/index.php?title=Torr_or_mmHg&amp;action=edit&amp;redlink=1" title="Torr or mmHg (page does not exist)">Torr or mmHg</a>)
+</th></tr>
+<tr>
+<td>Outside air - dry air at sea level</td>
+<td>0.3
+</td></tr>
+<tr>
+<td>Alveolar air</td>
+<td>35
+</td></tr>
+<tr>
+<td>Arteriole blood</td>
+<td>40
+</td></tr>
+<tr>
+<td>Venous blood</td>
+<td>50
+</td></tr>
+<tr>
+<td>Cells</td>
+<td>50
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Pathology">Pathology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit&amp;section=4" title="Edit section: Pathology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The partial pressure of carbon dioxide, along with the <a href="/wiki/PH#Living_systems" title="PH">pH</a>, can be used to differentiate between <a href="/wiki/Metabolic_acidosis" title="Metabolic acidosis">metabolic acidosis</a>, <a href="/wiki/Metabolic_alkalosis" title="Metabolic alkalosis">metabolic alkalosis</a>, <a href="/wiki/Respiratory_acidosis" title="Respiratory acidosis">respiratory acidosis</a>, and <a href="/wiki/Respiratory_alkalosis" title="Respiratory alkalosis">respiratory alkalosis</a>.
+</p><p><a href="/wiki/Hypoventilation" title="Hypoventilation">Hypoventilation</a> exists when the ratio of carbon dioxide production to alveolar ventilation increases above normal values – greater than 45mmHg. If pH is also less than 7.35 this is <a href="/wiki/Respiratory_acidosis" title="Respiratory acidosis">respiratory acidosis</a>.
+</p><p><a href="/wiki/Hyperventilation" title="Hyperventilation">Hyperventilation</a> exists when the same ratio decreases – less than 35mmHg. If the pH is also greater than 7.45 this is <a href="/wiki/Respiratory_alkalosis" title="Respiratory alkalosis">respiratory alkalosis</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/Alveolar-arterial_gradient" title="Alveolar-arterial gradient">Alveolar-arterial gradient</a></li>
+<li><a href="/wiki/Diffusing_capacity" title="Diffusing capacity">Diffusing capacity</a></li>
+<li><a href="/wiki/Pulmonary_alveolus" title="Pulmonary alveolus">Pulmonary alveolus</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"></div>
+<div aria-labelledby="Respiratory_physiology" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Respiratory_physiology" title="Template:Respiratory physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Respiratory_physiology" title="Template talk:Respiratory physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Respiratory_physiology&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Respiratory_physiology" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Respiratory_physiology" title="Respiratory physiology">Respiratory physiology</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Respiration</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Breath" title="Breath">breath</a>
+<ul><li><a href="/wiki/Inhalation" title="Inhalation">inhalation</a></li>
+<li><a href="/wiki/Exhalation" title="Exhalation">exhalation</a></li></ul></li>
+<li><a href="/wiki/Respiratory_rate" title="Respiratory rate">respiratory rate</a></li>
+<li><a href="/wiki/Respirometer" title="Respirometer">respirometer</a></li>
+<li><a href="/wiki/Pulmonary_surfactant" title="Pulmonary surfactant">pulmonary surfactant</a></li>
+<li><a class="mw-redirect" href="/wiki/Pulmonary_compliance" title="Pulmonary compliance">compliance</a></li>
+<li><a href="/wiki/Elastic_recoil" title="Elastic recoil">elastic recoil</a></li>
+<li><a href="/wiki/Hysteresivity" title="Hysteresivity">hysteresivity</a></li>
+<li><a href="/wiki/Airway_resistance" title="Airway resistance">airway resistance</a></li>
+<li>bronchial
+<ul><li><a href="/wiki/Bronchial_hyperresponsiveness" title="Bronchial hyperresponsiveness">hyperresponsiveness</a></li>
+<li><a href="/wiki/Bronchoconstriction" title="Bronchoconstriction">constriction</a></li>
+<li><a href="/wiki/Bronchodilatation" title="Bronchodilatation">dilatation</a></li></ul></li>
+<li><a href="/wiki/Mechanical_ventilation" title="Mechanical ventilation">mechanical ventilation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Control_of_ventilation" title="Control of ventilation">Control</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Pons" title="Pons">pons</a></i>
+<ul><li><a class="mw-redirect" href="/wiki/Pneumotaxic_center" title="Pneumotaxic center">pneumotaxic center</a></li>
+<li><a class="mw-redirect" href="/wiki/Apneustic_center" title="Apneustic center">apneustic center</a></li></ul></li>
+<li><i><a href="/wiki/Medulla_oblongata" title="Medulla oblongata">medulla</a></i>
+<ul><li><a href="/wiki/Dorsal_respiratory_group" title="Dorsal respiratory group">dorsal respiratory group</a></li>
+<li><a href="/wiki/Ventral_respiratory_group" title="Ventral respiratory group">ventral respiratory group</a></li></ul></li>
+<li><i><a href="/wiki/Chemoreceptor" title="Chemoreceptor">chemoreceptors</a></i>
+<ul><li><a href="/wiki/Central_chemoreceptors" title="Central chemoreceptors">central</a></li>
+<li><a href="/wiki/Peripheral_chemoreceptors" title="Peripheral chemoreceptors">peripheral</a></li></ul></li>
+<li><a href="/wiki/Pulmonary_stretch_receptors" title="Pulmonary stretch receptors">pulmonary stretch receptors</a>
+<ul><li><a href="/wiki/Hering%E2%80%93Breuer_reflex" title="Hering–Breuer reflex">Hering–Breuer reflex</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lung_volumes" title="Lung volumes">Lung volumes</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vital_capacity" title="Vital capacity">VC</a></li>
+<li><a href="/wiki/Functional_residual_capacity" title="Functional residual capacity">FRC</a></li>
+<li><a href="/wiki/Tidal_volume" title="Tidal volume">Vt</a></li>
+<li><a href="/wiki/Dead_space_(physiology)" title="Dead space (physiology)">dead space</a></li>
+<li><a href="/wiki/Closing_capacity" title="Closing capacity">CC</a></li>
+<li><a href="/wiki/Peak_expiratory_flow" title="Peak expiratory flow">PEF</a></li></ul>
+<dl><dt>calculations</dt>
+<dd></dd>
+<dd><a href="/wiki/Respiratory_minute_volume" title="Respiratory minute volume">respiratory minute volume</a></dd>
+<dd><a href="/wiki/FEV1/FVC_ratio" title="FEV1/FVC ratio">FEV1/FVC ratio</a></dd></dl>
+<dl><dt><a class="mw-redirect" href="/wiki/Lung_function_test" title="Lung function test">Lung function tests</a></dt>
+<dd></dd>
+<dd><a href="/wiki/Spirometry" title="Spirometry">spirometry</a></dd>
+<dd><a class="mw-redirect" href="/wiki/Body_plethysmography" title="Body plethysmography">body plethysmography</a></dd>
+<dd><a class="mw-redirect" href="/wiki/Peak_flow_meter" title="Peak flow meter">peak flow meter</a></dd>
+<dd><a href="/wiki/Nitrogen_washout" title="Nitrogen washout">nitrogen washout</a></dd></dl>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Circulation</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pulmonary_circulation" title="Pulmonary circulation">pulmonary circulation</a></li>
+<li><a href="/wiki/Hypoxic_pulmonary_vasoconstriction" title="Hypoxic pulmonary vasoconstriction">hypoxic pulmonary vasoconstriction</a></li>
+<li><a href="/wiki/Pulmonary_shunt" title="Pulmonary shunt">pulmonary shunt</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Interactions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Ventilation_(physiology)" title="Ventilation (physiology)">ventilation (V)</a></li>
+<li><a href="/wiki/Perfusion" title="Perfusion">Perfusion</a> (Q)
+<ul><li><a href="/wiki/Ventilation/perfusion_ratio" title="Ventilation/perfusion ratio">Ventilation/perfusion ratio</a></li>
+<li><a href="/wiki/Ventilation/perfusion_scan" title="Ventilation/perfusion scan">V/Q scan</a></li></ul></li>
+<li><a href="/wiki/Zones_of_the_lung" title="Zones of the lung">zones of the lung</a></li>
+<li><a href="/wiki/Gas_exchange" title="Gas exchange">gas exchange</a></li>
+<li><a class="mw-selflink selflink">pulmonary gas pressures</a></li>
+<li><a href="/wiki/Alveolar_gas_equation" title="Alveolar gas equation">alveolar gas equation</a></li>
+<li><a href="/wiki/Alveolar%E2%80%93arterial_gradient" title="Alveolar–arterial gradient">alveolar–arterial gradient</a></li>
+<li><a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a></li>
+<li><a class="mw-redirect" href="/wiki/Oxygen%E2%80%93haemoglobin_dissociation_curve" title="Oxygen–haemoglobin dissociation curve">oxygen–haemoglobin dissociation curve</a> (<a href="/wiki/Oxygen_saturation" title="Oxygen saturation">Oxygen saturation</a></li>
+<li><a href="/wiki/2,3-Bisphosphoglyceric_acid" title="2,3-Bisphosphoglyceric acid">2,3-BPG</a></li>
+<li><a href="/wiki/Bohr_effect" title="Bohr effect">Bohr effect</a></li>
+<li><a href="/wiki/Haldane_effect" title="Haldane effect">Haldane effect</a>)</li>
+<li><a href="/wiki/Carbonic_anhydrase" title="Carbonic anhydrase">carbonic anhydrase</a> (<a href="/wiki/Chloride_shift" title="Chloride shift">chloride shift</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Oxyhemoglobin" title="Oxyhemoglobin">oxyhemoglobin</a></li>
+<li><a href="/wiki/Respiratory_quotient" title="Respiratory quotient">respiratory quotient</a></li>
+<li><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">arterial blood gas</a></li>
+<li><a class="mw-redirect" href="/wiki/Diffusion_capacity" title="Diffusion capacity">diffusion capacity</a> (<a href="/wiki/DLCO" title="DLCO">DLCO</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Insufficiency</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_high_altitude_on_humans" title="Effects of high altitude on humans">high altitude</a></li>
+<li><a href="/wiki/Oxygen_toxicity" title="Oxygen toxicity">oxygen toxicity</a></li>
+<li><a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">hypoxia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20181026162922
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.088 seconds
+Real time usage: 0.113 seconds
+Preprocessor visited node count: 149/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18575/2097152 bytes
+Template argument size: 10/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1214/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.015/10.000 seconds
+Lua memory usage: 819 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   52.299      1 -total
+ 54.13%   28.307      1 Template:Webarchive
+ 29.56%   15.461      1 Template:Respiratory_physiology
+ 24.76%   12.948      1 Template:Navbox
+  7.92%    4.140      1 Template:Blood_test_sample_values
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9092221-0!canonical and timestamp 20181026162921 and revision id 834115896
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pulmonary_gas_pressures&amp;oldid=834115896">https://en.wikipedia.org/w/index.php?title=Pulmonary_gas_pressures&amp;oldid=834115896</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Respiratory_physiology" title="Category:Respiratory physiology">Respiratory physiology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pulmonary+gas+pressures" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Pulmonary+gas+pressures" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Pulmonary_gas_pressures" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Pulmonary_gas_pressures" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Pulmonary_gas_pressures">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Pulmonary_gas_pressures" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Pulmonary_gas_pressures" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pulmonary_gas_pressures&amp;oldid=834115896" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pulmonary_gas_pressures&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7259527" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pulmonary_gas_pressures&amp;id=834115896" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pulmonary+gas+pressures">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pulmonary+gas+pressures&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Pulmonary_gas_pressures&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B4%D8%A7%D8%B1_%DA%AF%D8%A7%D8%B2_%D8%B1%DB%8C%D9%88%DB%8C" hreflang="fa" lang="fa" title="فشار گاز ریوی – Persian">فارسی</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7259527#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 April 2018, at 01:00<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Pulmonary_gas_pressures&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.113","ppvisitednodes":{"value":149,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18575,"limit":2097152},"templateargumentsize":{"value":10,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1214,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   52.299      1 -total"," 54.13%   28.307      1 Template:Webarchive"," 29.56%   15.461      1 Template:Respiratory_physiology"," 24.76%   12.948      1 Template:Navbox","  7.92%    4.140      1 Template:Blood_test_sample_values"]},"scribunto":{"limitreport-timeusage":{"value":"0.015","limit":"10.000"},"limitreport-memusage":{"value":838393,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20181026162922","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":236,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

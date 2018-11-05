@@ -1,0 +1,708 @@
+https://en.wikipedia.org/wiki/Population_momentum
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Population momentum - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Population_momentum","wgTitle":"Population momentum","wgCurRevisionId":855918628,"wgRevisionId":855918628,"wgArticleId":2634896,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Human overpopulation","Population ecology","Environmental controversies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Population_momentum","wgRelevantArticleId":2634896,"wgRequestId":"W9jhUwpAICIAAFBPfcYAAAAB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7229810","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Population_momentum" rel="alternate"/>
+<link href="/w/index.php?title=Population_momentum&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Population_momentum&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Population_momentum" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Population_momentum rootpage-Population_momentum skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Population momentum</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Population momentum</b> is a typical consequence of the demographic transition.  Even if a high-fertility, high-growth population experiences an immediate drop in fertility to <a class="mw-redirect" href="/wiki/Replacement_rate" title="Replacement rate">replacement rate</a>, that population will continue to grow for several decades.  Eventually, because the new fertility rate is replacement, the population achieves equilibrium at some new level.  Population momentum is defined as the ratio of the size of the population at that new equilibrium level to the size of the initial population.<sup class="reference" id="cite_ref-:0_1-0"><a href="#cite_note-:0-1">[1]</a></sup> Population momentum usually occurs in populations that are growing.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Example"><span class="tocnumber">1</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Further_steps_to_zero_population_growth"><span class="tocnumber">2</span> <span class="toctext">Further steps to zero population growth</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Implications_of_Population_Momentum"><span class="tocnumber">3</span> <span class="toctext">Implications of Population Momentum</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Calculation"><span class="tocnumber">4</span> <span class="toctext">Calculation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Causes"><span class="tocnumber">5</span> <span class="toctext">Causes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_momentum&amp;action=edit&amp;section=1" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Assume that a population has three generations: First (oldest), Second (child bearing), and Third (children).  Further assume that this population has a fertility rate equal to four (4).  That is, each generation is twice the size of the previous.  If the population of the first generation is arbitrarily set at 100, the second is then 200, and the third is 400.  The spreadsheet below shows the initial population in the first row.
+</p>
+<table class="wikitable">
+<caption>Population momentum example
+</caption>
+<tbody><tr>
+<th>Time
+</th>
+<th>Gen 1
+</th>
+<th>Gen 2
+</th>
+<th>Gen 3
+</th>
+<th>Gen 4
+</th>
+<th>Gen 5
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>0
+</td>
+<td>100 (old)
+</td>
+<td>200 (fertile)
+</td>
+<td>400 (children)
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>Population: 700
+<p>Fertility Rate: 4
+</p>
+</td></tr>
+<tr>
+<td>1
+</td>
+<td>dead
+</td>
+<td>200 (old)
+</td>
+<td>400 (fertile)
+</td>
+<td>400 (children)
+</td>
+<td>
+</td>
+<td>Population: 1000
+<p>Fertility Rate: 2
+</p>
+</td></tr>
+<tr>
+<td>2
+</td>
+<td>dead
+</td>
+<td>dead
+</td>
+<td>400 (old)
+</td>
+<td>400 (fertile)
+</td>
+<td>400 (children)
+</td>
+<td>Population: 1200
+<p>Fertility Rate: 2
+</p>
+</td></tr></tbody></table>
+<p>First note that the second and third generation of the initial population are each twice the size of the previous.  The total of the initial population is 700 = 100 + 200 + 400.
+</p><p>Then assume that at the end of the third generation, fertility falls to replacement (for simplicity assume that to be two). Now take the population forward in time to the next generation, line two of the spreadsheet. The first generation dies, and the new generation, the fourth, is equal to the third (because now fertility is replacement).  Repeat the process again to reach the fifth generation (line 3 in the spreadsheet). The fifth generation is again equal to the fourth and now the population’s three generations are equal, and the population has reached equilibrium.
+</p><p>The initial population has grown from 700 to 1,200 even though fertility dropped from four to replacement (two) at the end of the third generation.  Population momentum carried the population to higher levels over the next two generations.
+</p>
+<h2><span class="mw-headline" id="Further_steps_to_zero_population_growth">Further steps to zero population growth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_momentum&amp;action=edit&amp;section=2" title="Edit section: Further steps to zero population growth">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Population momentum impacts the immediate birth and <a class="mw-redirect" href="/wiki/Death_rates" title="Death rates">death rates</a> in the population that determine the natural rate of growth. However, for the a population to have an absolute zero amount of natural growth, the US National Library of Medicine National Institutes of Health suggests that three things must occur.
+</p><p>1. Fertility rates must level off to the <a class="mw-redirect" href="/wiki/Replacement_rate" title="Replacement rate">replacement rate</a> (the <a href="/wiki/Net_reproduction_rate" title="Net reproduction rate">net reproduction rate</a> should be 1). If the fertility rate remains higher than the replacement rate, the population would continue to grow.
+</p><p>2. <a href="/wiki/Mortality_rate" title="Mortality rate">Mortality rate</a> must stop declining, that is, it must remain constant.
+</p><p>3. Lastly, the age structure must adjust to the new rates of fertility and mortality. This last step takes the longest to complete.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Implications_of_Population_Momentum">Implications of Population Momentum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_momentum&amp;action=edit&amp;section=3" title="Edit section: Implications of Population Momentum">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Population momentum has implications for population policy for a number of reasons.
+</p><p>1. With respect to high-fertility countries (for example in the <a class="mw-redirect" href="/wiki/Developing_world" title="Developing world">developing world</a>), a positive population momentum, meaning that the population is increasing, states that these countries will continue to grow despite large and rapid declines in fertility.
+</p><p>2. With respect to <a href="/wiki/Total_fertility_rate" title="Total fertility rate">lowest-low fertility</a> countries (for example in <a href="/wiki/Europe" title="Europe">Europe</a>), a negative population momentum implies that these countries may experience population decline even if they try to increase their rate of fertility to the replacement rate of 2.1. For example, some <a class="mw-redirect" href="/wiki/Eastern_European" title="Eastern European">Eastern European</a> countries show a population shrinkage even if their birth rates recovered to replacement level. Population momentum can become negative if the fertility rate is under replacement level for a long period of time.
+</p><p>3. Population momentum shows that replacement level fertility is a long-term concept rather than an indication of current population growth rates. Depending on the extant age structure, a fertility rate of two children per woman may correspond to short-term growth or decline.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>4. Another implication of population momentum is its effect on the labor force; more specifically the distribution of the labor force[1]. We established earlier that population momentum occurs when a population continues to grow despite the replacement fertility level being met. Meaning that there are more children being born. When there are more children being birthed for that time being until the child is able to work they become dependents meaning that they don't do much to "contribute" to their society. Which leads to an unfavorabale dependency ratio. When the children reach the age to work that countries dependency ratio will change and become favorable.
+</p>
+<h2><span class="mw-headline" id="Calculation">Calculation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_momentum&amp;action=edit&amp;section=4" title="Edit section: Calculation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Population_pyramid_of_India_2015.png"><img alt="" class="thumbimage" data-file-height="425" data-file-width="610" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Population_pyramid_of_India_2015.png/220px-Population_pyramid_of_India_2015.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Population_pyramid_of_India_2015.png/330px-Population_pyramid_of_India_2015.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Population_pyramid_of_India_2015.png/440px-Population_pyramid_of_India_2015.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Population_pyramid_of_India_2015.png" title="Enlarge"></a></div><a href="/wiki/Demographics_of_India" title="Demographics of India">Population pyramid of India</a> showing the beginning of  population momentum even though their birth rates have been declining since 1955</div></div></div>
+<p>To calculate population momentum for population A, a theoretical population is constructed in which the <a href="/wiki/Birth_rate" title="Birth rate">birth rate</a> for population A immediately becomes replacement level. Under such conditions, the population will eventually stabilize into a stationary population, with no year-to-year changes in age-specific rates or in total population. The population momentum is calculated by dividing this final total population number by the starting population.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Momentum, Ω, can be expressed as:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Omega =(be_{o})Q}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Ω<!-- Ω --></mi>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>b</mi>
+<msub>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mi>Q</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Omega =(be_{o})Q}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Omega =(be_{o})Q}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc75cc4e9de9fb8f8bd3a6b1f709778fd47264e6" style="vertical-align: -0.838ex; width:11.535ex; height:2.843ex;"/></span>
+</p><p>In this equation, <i>b</i> is the crude birth rate while <i>e<sub>o</sub></i> is the life expectancy at birth. <i>Q</i> is the total number of births per initial birth.
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Q={1 \over r\mu }{R_{o}-1 \over R_{o}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Q</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>r</mi>
+<mi>μ<!-- μ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Q={1 \over r\mu }{R_{o}-1 \over R_{o}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Q={1 \over r\mu }{R_{o}-1 \over R_{o}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/accf9e933095afb1b2b6c53709e74f17ed3ba590" style="vertical-align: -2.338ex; width:15.856ex; height:5.676ex;"/></span>
+</p><p>This equation is used to derive Q (total births per initial birth), <i>r</i> is the growth rate and <i>µ</i> is the unchanging population mean age at childbearing. R<sub>o</sub> is the Net Reproduction Rate of the non-changing population.<sup class="reference" id="cite_ref-:1_5-0"><a href="#cite_note-:1-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Causes">Causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_momentum&amp;action=edit&amp;section=5" title="Edit section: Causes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Population momentum is typically caused by a shift in the country's <a href="/wiki/Demographic_transition" title="Demographic transition">demographic transition</a>.<sup class="reference" id="cite_ref-:0_1-1"><a href="#cite_note-:0-1">[1]</a></sup> When <a href="/wiki/Mortality_rate" title="Mortality rate">mortality rates</a> drop, the young survive childhood and the aging population live longer. <a href="/wiki/Total_fertility_rate" title="Total fertility rate">Fertility rates</a> remain high, causing the overall population size to grow.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> According to population momentum, even if high fertility rates were immediately replaced with replacement level fertility rates, the population would continue to grow due to the pre-childbearing population entering childbearing years.<sup class="reference" id="cite_ref-:0_1-2"><a href="#cite_note-:0-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_momentum&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Human overpopulation</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li><a href="/wiki/List_of_population_concern_organizations" title="List of population concern organizations">List of population concern organizations</a></li>
+<li><a class="mw-redirect" href="/wiki/Population_stabilization" title="Population stabilization">Population stabilization</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_momentum&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Population_momentum&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Mason, A., Lee, S. and Russo, G. (2000). Population Momentum and Population Aging in Asia and Near-East Countries. [ebook] Strategic and Economic Analysis Office. Available at: <a class="external autonumber" href="https://pdf.usaid.gov/pdf_docs/Pnacn080.pdf" rel="nofollow">[1]</a> [Accessed 28 Mar. 2018].</li></ul>
+<div aria-labelledby="Human_impact_on_the_environment" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Human_impact_on_the_environment" title="Template:Human impact on the environment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Human_impact_on_the_environment" title="Template talk:Human impact on the environment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Human_impact_on_the_environment&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Human_impact_on_the_environment" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_issue" title="Environmental issue">Environmental issues</a>
+<ul><li><a href="/wiki/List_of_environmental_issues" title="List of environmental issues">List of issues</a></li></ul></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Impact assessment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li></ul>
+</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Planetary_boundaries.svg" title="Planetary boundaries"><img alt="Planetary boundaries" data-file-height="1163" data-file-width="1417" height="115" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/140px-Planetary_boundaries.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/210px-Planetary_boundaries.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Planetary_boundaries.svg/280px-Planetary_boundaries.svg.png 2x" width="140"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Causes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">Agriculture</a>
+<ul><li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_meat_production" title="Environmental impact of meat production">meat production</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_cocoa_production" title="Environmental impact of cocoa production">cocoa production</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">palm oil</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">Energy industry</a>
+<ul><li><a href="/wiki/Indirect_land_use_change_impacts_of_biofuels" title="Indirect land use change impacts of biofuels">biofuels</a></li>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_coal_industry" title="Environmental impact of the coal industry">coal</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_nuclear_power" title="Environmental impact of nuclear power">nuclear power</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">oil shale</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">petroleum</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_wind_power" title="Environmental impact of wind power">wind power</a></li></ul></li>
+<li><a href="/wiki/Genetic_pollution" title="Genetic pollution">Genetic pollution</a></li>
+<li><a class="mw-redirect" href="/wiki/Industrialization" title="Industrialization">Industrialization</a></li>
+<li><a href="/wiki/Land_use#Environment" title="Land use">Land use</a></li>
+<li><a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a>
+<ul><li><a href="/wiki/Environmental_impact_of_cleaning_agents" title="Environmental impact of cleaning agents">cleaning agents</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">concrete</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_plastics" title="Environmental impact of plastics">plastics</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_nanotechnology" title="Environmental impact of nanotechnology">nanotechnology</a></li>
+<li><a href="/wiki/Environmental_impact_of_paint" title="Environmental impact of paint">paint</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_pesticides" title="Environmental impact of pesticides">pesticides</a></li>
+<li><a href="/wiki/Environmental_impact_of_pharmaceuticals_and_personal_care_products" title="Environmental impact of pharmaceuticals and personal care products">pharmaceuticals and personal care</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">Mining</a></li>
+<li><a href="/wiki/Overdrafting" title="Overdrafting">Overdrafting</a></li>
+<li><a href="/wiki/Overfishing" title="Overfishing">Overfishing</a></li>
+<li><a href="/wiki/Overgrazing" title="Overgrazing">Overgrazing</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Particulates" title="Particulates">Particulates</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Quarry" title="Quarry">Quarrying</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">Reservoirs</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_tourism" title="Environmental impact of tourism">Tourism</a></li>
+<li><a href="/wiki/Environmental_impact_of_transport" title="Environmental impact of transport">Transport</a>
+<ul><li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">aviation</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_impact_of_roads" title="Environmental impact of roads">roads</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">shipping</a></li></ul></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>
+<ul><li><a href="/wiki/Urban_sprawl" title="Urban sprawl">urban sprawl</a></li></ul></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">war</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Effects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Biodiversity_threats" title="Biodiversity threats">Biodiversity threats</a>
+<ul><li><a href="/wiki/Biodiversity_loss" title="Biodiversity loss">Biodiversity loss</a></li></ul></li>
+<li><a href="/wiki/Climate_change" title="Climate change">Climate change</a>
+<ul><li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li></ul></li>
+<li><a href="/wiki/Environmental_issues_with_coral_reefs" title="Environmental issues with coral reefs">Coral reefs</a></li>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Defaunation" title="Defaunation">Defaunation</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Erosion" title="Erosion">Erosion</a></li>
+<li><a href="/wiki/Environmental_degradation" title="Environmental degradation">Environmental degradation</a></li>
+<li><a class="mw-redirect" href="/wiki/Freshwater_cycle" title="Freshwater cycle">Freshwater cycle</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_impact_on_the_nitrogen_cycle" title="Human impact on the nitrogen cycle">Nitrogen cycle</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_surface_effects_on_climate" title="Land surface effects on climate">Land surface effects on climate</a></li>
+<li><a href="/wiki/Green_belt" title="Green belt">Loss of green belts</a></li>
+<li><a href="/wiki/Phosphorus_cycle#Human_influences" title="Phosphorus cycle">Phosphorus cycle</a></li>
+<li><a href="/wiki/Ocean_acidification#Possible_impacts" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Resource depletion</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_degradation" title="Water degradation">Water degradation</a></li>
+<li><a href="/wiki/Water_scarcity" title="Water scarcity">Water scarcity</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mitigation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Ecological_engineering" title="Ecological engineering">Ecological engineering</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Environmental_mitigation" title="Environmental mitigation">Environmental mitigation</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Mitigation_banking" title="Mitigation banking">Mitigation banking</a></li>
+<li><a href="/wiki/Organic_farming" title="Organic farming">Organic farming</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a>
+<ul><li><a href="/wiki/Urban_reforestation" title="Urban reforestation">urban</a></li></ul></li>
+<li><a href="/wiki/Restoration_ecology" title="Restoration ecology">Restoration ecology</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable consumption</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimization</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li> <img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Environmental_impact" title="commons:Category:Environmental impact">Commons</a></b></li>
+<li> <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Environmental_impact_by_source" title="Category:Environmental impact by source">Category</a></li>
+<li><a href="/wiki/Category:Environmental_impact_by_country" title="Category:Environmental impact by country">by country</a></li>
+<li><a href="/wiki/Category:Environmental_impact_assessment" title="Category:Environmental impact assessment">assessment</a></li>
+<li><a href="/wiki/Category:Environmental_mitigation" title="Category:Environmental mitigation">mitigation</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Global_human_population" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#e6e6e6;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Population" title="Template:Population"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Population" title="Template talk:Population"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Population&amp;action=edit"><abbr style=";background:#e6e6e6;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_human_population" style="font-size:114%;margin:0 4em"><a href="/wiki/World_population" title="World population">Global human population</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Major topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biocapacity" title="Biocapacity">Biocapacity</a></li>
+<li><a href="/wiki/Optimum_population" title="Optimum population">Optimum population</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a>
+<ul><li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li></ul></li>
+<li><a href="/wiki/Population" title="Population">Population</a></li>
+<li><a href="/wiki/Population_ethics" title="Population ethics">Population ethics</a></li>
+<li><a class="mw-selflink selflink">Population momentum</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Reproductive_rights" title="Reproductive rights">Women's reproductive rights</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero population growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Biological and<br/>related topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Family_planning" title="Family planning">Family planning</a>
+<ul><li><a href="/wiki/Population_Matters#Pledge_two_or_fewer" title="Population Matters">Pledge two or fewer</a></li></ul></li>
+<li><a href="/wiki/Human_population_planning" title="Human population planning">Human population planning</a>
+<ul><li><a href="/wiki/One-child_policy" title="One-child policy">One-child policy</a></li>
+<li><a href="/wiki/Two-child_policy" title="Two-child policy">Two-child policy</a></li></ul></li>
+<li><a href="/wiki/Population_biology" title="Population biology">Population biology</a></li>
+<li><a href="/wiki/Population_decline" title="Population decline">Population decline</a></li>
+<li><a href="/wiki/Population_density" title="Population density">Population density</a>
+<ul><li><a href="/wiki/Physiological_density" title="Physiological density">Physiological density</a></li></ul></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_growth" title="Population growth">Population growth</a></li>
+<li><a href="/wiki/Population_model" title="Population model">Population model</a></li>
+<li><a href="/wiki/Population_pyramid" title="Population pyramid">Population pyramid</a></li>
+<li><a href="/wiki/Projections_of_population_growth" title="Projections of population growth">Projections of population growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on<br/>the environment</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Environmental impact</a>
+<ul><li><a href="/wiki/Environmental_impact_of_agriculture" title="Environmental impact of agriculture">of agriculture</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">of aviation</a></li>
+<li><a href="/wiki/Environmental_impact_of_biodiesel" title="Environmental impact of biodiesel">of biodiesel</a></li>
+<li><a href="/wiki/Environmental_impact_of_concrete" title="Environmental impact of concrete">of concrete</a></li>
+<li><a href="/wiki/Environmental_impact_of_electricity_generation" title="Environmental impact of electricity generation">of electricity generation</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_energy_industry" title="Environmental impact of the energy industry">of the energy industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_fishing" title="Environmental impact of fishing">of fishing</a></li>
+<li><a href="/wiki/Environmental_impact_of_irrigation" title="Environmental impact of irrigation">of irrigation</a></li>
+<li><a href="/wiki/Environmental_impact_of_mining" title="Environmental impact of mining">of mining</a></li>
+<li><a href="/wiki/Off-roading#Environmental_impact" title="Off-roading">of off-roading</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_oil_shale_industry" title="Environmental impact of the oil shale industry">of oil shale industry</a></li>
+<li><a href="/wiki/Social_and_environmental_impact_of_palm_oil" title="Social and environmental impact of palm oil">of palm oil</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper" title="Environmental impact of paper">of paper</a></li>
+<li><a href="/wiki/Environmental_impact_of_the_petroleum_industry" title="Environmental impact of the petroleum industry">of the petroleum industry</a></li>
+<li><a href="/wiki/Environmental_impact_of_reservoirs" title="Environmental impact of reservoirs">of reservoirs</a></li>
+<li><a href="/wiki/Environmental_impact_of_shipping" title="Environmental impact of shipping">of shipping</a></li>
+<li><a href="/wiki/Environmental_impact_of_war" title="Environmental impact of war">of war</a></li></ul></li>
+<li><a href="/wiki/Industrialisation" title="Industrialisation">Industrialisation</a></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Land degradation</a></li>
+<li><a href="/wiki/Land_reclamation" title="Land reclamation">Land reclamation</a></li>
+<li><a href="/wiki/Overconsumption" title="Overconsumption">Overconsumption</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Quarry" title="Quarry">Quarrying</a></li>
+<li><a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>
+<ul><li><a href="/wiki/Green_belt" title="Green belt">Loss of green belts</a></li>
+<li><a href="/wiki/Urban_sprawl" title="Urban sprawl">Urban sprawl</a></li></ul></li>
+<li><a href="/wiki/Waste" title="Waste">Waste</a></li>
+<li><a href="/wiki/Water_scarcity" title="Water scarcity">Water scarcity</a>
+<ul><li><a href="/wiki/Overdrafting" title="Overdrafting">Overdrafting</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Population_ecology" title="Population ecology">Population<br/>ecology</a></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carrying_capacity#Humans" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Food security</a></li>
+<li><a href="/wiki/Habitat_destruction" title="Habitat destruction">Habitat destruction</a></li>
+<li><span class="nowrap"><a href="/wiki/I_%3D_PAT" title="I = PAT">I = P × A  × T</a></span></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Overshoot_(population)" title="Overshoot (population)">Overshoot (population)</a></li>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a></li>
+<li><a href="/wiki/World_energy_resources" title="World energy resources">World energy resources</a></li>
+<li><a href="/wiki/World3" title="World3">World3 model</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Literature</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Modest_Proposal" title="A Modest Proposal">A Modest Proposal</a></i></li>
+<li><i><a href="/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc." title="Observations Concerning the Increase of Mankind, Peopling of Countries, etc.">Observations Concerning the Increase of Mankind, Peopling of Countries, etc.</a></i></li>
+<li><i><a href="/wiki/An_Essay_on_the_Principle_of_Population" title="An Essay on the Principle of Population">An Essay on the Principle of Population</a></i></li>
+<li>"<a href="/wiki/How_Much_Land_Does_a_Man_Need%3F" title="How Much Land Does a Man Need?">How Much Land Does a Man Need?</a>"</li>
+<li><i><a href="/wiki/Operating_Manual_for_Spaceship_Earth" title="Operating Manual for Spaceship Earth">Operating Manual for Spaceship Earth</a></i></li>
+<li><i><a href="/wiki/Population_Control:_Real_Costs,_Illusory_Benefits" title="Population Control: Real Costs, Illusory Benefits">Population Control: Real Costs, Illusory Benefits</a></i></li>
+<li><i><a href="/wiki/The_Limits_to_Growth" title="The Limits to Growth">The Limits to Growth</a></i></li>
+<li><i><a href="/wiki/The_Population_Bomb" title="The Population Bomb">The Population Bomb</a></i></li>
+<li><i><a href="/wiki/The_Skeptical_Environmentalist" title="The Skeptical Environmentalist">The Skeptical Environmentalist</a></i></li>
+<li><i><a href="/wiki/The_Ultimate_Resource" title="The Ultimate Resource">The Ultimate Resource</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Publications</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_and_Environment" title="Population and Environment">Population and Environment</a></li>
+<li><a href="/wiki/Population_and_Development_Review" title="Population and Development Review">Population and Development Review</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Lists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_and_housing_censuses_by_country" title="Population and housing censuses by country">Population and housing censuses by country</a></li>
+<li><a href="/wiki/List_of_metropolitan_areas_by_population" title="List of metropolitan areas by population">Metropolitan areas by population</a></li>
+<li><a href="/wiki/World_population_milestones" title="World population milestones">Population milestone babies</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;"><div style="padding:0.1em 0;line-height:1.2em;">Events and<br/>organizations</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/7_Billion_Actions" title="7 Billion Actions">7 Billion Actions</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">International Conference on Population and Development</a></li>
+<li><a href="/wiki/Population_Action_International" title="Population Action International">Population Action International</a></li>
+<li><a href="/wiki/Population_Connection" title="Population Connection">Population Connection</a></li>
+<li><a href="/wiki/Population_Matters" title="Population Matters">Population Matters</a></li>
+<li><a href="/wiki/Population_Research_Institute" title="Population Research Institute">Population Research Institute</a></li>
+<li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">United Nations Population Fund</a></li>
+<li><a href="/wiki/Voluntary_Human_Extinction_Movement" title="Voluntary Human Extinction Movement">Voluntary Human Extinction Movement</a></li>
+<li><a href="/wiki/World_Population_Day" title="World Population Day">World Population Day</a></li>
+<li><a href="/wiki/World_Population_Foundation" title="World Population Foundation">World Population Foundation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;background:#eee;">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Classic_Maya_collapse" title="Classic Maya collapse">Classic Maya collapse</a></li>
+<li><a href="/wiki/Fertility_and_intelligence" title="Fertility and intelligence">Fertility and intelligence</a></li>
+<li><a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Human_migration" title="Human migration">Migration</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="background:#e6e6e6;"><div>
+<ul><li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Human_overpopulation" title="commons:Category:Human overpopulation">Commons</a></b></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Human_overpopulation" title="Category:Human overpopulation">Human overpopulation</a></li>
+<li><a href="/wiki/Category:Human_activities_with_impact_on_the_environment" title="Category:Human activities with impact on the environment">Human activities with impact on the environment</a></li>
+<li><a href="/wiki/Category:Human_migration" title="Category:Human migration">Human migration</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Lists_of_countries_by_population_statistics" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Lists_of_countries_by_population_statistics" title="Template:Lists of countries by population statistics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Lists_of_countries_by_population_statistics" title="Template talk:Lists of countries by population statistics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lists_of_countries_by_population_statistics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Lists_of_countries_by_population_statistics" style="font-size:114%;margin:0 4em"><a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Lists of countries</a> by <a class="mw-redirect" href="/wiki/Population_statistics" title="Population statistics">population statistics</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/World_population" title="World population">Global</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_countries_and_dependencies_by_population" title="List of countries and dependencies by population">Current population</a></li>
+<li><a href="/wiki/List_of_countries_by_population_(United_Nations)" title="List of countries by population (United Nations)">Current population (United Nations)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_continents_by_population" title="List of continents by population">(Sub-)continents</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_African_countries_by_population" title="List of African countries by population">Africa</a></li>
+<li><a href="/wiki/List_of_Asian_countries_by_population" title="List of Asian countries by population">Asia</a></li>
+<li><a href="/wiki/List_of_European_countries_by_population" title="List of European countries by population">Europe</a></li>
+<li><a href="/wiki/List_of_North_American_countries_by_population" title="List of North American countries by population">North America</a>
+<ul><li><a href="/wiki/List_of_Caribbean_countries_by_population" title="List of Caribbean countries by population">Caribbean</a></li></ul></li>
+<li><a href="/wiki/List_of_Oceanian_countries_by_population" title="List of Oceanian countries by population">Oceania</a></li>
+<li><a href="/wiki/List_of_South_American_countries_by_population" title="List of South American countries by population">South America</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Intercontinental</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_countries_in_the_Americas_by_population" title="List of countries in the Americas by population">Americas</a></li>
+<li><a href="/wiki/List_of_Arab_countries_by_population" title="List of Arab countries by population">Arab world</a></li>
+<li><a href="/wiki/List_of_member_states_of_the_Commonwealth_of_Nations_by_population" title="List of member states of the Commonwealth of Nations by population">Commonwealth of Nations</a></li>
+<li><a href="/wiki/List_of_Eurasian_countries_by_population" title="List of Eurasian countries by population">Eurasia</a></li>
+<li><a href="/wiki/List_of_European_Union_member_states_by_population" title="List of European Union member states by population">European Union</a></li>
+<li><a href="/wiki/List_of_islands_by_population" title="List of islands by population">Islands</a></li>
+<li><a href="/wiki/List_of_Latin_American_countries_by_population" title="List of Latin American countries by population">Latin America</a></li>
+<li><a href="/wiki/List_of_Middle_Eastern_countries_by_population" title="List of Middle Eastern countries by population">Middle East</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Cities/urban regions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_national_capitals_by_population" title="List of national capitals by population">National capitals</a></li>
+<li><a href="/wiki/List_of_cities_proper_by_population" title="List of cities proper by population">Cities proper</a></li>
+<li><a href="/wiki/List_of_metropolitan_areas_by_population" title="List of metropolitan areas by population">Metropolitan areas</a></li>
+<li><a href="/wiki/List_of_urban_areas_by_population" title="List of urban areas by population">Urban areas</a></li>
+<li><a href="/wiki/Megacity" title="Megacity">Megacities</a></li>
+<li><a href="/wiki/Megalopolis" title="Megalopolis">Megalopolises</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Past and future</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_countries_by_past_population_(United_Nations,_estimates)" title="List of countries by past population (United Nations, estimates)">Past population (United Nations estimates)</a></li>
+<li><a href="/wiki/List_of_countries_by_past_and_future_population" title="List of countries by past and future population">Past and future population</a></li>
+<li><a href="/wiki/List_of_states_by_population_in_1_CE" title="List of states by population in 1 CE">1</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1000" title="List of countries by population in 1000">1000</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1500" title="List of countries by population in 1500">1500</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1600" title="List of countries by population in 1600">1600</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1700" title="List of countries by population in 1700">1700</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1800" title="List of countries by population in 1800">1800</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1900" title="List of countries by population in 1900">1900</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1907" title="List of countries by population in 1907">1907</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1939" title="List of countries by population in 1939">1939</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_1989" title="List of countries by population in 1989">1989</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_2000" title="List of countries by population in 2000">2000</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_2005" title="List of countries by population in 2005">2005</a></li>
+<li><a href="/wiki/List_of_countries_by_population_in_2010" title="List of countries by population in 2010">2010</a></li>
+<li><a href="/wiki/List_of_countries_by_future_population_(United_Nations,_medium_fertility_variant)" title="List of countries by future population (United Nations, medium fertility variant)">Future population</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population_density" title="Population density">Population density</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_countries_and_dependencies_by_population_density" title="List of countries and dependencies by population density">Current density</a></li>
+<li><a href="/wiki/List_of_countries_by_real_population_density_based_on_food_growing_capacity" title="List of countries by real population density based on food growing capacity">Current real density based on food growing capacity</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Growth indicators</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_countries_by_population_growth_rate" title="List of countries by population growth rate">Population growth rate</a></li>
+<li><a href="/wiki/List_of_countries_by_natural_increase" title="List of countries by natural increase">Natural increase</a></li>
+<li><a href="/wiki/List_of_sovereign_states_and_dependent_territories_by_birth_rate" title="List of sovereign states and dependent territories by birth rate">Birth rate</a></li>
+<li><a href="/wiki/List_of_sovereign_states_and_dependent_territories_by_mortality_rate" title="List of sovereign states and dependent territories by mortality rate">Mortality rate</a></li>
+<li><a href="/wiki/List_of_sovereign_states_and_dependencies_by_total_fertility_rate" title="List of sovereign states and dependencies by total fertility rate">Fertility rate</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other <br/><a class="mw-redirect" href="/wiki/Demographics" title="Demographics">demographics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_countries_by_age_at_first_marriage" title="List of countries by age at first marriage">Age at first marriage</a></li>
+<li><a href="/wiki/Divorce_demography" title="Divorce demography">Divorce rate</a></li>
+<li><a href="/wiki/List_of_countries_ranked_by_ethnic_and_cultural_diversity_level" title="List of countries ranked by ethnic and cultural diversity level">Ethnic and cultural diversity level</a></li>
+<li><a href="/wiki/List_of_sovereign_states_and_dependent_territories_by_immigrant_population" title="List of sovereign states and dependent territories by immigrant population">Immigrant population</a></li>
+<li><a href="/wiki/Linguistic_diversity_index" title="Linguistic diversity index">Linguistic diversity</a></li>
+<li><a href="/wiki/List_of_countries_by_median_age" title="List of countries by median age">Median age</a></li>
+<li><a href="/wiki/List_of_countries_by_age_structure" title="List of countries by age structure">Age structure</a></li>
+<li><a href="/wiki/List_of_countries_by_dependency_ratio" title="List of countries by dependency ratio">Dependency ratio</a></li>
+<li><a href="/wiki/List_of_countries_by_net_migration_rate" title="List of countries by net migration rate">Net migration rate</a></li>
+<li><a href="/wiki/List_of_countries_by_number_of_households" title="List of countries by number of households">Number of households</a></li>
+<li><a href="/wiki/List_of_countries_by_sex_ratio" title="List of countries by sex ratio">Sex ratio</a></li>
+<li><a href="/wiki/List_of_countries_by_urban_population" title="List of countries by urban population">Urban population</a></li>
+<li><a href="/wiki/Urbanization_by_country" title="Urbanization by country">Urbanization</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Health" title="Health">Health</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stockpiling_antiviral_medications_for_pandemic_influenza" title="Stockpiling antiviral medications for pandemic influenza">Antiviral medications for pandemic influenza</a></li>
+<li><a href="/wiki/List_of_countries_by_HIV/AIDS_adult_prevalence_rate" title="List of countries by HIV/AIDS adult prevalence rate">HIV/AIDS adult prevalence rate</a></li>
+<li><a href="/wiki/List_of_countries_by_infant_and_under-five_mortality_rates" title="List of countries by infant and under-five mortality rates">Infant and under-five mortality rates</a></li>
+<li><a href="/wiki/List_of_countries_by_maternal_mortality_rate" title="List of countries by maternal mortality rate">Maternal mortality rate</a></li>
+<li><a href="/wiki/List_of_countries_by_life_expectancy" title="List of countries by life expectancy">Life expectancy</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_countries_by_percentage_of_population_suffering_from_undernourishment" title="List of countries by percentage of population suffering from undernourishment">Percentage suffering from undernourishment</a></li>
+<li><a href="/wiki/List_of_countries_by_health_expenditure_covered_by_government" title="List of countries by health expenditure covered by government">Health expenditure covered by government</a></li>
+<li><a href="/wiki/List_of_countries_by_suicide_rate" title="List of countries by suicide rate">Suicide rate</a></li>
+<li><a href="/wiki/List_of_countries_by_total_health_expenditure_per_capita" title="List of countries by total health expenditure per capita">Total health expenditure per capita</a></li>
+<li><a href="/wiki/List_of_countries_by_body_mass_index" title="List of countries by body mass index">Body Mass Index (BMI)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Education <br/>and innovation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Bloomberg_Innovation_Index" title="Bloomberg Innovation Index">Bloomberg Innovation Index</a></li>
+<li><a href="/wiki/Education_Index" title="Education Index">Education Index</a></li>
+<li><a href="/wiki/International_Innovation_Index" title="International Innovation Index">International Innovation Index</a></li>
+<li><a class="mw-redirect" href="/wiki/Innovation_Union_Scoreboard" title="Innovation Union Scoreboard">Innovation Union Scoreboard</a></li>
+<li><a href="/wiki/List_of_countries_by_literacy_rate" title="List of countries by literacy rate">Literacy rate</a></li>
+<li><a href="/wiki/Programme_for_the_International_Assessment_of_Adult_Competencies" title="Programme for the International Assessment of Adult Competencies">Programme for the International Assessment of Adult Competencies</a></li>
+<li><a href="/wiki/Progress_in_International_Reading_Literacy_Study" title="Progress in International Reading Literacy Study">Progress in International Reading Literacy Study</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_countries_by_student_skills" title="List of countries by student skills">Student skills</a></li>
+<li><a href="/wiki/List_of_countries_by_tertiary_education_attainment" title="List of countries by tertiary education attainment">Tertiary education attainment</a></li>
+<li><a href="/wiki/Trends_in_International_Mathematics_and_Science_Study" title="Trends in International Mathematics and Science Study">Trends in International Mathematics and Science Study</a></li>
+<li><a href="/wiki/List_of_countries_by_women%27s_average_years_in_school" title="List of countries by women's average years in school">Women's average years in school</a></li>
+<li><a href="/wiki/World_Intellectual_Property_Indicators" title="World Intellectual Property Indicators">World Intellectual Property Indicators</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Demographic_economics" title="Demographic economics">Economic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_development_aid_country_donors" title="List of development aid country donors">Development aid given</a>
+<ul><li><a href="/wiki/List_of_countries_by_Official_Development_Assistance_received" title="List of countries by Official Development Assistance received">Official Development Assistance received</a></li></ul></li>
+<li><a href="/wiki/List_of_countries_by_employment_rate" title="List of countries by employment rate">Employment rate</a></li>
+<li><a href="/wiki/List_of_countries_by_irrigated_land_area" title="List of countries by irrigated land area">Irrigated land area</a></li>
+<li><a href="/wiki/Human_Development_Index" title="Human Development Index">Human Development Index</a>
+<ul><li><a href="/wiki/List_of_countries_by_Human_Development_Index" title="List of countries by Human Development Index">by country</a></li>
+<li><a href="/wiki/List_of_countries_by_inequality-adjusted_HDI" title="List of countries by inequality-adjusted HDI">inequality-adjusted</a></li></ul></li>
+<li><a href="/wiki/Human_Poverty_Index" title="Human Poverty Index">Human Poverty Index</a></li>
+<li><a href="/wiki/List_of_countries_by_imports" title="List of countries by imports">Imports</a></li>
+<li><a href="/wiki/List_of_countries_by_income_equality" title="List of countries by income equality">Income equality</a></li>
+<li><a href="/wiki/List_of_countries_by_labour_force" title="List of countries by labour force">Labour force</a></li>
+<li><a href="/wiki/Millionaire" title="Millionaire">Number of millionaires (US dollars)</a></li>
+<li><a href="/wiki/List_of_countries_by_the_number_of_billionaires" title="List of countries by the number of billionaires">Number of billionaires (US dollars)</a></li>
+<li><a href="/wiki/List_of_countries_by_percentage_of_population_living_in_poverty" title="List of countries by percentage of population living in poverty">Percentage living in poverty</a></li>
+<li><a href="/wiki/List_of_countries_by_public_sector" title="List of countries by public sector">Public sector</a></li>
+<li><a href="/wiki/List_of_countries_by_Sen_social_welfare_function" title="List of countries by Sen social welfare function">Sen social welfare function</a></li>
+<li><a href="/wiki/List_of_countries_by_unemployment_rate" title="List of countries by unemployment rate">Unemployment rate</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist" style="text-align:center">
+<ul><li><a href="/wiki/List_of_international_rankings" title="List of international rankings">List of international rankings</a></li>
+<li><a href="/wiki/List_of_top_international_rankings_by_country" title="List of top international rankings by country">List of top international rankings by country</a></li>
+<li><a href="/wiki/Lists_by_country" title="Lists by country">Lists by country</a></li></ul>
+</div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1335
+Cached time: 20181030043039
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.403 seconds
+Preprocessor visited node count: 631/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87195/2097152 bytes
+Template argument size: 103/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15872/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.152/10.000 seconds
+Lua memory usage: 3.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  235.923      1 -total
+ 53.39%  125.963      3 Template:Cite_journal
+ 21.51%   50.749      3 Template:Navbox
+ 12.61%   29.742      1 Template:Human_impact_on_the_environment
+ 12.53%   29.552      1 Template:Cite_book
+  7.68%   18.108      1 Template:Population
+  6.96%   16.413      1 Template:Population_country_lists
+  5.40%   12.734      4 Template:Icon
+  2.55%    6.022      1 Template:Cite_web
+  0.84%    1.981      2 Template:Longitem
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2634896-0!canonical!math=5 and timestamp 20181030043039 and revision id 855918628
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Population_momentum&amp;oldid=855918628">https://en.wikipedia.org/w/index.php?title=Population_momentum&amp;oldid=855918628</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Human_overpopulation" title="Category:Human overpopulation">Human overpopulation</a></li><li><a href="/wiki/Category:Population_ecology" title="Category:Population ecology">Population ecology</a></li><li><a href="/wiki/Category:Environmental_controversies" title="Category:Environmental controversies">Environmental controversies</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Population+momentum" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Population+momentum" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Population_momentum" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Population_momentum" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Population_momentum">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Population_momentum&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Population_momentum&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Population_momentum" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Population_momentum" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Population_momentum&amp;oldid=855918628" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Population_momentum&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7229810" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Population_momentum&amp;id=855918628" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Population+momentum">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Population+momentum&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Population_momentum&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%8F%A3%E6%83%AF%E6%80%A7" hreflang="zh" lang="zh" title="人口惯性 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7229810#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 21 August 2018, at 18:13<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Population_momentum&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.403","ppvisitednodes":{"value":631,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87195,"limit":2097152},"templateargumentsize":{"value":103,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15872,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  235.923      1 -total"," 53.39%  125.963      3 Template:Cite_journal"," 21.51%   50.749      3 Template:Navbox"," 12.61%   29.742      1 Template:Human_impact_on_the_environment"," 12.53%   29.552      1 Template:Cite_book","  7.68%   18.108      1 Template:Population","  6.96%   16.413      1 Template:Population_country_lists","  5.40%   12.734      4 Template:Icon","  2.55%    6.022      1 Template:Cite_web","  0.84%    1.981      2 Template:Longitem"]},"scribunto":{"limitreport-timeusage":{"value":"0.152","limit":"10.000"},"limitreport-memusage":{"value":3783278,"limit":52428800}},"cachereport":{"origin":"mw1335","timestamp":"20181030043039","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1332"});});</script>
+</body>
+</html>

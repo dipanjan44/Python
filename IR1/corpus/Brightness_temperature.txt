@@ -1,0 +1,988 @@
+https://en.wikipedia.org/wiki/Brightness_temperature
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Brightness temperature - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brightness_temperature","wgTitle":"Brightness temperature","wgCurRevisionId":839564720,"wgRevisionId":839564720,"wgArticleId":47501,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2017","Articles with permanently dead external links","Articles needing additional references from October 2008","All articles needing additional references","Articles lacking in-text citations from August 2013","All articles lacking in-text citations","Articles that may contain original research from August 2015","All articles that may contain original research","Articles with multiple maintenance issues","All articles with unsourced statements","Articles with unsourced statements from August 2015","Temperature","Radio astronomy","Planetary science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brightness_temperature","wgRelevantArticleId":47501,"wgRequestId":"W9TgyQpAICgAAGtuxfwAAADG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q4538627","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brightness_temperature" rel="alternate"/>
+<link href="/w/index.php?title=Brightness_temperature&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Brightness_temperature&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Brightness_temperature" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Brightness_temperature rootpage-Brightness_temperature skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Brightness temperature</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Brightness_temperature&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Brightness_temperature" title="Talk:Brightness temperature">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Brightness_temperature&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(October 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(August 2013)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article  <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Brightness_temperature&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span> <small><i>(August 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+</div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Brightness temperature</b> or <b>radiance temperature</b> is the temperature a <a href="/wiki/Black_body" title="Black body">black body</a> in <a href="/wiki/Thermal_equilibrium" title="Thermal equilibrium">thermal equilibrium</a> with its surroundings would have to be to duplicate the observed <a href="/wiki/Intensity_(heat_transfer)" title="Intensity (heat transfer)">intensity</a> of a <a class="mw-redirect" href="/wiki/Grey_body" title="Grey body">grey body</a> object at a frequency <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+This concept is used in <a href="/wiki/Radio_astronomy" title="Radio astronomy">radio astronomy</a>, <a href="/wiki/Planetary_science" title="Planetary science">planetary science</a> and <a href="/wiki/Materials_science" title="Materials science">materials science</a>. 
+</p><p>The brightness temperature of a surface is typically determined by an optical measurement, for example using a <a href="/wiki/Pyrometer" title="Pyrometer">pyrometer</a>, with the intention of determining the real temperature. As detailed below, the real temperature of a surface can in some cases be calculated by dividing the brightness temperature by the <a href="/wiki/Emissivity" title="Emissivity">emissivity</a> of the surface. Since the emissivity is a value between 0 and 1, the real temperature will be greater than or equal to the brightness temperature. At high frequencies (short wavelengths) and low temperatures, the conversion must proceed through <a href="/wiki/Planck%27s_law" title="Planck's law">Planck's law</a>.
+</p><p>The brightness temperature is not a temperature as ordinarily understood. It characterizes radiation, and depending on the mechanism of radiation can differ considerably from the physical temperature of a radiating body (though it is theoretically possible to construct a device which will heat up by a source of radiation with some brightness temperature to the actual temperature equal to brightness temperature).<sup class="reference" id="cite_ref-RybickiLightman_2-0"><a href="#cite_note-RybickiLightman-2">[2]</a></sup> Nonthermal sources can have very high brightness temperatures. In <a href="/wiki/Pulsar" title="Pulsar">pulsars</a> the brightness temperature can reach 10<sup>26</sup> K. For the radiation of a typical <a href="/wiki/Helium%E2%80%93neon_laser" title="Helium–neon laser">helium–neon laser</a> with a power of 60 mW and a coherence length of 20 cm, focused in a spot with a diameter of 10 <a class="mw-redirect" href="/wiki/%CE%9Cm" title="Μm">µm</a>, the brightness temperature will be nearly <span class="nowrap"><span class="sortkey" style="display:none">7010140000000000000♠</span>14<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>9</sup> K</span>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2015)">citation needed</span></a></i>]</sup>
+</p><p><br/>
+For a <b>black body</b>, <a href="/wiki/Planck%27s_law" title="Planck's law">Planck's law</a> gives:<sup class="reference" id="cite_ref-RybickiLightman_2-1"><a href="#cite_note-RybickiLightman-2">[2]</a></sup><sup class="reference" id="cite_ref-BR_3-0"><a href="#cite_note-BR-3">[3]</a></sup>
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{\nu }={\frac {2h\nu ^{3}}{c^{2}}}{\frac {1}{e^{\frac {h\nu }{kT}}-1}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>h</mi>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+<mrow>
+<mi>k</mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{\nu }={\frac {2h\nu ^{3}}{c^{2}}}{\frac {1}{e^{\frac {h\nu }{kT}}-1}}}</annotation>
+</semantics>
+</math></span><img alt="I_{\nu }={\frac  {2h\nu ^{{3}}}{c^{2}}}{\frac  {1}{e^{{{\frac  {h\nu }{kT}}}}-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc28a429e606997b3fb392e112c3d7e1d45cd1ed" style="vertical-align: -3.505ex; width:19.5ex; height:7.343ex;"/></span></dd></dl></dd></dl>
+<p>where
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{\nu }}</annotation>
+</semantics>
+</math></span><img alt="I_{\nu }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/172f1a90292ff1160dabfbc32fd0dcb802fc9f98" style="vertical-align: -0.671ex; width:2.127ex; height:2.509ex;"/></span> (the <a href="/wiki/Intensity_(physics)" title="Intensity (physics)">Intensity</a> or Brightness) is the amount of <a href="/wiki/Energy" title="Energy">energy</a> emitted per unit <a href="/wiki/Surface_area" title="Surface area">surface area</a> per unit time per unit <a href="/wiki/Solid_angle" title="Solid angle">solid angle</a> and in the frequency range between <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu +d\nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+<mo>+</mo>
+<mi>d</mi>
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu +d\nu }</annotation>
+</semantics>
+</math></span><img alt="\nu +d\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90094eac20b91045e8db5c269022cf972e539c3c" style="vertical-align: -0.505ex; width:6.521ex; height:2.343ex;"/></span>; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;"/></span> is the <a href="/wiki/Temperature" title="Temperature">temperature</a> of the black body; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h}</annotation>
+</semantics>
+</math></span><img alt="h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a" style="vertical-align: -0.338ex; width:1.339ex; height:2.176ex;"/></span> is <a class="mw-redirect" href="/wiki/Planck%27s_constant" title="Planck's constant">Planck's constant</a>; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span> is <a href="/wiki/Frequency" title="Frequency">frequency</a>; <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+</semantics>
+</math></span><img alt="c" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86a67b81c2de995bd608d5b2df50cd8cd7d92455" style="vertical-align: -0.338ex; width:1.007ex; height:1.676ex;"/></span> is the <a href="/wiki/Speed_of_light" title="Speed of light">speed of light</a>; and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+</semantics>
+</math></span><img alt="k" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;"/></span> is <a class="mw-redirect" href="/wiki/Boltzmann%27s_constant" title="Boltzmann's constant">Boltzmann's constant</a>.
+</p><p>For a <b>grey body</b> the  <a class="mw-redirect" href="/wiki/Spectral_radiance" title="Spectral radiance">spectral radiance</a> is a portion of the black body radiance, determined by the <a href="/wiki/Emissivity" title="Emissivity">emissivity</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \epsilon }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϵ<!-- ϵ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \epsilon }</annotation>
+</semantics>
+</math></span><img alt="\epsilon " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3837cad72483d97bcdde49c85d3b7b859fb3fd2" style="vertical-align: -0.338ex; width:0.944ex; height:1.676ex;"/></span>.
+That makes the reciprocal of the brightness temperature:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}^{-1}={\frac {k}{h\nu }}\,{\text{ln}}\left[1+{\frac {e^{\frac {h\nu }{kT}}-1}{\epsilon }}\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>k</mi>
+<mrow>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>ln</mtext>
+</mrow>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+<mrow>
+<mi>k</mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mi>ϵ<!-- ϵ --></mi>
+</mfrac>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}^{-1}={\frac {k}{h\nu }}\,{\text{ln}}\left[1+{\frac {e^{\frac {h\nu }{kT}}-1}{\epsilon }}\right]}</annotation>
+</semantics>
+</math></span><img alt="T_{b}^{{-1}}={\frac  {k}{h\nu }}\,{\text{ln}}\left[1+{\frac  {e^{{{\frac  {h\nu }{kT}}}}-1}{\epsilon }}\right]" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c993a06e73c39413e249b260d33368395a75b5d4" style="vertical-align: -3.671ex; width:29.001ex; height:8.509ex;"/></span></dd></dl></dd></dl>
+<p>At low frequency and high temperatures, when <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h\nu \ll kT}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+<mo>≪<!-- ≪ --></mo>
+<mi>k</mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h\nu \ll kT}</annotation>
+</semantics>
+</math></span><img alt="h\nu \ll kT" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51ba15fb2945efc57f8ec913d759fa8b460acae0" style="vertical-align: -0.338ex; width:9.033ex; height:2.176ex;"/></span>, we can use the <a href="/wiki/Rayleigh%E2%80%93Jeans_law" title="Rayleigh–Jeans law">Rayleigh–Jeans law</a>:<sup class="reference" id="cite_ref-BR_3-1"><a href="#cite_note-BR-3">[3]</a></sup>
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{\nu }={\frac {2\nu ^{2}kT}{c^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>k</mi>
+<mi>T</mi>
+</mrow>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{\nu }={\frac {2\nu ^{2}kT}{c^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="I_{{\nu }}={\frac  {2\nu ^{2}kT}{c^{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84d99e291582a41b103a582bb8f41e6798f2183c" style="vertical-align: -2.171ex; width:12.383ex; height:6.009ex;"/></span></dd></dl></dd></dl>
+<p>so that the brightness temperature can be simply written as:
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}=\epsilon T\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}=\epsilon T\,}</annotation>
+</semantics>
+</math></span><img alt="T_{b}=\epsilon T\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a288cd8b9f4335559f5f56ee77f1be826204de15" style="vertical-align: -0.671ex; width:8.361ex; height:2.509ex;"/></span></dd></dl></dd></dl>
+<p>In general, the brightness temperature is a function of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span>, and only in the case of <a href="/wiki/Black-body_radiation" title="Black-body radiation">blackbody radiation</a> it is the same at all frequencies. The brightness temperature can be used to calculate the <a href="/wiki/Spectral_index" title="Spectral index">spectral index</a> of a body, in the case of non-thermal radiation.
+</p>
+<h2><span class="mw-headline" id="Calculating_by_frequency">Calculating by frequency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brightness_temperature&amp;action=edit&amp;section=1" title="Edit section: Calculating by frequency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The brightness temperature of a source with known spectral radiance can be expressed as:<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}={\frac {h\nu }{k}}\ln ^{-1}\left(1+{\frac {2h\nu ^{3}}{I_{\nu }c^{2}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+<mi>k</mi>
+</mfrac>
+</mrow>
+<msup>
+<mi>ln</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>h</mi>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}={\frac {h\nu }{k}}\ln ^{-1}\left(1+{\frac {2h\nu ^{3}}{I_{\nu }c^{2}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="T_{b}={\frac  {h\nu }{k}}\ln ^{{-1}}\left(1+{\frac  {2h\nu ^{3}}{I_{{\nu }}c^{2}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a48ecef4ec711fec4ddbe8f203b4762f20a56f2" style="vertical-align: -2.505ex; width:26.533ex; height:6.343ex;"/></span></dd></dl>
+<p>When <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle h\nu \ll kT}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+<mo>≪<!-- ≪ --></mo>
+<mi>k</mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h\nu \ll kT}</annotation>
+</semantics>
+</math></span><img alt="h\nu \ll kT" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51ba15fb2945efc57f8ec913d759fa8b460acae0" style="vertical-align: -0.338ex; width:9.033ex; height:2.176ex;"/></span> we can use the Rayleigh–Jeans law:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}={\frac {I_{\nu }c^{2}}{2k\nu ^{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>k</mi>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}={\frac {I_{\nu }c^{2}}{2k\nu ^{2}}}}</annotation>
+</semantics>
+</math></span><img alt="T_{b}={\frac  {I_{{\nu }}c^{2}}{2k\nu ^{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c4f0aa05b601ca36f6c8c394a60e5d4b7728a974" style="vertical-align: -2.171ex; width:10.915ex; height:6.009ex;"/></span></dd></dl>
+<p>For <a href="/wiki/Narrowband" title="Narrowband">narrowband</a> radiation with very low relative <a class="mw-redirect" href="/wiki/Spectral_linewidth" title="Spectral linewidth">spectral linewidth</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta \nu \ll \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>ν<!-- ν --></mi>
+<mo>≪<!-- ≪ --></mo>
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta \nu \ll \nu }</annotation>
+</semantics>
+</math></span><img alt="\Delta \nu \ll \nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b190626e5261a89897f9a5b6dd227a05c987458" style="vertical-align: -0.338ex; width:8.014ex; height:2.176ex;"/></span> and known <a href="/wiki/Radiance" title="Radiance">radiance</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>I</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I}</annotation>
+</semantics>
+</math></span><img alt="I" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/535ea7fc4134a31cbe2251d9d3511374bc41be9f" style="vertical-align: -0.338ex; width:1.172ex; height:2.176ex;"/></span> we can calculate the brightness temperature as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}={\frac {Ic^{2}}{2k\nu ^{2}\Delta \nu }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>I</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>k</mi>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}={\frac {Ic^{2}}{2k\nu ^{2}\Delta \nu }}}</annotation>
+</semantics>
+</math></span><img alt="T_{b}={\frac  {Ic^{2}}{2k\nu ^{2}\Delta \nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffa1573e009aa9b13a68005c587ef4f624b8a3f2" style="vertical-align: -2.171ex; width:14.083ex; height:6.009ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Calculating_by_wavelength">Calculating by wavelength</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brightness_temperature&amp;action=edit&amp;section=2" title="Edit section: Calculating by wavelength">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Spectral radiance of black-body radiation is expressed by wavelength as:<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{\lambda }={\frac {2hc^{2}}{\lambda ^{5}}}{\frac {1}{e^{\frac {hc}{kT\lambda }}-1}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>λ<!-- λ --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>h</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<msup>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>5</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mi>c</mi>
+</mrow>
+<mrow>
+<mi>k</mi>
+<mi>T</mi>
+<mi>λ<!-- λ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{\lambda }={\frac {2hc^{2}}{\lambda ^{5}}}{\frac {1}{e^{\frac {hc}{kT\lambda }}-1}}}</annotation>
+</semantics>
+</math></span><img alt="I_{{\lambda }}={\frac  {2hc^{2}}{\lambda ^{5}}}{\frac  {1}{e^{{{\frac  {hc}{kT\lambda }}}}-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5a1df6cc98f89d1f11d7eb5425cc67b4dd9bd8a2" style="vertical-align: -3.505ex; width:20.114ex; height:7.343ex;"/></span></dd></dl>
+<p>So, the brightness temperature can be calculated as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}={\frac {hc}{k\lambda }}\ln ^{-1}\left(1+{\frac {2hc^{2}}{I_{\lambda }\lambda ^{5}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>h</mi>
+<mi>c</mi>
+</mrow>
+<mrow>
+<mi>k</mi>
+<mi>λ<!-- λ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mi>ln</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>h</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>λ<!-- λ --></mi>
+</mrow>
+</msub>
+<msup>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}={\frac {hc}{k\lambda }}\ln ^{-1}\left(1+{\frac {2hc^{2}}{I_{\lambda }\lambda ^{5}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="T_{b}={\frac  {hc}{k\lambda }}\ln ^{{-1}}\left(1+{\frac  {2hc^{2}}{I_{{\lambda }}\lambda ^{5}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ffad7df33ab06c82841a0030ed0c67abaefcbff" style="vertical-align: -2.505ex; width:26.339ex; height:6.343ex;"/></span></dd></dl>
+<p>For long-wave radiation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle hc/\lambda \ll kT}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>λ<!-- λ --></mi>
+<mo>≪<!-- ≪ --></mo>
+<mi>k</mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle hc/\lambda \ll kT}</annotation>
+</semantics>
+</math></span><img alt="hc/\lambda \ll kT" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13d14e42aeabdbf6978c0ca63f8e84bb819f4ba7" style="vertical-align: -0.838ex; width:11.325ex; height:2.843ex;"/></span> the brightness temperature is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}={\frac {I_{\lambda }\lambda ^{4}}{2kc}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>λ<!-- λ --></mi>
+</mrow>
+</msub>
+<msup>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>k</mi>
+<mi>c</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}={\frac {I_{\lambda }\lambda ^{4}}{2kc}}}</annotation>
+</semantics>
+</math></span><img alt="T_{b}={\frac  {I_{{\lambda }}\lambda ^{4}}{2kc}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14a1e3ab6efdfca6648dbe2949833daf8cfea7ac" style="vertical-align: -2.005ex; width:10.853ex; height:5.843ex;"/></span></dd></dl>
+<p>For almost monochromatic radiation, the brightness temperature can be expressed by the <a href="/wiki/Radiance" title="Radiance">radiance</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>I</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I}</annotation>
+</semantics>
+</math></span><img alt="I" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/535ea7fc4134a31cbe2251d9d3511374bc41be9f" style="vertical-align: -0.338ex; width:1.172ex; height:2.176ex;"/></span> and the <a href="/wiki/Coherence_length" title="Coherence length">coherence length</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle L_{c}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle L_{c}}</annotation>
+</semantics>
+</math></span><img alt="L_{c}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40dfe0c821ab1ddeb7ab27ddaa97764086f42789" style="vertical-align: -0.671ex; width:2.527ex; height:2.509ex;"/></span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{b}={\frac {\pi I\lambda ^{2}L_{c}}{4kc\ln {2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>π<!-- π --></mi>
+<mi>I</mi>
+<msup>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msub>
+<mi>L</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mn>4</mn>
+<mi>k</mi>
+<mi>c</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{b}={\frac {\pi I\lambda ^{2}L_{c}}{4kc\ln {2}}}}</annotation>
+</semantics>
+</math></span><img alt="T_{b}={\frac  {\pi I\lambda ^{2}L_{c}}{4kc\ln {2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1123db3587b6c614fd51c38f177c44a163061177" style="vertical-align: -2.005ex; width:13.67ex; height:5.843ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brightness_temperature&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20181024042939
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.441 seconds
+Preprocessor visited node count: 1149/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39955/2097152 bytes
+Template argument size: 10388/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13208/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 4.21 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  319.956      1 -total
+ 40.13%  128.387      4 Template:Ambox
+ 39.98%  127.929      1 Template:Reflist
+ 31.27%  100.050      1 Template:Multiple_issues
+ 26.00%   83.175      4 Template:Cite_web
+ 17.17%   54.939      1 Template:Val
+  8.71%   27.855      1 Template:Cn
+  8.29%   26.511      2 Template:Fix
+  8.21%   26.254      1 Template:Refimprove
+  7.84%   25.083      1 Template:ISBN
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47501-0!canonical!math=5 and timestamp 20181024042939 and revision id 839564720
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brightness_temperature&amp;oldid=839564720">https://en.wikipedia.org/w/index.php?title=Brightness_temperature&amp;oldid=839564720</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Temperature" title="Category:Temperature">Temperature</a></li><li><a href="/wiki/Category:Radio_astronomy" title="Category:Radio astronomy">Radio astronomy</a></li><li><a href="/wiki/Category:Planetary_science" title="Category:Planetary science">Planetary science</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2017" title="Category:Articles with dead external links from July 2017">Articles with dead external links from July 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2008" title="Category:Articles needing additional references from October 2008">Articles needing additional references from October 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_August_2013" title="Category:Articles lacking in-text citations from August 2013">Articles lacking in-text citations from August 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_August_2015" title="Category:Articles that may contain original research from August 2015">Articles that may contain original research from August 2015</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2015" title="Category:Articles with unsourced statements from August 2015">Articles with unsourced statements from August 2015</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Brightness+temperature" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Brightness+temperature" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Brightness_temperature" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Brightness_temperature" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Brightness_temperature">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Brightness_temperature&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Brightness_temperature&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Brightness_temperature" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Brightness_temperature" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brightness_temperature&amp;oldid=839564720" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brightness_temperature&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4538627" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brightness_temperature&amp;id=839564720" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brightness+temperature">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Brightness+temperature&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Brightness_temperature&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D8%B1%D8%AC%D8%A9_%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B3%D8%B7%D9%88%D8%B9" hreflang="ar" lang="ar" title="درجة حرارة السطوع – Arabic">العربية</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Temperatura_jasno%C5%9Bciowa" hreflang="pl" lang="pl" title="Temperatura jasnościowa – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%BA%D0%BE%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" hreflang="ru" lang="ru" title="Яркостная температура – Russian">Русский</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8A%E0%AE%B2%E0%AE%BF%E0%AE%B5%E0%AF%81_%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88" hreflang="ta" lang="ta" title="பொலிவு வெப்பநிலை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%AF%D1%81%D0%BA%D1%80%D0%B0%D0%B2%D1%96%D1%81%D0%BD%D0%B0_%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" hreflang="uk" lang="uk" title="Яскравісна температура – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BA%AE%E5%BA%A6%E6%BA%AB%E5%BA%A6" hreflang="zh" lang="zh" title="亮度溫度 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4538627#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 May 2018, at 07:11<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Brightness_temperature&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.441","ppvisitednodes":{"value":1149,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39955,"limit":2097152},"templateargumentsize":{"value":10388,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13208,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  319.956      1 -total"," 40.13%  128.387      4 Template:Ambox"," 39.98%  127.929      1 Template:Reflist"," 31.27%  100.050      1 Template:Multiple_issues"," 26.00%   83.175      4 Template:Cite_web"," 17.17%   54.939      1 Template:Val","  8.71%   27.855      1 Template:Cn","  8.29%   26.511      2 Template:Fix","  8.21%   26.254      1 Template:Refimprove","  7.84%   25.083      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.158","limit":"10.000"},"limitreport-memusage":{"value":4416093,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20181024042939","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1319"});});</script>
+</body>
+</html>

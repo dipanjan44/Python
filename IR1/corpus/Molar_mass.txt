@@ -1,0 +1,598 @@
+https://en.wikipedia.org/wiki/Molar_mass
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Molar mass - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Molar_mass","wgTitle":"Molar mass","wgCurRevisionId":865344042,"wgRevisionId":865344042,"wgArticleId":144241,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2008","All articles needing additional references","Molar quantities","Mass"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Molar_mass","wgRelevantArticleId":144241,"wgRequestId":"W9M@VApAICAAAK9wBy8AAACT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q145623","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Molar_mass" rel="alternate"/>
+<link href="/w/index.php?title=Molar_mass&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Molar_mass&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Molar_mass" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Molar_mass rootpage-Molar_mass skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Molar mass</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style:italic;">Molar mass</th></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Common symbols</div></th><td>
+<i>M</i></td></tr><tr><th scope="row"><a class="mw-redirect" href="/wiki/SI_unit" title="SI unit">SI unit</a></th><td>
+kg/mol</td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Other units</div></th><td>
+g/mol</td></tr></tbody></table>
+<p>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, the <b>molar mass</b> <i>M</i> is a physical property defined as the <a href="/wiki/Mass" title="Mass">mass</a> of a given substance (<a href="/wiki/Chemical_element" title="Chemical element">chemical element</a> or <a href="/wiki/Chemical_compound" title="Chemical compound">chemical compound</a>) divided by the <a href="/wiki/Amount_of_substance" title="Amount of substance">amount of substance</a>.<sup class="reference" id="cite_ref-GreenBook_1-0"><a href="#cite_note-GreenBook-1">[1]</a></sup> The base <a class="mw-redirect" href="/wiki/SI_unit" title="SI unit">SI unit</a> for molar mass is <a href="/wiki/Kilogram" title="Kilogram">kg</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>. However, for historical reasons, molar masses are almost always expressed in g/mol.
+</p><p>As an example, the molar mass of water: <i>M</i>(H<sub>2</sub>O) ≈ <span class="nowrap"><span class="sortkey" style="display:none">6998180150000000000♠</span>18.015 g/mol</span>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Molar_masses_of_elements"><span class="tocnumber">1</span> <span class="toctext">Molar masses of elements</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Molar_masses_of_compounds"><span class="tocnumber">2</span> <span class="toctext">Molar masses of compounds</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Average_molar_mass_of_mixtures"><span class="tocnumber">3</span> <span class="toctext">Average molar mass of mixtures</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Related_quantities"><span class="tocnumber">4</span> <span class="toctext">Related quantities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Molecular_mass"><span class="tocnumber">4.1</span> <span class="toctext">Molecular mass</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#DNA_synthesis_usage"><span class="tocnumber">4.2</span> <span class="toctext">DNA synthesis usage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Precision_and_uncertainties"><span class="tocnumber">5</span> <span class="toctext">Precision and uncertainties</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Measurement"><span class="tocnumber">6</span> <span class="toctext">Measurement</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Vapour_density"><span class="tocnumber">6.1</span> <span class="toctext">Vapour density</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Freezing-point_depression"><span class="tocnumber">6.2</span> <span class="toctext">Freezing-point depression</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Boiling-point_elevation"><span class="tocnumber">6.3</span> <span class="toctext">Boiling-point elevation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Molar_masses_of_elements">Molar masses of elements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=1" title="Edit section: Molar masses of elements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Relative_atomic_mass" title="Relative atomic mass">Relative atomic mass</a> and <a href="/wiki/Standard_atomic_weight" title="Standard atomic weight">Standard atomic weight</a></div>
+<p>The molar mass of <a href="/wiki/Atom" title="Atom">atoms</a> of an <a href="/wiki/Chemical_element" title="Chemical element">element</a> is given by the <a href="/wiki/Standard_atomic_weight" title="Standard atomic weight">Standard atomic weight</a> of the element<sup class="reference" id="cite_ref-AtWt_2-0"><a href="#cite_note-AtWt-2">[2]</a></sup> multiplied by the <a href="/wiki/Molar_mass_constant" title="Molar mass constant">molar mass constant</a>, <i>M</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">u</sub></span> = 1 × 10<sup>−3</sup> kg/mol = 1 g/mol:<sup class="reference" id="cite_ref-CODATA2010_3-0"><a href="#cite_note-CODATA2010-3">[3]</a></sup>
+</p>
+<dl><dd><i>M</i>(H) = 1.007 97(7) × 1 g/mol = 1.007 97(7) g/mol</dd>
+<dd><i>M</i>(S) = 32.065(5) × 1 g/mol = 32.065(5) g/mol</dd>
+<dd><i>M</i>(Cl) = 35.453(2) × 1 g/mol = 35.453(2) g/mol</dd>
+<dd><i>M</i>(Fe) = 55.845(2) × 1 g/mol = 55.845(2) g/mol.</dd></dl>
+<p>Multiplying by the molar mass constant ensures that the calculation is <a href="/wiki/Dimension" title="Dimension">dimensionally</a> correct: standard relative atomic masses are dimensionless quantities (i.e., pure numbers) whereas molar masses have units (in this case, grams/mole).
+</p><p>Some elements are usually encountered as <a href="/wiki/Molecule" title="Molecule">molecules</a>, e.g. <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> (H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>), <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> (S<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">8</sub></span>), <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> (Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>). The molar mass of molecules of these elements is the molar mass of the atoms multiplied by the number of atoms in each molecule:
+</p>
+<dl><dd><i>M</i>(H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>) = 2 × 1.007 97(7) × 1 g/mol = 2.015 88(14) g/mol</dd>
+<dd><i>M</i>(S<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">8</sub></span>) = 8 × 32.065(5) × 1 g/mol = 256.52(4) g/mol</dd>
+<dd><i>M</i>(Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>) = 2 × 35.453(2) × 1 g/mol = 70.906(4) g/mol.</dd></dl>
+<h2><span class="mw-headline" id="Molar_masses_of_compounds">Molar masses of compounds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=2" title="Edit section: Molar masses of compounds">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The molar mass of a <a href="/wiki/Chemical_compound" title="Chemical compound">compound</a> is given by the sum of the <a href="/wiki/Standard_atomic_weight" title="Standard atomic weight">standard atomic weight</a> (namely, the standard relative atomic mass) of the <a href="/wiki/Atom" title="Atom">atoms</a> which form the compound multiplied by the <a href="/wiki/Molar_mass_constant" title="Molar mass constant">molar mass constant</a>, <i>M</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">u</sub></span>:
+</p>
+<dl><dd><i>M</i>(NaCl) = [22.989 769 28(2) + 35.453(2)] × 1 g/mol = 58.443(2) g/mol</dd>
+<dd><i>M</i>(C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">12</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">22</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">11</sub></span>) = ([12 × 12.0107(8)] + [22 × 1.007 94(7)] + [11 × 15.9994(3)]) × 1 g/mol = 342.297(14) g/mol.</dd></dl>
+<p>An average molar mass may be defined for mixtures of compounds.<sup class="reference" id="cite_ref-GreenBook_1-1"><a href="#cite_note-GreenBook-1">[1]</a></sup> This is particularly important in <a href="/wiki/Polymer_science" title="Polymer science">polymer science</a>, where different polymer molecules may contain different numbers of <a href="/wiki/Monomer" title="Monomer">monomer</a> units (non-uniform polymers).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Average_molar_mass_of_mixtures">Average molar mass of mixtures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=3" title="Edit section: Average molar mass of mixtures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The average molar mass of mixtures <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\bar {M}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>M</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {M}}}</annotation>
+</semantics>
+</math></span><img alt="{\bar {M}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b249111959f0a0fec00349e9534ea559267434e3" style="vertical-align: -0.338ex; width:2.442ex; height:2.509ex;"/></span> can be calculated from the <a href="/wiki/Mole_fraction" title="Mole fraction">mole fractions</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{i}}</annotation>
+</semantics>
+</math></span><img alt="x_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e87000dd6142b81d041896a30fe58f0c3acb2158" style="vertical-align: -0.671ex; width:2.129ex; height:2.009ex;"/></span> of the components and their molar masses <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M_{i}}</annotation>
+</semantics>
+</math></span><img alt="M_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eda8fd06f1cd5de22ed07385a0f8aa19773b2de9" style="vertical-align: -0.671ex; width:3.054ex; height:2.509ex;"/></span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\bar {M}}=\sum _{i}x_{i}M_{i}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>M</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {M}}=\sum _{i}x_{i}M_{i}\,}</annotation>
+</semantics>
+</math></span><img alt="{\bar  {M}}=\sum _{i}x_{i}M_{i}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/36feffbceab789ab3af12768c7b2a14813fc8f5f" style="vertical-align: -3.005ex; width:14.853ex; height:5.509ex;"/></span></dd></dl>
+<p>It can also be calculated from the <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fractions</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle w_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>w</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle w_{i}}</annotation>
+</semantics>
+</math></span><img alt="w_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe22f0329d3ecb2e1880d44d191aba0e5475db68" style="vertical-align: -0.671ex; width:2.464ex; height:2.009ex;"/></span> of the components:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1/{\bar {M}}=\sum _{i}{\frac {w_{i}}{M_{i}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>M</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>w</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1/{\bar {M}}=\sum _{i}{\frac {w_{i}}{M_{i}}},}</annotation>
+</semantics>
+</math></span><img alt="1/{\bar  {M}}=\sum _{i}{\frac  {{w_{i}}}{{M_{i}}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66b6071703644910f3009364928c1804481ae7d9" style="vertical-align: -3.005ex; width:16.144ex; height:5.843ex;"/></span></dd></dl>
+<p>As an example, the average molar mass of dry air is 28.97 g/mol.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Related_quantities">Related quantities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=4" title="Edit section: Related quantities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Molar mass is closely related to the <b>relative molar mass</b> (<i>M</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">r</sub></span>) of a compound, to the older term <b>formula weight</b> (F.W.), and to the <a href="/wiki/Atomic_mass" title="Atomic mass">standard atomic masses</a> of its constituent elements. However, it should be distinguished from the <a href="/wiki/Molecular_mass" title="Molecular mass">molecular mass</a> (also known as molecular weight), which is the mass of <i>one</i> molecule (of any <i>single</i> isotopic composition) and is not directly related to the <a href="/wiki/Atomic_mass" title="Atomic mass">atomic mass</a>, the mass of <i>one</i> atom (of any <i>single</i> isotope). The <a class="mw-redirect" href="/wiki/Dalton_(unit)" title="Dalton (unit)">dalton</a>, symbol Da, is also sometimes used as a unit of molar mass, especially in <a href="/wiki/Biochemistry" title="Biochemistry">biochemistry</a>, with the definition 1 Da = 1 g/mol, despite the fact that it is strictly a unit of mass (1 Da = 1 u = 1.660 538 921(73)×10<sup>−27</sup> kg).<sup class="reference" id="cite_ref-SI_7-0"><a href="#cite_note-SI-7">[7]</a></sup><sup class="reference" id="cite_ref-CODATA2010_3-1"><a href="#cite_note-CODATA2010-3">[3]</a></sup>
+</p><p><b>Gram atomic mass</b> is another term for the mass, in grams, of one mole of atoms of that element. "Gram atom" is a former term for a mole.
+</p><p><b>Molecular weight</b> (M.W.) is an older term for what is now more correctly called the <b>relative molar mass</b> (<i>M</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">r</sub></span>).<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> This is a <a href="/wiki/Dimension" title="Dimension">dimensionless</a> quantity (i.e., a pure number, without units) equal to the molar mass divided by the <a href="/wiki/Molar_mass_constant" title="Molar mass constant">molar mass constant</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Molecular_mass">Molecular mass</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=5" title="Edit section: Molecular mass">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Molecular_mass" title="Molecular mass">Molecular mass</a></div>
+<p>The molecular mass (<i>m</i>) is the mass of a given molecule: it is measured in <a class="mw-redirect" href="/wiki/Atomic_mass_unit" title="Atomic mass unit">atomic mass units</a> (amu) or <a class="mw-redirect" href="/wiki/Dalton_(unit)" title="Dalton (unit)">daltons</a> (Da).<sup class="reference" id="cite_ref-SI_7-1"><a href="#cite_note-SI-7">[7]</a></sup> Different molecules of the same compound may have different molecular masses because they contain different <a href="/wiki/Isotope" title="Isotope">isotopes</a> of an element. The molar mass is a measure of the average molecular mass of all the molecules in a sample, and is usually the more appropriate measure when dealing with macroscopic (weigh-able) quantities of a substance.
+</p><p>Molecular masses are calculated from the <a href="/wiki/Standard_atomic_weight" title="Standard atomic weight">standard atomic weights</a><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> of each <a href="/wiki/Nuclide" title="Nuclide">nuclide</a>, while molar masses are calculated from the <a href="/wiki/Atomic_mass" title="Atomic mass">atomic mass</a> of each <a href="/wiki/Chemical_element" title="Chemical element">element</a>. The atomic mass takes into account the <a href="/wiki/Isotope" title="Isotope">isotopic distribution</a> of the element in a given sample (usually assumed to be "normal"). For example, <a class="mw-redirect" href="/wiki/Water_(molecule)" title="Water (molecule)">water</a> has a molar mass of 18.0153(3) g/mol, but individual water molecules have molecular masses which range between 18.010 564 6863(15) u (<sup>1</sup>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span><sup>16</sup>O) and 22.027 7364(9) u (D<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span><sup>18</sup>O).
+</p><p>The distinction between molar mass and molecular mass is important because relative molecular masses can be measured directly by <a href="/wiki/Mass_spectrometry" title="Mass spectrometry">mass spectrometry</a>, often to a precision of a few <a class="mw-redirect" href="/wiki/Part_per_million" title="Part per million">parts per million</a>. This is accurate enough to directly determine the <a href="/wiki/Chemical_formula" title="Chemical formula">chemical formula</a> of a molecule.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h3><span class="mw-headline" id="DNA_synthesis_usage">DNA synthesis usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=6" title="Edit section: DNA synthesis usage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Molar_mass&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The term <b>formula weight</b> (F.W.) has a specific meaning when used in the context of DNA synthesis: whereas an individual <a href="/wiki/Phosphoramidite" title="Phosphoramidite">phosphoramidite</a> nucleobase to be added to a DNA polymer has protecting groups and has its <i>molecular weight</i> quoted including these groups, the amount of molecular weight that is ultimately added by this nucleobase to a DNA polymer is referred to as the nucleobase's <i>formula weight</i> (i.e., the molecular weight of this nucleobase within the DNA polymer, minus protecting groups).
+</p>
+<h2><span class="mw-headline" id="Precision_and_uncertainties">Precision and uncertainties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=7" title="Edit section: Precision and uncertainties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The precision to which a molar mass is known depends on the precision of the <a href="/wiki/Atomic_mass" title="Atomic mass">atomic masses</a> from which it was calculated. Most atomic masses are known to a precision of at least one part in ten-thousand, often much better<sup class="reference" id="cite_ref-AtWt_2-1"><a href="#cite_note-AtWt-2">[2]</a></sup> (the atomic mass of <a href="/wiki/Lithium" title="Lithium">lithium</a> is a notable, and serious,<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> exception). This is adequate for almost all normal uses in chemistry: it is more precise than most <a class="mw-redirect" href="/wiki/Chemical_analysis" title="Chemical analysis">chemical analyses</a>, and exceeds the purity of most laboratory reagents.
+</p><p>The precision of atomic masses, and hence of molar masses, is limited by the knowledge of the <a href="/wiki/Isotope" title="Isotope">isotopic distribution</a> of the element. If a more accurate value of the molar mass is required, it is necessary to determine the isotopic distribution of the sample in question, which may be different from the standard distribution used to calculate the standard atomic mass. The isotopic distributions of the different elements in a sample are not necessarily independent of one another: for example, a sample which has been <a href="/wiki/Distillation" title="Distillation">distilled</a> will be <a class="mw-redirect" href="/wiki/Isotopic_enrichment" title="Isotopic enrichment">enriched</a> in the lighter <a href="/wiki/Isotope" title="Isotope">isotopes</a> of all the elements present. This complicates the calculation of the <a class="mw-redirect" href="/wiki/Standard_uncertainty" title="Standard uncertainty">standard uncertainty</a> in the molar mass.
+</p><p>A useful convention for normal laboratory work is to quote molar masses to two <a class="mw-redirect" href="/wiki/Decimal_place" title="Decimal place">decimal places</a> for all calculations. This is more accurate than is usually required, but avoids <a class="mw-redirect" href="/wiki/Rounding_error" title="Rounding error">rounding errors</a> during calculations. When the molar mass is greater than 1000 g/mol, it is rarely appropriate to use more than one decimal place. These conventions are followed in most tabulated values of molar masses.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Measurement">Measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=8" title="Edit section: Measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Molar masses are almost never measured directly. They may be calculated from standard atomic masses, and are often listed in chemical catalogues and on <a href="/wiki/Safety_data_sheet" title="Safety data sheet">safety data sheets</a> (SDS). Molar masses typically vary between:
+</p>
+<dl><dd>1–238 g/mol for atoms of naturally occurring elements;</dd>
+<dd>10–1000 g/mol for <a href="/wiki/Small_molecule" title="Small molecule">simple chemical compounds</a>;</dd>
+<dd>1000–5,000,000 g/mol for <a href="/wiki/Polymer" title="Polymer">polymers</a>, <a href="/wiki/Protein" title="Protein">proteins</a>, <a href="/wiki/DNA" title="DNA">DNA</a> fragments, etc.</dd></dl>
+<p>While molar masses are almost always, in practice, calculated from atomic weights, they can also be measured in certain cases. Such measurements are much less precise than modern <a href="/wiki/Mass_spectrometry" title="Mass spectrometry">mass spectrometric</a> measurements of atomic weights and molecular masses, and are of mostly historical interest. All of the procedures rely on <a class="mw-redirect" href="/wiki/Colligative_property" title="Colligative property">colligative properties</a>, and any <a href="/wiki/Dissociation_(chemistry)" title="Dissociation (chemistry)">dissociation</a> of the compound must be taken into account.
+</p>
+<h3><span class="mw-headline" id="Vapour_density">Vapour density</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=9" title="Edit section: Vapour density">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Vapour_density" title="Vapour density">Vapour density</a></div>
+<p>The measurement of molar mass by vapour density relies on the principle, first enunciated by <a href="/wiki/Amedeo_Avogadro" title="Amedeo Avogadro">Amedeo Avogadro</a>, that equal volumes of gases under identical conditions contain equal numbers of particles. This principle is included in the <a class="mw-redirect" href="/wiki/Ideal_gas_equation" title="Ideal gas equation">ideal gas equation</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle pV=nRT\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle pV=nRT\ }</annotation>
+</semantics>
+</math></span><img alt="pV=nRT\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9e38f794cfe135492cd924c645834854b5d0b293" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:11.52ex; height:2.509ex;"/></span></dd></dl>
+<p>where <i>n</i> is the <a href="/wiki/Amount_of_substance" title="Amount of substance">amount of substance</a>. The vapour density (ρ) is given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \rho ={{nM} \over {V}}.\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ρ<!-- ρ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mi>M</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho ={{nM} \over {V}}.\ }</annotation>
+</semantics>
+</math></span><img alt="\rho ={{nM} \over {V}}.\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e967f8c22de4e30fca7ec6ce0136f508dbbdb27" style="vertical-align: -2.005ex; width:10.588ex; height:5.343ex;"/></span></dd></dl>
+<p>Combining these two equations gives an expression for the molar mass in terms of the vapour density for conditions of known <a href="/wiki/Pressure" title="Pressure">pressure</a> and <a href="/wiki/Temperature" title="Temperature">temperature</a>.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M={{RT\rho } \over {p}}\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>R</mi>
+<mi>T</mi>
+<mi>ρ<!-- ρ --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M={{RT\rho } \over {p}}\ }</annotation>
+</semantics>
+</math></span><img alt="M={{RT\rho } \over {p}}\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/42638770e81d560347dcf33fde247fde230f3865" style="vertical-align: -2.338ex; width:11.56ex; height:5.843ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="Freezing-point_depression">Freezing-point depression</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=10" title="Edit section: Freezing-point depression">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Freezing-point_depression" title="Freezing-point depression">Freezing-point depression</a></div>
+<p>The <a class="mw-redirect" href="/wiki/Freezing_point" title="Freezing point">freezing point</a> of a <a href="/wiki/Solution" title="Solution">solution</a> is lower than that of the pure <a href="/wiki/Solvent" title="Solvent">solvent</a>, and the freezing-point depression (Δ<i>T</i>) is directly proportional to the <a class="mw-redirect" href="/wiki/Amount_concentration" title="Amount concentration">amount concentration</a> for dilute solutions. When the composition is expressed as a <a href="/wiki/Molality" title="Molality">molality</a>, the proportionality constant is known as the <a href="/wiki/Cryoscopic_constant" title="Cryoscopic constant">cryoscopic constant</a> (<i>K</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">f</sub></span>) and is characteristic for each solvent. If <i>w</i> represents the <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a> of the <a href="/wiki/Solution" title="Solution">solute</a> in solution, and assuming no dissociation of the solute, the molar mass is given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M={{wK_{f}} \over {\Delta T}}.\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>f</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M={{wK_{f}} \over {\Delta T}}.\ }</annotation>
+</semantics>
+</math></span><img alt="M={{wK_{f}} \over {\Delta T}}.\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b0661fd6fd5372d8a137e5db4245161a1652ee0" style="vertical-align: -2.005ex; width:12.765ex; height:5.676ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="Boiling-point_elevation">Boiling-point elevation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=11" title="Edit section: Boiling-point elevation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Boiling-point_elevation" title="Boiling-point elevation">Boiling-point elevation</a></div>
+<p>The <a href="/wiki/Boiling_point" title="Boiling point">boiling point</a> of a <a href="/wiki/Solution" title="Solution">solution</a> of an involatile <a href="/wiki/Solution" title="Solution">solute</a> is higher than that of the pure <a href="/wiki/Solvent" title="Solvent">solvent</a>, and the boiling-point elevation (Δ<i>T</i>) is directly proportional to the <a class="mw-redirect" href="/wiki/Amount_concentration" title="Amount concentration">amount concentration</a> for dilute solutions. When the composition is expressed as a <a href="/wiki/Molality" title="Molality">molality</a>, the proportionality constant is known as the <a href="/wiki/Ebullioscopic_constant" title="Ebullioscopic constant">ebullioscopic constant</a> (<i>K</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">b</sub></span>) and is characteristic for each solvent. If <i>w</i> represents the <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a> of the solute in solution, and assuming no dissociation of the solute, the molar mass is given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle M={{wK_{b}} \over {\Delta T}}.\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M={{wK_{b}} \over {\Delta T}}.\ }</annotation>
+</semantics>
+</math></span><img alt="M={{wK_{b}} \over {\Delta T}}.\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/08257a176a5e44810a286d1395ec9fdea0d86909" style="vertical-align: -2.005ex; width:12.566ex; height:5.343ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molar_mass&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://hox.io/molcalc" rel="nofollow">HTML5 Molar Mass Calculator</a> web and mobile application.</li>
+<li><a class="external text" href="http://www.chem4free.info/calculators/molarmass.htm" rel="nofollow">Online Molar Mass Calculator</a> with the uncertainty of <i>M</i> and all the calculations shown</li>
+<li><a class="external text" href="http://www.webqc.org/mmcalc.php" rel="nofollow">Molar Mass Calculator</a> Online Molar Mass and Elemental Composition Calculator</li>
+<li><a class="external text" href="http://chemistry-in-excel.jimdo.com" rel="nofollow">Stoichiometry Add-In for Microsoft Excel</a> for calculation of molecular weights, reaction coefficients and stoichiometry. It includes both average atomic weights and isotopic weights.</li>
+<li><a class="external text" href="http://www.physics-chemistry-class.com/chemistry/molar-mass.html" rel="nofollow">Molar mass: chemistry second-level course</a>.</li></ul>
+<div aria-labelledby="Mole_concepts" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Mole_concepts" title="Template:Mole concepts"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mole_concepts" title="Template talk:Mole concepts"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mole_concepts&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Mole_concepts" style="font-size:114%;margin:0 4em"><a href="/wiki/Mole_(unit)" title="Mole (unit)">Mole</a> concepts</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Physical quantities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mass_concentration_(chemistry)" title="Mass concentration (chemistry)">Mass concentration</a></li>
+<li><a href="/wiki/Molar_concentration" title="Molar concentration">Molar concentration</a></li>
+<li><a href="/wiki/Molality" title="Molality">Molality</a></li>
+<li><a href="/wiki/Mass" title="Mass">Mass</a></li>
+<li><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></li>
+<li><a href="/wiki/Density" title="Density">Density</a></li>
+<li><a href="/wiki/Mole_fraction" title="Mole fraction">Mole fraction</a></li>
+<li><a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">Mass fraction</a></li>
+<li><a href="/wiki/Amount_of_substance" title="Amount of substance">Amount of substance</a></li>
+<li><a class="mw-selflink selflink">Molar mass</a></li>
+<li><a href="/wiki/Atomic_mass" title="Atomic mass">Atomic mass</a></li>
+<li><a href="/wiki/Particle_number" title="Particle number">Particle number</a></li>
+<li><a href="/wiki/Avogadro_constant" title="Avogadro constant">Avogadro constant</a></li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a></li>
+<li><a class="mw-redirect" href="/wiki/Kelvin_temperature" title="Kelvin temperature">Kelvin temperature</a></li>
+<li><a href="/wiki/Gas_constant" title="Gas constant">Gas constant</a></li>
+<li><a href="/wiki/Molar_volume" title="Molar volume">Molar volume</a></li>
+<li><a href="/wiki/Specific_volume" title="Specific volume">Specific volume</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Laws</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charles%27s_law" title="Charles's law">Charles's law</a></li>
+<li><a href="/wiki/Boyle%27s_law" title="Boyle's law">Boyle's law</a></li>
+<li><a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">Gay-Lussac's law</a></li>
+<li><a href="/wiki/Combined_gas_law" title="Combined gas law">Combined gas law</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20181026160716
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.540 seconds
+Preprocessor visited node count: 1583/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 49900/2097152 bytes
+Template argument size: 520/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31632/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 6.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  414.307      1 -total
+ 52.90%  219.148      1 Template:Reflist
+ 18.68%   77.385      2 Template:Citation
+ 18.07%   74.849      1 Template:AtWt_2005
+ 13.57%   56.205      1 Template:Val
+ 12.24%   50.715      1 Template:GreenBookRef
+ 11.43%   47.355      1 Template:ISBN
+ 10.41%   43.129      1 Template:Unreferenced_section
+  9.62%   39.868      1 Template:Infobox_physical_quantity
+  9.19%   38.087      1 Template:Unreferenced
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:144241-0!canonical!math=5 and timestamp 20181026160715 and revision id 865344042
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Molar_mass&amp;oldid=865344042">https://en.wikipedia.org/w/index.php?title=Molar_mass&amp;oldid=865344042</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Molar_quantities" title="Category:Molar quantities">Molar quantities</a></li><li><a href="/wiki/Category:Mass" title="Category:Mass">Mass</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2008" title="Category:Articles needing additional references from December 2008">Articles needing additional references from December 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Molar+mass" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Molar+mass" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Molar_mass" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Molar_mass" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Molar_mass">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Molar_mass&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Molar_mass&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Molar_mass" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Molar_mass" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Molar_mass&amp;oldid=865344042" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Molar_mass&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q145623" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Molar_mass&amp;id=865344042" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Molar+mass">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Molar+mass&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Molar_mass&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Mol%C3%AAre_massa" hreflang="af" lang="af" title="Molêre massa – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%AA%D9%84%D8%A9_%D9%85%D9%88%D9%84%D9%8A%D8%A9" hreflang="ar" lang="ar" title="كتلة مولية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Masa_molar" hreflang="an" lang="an" title="Masa molar – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Molyar_k%C3%BCtl%C9%99" hreflang="az" lang="az" title="Molyar kütlə – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D9%85%D9%88%D9%84_%D8%AC%D8%B1%D9%85%DB%8C" hreflang="azb" lang="azb" title="مول جرمی – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D0%B0" hreflang="be" lang="be" title="Малярная маса – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D0%B0" hreflang="be-tarask" lang="be-tarask" title="Малярная маса – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B0%D1%80%D0%BD%D0%B0_%D0%BC%D0%B0%D1%81%D0%B0" hreflang="bg" lang="bg" title="Моларна маса – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Molarna_masa" hreflang="bs" lang="bs" title="Molarna masa – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Massa_molar" hreflang="ca" lang="ca" title="Massa molar – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mol%C3%A1rn%C3%AD_hmotnost" hreflang="cs" lang="cs" title="Molární hmotnost – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Molv%C3%A6gt" hreflang="da" lang="da" title="Molvægt – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Molare_Masse" hreflang="de" lang="de" title="Molare Masse – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Molaarmass" hreflang="et" lang="et" title="Molaarmass – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Masa_molar" hreflang="es" lang="es" title="Masa molar – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Moluma_maso" hreflang="eo" lang="eo" title="Moluma maso – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Masa_molar" hreflang="eu" lang="eu" title="Masa molar – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B1%D9%85_%D9%85%D9%88%D9%84%DB%8C" hreflang="fa" lang="fa" title="جرم مولی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Masse_molaire" hreflang="fr" lang="fr" title="Masse molaire – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AA%B0_%EC%A7%88%EB%9F%89" hreflang="ko" lang="ko" title="몰 질량 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%B8%D5%AC%D5%A1%D5%B5%D5%AB%D5%B6_%D5%A6%D5%A1%D5%B6%D5%A3%D5%BE%D5%A1%D5%AE" hreflang="hy" lang="hy" title="Մոլային զանգված – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8B%E0%A4%B2%E0%A4%B0_%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%BE%E0%A4%A8" hreflang="hi" lang="hi" title="मोलर द्रव्यमान – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Molna_masa" hreflang="hr" lang="hr" title="Molna masa – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Massa_molar" hreflang="id" lang="id" title="Massa molar – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Massa_molar" hreflang="ia" lang="ia" title="Massa molar – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Massa_molare" hreflang="it" lang="it" title="Massa molare – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%9D%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9B%E1%83%90%E1%83%A1%E1%83%90" hreflang="ka" lang="ka" title="მოლური მასა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D1%8C%D0%B4%D1%96%D0%BA_%D0%BC%D0%B0%D1%81%D1%81%D0%B0" hreflang="kk" lang="kk" title="Мольдік масса – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Mas_mol%C3%A8" hreflang="ht" lang="ht" title="Mas molè – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D1%8F%D1%80%D0%B4%D1%8B%D0%BA_%D0%BC%D0%B0%D1%81%D1%81%D0%B0" hreflang="ky" lang="ky" title="Молярдык масса – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Massa_molaris" hreflang="la" lang="la" title="Massa molaris – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Molmasa" hreflang="lv" lang="lv" title="Molmasa – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Molio_mas%C4%97" hreflang="lt" lang="lt" title="Molio masė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Mol%C3%A1ris_t%C3%B6meg" hreflang="hu" lang="hu" title="Moláris tömeg – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B0%D1%80%D0%BD%D0%B0_%D0%BC%D0%B0%D1%81%D0%B0" hreflang="mk" lang="mk" title="Моларна маса – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B5%8B%E0%B4%B3%E0%B4%BE%E0%B5%BC_%E0%B4%AE%E0%B4%BE%E0%B4%B8%E0%B5%8D" hreflang="ml" lang="ml" title="മോളാർ മാസ് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Jisim_molar" hreflang="ms" lang="ms" title="Jisim molar – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Molaire_massa" hreflang="nl" lang="nl" title="Molaire massa – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E8%B3%AA%E9%87%8F" hreflang="ja" lang="ja" title="モル質量 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Molar_masse" hreflang="no" lang="no" title="Molar masse – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Molmasse" hreflang="nn" lang="nn" title="Molmasse – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Massa_molara" hreflang="oc" lang="oc" title="Massa molara – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Molyar_massa" hreflang="uz" lang="uz" title="Molyar massa – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AE%E0%A9%8B%E0%A8%B2%E0%A8%B0_%E0%A8%AA%E0%A9%81%E0%A9%B0%E0%A8%9C" hreflang="pa" lang="pa" title="ਮੋਲਰ ਪੁੰਜ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Masa_molowa" hreflang="pl" lang="pl" title="Masa molowa – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Massa_molar" hreflang="pt" lang="pt" title="Massa molar – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Mas%C4%83_molar%C4%83" hreflang="ro" lang="ro" title="Masă molară – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D1%81%D0%B0" hreflang="ru" lang="ru" title="Молярная масса – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Molar_mass" hreflang="sco" lang="sco" title="Molar mass – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Masa_molare" hreflang="sq" lang="sq" title="Masa molare – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Molar_mass" hreflang="en-simple" lang="en-simple" title="Molar mass – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Mol%C3%A1rna_hmotnos%C5%A5" hreflang="sk" lang="sk" title="Molárna hmotnosť – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Molska_masa" hreflang="sl" lang="sl" title="Molska masa – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%B0%D1%80%D0%BD%D0%B0_%D0%BC%D0%B0%D1%81%D0%B0" hreflang="sr" lang="sr" title="Моларна маса – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Molarna_masa" hreflang="sh" lang="sh" title="Molarna masa – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Moolimassa" hreflang="fi" lang="fi" title="Moolimassa – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Molmassa" hreflang="sv" lang="sv" title="Molmassa – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Bigat_molar" hreflang="tl" lang="tl" title="Bigat molar – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%8E%E0%AE%9F%E0%AF%88" hreflang="ta" lang="ta" title="வாய்ப்பாட்டு எடை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%B0_%D0%BC%D0%B0%D1%81%D0%B0" hreflang="uk" lang="uk" title="Молярна маса – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D9%88%D9%84%D8%B1_%DA%A9%D9%85%DB%8C%D8%AA" hreflang="ur" lang="ur" title="مولر کمیت – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Kh%E1%BB%91i_l%C6%B0%E1%BB%A3ng_mol" hreflang="vi" lang="vi" title="Khối lượng mol – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E6%91%A9%E7%88%BE%E8%B3%AA%E9%87%8F" hreflang="lzh" lang="lzh" title="摩爾質量 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%E8%B4%A8%E9%87%8F" hreflang="wuu" lang="wuu" title="摩尔质量 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%91%A9%E7%88%BE%E8%B3%AA%E9%87%8F" hreflang="yue" lang="yue" title="摩爾質量 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%E8%B4%A8%E9%87%8F" hreflang="zh" lang="zh" title="摩尔质量 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q145623#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 23 October 2018, at 10:19<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Molar_mass&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.540","ppvisitednodes":{"value":1583,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":49900,"limit":2097152},"templateargumentsize":{"value":520,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31632,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  414.307      1 -total"," 52.90%  219.148      1 Template:Reflist"," 18.68%   77.385      2 Template:Citation"," 18.07%   74.849      1 Template:AtWt_2005"," 13.57%   56.205      1 Template:Val"," 12.24%   50.715      1 Template:GreenBookRef"," 11.43%   47.355      1 Template:ISBN"," 10.41%   43.129      1 Template:Unreferenced_section","  9.62%   39.868      1 Template:Infobox_physical_quantity","  9.19%   38.087      1 Template:Unreferenced"]},"scribunto":{"limitreport-timeusage":{"value":"0.172","limit":"10.000"},"limitreport-memusage":{"value":6677885,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20181026160716","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1330"});});</script>
+</body>
+</html>

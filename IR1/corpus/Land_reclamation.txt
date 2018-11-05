@@ -1,0 +1,550 @@
+https://en.wikipedia.org/wiki/Land_reclamation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Land reclamation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Land_reclamation","wgTitle":"Land reclamation","wgCurRevisionId":865114171,"wgRevisionId":865114171,"wgArticleId":579223,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Archived copy as title","CS1 errors: external links","Articles containing potentially dated statements from 2003","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from February 2018","Land reclamation","Coastal construction","Riparian zone","Environmental issues with water","Environmental soil science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Land_reclamation","wgRelevantArticleId":579223,"wgRequestId":"W9bpywpAAD0AAGPu9GgAAABG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1130322","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Perth1964.jpg/1200px-Perth1964.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Land_reclamation" rel="alternate"/>
+<link href="/w/index.php?title=Land_reclamation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Land_reclamation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Land_reclamation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Land_reclamation rootpage-Land_reclamation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Land reclamation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about land reclaimed from ocean, riverbeds, or lake beds. For land reclaimed from the desert, see <a class="mw-redirect" href="/wiki/Dedesertification" title="Dedesertification">Dedesertification</a>. For the disposal of waste material, see <a href="/wiki/Landfill" title="Landfill">landfill</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">"Reclaimed" redirects here. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Reclaim_(disambiguation)" title="Reclaim (disambiguation)">Reclaim</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Perth1964.jpg"><img alt="" class="thumbimage" data-file-height="1026" data-file-width="1526" height="148" src="//upload.wikimedia.org/wikipedia/en/thumb/7/76/Perth1964.jpg/220px-Perth1964.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/76/Perth1964.jpg/330px-Perth1964.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/76/Perth1964.jpg/440px-Perth1964.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Perth1964.jpg" title="Enlarge"></a></div>Reclaiming in Perth, Australia 1964</div></div></div>
+<p><b>Land reclamation</b>, usually known as <b>reclamation</b>, and also known as <b>land fill</b> (not to be confused with a <a href="/wiki/Landfill" title="Landfill">landfill</a>), is the process of creating new <a class="mw-redirect" href="/wiki/Terrestrial_ecoregion" title="Terrestrial ecoregion">land</a> from <a href="/wiki/Ocean" title="Ocean">ocean</a>, <a href="/wiki/Stream_bed" title="Stream bed">riverbeds</a>, or <a class="mw-redirect" href="/wiki/Lake_beds" title="Lake beds">lake beds</a>. The land reclaimed is known as <b>reclamation ground</b> or <b>land fill</b>.
+</p><p>In a number of other jurisdictions, including parts of the <a href="/wiki/United_States" title="United States">United States</a>,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> the term "reclamation" can refer to returning disturbed lands to an improved state. In <a href="/wiki/Alberta" title="Alberta">Alberta</a>, Canada, for example, reclamation is defined by the provincial government as "The process of reconverting disturbed land to its former or other productive uses."<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> In <a href="/wiki/Oceania" title="Oceania">Oceania</a> it is frequently referred to as <a href="/wiki/Land_rehabilitation" title="Land rehabilitation">land rehabilitation</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Methods"><span class="tocnumber">1</span> <span class="toctext">Methods</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Habitation"><span class="tocnumber">2</span> <span class="toctext">Habitation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Asia"><span class="tocnumber">2.1</span> <span class="toctext">Asia</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Europe"><span class="tocnumber">2.2</span> <span class="toctext">Europe</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Africa"><span class="tocnumber">2.3</span> <span class="toctext">Africa</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Americas"><span class="tocnumber">2.4</span> <span class="toctext">Americas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Agriculture"><span class="tocnumber">3</span> <span class="toctext">Agriculture</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Beach_restoration"><span class="tocnumber">4</span> <span class="toctext">Beach restoration</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Landfill"><span class="tocnumber">5</span> <span class="toctext">Landfill</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Environmental_impact"><span class="tocnumber">6</span> <span class="toctext">Environmental impact</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Environmental_legislation"><span class="tocnumber">6.1</span> <span class="toctext">Environmental legislation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Dangers"><span class="tocnumber">7</span> <span class="toctext">Dangers</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Land_amounts_added"><span class="tocnumber">8</span> <span class="toctext">Land amounts added</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Notes"><span class="tocnumber">10</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links_2"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Methods">Methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=1" title="Edit section: Methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Land reclamation can be achieved with a number of different methods. The most simple method involves simply filling the area with large amounts of heavy rock and/or <a href="/wiki/Cement" title="Cement">cement</a>, then filling with clay and dirt until the desired height is reached. The process is called "infilling"<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> and the material used to fill the space is generally called "infill".<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Draining of submerged <a href="/wiki/Wetland" title="Wetland">wetlands</a> is often used to reclaim land for <a href="/wiki/Agriculture" title="Agriculture">agricultural</a> use. <a href="/wiki/Deep_cement_mixing" title="Deep cement mixing">Deep cement mixing</a> is used typically in situations in which the material displaced by either <a href="/wiki/Dredging" title="Dredging">dredging</a> or draining may be contaminated and hence needs to be contained. Land dredging is also another method of land reclamation. It is the removal of sediments and debris from the bottom of a body of water. It is commonly used for maintaining reclaimed land masses as sedimentation, a natural process, fills channels and harbors naturally.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Habitation">Habitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=2" title="Edit section: Habitation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:East_Coast_Park_Panorama,_Mar_06.jpg"><img alt="" class="thumbimage" data-file-height="1477" data-file-width="3351" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/East_Coast_Park_Panorama%2C_Mar_06.jpg/220px-East_Coast_Park_Panorama%2C_Mar_06.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/East_Coast_Park_Panorama%2C_Mar_06.jpg/330px-East_Coast_Park_Panorama%2C_Mar_06.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/East_Coast_Park_Panorama%2C_Mar_06.jpg/440px-East_Coast_Park_Panorama%2C_Mar_06.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:East_Coast_Park_Panorama,_Mar_06.jpg" title="Enlarge"></a></div><a href="/wiki/East_Coast_Park" title="East Coast Park">East Coast Park</a> in Singapore was built on reclaimed land with a man-made <a href="/wiki/Beach" title="Beach">beach</a>.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Satellite_image_of_Flevopolder,_Netherlands_(5.48E_52.43N).png"><img alt="" class="thumbimage" data-file-height="702" data-file-width="1024" height="151" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Satellite_image_of_Flevopolder%2C_Netherlands_%285.48E_52.43N%29.png/220px-Satellite_image_of_Flevopolder%2C_Netherlands_%285.48E_52.43N%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Satellite_image_of_Flevopolder%2C_Netherlands_%285.48E_52.43N%29.png/330px-Satellite_image_of_Flevopolder%2C_Netherlands_%285.48E_52.43N%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Satellite_image_of_Flevopolder%2C_Netherlands_%285.48E_52.43N%29.png/440px-Satellite_image_of_Flevopolder%2C_Netherlands_%285.48E_52.43N%29.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Satellite_image_of_Flevopolder,_Netherlands_(5.48E_52.43N).png" title="Enlarge"></a></div>The <a href="/wiki/Flevopolder" title="Flevopolder">Flevopolder</a> in the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, reclaimed from the <a href="/wiki/IJsselmeer" title="IJsselmeer">IJsselmeer</a>, is the largest reclaimed <a href="/wiki/Artificial_island" title="Artificial island">artificial island</a> in the world.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:View_from_Nokia_Beirut.jpg"><img alt="" class="thumbimage" data-file-height="2248" data-file-width="4000" height="124" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_from_Nokia_Beirut.jpg/220px-View_from_Nokia_Beirut.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_from_Nokia_Beirut.jpg/330px-View_from_Nokia_Beirut.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_from_Nokia_Beirut.jpg/440px-View_from_Nokia_Beirut.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:View_from_Nokia_Beirut.jpg" title="Enlarge"></a></div>Land Reclamation in the <a href="/wiki/Beirut_Central_District" title="Beirut Central District">Beirut Central District</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fontvieille_harbour.JPG"><img alt="" class="thumbimage" data-file-height="768" data-file-width="1024" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Fontvieille_harbour.JPG/220px-Fontvieille_harbour.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Fontvieille_harbour.JPG/330px-Fontvieille_harbour.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Fontvieille_harbour.JPG/440px-Fontvieille_harbour.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Fontvieille_harbour.JPG" title="Enlarge"></a></div>The whole district of <a href="/wiki/Fontvieille,_Monaco" title="Fontvieille, Monaco">Fontvieille</a>, <a href="/wiki/Monaco" title="Monaco">Monaco</a> was reclaimed from the sea</div></div></div>
+<p>Instances where the creation of new land was for the need of <a href="/wiki/Human_behavior" title="Human behavior">human activities.</a>
+</p><p>Notable examples include:
+</p>
+<h3><span class="mw-headline" id="Asia">Asia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=3" title="Edit section: Asia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Some of the coastlines of <a href="/wiki/Saadiyat_Island" title="Saadiyat Island">Saadiyat Island</a>, in the UAE. Used for commercial purposes.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></li>
+<li>Much of the coastlines of <a href="/wiki/Mumbai" title="Mumbai">Mumbai</a>, <a href="/wiki/India" title="India">India</a>. It took over 150 years to join the original <a href="/wiki/Seven_Islands_of_Bombay" title="Seven Islands of Bombay">Seven Islands of Bombay</a>. These seven islands were lush, green, thickly wooded, and dotted with 22 hills, with the <a href="/wiki/Arabian_Sea" title="Arabian Sea">Arabian Sea</a>  washing through them at high tide. The original <a href="/wiki/Isle_of_Bombay" title="Isle of Bombay">Isle of Bombay</a> was only 24 km long and 4 km wide from Dongri to <a href="/wiki/Malabar_Hill" title="Malabar Hill">Malabar Hill</a> (at its broadest point) and the other six were  <a href="/wiki/Colaba" title="Colaba">Colaba</a>, <a href="/wiki/Old_Woman%27s_Island" title="Old Woman's Island">Old Woman's Island</a>, <a href="/wiki/Mahim" title="Mahim">Mahim</a>, <a href="/wiki/Parel" title="Parel">Parel</a>, <a href="/wiki/Worli" title="Worli">Worli</a> and <a class="mw-redirect" href="/wiki/Mazgaon" title="Mazgaon">Mazgaon</a>. (See also <a href="/wiki/Hornby_Vellard" title="Hornby Vellard">Hornby Vellard</a>).<sup class="reference" id="cite_ref-Mumbai_8-0"><a href="#cite_note-Mumbai-8">[8]</a></sup></li>
+<li>Much of the coastlines of <a href="/wiki/Mainland_China" title="Mainland China">Mainland China</a>, <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>, <a href="/wiki/North_Korea" title="North Korea">North Korea</a> and <a href="/wiki/South_Korea" title="South Korea">South Korea</a>. It is estimated that nearly 65% of <a href="/wiki/Mudflat" title="Mudflat">tidal flats</a> around the <a href="/wiki/Yellow_Sea" title="Yellow Sea">Yellow Sea</a> have been reclaimed.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+<li>Inland lowlands in the <a href="/wiki/Yangtze" title="Yangtze">Yangtze</a> valley, China, including the areas of important cities like <a href="/wiki/Shanghai" title="Shanghai">Shanghai</a> and <a href="/wiki/Wuhan" title="Wuhan">Wuhan</a>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></li>
+<li>Much of the coastline of <a href="/wiki/Karachi" title="Karachi">Karachi</a>, <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>.</li>
+<li>The shore of <a href="/wiki/Jakarta_Bay" title="Jakarta Bay">Jakarta Bay</a>. Land is usually reclaimed to create new housing areas and real estate properties, for the rapidly expanding city of <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>. So far, the largest reclamation project in the city is the creation of "Golf Island", which is still ongoing.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></li>
+<li>A part of the <a href="/wiki/Hamad_International_Airport" title="Hamad International Airport">Hamad International Airport</a> in <a href="/wiki/Qatar" title="Qatar">Qatar</a>, around 36 square kilometres (14 sq mi).</li>
+<li>The entire island of <a href="/wiki/The_Pearl-Qatar" title="The Pearl-Qatar">The Pearl-Qatar</a> situated in <a href="/wiki/West_Bay_(Doha)" title="West Bay (Doha)">West Bay (Doha)</a>, <a href="/wiki/Qatar" title="Qatar">Qatar</a>.</li>
+<li><a href="/wiki/Haikou_Bay" title="Haikou Bay">Haikou Bay</a>, <a class="mw-redirect" href="/wiki/Hainan_Province" title="Hainan Province">Hainan Province</a>, China, where the west side of <a href="/wiki/Haidian_Island" title="Haidian Island">Haidian Island</a> is being extended, and off the coast of <a href="/wiki/Haikou" title="Haikou">Haikou</a> City, where new land for a marina is being created.</li>
+<li>The Cotai Strip in <a href="/wiki/Macau" title="Macau">Macau</a>, where most of the major casinos are located</li>
+<li><a class="mw-redirect" href="/wiki/Ch%C5%ABbu_Centrair_International_Airport" title="Chūbu Centrair International Airport">Nagoya Centrair Airport</a>, Japan</li>
+<li><a href="/wiki/Incheon_International_Airport" title="Incheon International Airport">Incheon International Airport</a>, Korea</li>
+<li><a href="/wiki/Beirut_Central_District" title="Beirut Central District">Beirut Central District</a>, <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a></li>
+<li>The southern <a href="/wiki/China" title="China">Chinese</a> city of <a href="/wiki/Shenzhen" title="Shenzhen">Shenzhen</a></li>
+<li>The shore of <a href="/wiki/Manila_Bay" title="Manila Bay">Manila Bay</a> in the <a href="/wiki/Philippines" title="Philippines">Philippines</a>, especially along <a href="/wiki/Metro_Manila" title="Metro Manila">Metro Manila</a>, has attracted major developments such as the <a href="/wiki/SM_Mall_of_Asia" title="SM Mall of Asia">Mall of Asia</a> Complex, <a href="/wiki/Entertainment_City" title="Entertainment City">Entertainment City</a> and the <a href="/wiki/Cultural_Center_of_the_Philippines_Complex" title="Cultural Center of the Philippines Complex">Cultural Center of the Philippines Complex</a>.</li>
+<li>The <a href="/wiki/City-state" title="City-state">city-state</a> of <a href="/wiki/Singapore" title="Singapore">Singapore</a>, where land is in short supply, is also famous for its efforts on land reclamation.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></li>
+<li>The <a href="/wiki/Palm_Islands" title="Palm Islands">Palm Islands</a>, <a href="/wiki/The_World_(archipelago)" title="The World (archipelago)">The World</a> and hotel <a class="mw-redirect" href="/wiki/Burj_al-Arab" title="Burj al-Arab">Burj al-Arab</a> off Dubai in the United Arab Emirates</li>
+<li>The <a href="/wiki/Yas_Island" title="Yas Island">Yas Island</a> in <a href="/wiki/Abu_Dhabi" title="Abu Dhabi">Abu Dhabi</a>, <a class="mw-redirect" href="/wiki/UAE" title="UAE">UAE</a>.</li>
+<li><a href="/wiki/Hulhumal%C3%A9" title="Hulhumalé">Hulhumalé</a> Island, <a href="/wiki/Maldives" title="Maldives">Maldives</a>. It is one of the six divisions of <a href="/wiki/Mal%C3%A9" title="Malé">Malé</a> City.</li>
+<li><a href="/wiki/Giant_Sea_Wall_Jakarta" title="Giant Sea Wall Jakarta">Giant Sea Wall Jakarta</a></li></ul>
+<h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=4" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Nice_C%C3%B4te_d%27Azur_Airport" title="Nice Côte d'Azur Airport">Airport</a> of  <a href="/wiki/Nice" title="Nice">Nice</a>, <a href="/wiki/France" title="France">France</a></li>
+<li>Large parts of the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></li>
+<li>Almost half of the <a class="mw-redirect" href="/wiki/Ministate" title="Ministate">micronation</a> of <a href="/wiki/Monaco" title="Monaco">Monaco</a></li>
+<li>Parts of <a href="/wiki/Dublin" title="Dublin">Dublin</a>, <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></li>
+<li>Most of <a href="/wiki/Belfast_Harbour" title="Belfast Harbour">Belfast Harbour</a> and areas of <a href="/wiki/Belfast" title="Belfast">Belfast</a>, <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a></li>
+<li>Parts of <a href="/wiki/Saint_Petersburg" title="Saint Petersburg">Saint Petersburg</a>, <a href="/wiki/Russia" title="Russia">Russia</a>, such as the <a href="/wiki/Marine_Facade" title="Marine Facade">Marine Facade</a></li>
+<li><a href="/wiki/Helsinki" title="Helsinki">Helsinki</a> (of which the major part of the city center is built on reclaimed land)</li>
+<li>Barceloneta area, <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>, in <a href="/wiki/Spain" title="Spain">Spain</a></li>
+<li>The port of <a href="/wiki/Zeebrugge" title="Zeebrugge">Zeebrugge</a> in <a href="/wiki/Belgium" title="Belgium">Belgium</a></li>
+<li>The southwestern residential area in <a href="/wiki/Brest,_Belarus" title="Brest, Belarus">Brest, Belarus</a></li>
+<li>Majority of left-bank and some right-bank residential areas of <a href="/wiki/Kiev" title="Kiev">Kiev</a> were built on a reclaimed fens and floodplains of the <a href="/wiki/Dnieper" title="Dnieper">Dnieper</a> river.</li>
+<li>Most of <a href="/wiki/Fontvieille,_Monaco" title="Fontvieille, Monaco">Fontvieille</a>, <a href="/wiki/Monaco" title="Monaco">Monaco</a></li>
+<li>Parts surrounding <a href="/wiki/Port_Hercules" title="Port Hercules">Port Hercules</a> in <a href="/wiki/La_Condamine" title="La Condamine">La Condamine</a>, <a href="/wiki/Monaco" title="Monaco">Monaco</a></li>
+<li>The <a href="/wiki/Genoa_Cristoforo_Colombo_Airport" title="Genoa Cristoforo Colombo Airport">airport</a> peninsula, the industrial area of <a href="/wiki/Cornigliano" title="Cornigliano">Cornigliano</a>, the PSA container terminal and other parts of the <a href="/wiki/Port_of_Genoa" title="Port of Genoa">port</a> in <a href="/wiki/Genoa" title="Genoa">Genoa</a>, <a href="/wiki/Italy" title="Italy">Italy</a></li>
+<li><a href="/wiki/The_Fens" title="The Fens">The Fens</a> in <a href="/wiki/East_Anglia" title="East Anglia">East Anglia</a></li>
+<li><a href="/wiki/Venice" title="Venice">Venice</a>, Italy</li>
+<li>Rione Orsini, part of <a href="/wiki/Borgo_Santa_Lucia" title="Borgo Santa Lucia">Borgo Santa Lucia</a>, <a href="/wiki/Naples" title="Naples">Naples</a></li>
+<li>A big part of <a href="/wiki/Kavala" title="Kavala">Kavala</a>, city in <a href="/wiki/Greece" title="Greece">Greece</a></li>
+<li><a href="/wiki/Fucine_Lake" title="Fucine Lake">Fucine Lake</a>, Italy</li></ul>
+<h3><span class="mw-headline" id="Africa">Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=5" title="Edit section: Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>The <a href="/wiki/Foreshore,_Cape_Town" title="Foreshore, Cape Town">Foreshore</a> in <a href="/wiki/Cape_Town" title="Cape Town">Cape Town</a></li>
+<li>The <a href="/wiki/Hassan_II_Mosque" title="Hassan II Mosque">Hassan II Mosque</a> in <a href="/wiki/Morocco" title="Morocco">Morocco</a> is built on reclaimed land.</li>
+<li>The <a href="/wiki/Eko_Atlantic" title="Eko Atlantic">Eko Atlantic</a> in <a href="/wiki/Lagos" title="Lagos">Lagos</a>, <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a>.</li></ul>
+<h3><span class="mw-headline" id="Americas">Americas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=6" title="Edit section: Americas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Large parts of <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>, most notably several blocks in the new docks area, the entire Flamengo Park and the neighborhood of Urca</li>
+<li>Parts of <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a> (which is partially built on land that was once <a href="/wiki/Swamp" title="Swamp">swamp</a>)</li>
+<li>Parts of <a href="/wiki/Montevideo" title="Montevideo">Montevideo</a>, <a href="/wiki/Uruguay" title="Uruguay">Uruguay</a>, Rambla Sur and several projects still going on in Montevideo's Bay.</li>
+<li>Much of the urbanized area adjacent to <a href="/wiki/San_Francisco_Bay" title="San Francisco Bay">San Francisco Bay</a>, including most of <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>'s waterfront and <a href="/wiki/Financial_District,_San_Francisco" title="Financial District, San Francisco">Financial District</a>, <a href="/wiki/San_Francisco_International_Airport" title="San Francisco International Airport">San Francisco International Airport</a>, the <a href="/wiki/Port_of_Oakland" title="Port of Oakland">Port of Oakland</a>, and large portions of the city of <a href="/wiki/Alameda,_California" title="Alameda, California">Alameda</a> has been reclaimed from the bay.</li>
+<li><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a> (which is situated at the former site of <a href="/wiki/Lake_Texcoco" title="Lake Texcoco">Lake Texcoco</a>); the <a href="/wiki/Chinampa" title="Chinampa">chinampas</a> are a famous example.</li>
+<li>Parts of <a href="/wiki/Panama_City" title="Panama City">Panama City</a> urban and street development are based on reclaimed land, using material extracted from <a href="/wiki/Panama_Canal" title="Panama Canal">Panama Canal</a> excavations.</li>
+<li>The <a href="/wiki/Chicago" title="Chicago">Chicago</a> shoreline</li>
+<li>The <a href="/wiki/Northwestern_University_Lakefill" title="Northwestern University Lakefill">Northwestern University Lakefill</a>, part of the campus of <a href="/wiki/Northwestern_University" title="Northwestern University">Northwestern University</a> in <a href="/wiki/Evanston,_Illinois" title="Evanston, Illinois">Evanston, Illinois</a></li>
+<li><a class="mw-redirect" href="/wiki/Back_Bay,_Boston,_Massachusetts" title="Back Bay, Boston, Massachusetts">Back Bay, Boston, Massachusetts</a></li>
+<li><a href="/wiki/Battery_Park_City" title="Battery Park City">Battery Park City</a>, <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a></li>
+<li><a href="/wiki/Brooklyn_Bridge_Park" title="Brooklyn Bridge Park">Brooklyn Bridge Park</a>, <a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a></li>
+<li><a href="/wiki/Liberty_State_Park" title="Liberty State Park">Liberty State Park</a>, <a href="/wiki/Jersey_City,_New_Jersey" title="Jersey City, New Jersey">Jersey City</a></li>
+<li>The <a href="/wiki/Toronto_Islands" title="Toronto Islands">Toronto Islands</a>, <a href="/wiki/Leslie_Street_Spit" title="Leslie Street Spit">Leslie Street Spit</a>, and the <a href="/wiki/Toronto_waterfront" title="Toronto waterfront">waterfront</a> in <a href="/wiki/Toronto" title="Toronto">Toronto</a></li>
+<li>Part of <a href="/wiki/Nuns%27_Island" title="Nuns' Island">Nuns' Island</a> and all of <a class="mw-redirect" href="/wiki/%C3%8Ele_Notre-Dame" title="Île Notre-Dame">Île Notre-Dame</a> in <a href="/wiki/Montreal" title="Montreal">Montreal</a></li>
+<li>The <a href="/wiki/Cinta_Costera" title="Cinta Costera">Cinta Costera</a>, in <a href="/wiki/Panama_City" title="Panama City">Panama City</a>, <a href="/wiki/Panama" title="Panama">Panama</a></li>
+<li>The Potter's Cay in <a class="mw-redirect" href="/wiki/Nassau,_The_Bahamas" title="Nassau, The Bahamas">Nassau, The Bahamas</a> was connected to the island of New Providence</li>
+<li>The shore of <a class="mw-redirect" href="/wiki/Nassau,_The_Bahamas" title="Nassau, The Bahamas">Nassau, The Bahamas</a> especially along East Bay street.</li>
+<li><a href="/wiki/Aeroparque_Jorge_Newbery" title="Aeroparque Jorge Newbery">Aeroparque Jorge Newbery</a>, in <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a></li></ul>
+<p>One of the earliest large scale projects was the <a href="/wiki/Beemster" title="Beemster">Beemster Polder</a> in the Netherlands, realized in 1612 adding 70 square kilometres (27 sq mi) of land. In Hong Kong the <a href="/wiki/Praya_Reclamation_Scheme" title="Praya Reclamation Scheme">Praya Reclamation Scheme</a> added 20 to 24 hectares (50 to 60 acres) of land in 1890 during the second phase of construction. It was one of the most ambitious projects ever taken during the <a class="mw-redirect" href="/wiki/Colonial_Hong_Kong" title="Colonial Hong Kong">Colonial Hong Kong</a> era.<sup class="reference" id="cite_ref-Bard_13-0"><a href="#cite_note-Bard-13">[13]</a></sup>  Some 20% of land in the <a href="/wiki/Tokyo_Bay" title="Tokyo Bay">Tokyo Bay</a> area has been reclaimed,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> most notably <a href="/wiki/Odaiba" title="Odaiba">Odaiba</a> artificial island.	<a href="/wiki/Fontvieille,_Monaco" title="Fontvieille, Monaco">Le Portier</a>, <a href="/wiki/Monaco" title="Monaco">Monaco</a> and <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a> are also expanding due to land reclamation. The city of <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a> was largely built on reclaimed land, as was <a href="/wiki/Wellington" title="Wellington">Wellington</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>.
+</p><p><a href="/wiki/Artificial_island" title="Artificial island">Artificial islands</a> are an example of land reclamation. Creating an artificial island is an expensive and risky undertaking. It is often considered in places with high population density and a scarcity of flat land. <a href="/wiki/Kansai_International_Airport" title="Kansai International Airport">Kansai International Airport</a> (in <a href="/wiki/Osaka" title="Osaka">Osaka</a>) and <a href="/wiki/Hong_Kong_International_Airport" title="Hong Kong International Airport">Hong Kong International Airport</a> are examples where this process was deemed necessary. The <a href="/wiki/Palm_Islands" title="Palm Islands">Palm Islands</a>, <a href="/wiki/The_World_(archipelago)" title="The World (archipelago)">The World</a> and hotel <a class="mw-redirect" href="/wiki/Burj_al-Arab" title="Burj al-Arab">Burj al-Arab</a> off <a href="/wiki/Dubai" title="Dubai">Dubai</a> in the <a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a> are other examples of artificial islands (although there is yet no real "scarcity of land" in Dubai), as well as the <a href="/wiki/Flevopolder" title="Flevopolder">Flevopolder</a> in the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> which is the largest artificial island in the world.
+</p>
+<h2><span class="mw-headline" id="Agriculture">Agriculture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=7" title="Edit section: Agriculture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Bingzhou_Peninsula_area_-_land_reclamation_-_DSCF9204.JPG"><img alt="" class="thumbimage" data-file-height="1536" data-file-width="2048" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bingzhou_Peninsula_area_-_land_reclamation_-_DSCF9204.JPG/220px-Bingzhou_Peninsula_area_-_land_reclamation_-_DSCF9204.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bingzhou_Peninsula_area_-_land_reclamation_-_DSCF9204.JPG/330px-Bingzhou_Peninsula_area_-_land_reclamation_-_DSCF9204.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bingzhou_Peninsula_area_-_land_reclamation_-_DSCF9204.JPG/440px-Bingzhou_Peninsula_area_-_land_reclamation_-_DSCF9204.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Bingzhou_Peninsula_area_-_land_reclamation_-_DSCF9204.JPG" title="Enlarge"></a></div>Land reclamation in progress in Bingzhou (丙州) Peninsula (formerly, island) of the Dongzui Bay (东咀港). <a href="/wiki/Tong%27an_District" title="Tong'an District">Tong'an District</a>, <a href="/wiki/Xiamen" title="Xiamen">Xiamen</a>, China</div></div></div>
+<p>Agriculture was a drive for land reclamation before <a href="/wiki/Industrialisation" title="Industrialisation">industrialisation</a>.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>  In South China, farmers reclaimed <a href="/wiki/Paddy_field" title="Paddy field">paddy fields</a> by enclosing an area with a stone wall on the <a class="mw-redirect" href="/wiki/Sea_shore" title="Sea shore">sea shore</a> near a <a href="/wiki/River_mouth" title="River mouth">river mouth</a> or <a href="/wiki/River_delta" title="River delta">river delta</a>.  The species of rice that grow on these grounds are more <a href="/wiki/Salt" title="Salt">salt</a> tolerant.  Another use of such enclosed land is the creation of <a href="/wiki/Fish_pond" title="Fish pond">fish ponds</a>.  It is commonly seen on the <a href="/wiki/Pearl_River_Delta" title="Pearl River Delta">Pearl River Delta</a> and <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>.  These reclaimed areas also attract species of <a href="/wiki/Bird_migration" title="Bird migration">migrating birds</a>.
+</p><p>A related practice is the <a href="/wiki/Drainage" title="Drainage">draining</a> of swampy or seasonally submerged <a href="/wiki/Wetland" title="Wetland">wetlands</a> to convert them to <a class="mw-redirect" href="/wiki/Farmland_(farming)" title="Farmland (farming)">farmland</a>. While this does not create new land exactly, it allows commercially productive use of land that would otherwise be restricted to <a href="/wiki/Wildlife" title="Wildlife">wildlife</a> <a class="mw-redirect" href="/wiki/Habitat_(ecology)" title="Habitat (ecology)">habitat.</a> It is also an important method of <a href="/wiki/Mosquito_control" title="Mosquito control">mosquito control</a>.
+</p><p>Even in the post-industrial age, there have been land reclamation projects intended for increasing available agricultural land.  For example, the village of <a href="/wiki/%C5%8Cgata,_Akita" title="Ōgata, Akita">Ogata</a> in <a class="mw-redirect" href="/wiki/Akita,_Japan" title="Akita, Japan">Akita, Japan</a>, was established on land reclaimed from <a class="mw-redirect" href="/wiki/Lake_Hachirogata" title="Lake Hachirogata">Lake Hachirogata</a> (Japan's second largest lake at the time) starting in 1957. By 1977, the amount of land reclaimed totalled 172.03 square kilometres (66.42 sq mi).<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Beach_restoration">Beach restoration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=8" title="Edit section: Beach restoration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Beach_nourishment" title="Beach nourishment">Beach nourishment</a></div>
+<p>Beach rebuilding is the process of repairing <a href="/wiki/Beach" title="Beach">beaches</a> using materials such as <a href="/wiki/Sand" title="Sand">sand</a> or <a href="/wiki/Mud" title="Mud">mud</a> from inland. This can be used to build up beaches suffering from <a class="new" href="/w/index.php?title=Beach_starvation&amp;action=edit&amp;redlink=1" title="Beach starvation (page does not exist)">beach starvation</a> or erosion from <a href="/wiki/Longshore_drift" title="Longshore drift">longshore drift</a>. It stops the movement of the original beach material through longshore drift and retains a natural look to the beach. Although it is not a long-lasting solution, it is cheap compared to other types of <a href="/wiki/Coastal_management" title="Coastal management">coastal defences</a>. An example of this is the city of Mumbai.<sup class="reference" id="cite_ref-Mumbai_8-1"><a href="#cite_note-Mumbai-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Landfill">Landfill</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=9" title="Edit section: Landfill">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As <a href="/wiki/Human_overpopulation" title="Human overpopulation">human overcrowding of developed areas</a> intensified during the 20th century, it has become important to develop land re-use strategies for completed <a href="/wiki/Landfill" title="Landfill">landfills</a>.  Some of the most common usages are for parks, <a href="/wiki/Golf_course" title="Golf course">golf courses</a> and other sports fields. Increasingly, however, office buildings and industrial uses are made on a completed landfill. In these latter uses, <a href="/wiki/Methane" title="Methane">methane</a> capture is customarily carried out to minimize explosive hazard within the building.
+</p><p>An example of a <a class="mw-redirect" href="/wiki/Class_A_office_space" title="Class A office space">Class A office building</a> constructed over a landfill is the <a href="/wiki/Dakin_Building" title="Dakin Building">Dakin Building</a> at <a class="mw-redirect" href="/wiki/Sierra_Point,_Brisbane,_California" title="Sierra Point, Brisbane, California">Sierra Point</a>, <a href="/wiki/Brisbane,_California" title="Brisbane, California">Brisbane, California</a>. The underlying fill was deposited from 1965 to 1985, mostly consisting of construction debris from <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a> and some municipal wastes. <a class="mw-redirect" href="/wiki/Aerial_photograph" title="Aerial photograph">Aerial photographs</a> prior to 1965 show this area to be <a class="extiw" href="https://en.wiktionary.org/wiki/tideland" title="wikt:tideland">tidelands</a> of the San Francisco Bay. A clay cap was constructed over the debris prior to building approval.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p><p>A notable example is <a href="/wiki/Sydney_Olympic_Park" title="Sydney Olympic Park">Sydney Olympic Park</a>, the primary venue for the 2000 Summer Olympic Games, which was built atop an industrial wasteland that included landfills.
+</p><p>Another strategy for landfill is the incineration of landfill trash at high temperature via the <a class="mw-redirect" href="/wiki/Plasma_arc_waste_disposal" title="Plasma arc waste disposal">plasma-arc gasification process</a>, which is currently used at two facilities in <a href="/wiki/Japan" title="Japan">Japan</a>, and will be used at a planned facility in <a class="mw-redirect" href="/wiki/St._Lucie_County" title="St. Lucie County">St. Lucie County</a>, <a href="/wiki/Florida" title="Florida">Florida</a>.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Environmental_impact">Environmental impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=10" title="Edit section: Environmental impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Bay_area_fill.jpg"><img alt="" class="thumbimage" data-file-height="675" data-file-width="560" height="265" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c9/Bay_area_fill.jpg/220px-Bay_area_fill.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c9/Bay_area_fill.jpg/330px-Bay_area_fill.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c9/Bay_area_fill.jpg/440px-Bay_area_fill.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Bay_area_fill.jpg" title="Enlarge"></a></div>Parts (highlighted in brown) of the <a href="/wiki/San_Francisco_Bay" title="San Francisco Bay">San Francisco Bay</a> were reclaimed from wetlands for urban use.</div></div></div>
+<p>Draining wetlands for ploughing, for example, is a form of <a href="/wiki/Habitat_destruction" title="Habitat destruction">habitat destruction</a>. In some parts of the world, new reclamation projects are restricted or no longer allowed, due to <a href="/wiki/Environmental_movement" title="Environmental movement">environmental protection</a> laws. Reclamation projects have strong negative impacts on coastal populations, although some species can take advantage of the newly created area.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Environmental_legislation">Environmental legislation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=11" title="Edit section: Environmental legislation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hong_Kong_reclamation.png"><img alt="" class="thumbimage" data-file-height="768" data-file-width="1024" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hong_Kong_reclamation.png/220px-Hong_Kong_reclamation.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hong_Kong_reclamation.png/330px-Hong_Kong_reclamation.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hong_Kong_reclamation.png/440px-Hong_Kong_reclamation.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Hong_Kong_reclamation.png" title="Enlarge"></a></div>A map of reclaimed land in Hong Kong: Grey (built), red (proposed or under development). Many of the urban areas of Hong Kong are on reclaimed land.</div></div></div>
+<p>The State of California created a state commission, the <a href="/wiki/San_Francisco_Bay_Conservation_and_Development_Commission" title="San Francisco Bay Conservation and Development Commission">San Francisco Bay Conservation and Development Commission</a>, in 1965 to protect San Francisco Bay and regulate development near its shores.  The commission was created in response to growing concern over the shrinking size of the bay.
+</p><p>Hong Kong legislators passed the <a href="/wiki/Protection_of_the_Harbour_Ordinance" title="Protection of the Harbour Ordinance">Protection of the Harbour Ordinance</a>, proposed by the <a href="/wiki/Society_for_Protection_of_the_Harbour" title="Society for Protection of the Harbour">Society for Protection of the Harbour</a>, in 1997 in an effort to safeguard the increasingly threatened <a href="/wiki/Victoria_Harbour" title="Victoria Harbour">Victoria Harbour</a> against encroaching land development.<sup class="reference" id="cite_ref-bill_20-0"><a href="#cite_note-bill-20">[20]</a></sup> Several large reclamation schemes at Green Island, West Kowloon, and <a href="/wiki/Kowloon_Bay" title="Kowloon Bay">Kowloon Bay</a> were subsequently shelved, and others reduced in size.
+</p>
+<h2><span class="mw-headline" id="Dangers">Dangers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=12" title="Edit section: Dangers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reclaimed land is highly susceptible to <a href="/wiki/Soil_liquefaction" title="Soil liquefaction">soil liquefaction</a> during earthquakes,<sup class="reference" id="cite_ref-abag_21-0"><a href="#cite_note-abag-21">[21]</a></sup> which can amplify the amount of damage that occurs to buildings and infrastructure. <a href="/wiki/Subsidence" title="Subsidence">Subsidence</a> is another issue, both from <a href="/wiki/Soil_compaction" title="Soil compaction">soil compaction</a> on filled land, and also when wetlands are enclosed by <a href="/wiki/Levee" title="Levee">levees</a> and drained to create <a href="/wiki/Polder" title="Polder">Polders</a>. Drained marshes will eventually sink below the surrounding water level, increasing the danger from <a href="/wiki/Flood" title="Flood">flooding</a>.
+</p>
+<h2><span class="mw-headline" id="Land_amounts_added">Land amounts added</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=13" title="Edit section: Land amounts added">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a></b> – about 110 square kilometres (42 sq mi) in total and has 12,000 square kilometres (4,600 sq mi) potential (8% of total area) up to 12 metres (39 ft) depth in the territorial sea area.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup></li>
+<li><b><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></b> – about 1/6 (almost 17%) of the entire country, or about 7,000 square kilometres (2,700 sq mi) in total, has been reclaimed from the sea, lakes, marshes and swamps. The province of <a href="/wiki/Flevoland" title="Flevoland">Flevoland</a> has almost completely been reclaimed from the <a href="/wiki/Zuiderzee" title="Zuiderzee">Zuiderzee</a>.</li>
+<li><b><a href="/wiki/South_Korea" title="South Korea">South Korea</a></b> – As of 2006, 38 percent or 1,550 square kilometres (600 sq mi) of coastal wetlands reclaimed, including 400 square kilometres (150 sq mi) at <a href="/wiki/Saemangeum_Seawall" title="Saemangeum Seawall">Saemangeum</a>. <a href="/wiki/Songdo_International_Business_District" title="Songdo International Business District">Songdo International Business district</a>, the largest private development in history, is a large-scale reclamation project built entirely on tidal mudflats.</li>
+<li><b><a href="/wiki/Singapore" title="Singapore">Singapore</a></b> – 20% of the original size or 135 square kilometres (52 sq mi). As of  2003<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Land_reclamation&amp;action=edit">[update]</a></sup>, plans for 99 square kilometres (38 sq mi) more are to go ahead,<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> despite the fact that disputes persist with Malaysia over Singapore's extensive land reclamation works.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></li>
+<li><b><a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></b> – (<i>Main article: <a href="/wiki/Land_reclamation_in_Hong_Kong" title="Land reclamation in Hong Kong">Land reclamation in Hong Kong</a></i>)</li></ul>
+<dl><dd><a href="/wiki/Praya_Reclamation_Scheme" title="Praya Reclamation Scheme">Praya Reclamation Scheme</a> began in the late 1860s and consisted of two stages totaling 20 to 24 hectares (50 to 60 acres).<sup class="reference" id="cite_ref-Bard_13-1"><a href="#cite_note-Bard-13">[13]</a></sup> <a href="/wiki/Hong_Kong_Disneyland" title="Hong Kong Disneyland">Hong Kong Disneyland</a>, <a href="/wiki/Hong_Kong_International_Airport" title="Hong Kong International Airport">Hong Kong International Airport</a>, and its predecessor, <a href="/wiki/Kai_Tak_Airport" title="Kai Tak Airport">Kai Tak Airport</a>, were all built on reclaimed land. In addition, much reclamation has taken place in prime locations on the waterfront on both sides of <a href="/wiki/Victoria_Harbour" title="Victoria Harbour">Victoria Harbour</a>. This has raised <a href="/wiki/Environmentalism" title="Environmentalism">environmental</a> issues of the protection of the harbour which was once the source of prosperity of Hong Kong, traffic congestion in the <a href="/wiki/Central,_Hong_Kong" title="Central, Hong Kong">Central district</a>,<sup class="reference" id="cite_ref-court_25-0"><a href="#cite_note-court-25">[25]</a></sup> as well as the collusion of the Hong Kong Government with the <a href="/wiki/Real_estate" title="Real estate">real estate</a> developers in the territory.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></dd>
+<dd>In addition, as the city expands, new towns in different decades were mostly built on reclaimed land, such as <a href="/wiki/Tuen_Mun" title="Tuen Mun">Tuen Mun</a>, <a href="/wiki/Tai_Po" title="Tai Po">Tai Po</a>, <a class="mw-redirect" href="/wiki/Shatin" title="Shatin">Shatin</a>-<a class="mw-redirect" href="/wiki/Ma_On_Shan_(area)" title="Ma On Shan (area)">Ma On Shan</a>, <a href="/wiki/West_Kowloon" title="West Kowloon">West Kowloon</a>, <a href="/wiki/Kwun_Tong" title="Kwun Tong">Kwun Tong</a> and <a href="/wiki/Tseung_Kwan_O" title="Tseung Kwan O">Tseung Kwan O</a>.</dd></dl>
+<ul><li><b><a href="/wiki/Macau" title="Macau">Macau</a></b> – 170% of the original size or 17 square kilometres (6.6 sq mi)<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></li>
+<li><b><a href="/wiki/Jakarta" title="Jakarta">Jakarta</a></b>, <b><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a></b> – <a href="/wiki/Giant_Sea_Wall_Jakarta" title="Giant Sea Wall Jakarta">Giant Sea Wall Jakarta</a> is part of a massive coastal development project at Jakarta Bay, <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>.</li>
+<li><b><a href="/wiki/Manila_Bay" title="Manila Bay">Manila Bay</a></b>, <b><a href="/wiki/Philippines" title="Philippines">Philippines</a></b> – additional 626 hectares along the eastern coast of Manila Bay created in the 1990s<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> to the 88-hectare <a href="/wiki/Cultural_Center_of_the_Philippines_Complex" title="Cultural Center of the Philippines Complex">Cultural Center of the Philippines</a> Complex. The shore road of <a href="/wiki/Manila" title="Manila">Manila</a> (<a href="/wiki/Roxas_Boulevard" title="Roxas Boulevard">Roxas Boulevard</a>) is actually reclaimed land, as well as its extension road to Cavite (<a href="/wiki/Manila%E2%80%93Cavite_Expressway" title="Manila–Cavite Expressway">Manila-Cavite Expressway / Aguinaldo Boulevard</a>).</li>
+<li><b><a href="/wiki/Mumbai" title="Mumbai">Mumbai</a></b>, <b><a href="/wiki/India" title="India">India</a></b> – An archipelago of originally <a class="mw-redirect" href="/wiki/Seven_islands_of_Bombay" title="Seven islands of Bombay">seven separate islands</a> were joined together by land reclamation over a span of five centuries. This was done to develop Mumbai as a harbour city.</li>
+<li><b><a href="/wiki/Monaco" title="Monaco">Monaco</a></b> – 0.41 square kilometres (0.16 sq mi) out of 2.05 square kilometres (0.79 sq mi), or one fifth of Monaco comes from land taken from the sea, mainly in the neighborhoods of <a href="/wiki/Fontvieille,_Monaco" title="Fontvieille, Monaco">Fontvieille</a>, <a href="/wiki/La_Condamine" title="La Condamine">La Condamine</a>, and <a href="/wiki/Larvotto" title="Larvotto">Larvotto/Bas Moulins</a>.</li>
+<li><b><a href="/wiki/Tokyo_Bay" title="Tokyo Bay">Tokyo Bay</a>, <a href="/wiki/Japan" title="Japan">Japan</a></b> – 249 square kilometres (96 sq mi)<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> including the entirety of <a href="/wiki/Odaiba" title="Odaiba">Odaiba</a> <a href="/wiki/Artificial_island" title="Artificial island">artificial island</a>.</li>
+<li><b><a class="mw-redirect" href="/wiki/Kobe,_Japan" title="Kobe, Japan">Kobe, Japan</a></b> – 23 square kilometres (8.9 sq mi) (1995).</li>
+<li><b><a href="/wiki/Bahrain" title="Bahrain">Bahrain</a></b> – 76.3% of original size of 410 square kilometres (160 sq mi) (1931–2007).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2018)">citation needed</span></a></i>]</sup><sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></li>
+<li><b><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></b> – significant areas of land totalling several hundred hectares have been reclaimed along the harbourfront of <a href="/wiki/Auckland" title="Auckland">Auckland</a>, <a href="/wiki/Wellington" title="Wellington">Wellington</a> and <a href="/wiki/Dunedin" title="Dunedin">Dunedin</a>. In Dunedin – which in its early days was nicknamed "Mudedin" – around 2.5 square kilometres (0.97 sq mi), including much of the inner city and suburbs of Dunedin North, South Dunedin and Andersons Bay is reclaimed from the Otago Harbour, and a similar area in the suburbs of St Clair and St Kilda is reclaimed swampland.</li>
+<li><b><a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a></b> – Dubai has a total of four reclaimed islands (the <a href="/wiki/Palm_Jumeirah" title="Palm Jumeirah">Palm Jumeirah</a>,  Jebal Ali, The <a class="mw-redirect" href="/wiki/Burj_al_Arab" title="Burj al Arab">Burj al Arab</a> Island, and <a class="mw-redirect" href="/wiki/The_World_Islands" title="The World Islands">The World Islands</a>), with a fifth under construction (the <a class="mw-redirect" href="/wiki/Palm_Deira" title="Palm Deira">Palm Deira</a>). There are several man made islands in <a href="/wiki/Abu_Dhabi" title="Abu Dhabi">Abu Dhabi</a>, such as <a href="/wiki/Yas_Island" title="Yas Island">Yas Island</a> and <a href="/wiki/Al_Lulu_Island" title="Al Lulu Island">Al Lulu Island</a>.</li></ul>
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Country
+</th>
+<th>Reclaimed land (km<sup>2</sup>)
+</th>
+<th>Note
+</th></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/> </span><a href="/wiki/China" title="China">China</a>
+</td>
+<td>13,500+
+</td>
+<td><a href="/wiki/Land_reclamations_of_China" title="Land reclamations of China">Land reclamations of China</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" width="23"/> </span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>
+</td>
+<td>7,000
+</td>
+<td><a href="/wiki/Flevoland" title="Flevoland">Flevoland</a>, <a class="mw-redirect" href="/wiki/De_Beemster" title="De Beemster">de Beemster</a>, <a href="/wiki/Afsluitdijk" title="Afsluitdijk">Afsluitdijk</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" width="23"/> </span><a href="/wiki/South_Korea" title="South Korea">South Korea</a>
+</td>
+<td>1,550
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a>
+</td>
+<td>1,000+
+</td>
+<td><a href="/wiki/Category:Artificial_islands_of_the_United_States" title="Category:Artificial islands of the United States">Artificial islands of the United States</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" width="23"/> </span><a href="/wiki/Japan" title="Japan">Japan</a>
+</td>
+<td>500+
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/35px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/46px-Flag_of_the_United_Arab_Emirates.svg.png 2x" width="23"/> </span><a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">UAE</a>
+</td>
+<td>470
+</td>
+<td><a href="/wiki/Land_reclamation_in_the_United_Arab_Emirates" title="Land reclamation in the United Arab Emirates">Land reclamation in the UAE</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="900" data-file-width="1500" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/35px-Flag_of_Bahrain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/46px-Flag_of_Bahrain.svg.png 2x" width="23"/> </span><a href="/wiki/Bahrain" title="Bahrain">Bahrain</a>
+</td>
+<td>410
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="2880" data-file-width="4320" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/35px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/45px-Flag_of_Singapore.svg.png 2x" width="23"/> </span><a href="/wiki/Singapore" title="Singapore">Singapore</a>
+</td>
+<td>135
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="300" data-file-width="500" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x" width="23"/> </span><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>
+</td>
+<td>110
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="550" data-file-width="1400" height="9" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/35px-Flag_of_Qatar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/46px-Flag_of_Qatar.svg.png 2x" width="23"/> </span><a href="/wiki/Qatar" title="Qatar">Qatar</a>
+</td>
+<td>35
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="300" data-file-width="450" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/23px-Flag_of_Macau.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/35px-Flag_of_Macau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/45px-Flag_of_Macau.svg.png 2x" width="23"/> </span><a href="/wiki/Macau" title="Macau">Macau</a>
+</td>
+<td>17
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" width="23"/> </span><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>
+</td>
+<td>3.3
+</td>
+<td><a href="/wiki/Reclamation_of_Wellington_Harbour" title="Reclamation of Wellington Harbour">Reclamation of Wellington Harbour</a><sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="480" data-file-width="720" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/35px-Flag_of_Maldives.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/45px-Flag_of_Maldives.svg.png 2x" width="23"/> </span><a href="/wiki/Maldives" title="Maldives">Maldives</a>
+</td>
+<td>0.62
+</td>
+<td><sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup>
+</td></tr>
+<tr>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="750" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/38px-Flag_of_Monaco.svg.png 2x" width="19"/> </span><a href="/wiki/Monaco" title="Monaco">Monaco</a>
+</td>
+<td>0.41
+</td>
+<td><a href="/wiki/Land_reclamation_in_Monaco" title="Land reclamation in Monaco">Land reclamation in Monaco</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Artificial_island" title="Artificial island">Artificial island</a></li>
+<li><a class="mw-redirect" href="/wiki/Great_wall_of_sand" title="Great wall of sand">Great wall of sand</a></li>
+<li><a href="/wiki/Marine_regression" title="Marine regression">Marine regression</a> – the formation of new land by reductions in sea level</li>
+<li><a href="/wiki/Drainage_system_(agriculture)" title="Drainage system (agriculture)">Drainage system (agriculture)</a> – <a href="/wiki/Drainage" title="Drainage">drainage</a> for land reclamation</li>
+<li><a class="mw-redirect" href="/wiki/Land_improvement" title="Land improvement">Land improvement</a></li>
+<li><a href="/wiki/Land_reclamation_in_Hong_Kong" title="Land reclamation in Hong Kong">Land reclamation in Hong Kong</a>
+<ul><li><a href="/wiki/Society_for_Protection_of_the_Harbour" title="Society for Protection of the Harbour">Hong Kong Society for Protection of the Harbour</a></li></ul></li>
+<li><a href="/wiki/Land_reclamation_in_Monaco" title="Land reclamation in Monaco">Land reclamation in Monaco</a></li>
+<li><a href="/wiki/Mine_reclamation" title="Mine reclamation">Mine reclamation</a></li>
+<li><a href="/wiki/Polder" title="Polder">Polder</a> – low-lying land reclaimed from a lake or sea</li>
+<li><a href="/wiki/Reclamation_of_Wellington_Harbour" title="Reclamation of Wellington Harbour">Reclamation of Wellington Harbour</a>, New Zealand</li>
+<li><a class="mw-redirect" href="/wiki/River_reclamation" title="River reclamation">River reclamation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_reclamation" title="Water reclamation">Water reclamation</a></li>
+<li><a href="/wiki/Land_reclamation_in_Singapore" title="Land reclamation in Singapore">Land reclamation in Singapore</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=15" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.flickr.com/photos/hilton-t/sets/72157623774559774/" rel="nofollow">The Cape Town Foreshore Plan 1947</a></li>
+<li><a class="external text" href="http://www.clra.ca/" rel="nofollow">The Canadian Land Reclamation Association</a></li>
+<li><a class="external text" href="http://swaminomics.org/the-case-for-offshore-airports/" rel="nofollow">The case for offshore Mumbai airport</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation news">Wordie, Jason (18 April 1999). <a class="external text" href="https://web.archive.org/web/20110522042337/http://www.thestandard.com.hk/news_detail.asp?pp_cat=&amp;art_id=27127&amp;sid=&amp;con_type=1&amp;d_str=19990418&amp;sear_year=1999" rel="nofollow">"Land-grabbing titans who changed HK's profit for good"</a>. <i><a href="/wiki/The_Standard_(Hong_Kong)" title="The Standard (Hong Kong)">The Standard</a></i>. Hong Kong. Archived from <a class="external text" href="http://www.thestandard.com.hk/news_detail.asp?pp_cat=&amp;art_id=27127&amp;sid=&amp;con_type=1&amp;d_str=19990418&amp;sear_year=1999" rel="nofollow">the original</a> on May 22, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">1 October</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Standard&amp;rft.atitle=Land-grabbing+titans+who+changed+HK%27s+profit+for+good&amp;rft.date=1999-04-18&amp;rft.aulast=Wordie&amp;rft.aufirst=Jason&amp;rft_id=http%3A%2F%2Fwww.thestandard.com.hk%2Fnews_detail.asp%3Fpp_cat%3D%26art_id%3D27127%26sid%3D%26con_type%3D1%26d_str%3D19990418%26sear_year%3D1999&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALand+reclamation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation" id="CITEREFMacKinnonVerkuilMurray2012">MacKinnon, J.; Verkuil, Y.I.; Murray, N.J. (2012), <a class="external text" href="https://archive.is/20140624015227/http://www.iucn.org/asiancoastalwetlands/" rel="nofollow"><i>IUCN situation analysis on East and Southeast Asian intertidal habitats, with particular reference to the Yellow Sea (including the Bohai Sea)</i></a>, Occasional Paper of the IUCN Species Survival Commission No. 47, Gland, Switzerland and Cambridge, UK: IUCN, p. 70, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9782831712550" title="Special:BookSources/9782831712550">9782831712550</a>, archived from <a class="external text" href="http://www.iucn.org/asiancoastalwetlands/" rel="nofollow">the original</a> on 2014-06-24</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=IUCN+situation+analysis+on+East+and+Southeast+Asian+intertidal+habitats%2C+with+particular+reference+to+the+Yellow+Sea+%28including+the+Bohai+Sea%29&amp;rft.place=Gland%2C+Switzerland+and+Cambridge%2C+UK&amp;rft.series=Occasional+Paper+of+the+IUCN+Species+Survival+Commission+No.+47&amp;rft.pages=70&amp;rft.pub=IUCN&amp;rft.date=2012&amp;rft.isbn=9782831712550&amp;rft.aulast=MacKinnon&amp;rft.aufirst=J.&amp;rft.au=Verkuil%2C+Y.I.&amp;rft.au=Murray%2C+N.J.&amp;rft_id=http%3A%2F%2Fwww.iucn.org%2Fasiancoastalwetlands%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALand+reclamation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation" id="CITEREFMurrayClemensPhinnPossingham2014">Murray, N.J.; Clemens, R.S.; Phinn, S.R.; Possingham, H.P.; Fuller, R.A. (2014), <a class="external text" href="http://www.esajournals.org/doi/abs/10.1890/130260" rel="nofollow">"Tracking the rapid loss of tidal wetlands in the Yellow Sea"</a>, <i>Frontiers in Ecology and the Environment</i>, <b>12</b> (5): 267–272, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1890%2F130260" rel="nofollow">10.1890/130260</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Frontiers+in+Ecology+and+the+Environment&amp;rft.atitle=Tracking+the+rapid+loss+of+tidal+wetlands+in+the+Yellow+Sea&amp;rft.volume=12&amp;rft.issue=5&amp;rft.pages=267-272&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1890%2F130260&amp;rft.aulast=Murray&amp;rft.aufirst=N.J.&amp;rft.au=Clemens%2C+R.S.&amp;rft.au=Phinn%2C+S.R.&amp;rft.au=Possingham%2C+H.P.&amp;rft.au=Fuller%2C+R.A.&amp;rft_id=http%3A%2F%2Fwww.esajournals.org%2Fdoi%2Fabs%2F10.1890%2F130260&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALand+reclamation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<p>|url =<a class="external free" href="http://gulfnews.com/news/gulf/bahrain/bahrain-parliament-wants-solution-to-land-reclamation-issue-1.567052" rel="nofollow">http://gulfnews.com/news/gulf/bahrain/bahrain-parliament-wants-solution-to-land-reclamation-issue-1.567052</a>
+</p>
+<h2><span class="mw-headline" id="External_links_2">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Land_reclamation&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="image" href="/wiki/File:Commons-logo.svg"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> Media related to <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Land_reclamation" title="commons:Category:Land reclamation">Land reclamation</a> at Wikimedia Commons
+</p>
+<div aria-labelledby="Land_use" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Land_use" title="Template:Land use"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Land_use&amp;action=edit&amp;redlink=1" title="Template talk:Land use (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Land_use&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Land_use" style="font-size:114%;margin:0 4em"><a href="/wiki/Land_use" title="Land use">Land use</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Land_degradation" title="Land degradation">Degradation</a></li>
+<li><a href="/wiki/Land_development" title="Land development">Development/Conversion</a></li>
+<li><a href="/wiki/Land-use_planning" title="Land-use planning">Planning</a></li>
+<li><a href="/wiki/Land-use_conflict" title="Land-use conflict">Conflict</a></li>
+<li><a href="/wiki/Land_management" title="Land management">Land management</a>
+<ul><li><a href="/wiki/Sustainable_land_management" title="Sustainable land management">Sustainable land management</a></li></ul></li>
+<li><a href="/wiki/Landscaping" title="Landscaping">Landscaping</a>
+<ul><li><a href="/wiki/Integrated_landscape_management" title="Integrated landscape management">Integrated landscape management</a></li></ul></li>
+<li><a href="/wiki/Land_grabbing" title="Land grabbing">Land grabbing</a></li>
+<li><a href="/wiki/Land_consumption" title="Land consumption">Land consumption</a></li>
+<li><a href="/wiki/Land_loss" title="Land loss">Land loss</a>
+<ul><li><a class="mw-redirect" href="/wiki/Habitat_loss" title="Habitat loss">Habitat loss</a></li></ul></li>
+<li><a href="/wiki/Illegal_construction" title="Illegal construction">Illegal construction</a></li>
+<li><a class="mw-selflink selflink">Land reclamation</a></li>
+<li><a href="/wiki/Land_rehabilitation" title="Land rehabilitation">Land rehabilitation</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Rangeland_management" title="Rangeland management">Rangeland management</a></li>
+<li><a href="/wiki/Environmental_planning" title="Environmental planning">Environmental planning</a>
+<ul><li><a href="/wiki/Leopold_matrix" title="Leopold matrix">Leopold matrix</a></li>
+<li><a href="/wiki/Watertable_control" title="Watertable control">Watertable control</a></li></ul></li>
+<li><a href="/wiki/Developed_environments" title="Developed environments">Developed environments</a>
+<ul><li><a href="/wiki/Built-up_area" title="Built-up area">Built-up area</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Property</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Property" title="Property">Property</a>
+<ul><li><a href="/wiki/Subdivision_(land)" title="Subdivision (land)">Subdivision (land)</a></li>
+<li><a class="mw-redirect" href="/wiki/Real_estate_developer" title="Real estate developer">Real estate developer</a></li></ul></li>
+<li><a href="/wiki/Land_development_bank" title="Land development bank">Land development bank</a></li>
+<li><a href="/wiki/Land_(economics)" title="Land (economics)">Land (economics)</a></li>
+<li><a href="/wiki/Customary_land" title="Customary land">Customary land</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related fields</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Soil" title="Soil">Soil</a>
+<ul><li><a href="/wiki/Soil_science" title="Soil science">Soil science</a></li>
+<li><a href="/wiki/Soil_compaction" title="Soil compaction">Soil compaction</a></li>
+<li><a class="mw-redirect" href="/wiki/Soil_pollution" title="Soil pollution">Soil pollution</a></li></ul></li>
+<li><a href="/wiki/Overpopulation" title="Overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Pollution" title="Pollution">Pollution</a></li>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Urban_planning" title="Urban planning">Urban planning</a>
+<ul><li><a href="/wiki/Infrastructure" title="Infrastructure">Infrastructure</a></li>
+<li><a href="/wiki/Urban_renewal" title="Urban renewal">Urban renewal</a></li></ul></li>
+<li><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a>
+<ul><li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Drainage_system_(agriculture)" title="Drainage system (agriculture)">Drainage system (agriculture)</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> Categories:  <a href="/wiki/Category:Land_use" title="Category:Land use">Land use</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20181026161001
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.644 seconds
+Real time usage: 0.792 seconds
+Preprocessor visited node count: 3500/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80922/2097152 bytes
+Template argument size: 2999/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 86311/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.308/10.000 seconds
+Lua memory usage: 7.82 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  622.291      1 -total
+ 53.74%  334.404      1 Template:Reflist
+ 23.38%  145.522     17 Template:Cite_web
+  9.52%   59.248      9 Template:Cite_news
+  7.99%   49.713     20 Template:Convert
+  7.60%   47.312     14 Template:Flag
+  6.93%   43.127      1 Template:Citation_needed
+  6.28%   39.072      1 Template:Cite_journal
+  6.08%   37.826      1 Template:Fix
+  5.06%   31.489      1 Template:ISBN
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:579223-0!canonical and timestamp 20181026161001 and revision id 865114171
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Land_reclamation&amp;oldid=865114171">https://en.wikipedia.org/w/index.php?title=Land_reclamation&amp;oldid=865114171</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Land_reclamation" title="Category:Land reclamation">Land reclamation</a></li><li><a href="/wiki/Category:Coastal_construction" title="Category:Coastal construction">Coastal construction</a></li><li><a href="/wiki/Category:Riparian_zone" title="Category:Riparian zone">Riparian zone</a></li><li><a href="/wiki/Category:Environmental_issues_with_water" title="Category:Environmental issues with water">Environmental issues with water</a></li><li><a href="/wiki/Category:Environmental_soil_science" title="Category:Environmental soil science">Environmental soil science</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2003" title="Category:Articles containing potentially dated statements from 2003">Articles containing potentially dated statements from 2003</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2018" title="Category:Articles with unsourced statements from February 2018">Articles with unsourced statements from February 2018</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Land+reclamation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Land+reclamation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Land_reclamation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Land_reclamation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Land_reclamation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Land_reclamation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Land_reclamation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Land_reclamation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Land_reclamation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Land_reclamation&amp;oldid=865114171" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Land_reclamation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1130322" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Land_reclamation&amp;id=865114171" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Land+reclamation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Land+reclamation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Land_reclamation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Land_reclamation" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Landwinning" hreflang="af" lang="af" title="Landwinning – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9" hreflang="ar" lang="ar" title="استصلاح الأراضي البحرية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Landvinding" hreflang="da" lang="da" title="Landvinding – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Landgewinnung" hreflang="de" lang="de" title="Landgewinnung – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tierras_ganadas_al_mar" hreflang="es" lang="es" title="Tierras ganadas al mar – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Terre-plein_(g%C3%A9ographie)" hreflang="fr" lang="fr" title="Terre-plein (géographie) – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B0%84%EC%B2%99" hreflang="ko" lang="ko" title="간척 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%80%D5%B8%D5%B2%D5%AB_%D5%B4%D5%A5%D5%AC%D5%AB%D5%B8%D6%80%D5%A1%D6%81%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Հողի մելիորացում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%82%E0%A4%AE%E0%A4%BF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%B0" hreflang="hi" lang="hi" title="भूमि उद्धार – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Reklamasi_daratan" hreflang="id" lang="id" title="Reklamasi daratan – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Terra_sottratta_al_mare" hreflang="it" lang="it" title="Terra sottratta al mare – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%97%D7%96%D7%95%D7%A8_%D7%A7%D7%A8%D7%A7%D7%A2" hreflang="he" lang="he" title="אחזור קרקע – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Aggeratio_maritima" hreflang="la" lang="la" title="Aggeratio maritima – Latin">Latina</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Tebus_guna_tanah" hreflang="ms" lang="ms" title="Tebus guna tanah – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Landaanwinning" hreflang="nl" lang="nl" title="Landaanwinning – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9F%8B%E7%AB%8B%E5%9C%B0" hreflang="ja" lang="ja" title="埋立地 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Aterramento_mar%C3%ADtimo" hreflang="pt" lang="pt" title="Aterramento marítimo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8" hreflang="ru" lang="ru" title="Образование территории – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Land_reclamation" hreflang="en-simple" lang="en-simple" title="Land reclamation – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Uudisraivaus" hreflang="fi" lang="fi" title="Uudisraivaus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Toprak_%C4%B1slah%C4%B1" hreflang="tr" lang="tr" title="Toprak ıslahı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A3%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F_%D1%82%D0%B5%D1%80%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%97" hreflang="uk" lang="uk" title="Утворення території – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Khai_hoang" hreflang="vi" lang="vi" title="Khai hoang – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%96%B0%E5%A1%AB%E5%9C%B0" hreflang="yue" lang="yue" title="新填地 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%A1%AB%E6%B5%B7" hreflang="zh" lang="zh" title="填海 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1130322#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 21 October 2018, at 20:44<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Land_reclamation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.644","walltime":"0.792","ppvisitednodes":{"value":3500,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80922,"limit":2097152},"templateargumentsize":{"value":2999,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":86311,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  622.291      1 -total"," 53.74%  334.404      1 Template:Reflist"," 23.38%  145.522     17 Template:Cite_web","  9.52%   59.248      9 Template:Cite_news","  7.99%   49.713     20 Template:Convert","  7.60%   47.312     14 Template:Flag","  6.93%   43.127      1 Template:Citation_needed","  6.28%   39.072      1 Template:Cite_journal","  6.08%   37.826      1 Template:Fix","  5.06%   31.489      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.308","limit":"10.000"},"limitreport-memusage":{"value":8198335,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20181026161001","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1266"});});</script>
+</body>
+</html>

@@ -1,0 +1,361 @@
+https://en.wikipedia.org/wiki/Synechococcus
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Synechococcus - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Synechococcus","wgTitle":"Synechococcus","wgCurRevisionId":860475333,"wgRevisionId":860475333,"wgArticleId":7219097,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","All articles with unsourced statements","Articles with unsourced statements from May 2010","Bacteria genera","Synechococcales"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Synechococcus","wgRelevantArticleId":7219097,"wgRequestId":"W9b9egpAADkAABT8rf8AAABA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q150962","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synechococcus_PCC_7002_DIC.jpg/1200px-Synechococcus_PCC_7002_DIC.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Synechococcus" rel="alternate"/>
+<link href="/w/index.php?title=Synechococcus&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Synechococcus&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Synechococcus" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Synechococcus rootpage-Synechococcus skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><i>Synechococcus</i></h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(220,235,245)"><i>Synechococcus</i>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a class="image" href="/wiki/File:Synechococcus_PCC_7002_DIC.jpg"><img alt="Synechococcus PCC 7002 DIC.jpg" data-file-height="1491" data-file-width="1687" height="177" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synechococcus_PCC_7002_DIC.jpg/200px-Synechococcus_PCC_7002_DIC.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synechococcus_PCC_7002_DIC.jpg/300px-Synechococcus_PCC_7002_DIC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synechococcus_PCC_7002_DIC.jpg/400px-Synechococcus_PCC_7002_DIC.jpg 2x" width="200"/></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>Synechococcus</i> PCC 7002 cells in DIC microscopy
+</td></tr>
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(220,235,245)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><span class="kingdom"><a href="/wiki/Bacteria" title="Bacteria">Bacteria</a></span>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><span class="phylum"><a href="/wiki/Cyanobacteria" title="Cyanobacteria">Cyanobacteria</a></span>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><span class="order"><a href="/wiki/Synechococcales" title="Synechococcales">Synechococcales</a></span>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><span class="family"><a href="/wiki/Synechococcaceae" title="Synechococcaceae">Synechococcaceae</a></span>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><span class="genus"><i><b>Synechococcus</b></i></span><br/><div style="font-size: 85%;"><a class="mw-redirect" href="/wiki/Karl_Wilhelm_von_N%C3%A4geli" title="Karl Wilhelm von Nägeli">Nägeli</a>, 1849</div>
+</td></tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(220,235,245)">Species
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>See text</i>
+</p>
+</td></tr>
+</tbody></table>
+<p><i><b>Synechococcus</b></i> (from the Greek <i>synechos</i>, in succession, and the Greek <i>kokkos</i>, granule) is a unicellular <a class="mw-redirect" href="/wiki/Cyanobacterium" title="Cyanobacterium">cyanobacterium</a> that is very widespread in the <a href="/wiki/Ocean" title="Ocean">marine environment</a>. Its size varies from 0.8 to 1.5 <a href="/wiki/Micrometre" title="Micrometre">µm</a>. The <a class="mw-redirect" href="/wiki/Photosynthetic" title="Photosynthetic">photosynthetic</a> <a href="/wiki/Coccus" title="Coccus">coccoid cells</a> are preferentially found in well–lit <a href="/wiki/Surface_water" title="Surface water">surface waters</a> where it can be very abundant (generally 1,000 to 200,000 cells per ml). Many <a href="/wiki/Fresh_water" title="Fresh water">freshwater</a> species of <i>Synechococcus</i> have also been described.
+</p><p>The <a href="/wiki/Genome" title="Genome">genome</a> of <i>S. elongatus</i> strain PCC7002 has a size of 3,008,047 <a href="/wiki/Base_pair" title="Base pair">bp</a>, whereas the oceanic strain WH8102 has a genome of size 2.4 Mbp.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>]</sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Pigments"><span class="tocnumber">2</span> <span class="toctext">Pigments</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Phylogeny"><span class="tocnumber">3</span> <span class="toctext">Phylogeny</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ecology_and_distribution"><span class="tocnumber">4</span> <span class="toctext">Ecology and distribution</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Species"><span class="tocnumber">5</span> <span class="toctext">Species</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=1" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Synechococcus</i> is one of the most important components of the <a href="/wiki/Prokaryote" title="Prokaryote">prokaryotic</a> <a href="/wiki/Autotroph" title="Autotroph">autotrophic</a> <a href="/wiki/Picoplankton" title="Picoplankton">picoplankton</a> in the <a class="mw-redirect" href="/wiki/Temperate" title="Temperate">temperate</a> to <a href="/wiki/Tropics" title="Tropics">tropical</a> oceans. The genus was first described in 1979,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-Wat79_5-0"><a href="#cite_note-Wat79-5">[5]</a></sup> and was originally defined to include "small unicellular cyanobacteria with ovoid to cylindrical cells that reproduce by binary traverse fission in a single plane and lack sheaths".<sup class="reference" id="cite_ref-Rip79_6-0"><a href="#cite_note-Rip79-6">[6]</a></sup> This definition of the genus <i>Synechococcus</i> contained organisms of considerable genetic diversity and was later subdivided into subgroups based on the presence of the accessory pigment <a href="/wiki/Phycoerythrin" title="Phycoerythrin">phycoerythrin</a>. The marine forms of <i>Synechococcus</i> are coccoid cells between 0.6 and 1.6 µm in size. They are <a class="mw-redirect" href="/wiki/Gram-negative" title="Gram-negative">Gram-negative</a> cells with highly structured cell walls that may contain projections on their surface.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Electron microscopy frequently reveals the presence of phosphate inclusions, <a href="/wiki/Glycogen" title="Glycogen">glycogen</a> granules, and more importantly, highly structured <a href="/wiki/Carboxysome" title="Carboxysome">carboxysomes</a>.
+</p><p>Cells are known to be <a class="mw-redirect" href="/wiki/Motile" title="Motile">motile</a> by a gliding method<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> and a novel uncharacterized, nonphototactic swimming method<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> that does not involve flagellar motion. While some cyanobacteria are capable of <a href="/wiki/Photoheterotroph" title="Photoheterotroph">photoheterotrophic</a> or even <a class="mw-redirect" href="/wiki/Chemoheterotrophic" title="Chemoheterotrophic">chemoheterotrophic</a> growth, all marine <i>Synechococcus</i> strains appear to be obligate photoautotrophs<sup class="reference" id="cite_ref-Wat86b_10-0"><a href="#cite_note-Wat86b-10">[10]</a></sup> that are capable of supporting their nitrogen requirements using nitrate, ammonia, or in some cases <a href="/wiki/Urea" title="Urea">urea</a> as a sole nitrogen source. Marine <i>Synechococcus</i> species are traditionally not thought to fix nitrogen.
+</p>
+<h2><span class="mw-headline" id="Pigments">Pigments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=2" title="Edit section: Pigments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main photosynthetic pigment in <i>Synechococcus</i> is <a href="/wiki/Chlorophyll_a" title="Chlorophyll a">chlorophyll a</a>, while its major accessory pigments are <a class="new" href="/w/index.php?title=Phycobilliprotein&amp;action=edit&amp;redlink=1" title="Phycobilliprotein (page does not exist)">phycobilliproteins</a>.<sup class="reference" id="cite_ref-Wat79_5-1"><a href="#cite_note-Wat79-5">[5]</a></sup> The four commonly recognized <a href="/wiki/Phycobilin" title="Phycobilin">phycobilins</a> are <a href="/wiki/Phycocyanin" title="Phycocyanin">phycocyanin</a>, <a href="/wiki/Allophycocyanin" title="Allophycocyanin">allophycocyanin</a>, <a class="new" href="/w/index.php?title=Allophycocyanin_B&amp;action=edit&amp;redlink=1" title="Allophycocyanin B (page does not exist)">allophycocyanin B</a> and <a href="/wiki/Phycoerythrin" title="Phycoerythrin">phycoerythrin</a>.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> In addition <i>Synechococcus</i> also contains <a href="/wiki/Zeaxanthin" title="Zeaxanthin">zeaxanthin</a> but no diagnostic pigment for this organism is known. Zeaxanthin is also found in <i><a href="/wiki/Prochlorococcus" title="Prochlorococcus">Prochlorococcus</a></i>, <a href="/wiki/Red_algae" title="Red algae">red algae</a> and as a minor pigment in some <a href="/wiki/Chlorophyta" title="Chlorophyta">chlorophytes</a> and <a href="/wiki/Eustigmatophyte" title="Eustigmatophyte">eustigmatophytes</a>. Similarly, phycoerythrin is also found in <a href="/wiki/Red_algae" title="Red algae">rhodophytes</a> and some <a href="/wiki/Cryptomonad" title="Cryptomonad">cryptomonads</a>.<sup class="reference" id="cite_ref-Wat86b_10-1"><a href="#cite_note-Wat86b-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Phylogeny">Phylogeny</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=3" title="Edit section: Phylogeny">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Phylogenetics" title="Phylogenetics">Phylogenetic</a> description of <i>Synechococcus</i> is difficult. Isolates are <a href="/wiki/Morphology_(biology)" title="Morphology (biology)">morphologically</a> very similar, yet exhibit a <a href="/wiki/GC-content" title="GC-content">G+C content</a> ranging from 39 to 71%,<sup class="reference" id="cite_ref-Wat86b_10-2"><a href="#cite_note-Wat86b-10">[10]</a></sup> illustrating the large genetic diversity of this provisional taxon. Initially, attempts were made to divide the group into three subclusters, each with a specific range of genomic G+C content.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> The observation that open-ocean isolates alone nearly span the complete G+C spectrum, however, indicates that <i>Synechococcus</i> is composed of at least several species. <i>Bergey's Manual</i> (Herdman <i>et al.</i> 2001) now divides <i>Synechococcus</i> into five clusters (equivalent to genera) based on morphology, physiology, and genetic traits.
+</p><p>Cluster 1 includes relatively large (1–1.5 µm) nonmotile obligate photoautotrophs that exhibit low salt tolerance. Reference strains for this cluster are PCC6301 (formerly <i>Anacycstis nidulans</i>) and PCC6312, which were isolated from fresh water in <a href="/wiki/Texas" title="Texas">Texas</a> and <a href="/wiki/California" title="California">California</a>, respectively.<sup class="reference" id="cite_ref-Rip79_6-1"><a href="#cite_note-Rip79-6">[6]</a></sup> Cluster 2 also is characterized by low salt tolerance. Cells are obligate photoautrotrophs, lack phycoerythrin, and are thermophilic. The reference strain PCC6715 was isolated from a hot spring in <a href="/wiki/Yellowstone_National_Park" title="Yellowstone National Park">Yellowstone National Park</a>.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Cluster 3 includes phycoerythrin-lacking marine <i>Synechococcus</i> species that are <a href="/wiki/Euryhaline" title="Euryhaline">euryhaline</a>, i.e. capable of growth in both marine and freshwater environments. Several strains, including the reference strain PCC7003, are facultative heterotrophs and require <a href="/wiki/Vitamin_B12" title="Vitamin B12">vitamin B<sub>12</sub></a> for growth. Cluster 4 contains a single isolate, PCC7335. This strain is obligate marine.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> This strain contains phycoerthrin and was first isolated from the <a href="/wiki/Intertidal_zone" title="Intertidal zone">intertidal zone</a> in <a href="/wiki/Puerto_Pe%C3%B1asco" title="Puerto Peñasco">Puerto Peñasco</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a>.<sup class="reference" id="cite_ref-Rip79_6-2"><a href="#cite_note-Rip79-6">[6]</a></sup> The last cluster contains what had previously been referred to as ‘marine A and B clusters’ of <i>Synechococcus</i>. These cells are truly marine and have been isolated from both the coastal and the open ocean. All strains are obligate photoautrophs and are around 0.6–1.7 µm in diameter. This cluster is, however, further divided into a population that either contains (cluster 5.1) or does not contain (cluster 5.2) phycoerythrin. The reference strains are WH8103 for the phycoerythrin-containing strains and WH5701 for those strains that lack this pigment.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>  More recently, Badger <i>et al.</i> (2002) proposed the division of the cyanobacteria into a α- and a β-subcluster based on the type of <a class="mw-redirect" href="/wiki/RuBisCO_large_subunit" title="RuBisCO large subunit">rbcL</a> (large subunit of <a href="/wiki/RuBisCO" title="RuBisCO">ribulose 1,5-bisphosphate carboxylase/oxygenase</a>) found in these organisms.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> α-cyanobacteria were defined to contain a form IA, while β-cyanobacteria were defined to contain a form IB of this gene. In support for this division Badger <i>et al.</i> analyze the phylogeny of carboxysomal proteins, which appear to support this division. Also, two particular <a class="new" href="/w/index.php?title=Bicarbonate_transport&amp;action=edit&amp;redlink=1" title="Bicarbonate transport (page does not exist)">bicarbonate transport</a> systems appear to only be found in α-cyanobacteria, which lack carboxysomal carbonic anhydrases.
+</p><p>The complete <a href="/wiki/Phylogenetic_tree" title="Phylogenetic tree">phylogenetic tree</a> of 16S rRNA sequences of <i>Synechococcus</i> revealed at least 12 groups, which morphologically correspond to <i>Synechococcus</i>, but they have not derived from the common ancestor. Moreover, it has been estimated based on molecular dating that the first <i>Synechococcus</i> lineage has appeared 3 billion years ago in thermal springs with subsequent radiation to marine and freshwater environments.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Ecology_and_distribution">Ecology and distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=4" title="Edit section: Ecology and distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Synechococcus</i> has been observed to occur at concentrations ranging between a few cells to 10<sup>6</sup> cells per ml in virtually all regions of oceanic <a class="mw-redirect" href="/wiki/Euphotic_zone" title="Euphotic zone">euphotic zone</a> except in samples from the <a href="/wiki/McMurdo_Sound" title="McMurdo Sound">McMurdo Sound</a> and <a href="/wiki/Ross_Ice_Shelf" title="Ross Ice Shelf">Ross Ice Shelf</a> in <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a>.<sup class="reference" id="cite_ref-Wat86b_10-3"><a href="#cite_note-Wat86b-10">[10]</a></sup> Cells are generally much more abundant in nutrient-rich environments than in the oligotrophic ocean and prefer the upper, well-lit portion of the euphotic zone.<sup class="reference" id="cite_ref-Par99a_18-0"><a href="#cite_note-Par99a-18">[18]</a></sup> <i>Synechococcus</i> has also been observed to occur at high abundances in environments with low salinities and/or low temperatures. It is usually far outnumbered by <i><a href="/wiki/Prochlorococcus" title="Prochlorococcus">Prochlorococcus</a></i> in all environments where they co-occur. Exceptions to this rule are areas of permanently enriched nutrients such as <a href="/wiki/Upwelling" title="Upwelling">upwelling</a> areas and <a class="new" href="/w/index.php?title=Coastal_watershed&amp;action=edit&amp;redlink=1" title="Coastal watershed (page does not exist)">coastal watersheds</a>.<sup class="reference" id="cite_ref-Par99a_18-1"><a href="#cite_note-Par99a-18">[18]</a></sup> In the nutrient-depleted areas of the oceans, such as the central gyres, <i>Synechococcus</i> is apparently always present, although only at low concentrations, ranging from a few to 4×10³ cells per ml.<sup class="reference" id="cite_ref-Li95_19-0"><a href="#cite_note-Li95-19">[19]</a></sup><sup class="reference" id="cite_ref-Ols90b_20-0"><a href="#cite_note-Ols90b-20">[20]</a></sup><sup class="reference" id="cite_ref-Bla92_21-0"><a href="#cite_note-Bla92-21">[21]</a></sup><sup class="reference" id="cite_ref-Cam93_22-0"><a href="#cite_note-Cam93-22">[22]</a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> Vertically <i>Synechococcus</i> is usually relatively equitably distributed throughout the <a href="/wiki/Mixed_layer" title="Mixed layer">mixed layer</a> and exhibits an affinity for the higher-light areas. Below the mixed layer, cell concentrations rapidly decline. Vertical profiles are strongly influenced by hydrologic conditions and can be very variable both seasonally and spatially. Overall, <i>Synechococcus</i> abundance often parallels that of <i>Prochlorococcus</i> in the <a href="/wiki/Water_column" title="Water column">water column</a>. In the Pacific <a class="new" href="/w/index.php?title=High-nutrient,_low-chlorophyll&amp;action=edit&amp;redlink=1" title="High-nutrient, low-chlorophyll (page does not exist)">high-nutrient, low-chlorophyll</a> zone and in temperate open seas where stratification was recently established both profiles parallel each other and exhibit abundance maxima just about the subsurface chlorophyll maximum.<sup class="reference" id="cite_ref-Li95_19-1"><a href="#cite_note-Li95-19">[19]</a></sup><sup class="reference" id="cite_ref-Ols90b_20-1"><a href="#cite_note-Ols90b-20">[20]</a></sup><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p><p>The factors controlling the abundance of <i>Synechococcus</i> still remain poorly understood, especially considering that even in the most nutrient-depleted regions of the <a href="/wiki/Ocean_gyre" title="Ocean gyre">central gyres</a>, where cell abundances are often very low, population growth rates are often high and not drastically limited.<sup class="reference" id="cite_ref-Par99a_18-2"><a href="#cite_note-Par99a-18">[18]</a></sup> Factors such as grazing, viral mortality, genetic variability, light adaptation, and temperature, as well as nutrients are certainly involved, but remain to be investigated on a rigorous and global scale. Despite the uncertainties,  a relationship probably exists between ambient nitrogen concentrations and <i>Synechococcus</i> abundance,<sup class="reference" id="cite_ref-Par99a_18-3"><a href="#cite_note-Par99a-18">[18]</a></sup><sup class="reference" id="cite_ref-Bla92_21-1"><a href="#cite_note-Bla92-21">[21]</a></sup> with an inverse relationship to <i>Prochlorococcus</i><sup class="reference" id="cite_ref-Cam93_22-1"><a href="#cite_note-Cam93-22">[22]</a></sup> in the upper <a class="mw-redirect" href="/wiki/Euphotic_zone" title="Euphotic zone">euphotic zone</a>, where light is not limiting. One environment where <i>Synechococcus</i> thrives particularly well is coastal plumes of major rivers.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup><sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> Such <a href="/wiki/Plume_(fluid_dynamics)" title="Plume (fluid dynamics)">plumes</a> are coastally enriched with nutrients such as nitrate and phosphate, which drives large <a class="mw-redirect" href="/wiki/Phytoplankton_bloom" title="Phytoplankton bloom">phytoplankton blooms</a>. High productivity in coastal river <a href="/wiki/Plume_(fluid_dynamics)" title="Plume (fluid dynamics)">plumes</a> is often associated with large populations of <i>Synechococcus</i> and elevated form IA (cyanobacterial) <i>rbcL</i> mRNA.
+</p><p><i>Prochlorococcus</i> is thought to be at least 100 times more abundant than <i>Synechococcus</i> in warm oligotrophic waters.<sup class="reference" id="cite_ref-Par99a_18-4"><a href="#cite_note-Par99a-18">[18]</a></sup> Assuming average cellular carbon concentrations, it has thus been estimated that <i>Prochlorococcus</i> accounts for at least 22 times more carbon in these waters, thus may be of much greater significance to the global <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon cycle</a> than <i>Synechococcus</i>.
+</p>
+<h2><span class="mw-headline" id="Species">Species</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=5" title="Edit section: Species">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:auto;"><tbody><tr>
+<td style="text-align: left; vertical-align: top;">
+<ul><li><i>S. ambiguus</i> <small>Skuja</small></li>
+<li><i>S. arcuatus</i> var. <i>calcicolus</i> <small>Fjerdingstad</small></li>
+<li><i>S. bigranulatus</i> <small>Skuja</small></li>
+<li><i>S. brunneolus</i> <small>Rabenhorst</small></li>
+<li><i>S. caldarius</i> <small>Okada</small></li>
+<li><i>S. capitatus</i> <small>A. E. Bailey-Watts &amp; J. Komárek</small></li>
+<li><i>S. carcerarius</i> <small>Norris</small></li>
+<li><i>S. elongatus</i> <small>(Nägeli) Nägeli</small></li>
+<li><i>S. endogloeicus</i> <small>F. Hindák</small></li>
+<li><i>S. epigloeicus</i> <small>F. Hindák</small></li>
+<li><i>S. ferrunginosus</i> <small>Wawrik</small></li>
+<li><i>S. intermedius</i> <small>Gardner</small></li>
+<li><i>S. koidzumii</i> <small>Yoneda</small></li>
+<li><i>S. lividus</i> <small>Copeland</small></li>
+<li><i>S. marinus</i> <small>Jao</small></li>
+<li><i>S. minutissimus</i> <small>Negoro</small></li>
+<li><i>S. mundulus</i> <small>Skuja</small></li></ul>
+<p>
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul><li><i>S. nidulans</i> <small>(Pringsheim) Komárek</small></li>
+<li><i>S. rayssae</i> <small>Dor</small></li>
+<li><i>S. rhodobaktron</i> <small>Komárek &amp; Anagnostidis</small></li>
+<li><i>S. roseo-persicinus</i> <small>Grunow</small></li>
+<li><i>S. roseo-purpureus</i> <small>G. S. West</small></li>
+<li><i>S. salinarum</i> <small>Komárek</small></li>
+<li><i>S. salinus</i> <small>Frémy</small></li>
+<li><i>S. sciophilus</i> <small>Skuja</small></li>
+<li><i>S. sigmoideus</i> <small>(Moore &amp; Carter) Komárek</small></li>
+<li><i>S. spongiarum</i> <small>Usher <i>et al.</i></small></li>
+<li><i>S. subsalsus</i> <small>Skuja</small></li>
+<li><i>S. sulphuricus</i> <small>Dor</small></li>
+<li><i>S. vantieghemii</i> <small>(Pringsheim) Bourrelly</small></li>
+<li><i>S. violaceus</i> <small>Grunow</small></li>
+<li><i>S. viridissimus</i> <small>Copeland</small></li>
+<li><i>S. vulcanus</i> <small>Copeland</small></li></ul>
+<p>
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Photosynthetic_picoplankton" title="Photosynthetic picoplankton">Photosynthetic picoplankton</a></li>
+<li><i><a href="/wiki/Prochlorococcus" title="Prochlorococcus">Prochlorococcus</a></i></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation journal">L. Campbell; H. Liu; H. A. Nolla &amp; D. Vaulot (1997). "Annual variability of phytoplankton and bacteria in the subtropical North Pacific Ocean at Station ALOHA during the 1991-1994 ENSO event". <i><a class="new" href="/w/index.php?title=Deep-Sea_Research_Part_I&amp;action=edit&amp;redlink=1" title="Deep-Sea Research Part I (page does not exist)">Deep-Sea Research Part I</a></i>. <b>44</b> (2): 167–192. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0967-0637%2896%2900102-1" rel="nofollow">10.1016/S0967-0637(96)00102-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep-Sea+Research+Part+I&amp;rft.atitle=Annual+variability+of+phytoplankton+and+bacteria+in+the+subtropical+North+Pacific+Ocean+at+Station+ALOHA+during+the+1991-1994+ENSO+event&amp;rft.volume=44&amp;rft.issue=2&amp;rft.pages=167-192&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1016%2FS0967-0637%2896%2900102-1&amp;rft.au=L.+Campbell&amp;rft.au=H.+Liu&amp;rft.au=H.+A.+Nolla&amp;rft.au=D.+Vaulot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynechococcus"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">L. Campbell; H. A. Nolla &amp; D. Vaulot (1994). "The importance of Prochlorococcus to community structure in the central North Pacific Ocean". <i><a class="mw-redirect" href="/wiki/Limnology_and_Oceanography" title="Limnology and Oceanography">Limnology and Oceanography</a></i>. <b>39</b> (4): 954–961. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.4319%2Flo.1994.39.4.0954" rel="nofollow">10.4319/lo.1994.39.4.0954</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Limnology+and+Oceanography&amp;rft.atitle=The+importance+of+Prochlorococcus+to+community+structure+in+the+central+North+Pacific+Ocean&amp;rft.volume=39&amp;rft.issue=4&amp;rft.pages=954-961&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.4319%2Flo.1994.39.4.0954&amp;rft.au=L.+Campbell&amp;rft.au=H.+A.+Nolla&amp;rft.au=D.+Vaulot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynechococcus"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">F. Partensky; J. Blanchot; F. Lantoine; J. Neveux &amp; D. Marie (1996). "Vertical Structure of Picophytoplankton at Different Trophic Sites of the Tropical Northeastern Atlantic Ocean". <i><a class="new" href="/w/index.php?title=Deep-Sea_Research_Part_I&amp;action=edit&amp;redlink=1" title="Deep-Sea Research Part I (page does not exist)">Deep-Sea Research Part I</a></i>. <b>43</b> (8): 1191–1213. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0967-0637%2896%2900056-8" rel="nofollow">10.1016/0967-0637(96)00056-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep-Sea+Research+Part+I&amp;rft.atitle=Vertical+Structure+of+Picophytoplankton+at+Different+Trophic+Sites+of+the+Tropical+Northeastern+Atlantic+Ocean&amp;rft.volume=43&amp;rft.issue=8&amp;rft.pages=1191-1213&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1016%2F0967-0637%2896%2900056-8&amp;rft.au=F.+Partensky&amp;rft.au=J.+Blanchot&amp;rft.au=F.+Lantoine&amp;rft.au=J.+Neveux&amp;rft.au=D.+Marie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynechococcus"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">F. Partensky; L. Guillou; N. Simon &amp; D. Vaulot (1997). "Recent advances in the use of molecular techniques to assess the genetic diversity of marine photosynthetic microorganisms". <i><a class="new" href="/w/index.php?title=Vie_et_Milieu&amp;action=edit&amp;redlink=1" title="Vie et Milieu (page does not exist)">Vie et Milieu</a></i>. <b>47</b>: 367–374.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Vie+et+Milieu&amp;rft.atitle=Recent+advances+in+the+use+of+molecular+techniques+to+assess+the+genetic+diversity+of+marine+photosynthetic+microorganisms&amp;rft.volume=47&amp;rft.pages=367-374&amp;rft.date=1997&amp;rft.au=F.+Partensky&amp;rft.au=L.+Guillou&amp;rft.au=N.+Simon&amp;rft.au=D.+Vaulot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynechococcus"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">F. Partensky; W. R. Hess &amp; D. Vaulot (1999b). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC98958" rel="nofollow">"Prochlorococcus, a Marine Photosynthetic Prokaryote of Global Significance"</a>. <i><a href="/wiki/Microbiology_and_Molecular_Biology_Reviews" title="Microbiology and Molecular Biology Reviews">Microbiology and Molecular Biology Reviews</a></i>. <b>63</b> (1): 106–127. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC98958" rel="nofollow">98958</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10066832" rel="nofollow">10066832</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Microbiology+and+Molecular+Biology+Reviews&amp;rft.atitle=Prochlorococcus%2C+a+Marine+Photosynthetic+Prokaryote+of+Global+Significance&amp;rft.volume=63&amp;rft.issue=1&amp;rft.pages=106-127&amp;rft.date=1999&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC98958&amp;rft_id=info%3Apmid%2F10066832&amp;rft.au=F.+Partensky&amp;rft.au=W.+R.+Hess&amp;rft.au=D.+Vaulot&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC98958&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynechococcus"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">F. Partensky; N. Hoepffner; W. K. W. Li; O. Ulloa &amp; D. Vaulot (1993). "Photoacclimation of Prochlorococcus sp.(Prochlorophyta) strains isolated from the North Atlantic and Mediterranean Sea". <i><a href="/wiki/Plant_Physiology_(journal)" title="Plant Physiology (journal)">Plant Physiology</a></i>. <b>101</b>: 295–296.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Plant+Physiology&amp;rft.atitle=Photoacclimation+of+Prochlorococcus+sp.%28Prochlorophyta%29+strains+isolated+from+the+North+Atlantic+and+Mediterranean+Sea&amp;rft.volume=101&amp;rft.pages=295-296&amp;rft.date=1993&amp;rft.au=F.+Partensky&amp;rft.au=N.+Hoepffner&amp;rft.au=W.+K.+W.+Li&amp;rft.au=O.+Ulloa&amp;rft.au=D.+Vaulot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynechococcus"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">J. B. Waterbury; S. W. Watson; F. W. Valois; D. G. Franks (1986a). "Biological and ecological characterization of the marine unicellular cyanobacterium <i>Synechococcus</i>".  In W. K. W. Li. <i>Photoynthetic Picoplankton</i>. Department of Fisheries and Oceans, Ottawa, Canada. pp. 71–120.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Biological+and+ecological+characterization+of+the+marine+unicellular+cyanobacterium+Synechococcus&amp;rft.btitle=Photoynthetic+Picoplankton&amp;rft.pages=71-120&amp;rft.pub=Department+of+Fisheries+and+Oceans%2C+Ottawa%2C+Canada&amp;rft.date=1986&amp;rft.au=J.+B.+Waterbury&amp;rft.au=S.+W.+Watson&amp;rft.au=F.+W.+Valois&amp;rft.au=D.+G.+Franks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynechococcus"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Synechococcus&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web">J. Komárek &amp; M. D. Guiry (2006-07-17). <a class="external text" href="http://www.algaebase.org/search/genus/detail/?genus_id=43582" rel="nofollow">"<i>Synechococcus</i> Nägeli 1849: 56"</a>. <i><a href="/wiki/AlgaeBase" title="AlgaeBase">AlgaeBase</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AlgaeBase&amp;rft.atitle=Synechococcus+N%C3%A4geli+1849%3A+56&amp;rft.date=2006-07-17&amp;rft.au=J.+Kom%C3%A1rek&amp;rft.au=M.+D.+Guiry&amp;rft_id=http%3A%2F%2Fwww.algaebase.org%2Fsearch%2Fgenus%2Fdetail%2F%3Fgenus_id%3D43582&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASynechococcus"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Taxon_identifiers" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Taxon_identifiers" scope="row" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a class="extiw" href="https://www.wikidata.org/wiki/Q150962" title="wikidata:Q150962">Q150962</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a class="extiw" href="https://species.wikimedia.org/wiki/Synechococcus" title="wikispecies:Synechococcus">Synechococcus</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a class="external text" href="http://eol.org/pages/12721/overview" rel="nofollow">12721</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EPPO_Code" title="EPPO Code">EPPO</a>: <span class="uid"><a class="external text" href="https://gd.eppo.int/taxon/1SYNKG" rel="nofollow">1SYNKG</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a class="external text" href="https://www.gbif.org/species/3216715" rel="nofollow">3216715</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a class="external text" href="https://www.inaturalist.org/taxa/356581" rel="nofollow">356581</a></span></span></li>
+<li><span style="white-space:nowrap;">IRMNG: <span class="uid"><a class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=1073573" rel="nofollow">1073573</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=773" rel="nofollow">773</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a class="external text" href="https://data.nbn.org.uk/Taxa/NHMSYS0000607055" rel="nofollow">NHMSYS0000607055</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=1129" rel="nofollow">1129</a></span></span></li>
+<li><span style="white-space:nowrap;">NZOR: <span class="uid"><a class="external text" href="http://www.nzor.org.nz/names/9be56943-0e80-4925-b56f-7a5889c59f15" rel="nofollow">9be56943-0e80-4925-b56f-7a5889c59f15</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a class="external text" href="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=160572" rel="nofollow">160572</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20181026163549
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.652 seconds
+Real time usage: 0.756 seconds
+Preprocessor visited node count: 4792/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80774/2097152 bytes
+Template argument size: 2500/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 92142/5000000 bytes
+Number of Wikibase entities loaded: 14/400
+Lua time usage: 0.368/10.000 seconds
+Lua memory usage: 5.4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  664.221      1 -total
+ 45.25%  300.561      1 Template:Reflist
+ 39.61%  263.084     29 Template:Cite_journal
+ 24.91%  165.449      1 Template:Taxobox
+ 22.50%  149.479      1 Template:Taxobox/core
+ 12.42%   82.479     14 Template:Taxobox_colour
+ 12.10%   80.389     15 Template:Delink
+ 10.62%   70.553      1 Template:Taxonbar
+  6.66%   44.250      1 Template:Citation_needed
+  5.91%   39.280      1 Template:Fix
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7219097-0!canonical and timestamp 20181026163548 and revision id 860475333
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Synechococcus&amp;oldid=860475333">https://en.wikipedia.org/w/index.php?title=Synechococcus&amp;oldid=860475333</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bacteria_genera" title="Category:Bacteria genera">Bacteria genera</a></li><li><a href="/wiki/Category:Synechococcales" title="Category:Synechococcales">Synechococcales</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2010" title="Category:Articles with unsourced statements from May 2010">Articles with unsourced statements from May 2010</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Synechococcus" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Synechococcus" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Synechococcus" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Synechococcus" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Synechococcus">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Synechococcus&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Synechococcus&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Synechococcus" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Synechococcus" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Synechococcus&amp;oldid=860475333" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Synechococcus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q150962" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Synechococcus&amp;id=860475333" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Synechococcus">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Synechococcus&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Synechococcus&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Synechococcus" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%B9%D8%A7%D9%82%D8%A8%D8%A9_%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A%D8%A9" hreflang="ar" lang="ar" title="متعاقبة حبيبية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Synechococcus" hreflang="cs" lang="cs" title="Synechococcus – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Synechococcus" hreflang="de" lang="de" title="Synechococcus – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Synechococcus" hreflang="es" lang="es" title="Synechococcus – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Synechococcus" hreflang="fr" lang="fr" title="Synechococcus – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Synechococcus" hreflang="gl" lang="gl" title="Synechococcus – Galician">Galego</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q150962#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 20 September 2018, at 22:28<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Synechococcus&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.652","walltime":"0.756","ppvisitednodes":{"value":4792,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80774,"limit":2097152},"templateargumentsize":{"value":2500,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":92142,"limit":5000000},"entityaccesscount":{"value":14,"limit":400},"timingprofile":["100.00%  664.221      1 -total"," 45.25%  300.561      1 Template:Reflist"," 39.61%  263.084     29 Template:Cite_journal"," 24.91%  165.449      1 Template:Taxobox"," 22.50%  149.479      1 Template:Taxobox/core"," 12.42%   82.479     14 Template:Taxobox_colour"," 12.10%   80.389     15 Template:Delink"," 10.62%   70.553      1 Template:Taxonbar","  6.66%   44.250      1 Template:Citation_needed","  5.91%   39.280      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.368","limit":"10.000"},"limitreport-memusage":{"value":5659390,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20181026163549","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1262"});});</script>
+</body>
+</html>

@@ -1,0 +1,784 @@
+https://en.wikipedia.org/wiki/Sulfur_trioxide
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sulfur trioxide - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sulfur_trioxide","wgTitle":"Sulfur trioxide","wgCurRevisionId":857744487,"wgRevisionId":857744487,"wgArticleId":580936,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Chemical articles with multiple compound IDs","Multiple chemicals in an infobox that need indexing","Chemical articles with multiple PubChem CIDs","Articles without KEGG source","ECHA InfoCard ID from Wikidata","Articles with changed FDA identifier","Chembox having GHS data","All articles with unsourced statements","Articles with unsourced statements from April 2015","Articles containing unverified chemical infoboxes","Articles with unsourced statements from January 2013","Sulfur oxides","Acid anhydrides","Acidic oxides","Hazardous air pollutants","Interchalcogens","Hypervalent molecules"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sulfur_trioxide","wgRelevantArticleId":580936,"wgRequestId":"W9SmPApAICMAACozK5AAAABJ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q242715","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.0-wmf.1" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sulfur_trioxide" rel="alternate"/>
+<link href="/w/index.php?title=Sulfur_trioxide&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sulfur_trioxide&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sulfur_trioxide" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sulfur_trioxide rootpage-Sulfur_trioxide skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Sulfur trioxide</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/SO3_(disambiguation)" title="SO3 (disambiguation)">SO3 (disambiguation)</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">This article is about the molecule <span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>. For the ion <span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>, see <a href="/wiki/Sulfite" title="Sulfite">Sulfite</a>.</div>
+<table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left; ;">
+<caption style="text-align:center;">Sulfur trioxide
+</caption>
+<tbody><tr>
+<td class="borderless" colspan="2" style="text-align:center">
+<table border="0" style="width:100%;">
+<tbody><tr>
+<td style="border-right:1px solid #aaa;"><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Sulfur-trioxide-2D-dimensions.svg" title="Structure and dimensions of sulfur trioxide"><img alt="Structure and dimensions of sulfur trioxide" data-file-height="800" data-file-width="1000" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sulfur-trioxide-2D-dimensions.svg/110px-Sulfur-trioxide-2D-dimensions.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sulfur-trioxide-2D-dimensions.svg/165px-Sulfur-trioxide-2D-dimensions.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sulfur-trioxide-2D-dimensions.svg/220px-Sulfur-trioxide-2D-dimensions.svg.png 2x" width="110"/></a></div></div>
+</td>
+<td><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Sulfur-trioxide-3D-vdW.png" title="Space-filling model of sulfur trioxide"><img alt="Space-filling model of sulfur trioxide" data-file-height="1070" data-file-width="1100" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sulfur-trioxide-3D-vdW.png/110px-Sulfur-trioxide-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sulfur-trioxide-3D-vdW.png/165px-Sulfur-trioxide-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sulfur-trioxide-3D-vdW.png/220px-Sulfur-trioxide-3D-vdW.png 2x" width="110"/></a></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Preferred_IUPAC_name" title="Preferred IUPAC name">Preferred IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;"><div style="padding:0.1em 0;line-height:1.2em;">Sulfur trioxide</div></div>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature#Systematic_name" title="Chemical nomenclature">Systematic IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;"><div style="padding:0.1em 0;line-height:1.2em;">Sulfonylideneoxidane</div></div>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Sulfuric anhydride, Sulfur(VI) oxide</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=7446-11-9" rel="nofollow">7446-11-9</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a class="mw-redirect" href="/wiki/JSmol" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DS%28%3DO%29%3DO" rel="nofollow">Interactive image</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=29384" rel="nofollow">CHEBI:29384</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a class="external text" href="http://www.chemspider.com/Chemical-Structure.23080.html" rel="nofollow">23080</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/ECHA_InfoCard" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.028.361" rel="nofollow">100.028.361</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_Community_number" title="European Community number"><span title="European Community number (chemical identifier)">EC Number</span></a>
+</td>
+<td>231-197-3
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Gmelin_database" title="Gmelin database">Gmelin Reference</a></div>
+</td>
+<td>1448
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/24682" rel="nofollow">24682</a></span></li><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/22235242" rel="nofollow">22235242</a></span> <br/>(hemihydrate)</li><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/23035042" rel="nofollow">23035042</a></span> (monohydrate)</li></ul></div>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/RTECS" title="RTECS">RTECS number</a>
+</td>
+<td>WT4830000
+</td></tr>
+<tr>
+<td><a href="/wiki/Unique_Ingredient_Identifier" title="Unique Ingredient Identifier">UNII</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="fdasis.nlm.nih.gov"><a class="external text" href="https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=HH2O7V4LYD" rel="nofollow">HH2O7V4LYD</a></span><sup> <img alt="☒" data-file-height="600" data-file-width="525" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" width="7"/><span style="display:none">N</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/UN_number" title="UN number">UN number</a>
+</td>
+<td>UN 1829
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/O3S/c1-4(2)3<sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: AKEJUJNQAAGONA-UHFFFAOYSA-N<sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/O3S/c1-4(2)3</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: AKEJUJNQAAGONA-UHFFFAOYSA-N</div></div></li><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1/O3S/c1-4(2)3</div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: AKEJUJNQAAGONA-UHFFFAOYAX</div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">O=S(=O)=O</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td>SO<sub>3</sub>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>80.066<span class="nowrap"> </span>g/mol   
+</td></tr>
+<tr>
+<td>Appearance
+</td>
+<td>Colorless to white crystalline solid which will fume in air.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Colorless liquid and gas.<sup class="reference" id="cite_ref-Lerner_2-0"><a href="#cite_note-Lerner-2">[2]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Odor" title="Odor">Odor</a>
+</td>
+<td>Varies. Vapor is pungent; like sulfur dioxide.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Mist is odorless.<sup class="reference" id="cite_ref-Lerner_2-1"><a href="#cite_note-Lerner-2">[2]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>1.92<span class="nowrap"> </span>g/cm<sup>3</sup>, liquid
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td> 16.9 °C (62.4 °F; 290.0 K) 
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td> 45 °C (113 °F; 318 K) 
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>Reacts to give <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Thermochemistry
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Standard_molar_entropy" title="Standard molar entropy">Std molar<br/>entropy</a> (<i>S</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>256.77<span class="nowrap"> </span>J K<sup>−1</sup> mol<sup>−1</sup>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a class="mw-redirect" href="/wiki/Standard_enthalpy_change_of_formation" title="Standard enthalpy change of formation">Std enthalpy of<br/>formation</a> (Δ<sub>f</sub><i>H</i><sup><s>o</s></sup><sub>298</sub>)</div>
+</td>
+<td>−395.7<span class="nowrap"> </span>kJ/mol
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Hazards
+</th></tr>
+<tr>
+<td>Main <a class="mw-redirect" href="/wiki/Worker_safety_and_health" title="Worker safety and health">hazards</a>
+</td>
+<td><span class="nowrap"><a class="image" href="/wiki/File:Hazard_C.svg" title="Corrosive"><img alt="Corrosive" data-file-height="500" data-file-width="500" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hazard_C.svg/40px-Hazard_C.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hazard_C.svg/60px-Hazard_C.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hazard_C.svg/80px-Hazard_C.svg.png 2x" width="40"/></a> <small><b>C</b></small></span><span class="nowrap"><a class="image" href="/wiki/File:Hazard_T.svg" title="Toxic"><img alt="Toxic" data-file-height="500" data-file-width="500" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hazard_T.svg/40px-Hazard_T.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hazard_T.svg/60px-Hazard_T.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hazard_T.svg/80px-Hazard_T.svg.png 2x" width="40"/></a> <small><b>T</b></small></span><span class="nowrap"><a class="image" href="/wiki/File:Hazard_O.svg" title="Oxidizing Agent"><img alt="Oxidizing Agent" data-file-height="500" data-file-width="500" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hazard_O.svg/40px-Hazard_O.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hazard_O.svg/60px-Hazard_O.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hazard_O.svg/80px-Hazard_O.svg.png 2x" width="40"/></a> <small><b>O</b></small></span><span class="nowrap"><a class="image" href="/wiki/File:Hazard_N.svg" title="Dangerous for the Environment (Nature)"><img alt="Dangerous for the Environment (Nature)" data-file-height="500" data-file-width="500" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hazard_N.svg/40px-Hazard_N.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hazard_N.svg/60px-Hazard_N.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hazard_N.svg/80px-Hazard_N.svg.png 2x" width="40"/></a> <small><b>N</b></small></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Safety_data_sheet" title="Safety data sheet">Safety data sheet</a>
+</td>
+<td><a class="external text" href="https://web.archive.org/web/20111019000350/http://inchem.org/documents/icsc/icsc/eics1202.htm" rel="nofollow">ICSC 1202</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/GHS_hazard_pictograms" title="GHS hazard pictograms">GHS pictograms</a>
+</td>
+<td><a class="image" href="/wiki/File:GHS-pictogram-acid.svg" title="The corrosion pictogram in the Globally Harmonized System of Classification and Labelling of Chemicals (GHS)"><img alt="The corrosion pictogram in the Globally Harmonized System of Classification and Labelling of Chemicals (GHS)" data-file-height="724" data-file-width="724" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GHS-pictogram-acid.svg/50px-GHS-pictogram-acid.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GHS-pictogram-acid.svg/75px-GHS-pictogram-acid.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GHS-pictogram-acid.svg/100px-GHS-pictogram-acid.svg.png 2x" width="50"/></a> <a class="image" href="/wiki/File:GHS-pictogram-exclam.svg" title="The exclamation-mark pictogram in the Globally Harmonized System of Classification and Labelling of Chemicals (GHS)"><img alt="The exclamation-mark pictogram in the Globally Harmonized System of Classification and Labelling of Chemicals (GHS)" data-file-height="724" data-file-width="724" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/50px-GHS-pictogram-exclam.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/75px-GHS-pictogram-exclam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GHS-pictogram-exclam.svg/100px-GHS-pictogram-exclam.svg.png 2x" width="50"/></a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals" title="Globally Harmonized System of Classification and Labelling of Chemicals">GHS signal word</a>
+</td>
+<td><b>Danger</b>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a class="mw-redirect" href="/wiki/GHS_hazard_statement" title="GHS hazard statement">GHS hazard statements</a></div>
+</td>
+<td><abbr class="abbr" title="Catches fire spontaneously if exposed to air">H250</abbr>, <abbr class="abbr" title="Causes severe skin burns and eye damage">H314</abbr>, <abbr class="abbr" title="Fatal in contact with skin">H310</abbr>, <abbr class="abbr" title="Fatal if swallowed">H300</abbr>, <abbr class="abbr" title="May cause respiratory irritation">H335</abbr>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/GHS_precautionary_statements" title="GHS precautionary statements">GHS precautionary statements</a></div>
+</td>
+<td><abbr class="abbr" title="Avoid breathing dust/fume/gas/mist/vapours/spray">P261</abbr>, <abbr class="abbr" title="Do not eat, drink or smoke when using this product">P270</abbr>, <abbr class="abbr" title="Wear protective gloves/protective clothing/eye protection/face protection">P280</abbr>, <abbr class="abbr" title="IF IN EYES: Rinse continuously with water for several minutes. Remove contact lenses if present and easy to do – continue rinsing">P305+351+338</abbr>, <abbr class="abbr" title="Immediately call a POISON CENTER or doctor/physician">P310</abbr>
+</td></tr>
+<tr>
+<td><a href="/wiki/NFPA_704" title="NFPA 704">NFPA 704</a>
+</td>
+<td><div style="width:100%; background:transparent;"><div id="container" style="margin:0 auto; width:82px; font-family:sans-serif"><div class="nounderlines" id="on_image_elements" style="background:; float:left; font-size:20px; text-align:center; vertical-align:middle; position:relative; height:80px; width:80px; padding:1px;">
+<div id="diamond_image_and_mw_ImageMap" style="position:absolute; height:80px; width:80px;"><div class="noresize"><map name="ImageMap_1_87027749"><area alt="Flammability code 0: Will not burn. E.g., water" coords="40,0,60,20,40,40,20,20" href="/wiki/NFPA_704#Red" shape="poly" title="Flammability code 0: Will not burn. E.g., water"/><area alt="Health code 3: Short exposure could cause serious temporary or residual injury. E.g., chlorine gas" coords="20,20,40,40,20,60,0,40" href="/wiki/NFPA_704#Blue" shape="poly" title="Health code 3: Short exposure could cause serious temporary or residual injury. E.g., chlorine gas"/><area alt="Reactivity code 3: Capable of detonation or explosive decomposition but requires a strong initiating source, must be heated under confinement before initiation, reacts explosively with water, or will detonate if severely shocked. E.g., fluorine" coords="60,20,80,40,60,60,40,40" href="/wiki/NFPA_704#Yellow" shape="poly" title="Reactivity code 3: Capable of detonation or explosive decomposition but requires a strong initiating source, must be heated under confinement before initiation, reacts explosively with water, or will detonate if severely shocked. E.g., fluorine"/><area alt="Special hazard W+OX: Reacts with water in an unusual or dangerous manner AND is oxidizer." coords="40,40,60,60,40,80,20,60" href="/wiki/NFPA_704#White" shape="poly" title="Special hazard W+OX: Reacts with water in an unusual or dangerous manner AND is oxidizer."/></map><img alt="NFPA 704 four-colored diamond" data-file-height="600" data-file-width="600" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/80px-NFPA_704.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/120px-NFPA_704.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NFPA_704.svg/160px-NFPA_704.svg.png 2x" usemap="#ImageMap_1_87027749" width="80"/></div></div><div style="width:12px; text-align:center; position:absolute; top:12px; left:35px;">
+<a href="/wiki/NFPA_704#Red" title="NFPA 704"><span style="color:black;" title="Flammability code 0: Will not burn. E.g., water">0</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:15px;">
+<a href="/wiki/NFPA_704#Blue" title="NFPA 704"><span style="color:black;" title="Health code 3: Short exposure could cause serious temporary or residual injury. E.g., chlorine gas">3</span></a></div><div style="width:13px; text-align:center; position:absolute; top:31px; left:54px;">
+<a href="/wiki/NFPA_704#Yellow" title="NFPA 704"><span style="color:black;" title="Reactivity code 3: Capable of detonation or explosive decomposition but requires a strong initiating source, must be heated under confinement before initiation, reacts explosively with water, or will detonate if severely shocked. E.g., fluorine">3</span></a></div><div style="vertical-align:middle; text-align:center; line-height:80%; position:absolute; top:52px;"><a href="/wiki/NFPA_704#White" title="NFPA 704"><span style="font-size:15px; color:black; width:21px; line-height:80%; position:absolute; top:-4px; left:29px;" title="Special hazard W+OX: Reacts with water in an unusual or dangerous manner AND is oxidizer."><s>W</s><br/>OX</span></a></div></div></div></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flash_point" title="Flash point">Flash point</a>
+</td>
+<td>Non-flammable  
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background-color:#f1f1f1;">Lethal dose or concentration (<i>LD</i>, <i>LC</i>):
+</td></tr>
+<tr style="background:#f4f4f4;">
+<td style="padding-left:1em;"><div style="padding:0.1em 0;line-height:1.2em;"><i>LC</i><sub>50</sub> (<a href="/wiki/Lethal_dose#LC50" title="Lethal dose">median concentration</a>)</div>
+</td>
+<td>rat, 4<span class="nowrap"> </span>hr 375<span class="nowrap"> </span>mg/m<sup>3</sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2015)">citation needed</span></a></i>]</sup>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Related compounds
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Other <a href="/wiki/Ion" title="Ion">cations</a></div>
+</td>
+<td><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a><br/><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> <a href="/wiki/Oxide" title="Oxide">oxides</a></div>
+</td>
+<td><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a><br/><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">Related compounds</div>
+</td>
+<td><a href="/wiki/Sulfuric_acid" title="Sulfuric acid">Sulfuric acid</a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25 °C [77 °F], 100 kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><img alt="☒" data-file-height="600" data-file-width="525" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/12px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/18px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/24px-X_mark.svg.png 2x" width="12"/><span style="display:none">N</span> <span class="reflink plainlinks nourlexpansion"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ComparePages&amp;rev1=476993317&amp;page2=Sulfur+trioxide">verify</a></span> (<a href="/wiki/Wikipedia:WikiProject_Chemicals/Chembox_validation" title="Wikipedia:WikiProject Chemicals/Chembox validation">what is</a> <sup><img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span><img alt="☒" data-file-height="600" data-file-width="525" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/7px-X_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/11px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/14px-X_mark.svg.png 2x" width="7"/><span style="display:none">N</span></sup> ?)
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Sulfur trioxide</b> (alternative spelling <b>sulphur trioxide</b>) is the chemical compound with the formula SO<sub>3</sub>, with a relatively narrow liquid range. In the gaseous form, this species is a significant pollutant, being the primary agent in <a href="/wiki/Acid_rain" title="Acid rain">acid rain</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>It is prepared on an industrial scale as a precursor to <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a>.
+</p><p>In perfectly dry apparatus, sulfur trioxide vapor is invisible, and the liquid is transparent. However, it fumes profusely even in a relatively dry atmosphere (it has been used as a smoke agent) due to formation of a sulfuric acid mist. This vapor has no odor but is extremely corrosive.<sup class="reference" id="cite_ref-Lerner_2-2"><a href="#cite_note-Lerner-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Molecular_structure_and_bonding"><span class="tocnumber">1</span> <span class="toctext">Molecular structure and bonding</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Structure_of_solid_SO3"><span class="tocnumber">2</span> <span class="toctext">Structure of solid SO<sub>3</sub></span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Chemical_reactions"><span class="tocnumber">3</span> <span class="toctext">Chemical reactions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Preparation"><span class="tocnumber">4</span> <span class="toctext">Preparation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Applications"><span class="tocnumber">5</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Safety"><span class="tocnumber">6</span> <span class="toctext">Safety</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Sources"><span class="tocnumber">7</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Molecular_structure_and_bonding">Molecular structure and bonding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=1" title="Edit section: Molecular structure and bonding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gaseous SO<sub>3</sub> is a <a class="mw-redirect" href="/wiki/Trigonal_planar" title="Trigonal planar">trigonal planar</a> molecule of D<sub>3h</sub> symmetry, as predicted by <a href="/wiki/VSEPR_theory" title="VSEPR theory">VSEPR theory</a>. SO<sub>3</sub> belongs to the D<sub>3h</sub> <a href="/wiki/Molecular_symmetry" title="Molecular symmetry">point group</a>.
+</p><p>In terms of electron-counting formalism, the sulfur atom has an <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a> of +6 and a <a href="/wiki/Formal_charge" title="Formal charge">formal charge</a> of +2. The <a href="/wiki/Lewis_structure" title="Lewis structure">Lewis structure</a> consists of an S=O <a href="/wiki/Double_bond" title="Double bond">double bond</a> and two S–O <a class="mw-redirect" href="/wiki/Dative_bond" title="Dative bond">dative bonds</a> without utilizing d-orbitals.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>The electrical <a href="/wiki/Dipole#molecular_dipoles" title="Dipole">dipole moment</a> of gaseous sulfur trioxide is zero. This is a consequence of the 120° angle between the S-O bonds.
+</p>
+<h2><span class="mw-headline" id="Structure_of_solid_SO3">Structure of solid SO<sub>3</sub></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=2" title="Edit section: Structure of solid SO3">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Sulfur-trioxide-trimer-from-xtal-1967-3D-balls-B.png"><img alt="" class="thumbimage" data-file-height="742" data-file-width="1100" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sulfur-trioxide-trimer-from-xtal-1967-3D-balls-B.png/200px-Sulfur-trioxide-trimer-from-xtal-1967-3D-balls-B.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sulfur-trioxide-trimer-from-xtal-1967-3D-balls-B.png/300px-Sulfur-trioxide-trimer-from-xtal-1967-3D-balls-B.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sulfur-trioxide-trimer-from-xtal-1967-3D-balls-B.png/400px-Sulfur-trioxide-trimer-from-xtal-1967-3D-balls-B.png 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Sulfur-trioxide-trimer-from-xtal-1967-3D-balls-B.png" title="Enlarge"></a></div><a href="/wiki/Ball-and-stick_model" title="Ball-and-stick model">Ball-and-stick model</a> of the <i>γ</i>-SO<sub>3</sub> molecule</div></div></div>
+<p>The nature of solid SO<sub>3</sub> is complex because structural changes are caused by traces of water.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Upon condensation of the gas, absolutely pure SO<sub>3</sub> condenses into a trimer, which is often called <i>γ</i>-SO<sub>3</sub>. This molecular form is a colorless solid with a melting point of 16.8 °C. It adopts a cyclic structure described as [S(=O)<sub>2</sub>(<i>μ</i>-O)]<sub>3</sub>.<sup class="reference" id="cite_ref-cw_7-0"><a href="#cite_note-cw-7">[7]</a></sup>
+</p><p>If SO<sub>3</sub> is condensed above 27 °C, then <i>α</i>-SO<sub>3</sub> forms, which has a melting point of 62.3 °C. <i>α</i>-SO<sub>3</sub> is fibrous in appearance. Structurally, it is the <a href="/wiki/Polymer" title="Polymer">polymer</a> [S(=O)<sub>2</sub>(<i>μ</i>-O)]<sub><i>n</i></sub>. Each end of the polymer is terminated with OH groups. <i>β</i>-SO<sub>3</sub>, like the alpha form, is fibrous but of different molecular weight, consisting of an hydroxyl-capped polymer, but melts at 32.5 °C. Both the gamma and the beta forms are metastable, eventually converting to the stable alpha form if left standing for sufficient time. This conversion is caused by traces of water.<sup class="reference" id="cite_ref-Merck_8-0"><a href="#cite_note-Merck-8">[8]</a></sup>
+</p><p>Relative vapor pressures of solid SO<sub>3</sub> are alpha &lt; beta &lt; gamma at identical temperatures, indicative of their relative <a class="mw-redirect" href="/wiki/Molecular_weight" title="Molecular weight">molecular weights</a>. Liquid sulfur trioxide has a vapor pressure consistent with the gamma form. Thus heating a crystal of  <i>α</i>-SO<sub>3</sub> to its melting point results in a sudden increase in vapor pressure, which can be forceful enough to shatter a glass vessel in which it is heated. This effect is known as the "alpha explosion".<sup class="reference" id="cite_ref-Merck_8-1"><a href="#cite_note-Merck-8">[8]</a></sup>
+</p><p>SO<sub>3</sub> is aggressively <a class="mw-redirect" href="/wiki/Hygroscopic" title="Hygroscopic">hygroscopic</a>. The heat of hydration is sufficient that mixtures of SO<sub>3</sub> and wood or cotton can ignite. In such cases, SO<sub>3</sub> dehydrates these <a href="/wiki/Carbohydrate" title="Carbohydrate">carbohydrates</a>.<sup class="reference" id="cite_ref-Merck_8-2"><a href="#cite_note-Merck-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Chemical_reactions">Chemical reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=3" title="Edit section: Chemical reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>SO<sub>3</sub> is the <a href="/wiki/Inorganic_anhydride" title="Inorganic anhydride">anhydride</a> of H<sub>2</sub>SO<sub>4</sub>. Thus, the following reaction occurs:
+</p>
+<dl><dd>SO<sub>3</sub><sub> (g)</sub> + H<sub>2</sub>O<sub> (l)</sub> → H<sub>2</sub>SO<sub>4</sub><sub> (aq)</sub> (ΔH<sub>f</sub> = −200 <a class="mw-redirect" href="/wiki/Kilojoule" title="Kilojoule">kJ</a> <a href="/wiki/Mole_(unit)" title="Mole (unit)">mol<sup>−1</sup></a>)<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<p>The reaction occurs both rapidly and exothermically, too violently to be used in large-scale manufacturing. At or above 340 °C, sulfuric acid, sulfur trioxide, and water coexist in significant equilibrium concentrations.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup>
+</p><p>Sulfur trioxide also reacts with <a href="/wiki/Sulfur_dichloride" title="Sulfur dichloride">sulfur dichloride</a> to yield the useful <a href="/wiki/Reagent" title="Reagent">reagent</a>, <a href="/wiki/Thionyl_chloride" title="Thionyl chloride">thionyl chloride</a>.
+</p>
+<dl><dd>SO<sub>3</sub> + SCl<sub>2</sub> → SOCl<sub>2</sub> + SO<sub>2</sub></dd></dl>
+<p>SO<sub>3</sub> is a strong <a class="mw-redirect" href="/wiki/Lewis_acid" title="Lewis acid">Lewis acid</a> readily forming crystalline complexes with <a href="/wiki/Sulfur_trioxide_pyridine_complex" title="Sulfur trioxide pyridine complex">pyridine</a>, <a class="mw-redirect" href="/wiki/Dioxane" title="Dioxane">dioxane</a>, and <a href="/wiki/Trimethylamine" title="Trimethylamine">trimethylamine</a>. These adducts can be used as sulfonating agents.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Preparation">Preparation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=4" title="Edit section: Preparation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sulfur trioxide can be prepared in the laboratory by the two-stage <a href="/wiki/Pyrolysis" title="Pyrolysis">pyrolysis</a> of <a href="/wiki/Sodium_bisulfate" title="Sodium bisulfate">sodium bisulfate</a>. <a href="/wiki/Sodium_pyrosulfate" title="Sodium pyrosulfate">Sodium pyrosulfate</a> is an intermediate product:<sup class="reference" id="cite_ref-vries_11-0"><a href="#cite_note-vries-11">[11]</a></sup>
+</p>
+<ol><li>Dehydration at 315 °C:
+<dl><dd>2 NaHSO<sub>4</sub>  →  Na<sub>2</sub>S<sub>2</sub>O<sub>7</sub> + H<sub>2</sub>O</dd></dl></li>
+<li>Cracking at 460 °C:
+<dl><dd>Na<sub>2</sub>S<sub>2</sub>O<sub>7</sub>  →  Na<sub>2</sub>SO<sub>4</sub> + SO<sub>3</sub></dd></dl></li></ol>
+<p>In contrast, KHSO<sub>4</sub> does not undergo the same reaction.<sup class="reference" id="cite_ref-vries_11-1"><a href="#cite_note-vries-11">[11]</a></sup>
+</p><p>Industrially SO<sub>3</sub> is made by the <a href="/wiki/Contact_process" title="Contact process">contact process</a>. <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a>, which in turn is produced by the burning of <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> or <a class="mw-redirect" href="/wiki/Iron_pyrite" title="Iron pyrite">iron pyrite</a> (a sulfide ore of iron). After being purified by electrostatic precipitation, the SO<sub>2</sub> is then oxidised by atmospheric <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> at between 400 and 600 °C over a catalyst. A typical catalyst consists of <a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">vanadium pentoxide</a> (V<sub>2</sub>O<sub>5</sub>) activated with <a href="/wiki/Potassium_oxide" title="Potassium oxide">potassium oxide</a> K<sub>2</sub>O on <a href="/wiki/Diatomaceous_earth" title="Diatomaceous earth">kieselguhr</a> or <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">silica</a> support. <a href="/wiki/Platinum" title="Platinum">Platinum</a> also works very well but is too expensive and is poisoned (rendered ineffective) much more easily by impurities.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p><p>The majority of sulfur trioxide made in this way is converted into <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> not by the direct addition of water, with which it forms a fine mist, but by absorption in concentrated sulfuric acid and dilution with water of the produced <a href="/wiki/Oleum" title="Oleum">oleum</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup>
+</p>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Calcium_sulfate#other_uses" title="Calcium sulfate">calcium sulfate § other uses</a></div>
+<p>It was once produced industrially by heating <a href="/wiki/Calcium_sulfate" title="Calcium sulfate">calcium sulfate</a> with <a class="mw-redirect" href="/wiki/Silica" title="Silica">silica</a>.
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=5" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sulfur trioxide is an essential reagent in <a class="mw-redirect" href="/wiki/Sulfonation" title="Sulfonation">sulfonation</a> reactions. These processes afford detergents, dyes, and pharmaceuticals. Sulfur trioxide is generated in situ from sulfuric acid or is used as a solution in the acid.
+</p>
+<h2><span class="mw-headline" id="Safety">Safety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=6" title="Edit section: Safety">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Along with being a strong oxidizing agent, sulfur trioxide will cause serious burns on both inhalation and ingestion because it is highly corrosive and hygroscopic in nature. SO<sub>3</sub> should be handled with extreme care as it reacts violently with water and produces highly corrosive sulfuric acid. It should also be kept away from organic material due to the strong dehydrating nature of sulfur trioxide and its ability to react violently with such materials.
+</p>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=7" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://webbook.nist.gov/chemistry/" rel="nofollow">NIST Standard Reference Database</a></li>
+<li><a class="external text" href="http://chemsub.online.fr/name/sulfur_trioxide.html" rel="nofollow">ChemSub Online</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Hypervalent_molecule" title="Hypervalent molecule">Hypervalent molecule</a></li>
+<li><a href="/wiki/Sulfur_trioxide_pyridine_complex" title="Sulfur trioxide pyridine complex">Sulfur trioxide pyridine complex</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfur_trioxide&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"></div>
+<div aria-labelledby="Oxides" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oxides" title="Template:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oxides" title="Template talk:Oxides"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxides&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Oxides" style="font-size:114%;margin:0 4em"><a href="/wiki/Oxide" title="Oxide">Oxides</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mixed oxidation states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_tetroxide" title="Antimony tetroxide">Antimony tetroxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Cobalt(II,III)_oxide" title="Cobalt(II,III) oxide">Cobalt(II,III) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II,III)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II,III) oxide (page does not exist)">Europium(II,III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iron(II,III)_oxide" title="Iron(II,III) oxide">Iron(II,III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Lead(II,IV)_oxide" title="Lead(II,IV) oxide">Lead(II,IV) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Manganese(II,III)_oxide" title="Manganese(II,III) oxide">Manganese(II,III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>3</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Silver(I,III)_oxide" title="Silver(I,III) oxide">Silver(I,III) oxide</a> (<a href="/wiki/Silver" title="Silver">Ag</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Triuranium_octoxide" title="Triuranium octoxide">Triuranium octoxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a><sub>3</sub>O<sub>8</sub>)</li>
+<li><a href="/wiki/Carbon_suboxide" title="Carbon suboxide">Carbon suboxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>3</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Mellitic_anhydride" title="Mellitic anhydride">Mellitic anhydride</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>12</sub>O<sub>9</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(III,IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(III,IV) oxide (page does not exist)">Praseodymium(III,IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>6</sub>O<sub>11</sub>)</li>
+<li><a href="/wiki/Terbium(III,IV)_oxide" title="Terbium(III,IV) oxide">Terbium(III,IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>4</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+1 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Copper(I)_oxide" title="Copper(I) oxide">Copper(I) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Dichlorine_monoxide" title="Dichlorine monoxide">Dichlorine monoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Gallium(I)_oxide" title="Gallium(I) oxide">Gallium(I) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Lithium_oxide" title="Lithium oxide">Lithium oxide</a> (<a href="/wiki/Lithium" title="Lithium">Li</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Potassium_oxide" title="Potassium oxide">Potassium oxide</a> (<a href="/wiki/Potassium" title="Potassium">K</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Rubidium_oxide" title="Rubidium oxide">Rubidium oxide</a> (<a href="/wiki/Rubidium" title="Rubidium">Rb</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Silver_oxide" title="Silver oxide">Silver oxide</a> (Ag<sub>2</sub>O)</li>
+<li><a href="/wiki/Thallium(I)_oxide" title="Thallium(I) oxide">Thallium(I) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Sodium_oxide" title="Sodium oxide">Sodium oxide</a> (<a href="/wiki/Sodium" title="Sodium">Na</a><sub>2</sub>O)</li>
+<li><a href="/wiki/Properties_of_water" title="Properties of water">Water (hydrogen oxide)</a> (<a href="/wiki/Hydrogen" title="Hydrogen">H</a><sub>2</sub>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+2 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium(II) oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a>O)</li>
+<li><a href="/wiki/Barium_oxide" title="Barium oxide">Barium oxide</a> (<a href="/wiki/Barium" title="Barium">Ba</a>O)</li>
+<li><a href="/wiki/Beryllium_oxide" title="Beryllium oxide">Beryllium oxide</a> (<a href="/wiki/Beryllium" title="Beryllium">Be</a>O)</li>
+<li><a href="/wiki/Cadmium_oxide" title="Cadmium oxide">Cadmium oxide</a> (<a href="/wiki/Cadmium" title="Cadmium">Cd</a>O)</li>
+<li><a href="/wiki/Calcium_oxide" title="Calcium oxide">Calcium oxide</a> (<a href="/wiki/Calcium" title="Calcium">Ca</a>O)</li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (CO)</li>
+<li><a href="/wiki/Chromium(II)_oxide" title="Chromium(II) oxide">Chromium(II) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O)</li>
+<li><a href="/wiki/Cobalt(II)_oxide" title="Cobalt(II) oxide">Cobalt(II) oxide</a> (<a href="/wiki/Cobalt" title="Cobalt">Co</a>O)</li>
+<li><a href="/wiki/Copper(II)_oxide" title="Copper(II) oxide">Copper(II) oxide</a> (<a href="/wiki/Copper" title="Copper">Cu</a>O)</li>
+<li><a class="new" href="/w/index.php?title=Europium(II)_oxide&amp;action=edit&amp;redlink=1" title="Europium(II) oxide (page does not exist)">Europium(II) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a>O)</li>
+<li><a href="/wiki/Germanium_monoxide" title="Germanium monoxide">Germanium monoxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O))</li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a>O)</li>
+<li><a href="/wiki/Lead(II)_oxide" title="Lead(II) oxide">Lead(II) oxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O)</li>
+<li><a href="/wiki/Magnesium_oxide" title="Magnesium oxide">Magnesium oxide</a> (<a href="/wiki/Magnesium" title="Magnesium">Mg</a>O)</li>
+<li><a href="/wiki/Manganese(II)_oxide" title="Manganese(II) oxide">Manganese(II) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O)</li>
+<li><a href="/wiki/Mercury(II)_oxide" title="Mercury(II) oxide">Mercury(II) oxide</a> (<a href="/wiki/Mercury_(element)" title="Mercury (element)">Hg</a>O)</li>
+<li><a href="/wiki/Nickel(II)_oxide" title="Nickel(II) oxide">Nickel(II) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a>O)</li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O)</li>
+<li><a href="/wiki/Palladium(II)_oxide" title="Palladium(II) oxide">Palladium(II) oxide</a> (<a href="/wiki/Palladium" title="Palladium">Pd</a>O)</li>
+<li><a href="/wiki/Silicon_monoxide" title="Silicon monoxide">Silicon monoxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O)</li>
+<li><a href="/wiki/Strontium_oxide" title="Strontium oxide">Strontium oxide</a> (<a href="/wiki/Strontium" title="Strontium">Sr</a>O)</li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O)</li>
+<li><a href="/wiki/Disulfur_dioxide" title="Disulfur dioxide">Disulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a><sub>2</sub>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_monoxide" title="Thorium monoxide">Thorium monoxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O)</li>
+<li><a href="/wiki/Tin(II)_oxide" title="Tin(II) oxide">Tin(II) oxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O)</li>
+<li><a href="/wiki/Titanium(II)_oxide" title="Titanium(II) oxide">Titanium(II) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O)</li>
+<li><a href="/wiki/Vanadium(II)_oxide" title="Vanadium(II) oxide">Vanadium(II) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (<a href="/wiki/Zinc" title="Zinc">Zn</a>O)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+3 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_oxide" title="Aluminium oxide">Aluminium oxide</a> (<a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Antimony_trioxide" title="Antimony trioxide">Antimony trioxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Arsenic_trioxide" title="Arsenic trioxide">Arsenic trioxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Bismuth(III)_oxide" title="Bismuth(III) oxide">Bismuth(III) oxide</a> (<a href="/wiki/Bismuth" title="Bismuth">Bi</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Boron_trioxide" title="Boron trioxide">Boron trioxide</a> (<a href="/wiki/Boron" title="Boron">B</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(III)_oxide" title="Cerium(III) oxide">Cerium(III) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dibromine_trioxide" title="Dibromine trioxide">Dibromine trioxide</a> (<a href="/wiki/Bromine" title="Bromine">Br</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Chromium(III)_oxide" title="Chromium(III) oxide">Chromium(III) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dinitrogen_trioxide" title="Dinitrogen trioxide">Dinitrogen trioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Dysprosium(III)_oxide" title="Dysprosium(III) oxide">Dysprosium(III) oxide</a> (<a href="/wiki/Dysprosium" title="Dysprosium">Dy</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Erbium(III)_oxide" title="Erbium(III) oxide">Erbium(III) oxide</a> (<a href="/wiki/Erbium" title="Erbium">Er</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Europium(III)_oxide" title="Europium(III) oxide">Europium(III) oxide</a> (<a href="/wiki/Europium" title="Europium">Eu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gadolinium(III)_oxide" title="Gadolinium(III) oxide">Gadolinium(III) oxide</a> (<a href="/wiki/Gadolinium" title="Gadolinium">Gd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Gallium(III)_oxide" title="Gallium(III) oxide">Gallium(III) oxide</a> (<a href="/wiki/Gallium" title="Gallium">Ga</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Holmium(III)_oxide" title="Holmium(III) oxide">Holmium(III) oxide</a> (<a href="/wiki/Holmium" title="Holmium">Ho</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Indium(III)_oxide" title="Indium(III) oxide">Indium(III) oxide</a> (<a href="/wiki/Indium" title="Indium">In</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">Iron(III) oxide</a> (<a href="/wiki/Iron" title="Iron">Fe</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lanthanum_oxide" title="Lanthanum oxide">Lanthanum oxide</a> (<a href="/wiki/Lanthanum" title="Lanthanum">La</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Lutetium(III)_oxide" title="Lutetium(III) oxide">Lutetium(III) oxide</a> (<a href="/wiki/Lutetium" title="Lutetium">Lu</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Manganese(III)_oxide" title="Manganese(III) oxide">Manganese(III) oxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Neodymium(III)_oxide" title="Neodymium(III) oxide">Neodymium(III) oxide</a> (<a href="/wiki/Neodymium" title="Neodymium">Nd</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Nickel(III)_oxide" title="Nickel(III) oxide">Nickel(III) oxide</a> (<a href="/wiki/Nickel" title="Nickel">Ni</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Phosphorus_trioxide" title="Phosphorus trioxide">Phosphorus trioxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>4</sub>O<sub>6</sub>)</li>
+<li><a href="/wiki/Praseodymium(III)_oxide" title="Praseodymium(III) oxide">Praseodymium(III) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Promethium(III)_oxide" title="Promethium(III) oxide">Promethium(III) oxide</a> (<a href="/wiki/Promethium" title="Promethium">Pm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhodium(III)_oxide" title="Rhodium(III) oxide">Rhodium(III) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Samarium(III)_oxide" title="Samarium(III) oxide">Samarium(III) oxide</a> (<a href="/wiki/Samarium" title="Samarium">Sm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Scandium_oxide" title="Scandium oxide">Scandium oxide</a> (<a href="/wiki/Scandium" title="Scandium">Sc</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Terbium(III)_oxide" title="Terbium(III) oxide">Terbium(III) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thallium(III)_oxide" title="Thallium(III) oxide">Thallium(III) oxide</a> (<a href="/wiki/Thallium" title="Thallium">Tl</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Thulium(III)_oxide" title="Thulium(III) oxide">Thulium(III) oxide</a> (<a href="/wiki/Thulium" title="Thulium">Tm</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Titanium(III)_oxide" title="Titanium(III) oxide">Titanium(III) oxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten(III)_oxide" title="Tungsten(III) oxide">Tungsten(III) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Vanadium(III)_oxide" title="Vanadium(III) oxide">Vanadium(III) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Ytterbium(III)_oxide" title="Ytterbium(III) oxide">Ytterbium(III) oxide</a> (<a href="/wiki/Ytterbium" title="Ytterbium">Yb</a><sub>2</sub>O<sub>3</sub>)</li>
+<li><a href="/wiki/Yttrium(III)_oxide" title="Yttrium(III) oxide">Yttrium(III) oxide</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>2</sub>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+4 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Americium_dioxide" title="Americium dioxide">Americium dioxide</a> (<a href="/wiki/Americium" title="Americium">Am</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Carbon_trioxide" title="Carbon trioxide">Carbon trioxide</a> (<a href="/wiki/Carbon" title="Carbon">C</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Cerium(IV)_oxide" title="Cerium(IV) oxide">Cerium(IV) oxide</a> (<a href="/wiki/Cerium" title="Cerium">Ce</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Chromium(IV)_oxide" title="Chromium(IV) oxide">Chromium(IV) oxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Dinitrogen_tetroxide" title="Dinitrogen tetroxide">Dinitrogen tetroxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>4</sub>)</li>
+<li><a href="/wiki/Germanium_dioxide" title="Germanium dioxide">Germanium dioxide</a> (<a href="/wiki/Germanium" title="Germanium">Ge</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Hafnium(IV)_oxide" title="Hafnium(IV) oxide">Hafnium(IV) oxide</a> (<a href="/wiki/Hafnium" title="Hafnium">Hf</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Lead_dioxide" title="Lead dioxide">Lead dioxide</a> (<a href="/wiki/Lead" title="Lead">Pb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Manganese_dioxide" title="Manganese dioxide">Manganese dioxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Neptunium(IV)_oxide" title="Neptunium(IV) oxide">Neptunium(IV) oxide</a> (<a href="/wiki/Neptunium" title="Neptunium">Np</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">Nitrogen dioxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Osmium_dioxide" title="Osmium dioxide">Osmium dioxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Plutonium(IV)_oxide" title="Plutonium(IV) oxide">Plutonium(IV) oxide</a> (<a href="/wiki/Plutonium" title="Plutonium">Pu</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Praseodymium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Praseodymium(IV) oxide (page does not exist)">Praseodymium(IV) oxide</a> (<a href="/wiki/Praseodymium" title="Praseodymium">Pr</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Protactinium(IV)_oxide" title="Protactinium(IV) oxide">Protactinium(IV) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Rhodium(IV)_oxide" title="Rhodium(IV) oxide">Rhodium(IV) oxide</a> (<a href="/wiki/Rhodium" title="Rhodium">Rh</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Ruthenium(IV)_oxide" title="Ruthenium(IV) oxide">Ruthenium(IV) oxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Selenium_dioxide" title="Selenium dioxide">Selenium dioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Silicon_dioxide" title="Silicon dioxide">Silicon dioxide</a> (<a href="/wiki/Silicon" title="Silicon">Si</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tellurium_dioxide" title="Tellurium dioxide">Tellurium dioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>2</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Terbium(IV)_oxide&amp;action=edit&amp;redlink=1" title="Terbium(IV) oxide (page does not exist)">Terbium(IV) oxide</a> (<a href="/wiki/Terbium" title="Terbium">Tb</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Thorium_dioxide" title="Thorium dioxide">Thorium dioxide</a> (<a href="/wiki/Thorium" title="Thorium">Th</a>O<sub>2</sub>)</li>
+<li><a class="mw-redirect" href="/wiki/Tin_dioxide" title="Tin dioxide">Tin dioxide</a> (<a href="/wiki/Tin" title="Tin">Sn</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a> (<a href="/wiki/Titanium" title="Titanium">Ti</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Tungsten(IV)_oxide" title="Tungsten(IV) oxide">Tungsten(IV) oxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Uranium_dioxide" title="Uranium dioxide">Uranium dioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Vanadium(IV)_oxide" title="Vanadium(IV) oxide">Vanadium(IV) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a>O<sub>2</sub>)</li>
+<li><a href="/wiki/Zirconium_dioxide" title="Zirconium dioxide">Zirconium dioxide</a> (<a href="/wiki/Zirconium" title="Zirconium">Zr</a>O<sub>2</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+5 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antimony_pentoxide" title="Antimony pentoxide">Antimony pentoxide</a> (<a href="/wiki/Antimony" title="Antimony">Sb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Arsenic_pentoxide" title="Arsenic pentoxide">Arsenic pentoxide</a> (<a href="/wiki/Arsenic" title="Arsenic">As</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Dinitrogen_pentoxide" title="Dinitrogen pentoxide">Dinitrogen pentoxide</a> (<a href="/wiki/Nitrogen" title="Nitrogen">N</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Niobium_pentoxide" title="Niobium pentoxide">Niobium pentoxide</a> (<a href="/wiki/Niobium" title="Niobium">Nb</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Phosphorus_pentoxide" title="Phosphorus pentoxide">Phosphorus pentoxide</a> (<a href="/wiki/Phosphorus" title="Phosphorus">P</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Protactinium(V)_oxide" title="Protactinium(V) oxide">Protactinium(V) oxide</a> (<a href="/wiki/Protactinium" title="Protactinium">Pa</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Tantalum_pentoxide" title="Tantalum pentoxide">Tantalum pentoxide</a> (<a href="/wiki/Tantalum" title="Tantalum">Ta</a><sub>2</sub>O<sub>5</sub>)</li>
+<li><a href="/wiki/Vanadium(V)_oxide" title="Vanadium(V) oxide">Vanadium(V) oxide</a> (<a href="/wiki/Vanadium" title="Vanadium">V</a><sub>2</sub>O<sub>5</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+6 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromium_trioxide" title="Chromium trioxide">Chromium trioxide</a> (<a href="/wiki/Chromium" title="Chromium">Cr</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Molybdenum_trioxide" title="Molybdenum trioxide">Molybdenum trioxide</a> (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Rhenium_trioxide" title="Rhenium trioxide">Rhenium trioxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Selenium_trioxide" title="Selenium trioxide">Selenium trioxide</a> (<a href="/wiki/Selenium" title="Selenium">Se</a>O<sub>3</sub>)</li>
+<li><a class="mw-selflink selflink">Sulfur trioxide</a> (<a href="/wiki/Sulfur" title="Sulfur">S</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tellurium_trioxide" title="Tellurium trioxide">Tellurium trioxide</a> (<a href="/wiki/Tellurium" title="Tellurium">Te</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Tungsten_trioxide" title="Tungsten trioxide">Tungsten trioxide</a> (<a href="/wiki/Tungsten" title="Tungsten">W</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Uranium_trioxide" title="Uranium trioxide">Uranium trioxide</a> (<a href="/wiki/Uranium" title="Uranium">U</a>O<sub>3</sub>)</li>
+<li><a href="/wiki/Xenon_trioxide" title="Xenon trioxide">Xenon trioxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>3</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Iridium_trioxide&amp;action=edit&amp;redlink=1" title="Iridium trioxide (page does not exist)">Iridium trioxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>3</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+7 oxidation state</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dichlorine_heptoxide" title="Dichlorine heptoxide">Dichlorine heptoxide</a> (<a href="/wiki/Chlorine" title="Chlorine">Cl</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Manganese_heptoxide" title="Manganese heptoxide">Manganese heptoxide</a> (<a href="/wiki/Manganese" title="Manganese">Mn</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Rhenium(VII)_oxide" title="Rhenium(VII) oxide">Rhenium(VII) oxide</a> (<a href="/wiki/Rhenium" title="Rhenium">Re</a><sub>2</sub>O<sub>7</sub>)</li>
+<li><a href="/wiki/Technetium(VII)_oxide" title="Technetium(VII) oxide">Technetium(VII) oxide</a> (<a href="/wiki/Technetium" title="Technetium">Tc</a><sub>2</sub>O<sub>7</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">+8 oxidation state</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">Osmium tetroxide</a> (<a href="/wiki/Osmium" title="Osmium">Os</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Ruthenium_tetroxide" title="Ruthenium tetroxide">Ruthenium tetroxide</a> (<a href="/wiki/Ruthenium" title="Ruthenium">Ru</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">Xenon tetroxide</a> (<a href="/wiki/Xenon" title="Xenon">Xe</a>O<sub>4</sub>)</li>
+<li><a href="/wiki/Iridium_tetroxide" title="Iridium tetroxide">Iridium tetroxide</a> (<a href="/wiki/Iridium" title="Iridium">Ir</a>O<sub>4</sub>)</li>
+<li><a class="new" href="/w/index.php?title=Hassium_tetroxide&amp;action=edit&amp;redlink=1" title="Hassium tetroxide (page does not exist)">Hassium tetroxide</a> (<a href="/wiki/Hassium" title="Hassium">Hs</a>O<sub>4</sub>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxocarbon" title="Oxocarbon">Oxocarbon</a></li>
+<li><a href="/wiki/Suboxide" title="Suboxide">Suboxide</a></li>
+<li><a href="/wiki/Oxyanion" title="Oxyanion">Oxyanion</a></li>
+<li><a href="/wiki/Ozonide" title="Ozonide">Ozonide</a></li>
+<li><a href="/wiki/Peroxide" title="Peroxide">Peroxide</a></li>
+<li><a href="/wiki/Superoxide" title="Superoxide">Superoxide</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Oxides are sorted by <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a>.
+<a href="/wiki/Category:Oxides" title="Category:Oxides">Category:Oxides</a></div></td></tr></tbody></table></div>
+<div aria-labelledby="Sulfur_compounds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sulfur_compounds" title="Template:Sulfur compounds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Sulfur_compounds&amp;action=edit&amp;redlink=1" title="Template talk:Sulfur compounds (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sulfur_compounds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sulfur_compounds" style="font-size:114%;margin:0 4em"><a href="/wiki/Sulfur" title="Sulfur">Sulfur</a> compounds</div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_sulfide" title="Aluminium sulfide">Al<sub>2</sub>S<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Arsenic(II)_sulfide&amp;action=edit&amp;redlink=1" title="Arsenic(II) sulfide (page does not exist)">As<sub>2</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Arsenic_trisulfide" title="Arsenic trisulfide">As<sub>2</sub>S<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Arsenic(V)_sulfide&amp;action=edit&amp;redlink=1" title="Arsenic(V) sulfide (page does not exist)">As<sub>2</sub>S<sub>5</sub></a></li>
+<li><a href="/wiki/Realgar" title="Realgar">As<sub>4</sub>S<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Gold(III)_sulfide&amp;action=edit&amp;redlink=1" title="Gold(III) sulfide (page does not exist)">Au<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Boron_sulfide" title="Boron sulfide">B<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Barium_sulfide" title="Barium sulfide">BaS</a></li>
+<li><a href="/wiki/Beryllium_sulfide" title="Beryllium sulfide">BeS</a></li>
+<li><a href="/wiki/Bismuth(III)_sulfide" title="Bismuth(III) sulfide">Bi<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Sulfur_dibromide" title="Sulfur dibromide">Br<sub>2</sub>S</a></li>
+<li><a href="/wiki/Disulfur_dibromide" title="Disulfur dibromide">Br<sub>2</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_disulfide" title="Carbon disulfide">CS<sub>2</sub></a></li>
+<li><a href="/wiki/Carbon_subsulfide" title="Carbon subsulfide">C<sub>3</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Calcium_sulfide" title="Calcium sulfide">CaS</a></li>
+<li><a href="/wiki/Cadmium_sulfide" title="Cadmium sulfide">CdS</a></li>
+<li><a class="new" href="/w/index.php?title=Cerium(II)_sulfide&amp;action=edit&amp;redlink=1" title="Cerium(II) sulfide (page does not exist)">CeS</a></li>
+<li><a href="/wiki/Sulfur_dichloride" title="Sulfur dichloride">SCl<sub>2</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Sulfur_monochloride" title="Sulfur monochloride">S<sub>2</sub>Cl<sub>2</sub></a></li>
+<li><a href="/wiki/Cobalt_sulfide" title="Cobalt sulfide">CoS</a></li>
+<li><a href="/wiki/Chromium(III)_sulfide" title="Chromium(III) sulfide">Cr<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Copper_monosulfide" title="Copper monosulfide">CuS</a></li>
+<li><a class="new" href="/w/index.php?title=Deuterium_sulfide&amp;action=edit&amp;redlink=1" title="Deuterium sulfide (page does not exist)">D<sub>2</sub>S</a></li>
+<li><a class="new" href="/w/index.php?title=Dysprosium(III)_sulfide&amp;action=edit&amp;redlink=1" title="Dysprosium(III) sulfide (page does not exist)">Dy<sub>2</sub>S<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Erbium_sulfide&amp;action=edit&amp;redlink=1" title="Erbium sulfide (page does not exist)">Er<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Europium(II)_sulfide" title="Europium(II) sulfide">EuS</a></li>
+<li><a href="/wiki/Sulfur_tetrafluoride" title="Sulfur tetrafluoride">SF<sub>4</sub></a></li>
+<li><a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">SF<sub>6</sub></a></li>
+<li><a href="/wiki/Pyrite" title="Pyrite">FeS<sub>2</sub></a></li>
+<li><a href="/wiki/Gallium(II)_sulfide" title="Gallium(II) sulfide">GaS</a></li>
+<li><a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">H<sub>2</sub>S</a></li>
+<li><a class="mw-redirect" href="/wiki/Hafnium(IV)_sulfide" title="Hafnium(IV) sulfide">HfS<sub>2</sub></a></li>
+<li><a href="/wiki/Mercury_sulfide" title="Mercury sulfide">HgS</a></li>
+<li><a class="new" href="/w/index.php?title=Indium(II)_sulfide&amp;action=edit&amp;redlink=1" title="Indium(II) sulfide (page does not exist)">InS</a></li>
+<li><a class="new" href="/w/index.php?title=Sulfur_diiodide&amp;action=edit&amp;redlink=1" title="Sulfur diiodide (page does not exist)">I<sub>2</sub>S</a></li>
+<li><a class="new" href="/w/index.php?title=Lanthanum_monosulfide&amp;action=edit&amp;redlink=1" title="Lanthanum monosulfide (page does not exist)">LaS</a></li>
+<li><a href="/wiki/Lithium_sulfide" title="Lithium sulfide">LiS</a></li>
+<li><a href="/wiki/Magnesium_sulfide" title="Magnesium sulfide">MgS</a></li>
+<li><a href="/wiki/Molybdenum_trisulfide" title="Molybdenum trisulfide">MoS<sub>3</sub></a></li>
+<li><a href="/wiki/Millerite" title="Millerite">NiS</a></li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">SO<sub>2</sub></a></li>
+<li><a class="mw-selflink selflink">SO<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Phosphorus_heptasulfide&amp;action=edit&amp;redlink=1" title="Phosphorus heptasulfide (page does not exist)">P<sub>4</sub>S<sub>7</sub></a></li>
+<li><a href="/wiki/Lead(II)_sulfide" title="Lead(II) sulfide">PbS</a></li>
+<li><a href="/wiki/Lead(IV)_sulfide" title="Lead(IV) sulfide">PbS<sub>2</sub></a></li>
+<li><a href="/wiki/Platinum(II)_sulfide" title="Platinum(II) sulfide">PtS</a></li>
+<li><a class="mw-redirect" href="/wiki/Rhenium(IV)_sulfide" title="Rhenium(IV) sulfide">ReS<sub>2</sub></a></li>
+<li><a href="/wiki/Strontium_sulfide" title="Strontium sulfide">SrS</a></li>
+<li><a href="/wiki/Thallium(I)_sulfide" title="Thallium(I) sulfide">TlS</a></li>
+<li><a class="new" href="/w/index.php?title=Vanadium_sulfide&amp;action=edit&amp;redlink=1" title="Vanadium sulfide (page does not exist)">SV</a></li>
+<li><a href="/wiki/Selenium_disulfide" title="Selenium disulfide">SeS<sub>2</sub></a></li>
+<li><a href="/wiki/Uranium_disulfide" title="Uranium disulfide">S<sub>2</sub>U</a></li>
+<li><a class="mw-redirect" href="/wiki/Tungsten(IV)_sulfide" title="Tungsten(IV) sulfide">WS<sub>2</sub></a></li>
+<li><a href="/wiki/Antimony_trisulfide" title="Antimony trisulfide">Sb<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Antimony_pentasulfide" title="Antimony pentasulfide">Sb<sub>2</sub>S<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Samarium_sulfide&amp;action=edit&amp;redlink=1" title="Samarium sulfide (page does not exist)">Sm<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Yttrium(III)_sulfide" title="Yttrium(III) sulfide">Y<sub>2</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Silver_sulfate" title="Silver sulfate">Ag<sub>2</sub>SO<sub>4</sub></a></li>
+<li><a href="/wiki/Thionyl_bromide" title="Thionyl bromide">SOBr<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Carbon_sulfide_telluride&amp;action=edit&amp;redlink=1" title="Carbon sulfide telluride (page does not exist)">CSTe</a></li>
+<li><a href="/wiki/Thiirane" title="Thiirane">C<sub>2</sub>H<sub>4</sub>S</a></li>
+<li><a href="/wiki/Dimethyl_trisulfide" title="Dimethyl trisulfide">C<sub>2</sub>H<sub>6</sub>S<sub>3</sub></a></li>
+<li><a href="/wiki/Thiophene" title="Thiophene">C<sub>4</sub>H<sub>4</sub>S</a></li>
+<li><a href="/wiki/Calcium_sulfate" title="Calcium sulfate">CaSO<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Dihexadecyl_disulfide&amp;action=edit&amp;redlink=1" title="Dihexadecyl disulfide (page does not exist)">C<sub>32</sub>H<sub>66</sub>S<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Copper(II)_ferrous_sulfide&amp;action=edit&amp;redlink=1" title="Copper(II) ferrous sulfide (page does not exist)">CuFeS<sub>2</sub></a></li>
+<li><a href="/wiki/Sulfuric_acid" title="Sulfuric acid">H<sub>2</sub>SO<sub>4</sub></a></li>
+<li><a href="/wiki/Sulfurous_acid" title="Sulfurous acid">H<sub>2</sub>SO<sub>3</sub></a></li>
+<li><a href="/wiki/Thionyl_fluoride" title="Thionyl fluoride">F<sub>2</sub>OS</a></li>
+<li><a href="/wiki/Sodium_hydrosulfide" title="Sodium hydrosulfide">NaHS</a></li>
+<li><a href="/wiki/Potassium_sulfite" title="Potassium sulfite">K<sub>2</sub>SO<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Antimony_oxide_sulfide&amp;action=edit&amp;redlink=1" title="Antimony oxide sulfide (page does not exist)">O<sub>3</sub>S<sub>3</sub>Sb<sub>4</sub></a></li>
+<li><a href="/wiki/Ytterbium(III)_sulfate" title="Ytterbium(III) sulfate">Yb<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Potassium_alum" title="Potassium alum">AlKO<sub>8</sub>S<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Trichloromethyl_mercaptan&amp;action=edit&amp;redlink=1" title="Trichloromethyl mercaptan (page does not exist)">CHCl<sub>3</sub>S</a></li>
+<li><a href="/wiki/Potassium_thiocyanate" title="Potassium thiocyanate">KSCN</a></li>
+<li><a class="new" href="/w/index.php?title=Cadmium_sulfite&amp;action=edit&amp;redlink=1" title="Cadmium sulfite (page does not exist)">CdSO<sub>3</sub></a></li>
+<li><a href="/wiki/Thiophosphoryl_chloride" title="Thiophosphoryl chloride">PSCl<sub>3</sub></a></li>
+<li><a href="/wiki/Thionyl_chloride" title="Thionyl chloride">SOCl<sub>2</sub></a></li>
+<li><a href="/wiki/Caesium_sulfate" title="Caesium sulfate">Cs<sub>2</sub>O<sub>4</sub>S</a></li>
+<li><a class="new" href="/w/index.php?title=Rhenium(VII)_sulfate&amp;action=edit&amp;redlink=1" title="Rhenium(VII) sulfate (page does not exist)">Re<sub>2</sub>S<sub>7</sub></a></li>
+<li><a href="/wiki/Sodium_sulfide" title="Sodium sulfide">Na<sub>2</sub>S</a></li>
+<li><a href="/wiki/Potassium_sulfide" title="Potassium sulfide">K<sub>2</sub>S</a></li>
+<li><a href="/wiki/Oleum" title="Oleum">H<sub>2</sub>S<sub>2</sub>O<sub>7</sub></a></li>
+<li><a href="/wiki/Peroxymonosulfuric_acid" title="Peroxymonosulfuric acid">H<sub>2</sub>SO<sub>5</sub></a></li>
+<li><a href="/wiki/Ammonium_hydrosulfide" title="Ammonium hydrosulfide">NH<sub>5</sub>S</a></li>
+<li><a href="/wiki/Mercury(II)_sulfate" title="Mercury(II) sulfate">HgSO<sub>4</sub></a></li>
+<li><a href="/wiki/Potassium_sulfate" title="Potassium sulfate">K<sub>2</sub>SO<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Radium_sulfate&amp;action=edit&amp;redlink=1" title="Radium sulfate (page does not exist)">RaSO<sub>4</sub></a></li>
+<li><a href="/wiki/Tin(II)_sulfate" title="Tin(II) sulfate">SnSO<sub>4</sub></a></li>
+<li><a href="/wiki/Strontium_sulfate" title="Strontium sulfate">SrSO<sub>4</sub></a></li>
+<li><a href="/wiki/Zirconium(IV)_sulfate" title="Zirconium(IV) sulfate">Zr(SO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Titanium(IV)_sulfate&amp;action=edit&amp;redlink=1" title="Titanium(IV) sulfate (page does not exist)">Ti(SO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Thulium(III)_sulfate&amp;action=edit&amp;redlink=1" title="Thulium(III) sulfate (page does not exist)">Tm<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Sodium_aluminium_sulfate" title="Sodium aluminium sulfate">AlNa(SO<sub>4</sub>)<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Erbium(III)_sulfate&amp;action=edit&amp;redlink=1" title="Erbium(III) sulfate (page does not exist)">Er<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Europium(III)_sulfate&amp;action=edit&amp;redlink=1" title="Europium(III) sulfate (page does not exist)">Eu<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></a></li>
+<li><a href="/wiki/Thiocyanic_acid" title="Thiocyanic acid">CHNS</a></li>
+<li><a href="/wiki/Cobalt(II)_thiocyanate" title="Cobalt(II) thiocyanate">Co(SCN)<sub>2</sub></a></li>
+<li><a href="/wiki/Methyl_thiocyanate" title="Methyl thiocyanate">C<sub>2</sub>H<sub>3</sub>SN</a></li>
+<li><a class="new" href="/w/index.php?title=Phosphorothioc_triiodide&amp;action=edit&amp;redlink=1" title="Phosphorothioc triiodide (page does not exist)">PSI<sub>3</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Zirconium(IV)_sulfide" title="Zirconium(IV) sulfide">ZrS<sub>2</sub></a></li>
+<li><a href="/wiki/Silicon_monosulfide" title="Silicon monosulfide">SiS</a></li>
+<li><a class="new" href="/w/index.php?title=Carbon_sulfide_selenide&amp;action=edit&amp;redlink=1" title="Carbon sulfide selenide (page does not exist)">CSSe</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formulas</a></b></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20181026161146
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.812 seconds
+Real time usage: 1.061 seconds
+Preprocessor visited node count: 7694/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 216134/2097152 bytes
+Template argument size: 43966/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 30891/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.300/10.000 seconds
+Lua memory usage: 7.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  847.964      1 -total
+ 64.73%  548.892      1 Template:Chembox
+ 28.74%  243.677      1 Template:Chembox_Identifiers
+ 18.39%  155.899      6 Template:Chembox_headerbar
+ 18.19%  154.259     19 Template:Trim
+ 15.13%  128.321      1 Template:Chembox_Hazards
+ 10.90%   92.441      9 Template:Main_other
+  9.86%   83.612      1 Template:Chembox_Properties
+  9.25%   78.448      1 Template:Chembox_parametercheck
+  8.65%   73.361      4 Template:Cite_web
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:580936-0!canonical and timestamp 20181026161145 and revision id 857744487
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sulfur_trioxide&amp;oldid=857744487">https://en.wikipedia.org/w/index.php?title=Sulfur_trioxide&amp;oldid=857744487</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sulfur_oxides" title="Category:Sulfur oxides">Sulfur oxides</a></li><li><a href="/wiki/Category:Acid_anhydrides" title="Category:Acid anhydrides">Acid anhydrides</a></li><li><a href="/wiki/Category:Acidic_oxides" title="Category:Acidic oxides">Acidic oxides</a></li><li><a href="/wiki/Category:Hazardous_air_pollutants" title="Category:Hazardous air pollutants">Hazardous air pollutants</a></li><li><a href="/wiki/Category:Interchalcogens" title="Category:Interchalcogens">Interchalcogens</a></li><li><a href="/wiki/Category:Hypervalent_molecules" title="Category:Hypervalent molecules">Hypervalent molecules</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Chemical_articles_with_multiple_compound_IDs" title="Category:Chemical articles with multiple compound IDs">Chemical articles with multiple compound IDs</a></li><li><a href="/wiki/Category:Multiple_chemicals_in_an_infobox_that_need_indexing" title="Category:Multiple chemicals in an infobox that need indexing">Multiple chemicals in an infobox that need indexing</a></li><li><a href="/wiki/Category:Chemical_articles_with_multiple_PubChem_CIDs" title="Category:Chemical articles with multiple PubChem CIDs">Chemical articles with multiple PubChem CIDs</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_changed_FDA_identifier" title="Category:Articles with changed FDA identifier">Articles with changed FDA identifier</a></li><li><a href="/wiki/Category:Chembox_having_GHS_data" title="Category:Chembox having GHS data">Chembox having GHS data</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2015" title="Category:Articles with unsourced statements from April 2015">Articles with unsourced statements from April 2015</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sulfur+trioxide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sulfur+trioxide" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sulfur_trioxide" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sulfur_trioxide" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sulfur_trioxide">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sulfur_trioxide&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sulfur_trioxide&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sulfur_trioxide" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sulfur_trioxide" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sulfur_trioxide&amp;oldid=857744487" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sulfur_trioxide&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q242715" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sulfur_trioxide&amp;id=857744487" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sulfur+trioxide">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sulfur+trioxide&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sulfur_trioxide&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sulfur_trioxide" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AB%D9%84%D8%A7%D8%AB%D9%8A_%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%8A%D8%AA" hreflang="ar" lang="ar" title="ثلاثي أكسيد الكبريت – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Sulfat_anhidridi" hreflang="az" lang="az" title="Sulfat anhidridi – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D9%82%D9%88%D9%82%D8%B1%D8%AF_%D8%AA%D8%B1%DB%8C_%D8%A7%D9%88%DA%A9%D8%B3%DB%8C%D8%AF" hreflang="azb" lang="azb" title="قوقرد تری اوکسید – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%AB%E0%A6%BE%E0%A6%B0_%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%A1" hreflang="bn" lang="bn" title="সালফার ট্রাইঅক্সাইড – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%BD_%D1%82%D1%80%D0%B8%D0%BE%D0%BA%D1%81%D0%B8%D0%B4" hreflang="bg" lang="bg" title="Серен триоксид – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Sumpor-trioksid" hreflang="bs" lang="bs" title="Sumpor-trioksid – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Tri%C3%B2xid_de_sofre" hreflang="ca" lang="ca" title="Triòxid de sofre – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Oxid_s%C3%ADrov%C3%BD" hreflang="cs" lang="cs" title="Oxid sírový – Czech">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Sulphur_trioxide" hreflang="sn" lang="sn" title="Sulphur trioxide – Shona">ChiShona</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schwefeltrioxid" hreflang="de" lang="de" title="Schwefeltrioxid – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/V%C3%A4%C3%A4veltrioksiid" hreflang="et" lang="et" title="Vääveltrioksiid – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CF%81%CE%B9%CE%BF%CE%BE%CE%B5%CE%AF%CE%B4%CE%B9%CE%BF_%CF%84%CE%BF%CF%85_%CE%B8%CE%B5%CE%AF%CE%BF%CF%85" hreflang="el" lang="el" title="Τριοξείδιο του θείου – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%93xido_de_azufre_(VI)" hreflang="es" lang="es" title="Óxido de azufre (VI) – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%AF%D9%88%DA%AF%D8%B1%D8%AF_%D8%AA%D8%B1%DB%8C_%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF" hreflang="fa" lang="fa" title="گوگرد تری اکسید – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Trioxyde_de_soufre" hreflang="fr" lang="fr" title="Trioxyde de soufre – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Tr%C3%AD-ocsa%C3%ADd_Sulfair" hreflang="ga" lang="ga" title="Trí-ocsaíd Sulfair – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%82%BC%EC%82%B0%ED%99%94_%ED%99%A9" hreflang="ko" lang="ko" title="삼산화 황 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Sumporov(VI)_oksid" hreflang="hr" lang="hr" title="Sumporov(VI) oksid – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Belerang_trioksida" hreflang="id" lang="id" title="Belerang trioksida – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Anidride_solforica" hreflang="it" lang="it" title="Anidride solforica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9A%D2%AF%D0%BA%D2%AF%D1%80%D1%82_%D0%B0%D0%BD%D0%B3%D0%B8%D0%B4%D1%80%D0%B8%D0%B4%D0%B8" hreflang="ky" lang="ky" title="Күкүрт ангидриди – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/S%C4%93ra_trioks%C4%ABds" hreflang="lv" lang="lv" title="Sēra trioksīds – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Sieros_trioksidas" hreflang="lt" lang="lt" title="Sieros trioksidas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/K%C3%A9n-trioxid" hreflang="hu" lang="hu" title="Kén-trioxid – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A1%D1%83%D0%BB%D1%84%D1%83%D1%80_%D1%82%D1%80%D0%B8%D0%BE%D0%BA%D1%81%D0%B8%D0%B4" hreflang="mk" lang="mk" title="Сулфур триоксид – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zwaveltrioxide" hreflang="nl" lang="nl" title="Zwaveltrioxide – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%B8%89%E9%85%B8%E5%8C%96%E7%A1%AB%E9%BB%84" hreflang="ja" lang="ja" title="三酸化硫黄 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Svoveltrioksid" hreflang="no" lang="no" title="Svoveltrioksid – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Tritlenek_siarki" hreflang="pl" lang="pl" title="Tritlenek siarki – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%93xido_sulf%C3%BArico" hreflang="pt" lang="pt" title="Óxido sulfúrico – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Trioxid_de_sulf" hreflang="ro" lang="ro" title="Trioxid de sulf – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%B4_%D1%81%D0%B5%D1%80%D1%8B(VI)" hreflang="ru" lang="ru" title="Оксид серы(VI) – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Sulfur_trioxide" hreflang="en-simple" lang="en-simple" title="Sulfur trioxide – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Oxid_s%C3%ADrov%C3%BD" hreflang="sk" lang="sk" title="Oxid sírový – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/%C5%BDveplov_trioksid" hreflang="sl" lang="sl" title="Žveplov trioksid – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Sumpor_trioksid" hreflang="sr" lang="sr" title="Sumpor trioksid – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Sumpor_trioksid" hreflang="sh" lang="sh" title="Sumpor trioksid – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Rikkitrioksidi" hreflang="fi" lang="fi" title="Rikkitrioksidi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Svaveltrioxid" hreflang="sv" lang="sv" title="Svaveltrioxid – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt_trioksit" hreflang="tr" lang="tr" title="Kükürt trioksit – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BE%D0%BA%D1%81%D0%B8%D0%B4_%D1%81%D1%96%D1%80%D0%BA%D0%B8" hreflang="uk" lang="uk" title="Триоксид сірки – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/L%C6%B0u_hu%E1%BB%B3nh_trioxit" hreflang="vi" lang="vi" title="Lưu huỳnh trioxit – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E4%B8%89%E6%B0%A7%E5%8C%96%E7%A1%AB" hreflang="yue" lang="yue" title="三氧化硫 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%B8%89%E6%B0%A7%E5%8C%96%E7%A1%AB" hreflang="zh" lang="zh" title="三氧化硫 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q242715#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 September 2018, at 18:57<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sulfur_trioxide&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.812","walltime":"1.061","ppvisitednodes":{"value":7694,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":216134,"limit":2097152},"templateargumentsize":{"value":43966,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30891,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  847.964      1 -total"," 64.73%  548.892      1 Template:Chembox"," 28.74%  243.677      1 Template:Chembox_Identifiers"," 18.39%  155.899      6 Template:Chembox_headerbar"," 18.19%  154.259     19 Template:Trim"," 15.13%  128.321      1 Template:Chembox_Hazards"," 10.90%   92.441      9 Template:Main_other","  9.86%   83.612      1 Template:Chembox_Properties","  9.25%   78.448      1 Template:Chembox_parametercheck","  8.65%   73.361      4 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.300","limit":"10.000"},"limitreport-memusage":{"value":8065784,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20181026161146","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1333"});});</script>
+</body>
+</html>
