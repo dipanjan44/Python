@@ -1,24 +1,28 @@
 import os
 
-# 2D
-corpus_location = "/Users/dipanjan/PycharmProjects/Python/IR3/ProcessedFiles/"
-unigram_Location = "/Users/dipanjan/PycharmProjects/Python/IR3/N-Grams/PositionalUnigram"
+
+# Task3
+corpus_location = "/Users/dipanjan/PycharmProjects/Python/IR3/TestFiles/"
 slider = 5  # value of K
-term1 = "carbon"  # the first search term
-term2 = "emission"  # the second search term
+term1 = "jump"  # the first search term
+term2 = "Billion"  # the second search term
 
 
 # Read the contents of the corpus to create an index
 
 def generate_positional_unigram_file_list (corpus_location, slider, term1, term2):
     document_set = set ()
+    outfile = open ("Proximity_list" + "_" + str (slider) +"_" +term1 + "_" +term2 + ".txt", 'a+')
+    outfile.write ("documentID" + " : " + " { term1 : [positions]} , { term2 : [positions]}" +"\n")
     for filename in os.listdir (corpus_location):
         current_file = open (corpus_location + filename)
         tokens = get_tokens (current_file)
         current_file.close ()
-        outfile = open ("Proximity_list" + "_" + str (slider) + ".txt", 'a+')
-
         corpus_map_with_positions = build_positional_unigram (tokens, filename)
+        # Convert all the tokens  and search terms to lower case to handle case-insensitivity
+        corpus_map_with_positions = {k.lower (): v for k, v in corpus_map_with_positions.items ()}
+        term1=term1.lower()
+        term2=term2.lower()
 
         if (term1 in corpus_map_with_positions.keys () and term2 in corpus_map_with_positions.keys ()):
             term1_position_list = corpus_map_with_positions[term1].__getitem__ (2)
