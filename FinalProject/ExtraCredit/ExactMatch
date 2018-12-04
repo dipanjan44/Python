@@ -1,0 +1,272 @@
+import os
+import re
+import operator
+
+# This is the map where dictionary terms will be stored as keys and value will be posting list with position in the file
+dictionary = {}
+# This is the map of docId to input file name
+docIdMap = {}
+
+finalList = []
+final_rank_map = {}
+query_id=1
+
+
+def buildIndex (path):
+    docId = 1
+    fileList = [f for f in os.listdir (path) if os.path.isfile (os.path.join (path, f))]
+    fileobj = open ('frequency.txt', 'w')
+    for eachFile in fileList:
+        position = 1
+        count = 0
+        # docName = "Doc_Id_" + str(docId)
+        # docName =  str(docId)
+        docIdMap[docId] = eachFile
+        lines = [line.rstrip ('\n') for line in open (path + "/" + eachFile)]
+
+        for eachLine in lines:
+            wordList = re.split ('\W+', eachLine)
+
+            while '' in wordList:
+                wordList.remove ('')
+            for word in wordList:
+                if (word.lower () in dictionary):
+                    postingList = dictionary[word.lower ()]
+                    if (docId in postingList):
+                        postingList[docId].append (position)
+                        position = position + 1
+                    else:
+                        postingList[docId] = [position]
+                        position = position + 1
+                else:
+                    dictionary[word.lower ()] = {docId: [position]}
+                    position = position + 1
+        docId = docId + 1
+    # lengths = {key:len(value) for key,value in dictionary.iteritems()}
+    length_dict = {key: len (value) for key, value in dictionary.items ()}
+    for w in length_dict:
+        fileobj.write (w + "   |   " + str (length_dict[w]))
+        fileobj.write ("\n")
+    fileobj.close ()
+    for t in dictionary:
+        poList = dictionary[t]
+        kList = []
+        for keys in poList:
+            kList.append (keys)
+        line = "       "
+
+        for d in docIdMap:
+            if d in kList:
+                line = line + " | " + "1"
+            else:
+                line = line + " | " + "0"
+
+
+def boolean_retrival (query_terms,query_id):
+    if len (query_terms) == 1:
+        resultList = getPostingList (query_terms[0])
+        if not resultList:
+            print ("")
+            printString = "Result for the Query : " + query_terms[0]
+            print (printString)
+            print ("0 documents returned as there is no match")
+            return
+
+        else:
+            print ("")
+            printString = "Result for the Query : " + query_terms[0]
+            print (printString)
+            print ("Total documents retrieved : " + str (len (resultList)))
+            print ("The result list is " + str (resultList))
+            for items in resultList:
+                print (docIdMap[items])
+                print()
+            inverted_list=dictionary[query_terms[0]]
+            print("The inverted list for " +str(query_terms[0]) + " is : " + str(inverted_list))
+            doc_map={}
+            for entry in inverted_list.keys():
+                value= len(inverted_list[entry])
+                #print("The value is " + str(value))
+                doc_map[entry]=value
+            print ("The value of doc_map is " + str(doc_map))
+            sorted_doc_map=sorted(doc_map.items(),key=operator.itemgetter(1),reverse=True)
+            print ("The value of sorted doc_map is " + str (sorted_doc_map))
+
+            for entry in sorted_doc_map:
+                value=entry[0]
+                print ("The value is " + str (value))
+                if query_id not in final_rank_map.keys ():
+                    final_rank_map[query_id] = [value]
+                else:
+                    val = final_rank_map[query_id]
+                    val.append(value)
+                    final_rank_map[query_id] = val
+
+    else:
+        resultList = []
+        for i in range (1, len (query_terms)):
+            if (len (resultList) == 0):
+                list1 = getPostingList (query_terms[0])
+                list2 = getPostingList (query_terms[i])
+
+                if list1 is not None and list2 is not None:
+                    resultList = mergePostingList (list1,
+                                                   list2)
+                    # print("The result list is " +str(resultList))
+                else:
+                    print ("0 documents returned as there is no match")
+                    return
+            else:
+                list1 = getPostingList (query_terms[i])
+                if list1 is not None:
+                    resultList = mergePostingList (resultList, list1)
+                else:
+                    print ("0 documents returned as there is no match")
+                    return
+                # print ("The result list is ***** " + str (resultList))
+        print ("")
+        printString = "Result for the Query(AND query) :"
+        i = 1
+        for keys in query_terms:
+            if (i == len (query_terms)):
+                printString += " " + str (keys)
+            else:
+                printString += " " + str (keys) + " AND"
+                i = i + 1
+        print (printString)
+        print ("Total documents retrieved : " + str (len (resultList)))
+        positional_exact_match (resultList, query_terms, query_id)
+        print ("The result list is " + str (resultList))
+        for items in resultList:
+            print (docIdMap[items])
+
+
+def getPostingList (term):
+    if term in dictionary.keys ():
+        postingList = dictionary[term]
+        # print("The posting list is : " +str(postingList))
+        keysList = []
+        for keys in postingList:
+            keysList.append (keys)
+        keysList.sort ()
+        # print ("The keysList is : " +str(keysList))
+        return keysList
+    else:
+        return None
+
+
+def mergePostingList (list1, list2):
+    mergeResult = list (set (list1) & set (list2))
+    mergeResult.sort ()
+    #print ("The merged list is " + str (mergeResult))
+    return mergeResult
+
+
+def positional_exact_match (resultList, query_terms,query_id):
+    # print ("The resultList : " + str (resultList))
+    print ("The query terms are : " + str (query_terms))
+    pos_doc_map = {}
+    for document in resultList:
+        pos_list = []
+        count = 0
+        for term in query_terms:
+            if count < len (query_terms):
+                position_list_term = dictionary[term][document]
+                pos_list.append (position_list_term)
+                count = count + 1
+                # print ("The positions are :" + str (position_list_term))
+        pos_doc_map[document] = pos_list
+    print ("The map is :" + str (pos_doc_map))
+    for key in pos_doc_map.keys ():
+        p_list = pos_doc_map[key]
+        length = len (p_list)
+        print ("The p_list is : " + str (p_list))
+        # print ("The length of p_list is : " + str (length))
+        # print ("####### : " + str (p_list[0][0]))
+        # print ("Length of p_list[0] = " + str (len (p_list[0])))
+        loopcounter = 0
+
+        while loopcounter < len (p_list[0]):
+            flag = 1
+            value = p_list[0][loopcounter]
+            print (" The value of element : " + str (value))
+            i = 1
+            if value + 1 not in p_list[i]:
+                loopcounter = loopcounter + 1
+            else:
+                while i < length:
+                    if (i < length) and (value + 1 in p_list[i]):
+                        value = value + 1
+                        i = i + 1
+                        print (" The value is : " + str (value))
+                    else:
+                        flag = 0
+                        break
+                loopcounter = loopcounter + 1
+
+                if flag == 1:
+                    #finalList.append(key)
+                    #final_rank_map[query_id]=key
+                    if query_id not in final_rank_map.keys ():
+                        final_rank_map[query_id] = [key]
+                    else:
+                        val=final_rank_map[query_id]
+                        val.append(key)
+                        final_rank_map[query_id]=val
+
+    # print (" The final list is " + str (final_rank_map))
+    print ("The final map is : " + str (final_rank_map))
+
+
+def print_dict ():
+    # function to print the terms and posting list in the index
+    fileobj = open ("invertedIndex.txt", 'w')
+    for key in dictionary.keys ():
+        print (key + " --> " + str (dictionary[key]))
+        fileobj.write (key + " --> " + str (dictionary[key]))
+        fileobj.write ("\n")
+    fileobj.close ()
+
+
+def print_doc_list ():
+    for key in docIdMap:
+        print ("Doc ID: " + str (key) + " ==> " + str (docIdMap[key]))
+
+
+def main ():
+    # docCollectionPath = input("Enter path of text file collection : ")
+    docCollectionPath = "/Users/dipanjan/gitHub/Python-Projects/FinalProject/ExtraCredit/test-data/raw-documents/"
+    # queryFile = input("Enter path of query file : ")
+    queryFile = "/Users/dipanjan/gitHub/Python-Projects/FinalProject/ExtraCredit/test-data/query.txt"
+
+    # method to build the index
+    buildIndex (docCollectionPath)
+
+    print ("")
+    print ("Inverted Index :")
+    print_dict ()
+
+    print ("")
+    print ("Document List :")
+    print_doc_list ()
+    print ("")
+
+    # method to
+    QueryLines = [line.rstrip ('\n') for line in open (queryFile)]
+    for eachLine in QueryLines:
+        wordList = re.split ('\W+', eachLine)
+
+        while '' in wordList:
+            wordList.remove ('')
+
+        wordsInLowerCase = []
+        for word in wordList:
+            global query_id
+            wordsInLowerCase.append (word.lower ())
+            # print(str(wordsInLowerCase))
+        boolean_retrival (wordsInLowerCase,query_id)
+        query_id=query_id+1
+
+
+if __name__ == '__main__':
+    main ()
