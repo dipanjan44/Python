@@ -1,6 +1,6 @@
 import os
 import re
-import operator
+from collections import Counter
 
 # This is the map where dictionary terms will be stored as keys and value will be posting list with position in the file
 dictionary = {}
@@ -77,30 +77,22 @@ def boolean_retrival (query_terms,query_id):
             printString = "Result for the Query : " + query_terms[0]
             print (printString)
             print ("Total documents retrieved : " + str (len (resultList)))
-            print ("The result list is " + str (resultList))
-            for items in resultList:
-                print (docIdMap[items])
-                print()
+            #print ("The result list is " + str (resultList))
+            # for items in resultList:
+            #     print (docIdMap[items])
+            #     print()
             inverted_list=dictionary[query_terms[0]]
             print("The inverted list for " +str(query_terms[0]) + " is : " + str(inverted_list))
             doc_map={}
             for entry in inverted_list.keys():
                 value= len(inverted_list[entry])
-                #print("The value is " + str(value))
-                doc_map[entry]=value
-            print ("The value of doc_map is " + str(doc_map))
-            sorted_doc_map=sorted(doc_map.items(),key=operator.itemgetter(1),reverse=True)
-            print ("The value of sorted doc_map is " + str (sorted_doc_map))
-
-            for entry in sorted_doc_map:
-                value=entry[0]
-                print ("The value is " + str (value))
-                if query_id not in final_rank_map.keys ():
-                    final_rank_map[query_id] = [value]
-                else:
-                    val = final_rank_map[query_id]
-                    val.append(value)
-                    final_rank_map[query_id] = val
+                for i in range (0,value):
+                    if query_id not in final_rank_map.keys ():
+                        final_rank_map[query_id] = [entry]
+                    else:
+                        val = final_rank_map[query_id]
+                        val.append (entry)
+                        final_rank_map[query_id] = val
 
     else:
         resultList = []
@@ -136,9 +128,9 @@ def boolean_retrival (query_terms,query_id):
         print (printString)
         print ("Total documents retrieved : " + str (len (resultList)))
         positional_exact_match (resultList, query_terms, query_id)
-        print ("The result list is " + str (resultList))
-        for items in resultList:
-            print (docIdMap[items])
+        #print ("The result list is " + str (resultList))
+        # for items in resultList:
+        #     print (docIdMap[items])
 
 
 def getPostingList (term):
@@ -189,7 +181,7 @@ def positional_exact_match (resultList, query_terms,query_id):
         while loopcounter < len (p_list[0]):
             flag = 1
             value = p_list[0][loopcounter]
-            print (" The value of element : " + str (value))
+            #print (" The value of element : " + str (value))
             i = 1
             if value + 1 not in p_list[i]:
                 loopcounter = loopcounter + 1
@@ -198,7 +190,7 @@ def positional_exact_match (resultList, query_terms,query_id):
                     if (i < length) and (value + 1 in p_list[i]):
                         value = value + 1
                         i = i + 1
-                        print (" The value is : " + str (value))
+                        #print (" The value is : " + str (value))
                     else:
                         flag = 0
                         break
@@ -213,6 +205,7 @@ def positional_exact_match (resultList, query_terms,query_id):
                         val=final_rank_map[query_id]
                         val.append(key)
                         final_rank_map[query_id]=val
+
 
     # print (" The final list is " + str (final_rank_map))
     print ("The final map is : " + str (final_rank_map))
@@ -233,6 +226,19 @@ def print_doc_list ():
         print ("Doc ID: " + str (key) + " ==> " + str (docIdMap[key]))
 
 
+def getRelevantDocuments (final_rank_map):
+    for qId in final_rank_map.keys():
+        final_list = []
+        out_list=final_rank_map[qId]
+        print("The outlist is : " +str(out_list))
+        out_list.sort (key=Counter (out_list).get, reverse=True)
+        print ("The sorted outlist based on frequency is : " + str (out_list))
+        for num in out_list:
+            if num not in final_list:
+                final_list.append (num)
+        final_rank_map[qId]=final_list
+    return final_rank_map
+
 def main ():
     # docCollectionPath = input("Enter path of text file collection : ")
     docCollectionPath = "/Users/dipanjan/gitHub/Python-Projects/FinalProject/ExtraCredit/test-data/raw-documents/"
@@ -251,7 +257,7 @@ def main ():
     print_doc_list ()
     print ("")
 
-    # method to
+    # method to extract the queries and populate the dictionary with document details
     QueryLines = [line.rstrip ('\n') for line in open (queryFile)]
     for eachLine in QueryLines:
         wordList = re.split ('\W+', eachLine)
@@ -267,6 +273,9 @@ def main ():
         boolean_retrival (wordsInLowerCase,query_id)
         query_id=query_id+1
 
+    # Ranking by relevance
+    relevant_ranking=getRelevantDocuments(final_rank_map)
+    print("The relevant list is : " + str(relevant_ranking))
 
 if __name__ == '__main__':
     main ()
