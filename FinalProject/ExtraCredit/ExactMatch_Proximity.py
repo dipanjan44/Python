@@ -65,10 +65,11 @@ def print_doc_list ():
         print ("Doc ID: " + str (key) + " ==> " + str (docIdMap[key]))
 
 
-def exact_match_retrival (query_terms, query_id):
+def exact_match_postional_retrival (query_terms, query_id, slider):
     if len (query_terms) == 1:
         print ("The query terms are" + str (query_terms))
         resultList = getPostingList (query_terms[0])
+        print ("The result list is " + str (resultList))
         if not resultList:
             print ("0 documents returned as there is no match")
             return
@@ -128,8 +129,8 @@ def exact_match_retrival (query_terms, query_id):
                 i = i + 1
         # print (printString)
         # print ("Total documents retrieved : " + str (len (resultList)))
-        exact_match (resultList, query_terms, query_id)
-        # print ("The result list is " + str (resultList))
+        exact_match_proximity (resultList, query_terms, query_id, slider)
+        print ("The result list is " + str (resultList))
         # for items in resultList:
         #     print (docIdMap[items])
 
@@ -156,9 +157,17 @@ def mergePostingList (list1, list2):
 
 
 # This is for exact-match query
-def exact_match (resultList, query_terms, query_id):
+def checkinclusion (value, slider, pos_list):
+    for entry in pos_list:
+        if entry <= value + slider:
+            return 1
+    else:
+        return 0
+
+
+def exact_match_proximity (resultList, query_terms, query_id, slider):
     # print ("The resultList : " + str (resultList))
-    print ("The query terms are : " + str (query_terms))
+    # print ("The query terms are : " + str (query_terms))
     pos_doc_map = {}
     for document in resultList:
         pos_list = []
@@ -185,19 +194,19 @@ def exact_match (resultList, query_terms, query_id):
             value = p_list[0][loopcounter]
             # print (" The value of element : " + str (value))
             i = 1
-            if value + 1 not in p_list[i]:
+            checker = checkinclusion (value, slider, p_list[i])
+            if checker == 0:
                 loopcounter = loopcounter + 1
             else:
                 while i < length:
-                    if (i < length) and (value + 1 in p_list[i]):
-                        value = value + 1
+                    if (i < length) and checkinclusion (value, slider, p_list[i]) == 1:
+                        value = value + slider
                         i = i + 1
                         # print (" The value is : " + str (value))
                     else:
                         flag = 0
                         break
                 loopcounter = loopcounter + 1
-
                 if flag == 1:
                     # finalList.append(key)
                     # final_rank_map[query_id]=key
@@ -242,12 +251,12 @@ def generate_index ():
     inverted_index = {}
     counter = 1
     dir_name = os.getcwd ()
-    path = os.path.join (dir_name, 'relevant_clean_corpus_exactMatch')
+    path = os.path.join (dir_name, 'relevant_clean_corpus_exactMatch_proximity')
     # num_of_files = len (glob (os.path.join (INPUT_FOLDER, '*.txt')))
     for file in glob.glob (os.path.join (path, '*.txt')):
         head, tail = os.path.split (file)
         file_key = tail.split (".")[0]
-        #print ("The file name is " + str (file))
+        # print ("The file name is " + str (file))
         DOC_NAME.update ({counter: file_key})
         doc_id = counter
         doc = open (file, 'r').read ()
@@ -262,14 +271,14 @@ def generate_index ():
                 inverted_index[term][doc_id] += 1
         counter += 1
     total_num_of_docs = counter - 1
-    print(" The docmap is " +str(DOC_NAME))
-    return inverted_index, total_num_of_docs,DOC_NAME,DOC_LENGTH
+    print (" The docmap is " + str (DOC_NAME))
+    return inverted_index, total_num_of_docs, DOC_NAME, DOC_LENGTH
 
 
-def generate_doc_bm25_score (query, inverted_index, total_num_of_docs, relevant_list,DOC_NAME,DOC_LENGTH):
+def generate_doc_bm25_score (query, inverted_index, total_num_of_docs, relevant_list, DOC_NAME, DOC_LENGTH):
     query_term_freq = {}
     query_term_list = query.split ()
-    print("The query term list is " +str(query_term_list))
+    print ("The query term list is " + str (query_term_list))
     reduced_inverted_index = {}  # this inverted_index contains only those terms which are present in query
     for term in query_term_list:
         if term not in query_term_freq.keys ():
@@ -282,7 +291,7 @@ def generate_doc_bm25_score (query, inverted_index, total_num_of_docs, relevant_
             reduced_inverted_index.update ({term: inverted_index[term]})
         else:
             reduced_inverted_index.update ({term: {}})
-    process_score (query_term_freq, reduced_inverted_index, total_num_of_docs, relevant_list,DOC_NAME,DOC_LENGTH)
+    process_score (query_term_freq, reduced_inverted_index, total_num_of_docs, relevant_list, DOC_NAME, DOC_LENGTH)
 
 
 def get_relevant_numb (doc_list, relevant_list):
@@ -293,7 +302,7 @@ def get_relevant_numb (doc_list, relevant_list):
     return counter
 
 
-def calculate_BM25 (n, f, qf, r, N, dl, R,DOC_LENGTH):
+def calculate_BM25 (n, f, qf, r, N, dl, R, DOC_LENGTH):
     AVDL = generate_avdl (DOC_LENGTH)
     k1 = 1.2
     k2 = 100
@@ -305,7 +314,7 @@ def calculate_BM25 (n, f, qf, r, N, dl, R,DOC_LENGTH):
     return first * second * third
 
 
-def process_score (query_term, inverted_index, N, relevant_list,DOC_NAME,DOC_LENGTH):
+def process_score (query_term, inverted_index, N, relevant_list, DOC_NAME, DOC_LENGTH):
     doc_score = {}
     R = len (relevant_list)
     for term in inverted_index:  # inverted_index.keys() and query_term.keys() are same
@@ -317,7 +326,7 @@ def process_score (query_term, inverted_index, N, relevant_list,DOC_NAME,DOC_LEN
             f = inverted_index[term][doc_id]
             if doc_id in DOC_LENGTH.keys ():
                 dl = DOC_LENGTH[doc_id]
-            score = abs(calculate_BM25 (n, f, qf, r, N, dl, R,DOC_LENGTH))
+            score = calculate_BM25 (n, f, qf, r, N, dl, R, DOC_LENGTH)
             if doc_id in doc_score:
                 total_score = doc_score[doc_id] + score
                 doc_score.update ({doc_id: total_score})
@@ -325,13 +334,13 @@ def process_score (query_term, inverted_index, N, relevant_list,DOC_NAME,DOC_LEN
                 doc_score.update ({doc_id: score})
     sorted_doc_score = sorted (doc_score.items (), key=operator.itemgetter (1), reverse=True)
     print (" The sorted doc_score is " + str (sorted_doc_score))
-    write_doc_score (sorted_doc_score,DOC_NAME)
+    write_doc_score (sorted_doc_score, DOC_NAME)
 
 
-def write_doc_score (sorted_doc_score,DOC_NAME):
+def write_doc_score (sorted_doc_score, DOC_NAME):
     if (len (sorted_doc_score) > 0):
-        out_file = open ("Relevant_doc_exactmatch.txt", 'a')
-        #print (" The outfile is " + str (out_file))
+        out_file = open ("Relevant_doc_exactmatch_proximity.txt", 'a')
+        # print (" The outfile is " + str (out_file))
         for i in range (min (100, len (sorted_doc_score))):
             doc_id, doc_score = sorted_doc_score[i]
             out_file.write (str (QUERY_ID) + " Q0 " + DOC_NAME[doc_id] + " " + str (i + 1) + " " + str (
@@ -382,6 +391,7 @@ def main ():
     print ("Document List :")
     print_doc_list ()
     print ("")
+    slider = 5
 
     # method to extract the queries and populate the dictionary with document details
     QueryLines = [line.rstrip ('\n') for line in open (queryFile)]
@@ -393,16 +403,16 @@ def main ():
         for word in wordList:
             global query_id
             wordsInLowerCase.append (word.lower ())
-            print (str (wordsInLowerCase))
-        exact_match_retrival (wordsInLowerCase, query_id)
+            # print (str (wordsInLowerCase))
+        exact_match_postional_retrival (wordsInLowerCase, query_id, slider)
         query_map[query_id] = wordsInLowerCase
         # print(" The query map is " +str(query_map))
         query_id = query_id + 1
 
     # Ranking by relevance
     relevant_documents = getRelevantDocuments (final_rank_map)
-    print ("The relevant document list  is : " + str (relevant_documents))
-    print (" The final rank map is " + str (final_rank_map))
+    # print ("The relevant document list  is : " + str (relevant_documents))
+    # print (" The final rank map is " + str (final_rank_map))
     # copy the relevant documents to input folder for BM25
     for key in final_rank_map.keys ():
         query_term_list = query_map[key]
@@ -413,13 +423,13 @@ def main ():
         query_file.write (query)
         print ("The reconstructed query is " + query)
         doc_list = final_rank_map.get (key)
-        shutil.rmtree ('relevant_clean_corpus_exactMatch', ignore_errors=True)
-        os.mkdir ('relevant_clean_corpus_exactMatch')
+        shutil.rmtree ('relevant_clean_corpus_exactMatch_proximity', ignore_errors=True)
+        os.mkdir ('relevant_clean_corpus_exactMatch_proximity')
         for entry in doc_list:
             filename = entry
-            print ("The filename is " + str (filename))
-            shutil.copy2 (os.path.join (docCollectionPath, filename), 'relevant_clean_corpus_exactMatch')
-        inputfolder = os.path.join (os.getcwd (), 'relevant_clean_corpus_exactMatch')
+            # print ("The filename is " + str (filename))
+            shutil.copy2 (os.path.join (docCollectionPath, filename), 'relevant_clean_corpus_exactMatch_proximity')
+        inputfolder = os.path.join (os.getcwd (), 'relevant_clean_corpus_exactMatch_proximity')
         inputqueryfile = os.path.join (os.getcwd (), 'queryFile.txt')
         global QUERY_ID
         inverted_index, total_num_of_docs, DOC_NAME, DOC_LENGTH = generate_index ()
@@ -428,7 +438,9 @@ def main ():
         for query in query_file.readlines ():
             QUERY_ID += 1
             relevant_list = get_relevant_list (DOC_NAME)
-            generate_doc_bm25_score (query, inverted_index, total_num_of_docs, relevant_list,DOC_NAME,DOC_LENGTH)
+            generate_doc_bm25_score (query, inverted_index, total_num_of_docs, relevant_list, DOC_NAME, DOC_LENGTH)
+
+    print (" The final rank map is " + str (final_rank_map))
 
 
 if __name__ == '__main__':

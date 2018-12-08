@@ -3,6 +3,7 @@ import operator
 import os
 import re
 import shutil
+from collections import Counter
 from math import log
 
 # This is the map where dictionary terms will be stored as keys and value will be posting list with position in the file
@@ -11,9 +12,10 @@ dictionary = {}
 docIdMap = {}
 finalList = []
 query_map = {}
+final_rank_map = {}
 relevent_doc_map = {}
 query_id = 1
-
+docCollectionPath = "/Users/dipanjan/gitHub/Python-Projects/FinalProject/ExtraCredit/test-data/raw-documents1/"
 # Parameters for BM25 calculation
 CURRENT_DIRECTORY = os.getcwd ()
 QUERY_ID = 0
@@ -22,12 +24,8 @@ QUERY_ID = 0
 def buildIndex (path):
     docId = 1
     fileList = [f for f in os.listdir (path) if os.path.isfile (os.path.join (path, f))]
-    fileobj = open ('frequency.txt', 'w')
     for eachFile in fileList:
         position = 1
-        count = 0
-        # docName = "Doc_Id_" + str(docId)
-        # docName =  str(docId)
         docIdMap[docId] = eachFile
         lines = [line.rstrip ('\n') for line in open (path + "/" + eachFile)]
 
@@ -51,8 +49,8 @@ def buildIndex (path):
         docId = docId + 1
 
 
+# function to print the terms and posting list in the index
 def print_dict ():
-    # function to print the terms and posting list in the index
     fileobj = open ("invertedIndex.txt", 'w')
     for key in dictionary.keys ():
         print (key + " --> " + str (dictionary[key]))
@@ -61,44 +59,85 @@ def print_dict ():
     fileobj.close ()
 
 
+# The mapping for the document and documentID
 def print_doc_list ():
     for key in docIdMap:
         print ("Doc ID: " + str (key) + " ==> " + str (docIdMap[key]))
 
 
-def getRelevantDocuments (relevent_doc_map):
-    for entry in relevent_doc_map.keys ():
-        doc_list = []
-        doc_list = relevent_doc_map.get (entry)
+def exact_match_retrival (query_terms, query_id):
+    if len (query_terms) == 1:
+        print ("The query terms are" + str (query_terms))
+        resultList = getPostingList (query_terms[0])
+        if not resultList:
+            print ("0 documents returned as there is no match")
+            return
 
-        for i in range (0, len (doc_list)):
-            value = doc_list[i]
-            doc_name = docIdMap.get (value)
-            doc_list[i] = doc_name
-        relevent_doc_map[entry] = doc_list
-    return relevent_doc_map
+        else:
+            # print ("")
+            printString = "Result for the Query : " + query_terms[0]
+            # print (printString)
+            # print ("Total documents retrieved : " + str (len (resultList)))
+            # print ("The result list is " + str (resultList))
+            # for items in resultList:
+            #     print (docIdMap[items])
+            #     print()
+            inverted_list = dictionary[query_terms[0]]
+            # print ("The inverted list for " + str (query_terms[0]) + " is : " + str (inverted_list))
+            doc_map = {}
+            for entry in inverted_list.keys ():
+                value = len (inverted_list[entry])
+                for i in range (0, value):
+                    if query_id not in final_rank_map.keys ():
+                        final_rank_map[query_id] = [entry]
+                    else:
+                        val = final_rank_map[query_id]
+                        val.append (entry)
+                        final_rank_map[query_id] = val
 
-
-def best_match_retrival (query, query_id):
-    all_docs = getalldocuments (query)
-    if all_docs is not None:
-        relevent_doc_map[query_id] = all_docs
     else:
-        print ("There are no documents in the corpus for the given query")
+        resultList = []
+        for i in range (1, len (query_terms)):
+            if (len (resultList) == 0):
+                list1 = getPostingList (query_terms[0])
+                list2 = getPostingList (query_terms[i])
 
-
-def getalldocuments (query):
-    result = []
-    for term in query:
-        if getPostingList (term) is not None:
-            result += getPostingList (term)
-    return list (set (result))
+                if list1 is not None and list2 is not None:
+                    resultList = mergePostingList (list1,
+                                                   list2)
+                    # print("The result list is " +str(resultList))
+                else:
+                    print ("0 documents returned as there is no match")
+                    return
+            else:
+                list1 = getPostingList (query_terms[i])
+                if list1 is not None:
+                    resultList = mergePostingList (resultList, list1)
+                else:
+                    print ("0 documents returned as there is no match")
+                    return
+                # print ("The result list is ***** " + str (resultList))
+        # print ("")
+        printString = "Result for the Query(AND query) :"
+        i = 1
+        for keys in query_terms:
+            if (i == len (query_terms)):
+                printString += " " + str (keys)
+            else:
+                printString += " " + str (keys) + " AND"
+                i = i + 1
+        # print (printString)
+        # print ("Total documents retrieved : " + str (len (resultList)))
+        exact_match (resultList, query_terms, query_id)
+        # print ("The result list is " + str (resultList))
+        # for items in resultList:
+        #     print (docIdMap[items])
 
 
 def getPostingList (term):
     if term in dictionary.keys ():
         postingList = dictionary[term]
-        # print("The term is : " + str(term) + " => and posting list is : " +str(postingList))
+        # print("The posting list is : " +str(postingList))
         keysList = []
         for keys in postingList:
             keysList.append (keys)
@@ -109,6 +148,93 @@ def getPostingList (term):
         return None
 
 
+def mergePostingList (list1, list2):
+    mergeResult = list (set (list1) & set (list2))
+    mergeResult.sort ()
+    # print ("The merged list is " + str (mergeResult))
+    return mergeResult
+
+
+# This is for exact-match query
+def exact_match (resultList, query_terms, query_id):
+    # print ("The resultList : " + str (resultList))
+    print ("The query terms are : " + str (query_terms))
+    pos_doc_map = {}
+    for document in resultList:
+        pos_list = []
+        count = 0
+        for term in query_terms:
+            if count < len (query_terms):
+                position_list_term = dictionary[term][document]
+                pos_list.append (position_list_term)
+                count = count + 1
+                # print ("The positions are :" + str (position_list_term))
+        pos_doc_map[document] = pos_list
+    # print ("The map is :" + str (pos_doc_map))
+    for key in pos_doc_map.keys ():
+        p_list = pos_doc_map[key]
+        length = len (p_list)
+        # print ("The p_list is : " + str (p_list))
+        # print ("The length of p_list is : " + str (length))
+        # print ("####### : " + str (p_list[0][0]))
+        # print ("Length of p_list[0] = " + str (len (p_list[0])))
+        loopcounter = 0
+
+        while loopcounter < len (p_list[0]):
+            flag = 1
+            value = p_list[0][loopcounter]
+            # print (" The value of element : " + str (value))
+            i = 1
+            if value + 1 not in p_list[i]:
+                loopcounter = loopcounter + 1
+            else:
+                while i < length:
+                    if (i < length) and (value + 1 in p_list[i]):
+                        value = value + 1
+                        i = i + 1
+                        # print (" The value is : " + str (value))
+                    else:
+                        flag = 0
+                        break
+                loopcounter = loopcounter + 1
+
+                if flag == 1:
+                    # finalList.append(key)
+                    # final_rank_map[query_id]=key
+                    if query_id not in final_rank_map.keys ():
+                        final_rank_map[query_id] = [key]
+                    else:
+                        val = final_rank_map[query_id]
+                        val.append (key)
+                        final_rank_map[query_id] = val
+
+    print ("The final map is : " + str (final_rank_map))
+
+
+def getRelevantDocuments (final_rank_map):
+    for qId in final_rank_map.keys ():
+        final_list = []
+        out_list = final_rank_map[qId]
+        # print("The outlist is : " +str(out_list))
+        out_list.sort (key=Counter (out_list).get, reverse=True)
+        # print ("The sorted outlist based on frequency is : " + str (out_list))
+        for num in out_list:
+            if num not in final_list:
+                final_list.append (num)
+        final_rank_map[qId] = final_list
+
+    for entry in final_rank_map.keys ():
+        doc_list = []
+        doc_list = final_rank_map.get (entry)
+
+        for i in range (0, len (doc_list)):
+            value = doc_list[i]
+            doc_name = docIdMap.get (value)
+            doc_list[i] = doc_name
+        final_rank_map[entry] = doc_list
+    return final_rank_map
+
+
 # BM25 calculation
 def generate_index ():
     DOC_NAME = {}  # mapping doc name and ids
@@ -116,7 +242,7 @@ def generate_index ():
     inverted_index = {}
     counter = 1
     dir_name = os.getcwd ()
-    path = os.path.join (dir_name, 'relevant_clean_corpus_bestMatch')
+    path = os.path.join (dir_name, 'relevant_clean_corpus_exactMatch')
     # num_of_files = len (glob (os.path.join (INPUT_FOLDER, '*.txt')))
     for file in glob.glob (os.path.join (path, '*.txt')):
         head, tail = os.path.split (file)
@@ -204,7 +330,7 @@ def process_score (query_term, inverted_index, N, relevant_list, DOC_NAME, DOC_L
 
 def write_doc_score (sorted_doc_score, DOC_NAME):
     if (len (sorted_doc_score) > 0):
-        out_file = open ("Relevant_doc_bestmatch.txt", 'a')
+        out_file = open ("Relevant_doc_exactmatch.txt", 'a')
         # print (" The outfile is " + str (out_file))
         for i in range (min (100, len (sorted_doc_score))):
             doc_id, doc_score = sorted_doc_score[i]
@@ -239,16 +365,16 @@ def generate_avdl (DOC_LENGTH):
         sum += DOC_LENGTH[doc_id]
     return (float (sum) / float (len (DOC_LENGTH)))
 
+
 ## End of BM25 calculation
 
 def main ():
     # docCollectionPath = input("Enter path of text file collection : ")
-    docCollectionPath = "/Users/dipanjan/gitHub/Python-Projects/FinalProject/ExtraCredit/test-data/raw-documents/"
+    docCollectionPath = "/Users/dipanjan/gitHub/Python-Projects/FinalProject/ExtraCredit/test-data/raw-documents1/"
     # queryFile = input("Enter path of query file : ")
-    queryFile = "/Users/dipanjan/gitHub/Python-Projects/FinalProject/ExtraCredit/test-data/query.txt"
+    queryFile = "/Users/dipanjan/gitHub/Python-Projects/FinalProject/ExtraCredit/test-data/query1.txt"
     # method to build the index
     buildIndex (docCollectionPath)
-
     print ("")
     print ("Inverted Index :")
     print_dict ()
@@ -261,42 +387,39 @@ def main ():
     QueryLines = [line.rstrip ('\n') for line in open (queryFile)]
     for eachLine in QueryLines:
         wordList = re.split ('\W+', eachLine)
-
         while '' in wordList:
             wordList.remove ('')
-
         wordsInLowerCase = []
         for word in wordList:
             global query_id
             wordsInLowerCase.append (word.lower ())
-            # print(str(wordsInLowerCase))
-        best_match_retrival (wordsInLowerCase, query_id)
+            print (str (wordsInLowerCase))
+        exact_match_retrival (wordsInLowerCase, query_id)
         query_map[query_id] = wordsInLowerCase
+        # print(" The query map is " +str(query_map))
         query_id = query_id + 1
 
     # Ranking by relevance
-    relevant_documents = getRelevantDocuments (relevent_doc_map)
+    relevant_documents = getRelevantDocuments (final_rank_map)
     print ("The relevant document list  is : " + str (relevant_documents))
+    print (" The final rank map is " + str (final_rank_map))
     # copy the relevant documents to input folder for BM25
-    for key in relevent_doc_map.keys ():
-        print (" I am here")
+    for key in final_rank_map.keys ():
         query_term_list = query_map[key]
         query = ""
         for term in query_term_list:
             query += term + " "
-        print (" The query is " + str (query))
         query_file = open ("queryFile.txt", "w")
         query_file.write (query)
         print ("The reconstructed query is " + query)
-        doc_list = relevent_doc_map.get (key)
-        print ("The doc_list is " + str (doc_list))
-        shutil.rmtree ('relevant_clean_corpus_bestMatch', ignore_errors=True)
-        os.mkdir ('relevant_clean_corpus_bestMatch')
+        doc_list = final_rank_map.get (key)
+        shutil.rmtree ('relevant_clean_corpus_exactMatch', ignore_errors=True)
+        os.mkdir ('relevant_clean_corpus_exactMatch')
         for entry in doc_list:
             filename = entry
             print ("The filename is " + str (filename))
-            shutil.copy2 (os.path.join (docCollectionPath, filename), 'relevant_clean_corpus_bestMatch')
-        inputfolder = os.path.join (os.getcwd (), 'relevant_clean_corpus_bestMatch')
+            shutil.copy2 (os.path.join (docCollectionPath, filename), 'relevant_clean_corpus_exactMatch')
+        inputfolder = os.path.join (os.getcwd (), 'relevant_clean_corpus_exactMatch')
         inputqueryfile = os.path.join (os.getcwd (), 'queryFile.txt')
         global QUERY_ID
         inverted_index, total_num_of_docs, DOC_NAME, DOC_LENGTH = generate_index ()
