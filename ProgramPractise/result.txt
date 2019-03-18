@@ -1,0 +1,24 @@
+<Firmware vector>
+<block>
+Apu id=1 
+Dfffggg
+</block>
+<block>
+Acton id=2 
+Ddggdgdgdg
+</block>
+<block>
+Acton id=3 
+Ddggdgdgdg
+</block>
+<block>
+Dipanjan id=4 
+aaaaaa
+Vvvvvvv
+Xxxxxxx
+</block>
+<block>
+Lopa id=5 
+Eeeee
+</block>
+</Firmware Vector>

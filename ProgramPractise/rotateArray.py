@@ -15,6 +15,7 @@ def rightShift (inputList, noOfMoves):
     return inputList
 
 def main():
+
     inputList=[1,2,3,4,5,6,7,8,9]
     noOfMoves=4
     print(leftShift(inputList,noOfMoves))
